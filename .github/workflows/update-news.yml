@@ -3,7 +3,7 @@ name: Update Market News
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"  # 매 1시간마다 실행 (1일 24회 × 4번 분할호출 = 96회/100회 한도 안전)
+    - cron: "5 * * * *"  # 매시 5분에 실행 (정각 트래픽 몰림 방지 및 API 한도 준수)
 
 permissions:
   contents: write
@@ -28,7 +28,7 @@ jobs:
           token = os.environ.get("MARKETAUX_API_TOKEN", "")
           target_symbols = ["SPY","QQQ","DIA","AAPL","MSFT","NVDA","MSTR","PLTR","AMSC","GOOGL","AMZN","META","TSLA","SMH","SOXX"]
           
-          # API 한도에 맞춰 4개씩 쪼개기 (1시간 주기로 실행 시 일일 96회 호출로 제한 내 동작)
+          # API 무료 플랜 제한에 맞춰 4개씩 분할 요청
           chunks = [target_symbols[i:i + 4] for i in range(0, len(target_symbols), 4)]
           
           raw_articles = []
@@ -140,5 +140,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add news.json
-          git diff --cached --quiet || git commit -m "Update market news (1 hour interval, chunked by 4)"
+          git diff --cached --quiet || git commit -m "Update market news (Cron at :05)"
           git push
