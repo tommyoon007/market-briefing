@@ -273,7 +273,7 @@
 
   <script>
     const defaultTickers = [
-      "AAPL", "MSFT", "SMH", "GOOGL", "AMZN", "SOXX", "META", "MSTR",
+      "AAPL", "MSFT", "TSLA", "SMH", "GOOGL", "AMZN", "SOXX", "META", "MSTR",
       "DIS", "MRK", "NVDA", "AVGO", "V", "MA", "INTC", "KO",
       "MORT", "BMNR", "MP", "AMSC", "GFUZ", "DKNG", "AMADA", "PLTR",
       "MCD", "NFLX", "DJT", "CEG", "USD", "KRW"
@@ -435,7 +435,11 @@
     }
 
     function renderAllNews() {
-      renderNewsList(newsData.market_news || [], marketNewsContainer, false);
+      let marketArticles = newsData.market_news || [];
+      if (marketArticles.length === 0 && (newsData.portfolio_news || []).length > 0) {
+        marketArticles = newsData.portfolio_news;
+      }
+      renderNewsList(marketArticles, marketNewsContainer, false);
       renderNewsList(newsData.portfolio_news || [], portfolioNewsContainer, true);
     }
 
