@@ -1,8 +1,32 @@
 {
-  "updated_at": "2026-09-04T10:16:34.684436+00:00",
+  "updated_at": "2026-09-04T10:42:58.215594+00:00",
   "status": "ok",
   "market_news": [],
   "portfolio_news": [
+    {
+      "title": "Why Elon Musk Net Worth Figures Never Match",
+      "title_ko": "Why Elon Musk Net Worth Figures Never Match",
+      "snippet": "82% of Elon Musk’s Wealth Sits in One Stock He Can’t Sell, Which Is Why the Trackers Never Agree\n\nAsk what Elon Musk is worth and you will get a different a...",
+      "snippet_ko": "82% of Elon Musk’s Wealth Sits in One Stock He Can’t Sell, Which Is Why the Trackers Never Agree\n\nAsk what Elon Musk is worth and you will get a different a...",
+      "symbol": "TSLA",
+      "sentiment_score": 0.227,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/why-elon-musk-net-worth-trackers-disagree/",
+      "cross_verified": false,
+      "published_at": "2026-09-04T10:10:21.000000Z"
+    },
+    {
+      "title": "Gotta Catch ‘Em All: A Guide to Building A Diverse Dividend Portfolio",
+      "title_ko": "Gotta Catch ‘Em All: A Guide to Building A Diverse Dividend Portfolio",
+      "snippet": "The announcement that the 2027 Pokémon World Championships will take place right here in Singapore sent a wave of nostalgia through local fans.\n\nFor decades, t...",
+      "snippet_ko": "The announcement that the 2027 Pokémon World Championships will take place right here in Singapore sent a wave of nostalgia through local fans.\n\nFor decades, t...",
+      "symbol": "CPAMF",
+      "sentiment_score": 0.743,
+      "source": "thesmartinvestor.com.sg",
+      "url": "https://thesmartinvestor.com.sg/gotta-catch-em-all-a-guide-to-building-a-diverse-dividend-portfolio/",
+      "cross_verified": false,
+      "published_at": "2026-09-04T09:30:00.000000Z"
+    },
     {
       "title": "Meta: Doesn't Have A Path For Shareholder Returns (Rating Downgrade) (NASDAQ:META)",
       "title_ko": "Meta: Doesn't Have A Path For Shareholder Returns (Rating Downgrade) (NASDAQ:META)",
@@ -12,6 +36,7 @@
       "sentiment_score": 0,
       "source": "seekingalpha.com",
       "url": "https://seekingalpha.com/article/4943050-meta-doesnt-have-a-path-for-shareholder-returns-rating-downgrade",
+      "cross_verified": false,
       "published_at": "2026-09-04T09:05:30.000000Z"
     },
     {
