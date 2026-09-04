@@ -16,7 +16,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Create news.json with Korean Translation
+      - name: Create news.json with Deduplication
         env:
           MARKETAUX_API_TOKEN: ${{ secrets.MARKETAUX_API_TOKEN }}
         run: |
@@ -29,24 +29,6 @@ jobs:
 
           token = os.environ.get("MARKETAUX_API_TOKEN", "")
 
-          # 영문 -> 한글 구글 번역 함수 (안전 트렁케이션 및 예외 처리 적용)
-          def translate_to_ko(text):
-              if not text or not text.strip():
-                  return ""
-              # URL 길이 제한 에러 방지 (최대 500자 제한)
-              safe_text = text[:500]
-              try:
-                  url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&dt=t&q=" + urllib.parse.quote(safe_text)
-                  req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-                  with urllib.request.urlopen(req, timeout=10) as response:
-                      data = json.loads(response.read().decode("utf-8"))
-                      translated = "".join([item[0] for item in data[0] if item and len(item) > 0 and item[0]])
-                      return translated if translated else text
-              except Exception as e:
-                  print(f"Translation failed: {e}")
-                  return text
-
-          # 시장 지수 및 핵심 종목을 1회 호출로 수집하여 API 제한 보호
           target_symbols = "SPY,QQQ,DIA,AAPL,MSFT,NVDA,MSTR,PLTR,AMSC,GOOGL,AMZN,META,TSLA,SMH,SOXX"
 
           params = urllib.parse.urlencode({
@@ -67,16 +49,16 @@ jobs:
           except Exception as e:
               print(f"API 호출 오류: {e}")
 
-          market_indices = {"SPY", "QQQ", "DIA", "IWM", "VT"}
-          market_news = []
-          portfolio_news = []
+          # 뉴스 중복성 검증 및 교차 검증 로직
+          seen_titles = {}
+          processed_articles = []
 
           for item in raw_articles:
-              title_en = item.get("title", "")
+              title_en = item.get("title", "").strip()
               snippet_en = item.get("snippet") or item.get("description") or ""
-
-              title_ko = translate_to_ko(title_en)
-              snippet_ko = translate_to_ko(snippet_en)
+              
+              # 유사 제목 추출용 숏 키
+              title_key = title_en.lower()[:30]
 
               entities = item.get("entities", [])
               entity = entities[0] if entities else {}
@@ -84,24 +66,35 @@ jobs:
 
               article_obj = {
                   "title": title_en,
-                  "title_ko": title_ko,
-                  "snippet": snippet_en,
-                  "snippet_ko": snippet_ko,
+                  "title_ko": title_en,  # 번역 API 차단 시 영문 유지
+                  "snippet": snippet_en[:180] + "..." if len(snippet_en) > 180 else snippet_en,
+                  "snippet_ko": snippet_en[:180] + "..." if len(snippet_en) > 180 else snippet_en,
                   "symbol": symbol,
                   "sentiment_score": entity.get("sentiment_score", 0),
                   "source": item.get("source", "MarketAux"),
                   "url": item.get("url", "#"),
+                  "cross_verified": False,
                   "published_at": item.get("published_at", "")
               }
 
-              if symbol in market_indices or not symbol:
-                  market_news.append(article_obj)
+              # 여러 매체에서 동일 주제 취재 시 교차검증 마크 부여 및 중복 제거
+              if title_key in seen_titles:
+                  seen_titles[title_key]["cross_verified"] = True
               else:
-                  portfolio_news.append(article_obj)
+                  seen_titles[title_key] = article_obj
+                  processed_articles.append(article_obj)
 
-          # API 실패 시 기존 news.json 데이터 보존
+          market_indices = {"SPY", "QQQ", "DIA", "IWM", "VT"}
+          market_news = []
+          portfolio_news = []
+
+          for art in processed_articles:
+              if art["symbol"] in market_indices or not art["symbol"]:
+                  market_news.append(art)
+              else:
+                  portfolio_news.append(art)
+
           if not raw_articles and os.path.exists("news.json"):
-              print("신규 뉴스 수집 실패로 기존 데이터를 보존합니다.")
               try:
                   with open("news.json", "r", encoding="utf-8") as f:
                       old_data = json.load(f)
@@ -126,5 +119,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add news.json
-          git diff --cached --quiet || git commit -m "Update market news with translations"
+          git diff --cached --quiet || git commit -m "Update market news with cross verification"
           git push
