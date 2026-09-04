@@ -3,7 +3,7 @@ name: Update Market News
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"  # 매 30분마다 실행
+    - cron: "0 * * * *"  # 매 1시간마다 실행 (1일 24회 × 4번 분할호출 = 96회 차감 / 100회 제한 통과)
 
 permissions:
   contents: write
@@ -16,43 +16,47 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Create news.json with Deduplication and Accumulation
+      - name: Fetch News and Accumulate
         env:
           MARKETAUX_API_TOKEN: ${{ secrets.MARKETAUX_API_TOKEN }}
         run: |
           python - <<'PY'
-          import json
-          import os
-          import urllib.parse
-          import urllib.request
+          import json, os, time
+          import urllib.parse, urllib.request, urllib.error
           from datetime import datetime, timezone
 
           token = os.environ.get("MARKETAUX_API_TOKEN", "")
-
-          # 주요 시장 지수 및 핵심 관심 종목
-          target_symbols = "SPY,QQQ,DIA,AAPL,MSFT,NVDA,MSTR,PLTR,AMSC,GOOGL,AMZN,META,TSLA,SMH,SOXX"
-          target_set = set(target_symbols.split(","))
-
-          params = urllib.parse.urlencode({
-              "api_token": token,
-              "language": "en",
-              "symbols": target_symbols,
-              "limit": 50
-          })
-
-          url = "https://api.marketaux.com/v1/news/all?" + params
-          req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-
+          target_symbols = ["SPY","QQQ","DIA","AAPL","MSFT","NVDA","MSTR","PLTR","AMSC","GOOGL","AMZN","META","TSLA","SMH","SOXX"]
+          
+          # 일일 100회 한도에 맞추기 위해 4개씩 4그룹으로 쪼개기 (1시간마다 실행 시 총 96회 호출)
+          chunks = [target_symbols[i:i + 4] for i in range(0, len(target_symbols), 4)]
+          
           raw_articles = []
-          try:
-              with urllib.request.urlopen(req, timeout=25) as resp:
-                  if resp.status == 200:
-                      raw_articles = json.loads(resp.read().decode("utf-8")).get("data", [])
-          except Exception as e:
-              print(f"API 호출 오류: {e}")
+          for chunk in chunks:
+              params = urllib.parse.urlencode({
+                  "api_token": token,
+                  "language": "en",
+                  "symbols": ",".join(chunk),
+                  "limit": 50
+              })
+              url = "https://api.marketaux.com/v1/news/all?" + params
+              req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+              
+              try:
+                  with urllib.request.urlopen(req, timeout=25) as resp:
+                      if resp.status == 200:
+                          data = json.loads(resp.read().decode("utf-8")).get("data", [])
+                          raw_articles.extend(data)
+              except urllib.error.HTTPError as e:
+                  print(f"API 오류 ({','.join(chunk)}): {e.code} - {e.read().decode('utf-8')}")
+              except Exception as e:
+                  print(f"네트워크 오류: {e}")
+              
+              time.sleep(1)
 
           seen_titles = {}
           processed_articles = []
+          target_set = set(target_symbols)
 
           for item in raw_articles:
               title_en = item.get("title", "").strip()
@@ -75,12 +79,10 @@ jobs:
                   sentiment_score = entities[0].get("sentiment_score", 0)
 
               article_obj = {
-                  "title": title_en,
-                  "title_ko": title_en,
+                  "title": title_en, "title_ko": title_en,
                   "snippet": snippet_en[:180] + "..." if len(snippet_en) > 180 else snippet_en,
                   "snippet_ko": snippet_en[:180] + "..." if len(snippet_en) > 180 else snippet_en,
-                  "symbol": symbol,
-                  "sentiment_score": sentiment_score,
+                  "symbol": symbol, "sentiment_score": sentiment_score,
                   "source": item.get("source", "MarketAux"),
                   "url": item.get("url", "#"),
                   "cross_verified": False,
@@ -94,8 +96,7 @@ jobs:
                   processed_articles.append(article_obj)
 
           market_indices = {"SPY", "QQQ", "DIA", "IWM", "VT"}
-          new_market_news = []
-          new_portfolio_news = []
+          new_market_news, new_portfolio_news = [], []
 
           for art in processed_articles:
               if art["symbol"] in market_indices or not art["symbol"]:
@@ -103,21 +104,14 @@ jobs:
               else:
                   new_portfolio_news.append(art)
 
-          if not new_market_news and new_portfolio_news:
-              new_market_news = new_portfolio_news[:5]
-
-          old_market_news = []
-          old_portfolio_news = []
+          old_data = {}
           if os.path.exists("news.json"):
               try:
                   with open("news.json", "r", encoding="utf-8") as f:
                       old_data = json.load(f)
-                      old_market_news = old_data.get("market_news", [])
-                      old_portfolio_news = old_data.get("portfolio_news", [])
-              except Exception:
-                  pass
+              except Exception: pass
 
-          def merge_articles(new_list, old_list, max_limit=100):
+          def merge_articles(new_list, old_list, max_limit=200):
               seen_urls = {art.get("url") for art in new_list if art.get("url")}
               combined = list(new_list)
               for art in old_list:
@@ -127,12 +121,8 @@ jobs:
                       seen_urls.add(url)
               return combined[:max_limit]
 
-          if raw_articles:
-              market_news = merge_articles(new_market_news, old_market_news, max_limit=100)
-              portfolio_news = merge_articles(new_portfolio_news, old_portfolio_news, max_limit=100)
-          else:
-              market_news = old_market_news
-              portfolio_news = old_portfolio_news
+          market_news = merge_articles(new_market_news, old_data.get("market_news", []), 200)
+          portfolio_news = merge_articles(new_portfolio_news, old_data.get("portfolio_news", []), 200)
 
           result = {
               "updated_at": datetime.now(timezone.utc).isoformat(),
@@ -150,5 +140,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add news.json
-          git diff --cached --quiet || git commit -m "Update and accumulate market news every 30m"
+          git diff --cached --quiet || git commit -m "Update market news (1 hour interval, chunked by 4)"
           git push
