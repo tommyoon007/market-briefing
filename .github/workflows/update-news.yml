@@ -29,7 +29,9 @@ jobs:
 
           token = os.environ.get("MARKETAUX_API_TOKEN", "")
 
+          # 주요 시장 지수 및 핵심 관심 종목
           target_symbols = "SPY,QQQ,DIA,AAPL,MSFT,NVDA,MSTR,PLTR,AMSC,GOOGL,AMZN,META,TSLA,SMH,SOXX"
+          target_set = set(target_symbols.split(","))
 
           params = urllib.parse.urlencode({
               "api_token": token,
@@ -55,12 +57,23 @@ jobs:
           for item in raw_articles:
               title_en = item.get("title", "").strip()
               snippet_en = item.get("snippet") or item.get("description") or ""
-              
               title_key = title_en.lower()[:30]
 
+              # entities 내에서 target_set과 일치하는 symbol 우선 탐색
+              symbol = ""
+              sentiment_score = 0
               entities = item.get("entities", [])
-              entity = entities[0] if entities else {}
-              symbol = entity.get("symbol", "").upper()
+              
+              for ent in entities:
+                  sym = ent.get("symbol", "").upper()
+                  if sym in target_set:
+                      symbol = sym
+                      sentiment_score = ent.get("sentiment_score", 0)
+                      break
+              
+              if not symbol and entities:
+                  symbol = entities[0].get("symbol", "").upper()
+                  sentiment_score = entities[0].get("sentiment_score", 0)
 
               article_obj = {
                   "title": title_en,
@@ -68,7 +81,7 @@ jobs:
                   "snippet": snippet_en[:180] + "..." if len(snippet_en) > 180 else snippet_en,
                   "snippet_ko": snippet_en[:180] + "..." if len(snippet_en) > 180 else snippet_en,
                   "symbol": symbol,
-                  "sentiment_score": entity.get("sentiment_score", 0),
+                  "sentiment_score": sentiment_score,
                   "source": item.get("source", "MarketAux"),
                   "url": item.get("url", "#"),
                   "cross_verified": False,
@@ -91,7 +104,11 @@ jobs:
               else:
                   new_portfolio_news.append(art)
 
-          # 1. 기존 news.json 파일 데이터 불러오기
+          # 시장 뉴스(지수 뉴스)가 0건일 경우, 포트폴리오 뉴스 중 최신 뉴스를 시장 브리핑에도 노출
+          if not new_market_news and new_portfolio_news:
+              new_market_news = new_portfolio_news[:5]
+
+          # 기존 news.json 파일 데이터 불러오기 및 병합
           old_market_news = []
           old_portfolio_news = []
           if os.path.exists("news.json"):
@@ -103,17 +120,14 @@ jobs:
               except Exception:
                   pass
 
-          # 2. 신규 기사와 기존 기사 병합 및 최대 100개 제한
           def merge_articles(new_list, old_list, max_limit=100):
               seen_urls = {art.get("url") for art in new_list if art.get("url")}
               combined = list(new_list)
-              
               for art in old_list:
                   url = art.get("url")
                   if url and url not in seen_urls:
                       combined.append(art)
                       seen_urls.add(url)
-              
               return combined[:max_limit]
 
           if raw_articles:
