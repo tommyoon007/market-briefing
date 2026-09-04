@@ -20,6 +20,7 @@
       --accent: #75a7ff;
       --good: #55d69a;
       --bad: #ff7185;
+      --my-stock: #f59e0b;
     }
 
     body {
@@ -84,11 +85,28 @@
       padding: 4px 8px;
       font-size: 11px;
       margin-bottom: 7px;
+      margin-right: 4px;
+    }
+
+    .tag-my {
+      background: #3b2d11;
+      color: var(--my-stock);
+      border: 1px solid #78520d;
+      font-weight: bold;
     }
 
     .news-title {
       font-weight: 700;
       margin-bottom: 5px;
+    }
+
+    .news-title a {
+      color: var(--text);
+      text-decoration: none;
+    }
+
+    .news-title a:hover {
+      text-decoration: underline;
     }
 
     .news-text {
@@ -217,23 +235,9 @@
     </header>
 
     <section class="section">
-      <h2>미국 자본시장</h2>
-
-      <div class="news">
-        <span class="tag">시장 브리핑</span>
-        <div class="news-title">오늘의 주요 시장 뉴스</div>
-        <div class="news-text">
-          뉴스 자동 수집 기능을 준비 중입니다.
-          미국 증시·금리·달러·비트코인 등 핵심 시장 정보를 이곳에 표시합니다.
-        </div>
-      </div>
-
-      <div class="news">
-        <span class="tag">주가 영향</span>
-        <div class="news-title">시장에 미칠 영향</div>
-        <div class="news-text">
-          뉴스별로 호재·악재·중립과 단기·중기 주가 영향을 분석합니다.
-        </div>
+      <h2>미국 자본시장 뉴스</h2>
+      <div id="newsContainer">
+        <div class="news-text">뉴스를 불러오는 중입니다...</div>
       </div>
     </section>
 
@@ -250,7 +254,7 @@
 
         <div class="hint">
           티커를 쉼표로 구분해 입력하세요.
-          저장하면 다음 자동 업데이트에도 이 목록을 사용합니다.
+          저장하면 내 종목 관련 뉴스를 우선적으로 상단에 보여줍니다.
         </div>
 
         <textarea
@@ -278,66 +282,138 @@
 
   <script>
     const defaultTickers = [
-      "AAPL",
-      "MSFT",
-      "SMH",
-      "GOOGL",
-      "AMZN",
-      "SOXX",
-      "META",
-      "MSTR",
-      "DIS",
-      "MRK",
-      "NVDA",
-      "AVGO",
-      "V",
-      "MA",
-      "INTC",
-      "KO",
-      "MORT",
-      "BMNR",
-      "MP",
-      "AMSC",
-      "GFUZ",
-      "DKNG",
-      "AMADA",
-      "PLTR",
-      "MCD",
-      "NFLX",
-      "DJT",
-      "CEG",
-      "USD",
-      "KRW"
+      "AAPL", "MSFT", "SMH", "GOOGL", "AMZN", "SOXX", "META", "MSTR",
+      "DIS", "MRK", "NVDA", "AVGO", "V", "MA", "INTC", "KO",
+      "MORT", "BMNR", "MP", "AMSC", "GFUZ", "DKNG", "AMADA", "PLTR",
+      "MCD", "NFLX", "DJT", "CEG", "USD", "KRW"
     ];
 
     const key = "marketBriefingTickers";
-
     let tickers = [];
+    let allArticles = [];
 
     const portfolio = document.getElementById("portfolio");
     const editor = document.getElementById("editor");
     const input = document.getElementById("tickerInput");
     const status = document.getElementById("status");
+    const newsContainer = document.getElementById("newsContainer");
+
+    function escapeHtml(str) {
+      if (!str) return "";
+      return String(str)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+    }
 
     function load() {
       try {
-        tickers = JSON.parse(localStorage.getItem(key)) || defaultTickers;
+        const stored = localStorage.getItem(key);
+        tickers = stored ? JSON.parse(stored) : defaultTickers;
       } catch (e) {
         tickers = defaultTickers;
       }
 
-      render();
+      renderPortfolio();
+      fetchNews();
     }
 
-    function render() {
+    function renderPortfolio() {
       portfolio.innerHTML = "";
-
       tickers.forEach(ticker => {
         const el = document.createElement("div");
         el.className = "stock";
         el.textContent = ticker;
         portfolio.appendChild(el);
       });
+    }
+
+    async function fetchNews() {
+      try {
+        const res = await fetch(`news.json?t=${Date.now()}`);
+        if (!res.ok) throw new Error("news.json을 읽어올 수 없습니다.");
+        
+        const data = await res.json();
+        allArticles = Array.isArray(data.articles) ? data.articles : [];
+        renderNews();
+      } catch (err) {
+        console.error(err);
+        newsContainer.innerHTML = `
+          <div class="news-text">
+            뉴스를 불러올 수 없습니다.<br>
+            GitHub Actions 수집 작업이 실행된 후 news.json이 생성되면 자동으로 표시됩니다.
+          </div>
+        `;
+      }
+    }
+
+    function renderNews() {
+      if (!allArticles || allArticles.length === 0) {
+        newsContainer.innerHTML = `<div class="news-text">수집된 뉴스가 없습니다.</div>`;
+        return;
+      }
+
+      // 뉴스별 보유 종목 포함 여증 및 적합 엔티티 추출 분석
+      const processedArticles = allArticles.map(art => {
+        const entities = Array.isArray(art.entities) ? art.entities : [];
+        
+        // 내 보유 종목과 일치하는 엔티티 우선 탐색
+        const matchedEntity = entities.find(e => 
+          e && e.symbol && tickers.includes(e.symbol.toUpperCase())
+        );
+
+        const targetEntity = matchedEntity || entities[0] || null;
+        const isMyStock = !!matchedEntity;
+
+        return {
+          raw: art,
+          isMyStock: isMyStock,
+          targetEntity: targetEntity
+        };
+      });
+
+      // 내 보유 종목 뉴스를 상단으로 정렬
+      processedArticles.sort((a, b) => (b.isMyStock ? 1 : 0) - (a.isMyStock ? 1 : 0));
+
+      newsContainer.innerHTML = processedArticles.map(item => {
+        const art = item.raw;
+        const entity = item.targetEntity;
+        const symbol = entity && entity.symbol ? entity.symbol.toUpperCase() : "";
+        const score = entity && typeof entity.sentiment_score === "number" ? entity.sentiment_score : 0;
+
+        let sentimentText = "중립";
+        let tagStyle = "background: #1d3155; color: #75a7ff;";
+
+        if (score > 0.05) {
+          sentimentText = "호재 ▲";
+          tagStyle = "background: #164e32; color: #55d69a;";
+        } else if (score < -0.05) {
+          sentimentText = "악재 ▼";
+          tagStyle = "background: #541c24; color: #ff7185;";
+        }
+
+        const title = escapeHtml(art.title || "제목 없음");
+        const snippet = escapeHtml(art.snippet || art.description || "상세 내용이 없습니다.");
+        const url = art.url ? escapeHtml(art.url) : "#";
+        const source = escapeHtml(art.source || "MarketAux");
+
+        return `
+          <div class="news">
+            <div>
+              ${item.isMyStock ? `<span class="tag tag-my">★ 내 종목</span>` : ""}
+              <span class="tag" style="${tagStyle}">${sentimentText}</span>
+              ${symbol ? `<span class="tag" style="background:#2b3854; color:#fff;">${symbol}</span>` : ""}
+              <span class="tag" style="background:transparent; color:var(--muted); padding:0 4px;">${source}</span>
+            </div>
+            <div class="news-title">
+              <a href="${url}" target="_blank" rel="noopener noreferrer">${title}</a>
+            </div>
+            <div class="news-text">${snippet}</div>
+          </div>
+        `;
+      }).join("");
     }
 
     document.getElementById("editBtn").onclick = () => {
@@ -363,10 +439,10 @@
       }
 
       tickers = [...new Set(next)];
-
       localStorage.setItem(key, JSON.stringify(tickers));
 
-      render();
+      renderPortfolio();
+      renderNews();
 
       status.style.color = "var(--good)";
       status.textContent = "저장했습니다.";
