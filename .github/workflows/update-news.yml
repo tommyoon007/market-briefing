@@ -16,7 +16,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Create news.json with Deduplication
+      - name: Create news.json with Deduplication and Accumulation
         env:
           MARKETAUX_API_TOKEN: ${{ secrets.MARKETAUX_API_TOKEN }}
         run: |
@@ -49,7 +49,6 @@ jobs:
           except Exception as e:
               print(f"API 호출 오류: {e}")
 
-          # 뉴스 중복성 검증 및 교차 검증 로직
           seen_titles = {}
           processed_articles = []
 
@@ -57,7 +56,6 @@ jobs:
               title_en = item.get("title", "").strip()
               snippet_en = item.get("snippet") or item.get("description") or ""
               
-              # 유사 제목 추출용 숏 키
               title_key = title_en.lower()[:30]
 
               entities = item.get("entities", [])
@@ -66,7 +64,7 @@ jobs:
 
               article_obj = {
                   "title": title_en,
-                  "title_ko": title_en,  # 번역 API 차단 시 영문 유지
+                  "title_ko": title_en,
                   "snippet": snippet_en[:180] + "..." if len(snippet_en) > 180 else snippet_en,
                   "snippet_ko": snippet_en[:180] + "..." if len(snippet_en) > 180 else snippet_en,
                   "symbol": symbol,
@@ -77,7 +75,6 @@ jobs:
                   "published_at": item.get("published_at", "")
               }
 
-              # 여러 매체에서 동일 주제 취재 시 교차검증 마크 부여 및 중복 제거
               if title_key in seen_titles:
                   seen_titles[title_key]["cross_verified"] = True
               else:
@@ -85,23 +82,46 @@ jobs:
                   processed_articles.append(article_obj)
 
           market_indices = {"SPY", "QQQ", "DIA", "IWM", "VT"}
-          market_news = []
-          portfolio_news = []
+          new_market_news = []
+          new_portfolio_news = []
 
           for art in processed_articles:
               if art["symbol"] in market_indices or not art["symbol"]:
-                  market_news.append(art)
+                  new_market_news.append(art)
               else:
-                  portfolio_news.append(art)
+                  new_portfolio_news.append(art)
 
-          if not raw_articles and os.path.exists("news.json"):
+          # 1. 기존 news.json 파일 데이터 불러오기
+          old_market_news = []
+          old_portfolio_news = []
+          if os.path.exists("news.json"):
               try:
                   with open("news.json", "r", encoding="utf-8") as f:
                       old_data = json.load(f)
-                      market_news = old_data.get("market_news", [])
-                      portfolio_news = old_data.get("portfolio_news", [])
+                      old_market_news = old_data.get("market_news", [])
+                      old_portfolio_news = old_data.get("portfolio_news", [])
               except Exception:
                   pass
+
+          # 2. 신규 기사와 기존 기사 병합 및 최대 100개 제한
+          def merge_articles(new_list, old_list, max_limit=100):
+              seen_urls = {art.get("url") for art in new_list if art.get("url")}
+              combined = list(new_list)
+              
+              for art in old_list:
+                  url = art.get("url")
+                  if url and url not in seen_urls:
+                      combined.append(art)
+                      seen_urls.add(url)
+              
+              return combined[:max_limit]
+
+          if raw_articles:
+              market_news = merge_articles(new_market_news, old_market_news, max_limit=100)
+              portfolio_news = merge_articles(new_portfolio_news, old_portfolio_news, max_limit=100)
+          else:
+              market_news = old_market_news
+              portfolio_news = old_portfolio_news
 
           result = {
               "updated_at": datetime.now(timezone.utc).isoformat(),
@@ -119,5 +139,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add news.json
-          git diff --cached --quiet || git commit -m "Update market news with cross verification"
+          git diff --cached --quiet || git commit -m "Update and accumulate market news"
           git push
