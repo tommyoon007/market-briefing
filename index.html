@@ -5,224 +5,474 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Market Briefing</title>
 
+  <!-- PWA 앱 설정 -->
   <link rel="manifest" href="manifest.json">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="theme-color" content="#0b1020">
+
+  <!-- 아이콘 연결 -->
   <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.svg">
 
   <style>
-    * { box-sizing: border-box; }
+    * {
+      box-sizing: border-box;
+    }
+
+    :root {
+      --bg: #0b1020;
+      --panel: #151d31;
+      --panel2: #1c2740;
+      --line: #2b3854;
+      --text: #edf2ff;
+      --muted: #9eabc4;
+      --accent: #75a7ff;
+      --good: #55d69a;
+      --bad: #ff7185;
+      --my-stock: #f59e0b;
+    }
+
     body {
       margin: 0;
-      background: #0b1020;
-      color: #edf2ff;
+      background: var(--bg);
+      color: var(--text);
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     }
+
     .container {
-      max-width: 720px;
+      max-width: 760px;
       margin: auto;
-      padding: 16px;
+      padding: 14px;
     }
+
     .header {
-      background: #151d31;
-      border: 1px solid #2b3854;
-      border-radius: 12px;
-      padding: 16px;
-      margin-bottom: 16px;
+      background: linear-gradient(135deg, #18233b, #10182b);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 18px 22px;
+      margin-bottom: 14px;
       display: flex;
       justify-content: space-between;
       align-items: center;
+      flex-wrap: wrap;
+      gap: 10px;
     }
-    h1 { margin: 0; font-size: 20px; }
-    .date { color: #9eabc4; font-size: 12px; margin-top: 4px; }
-    .btn {
-      background: #315d9e;
-      color: #fff;
-      border: none;
-      padding: 8px 12px;
-      border-radius: 6px;
+
+    h1 {
+      margin: 0 0 4px;
+      font-size: 22px;
+    }
+
+    .date {
+      color: var(--muted);
       font-size: 12px;
-      cursor: pointer;
     }
-    .btn:hover { background: #4779c2; }
+
     .section {
-      background: #151d31;
-      border: 1px solid #2b3854;
-      border-radius: 12px;
-      padding: 16px;
-      margin-bottom: 16px;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 14px;
+      margin-bottom: 14px;
     }
-    h2 { font-size: 15px; margin: 0 0 12px 0; color: #75a7ff; }
-    .news-item {
+
+    h2 {
+      font-size: 16px;
+      margin: 0 0 10px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .news-scroll-container {
+      max-height: 380px;
+      overflow-y: auto;
+      padding-right: 6px;
+    }
+
+    .news-scroll-container::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    .news-scroll-container::-webkit-scrollbar-track {
+      background: rgba(0, 0, 0, 0.1);
+      border-radius: 3px;
+    }
+
+    .news-scroll-container::-webkit-scrollbar-thumb {
+      background: var(--line);
+      border-radius: 3px;
+    }
+
+    .news-scroll-container::-webkit-scrollbar-thumb:hover {
+      background: var(--accent);
+    }
+
+    .news {
       padding: 10px 0;
-      border-bottom: 1px solid #2b3854;
+      border-bottom: 1px solid var(--line);
     }
-    .news-item:last-child { border-bottom: none; }
-    .news-title { font-size: 14px; font-weight: bold; margin-bottom: 4px; line-height: 1.4; }
-    .news-title a { color: #edf2ff; text-decoration: none; }
-    .news-title a:hover { text-decoration: underline; }
-    .news-meta { font-size: 11px; color: #9eabc4; display: flex; gap: 8px; align-items: center; }
-    .badge {
-      background: #3b2d11;
-      color: #f59e0b;
-      border: 1px solid #78520d;
-      padding: 2px 5px;
+
+    .news:last-child {
+      border: 0;
+      padding-bottom: 0;
+    }
+
+    .tag {
+      display: inline-block;
+      color: var(--accent);
+      background: #1d3155;
       border-radius: 4px;
+      padding: 3px 6px;
+      font-size: 10px;
+      margin-bottom: 5px;
+      margin-right: 3px;
+    }
+
+    .tag-my {
+      background: #3b2d11;
+      color: var(--my-stock);
+      border: 1px solid #78520d;
       font-weight: bold;
     }
-    .portfolio-tags {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 6px;
-      margin-top: 8px;
+
+    .tag-verified {
+      background: #1e3a29;
+      color: var(--good);
+      border: 1px solid #285e3c;
     }
-    .tag {
-      background: #1c2740;
-      border: 1px solid #2b3854;
-      padding: 4px 8px;
-      border-radius: 4px;
-      font-size: 11px;
+
+    .news-title {
+      font-weight: 700;
+      font-size: 14px;
+      margin-bottom: 5px;
+      line-height: 1.35;
     }
-    .edit-box {
-      display: flex;
-      gap: 6px;
-      margin-bottom: 10px;
+
+    .news-title a {
+      color: var(--text);
+      text-decoration: none;
     }
-    .input-text {
-      flex: 1;
-      background: #0e1628;
-      border: 1px solid #2b3854;
-      color: #fff;
-      padding: 6px;
-      border-radius: 4px;
+
+    .news-title a:hover {
+      text-decoration: underline;
+    }
+
+    .news-text {
+      color: var(--muted);
       font-size: 12px;
+      line-height: 1.45;
+      background: rgba(0, 0, 0, 0.2);
+      padding: 6px 8px;
+      border-radius: 5px;
+      border-left: 2px solid var(--accent);
+    }
+
+    .toolbar {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 12px;
+    }
+
+    .toolbar h2 {
+      margin: 0;
+    }
+
+    .edit-area {
+      display: flex;
+      gap: 4px;
+      align-items: center;
+      flex-grow: 1;
+      justify-content: flex-end;
+    }
+
+    .inline-input {
+      background: #0e1628;
+      color: var(--text);
+      border: 1px solid var(--accent);
+      border-radius: 6px;
+      padding: 5px 8px;
+      font-size: 12px;
+      width: 100%;
+      max-width: 280px;
+    }
+
+    .button {
+      border: 1px solid var(--line);
+      background: var(--panel2);
+      color: var(--text);
+      border-radius: 6px;
+      padding: 6px 10px;
+      font-size: 11px;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+
+    .button.primary {
+      background: #315d9e;
+      border-color: #4779c2;
+    }
+
+    .button:hover {
+      filter: brightness(1.15);
+    }
+
+    .portfolio {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(68px, 1fr));
+      gap: 6px;
+    }
+
+    .stock {
+      background: var(--panel2);
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 7px 0;
+      text-align: center;
+      font-weight: 700;
+      font-size: 11px;
+      color: #c5d3f0;
+      width: 100%;
+    }
+
+    .footer {
+      text-align: center;
+      color: var(--muted);
+      font-size: 11px;
+      padding: 6px;
     }
   </style>
 </head>
+
 <body>
 
   <div class="container">
-    <div class="header">
+
+    <header class="header">
       <div>
         <h1>Market Briefing</h1>
-        <div class="date" id="lastUpdated">최신 시장 뉴스 확인 중...</div>
+        <div class="date" id="lastUpdated">미국 자본시장 · 실시간 뉴스 브리핑</div>
       </div>
-      <button class="btn" id="refreshBtn">⚡ 새로고침</button>
-    </div>
+      <button class="button primary" id="checkNewsBtn">⚡ 즉시 뉴스 확인</button>
+    </header>
 
-    <div class="section">
-      <h2>🎯 내 관심/보유 종목 뉴스</h2>
-      <div id="myNewsList">뉴스를 불러오는 중입니다...</div>
-    </div>
-
-    <div class="section">
-      <h2>🌐 주요 시장 뉴스</h2>
-      <div id="allNewsList">뉴스를 불러오는 중입니다...</div>
-    </div>
-
-    <div class="section">
-      <h2>💼 내 종목 목록 설정</h2>
-      <div class="edit-box">
-        <input type="text" id="tickerInput" class="input-text" placeholder="티커 입력 (쉼표 구분: NVDA, TSLA, AAPL)">
-        <button class="btn" id="saveTickersBtn">저장</button>
+    <section class="section">
+      <h2>🌐 전체 시장 요약 브리핑</h2>
+      <div id="marketNewsContainer" class="news-scroll-container">
+        <div class="news-text">전체 시장 뉴스를 불러오는 중입니다...</div>
       </div>
-      <div class="portfolio-tags" id="tickerTags"></div>
+    </section>
+
+    <section class="section">
+      <h2>🎯 내 보유 종목 뉴스</h2>
+      <div id="portfolioNewsContainer" class="news-scroll-container">
+        <div class="news-text">보유 종목 뉴스를 불러오는 중입니다...</div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="toolbar">
+        <h2>💼 내 보유 종목</h2>
+        <div id="editControls" class="edit-area">
+          <button class="button primary" id="editBtn">종목 수정</button>
+        </div>
+      </div>
+
+      <div class="portfolio" id="portfolio"></div>
+    </section>
+
+    <div class="footer">
+      Market Briefing · 실시간 미국 주식 뉴스 앱
     </div>
+
   </div>
 
   <script>
-    const defaultTickers = ["AAPL", "NVDA", "TSLA", "MSFT", "AMZN", "GOOGL", "META", "MSTR", "PLTR", "AMSC"];
-    let myTickers = [];
-    let allArticles = [];
+    const defaultTickers = [
+      "AAPL", "MSFT", "TSLA", "SMH", "GOOGL", "AMZN", "SOXX", "META", "MSTR",
+      "DIS", "MRK", "NVDA", "AVGO", "V", "MA", "INTC", "KO",
+      "MORT", "BMNR", "MP", "AMSC", "GFUZ", "DKNG", "AMADA", "PLTR",
+      "MCD", "NFLX", "DJT", "CEG", "USD", "KRW"
+    ];
 
-    function loadTickers() {
-      const saved = localStorage.getItem("myTickers");
-      myTickers = saved ? JSON.parse(saved) : defaultTickers;
-      document.getElementById("tickerInput").value = myTickers.join(", ");
-      renderTickerTags();
+    const key = "marketBriefingTickers";
+    let tickers = [];
+    let newsData = { updated_at: "", market_news: [], portfolio_news: [] };
+
+    const portfolio = document.getElementById("portfolio");
+    const editControls = document.getElementById("editControls");
+    const marketNewsContainer = document.getElementById("marketNewsContainer");
+    const portfolioNewsContainer = document.getElementById("portfolioNewsContainer");
+    const lastUpdatedEl = document.getElementById("lastUpdated");
+    const checkNewsBtn = document.getElementById("checkNewsBtn");
+
+    function escapeHtml(str) {
+      if (!str) return "";
+      return String(str)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
     }
 
-    function renderTickerTags() {
-      const container = document.getElementById("tickerTags");
-      container.innerHTML = myTickers.map(t => `<span class="tag">${t}</span>`).join("");
+    function load() {
+      try {
+        const stored = localStorage.getItem(key);
+        tickers = stored ? JSON.parse(stored) : defaultTickers;
+      } catch (e) {
+        tickers = defaultTickers;
+      }
+
+      renderPortfolio();
+      renderEditButton();
+      fetchNews();
     }
 
-    document.getElementById("saveTickersBtn").onclick = () => {
-      const val = document.getElementById("tickerInput").value;
-      myTickers = val.split(",").map(s => s.trim().toUpperCase()).filter(Boolean);
-      localStorage.setItem("myTickers", JSON.stringify(myTickers));
-      renderTickerTags();
-      renderNews();
-    };
+    function renderPortfolio() {
+      portfolio.innerHTML = "";
+      tickers.forEach(ticker => {
+        const el = document.createElement("div");
+        el.className = "stock";
+        el.textContent = ticker;
+        portfolio.appendChild(el);
+      });
+    }
+
+    function renderEditButton() {
+      editControls.innerHTML = `<button class="button primary" id="editBtn">종목 수정</button>`;
+      document.getElementById("editBtn").onclick = startInlineEdit;
+    }
+
+    function startInlineEdit() {
+      editControls.innerHTML = `
+        <input type="text" class="inline-input" id="inlineInput" value="${escapeHtml(tickers.join(', '))}" placeholder="티커 입력 (예: NVDA, MSTR)">
+        <button class="button primary" id="saveInlineBtn">저장</button>
+        <button class="button" id="cancelInlineBtn">취소</button>
+      `;
+
+      document.getElementById("saveInlineBtn").onclick = () => {
+        const val = document.getElementById("inlineInput").value;
+        const next = val.split(",").map(x => x.trim().toUpperCase()).filter(Boolean);
+        if (!next.length) return;
+
+        tickers = [...new Set(next)];
+        localStorage.setItem(key, JSON.stringify(tickers));
+        renderPortfolio();
+        renderAllNews();
+        renderEditButton();
+      };
+
+      document.getElementById("cancelInlineBtn").onclick = renderEditButton;
+    }
 
     async function fetchNews() {
-      const btn = document.getElementById("refreshBtn");
-      btn.textContent = "🔄 로딩 중...";
+      checkNewsBtn.textContent = "🔄 업데이트 중...";
       try {
         const res = await fetch(`news.json?t=${Date.now()}`);
         if (!res.ok) throw new Error("news.json 불러오기 실패");
-        const data = await res.json();
         
-        allArticles = data.articles || [];
+        newsData = await res.json();
         
-        if (data.updated_at) {
-          const d = new Date(data.updated_at);
-          document.getElementById("lastUpdated").textContent = 
-            `최종 업데이트: ${d.getMonth()+1}/${d.getDate()} ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
+        if (newsData.updated_at) {
+          const dateObj = new Date(newsData.updated_at);
+          if (!isNaN(dateObj.getTime())) {
+            const month = dateObj.getMonth() + 1;
+            const date = dateObj.getDate();
+            const hours = String(dateObj.getHours()).padStart(2, '0');
+            const minutes = String(dateObj.getMinutes()).padStart(2, '0');
+            lastUpdatedEl.textContent = `최종 업데이트: ${month}/${date} ${hours}:${minutes}`;
+          }
         }
-        renderNews();
-      } catch (e) {
-        document.getElementById("myNewsList").innerHTML = "뉴스를 불러올 수 없습니다. 잠시 후 다시 시도해주세요.";
-        document.getElementById("allNewsList").innerHTML = "뉴스를 불러올 수 없습니다.";
+        
+        renderAllNews();
+      } catch (err) {
+        console.error(err);
+        const errHtml = `<div class="news-text">뉴스를 수집하는 중입니다. 잠시 후 [⚡ 즉시 뉴스 확인]을 눌러주세요.</div>`;
+        marketNewsContainer.innerHTML = errHtml;
+        portfolioNewsContainer.innerHTML = errHtml;
       } finally {
-        btn.textContent = "⚡ 새로고침";
+        checkNewsBtn.textContent = "⚡ 즉시 뉴스 확인";
       }
     }
 
-    function renderNews() {
-      const myNewsContainer = document.getElementById("myNewsList");
-      const allNewsContainer = document.getElementById("allNewsList");
-
-      if (!allArticles.length) {
-        myNewsContainer.innerHTML = "수집된 뉴스가 없습니다.";
-        allNewsContainer.innerHTML = "수집된 뉴스가 없습니다.";
+    function renderNewsList(articles, container, isPortfolioSection = false) {
+      if (!articles || articles.length === 0) {
+        container.innerHTML = `<div class="news-text">수집된 뉴스가 없습니다.</div>`;
         return;
       }
 
-      // 내 종목 뉴스 필터링 (제목에 내 티커명이 포함되어 있는지 검색)
-      const myNews = allArticles.filter(art => {
-        const titleUpper = art.title.toUpperCase();
-        return myTickers.some(ticker => titleUpper.includes(ticker));
-      });
+      let displayList = articles;
 
-      // 내 종목 뉴스 출력
-      if (myNews.length === 0) {
-        myNewsContainer.innerHTML = "<div style='color:#9eabc4; font-size:13px;'>설정하신 종목의 최신 기사가 없습니다.</div>";
-      } else {
-        myNewsContainer.innerHTML = myNews.map(art => renderNewsHtml(art, true)).join("");
+      if (isPortfolioSection) {
+        displayList = articles.filter(art => {
+          const sym = art.symbol ? art.symbol.toUpperCase() : "";
+          return tickers.includes(sym);
+        });
+
+        if (displayList.length === 0) {
+          container.innerHTML = `<div class="news-text">설정하신 보유 종목의 최근 기사가 없습니다.</div>`;
+          return;
+        }
       }
 
-      // 전체 시장 뉴스 출력
-      allNewsContainer.innerHTML = allArticles.map(art => renderNewsHtml(art, false)).join("");
+      container.innerHTML = displayList.map(art => {
+        const symbol = art.symbol ? art.symbol.toUpperCase() : "";
+        const score = typeof art.sentiment_score === "number" ? art.sentiment_score : 0;
+        const isCrossVerified = art.cross_verified || false;
+
+        let sentimentText = "중립";
+        let tagStyle = "background: #1d3155; color: #75a7ff;";
+
+        if (score > 0.05) {
+          sentimentText = "호재 ▲";
+          tagStyle = "background: #164e32; color: #55d69a;";
+        } else if (score < -0.05) {
+          sentimentText = "악재 ▼";
+          tagStyle = "background: #541c24; color: #ff7185;";
+        }
+
+        const titleKo = escapeHtml(art.title_ko || art.title || "제목 없음");
+        const snippetKo = escapeHtml(art.snippet_ko || art.snippet || "상세 요약이 없습니다.");
+        const url = art.url ? escapeHtml(art.url) : "#";
+        const source = escapeHtml(art.source || "News Feed");
+        const isMy = symbol && tickers.includes(symbol);
+
+        return `
+          <div class="news">
+            <div>
+              ${isMy ? `<span class="tag tag-my">★ 내 종목</span>` : ""}
+              ${isCrossVerified ? `<span class="tag tag-verified">✓ 교차검증 완료</span>` : ""}
+              <span class="tag" style="${tagStyle}">${sentimentText}</span>
+              ${symbol ? `<span class="tag" style="background:#2b3854; color:#fff;">${symbol}</span>` : ""}
+              <span class="tag" style="background:transparent; color:var(--muted); padding:0 2px;">${source}</span>
+            </div>
+            <div class="news-title">
+              <a href="${url}" target="_blank" rel="noopener noreferrer">${titleKo}</a>
+            </div>
+            <div class="news-text">📌 요약: ${snippetKo}</div>
+          </div>
+        `;
+      }).join("");
     }
 
-    function renderNewsHtml(art, isMy) {
-      return `
-        <div class="news-item">
-          <div class="news-title">
-            <a href="${art.url}" target="_blank" rel="noopener noreferrer">${art.title}</a>
-          </div>
-          <div class="news-meta">
-            ${isMy ? `<span class="badge">관심종목</span>` : ""}
-            <span>${art.source}</span>
-          </div>
-        </div>
-      `;
+    function renderAllNews() {
+      let marketArticles = newsData.market_news || [];
+      if (marketArticles.length === 0 && (newsData.portfolio_news || []).length > 0) {
+        marketArticles = newsData.portfolio_news;
+      }
+      renderNewsList(marketArticles, marketNewsContainer, false);
+      renderNewsList(newsData.portfolio_news || [], portfolioNewsContainer, true);
     }
 
-    document.getElementById("refreshBtn").onclick = fetchNews;
+    checkNewsBtn.onclick = fetchNews;
 
-    loadTickers();
-    fetchNews();
+    load();
   </script>
+
 </body>
 </html>
