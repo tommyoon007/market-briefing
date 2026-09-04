@@ -70,6 +70,24 @@
       font-size: 12px;
     }
 
+    /* 과거 뉴스 검색창 */
+    .search-bar {
+      width: 100%;
+      background: #0e1628;
+      color: var(--text);
+      border: 1px solid var(--accent);
+      border-radius: 8px;
+      padding: 10px 14px;
+      font-size: 14px;
+      margin-bottom: 14px;
+      outline: none;
+    }
+
+    .search-bar:focus {
+      border-color: var(--good);
+      box-shadow: 0 0 5px rgba(85, 214, 154, 0.3);
+    }
+
     .section {
       background: var(--panel);
       border: 1px solid var(--line);
@@ -86,28 +104,32 @@
       gap: 6px;
     }
 
-    /* 뉴스 컨테이너 - 고정 높이 및 다크모드 스크롤바 설정 */
+    /* 뉴스 컨테이너 - 세로 고정 높이 및 스크롤바 설정 */
     .news-scroll-container {
       max-height: 380px;
       overflow-y: auto;
       padding-right: 6px;
     }
 
-    .news-scroll-container::-webkit-scrollbar {
+    .news-scroll-container::-webkit-scrollbar,
+    .portfolio::-webkit-scrollbar {
       width: 6px;
     }
 
-    .news-scroll-container::-webkit-scrollbar-track {
+    .news-scroll-container::-webkit-scrollbar-track,
+    .portfolio::-webkit-scrollbar-track {
       background: rgba(0, 0, 0, 0.1);
       border-radius: 3px;
     }
 
-    .news-scroll-container::-webkit-scrollbar-thumb {
+    .news-scroll-container::-webkit-scrollbar-thumb,
+    .portfolio::-webkit-scrollbar-thumb {
       background: var(--line);
       border-radius: 3px;
     }
 
-    .news-scroll-container::-webkit-scrollbar-thumb:hover {
+    .news-scroll-container::-webkit-scrollbar-thumb:hover,
+    .portfolio::-webkit-scrollbar-thumb:hover {
       background: var(--accent);
     }
 
@@ -222,11 +244,14 @@
       filter: brightness(1.15);
     }
 
-    /* 보유 종목 통일된 격자(Grid) 배열 설정 */
+    /* 보유 종목 위아래 세로 스크롤 격자(Grid) 배열 */
     .portfolio {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(68px, 1fr));
       gap: 6px;
+      max-height: 130px;
+      overflow-y: auto;
+      padding-right: 6px;
     }
 
     .stock {
@@ -261,6 +286,9 @@
       </div>
       <button class="button primary" id="checkNewsBtn">⚡ 즉시 뉴스 확인</button>
     </header>
+
+    <!-- 실시간 검색창 -->
+    <input type="text" id="searchInput" class="search-bar" placeholder="🔍 키워드, 종목명 또는 티커로 지난 뉴스 검색...">
 
     <!-- 1. 전체 시장 요약 뉴스 창 -->
     <section class="section">
@@ -309,6 +337,7 @@
     const key = "marketBriefingTickers";
     let tickers = [];
     let newsData = { updated_at: "", market_news: [], portfolio_news: [] };
+    let searchQuery = "";
 
     const portfolio = document.getElementById("portfolio");
     const editControls = document.getElementById("editControls");
@@ -316,6 +345,7 @@
     const portfolioNewsContainer = document.getElementById("portfolioNewsContainer");
     const lastUpdatedEl = document.getElementById("lastUpdated");
     const checkNewsBtn = document.getElementById("checkNewsBtn");
+    const searchInput = document.getElementById("searchInput");
 
     function escapeHtml(str) {
       if (!str) return "";
@@ -409,16 +439,27 @@
 
       let displayList = articles;
 
+      // 보유 종목 필터링
       if (isPortfolioSection) {
         displayList = articles.filter(art => {
           const sym = art.symbol ? art.symbol.toUpperCase() : "";
           return tickers.includes(sym);
         });
+      }
 
-        if (displayList.length === 0) {
-          container.innerHTML = `<div class="news-text">설정하신 보유 종목의 최근 기사가 없습니다.</div>`;
-          return;
-        }
+      // 키워드 및 지난 뉴스 검색 필터링
+      if (searchQuery) {
+        displayList = displayList.filter(art => {
+          const title = (art.title_ko || art.title || "").toLowerCase();
+          const snippet = (art.snippet_ko || art.snippet || "").toLowerCase();
+          const sym = (art.symbol || "").toLowerCase();
+          return title.includes(searchQuery) || snippet.includes(searchQuery) || sym.includes(searchQuery);
+        });
+      }
+
+      if (displayList.length === 0) {
+        container.innerHTML = `<div class="news-text">${searchQuery ? "'" + searchQuery + "' 검색 결과가 없습니다." : "조건에 맞는 기사가 없습니다."}</div>`;
+        return;
       }
 
       container.innerHTML = displayList.map(art => {
@@ -469,6 +510,11 @@
       renderNewsList(marketArticles, marketNewsContainer, false);
       renderNewsList(newsData.portfolio_news || [], portfolioNewsContainer, true);
     }
+
+    searchInput.addEventListener("input", (e) => {
+      searchQuery = e.target.value.toLowerCase().trim();
+      renderAllNews();
+    });
 
     checkNewsBtn.onclick = fetchNews;
 
