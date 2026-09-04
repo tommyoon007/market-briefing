@@ -1,1 +1,181 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Market Briefing</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
 
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f5f7fb;
+      color: #172033;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+
+    .header {
+      background: #172033;
+      color: white;
+      padding: 28px;
+      border-radius: 16px;
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      margin: 0 0 8px;
+      font-size: 28px;
+    }
+
+    .date {
+      color: #b8c2d6;
+      font-size: 14px;
+    }
+
+    .section {
+      background: white;
+      padding: 24px;
+      border-radius: 16px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+
+    h2 {
+      margin-top: 0;
+      font-size: 21px;
+    }
+
+    .news {
+      padding: 16px 0;
+      border-bottom: 1px solid #e8ebf0;
+    }
+
+    .news:last-child {
+      border-bottom: none;
+    }
+
+    .tag {
+      display: inline-block;
+      background: #e8f1ff;
+      color: #1769aa;
+      padding: 5px 10px;
+      border-radius: 6px;
+      font-size: 12px;
+      margin-bottom: 8px;
+    }
+
+    .news-title {
+      font-weight: bold;
+      margin-bottom: 6px;
+    }
+
+    .news-text {
+      color: #5d687a;
+      line-height: 1.6;
+      font-size: 14px;
+    }
+
+    .portfolio {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+      gap: 10px;
+    }
+
+    .stock {
+      background: #f5f7fb;
+      padding: 14px;
+      border-radius: 10px;
+      text-align: center;
+      font-weight: bold;
+    }
+
+    .footer {
+      text-align: center;
+      color: #8a94a6;
+      font-size: 12px;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <div class="header">
+      <h1>Market Briefing</h1>
+      <div class="date">미국 자본시장 · 내 포트폴리오 브리핑</div>
+    </div>
+
+    <div class="section">
+      <h2>미국 자본시장</h2>
+
+      <div class="news">
+        <div class="tag">시장 브리핑</div>
+        <div class="news-title">오늘의 주요 시장 뉴스</div>
+        <div class="news-text">
+          앞으로 미국 증시·금리·달러·비트코인 등
+          주요 자본시장 뉴스를 자동으로 요약합니다.
+        </div>
+      </div>
+
+      <div class="news">
+        <div class="tag">주가 영향</div>
+        <div class="news-title">시장에 미칠 영향</div>
+        <div class="news-text">
+          뉴스가 주식시장에 미칠 영향을
+          상승·하락·중립 관점에서 분석합니다.
+        </div>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>내 보유 종목</h2>
+
+      <div class="portfolio">
+        <div class="stock">AAPL</div>
+        <div class="stock">MSFT</div>
+        <div class="stock">SMH</div>
+        <div class="stock">GOOGL</div>
+        <div class="stock">AMZN</div>
+        <div class="stock">SOXX</div>
+        <div class="stock">META</div>
+        <div class="stock">MSTR</div>
+        <div class="stock">DIS</div>
+        <div class="stock">MRK</div>
+        <div class="stock">NVDA</div>
+        <div class="stock">AVGO</div>
+        <div class="stock">V</div>
+        <div class="stock">MA</div>
+        <div class="stock">INTC</div>
+        <div class="stock">KO</div>
+        <div class="stock">MORT</div>
+        <div class="stock">BMNR</div>
+        <div class="stock">MP</div>
+        <div class="stock">AMSC</div>
+        <div class="stock">GFUZ</div>
+        <div class="stock">DKNG</div>
+        <div class="stock">AMADA</div>
+        <div class="stock">PLTR</div>
+        <div class="stock">MCD</div>
+        <div class="stock">NFLX</div>
+        <div class="stock">DJT</div>
+        <div class="stock">CEG</div>
+        <div class="stock">USD</div>
+        <div class="stock">KRW</div>
+      </div>
+    </div>
+
+    <div class="footer">
+      Market Briefing · 자동 뉴스 분석 앱
+    </div>
+
+  </div>
+</body>
+</html>
