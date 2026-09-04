@@ -104,32 +104,28 @@
       gap: 6px;
     }
 
-    /* 뉴스 컨테이너 - 세로 고정 높이 및 스크롤바 설정 */
+    /* 뉴스 컨테이너 - 세로 고정 높이 및 위아래 스크롤바 설정 */
     .news-scroll-container {
       max-height: 380px;
       overflow-y: auto;
       padding-right: 6px;
     }
 
-    .news-scroll-container::-webkit-scrollbar,
-    .portfolio::-webkit-scrollbar {
+    .news-scroll-container::-webkit-scrollbar {
       width: 6px;
     }
 
-    .news-scroll-container::-webkit-scrollbar-track,
-    .portfolio::-webkit-scrollbar-track {
+    .news-scroll-container::-webkit-scrollbar-track {
       background: rgba(0, 0, 0, 0.1);
       border-radius: 3px;
     }
 
-    .news-scroll-container::-webkit-scrollbar-thumb,
-    .portfolio::-webkit-scrollbar-thumb {
+    .news-scroll-container::-webkit-scrollbar-thumb {
       background: var(--line);
       border-radius: 3px;
     }
 
-    .news-scroll-container::-webkit-scrollbar-thumb:hover,
-    .portfolio::-webkit-scrollbar-thumb:hover {
+    .news-scroll-container::-webkit-scrollbar-thumb:hover {
       background: var(--accent);
     }
 
@@ -244,14 +240,11 @@
       filter: brightness(1.15);
     }
 
-    /* 보유 종목 위아래 세로 스크롤 격자(Grid) 배열 */
+    /* 보유 종목 창 - 스크롤 없이 깔끔한 격자(Grid) 배치로 원복 */
     .portfolio {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(68px, 1fr));
       gap: 6px;
-      max-height: 130px;
-      overflow-y: auto;
-      padding-right: 6px;
     }
 
     .stock {
@@ -287,10 +280,10 @@
       <button class="button primary" id="checkNewsBtn">⚡ 즉시 뉴스 확인</button>
     </header>
 
-    <!-- 실시간 검색창 -->
+    <!-- 검색창 -->
     <input type="text" id="searchInput" class="search-bar" placeholder="🔍 키워드, 종목명 또는 티커로 지난 뉴스 검색...">
 
-    <!-- 1. 전체 시장 요약 뉴스 창 -->
+    <!-- 1. 전체 시장 요약 뉴스 창 (위아래 세로 스크롤) -->
     <section class="section">
       <h2>🌐 전체 시장 요약 브리핑</h2>
       <div id="marketNewsContainer" class="news-scroll-container">
@@ -298,7 +291,7 @@
       </div>
     </section>
 
-    <!-- 2. 내 보유 종목 뉴스 창 -->
+    <!-- 2. 내 보유 종목 뉴스 창 (위아래 세로 스크롤) -->
     <section class="section">
       <h2>🎯 내 보유 종목 뉴스</h2>
       <div id="portfolioNewsContainer" class="news-scroll-container">
@@ -306,7 +299,7 @@
       </div>
     </section>
 
-    <!-- 3. 내 보유 종목 관리 창 -->
+    <!-- 3. 내 보유 종목 관리 창 (스크롤 없는 전체 펼침 격자) -->
     <section class="section">
 
       <div class="toolbar">
@@ -447,7 +440,7 @@
         });
       }
 
-      // 키워드 및 지난 뉴스 검색 필터링
+      // 지난 뉴스 검색 필터링
       if (searchQuery) {
         displayList = displayList.filter(art => {
           const title = (art.title_ko || art.title || "").toLowerCase();
