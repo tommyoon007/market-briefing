@@ -65,6 +65,9 @@
     h2 {
       font-size: 18px;
       margin: 0 0 12px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
     }
 
     .news {
@@ -97,7 +100,9 @@
 
     .news-title {
       font-weight: 700;
-      margin-bottom: 5px;
+      font-size: 15px;
+      margin-bottom: 6px;
+      line-height: 1.4;
     }
 
     .news-title a {
@@ -113,6 +118,10 @@
       color: var(--muted);
       font-size: 13px;
       line-height: 1.55;
+      background: rgba(0, 0, 0, 0.15);
+      padding: 8px 10px;
+      border-radius: 6px;
+      border-left: 3px solid var(--accent);
     }
 
     .toolbar {
@@ -231,20 +240,30 @@
 
     <header class="header">
       <h1>Market Briefing</h1>
-      <div class="date">미국 자본시장 · 내 포트폴리오 브리핑</div>
+      <div class="date" id="lastUpdated">미국 자본시장 · 한글 뉴스 자동 요약 브리핑</div>
     </header>
 
+    <!-- 1. 전체 시장 요약 뉴스 창 -->
     <section class="section">
-      <h2>미국 자본시장 뉴스</h2>
-      <div id="newsContainer">
-        <div class="news-text">뉴스를 불러오는 중입니다...</div>
+      <h2>🌐 전체 시장 요약 브리핑</h2>
+      <div id="marketNewsContainer">
+        <div class="news-text">전체 시장 뉴스를 불러오는 중입니다...</div>
       </div>
     </section>
 
+    <!-- 2. 내 보유 종목 뉴스 창 -->
+    <section class="section">
+      <h2>🎯 내 보유 종목 뉴스</h2>
+      <div id="portfolioNewsContainer">
+        <div class="news-text">보유 종목 뉴스를 불러오는 중입니다...</div>
+      </div>
+    </section>
+
+    <!-- 3. 내 보유 종목 관리 창 -->
     <section class="section">
 
       <div class="toolbar">
-        <h2>내 보유 종목</h2>
+        <h2>💼 내 보유 종목</h2>
         <button class="button primary" id="editBtn">종목 수정</button>
       </div>
 
@@ -254,7 +273,7 @@
 
         <div class="hint">
           티커를 쉼표로 구분해 입력하세요.
-          저장하면 내 종목 관련 뉴스를 우선적으로 상단에 보여줍니다.
+          저장하면 내 종목 뉴스 목록이 최신 설정에 맞게 필터링됩니다.
         </div>
 
         <textarea
@@ -275,7 +294,7 @@
     </section>
 
     <div class="footer">
-      Market Briefing · 자동 뉴스 분석 앱
+      Market Briefing · 자동 뉴스 번역 및 요약 앱
     </div>
 
   </div>
@@ -290,13 +309,15 @@
 
     const key = "marketBriefingTickers";
     let tickers = [];
-    let allArticles = [];
+    let newsData = { updated_at: "", market_news: [], portfolio_news: [] };
 
     const portfolio = document.getElementById("portfolio");
     const editor = document.getElementById("editor");
     const input = document.getElementById("tickerInput");
     const status = document.getElementById("status");
-    const newsContainer = document.getElementById("newsContainer");
+    const marketNewsContainer = document.getElementById("marketNewsContainer");
+    const portfolioNewsContainer = document.getElementById("portfolioNewsContainer");
+    const lastUpdatedEl = document.getElementById("lastUpdated");
 
     function escapeHtml(str) {
       if (!str) return "";
@@ -333,55 +354,53 @@
     async function fetchNews() {
       try {
         const res = await fetch(`news.json?t=${Date.now()}`);
-        if (!res.ok) throw new Error("news.json을 읽어올 수 없습니다.");
+        if (!res.ok) throw new Error("news.json 파일이 존재하지 않습니다.");
         
-        const data = await res.json();
-        allArticles = Array.isArray(data.articles) ? data.articles : [];
-        renderNews();
+        newsData = await res.json();
+        
+        if (newsData.updated_at) {
+          const dateObj = new Date(newsData.updated_at);
+          lastUpdatedEl.textContent = `마지막 업데이트: ${dateObj.toLocaleString("ko-KR")}`;
+        }
+        
+        renderAllNews();
       } catch (err) {
         console.error(err);
-        newsContainer.innerHTML = `
+        const errHtml = `
           <div class="news-text">
             뉴스를 불러올 수 없습니다.<br>
-            GitHub Actions 수집 작업이 실행된 후 news.json이 생성되면 자동으로 표시됩니다.
+            GitHub Actions 자동 수집 및 번역 작업이 실행된 후 표시됩니다.
           </div>
         `;
+        marketNewsContainer.innerHTML = errHtml;
+        portfolioNewsContainer.innerHTML = errHtml;
       }
     }
 
-    function renderNews() {
-      if (!allArticles || allArticles.length === 0) {
-        newsContainer.innerHTML = `<div class="news-text">수집된 뉴스가 없습니다.</div>`;
+    function renderNewsList(articles, container, isPortfolioSection = false) {
+      if (!articles || articles.length === 0) {
+        container.innerHTML = `<div class="news-text">수집된 뉴스가 없습니다.</div>`;
         return;
       }
 
-      // 뉴스별 보유 종목 포함 여증 및 적합 엔티티 추출 분석
-      const processedArticles = allArticles.map(art => {
-        const entities = Array.isArray(art.entities) ? art.entities : [];
-        
-        // 내 보유 종목과 일치하는 엔티티 우선 탐색
-        const matchedEntity = entities.find(e => 
-          e && e.symbol && tickers.includes(e.symbol.toUpperCase())
-        );
+      let displayList = articles;
 
-        const targetEntity = matchedEntity || entities[0] || null;
-        const isMyStock = !!matchedEntity;
+      // 보유 종목 구역일 경우 현재 저장된 보유 종목(tickers) 기준으로 필터링
+      if (isPortfolioSection) {
+        displayList = articles.filter(art => {
+          const sym = art.symbol ? art.symbol.toUpperCase() : "";
+          return tickers.includes(sym);
+        });
 
-        return {
-          raw: art,
-          isMyStock: isMyStock,
-          targetEntity: targetEntity
-        };
-      });
+        if (displayList.length === 0) {
+          container.innerHTML = `<div class="news-text">현재 설정된 내 보유 종목에 해당하는 최근 뉴스가 없습니다.</div>`;
+          return;
+        }
+      }
 
-      // 내 보유 종목 뉴스를 상단으로 정렬
-      processedArticles.sort((a, b) => (b.isMyStock ? 1 : 0) - (a.isMyStock ? 1 : 0));
-
-      newsContainer.innerHTML = processedArticles.map(item => {
-        const art = item.raw;
-        const entity = item.targetEntity;
-        const symbol = entity && entity.symbol ? entity.symbol.toUpperCase() : "";
-        const score = entity && typeof entity.sentiment_score === "number" ? entity.sentiment_score : 0;
+      container.innerHTML = displayList.map(art => {
+        const symbol = art.symbol ? art.symbol.toUpperCase() : "";
+        const score = typeof art.sentiment_score === "number" ? art.sentiment_score : 0;
 
         let sentimentText = "중립";
         let tagStyle = "background: #1d3155; color: #75a7ff;";
@@ -394,26 +413,32 @@
           tagStyle = "background: #541c24; color: #ff7185;";
         }
 
-        const title = escapeHtml(art.title || "제목 없음");
-        const snippet = escapeHtml(art.snippet || art.description || "상세 내용이 없습니다.");
+        const titleKo = escapeHtml(art.title_ko || art.title || "제목 없음");
+        const snippetKo = escapeHtml(art.snippet_ko || art.snippet || "상세 요약이 없습니다.");
         const url = art.url ? escapeHtml(art.url) : "#";
         const source = escapeHtml(art.source || "MarketAux");
+        const isMy = symbol && tickers.includes(symbol);
 
         return `
           <div class="news">
             <div>
-              ${item.isMyStock ? `<span class="tag tag-my">★ 내 종목</span>` : ""}
+              ${isMy ? `<span class="tag tag-my">★ 내 종목</span>` : ""}
               <span class="tag" style="${tagStyle}">${sentimentText}</span>
               ${symbol ? `<span class="tag" style="background:#2b3854; color:#fff;">${symbol}</span>` : ""}
               <span class="tag" style="background:transparent; color:var(--muted); padding:0 4px;">${source}</span>
             </div>
             <div class="news-title">
-              <a href="${url}" target="_blank" rel="noopener noreferrer">${title}</a>
+              <a href="${url}" target="_blank" rel="noopener noreferrer">${titleKo}</a>
             </div>
-            <div class="news-text">${snippet}</div>
+            <div class="news-text">💡 ${snippetKo}</div>
           </div>
         `;
       }).join("");
+    }
+
+    function renderAllNews() {
+      renderNewsList(newsData.market_news || [], marketNewsContainer, false);
+      renderNewsList(newsData.portfolio_news || [], portfolioNewsContainer, true);
     }
 
     document.getElementById("editBtn").onclick = () => {
@@ -442,7 +467,7 @@
       localStorage.setItem(key, JSON.stringify(tickers));
 
       renderPortfolio();
-      renderNews();
+      renderAllNews();
 
       status.style.color = "var(--good)";
       status.textContent = "저장했습니다.";
