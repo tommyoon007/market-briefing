@@ -3,7 +3,7 @@ name: Update Market News
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/10 * * * *"  # 10분마다 초고속 실행
+    - cron: "*/10 * * * *"
 
 permissions:
   contents: write
@@ -13,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create news.json with Hybrid RSS & API Collector
+      - name: Collect MarketAux news
         env:
           MARKETAUX_API_TOKEN: ${{ secrets.MARKETAUX_API_TOKEN }}
         run: |
@@ -24,258 +24,587 @@ jobs:
           import json
           import os
           import re
-          import html
           import urllib.parse
           import urllib.request
-          import xml.etree.ElementTree as ET
           from datetime import datetime, timezone
 
-          token = os.environ.get("MARKETAUX_API_TOKEN", "")
+          TOKEN = os.environ.get("MARKETAUX_API_TOKEN", "").strip()
 
-          # 31개 전체 보유 종목 및 주요 지수 완벽 매칭 맵
-          TICKER_MAP = {
-              "AAPL": ["AAPL", "APPLE"],
-              "NVDA": ["NVDA", "NVIDIA"],
-              "TSLA": ["TSLA", "TESLA"],
-              "MSFT": ["MSFT", "MICROSOFT"],
-              "AMZN": ["AMZN", "AMAZON"],
-              "GOOGL": ["GOOGL", "GOOG", "GOOGLE", "ALPHABET"],
-              "META": ["META", "FACEBOOK"],
-              "MSTR": ["MSTR", "MICROSTRATEGY"],
-              "PLTR": ["PLTR", "PALANTIR"],
-              "AMSC": ["AMSC", "AMERICAN SUPERCONDUCTOR"],
-              "SMH": ["SMH", "SEMICONDUCTOR", "VANECK SEMI"],
-              "SOXX": ["SOXX", "ISHARES SEMI"],
-              "DIS": ["DIS", "DISNEY", "WALT DISNEY"],
-              "MRK": ["MRK", "MERCK"],
-              "AVGO": ["AVGO", "BROADCOM"],
-              "V": ["V", "VISA"],
-              "MA": ["MA", "MASTERCARD"],
-              "INTC": ["INTC", "INTEL"],
-              "KO": ["KO", "COCA-COLA", "COCA COLA"],
-              "MORT": ["MORT"],
-              "BMNR": ["BMNR", "BITMINER"],
-              "MP": ["MP MATERIALS"],
-              "GFUZ": ["GFUZ"],
-              "DKNG": ["DKNG", "DRAFTKINGS"],
-              "AMADA": ["AMADA"],
-              "MCD": ["MCD", "MCDONALD'S", "MCDONALDS"],
-              "NFLX": ["NFLX", "NETFLIX"],
-              "DJT": ["DJT", "TRUMP MEDIA"],
-              "CEG": ["CEG", "CONSTELLATION ENERGY"],
-              "USD": ["USD", "US DOLLAR"],
-              "KRW": ["KRW", "KOREAN WON"],
-              "SPY": ["SPY", "S&P 500", "S&P500"],
-              "QQQ": ["QQQ", "NASDAQ"],
-              "DIA": ["DIA", "DOW JONES", "DOW"]
+          if not TOKEN:
+              raise RuntimeError(
+                  "MARKETAUX_API_TOKEN secret not found."
+              )
+
+          # ==========================================
+          # 앱의 기본 보유 종목
+          # ==========================================
+
+          PORTFOLIO_TICKERS = {
+              "AAPL",
+              "MSFT",
+              "TSLA",
+              "SMH",
+              "GOOGL",
+              "AMZN",
+              "SOXX",
+              "META",
+              "MSTR",
+              "DIS",
+              "MRK",
+              "NVDA",
+              "AVGO",
+              "V",
+              "MA",
+              "INTC",
+              "KO",
+              "MORT",
+              "BMNR",
+              "MP",
+              "AMSC",
+              "GFUZ",
+              "DKNG",
+              "AMADA",
+              "PLTR",
+              "MCD",
+              "NFLX",
+              "DJT",
+              "CEG"
           }
 
-          all_collected_articles = []
+          # ==========================================
+          # MarketAux API 호출
+          # ==========================================
 
-          def clean_text(raw):
-              if not raw:
+          def fetch_marketaux(params):
+              base_url = "https://api.marketaux.com/v1/news/all"
+
+              params["api_token"] = TOKEN
+
+              query = urllib.parse.urlencode(params)
+
+              url = base_url + "?" + query
+
+              request = urllib.request.Request(
+                  url,
+                  headers={
+                      "User-Agent": "MarketBriefing/1.0"
+                  }
+              )
+
+              with urllib.request.urlopen(request, timeout=30) as response:
+                  data = response.read().decode("utf-8")
+
+              return json.loads(data)
+
+          # ==========================================
+          # 문자열 정리
+          # ==========================================
+
+          def clean_text(value):
+              if not value:
                   return ""
-              text = re.sub(r'<[^>]+>', '', str(raw))
-              text = html.unescape(text)
-              return text.strip()
 
-          def match_symbol(text):
-              text_upper = text.upper()
-              for ticker, keywords in TICKER_MAP.items():
-                  for kw in keywords:
-                      kw_upper = kw.upper()
-                      if kw_upper in ["S&P 500", "S&P500", "DOW JONES", "COCA-COLA", "WALT DISNEY", "AMERICAN SUPERCONDUCTOR", "CONSTELLATION ENERGY", "TRUMP MEDIA", "MP MATERIALS"]:
-                          if kw_upper in text_upper:
-                              return ticker
-                      else:
-                          pattern = r'\b' + re.escape(kw_upper) + r'\b'
-                          if re.search(pattern, text_upper):
-                              return ticker
-              return ""
+              value = str(value)
 
-          def fetch_rss(url, source_name="Google News"):
-              articles = []
+              value = re.sub(
+                  r"<[^>]+>",
+                  " ",
+                  value
+              )
+
+              value = re.sub(
+                  r"\s+",
+                  " ",
+                  value
+              )
+
+              return value.strip()
+
+          # ==========================================
+          # 정규화된 기사 키
+          # ==========================================
+
+          def article_key(article):
+              uuid = str(
+                  article.get("uuid", "")
+              ).strip()
+
+              if uuid:
+                  return "uuid:" + uuid
+
+              url = str(
+                  article.get("url", "")
+              ).strip()
+
+              if url:
+                  return "url:" + url
+
+              title = clean_text(
+                  article.get("title", "")
+              ).lower()
+
+              title = re.sub(
+                  r"[^a-z0-9]+",
+                  "",
+                  title
+              )
+
+              return "title:" + title
+
+          # ==========================================
+          # MarketAux 기사 변환
+          # ==========================================
+
+          def convert_article(article):
+
+              title = clean_text(
+                  article.get("title", "")
+              )
+
+              description = clean_text(
+                  article.get("description", "")
+                  or article.get("snippet", "")
+              )
+
+              url = str(
+                  article.get("url", "")
+              ).strip()
+
+              source = str(
+                  article.get("source", "")
+                  or article.get("domain", "")
+                  or "MarketAux"
+              ).strip()
+
+              published_at = str(
+                  article.get("published_at", "")
+              ).strip()
+
+              symbol = ""
+
+              sentiment_score = 0.0
+
+              entities = article.get(
+                  "entities",
+                  []
+              )
+
+              if isinstance(entities, list):
+
+                  for entity in entities:
+
+                      if not isinstance(entity, dict):
+                          continue
+
+                      entity_symbol = str(
+                          entity.get("symbol", "")
+                      ).upper().strip()
+
+                      if entity_symbol in PORTFOLIO_TICKERS:
+
+                          symbol = entity_symbol
+
+                          try:
+                              sentiment_score = float(
+                                  entity.get(
+                                      "sentiment_score",
+                                      0
+                                  ) or 0
+                              )
+                          except Exception:
+                              sentiment_score = 0.0
+
+                          break
+
+              return {
+                  "title": title,
+                  "title_ko": title,
+                  "snippet": description[:300],
+                  "snippet_ko": description[:300],
+                  "symbol": symbol,
+                  "sentiment_score": sentiment_score,
+                  "source": source,
+                  "url": url,
+                  "cross_verified": False,
+                  "published_at": published_at
+              }
+
+          # ==========================================
+          # 전체 수집
+          # ==========================================
+
+          all_articles = []
+
+          print("MarketAux: portfolio news")
+
+          portfolio_params = {
+              "symbols": ",".join(
+                  sorted(PORTFOLIO_TICKERS)
+              ),
+              "language": "en",
+              "filter_entities": "true",
+              "limit": "50"
+          }
+
+          portfolio_data = fetch_marketaux(
+              portfolio_params
+          )
+
+          portfolio_raw = portfolio_data.get(
+              "data",
+              []
+          )
+
+          if isinstance(portfolio_raw, list):
+              all_articles.extend(
+                  portfolio_raw
+              )
+
+          # ==========================================
+          # 시장 뉴스
+          #
+          # 주요 시장 ETF / 지수 관련 기사
+          # ==========================================
+
+          print("MarketAux: market news")
+
+          market_params = {
+              "symbols": "SPY,QQQ,DIA",
+              "language": "en",
+              "filter_entities": "true",
+              "limit": "50"
+          }
+
+          market_data = fetch_marketaux(
+              market_params
+          )
+
+          market_raw = market_data.get(
+              "data",
+              []
+          )
+
+          market_articles = []
+
+          if isinstance(market_raw, list):
+              market_articles = market_raw
+
+          # ==========================================
+          # 중복 제거
+          # ==========================================
+
+          seen = set()
+
+          portfolio_news = []
+          market_news = []
+
+          # --------------------------
+          # 보유 종목 뉴스
+          # --------------------------
+
+          for article in all_articles:
+
               try:
-                  req = urllib.request.Request(
-                      url, 
-                      headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+                  item = convert_article(
+                      article
                   )
-                  with urllib.request.urlopen(req, timeout=15) as resp:
-                      xml_data = resp.read()
-                      root = ET.fromstring(xml_data)
-                      
-                      for item in root.findall(".//item"):
-                          raw_title = item.findtext("title") or ""
-                          raw_desc = item.findtext("description") or ""
-                          link = (item.findtext("link") or "").strip()
-                          pub_date = (item.findtext("pubDate") or "").strip()
 
-                          title = clean_text(raw_title)
-                          clean_desc = clean_text(raw_desc)
+                  key = article_key(
+                      article
+                  )
 
-                          if not title:
-                              continue
+                  if key in seen:
+                      continue
 
-                          symbol = match_symbol(title + " " + clean_desc)
+                  seen.add(key)
 
-                          text_lower = (title + " " + clean_desc).lower()
-                          pos_words = ["surge", "soar", "gain", "rally", "jump", "profit", "record", "beat", "upgrade", "rise", "bullish", "high", "growth", "outperform"]
-                          neg_words = ["drop", "fall", "plunge", "slump", "loss", "miss", "downgrade", "plummet", "crash", "bearish", "decline", "cut", "risk", "slash"]
-                          
-                          pos_cnt = sum(1 for w in pos_words if re.search(r'\b' + re.escape(w) + r'\b', text_lower))
-                          neg_cnt = sum(1 for w in neg_words if re.search(r'\b' + re.escape(w) + r'\b', text_lower))
-                          
-                          score = 0.0
-                          if pos_cnt > neg_cnt:
-                              score = 0.25
-                          elif neg_cnt > pos_cnt:
-                              score = -0.25
+                  symbol = item.get(
+                      "symbol",
+                      ""
+                  ).upper()
 
-                          articles.append({
-                              "title": title,
-                              "title_ko": title,
-                              "snippet": clean_desc[:180] + "..." if len(clean_desc) > 180 else clean_desc,
-                              "snippet_ko": clean_desc[:180] + "..." if len(clean_desc) > 180 else clean_desc,
-                              "symbol": symbol,
-                              "sentiment_score": score,
-                              "source": source_name,
-                              "url": link,
-                              "cross_verified": False,
-                              "published_at": pub_date
-                          })
-              except Exception as e:
-                  print(f"RSS 수집 오류 ({source_name}): {e}")
-              return articles
+                  # 핵심:
+                  # 실제 보유 종목만 portfolio_news에 넣음
+                  if symbol in PORTFOLIO_TICKERS:
 
-          # 확장 구글 뉴스 RSS 수집
-          google_market_url = "https://news.google.com/rss/search?q=stock+market+OR+economy+when:1d&hl=en-US&gl=US&ceid=US:en"
-          all_collected_articles.extend(fetch_rss(google_market_url, "Google Market News"))
+                      if item.get("title"):
+                          portfolio_news.append(
+                              item
+                          )
 
-          google_stocks_url = "https://news.google.com/rss/search?q=Nvidia+OR+Apple+OR+Tesla+OR+Microsoft+OR+Palantir+OR+MicroStrategy+OR+Amazon+OR+Meta+OR+Google+OR+Netflix+OR+Disney+OR+Intel+stock+when:1d&hl=en-US&gl=US&ceid=US:en"
-          all_collected_articles.extend(fetch_rss(google_stocks_url, "Google Stocks News"))
+              except Exception as error:
+                  print(
+                      "Portfolio article error:",
+                      error
+                  )
 
-          # MarketAux API 수집 (보조)
-          if token:
+          # --------------------------
+          # 시장 뉴스
+          # --------------------------
+
+          for article in market_articles:
+
               try:
-                  target_symbols_str = "SPY,QQQ,DIA,AAPL,MSFT,NVDA,MSTR,PLTR,AMSC,GOOGL,AMZN,META,TSLA,SMH,SOXX,DIS,MRK,AVGO,V,MA,INTC,KO,NFLX,MCD,DKNG,DJT,CEG"
-                  target_set = set(target_symbols_str.split(","))
-                  params = urllib.parse.urlencode({
-                      "api_token": token,
-                      "language": "en",
-                      "symbols": target_symbols_str,
-                      "limit": 50
-                  })
-                  url = "https://api.marketaux.com/v1/news/all?" + params
-                  req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
-                  with urllib.request.urlopen(req, timeout=15) as resp:
-                      if resp.status == 200:
-                          raw_articles = json.loads(resp.read().decode("utf-8")).get("data", [])
-                          for item in raw_articles:
-                              t_en = clean_text(item.get("title") or "")
-                              s_en = clean_text(item.get("snippet") or item.get("description") or "")
-                              if not t_en:
-                                  continue
-                              entities = item.get("entities", [])
-                              sym = ""
-                              score = 0
-                              for ent in entities:
-                                  s_name = ent.get("symbol", "").upper()
-                                  if s_name in target_set:
-                                      sym = s_name
-                                      score = ent.get("sentiment_score", 0)
-                                      break
+                  item = convert_article(
+                      article
+                  )
 
-                              if not sym:
-                                  sym = match_symbol(t_en + " " + s_en)
+                  key = article_key(
+                      article
+                  )
 
-                              all_collected_articles.append({
-                                  "title": t_en,
-                                  "title_ko": t_en,
-                                  "snippet": s_en[:180] + "..." if len(s_en) > 180 else s_en,
-                                  "snippet_ko": s_en[:180] + "..." if len(s_en) > 180 else s_en,
-                                  "symbol": sym,
-                                  "sentiment_score": score,
-                                  "source": item.get("source", "MarketAux"),
-                                  "url": item.get("url", "#"),
-                                  "cross_verified": False,
-                                  "published_at": item.get("published_at", "")
-                              })
-              except Exception as e:
-                  print(f"MarketAux API 수집 중단 (RSS로 정상 계속): {e}")
+                  if key in seen:
+                      continue
 
-          # 중복 제거 및 키 검증
-          seen_titles = {}
-          processed_articles = []
+                  seen.add(key)
 
-          for art in all_collected_articles:
-              title_key = re.sub(r'[\W_]+', '', art["title"].lower())
-              if not title_key:
-                  title_key = art["title"].lower().strip()
-              if title_key in seen_titles:
-                  seen_titles[title_key]["cross_verified"] = True
-              else:
-                  seen_titles[title_key] = art
-                  processed_articles.append(art)
+                  if item.get("title"):
+                      market_news.append(
+                          item
+                      )
 
-          market_indices = {"SPY", "QQQ", "DIA", "IWM", "VT"}
-          new_market_news = []
-          new_portfolio_news = []
+              except Exception as error:
+                  print(
+                      "Market article error:",
+                      error
+                  )
 
-          for art in processed_articles:
-              if art["symbol"] in market_indices or not art["symbol"]:
-                  new_market_news.append(art)
-              else:
-                  new_portfolio_news.append(art)
+          # ==========================================
+          # 최신순 정렬
+          # ==========================================
 
-          if not new_market_news and new_portfolio_news:
-              new_market_news = new_portfolio_news[:5]
+          def sort_key(article):
+              return str(
+                  article.get(
+                      "published_at",
+                      ""
+                  )
+              )
 
-          # 기존 news.json 파일 병합
+          portfolio_news.sort(
+              key=sort_key,
+              reverse=True
+          )
+
+          market_news.sort(
+              key=sort_key,
+              reverse=True
+          )
+
+          # 너무 많이 저장하지 않음
+          portfolio_news = portfolio_news[:60]
+          market_news = market_news[:60]
+
+          # ==========================================
+          # 기존 news.json
+          # ==========================================
+
           old_market_news = []
           old_portfolio_news = []
+
           if os.path.exists("news.json"):
+
               try:
-                  with open("news.json", "r", encoding="utf-8") as f:
-                      old_data = json.load(f)
-                      old_market_news = old_data.get("market_news", [])
-                      old_portfolio_news = old_data.get("portfolio_news", [])
-              except Exception:
-                  pass
 
-          def merge_articles(new_list, old_list, max_limit=100):
-              seen_keys = set()
-              combined = []
-              for art in new_list:
-                  title_key = re.sub(r'[\W_]+', '', art.get("title", "").lower())
-                  key = title_key if title_key else art.get("url", "").strip()
-                  if key and key not in seen_keys:
-                      seen_keys.add(key)
-                      combined.append(art)
-              for art in old_list:
-                  title_key = re.sub(r'[\W_]+', '', art.get("title", "").lower())
-                  key = title_key if title_key else art.get("url", "").strip()
-                  if key and key not in seen_keys:
-                      seen_keys.add(key)
-                      combined.append(art)
-              return combined[:max_limit]
+                  with open(
+                      "news.json",
+                      "r",
+                      encoding="utf-8"
+                  ) as file:
 
-          market_news = merge_articles(new_market_news, old_market_news)
-          portfolio_news = merge_articles(new_portfolio_news, old_portfolio_news)
+                      old_data = json.load(
+                          file
+                      )
+
+                  old_market_news = old_data.get(
+                      "market_news",
+                      []
+                  )
+
+                  old_portfolio_news = old_data.get(
+                      "portfolio_news",
+                      []
+                  )
+
+              except Exception as error:
+
+                  print(
+                      "Existing news.json read error:",
+                      error
+                  )
+
+          # ==========================================
+          # 안전한 병합
+          # ==========================================
+
+          def merge_news(
+              current,
+              previous,
+              maximum=100
+          ):
+
+              result = []
+              keys = set()
+
+              combined = (
+                  current +
+                  previous
+              )
+
+              for article in combined:
+
+                  title = clean_text(
+                      article.get(
+                          "title",
+                          ""
+                      )
+                  )
+
+                  url = str(
+                      article.get(
+                          "url",
+                          ""
+                      )
+                  ).strip()
+
+                  if not title and not url:
+                      continue
+
+                  key = (
+                      url
+                      if url
+                      else title.lower()
+                  )
+
+                  if key in keys:
+                      continue
+
+                  keys.add(key)
+                  result.append(article)
+
+              return result[:maximum]
+
+          final_market_news = merge_news(
+              market_news,
+              old_market_news,
+              100
+          )
+
+          final_portfolio_news = merge_news(
+              portfolio_news,
+              old_portfolio_news,
+              100
+          )
+
+          # ==========================================
+          # 수집 실패 보호
+          # ==========================================
+
+          if (
+              len(final_market_news) == 0
+              and len(final_portfolio_news) == 0
+          ):
+
+              raise RuntimeError(
+                  "No usable news collected. "
+                  "Existing news.json was not overwritten."
+              )
+
+          # ==========================================
+          # 최종 JSON
+          # ==========================================
 
           result = {
-              "updated_at": datetime.now(timezone.utc).isoformat(),
-              "status": "ok" if (market_news or portfolio_news) else "error",
-              "market_news": market_news,
-              "portfolio_news": portfolio_news
+              "updated_at":
+                  datetime.now(
+                      timezone.utc
+                  ).isoformat(),
+
+              "status": "ok",
+
+              "market_news":
+                  final_market_news,
+
+              "portfolio_news":
+                  final_portfolio_news
           }
 
-          with open("news.json", "w", encoding="utf-8") as f:
-              json.dump(result, f, ensure_ascii=False, indent=2)
+          with open(
+              "news.json",
+              "w",
+              encoding="utf-8"
+          ) as file:
+
+              json.dump(
+                  result,
+                  file,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+          print(
+              "================================"
+          )
+
+          print(
+              "Market news:",
+              len(final_market_news)
+          )
+
+          print(
+              "Portfolio news:",
+              len(final_portfolio_news)
+          )
+
+          print(
+              "news.json successfully created."
+          )
+
+          print(
+              "================================"
+          )
+
+          PY
+
+      - name: Validate news.json
+        run: |
+          python - <<'PY'
+          import json
+
+          with open(
+              "news.json",
+              "r",
+              encoding="utf-8"
+          ) as file:
+              data = json.load(file)
+
+          assert isinstance(
+              data.get("market_news"),
+              list
+          )
+
+          assert isinstance(
+              data.get("portfolio_news"),
+              list
+          )
+
+          assert data.get(
+              "status"
+          ) == "ok"
+
+          print("news.json validation: OK")
           PY
 
       - name: Save news.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add news.json
-          git diff --cached --quiet || (git commit -m "Update news via Hybrid Collector every 10m" && git pull --rebase origin main && git push)
+
+          if git diff --cached --quiet; then
+            echo "No news.json changes."
+          else
+            git commit -m "Update market news"
+            git push
+          fi
