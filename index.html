@@ -40,38 +40,43 @@
       background: linear-gradient(135deg, #18233b, #10182b);
       border: 1px solid var(--line);
       border-radius: 16px;
-      padding: 22px;
+      padding: 18px 22px;
       margin-bottom: 14px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 10px;
     }
 
     h1 {
-      margin: 0 0 7px;
-      font-size: 25px;
+      margin: 0 0 4px;
+      font-size: 22px;
     }
 
     .date {
       color: var(--muted);
-      font-size: 13px;
+      font-size: 12px;
     }
 
     .section {
       background: var(--panel);
       border: 1px solid var(--line);
       border-radius: 14px;
-      padding: 16px;
+      padding: 14px;
       margin-bottom: 14px;
     }
 
     h2 {
-      font-size: 18px;
-      margin: 0 0 12px;
+      font-size: 16px;
+      margin: 0 0 10px;
       display: flex;
       align-items: center;
       gap: 6px;
     }
 
     .news {
-      padding: 12px 0;
+      padding: 10px 0;
       border-bottom: 1px solid var(--line);
     }
 
@@ -84,11 +89,11 @@
       display: inline-block;
       color: var(--accent);
       background: #1d3155;
-      border-radius: 5px;
-      padding: 4px 8px;
-      font-size: 11px;
-      margin-bottom: 7px;
-      margin-right: 4px;
+      border-radius: 4px;
+      padding: 3px 6px;
+      font-size: 10px;
+      margin-bottom: 5px;
+      margin-right: 3px;
     }
 
     .tag-my {
@@ -98,11 +103,17 @@
       font-weight: bold;
     }
 
+    .tag-verified {
+      background: #1e3a29;
+      color: var(--good);
+      border: 1px solid #285e3c;
+    }
+
     .news-title {
       font-weight: 700;
-      font-size: 15px;
-      margin-bottom: 6px;
-      line-height: 1.4;
+      font-size: 14px;
+      margin-bottom: 5px;
+      line-height: 1.35;
     }
 
     .news-title a {
@@ -116,12 +127,12 @@
 
     .news-text {
       color: var(--muted);
-      font-size: 13px;
-      line-height: 1.55;
-      background: rgba(0, 0, 0, 0.15);
-      padding: 8px 10px;
-      border-radius: 6px;
-      border-left: 3px solid var(--accent);
+      font-size: 12px;
+      line-height: 1.45;
+      background: rgba(0, 0, 0, 0.2);
+      padding: 6px 8px;
+      border-radius: 5px;
+      border-left: 2px solid var(--accent);
     }
 
     .toolbar {
@@ -129,21 +140,41 @@
       gap: 8px;
       align-items: center;
       justify-content: space-between;
-      margin-bottom: 10px;
+      margin-bottom: 8px;
     }
 
     .toolbar h2 {
       margin: 0;
     }
 
+    .edit-area {
+      display: flex;
+      gap: 4px;
+      align-items: center;
+      flex-grow: 1;
+      justify-content: flex-end;
+    }
+
+    .inline-input {
+      background: #0e1628;
+      color: var(--text);
+      border: 1px solid var(--accent);
+      border-radius: 6px;
+      padding: 5px 8px;
+      font-size: 12px;
+      width: 100%;
+      max-width: 280px;
+    }
+
     .button {
       border: 1px solid var(--line);
       background: var(--panel2);
       color: var(--text);
-      border-radius: 8px;
-      padding: 8px 11px;
-      font-size: 12px;
+      border-radius: 6px;
+      padding: 6px 10px;
+      font-size: 11px;
       cursor: pointer;
+      white-space: nowrap;
     }
 
     .button.primary {
@@ -155,60 +186,22 @@
       filter: brightness(1.15);
     }
 
+    /* 보유 종목창 크기 축소 디자인 */
     .portfolio {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 7px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
     }
 
     .stock {
       background: var(--panel2);
       border: 1px solid var(--line);
-      border-radius: 8px;
-      padding: 9px 4px;
+      border-radius: 5px;
+      padding: 4px 8px;
       text-align: center;
       font-weight: 700;
-      font-size: 12px;
-    }
-
-    .editor {
-      display: none;
-      margin-top: 10px;
-    }
-
-    .editor.open {
-      display: block;
-    }
-
-    .hint {
-      font-size: 12px;
-      color: var(--muted);
-      line-height: 1.5;
-    }
-
-    .input {
-      width: 100%;
-      min-height: 110px;
-      background: #0e1628;
-      color: var(--text);
-      border: 1px solid var(--line);
-      border-radius: 8px;
-      padding: 10px;
-      font: 13px monospace;
-      resize: vertical;
-      margin-top: 8px;
-    }
-
-    .editor-buttons {
-      margin-top: 8px;
-      display: flex;
-      gap: 8px;
-    }
-
-    .status {
-      font-size: 12px;
-      color: var(--good);
-      margin-top: 8px;
+      font-size: 11px;
+      color: #c5d3f0;
     }
 
     .footer {
@@ -216,20 +209,6 @@
       color: var(--muted);
       font-size: 11px;
       padding: 6px;
-    }
-
-    @media (max-width: 430px) {
-      .container {
-        padding: 10px;
-      }
-
-      .portfolio {
-        grid-template-columns: repeat(4, 1fr);
-      }
-
-      .section {
-        padding: 13px;
-      }
     }
   </style>
 </head>
@@ -239,8 +218,11 @@
   <div class="container">
 
     <header class="header">
-      <h1>Market Briefing</h1>
-      <div class="date" id="lastUpdated">미국 자본시장 · 한글 뉴스 자동 요약 브리핑</div>
+      <div>
+        <h1>Market Briefing</h1>
+        <div class="date" id="lastUpdated">미국 자본시장 · 한글 뉴스 요약</div>
+      </div>
+      <button class="button primary" id="checkNewsBtn">⚡ 즉시 뉴스 확인</button>
     </header>
 
     <!-- 1. 전체 시장 요약 뉴스 창 -->
@@ -259,37 +241,17 @@
       </div>
     </section>
 
-    <!-- 3. 내 보유 종목 관리 창 -->
+    <!-- 3. 내 보유 종목 관리 창 (축소 및 간소화 버전) -->
     <section class="section">
 
       <div class="toolbar">
         <h2>💼 내 보유 종목</h2>
-        <button class="button primary" id="editBtn">종목 수정</button>
+        <div id="editControls" class="edit-area">
+          <button class="button primary" id="editBtn">종목 수정</button>
+        </div>
       </div>
 
       <div class="portfolio" id="portfolio"></div>
-
-      <div class="editor" id="editor">
-
-        <div class="hint">
-          티커를 쉼표로 구분해 입력하세요.
-          저장하면 내 종목 뉴스 목록이 최신 설정에 맞게 필터링됩니다.
-        </div>
-
-        <textarea
-          class="input"
-          id="tickerInput"
-          placeholder="AAPL, MSFT, NVDA"
-        ></textarea>
-
-        <div class="editor-buttons">
-          <button class="button primary" id="saveBtn">저장</button>
-          <button class="button" id="cancelBtn">취소</button>
-        </div>
-
-        <div class="status" id="status"></div>
-
-      </div>
 
     </section>
 
@@ -312,12 +274,11 @@
     let newsData = { updated_at: "", market_news: [], portfolio_news: [] };
 
     const portfolio = document.getElementById("portfolio");
-    const editor = document.getElementById("editor");
-    const input = document.getElementById("tickerInput");
-    const status = document.getElementById("status");
+    const editControls = document.getElementById("editControls");
     const marketNewsContainer = document.getElementById("marketNewsContainer");
     const portfolioNewsContainer = document.getElementById("portfolioNewsContainer");
     const lastUpdatedEl = document.getElementById("lastUpdated");
+    const checkNewsBtn = document.getElementById("checkNewsBtn");
 
     function escapeHtml(str) {
       if (!str) return "";
@@ -338,6 +299,7 @@
       }
 
       renderPortfolio();
+      renderEditButton();
       fetchNews();
     }
 
@@ -351,29 +313,54 @@
       });
     }
 
+    function renderEditButton() {
+      editControls.innerHTML = `<button class="button primary" id="editBtn">종목 수정</button>`;
+      document.getElementById("editBtn").onclick = startInlineEdit;
+    }
+
+    function startInlineEdit() {
+      editControls.innerHTML = `
+        <input type="text" class="inline-input" id="inlineInput" value="${tickers.join(', ')}" placeholder="티커 입력 (예: NVDA, MSTR)">
+        <button class="button primary" id="saveInlineBtn">저장</button>
+        <button class="button" id="cancelInlineBtn">취소</button>
+      `;
+
+      document.getElementById("saveInlineBtn").onclick = () => {
+        const val = document.getElementById("inlineInput").value;
+        const next = val.split(",").map(x => x.trim().toUpperCase()).filter(Boolean);
+        if (!next.length) return;
+
+        tickers = [...new Set(next)];
+        localStorage.setItem(key, JSON.stringify(tickers));
+        renderPortfolio();
+        renderAllNews();
+        renderEditButton();
+      };
+
+      document.getElementById("cancelInlineBtn").onclick = renderEditButton;
+    }
+
     async function fetchNews() {
+      checkNewsBtn.textContent = "🔄 업데이트 중...";
       try {
         const res = await fetch(`news.json?t=${Date.now()}`);
-        if (!res.ok) throw new Error("news.json 파일이 존재하지 않습니다.");
+        if (!res.ok) throw new Error("news.json 불러오기 실패");
         
         newsData = await res.json();
         
         if (newsData.updated_at) {
           const dateObj = new Date(newsData.updated_at);
-          lastUpdatedEl.textContent = `마지막 업데이트: ${dateObj.toLocaleString("ko-KR")}`;
+          lastUpdatedEl.textContent = `업데이트: ${dateObj.getHours()}:${String(dateObj.getMinutes()).padStart(2, '0')}`;
         }
         
         renderAllNews();
       } catch (err) {
         console.error(err);
-        const errHtml = `
-          <div class="news-text">
-            뉴스를 불러올 수 없습니다.<br>
-            GitHub Actions 자동 수집 및 번역 작업이 실행된 후 표시됩니다.
-          </div>
-        `;
+        const errHtml = `<div class="news-text">수집된 뉴스가 없습니다. GitHub Actions 수집 완료 후 자동 표출됩니다.</div>`;
         marketNewsContainer.innerHTML = errHtml;
         portfolioNewsContainer.innerHTML = errHtml;
+      } finally {
+        checkNewsBtn.textContent = "⚡ 즉시 뉴스 확인";
       }
     }
 
@@ -385,7 +372,6 @@
 
       let displayList = articles;
 
-      // 보유 종목 구역일 경우 현재 저장된 보유 종목(tickers) 기준으로 필터링
       if (isPortfolioSection) {
         displayList = articles.filter(art => {
           const sym = art.symbol ? art.symbol.toUpperCase() : "";
@@ -393,7 +379,7 @@
         });
 
         if (displayList.length === 0) {
-          container.innerHTML = `<div class="news-text">현재 설정된 내 보유 종목에 해당하는 최근 뉴스가 없습니다.</div>`;
+          container.innerHTML = `<div class="news-text">설정하신 보유 종목의 최근 기사가 없습니다.</div>`;
           return;
         }
       }
@@ -401,6 +387,7 @@
       container.innerHTML = displayList.map(art => {
         const symbol = art.symbol ? art.symbol.toUpperCase() : "";
         const score = typeof art.sentiment_score === "number" ? art.sentiment_score : 0;
+        const isCrossVerified = art.cross_verified || false;
 
         let sentimentText = "중립";
         let tagStyle = "background: #1d3155; color: #75a7ff;";
@@ -423,14 +410,15 @@
           <div class="news">
             <div>
               ${isMy ? `<span class="tag tag-my">★ 내 종목</span>` : ""}
+              ${isCrossVerified ? `<span class="tag tag-verified">✓ 교차검증 완료</span>` : ""}
               <span class="tag" style="${tagStyle}">${sentimentText}</span>
               ${symbol ? `<span class="tag" style="background:#2b3854; color:#fff;">${symbol}</span>` : ""}
-              <span class="tag" style="background:transparent; color:var(--muted); padding:0 4px;">${source}</span>
+              <span class="tag" style="background:transparent; color:var(--muted); padding:0 2px;">${source}</span>
             </div>
             <div class="news-title">
               <a href="${url}" target="_blank" rel="noopener noreferrer">${titleKo}</a>
             </div>
-            <div class="news-text">💡 ${snippetKo}</div>
+            <div class="news-text">📌 요약: ${snippetKo}</div>
           </div>
         `;
       }).join("");
@@ -441,37 +429,7 @@
       renderNewsList(newsData.portfolio_news || [], portfolioNewsContainer, true);
     }
 
-    document.getElementById("editBtn").onclick = () => {
-      input.value = tickers.join(", ");
-      editor.classList.add("open");
-      status.textContent = "";
-    };
-
-    document.getElementById("cancelBtn").onclick = () => {
-      editor.classList.remove("open");
-    };
-
-    document.getElementById("saveBtn").onclick = () => {
-      const next = input.value
-        .split(",")
-        .map(x => x.trim().toUpperCase())
-        .filter(Boolean);
-
-      if (!next.length) {
-        status.style.color = "var(--bad)";
-        status.textContent = "최소 1개 이상의 종목을 입력하세요.";
-        return;
-      }
-
-      tickers = [...new Set(next)];
-      localStorage.setItem(key, JSON.stringify(tickers));
-
-      renderPortfolio();
-      renderAllNews();
-
-      status.style.color = "var(--good)";
-      status.textContent = "저장했습니다.";
-    };
+    checkNewsBtn.onclick = fetchNews;
 
     load();
   </script>
