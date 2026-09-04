@@ -1,0 +1,94 @@
+{
+  "updated_at": "2026-09-04T09:33:46.690752+00:00",
+  "status": "ok",
+  "articles": [
+    {
+      "uuid": "e51261bb-a60b-4b32-a54e-cbd736cd92d3",
+      "title": "France Initiates Tesla Vehicle Testing Ahead of Decision on Full Self-Driving Technology",
+      "description": "On September 04, 2026, France's Minister of Transport, Philippe Tabaro, announced that the country has begun testing vehicles equipped with Tesla's fully autono",
+      "keywords": "GuruFocus, Article, News, GuruFocus News, SMCI",
+      "snippet": "On September 04, 2026, France's Minister of Transport, Philippe Tabaro, announced that the country has begun testing vehicles equipped with Tesla's fully autono...",
+      "url": "https://www.gurufocus.com/news/9068217/france-initiates-tesla-vehicle-testing-ahead-of-decision-on-full-selfdriving-technology",
+      "image_url": "https://static.gurufocus.com/logos/0C00000PSC.png?20",
+      "language": "en",
+      "published_at": "2026-09-04T09:21:00.000000Z",
+      "source": "gurufocus.com",
+      "relevance_score": null,
+      "entities": [
+        {
+          "symbol": "SMCI",
+          "name": "Super Micro Computer, Inc.",
+          "exchange": null,
+          "exchange_long": null,
+          "country": "us",
+          "type": "equity",
+          "industry": "Technology",
+          "match_score": 26.333242,
+          "sentiment_score": 0.1779,
+          "highlights": [
+            {
+              "highlight": "<em>Super</em> <em>Micro</em> <em>Comput[+282 characters]",
+              "sentiment": 0.1779,
+              "highlighted_in": "main_text"
+            }
+          ]
+        }
+      ],
+      "similar": []
+    },
+    {
+      "uuid": "6faa9efe-22c0-436d-8121-abaf8ed9ba8b",
+      "title": "Investing In The U.S. Consumer: Why Securitized Credit Is Poised To Shine",
+      "description": "Structured credit provides exposure to the cash flows powering the modern economy, but unlocking value requires actively navigating market complexity. Read more here.",
+      "keywords": "",
+      "snippet": "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser.\n\nIf you have an ad-blocker enabled you may be blocked from ...",
+      "url": "https://seekingalpha.com/article/4943062-investing-in-us-consumer-securitized-credit-poised-to-shine",
+      "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2268639428/image_2268639428.jpg?io=getty-c-w1536",
+      "language": "en",
+      "published_at": "2026-09-04T09:15:00.000000Z",
+      "source": "seekingalpha.com",
+      "relevance_score": null,
+      "entities": [],
+      "similar": []
+    },
+    {
+      "uuid": "271a9341-13e4-4bb0-bd50-52af6ef95497",
+      "title": "Lands' End, Inc. (LE) Q2 2026 Earnings Call Transcript",
+      "description": "Lands’ End (LE) Q2 FY2026 earnings recap: revenue up 3%, e-commerce up 9%, margin gain",
+      "keywords": "",
+      "snippet": "Presentation\n\nHello, and welcome, everyone, joining today's Lands' End Second Quarter Fiscal 2026 Earnings Call. [Operator Instructions]. Please note, this call...",
+      "url": "https://seekingalpha.com/article/4942818-lands-end-inc-le-q2-2026-earnings-call-transcript",
+      "image_url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "language": "en",
+      "published_at": "2026-09-04T09:12:56.000000Z",
+      "source": "seekingalpha.com",
+      "relevance_score": null,
+      "entities": [
+        {
+          "symbol": "LE",
+          "name": "Lands' End, Inc.",
+          "exchange": null,
+          "exchange_long": null,
+          "country": "us",
+          "type": "equity",
+          "industry": "Consumer Cyclical",
+          "match_score": 118.85108,
+          "sentiment_score": 0.4417,
+          "highlights": [
+            {
+              "highlight": "Presentation\n\nHello, and welcome, everyo[+291 characters]",
+              "sentiment": 0.8834,
+              "highlighted_in": "main_text"
+            },
+            {
+              "highlight": "<em>Lands</em>' <em>End</em>, <em>Inc</em>. (LE) Q2 2026 Earnings Call Transcript",
+              "sentiment": 0,
+              "highlighted_in": "title"
+            }
+          ]
+        }
+      ],
+      "similar": []
+    }
+  ]
+}
