@@ -3,7 +3,7 @@ name: Update Market News
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "*/30 * * * *"  # 매 30분마다 실행
 
 permissions:
   contents: write
@@ -59,7 +59,6 @@ jobs:
               snippet_en = item.get("snippet") or item.get("description") or ""
               title_key = title_en.lower()[:30]
 
-              # entities 내에서 target_set과 일치하는 symbol 우선 탐색
               symbol = ""
               sentiment_score = 0
               entities = item.get("entities", [])
@@ -104,11 +103,9 @@ jobs:
               else:
                   new_portfolio_news.append(art)
 
-          # 시장 뉴스(지수 뉴스)가 0건일 경우, 포트폴리오 뉴스 중 최신 뉴스를 시장 브리핑에도 노출
           if not new_market_news and new_portfolio_news:
               new_market_news = new_portfolio_news[:5]
 
-          # 기존 news.json 파일 데이터 불러오기 및 병합
           old_market_news = []
           old_portfolio_news = []
           if os.path.exists("news.json"):
@@ -153,5 +150,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add news.json
-          git diff --cached --quiet || git commit -m "Update and accumulate market news"
+          git diff --cached --quiet || git commit -m "Update and accumulate market news every 30m"
           git push
