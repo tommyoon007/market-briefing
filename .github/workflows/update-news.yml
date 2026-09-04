@@ -3,7 +3,7 @@ name: Update Market News
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/10 * * * *"  # 10분마다 실행
+    - cron: "*/10 * * * *"  # 10분마다 초고속 실행
 
 permissions:
   contents: write
@@ -13,87 +13,269 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Fetch News and Create news.json
+      - name: Create news.json with Hybrid RSS & API Collector
+        env:
+          MARKETAUX_API_TOKEN: ${{ secrets.MARKETAUX_API_TOKEN }}
         run: |
           python - <<'PY'
           import json
+          import os
           import re
           import html
+          import urllib.parse
           import urllib.request
           import xml.etree.ElementTree as ET
           from datetime import datetime, timezone
 
-          def clean_text(raw_text):
-              if not raw_text:
-                  return ""
-              # HTML 태그 제거 및 특수문자 디코딩
-              text = re.sub(r'<[^>]+>', '', str(raw_text))
-              return html.unescape(text).strip()
+          token = os.environ.get("MARKETAUX_API_TOKEN", "")
 
-          def fetch_google_news(query):
+          # 31개 전체 보유 종목 및 주요 지수 완벽 매칭 맵
+          TICKER_MAP = {
+              "AAPL": ["AAPL", "APPLE"],
+              "NVDA": ["NVDA", "NVIDIA"],
+              "TSLA": ["TSLA", "TESLA"],
+              "MSFT": ["MSFT", "MICROSOFT"],
+              "AMZN": ["AMZN", "AMAZON"],
+              "GOOGL": ["GOOGL", "GOOG", "GOOGLE", "ALPHABET"],
+              "META": ["META", "FACEBOOK"],
+              "MSTR": ["MSTR", "MICROSTRATEGY"],
+              "PLTR": ["PLTR", "PALANTIR"],
+              "AMSC": ["AMSC", "AMERICAN SUPERCONDUCTOR"],
+              "SMH": ["SMH", "SEMICONDUCTOR", "VANECK SEMI"],
+              "SOXX": ["SOXX", "ISHARES SEMI"],
+              "DIS": ["DIS", "DISNEY", "WALT DISNEY"],
+              "MRK": ["MRK", "MERCK"],
+              "AVGO": ["AVGO", "BROADCOM"],
+              "V": ["V", "VISA"],
+              "MA": ["MA", "MASTERCARD"],
+              "INTC": ["INTC", "INTEL"],
+              "KO": ["KO", "COCA-COLA", "COCA COLA"],
+              "MORT": ["MORT"],
+              "BMNR": ["BMNR", "BITMINER"],
+              "MP": ["MP MATERIALS"],
+              "GFUZ": ["GFUZ"],
+              "DKNG": ["DKNG", "DRAFTKINGS"],
+              "AMADA": ["AMADA"],
+              "MCD": ["MCD", "MCDONALD'S", "MCDONALDS"],
+              "NFLX": ["NFLX", "NETFLIX"],
+              "DJT": ["DJT", "TRUMP MEDIA"],
+              "CEG": ["CEG", "CONSTELLATION ENERGY"],
+              "USD": ["USD", "US DOLLAR"],
+              "KRW": ["KRW", "KOREAN WON"],
+              "SPY": ["SPY", "S&P 500", "S&P500"],
+              "QQQ": ["QQQ", "NASDAQ"],
+              "DIA": ["DIA", "DOW JONES", "DOW"]
+          }
+
+          all_collected_articles = []
+
+          def clean_text(raw):
+              if not raw:
+                  return ""
+              text = re.sub(r'<[^>]+>', '', str(raw))
+              text = html.unescape(text)
+              return text.strip()
+
+          def match_symbol(text):
+              text_upper = text.upper()
+              for ticker, keywords in TICKER_MAP.items():
+                  for kw in keywords:
+                      kw_upper = kw.upper()
+                      if kw_upper in ["S&P 500", "S&P500", "DOW JONES", "COCA-COLA", "WALT DISNEY", "AMERICAN SUPERCONDUCTOR", "CONSTELLATION ENERGY", "TRUMP MEDIA", "MP MATERIALS"]:
+                          if kw_upper in text_upper:
+                              return ticker
+                      else:
+                          pattern = r'\b' + re.escape(kw_upper) + r'\b'
+                          if re.search(pattern, text_upper):
+                              return ticker
+              return ""
+
+          def fetch_rss(url, source_name="Google News"):
               articles = []
-              url = f"https://news.google.com/rss/search?q={urllib.parse.quote(query)}&hl=en-US&gl=US&ceid=US:en"
-              
-              req = urllib.request.Request(
-                  url, 
-                  headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
-              )
-              
               try:
-                  with urllib.request.urlopen(req, timeout=10) as resp:
+                  req = urllib.request.Request(
+                      url, 
+                      headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+                  )
+                  with urllib.request.urlopen(req, timeout=15) as resp:
                       xml_data = resp.read()
                       root = ET.fromstring(xml_data)
                       
-                      for item in root.findall(".//item")[:30]:
-                          title = clean_text(item.findtext("title"))
-                          link = clean_text(item.findtext("link"))
-                          pub_date = clean_text(item.findtext("pubDate"))
-                          
-                          # 출처 분리 (예: "Title - Source" 형태)
-                          source = "Google News"
-                          if " - " in title:
-                              parts = title.rsplit(" - ", 1)
-                              title = parts[0]
-                              source = parts[1]
+                      for item in root.findall(".//item"):
+                          raw_title = item.findtext("title") or ""
+                          raw_desc = item.findtext("description") or ""
+                          link = (item.findtext("link") or "").strip()
+                          pub_date = (item.findtext("pubDate") or "").strip()
 
-                          if title and link:
-                              articles.append({
-                                  "title": title,
-                                  "url": link,
-                                  "source": source,
-                                  "published_at": pub_date
-                              })
+                          title = clean_text(raw_title)
+                          clean_desc = clean_text(raw_desc)
+
+                          if not title:
+                              continue
+
+                          symbol = match_symbol(title + " " + clean_desc)
+
+                          text_lower = (title + " " + clean_desc).lower()
+                          pos_words = ["surge", "soar", "gain", "rally", "jump", "profit", "record", "beat", "upgrade", "rise", "bullish", "high", "growth", "outperform"]
+                          neg_words = ["drop", "fall", "plunge", "slump", "loss", "miss", "downgrade", "plummet", "crash", "bearish", "decline", "cut", "risk", "slash"]
+                          
+                          pos_cnt = sum(1 for w in pos_words if re.search(r'\b' + re.escape(w) + r'\b', text_lower))
+                          neg_cnt = sum(1 for w in neg_words if re.search(r'\b' + re.escape(w) + r'\b', text_lower))
+                          
+                          score = 0.0
+                          if pos_cnt > neg_cnt:
+                              score = 0.25
+                          elif neg_cnt > pos_cnt:
+                              score = -0.25
+
+                          articles.append({
+                              "title": title,
+                              "title_ko": title,
+                              "snippet": clean_desc[:180] + "..." if len(clean_desc) > 180 else clean_desc,
+                              "snippet_ko": clean_desc[:180] + "..." if len(clean_desc) > 180 else clean_desc,
+                              "symbol": symbol,
+                              "sentiment_score": score,
+                              "source": source_name,
+                              "url": link,
+                              "cross_verified": False,
+                              "published_at": pub_date
+                          })
               except Exception as e:
-                  print(f"Fetch Error ({query}): {e}")
+                  print(f"RSS 수집 오류 ({source_name}): {e}")
               return articles
 
-          # 주요 시장 뉴스 및 주요 종목 뉴스 수집
-          market_articles = fetch_google_news("stock market OR economy when:1d")
-          stock_articles = fetch_google_news("Nvidia OR Apple OR Tesla OR Microsoft OR Palantir OR MicroStrategy stock when:1d")
+          # 확장 구글 뉴스 RSS 수집
+          google_market_url = "https://news.google.com/rss/search?q=stock+market+OR+economy+when:1d&hl=en-US&gl=US&ceid=US:en"
+          all_collected_articles.extend(fetch_rss(google_market_url, "Google Market News"))
 
-          # 중복 제거 (URL 기준)
-          seen_urls = set()
-          final_news = []
-          for art in market_articles + stock_articles:
-              if art["url"] not in seen_urls:
-                  seen_urls.add(art["url"])
-                  final_news.append(art)
+          google_stocks_url = "https://news.google.com/rss/search?q=Nvidia+OR+Apple+OR+Tesla+OR+Microsoft+OR+Palantir+OR+MicroStrategy+OR+Amazon+OR+Meta+OR+Google+OR+Netflix+OR+Disney+OR+Intel+stock+when:1d&hl=en-US&gl=US&ceid=US:en"
+          all_collected_articles.extend(fetch_rss(google_stocks_url, "Google Stocks News"))
+
+          # MarketAux API 수집 (보조)
+          if token:
+              try:
+                  target_symbols_str = "SPY,QQQ,DIA,AAPL,MSFT,NVDA,MSTR,PLTR,AMSC,GOOGL,AMZN,META,TSLA,SMH,SOXX,DIS,MRK,AVGO,V,MA,INTC,KO,NFLX,MCD,DKNG,DJT,CEG"
+                  target_set = set(target_symbols_str.split(","))
+                  params = urllib.parse.urlencode({
+                      "api_token": token,
+                      "language": "en",
+                      "symbols": target_symbols_str,
+                      "limit": 50
+                  })
+                  url = "https://api.marketaux.com/v1/news/all?" + params
+                  req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+                  with urllib.request.urlopen(req, timeout=15) as resp:
+                      if resp.status == 200:
+                          raw_articles = json.loads(resp.read().decode("utf-8")).get("data", [])
+                          for item in raw_articles:
+                              t_en = clean_text(item.get("title") or "")
+                              s_en = clean_text(item.get("snippet") or item.get("description") or "")
+                              if not t_en:
+                                  continue
+                              entities = item.get("entities", [])
+                              sym = ""
+                              score = 0
+                              for ent in entities:
+                                  s_name = ent.get("symbol", "").upper()
+                                  if s_name in target_set:
+                                      sym = s_name
+                                      score = ent.get("sentiment_score", 0)
+                                      break
+
+                              if not sym:
+                                  sym = match_symbol(t_en + " " + s_en)
+
+                              all_collected_articles.append({
+                                  "title": t_en,
+                                  "title_ko": t_en,
+                                  "snippet": s_en[:180] + "..." if len(s_en) > 180 else s_en,
+                                  "snippet_ko": s_en[:180] + "..." if len(s_en) > 180 else s_en,
+                                  "symbol": sym,
+                                  "sentiment_score": score,
+                                  "source": item.get("source", "MarketAux"),
+                                  "url": item.get("url", "#"),
+                                  "cross_verified": False,
+                                  "published_at": item.get("published_at", "")
+                              })
+              except Exception as e:
+                  print(f"MarketAux API 수집 중단 (RSS로 정상 계속): {e}")
+
+          # 중복 제거 및 키 검증
+          seen_titles = {}
+          processed_articles = []
+
+          for art in all_collected_articles:
+              title_key = re.sub(r'[\W_]+', '', art["title"].lower())
+              if not title_key:
+                  title_key = art["title"].lower().strip()
+              if title_key in seen_titles:
+                  seen_titles[title_key]["cross_verified"] = True
+              else:
+                  seen_titles[title_key] = art
+                  processed_articles.append(art)
+
+          market_indices = {"SPY", "QQQ", "DIA", "IWM", "VT"}
+          new_market_news = []
+          new_portfolio_news = []
+
+          for art in processed_articles:
+              if art["symbol"] in market_indices or not art["symbol"]:
+                  new_market_news.append(art)
+              else:
+                  new_portfolio_news.append(art)
+
+          if not new_market_news and new_portfolio_news:
+              new_market_news = new_portfolio_news[:5]
+
+          # 기존 news.json 파일 병합
+          old_market_news = []
+          old_portfolio_news = []
+          if os.path.exists("news.json"):
+              try:
+                  with open("news.json", "r", encoding="utf-8") as f:
+                      old_data = json.load(f)
+                      old_market_news = old_data.get("market_news", [])
+                      old_portfolio_news = old_data.get("portfolio_news", [])
+              except Exception:
+                  pass
+
+          def merge_articles(new_list, old_list, max_limit=100):
+              seen_keys = set()
+              combined = []
+              for art in new_list:
+                  title_key = re.sub(r'[\W_]+', '', art.get("title", "").lower())
+                  key = title_key if title_key else art.get("url", "").strip()
+                  if key and key not in seen_keys:
+                      seen_keys.add(key)
+                      combined.append(art)
+              for art in old_list:
+                  title_key = re.sub(r'[\W_]+', '', art.get("title", "").lower())
+                  key = title_key if title_key else art.get("url", "").strip()
+                  if key and key not in seen_keys:
+                      seen_keys.add(key)
+                      combined.append(art)
+              return combined[:max_limit]
+
+          market_news = merge_articles(new_market_news, old_market_news)
+          portfolio_news = merge_articles(new_portfolio_news, old_portfolio_news)
 
           result = {
               "updated_at": datetime.now(timezone.utc).isoformat(),
-              "articles": final_news[:50]
+              "status": "ok" if (market_news or portfolio_news) else "error",
+              "market_news": market_news,
+              "portfolio_news": portfolio_news
           }
 
           with open("news.json", "w", encoding="utf-8") as f:
               json.dump(result, f, ensure_ascii=False, indent=2)
           PY
 
-      - name: Commit and Push Changes
+      - name: Save news.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add news.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update news.json" && git push)
+          git diff --cached --quiet || (git commit -m "Update news via Hybrid Collector every 10m" && git pull --rebase origin main && git push)
