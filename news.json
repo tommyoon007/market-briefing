@@ -1,52 +1,52 @@
 {
-  "updated_at": "2026-09-04T18:42:34.125602+00:00",
+  "updated_at": "2026-09-04T18:58:47.240583+00:00",
   "status": "ok",
   "market_news": [
     {
-      "title": "SPY Looks 12.5% Overvalued on GF Value™ as Market Weighs Fed Rate Outlook",
-      "title_ko": "SPY Looks 12.5% Overvalued on GF Value™ as Market Weighs Fed Rate Outlook",
-      "snippet": "On September 04, 2026, President Donald Trump publicly urged the Federal Reserve to lower borrowing costs, citing a stronger-than-expected August jobs report th",
-      "snippet_ko": "On September 04, 2026, President Donald Trump publicly urged the Federal Reserve to lower borrowing costs, citing a stronger-than-expected August jobs report th",
+      "title": "Deploying Enterprise AI on Apple Hardware is Suddenly a no-Brainer",
+      "title_ko": "Deploying Enterprise AI on Apple Hardware is Suddenly a no-Brainer",
+      "snippet": "Apple's AI angle in the enterprise There was a time when Apple's point to the Enterprise buyer was that Apple products were ultimately more cost effective and productive. The total cost of ownership was lower as the products were cheaper to maintain and lasted longer and users were more productive as the user experience frictions…",
+      "snippet_ko": "Apple's AI angle in the enterprise There was a time when Apple's point to the Enterprise buyer was that Apple products were ultimately more cost effective and productive. The total cost of ownership was lower as the products were cheaper to maintain and lasted longer and users were more productive as the user experience frictions…",
       "symbol": "",
       "sentiment_score": 0.0,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9068639/spy-looks-125-overvalued-on-gf-value-as-market-weighs-fed-rate-outlook",
+      "source": "asymco.com",
+      "url": "https://asymco.com/2026/09/04/deploying-enterprise-ai-on-apple-hardware-is-suddenly-a-no-brainer/",
       "cross_verified": false,
-      "published_at": "2026-09-04T16:55:57.000000Z"
+      "published_at": "2026-09-04T18:37:43.000000Z"
     },
     {
-      "title": "Trade Desk Falls 4% on 15% Workforce Cut; AppLovin Ascends 3%, Magnite Pulls Back",
-      "title_ko": "Trade Desk Falls 4% on 15% Workforce Cut; AppLovin Ascends 3%, Magnite Pulls Back",
-      "snippet": "The Trade Desk just announced a sweeping workforce cut and a parade of executive replacements, while rivals AppLovin and Magnite pull further ahead. Whether this signals a genuine strategic reset or a company quietly shrinking to survive is the question investors are now pricing in real time.",
-      "snippet_ko": "The Trade Desk just announced a sweeping workforce cut and a parade of executive replacements, while rivals AppLovin and Magnite pull further ahead. Whether this signals a genuine strategic reset or a company quietly shrinking to survive is the question investors are now pricing in real time.",
+      "title": "After owner couldn't repay debts, NM bank poised for sale",
+      "title_ko": "After owner couldn't repay debts, NM bank poised for sale",
+      "snippet": "The controlling owner of Century Financial Services Corp. wound up in bankruptcy court. Now his 71% stake in the New Mexico bank is on the verge of being sold to an Oklahoma bank.",
+      "snippet_ko": "The controlling owner of Century Financial Services Corp. wound up in bankruptcy court. Now his 71% stake in the New Mexico bank is on the verge of being sold to an Oklahoma bank.",
       "symbol": "",
       "sentiment_score": 0.0,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trade-desk-falls-4-15-165110555.html",
+      "source": "americanbanker.com",
+      "url": "https://www.americanbanker.com/news/after-owner-couldnt-repay-debts-nm-bank-poised-for-sale",
       "cross_verified": false,
-      "published_at": "2026-09-04T16:51:10.000000Z"
+      "published_at": "2026-09-04T18:37:01.000000Z"
     },
     {
-      "title": "GPIX Is Paying 8% and Trailing SPY by Just Half a Point. Has Goldman Finally Fixed the Covered-Call ETF?",
-      "title_ko": "GPIX Is Paying 8% and Trailing SPY by Just Half a Point. Has Goldman Finally Fixed the Covered-Call ETF?",
-      "snippet": "Covered-call ETFs are built to trade upside for income, so when one seems to deliver both at once, the obvious question is what the fund is hiding and whether the trade-off has simply been postponed.",
-      "snippet_ko": "Covered-call ETFs are built to trade upside for income, so when one seems to deliver both at once, the obvious question is what the fund is hiding and whether the trade-off has simply been postponed.",
+      "title": "Official Website of Reserve Bank of India",
+      "title_ko": "Official Website of Reserve Bank of India",
+      "snippet": "Press Releases - Reserve Bank of India",
+      "snippet_ko": "Press Releases - Reserve Bank of India",
       "symbol": "",
       "sentiment_score": 0.0,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/options/articles/gpix-paying-8-trailing-spy-154839897.html",
+      "source": "rbi.org.in",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63527",
       "cross_verified": false,
-      "published_at": "2026-09-04T15:48:39.000000Z"
+      "published_at": "2026-09-04T18:35:00.000000Z"
     }
   ],
   "portfolio_news": [
     {
       "title": "AVGO Maintained by Citigroup -- Price Target Raised to $515",
       "title_ko": "AVGO Maintained by Citigroup -- Price Target Raised to $515",
-      "snippet": "Broadcom Inc. (AVGO) Analyst Rating Update On October 23, 2023, Citigroup maintained a \"Buy\" rating for Broadcom (AVGO), while raising the price target to $5",
-      "snippet_ko": "Broadcom Inc. (AVGO) Analyst Rating Update On October 23, 2023, Citigroup maintained a \"Buy\" rating for Broadcom (AVGO), while raising the price target to $5",
+      "snippet": "Broadcom Inc. (AVGO) Analyst Rating Update    On October 23, 2023, Citigroup maintained a \"Buy\" rating for Broadcom (AVGO), while raising the price target to $5",
+      "snippet_ko": "Broadcom Inc. (AVGO) Analyst Rating Update    On October 23, 2023, Citigroup maintained a \"Buy\" rating for Broadcom (AVGO), while raising the price target to $5",
       "symbol": "AVGO",
-      "sentiment_score": 0.602917,
+      "sentiment_score": 0.0,
       "source": "gurufocus.com",
       "url": "https://www.gurufocus.com/news/9068714/avgo-maintained-by-citigroup-price-target-raised-to-515",
       "cross_verified": false,
@@ -55,10 +55,10 @@
     {
       "title": "AVGO Maintained by DA Davidson -- Price Target Lowered to $350",
       "title_ko": "AVGO Maintained by DA Davidson -- Price Target Lowered to $350",
-      "snippet": "Broadcom Inc (AVGO) Analyst Rating Update - September 2026 On September 3, 2026, DA Davidson maintained a Neutral rating on Broadcom (AVGO), adjusting its pr",
-      "snippet_ko": "Broadcom Inc (AVGO) Analyst Rating Update - September 2026 On September 3, 2026, DA Davidson maintained a Neutral rating on Broadcom (AVGO), adjusting its pr",
+      "snippet": "Broadcom Inc (AVGO) Analyst Rating Update - September 2026    On September 3, 2026, DA Davidson maintained a Neutral rating on Broadcom (AVGO), adjusting its pr",
+      "snippet_ko": "Broadcom Inc (AVGO) Analyst Rating Update - September 2026    On September 3, 2026, DA Davidson maintained a Neutral rating on Broadcom (AVGO), adjusting its pr",
       "symbol": "AVGO",
-      "sentiment_score": 0.34128,
+      "sentiment_score": 0.0,
       "source": "gurufocus.com",
       "url": "https://www.gurufocus.com/news/9068678/avgo-maintained-by-da-davidson-price-target-lowered-to-350",
       "cross_verified": false,
@@ -70,69 +70,11 @@
       "snippet": "Microsoft is rated Hold with a $558–$605 target range; it has strong fundamentals, but its valuation looks stretched. Click here to read more about MSFT.",
       "snippet_ko": "Microsoft is rated Hold with a $558–$605 target range; it has strong fundamentals, but its valuation looks stretched. Click here to read more about MSFT.",
       "symbol": "MSFT",
-      "sentiment_score": -0.296,
+      "sentiment_score": 0.0,
       "source": "seekingalpha.com",
       "url": "https://seekingalpha.com/article/4943187-microsoft-re-organizes-its-reporting-no-change-to-our-hold-rating",
       "cross_verified": false,
       "published_at": "2026-09-04T17:12:15.000000Z"
-    },
-    {
-      "title": "Why Elon Musk Net Worth Figures Never Match",
-      "title_ko": "Why Elon Musk Net Worth Figures Never Match",
-      "snippet": "82% of Elon Musk’s Wealth Sits in One Stock He Can’t Sell, Which Is Why the Trackers Never Agree\n\nAsk what Elon Musk is worth and you will get a different a...",
-      "snippet_ko": "82% of Elon Musk’s Wealth Sits in One Stock He Can’t Sell, Which Is Why the Trackers Never Agree\n\nAsk what Elon Musk is worth and you will get a different a...",
-      "symbol": "TSLA",
-      "sentiment_score": 0.227,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/why-elon-musk-net-worth-trackers-disagree/",
-      "cross_verified": false,
-      "published_at": "2026-09-04T10:10:21.000000Z"
-    },
-    {
-      "title": "Gotta Catch ‘Em All: A Guide to Building A Diverse Dividend Portfolio",
-      "title_ko": "Gotta Catch ‘Em All: A Guide to Building A Diverse Dividend Portfolio",
-      "snippet": "The announcement that the 2027 Pokémon World Championships will take place right here in Singapore sent a wave of nostalgia through local fans.\n\nFor decades, t...",
-      "snippet_ko": "The announcement that the 2027 Pokémon World Championships will take place right here in Singapore sent a wave of nostalgia through local fans.\n\nFor decades, t...",
-      "symbol": "CPAMF",
-      "sentiment_score": 0.743,
-      "source": "thesmartinvestor.com.sg",
-      "url": "https://thesmartinvestor.com.sg/gotta-catch-em-all-a-guide-to-building-a-diverse-dividend-portfolio/",
-      "cross_verified": false,
-      "published_at": "2026-09-04T09:30:00.000000Z"
-    },
-    {
-      "title": "Meta: Doesn't Have A Path For Shareholder Returns (Rating Downgrade) (NASDAQ:META)",
-      "title_ko": "Meta: Doesn't Have A Path For Shareholder Returns (Rating Downgrade) (NASDAQ:META)",
-      "snippet": "Retirement is complicated and you only get once chance to do it right. Don't miss out because you didn't know what was out there.\n\nThe Retirement Forum provides...",
-      "snippet_ko": "Retirement is complicated and you only get once chance to do it right. Don't miss out because you didn't know what was out there.\n\nThe Retirement Forum provides...",
-      "symbol": "META",
-      "sentiment_score": 0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4943050-meta-doesnt-have-a-path-for-shareholder-returns-rating-downgrade",
-      "cross_verified": false,
-      "published_at": "2026-09-04T09:05:30.000000Z"
-    },
-    {
-      "title": "Market wrap: Stronger Wall Street not enough to save Australian shares from a weekly fall",
-      "title_ko": "Market wrap: Stronger Wall Street not enough to save Australian shares from a weekly fall",
-      "snippet": "Market wrap: Stronger Wall Street not enough to save Australian shares from a weekly fall\n\nNot even a strong performance on Wall Street was enough to save Austr...",
-      "snippet_ko": "Market wrap: Stronger Wall Street not enough to save Australian shares from a weekly fall\n\nNot even a strong performance on Wall Street was enough to save Austr...",
-      "symbol": "ALD.AX",
-      "sentiment_score": 0.7964,
-      "source": "smallcaps.com.au",
-      "url": "https://smallcaps.com.au/article/market-wrap-stronger-wall-street-not-enough-to-save-australian-shares-from-a-weekly-fall",
-      "published_at": "2026-09-04T08:18:32.000000Z"
-    },
-    {
-      "title": "Tesla Launches Cybercab Service in Austin, Stock Rises (TSLA)",
-      "title_ko": "Tesla Launches Cybercab Service in Austin, Stock Rises (TSLA)",
-      "snippet": "On September 04, 2026, Tesla Inc TSLA officially launched its Cybercab passenger service in Austin, Texas, marking a significant step in its autonomous taxi bus...",
-      "snippet_ko": "On September 04, 2026, Tesla Inc TSLA officially launched its Cybercab passenger service in Austin, Texas, marking a significant step in its autonomous taxi bus...",
-      "symbol": "TSLA",
-      "sentiment_score": 0.42688,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9068196/tesla-launches-cybercab-service-in-austin-stock-rises-tsla",
-      "published_at": "2026-09-04T08:10:28.000000Z"
     }
   ]
 }
