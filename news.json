@@ -1,6 +1,104 @@
 {
-  "updated_at": "2026-09-05T03:25:16.270358+00:00",
+  "updated_at": "2026-09-05T03:39:38.339349+00:00",
   "status": "ok",
-  "market_news": [],
-  "portfolio_news": []
+  "market_news": [
+    {
+      "title": "Jio IPO: Ambani’s tech titan listing story isn’t yet credible",
+      "title_ko": "Jio IPO: Ambani’s tech titan listing story isn’t yet credible",
+      "snippet": "Mukesh Ambani is pitching Jio Platforms as more than a telecom company ahead of its IPO, highlighting thousands of patents, AI and proprietary technology. But questions remain over the commercial value of its intellectual property and whether its technology ambitions justify a potential $120-140 billion valuation.",
+      "snippet_ko": "Mukesh Ambani is pitching Jio Platforms as more than a telecom company ahead of its IPO, highlighting thousands of patents, AI and proprietary technology. But questions remain over the commercial value of its intellectual property and whether its technology ambitions justify a potential $120-140 billion valuation.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.5727,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-ambanis-tech-titan-ipo-story-isnt-yet-credible/articleshow/133785076.cms",
+      "cross_verified": true,
+      "published_at": "2026-09-05T02:46:17.000000Z"
+    },
+    {
+      "title": "Jim Cramer Bullish on MP Materials (MP) But Warns Investors Not to Expect Quick Results",
+      "title_ko": "Jim Cramer Bullish on MP Materials (MP) But Warns Investors Not to Expect Quick Results",
+      "snippet": "A caller inquired about starting a position in MP Materials Corp. (NYSE:MP) during the lightning round of the September 2 episode of Mad Money, and Jim Cramer replied: I think it makes sense.",
+      "snippet_ko": "A caller inquired about starting a position in MP Materials Corp. (NYSE:MP) during the lightning round of the September 2 episode of Mad Money, and Jim Cramer replied: I think it makes sense.",
+      "symbol": "MP",
+      "sentiment_score": 0.1588,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/jim-cramer-bullish-on-mp-materials-mp-but-warns-investors-not-to-expect-quick-results-1827731/",
+      "cross_verified": true,
+      "published_at": "2026-09-04T23:14:41.000000Z"
+    },
+    {
+      "title": "ChronoScale Says It Plans a 50 MW Microsoft AI Deployment. Can CHRN Fund the Build Without Diluting Shareholders?",
+      "title_ko": "ChronoScale Says It Plans a 50 MW Microsoft AI Deployment. Can CHRN Fund the Build Without Diluting Shareholders?",
+      "snippet": "ChronoScale said on August 27 that it plans with Microsoft to deploy 50 megawatts of AI infrastructure in North America using NVIDIA GB300 NVL72 systems and liquid cooling.",
+      "snippet_ko": "ChronoScale said on August 27 that it plans with Microsoft to deploy 50 megawatts of AI infrastructure in North America using NVIDIA GB300 NVL72 systems and liquid cooling.",
+      "symbol": "MSFT",
+      "sentiment_score": 0.3553,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/chronoscale-says-it-plans-a-50-mw-microsoft-ai-deployment-can-chrn-fund-the-build-without-diluting-shareholders-1827868/",
+      "cross_verified": true,
+      "published_at": "2026-09-04T23:10:34.000000Z"
+    },
+    {
+      "title": "ANZ share price at $38: here’s how I would value them",
+      "title_ko": "ANZ share price at $38: here’s how I would value them",
+      "snippet": "Is the ANZ Banking Group (ASX: ANZ) share price good value? Here are 2 ways you can put a number on it.",
+      "snippet_ko": "Is the ANZ Banking Group (ASX: ANZ) share price good value? Here are 2 ways you can put a number on it.",
+      "symbol": "",
+      "sentiment_score": 0.6496,
+      "source": "raskmedia.com.au",
+      "url": "https://www.raskmedia.com.au/2026/09/05/anz-share-price-at-38-heres-how-i-would-value-them-4/",
+      "cross_verified": true,
+      "published_at": "2026-09-05T01:35:11.000000Z"
+    },
+    {
+      "title": "Saturday bank holiday: Are SBI, HDFC Bank, ICICI Bank, Canara Bank and PNB open or closed today on September 5, 2026?",
+      "title_ko": "Saturday bank holiday: Are SBI, HDFC Bank, ICICI Bank, Canara Bank and PNB open or closed today on September 5, 2026?",
+      "snippet": "Scheduled and non-scheduled banks typically close on the second and fourth Saturdays, digital banking services will remain active even on holidays. Furthermore, various regional holidays in September will affect physical branch availability, but customers can continue to perform transactions via internet and SMS banking.",
+      "snippet_ko": "Scheduled and non-scheduled banks typically close on the second and fourth Saturdays, digital banking services will remain active even on holidays. Furthermore, various regional holidays in September will affect physical branch availability, but customers can continue to perform transactions via internet and SMS banking.",
+      "symbol": "",
+      "sentiment_score": 0.1608,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/wealth/save/saturday-bank-holiday-are-sbi-hdfc-bank-icici-bank-canara-bank-and-pnb-open-or-closed-today-on-september-5-2026/articleshow/133764132.cms",
+      "cross_verified": true,
+      "published_at": "2026-09-05T01:30:00.000000Z"
+    }
+  ],
+  "portfolio_news": [
+    {
+      "title": "Jio IPO: Ambani’s tech titan listing story isn’t yet credible",
+      "title_ko": "Jio IPO: Ambani’s tech titan listing story isn’t yet credible",
+      "snippet": "Mukesh Ambani is pitching Jio Platforms as more than a telecom company ahead of its IPO, highlighting thousands of patents, AI and proprietary technology. But questions remain over the commercial value of its intellectual property and whether its technology ambitions justify a potential $120-140 billion valuation.",
+      "snippet_ko": "Mukesh Ambani is pitching Jio Platforms as more than a telecom company ahead of its IPO, highlighting thousands of patents, AI and proprietary technology. But questions remain over the commercial value of its intellectual property and whether its technology ambitions justify a potential $120-140 billion valuation.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.5727,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-ambanis-tech-titan-ipo-story-isnt-yet-credible/articleshow/133785076.cms",
+      "cross_verified": true,
+      "published_at": "2026-09-05T02:46:17.000000Z"
+    },
+    {
+      "title": "Jim Cramer Bullish on MP Materials (MP) But Warns Investors Not to Expect Quick Results",
+      "title_ko": "Jim Cramer Bullish on MP Materials (MP) But Warns Investors Not to Expect Quick Results",
+      "snippet": "A caller inquired about starting a position in MP Materials Corp. (NYSE:MP) during the lightning round of the September 2 episode of Mad Money, and Jim Cramer replied: I think it makes sense.",
+      "snippet_ko": "A caller inquired about starting a position in MP Materials Corp. (NYSE:MP) during the lightning round of the September 2 episode of Mad Money, and Jim Cramer replied: I think it makes sense.",
+      "symbol": "MP",
+      "sentiment_score": 0.1588,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/jim-cramer-bullish-on-mp-materials-mp-but-warns-investors-not-to-expect-quick-results-1827731/",
+      "cross_verified": true,
+      "published_at": "2026-09-04T23:14:41.000000Z"
+    },
+    {
+      "title": "ChronoScale Says It Plans a 50 MW Microsoft AI Deployment. Can CHRN Fund the Build Without Diluting Shareholders?",
+      "title_ko": "ChronoScale Says It Plans a 50 MW Microsoft AI Deployment. Can CHRN Fund the Build Without Diluting Shareholders?",
+      "snippet": "ChronoScale said on August 27 that it plans with Microsoft to deploy 50 megawatts of AI infrastructure in North America using NVIDIA GB300 NVL72 systems and liquid cooling.",
+      "snippet_ko": "ChronoScale said on August 27 that it plans with Microsoft to deploy 50 megawatts of AI infrastructure in North America using NVIDIA GB300 NVL72 systems and liquid cooling.",
+      "symbol": "MSFT",
+      "sentiment_score": 0.3553,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/chronoscale-says-it-plans-a-50-mw-microsoft-ai-deployment-can-chrn-fund-the-build-without-diluting-shareholders-1827868/",
+      "cross_verified": true,
+      "published_at": "2026-09-04T23:10:34.000000Z"
+    }
+  ]
 }
