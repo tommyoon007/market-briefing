@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-05T03:56:40.207127+00:00",
+  "updated_at": "2026-09-05T04:24:56.664801+00:00",
   "status": "ok",
   "market_news": [
     {
       "title": "Jio IPO: Ambani’s tech titan listing story isn’t yet credible",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "Jio IPO: Ambani’s tech titan listing story isn’t yet credible",
       "snippet": "Mukesh Ambani is pitching Jio Platforms as more than a telecom company ahead of its IPO, highlighting thousands of patents, AI and proprietary technology. But questions remain over the commercial value of its intellectual property and whether its technology ambitions justify a potential $120-140 billion valuation.",
-      "snippet_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "snippet_ko": "Mukesh Ambani is pitching Jio Platforms as more than a telecom company ahead of its IPO, highlighting thousands of patents, AI and proprietary technology. But questions remain over the commercial value of its intellectual property and whether its technology ambitions justify a potential $120-140 billion valuation.",
       "symbol": "GOOGL",
-      "sentiment_score": 0.5727,
+      "sentiment_score": 0.58,
       "source": "economictimes.indiatimes.com",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-ambanis-tech-titan-ipo-story-isnt-yet-credible/articleshow/133785076.cms",
       "cross_verified": true,
@@ -16,9 +16,9 @@
     },
     {
       "title": "Jim Cramer Bullish on MP Materials (MP) But Warns Investors Not to Expect Quick Results",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "Jim Cramer Bullish on MP Materials (MP) But Warns Investors Not to Expect Quick Results",
       "snippet": "A caller inquired about starting a position in MP Materials Corp. (NYSE:MP) during the lightning round of the September 2 episode of Mad Money, and Jim Cramer replied: I think it makes sense.",
-      "snippet_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "snippet_ko": "A caller inquired about starting a position in MP Materials Corp. (NYSE:MP) during the lightning round of the September 2 episode of Mad Money, and Jim Cramer replied: I think it makes sense.",
       "symbol": "MP",
       "sentiment_score": 0.1588,
       "source": "insidermonkey.com",
@@ -27,62 +27,62 @@
       "published_at": "2026-09-04T23:14:41.000000Z"
     },
     {
-      "title": "ChronoScale Says It Plans a 50 MW Microsoft AI Deployment. Can CHRN Fund the Build Without Diluting Shareholders?",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "snippet": "ChronoScale said on August 27 that it plans with Microsoft to deploy 50 megawatts of AI infrastructure in North America using NVIDIA GB300 NVL72 systems and liquid cooling.",
-      "snippet_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "symbol": "MSFT",
-      "sentiment_score": 0.3553,
+      "title": "AWS Plans 2 Million More NVIDIA GPUs. Is This Better News for AMZN’s Cloud Growth or NVDA’s Backlog?",
+      "title_ko": "AWS Plans 2 Million More NVIDIA GPUs. Is This Better News for AMZN’s Cloud Growth or NVDA’s Backlog?",
+      "snippet": "AWS and NVIDIA said on August 26 that Amazon's cloud plans to deploy two million additional Blackwell Ultra, Rubin, and Rubin Ultra GPUs during 2027 and 2028.",
+      "snippet_ko": "AWS and NVIDIA said on August 26 that Amazon's cloud plans to deploy two million additional Blackwell Ultra, Rubin, and Rubin Ultra GPUs during 2027 and 2028.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.5043,
       "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/chronoscale-says-it-plans-a-50-mw-microsoft-ai-deployment-can-chrn-fund-the-build-without-diluting-shareholders-1827868/",
+      "url": "https://www.insidermonkey.com/blog/aws-plans-2-million-more-nvidia-gpus-is-this-better-news-for-amzns-cloud-growth-or-nvdas-backlog-1827871/",
       "cross_verified": true,
-      "published_at": "2026-09-04T23:10:34.000000Z"
+      "published_at": "2026-09-04T23:04:19.000000Z"
     },
     {
-      "title": "Baozun Inc (BZUN) Chief Strategy Officer Junhua Wu Buys 13,500 Shares",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "snippet": "In a notable display of confidence, Junhua Wu, Chief Strategy Officer of Baozun Inc (BZUN), recently purchased 13,500 shares of the company's stock. The transac",
-      "snippet_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "IND vs PAK Women's Asia Cup 2026: Playing 11, match time IST, streaming",
+      "title_ko": "IND vs PAK Women's Asia Cup 2026: Playing 11, match time IST, streaming",
+      "snippet": "India will look to end the group stage undefeated with a win over Pakistan in Dubai",
+      "snippet_ko": "India will look to end the group stage undefeated with a win over Pakistan in Dubai",
       "symbol": "",
-      "sentiment_score": 0.4749,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9069067/baozun-inc-bzun-chief-strategy-officer-junhua-wu-buys-13500-shares",
+      "sentiment_score": 0.0,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/cricket/news/ind-vs-pak-women-s-asia-cup-2026-playing-11-match-time-ist-streaming-126090400936_1.html",
       "cross_verified": true,
-      "published_at": "2026-09-05T03:02:53.000000Z"
+      "published_at": "2026-09-05T04:03:24.000000Z"
     },
     {
-      "title": "Axogen (AXGN) Director Joseph Tyndall Sells 3,500 Shares",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "snippet": "Joseph Tyndall, a director at Axogen Inc (AXGN), sold 3,500 shares of the company's stock on September 2, 2026, according to a recent SEC Filing. Following the",
-      "snippet_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Cannae Holdings Stock: Intriguing But Not Compelling As NAV Decreases (NYSE:CNNE)",
+      "title_ko": "Cannae Holdings Stock: Intriguing But Not Compelling As NAV Decreases (NYSE:CNNE)",
+      "snippet": "Cannae Holdings (CNNE) stock holds as NAV keeps falling despite a discount. Q2 beat on SpaceX gains, restaurant losses persist. See more here.",
+      "snippet_ko": "Cannae Holdings (CNNE) stock holds as NAV keeps falling despite a discount. Q2 beat on SpaceX gains, restaurant losses persist. See more here.",
       "symbol": "",
-      "sentiment_score": 0.496,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9069066/axogen-axgn-director-joseph-tyndall-sells-3500-shares",
+      "sentiment_score": -0.0679,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4943269-cannae-holdings-intriguing-but-not-compelling-as-nav-decreases",
       "cross_verified": true,
-      "published_at": "2026-09-05T03:02:28.000000Z"
+      "published_at": "2026-09-05T03:26:00.000000Z"
     },
     {
-      "title": "Atara Biotherapeutics (ATRA) Director Brian Cherry Buys 104,166 Shares",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "snippet": "Director Brian Cherry has demonstrated confidence in Atara Biotherapeutics Inc (ATRA) with a significant open-market purchase of 104,166 shares on 2026-09-04, a",
-      "snippet_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Tetris maker distances itself from White House's wall-building game",
+      "title_ko": "Tetris maker distances itself from White House's wall-building game",
+      "snippet": "The Tetris Company said it was not involved in the White House game 'Build the Wall', which uses blocks resembling Tetris pieces to depict migrants approaching the US border",
+      "snippet_ko": "The Tetris Company said it was not involved in the White House game 'Build the Wall', which uses blocks resembling Tetris pieces to depict migrants approaching the US border",
       "symbol": "",
-      "sentiment_score": 0.5989,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9069065/atara-biotherapeutics-atra-director-brian-cherry-buys-104166-shares",
+      "sentiment_score": 0.3125,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/tetris-maker-distances-itself-from-white-house-s-wall-building-game-126090500072_1.html",
       "cross_verified": true,
-      "published_at": "2026-09-05T03:02:04.000000Z"
+      "published_at": "2026-09-05T03:12:09.000000Z"
     }
   ],
   "portfolio_news": [
     {
       "title": "Jio IPO: Ambani’s tech titan listing story isn’t yet credible",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "Jio IPO: Ambani’s tech titan listing story isn’t yet credible",
       "snippet": "Mukesh Ambani is pitching Jio Platforms as more than a telecom company ahead of its IPO, highlighting thousands of patents, AI and proprietary technology. But questions remain over the commercial value of its intellectual property and whether its technology ambitions justify a potential $120-140 billion valuation.",
-      "snippet_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "snippet_ko": "Mukesh Ambani is pitching Jio Platforms as more than a telecom company ahead of its IPO, highlighting thousands of patents, AI and proprietary technology. But questions remain over the commercial value of its intellectual property and whether its technology ambitions justify a potential $120-140 billion valuation.",
       "symbol": "GOOGL",
-      "sentiment_score": 0.5727,
+      "sentiment_score": 0.58,
       "source": "economictimes.indiatimes.com",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-ambanis-tech-titan-ipo-story-isnt-yet-credible/articleshow/133785076.cms",
       "cross_verified": true,
@@ -90,9 +90,9 @@
     },
     {
       "title": "Jim Cramer Bullish on MP Materials (MP) But Warns Investors Not to Expect Quick Results",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_ko": "Jim Cramer Bullish on MP Materials (MP) But Warns Investors Not to Expect Quick Results",
       "snippet": "A caller inquired about starting a position in MP Materials Corp. (NYSE:MP) during the lightning round of the September 2 episode of Mad Money, and Jim Cramer replied: I think it makes sense.",
-      "snippet_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "snippet_ko": "A caller inquired about starting a position in MP Materials Corp. (NYSE:MP) during the lightning round of the September 2 episode of Mad Money, and Jim Cramer replied: I think it makes sense.",
       "symbol": "MP",
       "sentiment_score": 0.1588,
       "source": "insidermonkey.com",
@@ -101,16 +101,16 @@
       "published_at": "2026-09-04T23:14:41.000000Z"
     },
     {
-      "title": "ChronoScale Says It Plans a 50 MW Microsoft AI Deployment. Can CHRN Fund the Build Without Diluting Shareholders?",
-      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "snippet": "ChronoScale said on August 27 that it plans with Microsoft to deploy 50 megawatts of AI infrastructure in North America using NVIDIA GB300 NVL72 systems and liquid cooling.",
-      "snippet_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "symbol": "MSFT",
-      "sentiment_score": 0.3553,
+      "title": "AWS Plans 2 Million More NVIDIA GPUs. Is This Better News for AMZN’s Cloud Growth or NVDA’s Backlog?",
+      "title_ko": "AWS Plans 2 Million More NVIDIA GPUs. Is This Better News for AMZN’s Cloud Growth or NVDA’s Backlog?",
+      "snippet": "AWS and NVIDIA said on August 26 that Amazon's cloud plans to deploy two million additional Blackwell Ultra, Rubin, and Rubin Ultra GPUs during 2027 and 2028.",
+      "snippet_ko": "AWS and NVIDIA said on August 26 that Amazon's cloud plans to deploy two million additional Blackwell Ultra, Rubin, and Rubin Ultra GPUs during 2027 and 2028.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.5043,
       "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/chronoscale-says-it-plans-a-50-mw-microsoft-ai-deployment-can-chrn-fund-the-build-without-diluting-shareholders-1827868/",
+      "url": "https://www.insidermonkey.com/blog/aws-plans-2-million-more-nvidia-gpus-is-this-better-news-for-amzns-cloud-growth-or-nvdas-backlog-1827871/",
       "cross_verified": true,
-      "published_at": "2026-09-04T23:10:34.000000Z"
+      "published_at": "2026-09-04T23:04:19.000000Z"
     }
   ]
 }
