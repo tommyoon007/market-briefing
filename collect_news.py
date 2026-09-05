@@ -3,12 +3,15 @@ import os
 import re
 from datetime import datetime, timezone
 import requests
+from deep_translator import GoogleTranslator
+
+# 구글 번역기 객체 생성 (영어 -> 한국어)
+translator = GoogleTranslator(source="auto", target="ko")
 
 # MarketAux API 설정
 API_TOKEN = os.environ.get("MARKETAUX_API_TOKEN", "")
 API_URL = "https://api.marketaux.com/v1/news/all"
 
-# index.html의 보유 종목 리스트와 100% 일치
 PORTFOLIO_SYMBOLS = {
     "AAPL", "MSFT", "TSLA", "SMH", "GOOGL", "AMZN", "SOXX", "META", "MSTR",
     "DIS", "MRK", "NVDA", "AVGO", "V", "MA", "INTC", "KO",
@@ -16,7 +19,6 @@ PORTFOLIO_SYMBOLS = {
     "MCD", "NFLX", "DJT", "CEG", "USD", "KRW"
 }
 
-# 제외할 광고성/불필요 키워드
 EXCLUDED_KEYWORDS = [
     "leadership development", "flood management", "master plans",
     "emi affordability", "celebrity", "horoscope", "recipe", "sports scores"
@@ -27,8 +29,18 @@ def clean_text(value):
         return ""
     return re.sub(r"\s+", " ", str(value)).strip()
 
+def translate_text(text):
+    """영문 텍스트를 한글로 자동 번역합니다."""
+    if not text:
+        return ""
+    try:
+        # 번역 안정성을 위해 500자 자름
+        return translator.translate(text[:500])
+    except Exception as e:
+        print(f"⚠️ 번역 실패 (원문 사용): {e}")
+        return text
+
 def parse_entities(article):
-    """MarketAux API의 entities 객체에서 symbol과 sentiment_score를 정밀 추출합니다."""
     entities = article.get("entities") or []
     found_symbol = ""
     sentiment_scores = []
@@ -46,7 +58,6 @@ def parse_entities(article):
         if not found_symbol and sym in PORTFOLIO_SYMBOLS:
             found_symbol = sym
 
-    # entities에 종목 코드가 없는 경우 본문 텍스트에서 매칭
     if not found_symbol:
         text = f"{article.get('title', '')} {article.get('description', '')}".upper()
         for sym in sorted(PORTFOLIO_SYMBOLS, key=len, reverse=True):
@@ -80,11 +91,15 @@ def make_article(article):
 
     symbol, sentiment_score = parse_entities(article)
 
+    # 🔤 자동 번역
+    title_ko = translate_text(title)
+    snippet_ko = translate_text(snippet)
+
     return {
         "title": title,
-        "title_ko": title,
+        "title_ko": title_ko,
         "snippet": snippet,
-        "snippet_ko": snippet,
+        "snippet_ko": snippet_ko,
         "symbol": symbol,
         "sentiment_score": sentiment_score,
         "source": source,
@@ -100,7 +115,7 @@ def fetch_data():
 
     articles = []
 
-    # 1. 주요 보유 종목 기반 API 호출 (주식 종목 위주)
+    # 1. 주요 보유 종목 기반 API 호출
     target_symbols = [s for s in PORTFOLIO_SYMBOLS if s not in {"USD", "KRW"}][:20]
     p1 = {
         "api_token": API_TOKEN,
@@ -112,8 +127,6 @@ def fetch_data():
         r1 = requests.get(API_URL, params=p1, timeout=20)
         if r1.status_code == 200:
             articles.extend(r1.json().get("data") or [])
-        else:
-            print(f"⚠️ 보유 종목 뉴스를 불러오는 중 응답 코드: {r1.status_code}")
     except Exception as e:
         print(f"⚠️ 보유 종목 뉴스 수집 실패: {e}")
 
@@ -128,8 +141,6 @@ def fetch_data():
         r2 = requests.get(API_URL, params=p2, timeout=20)
         if r2.status_code == 200:
             articles.extend(r2.json().get("data") or [])
-        else:
-            print(f"⚠️ 전체 시장 뉴스를 불러오는 중 응답 코드: {r2.status_code}")
     except Exception as e:
         print(f"⚠️ 전체 시장 뉴스 수집 실패: {e}")
 
@@ -166,9 +177,9 @@ def fetch_data():
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     print("=========================================")
-    print(f"✅ news.json 생성 성공!")
-    print(f"- 전체 시장 뉴스 수집: {len(output['market_news'])}개")
-    print(f"- 보유 종목 뉴스 수집: {len(output['portfolio_news'])}개")
+    print(f"✅ 번역 완료 및 news.json 생성 성공!")
+    print(f"- 전체 시장 뉴스: {len(output['market_news'])}개")
+    print(f"- 보유 종목 뉴스: {len(output['portfolio_news'])}개")
     print("=========================================")
 
 if __name__ == "__main__":
