@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T03:39:38.339349+00:00",
+  "updated_at": "2026-09-05T03:44:27.159057+00:00",
   "status": "ok",
   "market_news": [
     {
@@ -39,28 +39,28 @@
       "published_at": "2026-09-04T23:10:34.000000Z"
     },
     {
-      "title": "ANZ share price at $38: here’s how I would value them",
-      "title_ko": "ANZ share price at $38: here’s how I would value them",
-      "snippet": "Is the ANZ Banking Group (ASX: ANZ) share price good value? Here are 2 ways you can put a number on it.",
-      "snippet_ko": "Is the ANZ Banking Group (ASX: ANZ) share price good value? Here are 2 ways you can put a number on it.",
+      "title": "Axogen (AXGN) Director Joseph Tyndall Sells 3,500 Shares",
+      "title_ko": "Axogen (AXGN) Director Joseph Tyndall Sells 3,500 Shares",
+      "snippet": "Joseph Tyndall, a director at Axogen Inc (AXGN), sold 3,500 shares of the company's stock on September 2, 2026, according to a recent SEC Filing. Following the",
+      "snippet_ko": "Joseph Tyndall, a director at Axogen Inc (AXGN), sold 3,500 shares of the company's stock on September 2, 2026, according to a recent SEC Filing. Following the",
       "symbol": "",
-      "sentiment_score": 0.6496,
-      "source": "raskmedia.com.au",
-      "url": "https://www.raskmedia.com.au/2026/09/05/anz-share-price-at-38-heres-how-i-would-value-them-4/",
+      "sentiment_score": 0.496,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9069066/axogen-axgn-director-joseph-tyndall-sells-3500-shares",
       "cross_verified": true,
-      "published_at": "2026-09-05T01:35:11.000000Z"
+      "published_at": "2026-09-05T03:02:28.000000Z"
     },
     {
-      "title": "Saturday bank holiday: Are SBI, HDFC Bank, ICICI Bank, Canara Bank and PNB open or closed today on September 5, 2026?",
-      "title_ko": "Saturday bank holiday: Are SBI, HDFC Bank, ICICI Bank, Canara Bank and PNB open or closed today on September 5, 2026?",
-      "snippet": "Scheduled and non-scheduled banks typically close on the second and fourth Saturdays, digital banking services will remain active even on holidays. Furthermore, various regional holidays in September will affect physical branch availability, but customers can continue to perform transactions via internet and SMS banking.",
-      "snippet_ko": "Scheduled and non-scheduled banks typically close on the second and fourth Saturdays, digital banking services will remain active even on holidays. Furthermore, various regional holidays in September will affect physical branch availability, but customers can continue to perform transactions via internet and SMS banking.",
+      "title": "Airgain Inc (AIRG) President and CEO Jacob Suen Sells 1,000 Shares",
+      "title_ko": "Airgain Inc (AIRG) President and CEO Jacob Suen Sells 1,000 Shares",
+      "snippet": "On September 3, 2026, Jacob Suen, President and Chief Executive Officer of Airgain Inc (AIRG), sold 1,000 shares of the company's stock, according to a recent S",
+      "snippet_ko": "On September 3, 2026, Jacob Suen, President and Chief Executive Officer of Airgain Inc (AIRG), sold 1,000 shares of the company's stock, according to a recent S",
       "symbol": "",
-      "sentiment_score": 0.1608,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/wealth/save/saturday-bank-holiday-are-sbi-hdfc-bank-icici-bank-canara-bank-and-pnb-open-or-closed-today-on-september-5-2026/articleshow/133764132.cms",
+      "sentiment_score": 0.424,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9069064/airgain-inc-airg-president-and-ceo-jacob-suen-sells-1000-shares",
       "cross_verified": true,
-      "published_at": "2026-09-05T01:30:00.000000Z"
+      "published_at": "2026-09-05T03:01:37.000000Z"
     }
   ],
   "portfolio_news": [
