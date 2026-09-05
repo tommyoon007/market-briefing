@@ -3,14 +3,13 @@ import os
 import re
 from datetime import datetime, timezone
 import requests
-from deep_translator import GoogleTranslator
 
-# 구글 번역기 객체 생성 (영어 -> 한국어)
-translator = GoogleTranslator(source="auto", target="ko")
-
-# MarketAux API 설정
+# API 토큰 및 키 설정
 API_TOKEN = os.environ.get("MARKETAUX_API_TOKEN", "")
+DEEPL_API_KEY = os.environ.get("DEEPL_API_KEY", "")
+
 API_URL = "https://api.marketaux.com/v1/news/all"
+DEEPL_URL = "https://api-free.deepl.com/v2/translate"
 
 PORTFOLIO_SYMBOLS = {
     "AAPL", "MSFT", "TSLA", "SMH", "GOOGL", "AMZN", "SOXX", "META", "MSTR",
@@ -30,15 +29,33 @@ def clean_text(value):
     return re.sub(r"\s+", " ", str(value)).strip()
 
 def translate_text(text):
-    """영문 텍스트를 한글로 자동 번역합니다."""
+    """DeepL 공식 API를 통해 영문 텍스트를 고품질 한글로 번역합니다."""
     if not text:
         return ""
-    try:
-        # 번역 안정성을 위해 500자 자름
-        return translator.translate(text[:500])
-    except Exception as e:
-        print(f"⚠️ 번역 실패 (원문 사용): {e}")
+    if not DEEPL_API_KEY:
         return text
+
+    try:
+        response = requests.post(
+            DEEPL_URL,
+            data={
+                "auth_key": DEEPL_API_KEY,
+                "text": text[:500],
+                "target_lang": "KO"
+            },
+            timeout=10
+        )
+        if response.status_code == 200:
+            result = response.json()
+            translations = result.get("translations", [])
+            if translations:
+                return translations[0].get("text", text)
+        else:
+            print(f"⚠️ DeepL API 응답 에러: {response.status_code}")
+    except Exception as e:
+        print(f"⚠️ 번역 요청 오류: {e}")
+
+    return text
 
 def parse_entities(article):
     entities = article.get("entities") or []
@@ -91,7 +108,7 @@ def make_article(article):
 
     symbol, sentiment_score = parse_entities(article)
 
-    # 🔤 자동 번역
+    # 🔤 DeepL 고품질 자동 번역
     title_ko = translate_text(title)
     snippet_ko = translate_text(snippet)
 
@@ -177,7 +194,7 @@ def fetch_data():
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     print("=========================================")
-    print(f"✅ 번역 완료 및 news.json 생성 성공!")
+    print(f"✅ news.json 생성 성공!")
     print(f"- 전체 시장 뉴스: {len(output['market_news'])}개")
     print(f"- 보유 종목 뉴스: {len(output['portfolio_news'])}개")
     print("=========================================")
