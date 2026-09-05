@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-09-04T18:58:47.240583+00:00",
+  "updated_at": "2026-09-05T02:27:50.170714+00:00",
   "status": "ok",
   "market_news": [
     {
-      "title": "Deploying Enterprise AI on Apple Hardware is Suddenly a no-Brainer",
-      "title_ko": "Deploying Enterprise AI on Apple Hardware is Suddenly a no-Brainer",
-      "snippet": "Apple's AI angle in the enterprise There was a time when Apple's point to the Enterprise buyer was that Apple products were ultimately more cost effective and productive. The total cost of ownership was lower as the products were cheaper to maintain and lasted longer and users were more productive as the user experience frictions…",
-      "snippet_ko": "Apple's AI angle in the enterprise There was a time when Apple's point to the Enterprise buyer was that Apple products were ultimately more cost effective and productive. The total cost of ownership was lower as the products were cheaper to maintain and lasted longer and users were more productive as the user experience frictions…",
+      "title": "Watch: How much can Canada fight back in its trade war with the US?",
+      "title_ko": "Watch: How much can Canada fight back in its trade war with the US?",
+      "snippet": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
+      "snippet_ko": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
       "symbol": "",
       "sentiment_score": 0.0,
-      "source": "asymco.com",
-      "url": "https://asymco.com/2026/09/04/deploying-enterprise-ai-on-apple-hardware-is-suddenly-a-no-brainer/",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
       "cross_verified": false,
-      "published_at": "2026-09-04T18:37:43.000000Z"
+      "published_at": "2026-09-05T02:13:21.000000Z"
     },
     {
-      "title": "After owner couldn't repay debts, NM bank poised for sale",
-      "title_ko": "After owner couldn't repay debts, NM bank poised for sale",
-      "snippet": "The controlling owner of Century Financial Services Corp. wound up in bankruptcy court. Now his 71% stake in the New Mexico bank is on the verge of being sold to an Oklahoma bank.",
-      "snippet_ko": "The controlling owner of Century Financial Services Corp. wound up in bankruptcy court. Now his 71% stake in the New Mexico bank is on the verge of being sold to an Oklahoma bank.",
+      "title": "'We have an idea for peace': Trump says Witkoff, Kushner heading abroad to discuss Ukraine peace",
+      "title_ko": "'We have an idea for peace': Trump says Witkoff, Kushner heading abroad to discuss Ukraine peace",
+      "snippet": "In an effort to address the persistent conflict, U.S. envoys Steve Witkoff and Jared Kushner are headed abroad for critical peace negotiations. President Trump has indicated the existence of a new proposal designed to bring an end to hostilities. Their itinerary includes a stop in Moscow, with possible discussions extending to Ukraine.",
+      "snippet_ko": "In an effort to address the persistent conflict, U.S. envoys Steve Witkoff and Jared Kushner are headed abroad for critical peace negotiations. President Trump has indicated the existence of a new proposal designed to bring an end to hostilities. Their itinerary includes a stop in Moscow, with possible discussions extending to Ukraine.",
       "symbol": "",
       "sentiment_score": 0.0,
-      "source": "americanbanker.com",
-      "url": "https://www.americanbanker.com/news/after-owner-couldnt-repay-debts-nm-bank-poised-for-sale",
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/we-have-an-idea-for-peace-trump-says-witkoff-kushner-heading-abroad-to-discuss-ukraine-peace/articleshow/133783739.cms",
       "cross_verified": false,
-      "published_at": "2026-09-04T18:37:01.000000Z"
+      "published_at": "2026-09-05T01:36:41.000000Z"
     },
     {
-      "title": "Official Website of Reserve Bank of India",
-      "title_ko": "Official Website of Reserve Bank of India",
-      "snippet": "Press Releases - Reserve Bank of India",
-      "snippet_ko": "Press Releases - Reserve Bank of India",
+      "title": "Bank holiday today: Check if SBI, HDFC, ICICI branches are open or closed on Saturday, September 5",
+      "title_ko": "Bank holiday today: Check if SBI, HDFC, ICICI branches are open or closed on Saturday, September 5",
+      "snippet": "September 5 is Teachers' Day in India, but banks remain open as it is the first Saturday of the month. RBI guidelines mandate bank closures on specific Saturdays and Sundays. Details here.",
+      "snippet_ko": "September 5 is Teachers' Day in India, but banks remain open as it is the first Saturday of the month. RBI guidelines mandate bank closures on specific Saturdays and Sundays. Details here.",
       "symbol": "",
       "sentiment_score": 0.0,
-      "source": "rbi.org.in",
-      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63527",
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/money/bank-holiday-today-check-if-sbi-hdfc-icici-branches-are-open-or-closed-on-saturday-september-5-11788570083507.html",
       "cross_verified": false,
-      "published_at": "2026-09-04T18:35:00.000000Z"
+      "published_at": "2026-09-05T01:36:35.000000Z"
     }
   ],
   "portfolio_news": [
     {
-      "title": "AVGO Maintained by Citigroup -- Price Target Raised to $515",
-      "title_ko": "AVGO Maintained by Citigroup -- Price Target Raised to $515",
-      "snippet": "Broadcom Inc. (AVGO) Analyst Rating Update    On October 23, 2023, Citigroup maintained a \"Buy\" rating for Broadcom (AVGO), while raising the price target to $5",
-      "snippet_ko": "Broadcom Inc. (AVGO) Analyst Rating Update    On October 23, 2023, Citigroup maintained a \"Buy\" rating for Broadcom (AVGO), while raising the price target to $5",
-      "symbol": "AVGO",
+      "title": "Jim Cramer Bullish on MP Materials (MP) But Warns Investors Not to Expect Quick Results",
+      "title_ko": "Jim Cramer Bullish on MP Materials (MP) But Warns Investors Not to Expect Quick Results",
+      "snippet": "A caller inquired about starting a position in MP Materials Corp. (NYSE:MP) during the lightning round of the September 2 episode of Mad Money, and Jim Cramer replied: I think it makes sense.",
+      "snippet_ko": "A caller inquired about starting a position in MP Materials Corp. (NYSE:MP) during the lightning round of the September 2 episode of Mad Money, and Jim Cramer replied: I think it makes sense.",
+      "symbol": "MP",
       "sentiment_score": 0.0,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9068714/avgo-maintained-by-citigroup-price-target-raised-to-515",
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/jim-cramer-bullish-on-mp-materials-mp-but-warns-investors-not-to-expect-quick-results-1827731/",
       "cross_verified": false,
-      "published_at": "2026-09-04T18:06:55.000000Z"
+      "published_at": "2026-09-04T23:14:41.000000Z"
     },
     {
-      "title": "AVGO Maintained by DA Davidson -- Price Target Lowered to $350",
-      "title_ko": "AVGO Maintained by DA Davidson -- Price Target Lowered to $350",
-      "snippet": "Broadcom Inc (AVGO) Analyst Rating Update - September 2026    On September 3, 2026, DA Davidson maintained a Neutral rating on Broadcom (AVGO), adjusting its pr",
-      "snippet_ko": "Broadcom Inc (AVGO) Analyst Rating Update - September 2026    On September 3, 2026, DA Davidson maintained a Neutral rating on Broadcom (AVGO), adjusting its pr",
-      "symbol": "AVGO",
-      "sentiment_score": 0.0,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9068678/avgo-maintained-by-da-davidson-price-target-lowered-to-350",
-      "cross_verified": false,
-      "published_at": "2026-09-04T17:31:57.000000Z"
-    },
-    {
-      "title": "Microsoft Reorganizes Its Reporting: No Change To Our Hold Rating (NASDAQ:MSFT)",
-      "title_ko": "Microsoft Reorganizes Its Reporting: No Change To Our Hold Rating (NASDAQ:MSFT)",
-      "snippet": "Microsoft is rated Hold with a $558–$605 target range; it has strong fundamentals, but its valuation looks stretched. Click here to read more about MSFT.",
-      "snippet_ko": "Microsoft is rated Hold with a $558–$605 target range; it has strong fundamentals, but its valuation looks stretched. Click here to read more about MSFT.",
+      "title": "ChronoScale Says It Plans a 50 MW Microsoft AI Deployment. Can CHRN Fund the Build Without Diluting Shareholders?",
+      "title_ko": "ChronoScale Says It Plans a 50 MW Microsoft AI Deployment. Can CHRN Fund the Build Without Diluting Shareholders?",
+      "snippet": "ChronoScale said on August 27 that it plans with Microsoft to deploy 50 megawatts of AI infrastructure in North America using NVIDIA GB300 NVL72 systems and liquid cooling.",
+      "snippet_ko": "ChronoScale said on August 27 that it plans with Microsoft to deploy 50 megawatts of AI infrastructure in North America using NVIDIA GB300 NVL72 systems and liquid cooling.",
       "symbol": "MSFT",
       "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4943187-microsoft-re-organizes-its-reporting-no-change-to-our-hold-rating",
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/chronoscale-says-it-plans-a-50-mw-microsoft-ai-deployment-can-chrn-fund-the-build-without-diluting-shareholders-1827868/",
       "cross_verified": false,
-      "published_at": "2026-09-04T17:12:15.000000Z"
+      "published_at": "2026-09-04T23:10:34.000000Z"
+    },
+    {
+      "title": "AWS Plans 2 Million More NVIDIA GPUs. Is This Better News for AMZN’s Cloud Growth or NVDA’s Backlog?",
+      "title_ko": "AWS Plans 2 Million More NVIDIA GPUs. Is This Better News for AMZN’s Cloud Growth or NVDA’s Backlog?",
+      "snippet": "AWS and NVIDIA said on August 26 that Amazon's cloud plans to deploy two million additional Blackwell Ultra, Rubin, and Rubin Ultra GPUs during 2027 and 2028.",
+      "snippet_ko": "AWS and NVIDIA said on August 26 that Amazon's cloud plans to deploy two million additional Blackwell Ultra, Rubin, and Rubin Ultra GPUs during 2027 and 2028.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.0,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/aws-plans-2-million-more-nvidia-gpus-is-this-better-news-for-amzns-cloud-growth-or-nvdas-backlog-1827871/",
+      "cross_verified": false,
+      "published_at": "2026-09-04T23:04:19.000000Z"
     }
   ]
 }
