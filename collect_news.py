@@ -29,7 +29,7 @@ def clean_text(value):
     return re.sub(r"\s+", " ", str(value)).strip()
 
 def translate_text(text):
-    """DeepL 공식 API를 통해 영문 텍스트를 고품질 한글로 번역합니다."""
+    """DeepL 공식 API를 이용해 한글로 번역하며, 키가 없거나 실패 시 원문을 반환합니다."""
     if not text:
         return ""
     if not DEEPL_API_KEY:
@@ -50,10 +50,8 @@ def translate_text(text):
             translations = result.get("translations", [])
             if translations:
                 return translations[0].get("text", text)
-        else:
-            print(f"⚠️ DeepL API 응답 에러: {response.status_code}")
     except Exception as e:
-        print(f"⚠️ 번역 요청 오류: {e}")
+        print(f"⚠️ 번역 요청 오류 (원문 사용): {e}")
 
     return text
 
@@ -108,7 +106,7 @@ def make_article(article):
 
     symbol, sentiment_score = parse_entities(article)
 
-    # 🔤 DeepL 고품질 자동 번역
+    # 한글 자동 번역
     title_ko = translate_text(title)
     snippet_ko = translate_text(snippet)
 
@@ -194,7 +192,7 @@ def fetch_data():
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     print("=========================================")
-    print(f"✅ news.json 생성 성공!")
+    print(f"✅ news.json 생성 완료!")
     print(f"- 전체 시장 뉴스: {len(output['market_news'])}개")
     print(f"- 보유 종목 뉴스: {len(output['portfolio_news'])}개")
     print("=========================================")
