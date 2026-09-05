@@ -35,59 +35,116 @@ jobs:
           import os
           import re
           from datetime import datetime, timezone
-          from urllib.parse import urlparse
 
           import requests
+
 
           API_TOKEN = os.environ.get("MARKETAUX_API_TOKEN", "")
           API_URL = "https://api.marketaux.com/v1/news/all"
 
           PORTFOLIO_SYMBOLS = {
-              "AAPL", "MSFT", "META", "GOOGL", "AMZN",
-              "MSTR", "NVDA", "AVGO", "DIS", "MRK",
-              "V", "MA", "NFLX", "TSLA", "PLTR",
-              "DKNG", "MP", "AMSC", "INTC"
+              "AAPL",
+              "MSFT",
+              "META",
+              "GOOGL",
+              "AMZN",
+              "MSTR",
+              "NVDA",
+              "AVGO",
+              "DIS",
+              "MRK",
+              "V",
+              "MA",
+              "NFLX",
+              "TSLA",
+              "PLTR",
+              "DKNG",
+              "MP",
+              "AMSC",
+              "INTC",
           }
 
-          MARKET_KEYWORDS = [
-              "stock", "stocks", "share", "shares", "equity",
-              "nasdaq", "s&p", "dow jones", "wall street",
-              "market", "investor", "investors", "trading",
-              "earnings", "revenue", "profit", "guidance",
-              "fed", "federal reserve", "interest rate",
-              "inflation", "economy", "economic", "gdp",
-              "tariff", "trade war", "recession",
-              "treasury", "bond", "yield", "oil", "gold",
-              "bitcoin", "crypto", "artificial intelligence",
-              "ai", "semiconductor", "chip", "technology",
-              "ipo", "merger", "acquisition", "dividend",
-              "buyback", "downgrade", "upgrade"
+          US_MARKET_KEYWORDS = [
+              "nasdaq",
+              "s&p 500",
+              "s&p500",
+              "dow jones",
+              "wall street",
+              "us stocks",
+              "u.s. stocks",
+              "stock market",
+              "stock market today",
+              "federal reserve",
+              "fed",
+              "interest rate",
+              "inflation",
+              "cpi",
+              "ppi",
+              "pce",
+              "nonfarm payroll",
+              "jobs report",
+              "treasury",
+              "bond yield",
+              "recession",
+              "gdp",
+              "earnings",
+              "quarterly results",
+              "guidance",
+              "revenue",
+              "profit",
+              "ipo",
+              "merger",
+              "acquisition",
+              "buyback",
+              "dividend",
+              "artificial intelligence",
+              "ai",
+              "semiconductor",
+              "chip",
+              "technology",
+              "bitcoin",
+              "crypto",
+              "oil prices",
+              "gold prices",
+              "tariff",
+              "trade war",
           ]
 
           EXCLUDED_KEYWORDS = [
+              "canada",
+              "canadian",
+              "tsx",
+              "tsx:",
               "leadership development",
               "flood management",
               "master plans",
               "emi affordability",
               "celebrity",
               "horoscope",
+              "recipe",
               "sports scores",
-              "recipe"
+              "football scores",
           ]
+
 
           def clean_text(value):
               if not value:
                   return ""
+
               return re.sub(r"\s+", " ", str(value)).strip()
+
 
           def get_text(article):
               title = clean_text(article.get("title"))
+
               description = clean_text(
                   article.get("description")
                   or article.get("snippet")
                   or article.get("content")
               )
+
               return f"{title} {description}".lower()
+
 
           def get_symbol(article):
               symbols = article.get("symbols") or []
@@ -95,41 +152,66 @@ jobs:
               if isinstance(symbols, list):
                   for symbol in symbols:
                       symbol = str(symbol).upper().strip()
+
                       if symbol in PORTFOLIO_SYMBOLS:
                           return symbol
 
-              text = get_text(article)
+              text = get_text(article).upper()
 
-              for symbol in sorted(PORTFOLIO_SYMBOLS, key=len, reverse=True):
-                  pattern = rf"(?<![A-Z]){re.escape(symbol)}(?![A-Z])"
-                  if re.search(pattern, text.upper()):
+              for symbol in sorted(
+                  PORTFOLIO_SYMBOLS,
+                  key=len,
+                  reverse=True
+              ):
+                  pattern = (
+                      rf"(?<![A-Z])"
+                      rf"{re.escape(symbol)}"
+                      rf"(?![A-Z])"
+                  )
+
+                  if re.search(pattern, text):
                       return symbol
 
               return ""
 
+
           def is_excluded(article):
               text = get_text(article)
-              return any(keyword in text for keyword in EXCLUDED_KEYWORDS)
 
-          def is_market_related(article):
+              return any(
+                  keyword in text
+                  for keyword in EXCLUDED_KEYWORDS
+              )
+
+
+          def is_us_market_article(article):
               if is_excluded(article):
                   return False
 
-              text = get_text(article)
-
+              # 보유 종목 관련 뉴스는 우선 통과
               if get_symbol(article):
                   return True
 
-              return any(keyword in text for keyword in MARKET_KEYWORDS)
+              text = get_text(article)
+
+              # 미국시장 관련 키워드가 있는 기사만 통과
+              return any(
+                  keyword in text
+                  for keyword in US_MARKET_KEYWORDS
+              )
+
 
           def article_key(article):
               url = clean_text(article.get("url"))
-              title = clean_text(article.get("title")).lower()
+              title = clean_text(
+                  article.get("title")
+              ).lower()
 
               if url:
                   return ("url", url)
 
               return ("title", title)
+
 
           def unique_articles(articles):
               result = []
@@ -146,8 +228,10 @@ jobs:
 
               return result
 
+
           def make_article(article):
               title = clean_text(article.get("title"))
+
               snippet = clean_text(
                   article.get("description")
                   or article.get("snippet")
@@ -155,43 +239,49 @@ jobs:
               )
 
               source = article.get("source")
+
               if isinstance(source, dict):
-                  source = source.get("domain") or source.get("name")
+                  source = (
+                      source.get("domain")
+                      or source.get("name")
+                  )
 
               source = clean_text(source)
-
-              url = clean_text(article.get("url"))
-              published_at = article.get("published_at") or ""
-
-              symbol = get_symbol(article)
 
               return {
                   "title": title,
                   "title_ko": title,
                   "snippet": snippet,
                   "snippet_ko": snippet,
-                  "symbol": symbol,
+                  "symbol": get_symbol(article),
                   "sentiment_score": 0.0,
                   "source": source,
-                  "url": url,
+                  "url": clean_text(article.get("url")),
                   "cross_verified": False,
-                  "published_at": published_at
+                  "published_at": (
+                      article.get("published_at") or ""
+                  ),
               }
 
+
           if not API_TOKEN:
-              raise RuntimeError("MARKETAUX_API_TOKEN is missing")
+              raise RuntimeError(
+                  "MARKETAUX_API_TOKEN is missing"
+              )
+
 
           params = {
               "api_token": API_TOKEN,
               "language": "en",
               "limit": 100,
-              "filter_entities": "true"
+              "filter_entities": "true",
           }
+
 
           response = requests.get(
               API_URL,
               params=params,
-              timeout=30
+              timeout=30,
           )
 
           response.raise_for_status()
@@ -199,37 +289,51 @@ jobs:
           payload = response.json()
           articles = payload.get("data") or []
 
+
           market_articles = [
-              article for article in articles
-              if is_market_related(article)
+              article
+              for article in articles
+              if is_us_market_article(article)
           ]
 
+
           portfolio_articles = [
-              article for article in market_articles
+              article
+              for article in market_articles
               if get_symbol(article)
           ]
 
-          market_articles = unique_articles(market_articles)
-          portfolio_articles = unique_articles(portfolio_articles)
 
-          market_articles = [
-              make_article(article)
-              for article in market_articles[:20]
-          ]
+          market_articles = unique_articles(
+              market_articles
+          )[:20]
 
-          portfolio_articles = [
-              make_article(article)
-              for article in portfolio_articles[:30]
-          ]
+          portfolio_articles = unique_articles(
+              portfolio_articles
+          )[:30]
+
 
           output = {
-              "updated_at": datetime.now(timezone.utc).isoformat(),
+              "updated_at": datetime.now(
+                  timezone.utc
+              ).isoformat(),
               "status": "ok",
-              "market_news": market_articles,
-              "portfolio_news": portfolio_articles
+              "market_news": [
+                  make_article(article)
+                  for article in market_articles
+              ],
+              "portfolio_news": [
+                  make_article(article)
+                  for article in portfolio_articles
+              ],
           }
 
-          with open("news.json", "w", encoding="utf-8") as file:
+
+          with open(
+              "news.json",
+              "w",
+              encoding="utf-8"
+          ) as file:
               json.dump(
                   output,
                   file,
@@ -237,8 +341,17 @@ jobs:
                   indent=2
               )
 
-          print(f"Market news: {len(market_articles)}")
-          print(f"Portfolio news: {len(portfolio_articles)}")
+
+          print(
+              f"Market news: "
+              f"{len(output['market_news'])}"
+          )
+
+          print(
+              f"Portfolio news: "
+              f"{len(output['portfolio_news'])}"
+          )
+
           print("news.json created successfully")
           PYTHON
 
