@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T04:24:56.664801+00:00",
+  "updated_at": "2026-09-05T04:36:08.087150+00:00",
   "status": "ok",
   "market_news": [
     {
@@ -8,7 +8,7 @@
       "snippet": "Mukesh Ambani is pitching Jio Platforms as more than a telecom company ahead of its IPO, highlighting thousands of patents, AI and proprietary technology. But questions remain over the commercial value of its intellectual property and whether its technology ambitions justify a potential $120-140 billion valuation.",
       "snippet_ko": "Mukesh Ambani is pitching Jio Platforms as more than a telecom company ahead of its IPO, highlighting thousands of patents, AI and proprietary technology. But questions remain over the commercial value of its intellectual property and whether its technology ambitions justify a potential $120-140 billion valuation.",
       "symbol": "GOOGL",
-      "sentiment_score": 0.58,
+      "sentiment_score": 0.5853,
       "source": "economictimes.indiatimes.com",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-ambanis-tech-titan-ipo-story-isnt-yet-credible/articleshow/133785076.cms",
       "cross_verified": true,
@@ -82,7 +82,7 @@
       "snippet": "Mukesh Ambani is pitching Jio Platforms as more than a telecom company ahead of its IPO, highlighting thousands of patents, AI and proprietary technology. But questions remain over the commercial value of its intellectual property and whether its technology ambitions justify a potential $120-140 billion valuation.",
       "snippet_ko": "Mukesh Ambani is pitching Jio Platforms as more than a telecom company ahead of its IPO, highlighting thousands of patents, AI and proprietary technology. But questions remain over the commercial value of its intellectual property and whether its technology ambitions justify a potential $120-140 billion valuation.",
       "symbol": "GOOGL",
-      "sentiment_score": 0.58,
+      "sentiment_score": 0.5853,
       "source": "economictimes.indiatimes.com",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-ambanis-tech-titan-ipo-story-isnt-yet-credible/articleshow/133785076.cms",
       "cross_verified": true,
