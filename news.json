@@ -1,43 +1,6 @@
 {
-  "updated_at": "2026-09-05T03:19:43.053601+00:00",
+  "updated_at": "2026-09-05T03:25:16.270358+00:00",
   "status": "ok",
-  "market_news": [
-    {
-      "title": "Premium Income Corp. - Class A declares $0.09 dividend (TSX:PIC.A:CA)",
-      "title_ko": "Premium Income Corp. - Class A declares $0.09 dividend (TSX:PIC.A:CA)",
-      "snippet": "Premium Income Corp. Class A (PIC.A:CA) declares a $0.09 monthly dividend.",
-      "snippet_ko": "Premium Income Corp. Class A (PIC.A:CA) declares a $0.09 monthly dividend.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4640492-premium-income-corp-class-a-declares-0_09-dividend",
-      "cross_verified": false,
-      "published_at": "2026-09-05T03:06:11.000000Z"
-    },
-    {
-      "title": "Premium Global Income Split declares $0.08 dividend (TSX:PGIC:CA)",
-      "title_ko": "Premium Global Income Split declares $0.08 dividend (TSX:PGIC:CA)",
-      "snippet": "Premium Global Income Split (PGIC:CA) declares a $0.08 monthly dividend; payable Sept 29 (record/ex-div Sept 15).",
-      "snippet_ko": "Premium Global Income Split (PGIC:CA) declares a $0.08 monthly dividend; payable Sept 29 (record/ex-div Sept 15).",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4640491-premium-global-income-split-declares-0_08-dividend",
-      "cross_verified": false,
-      "published_at": "2026-09-05T03:02:55.000000Z"
-    },
-    {
-      "title": "Premium Global Income Split Fund PFD SHS declares $0.0625 dividend (TSX:PGIC.PR.A:CA)",
-      "title_ko": "Premium Global Income Split Fund PFD SHS declares $0.0625 dividend (TSX:PGIC.PR.A:CA)",
-      "snippet": "Premium Global Income Split Fund (PGIC.PR.A) declares $0.0625 monthly dividend; payable Sept 29, record/ex-div Sept 15.",
-      "snippet_ko": "Premium Global Income Split Fund (PGIC.PR.A) declares $0.0625 monthly dividend; payable Sept 29, record/ex-div Sept 15.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4640490-premium-global-income-split-fund-pfd-shs-declares-0_0625-dividend",
-      "cross_verified": false,
-      "published_at": "2026-09-05T03:02:07.000000Z"
-    }
-  ],
+  "market_news": [],
   "portfolio_news": []
 }
