@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T03:06:02.357071+00:00",
+  "updated_at": "2026-09-05T03:10:47.512536+00:00",
   "status": "ok",
   "market_news": [
     {
@@ -13,30 +13,6 @@
       "url": "https://www.leadershipnow.com/leadingblog/2026/09/inside_the_box_how_constraints.html",
       "cross_verified": false,
       "published_at": "2026-09-05T02:50:06.000000Z"
-    },
-    {
-      "title": "DPWH moves to update flood management master plans nationwide",
-      "title_ko": "DPWH moves to update flood management master plans nationwide",
-      "snippet": "MANILA, Philippines — The Department of Public Works and Highways (DPWH) is moving to update flood management master plans across the country as part of efforts to strengthen long-term flood resilience.",
-      "snippet_ko": "MANILA, Philippines — The Department of Public Works and Highways (DPWH) is moving to update flood management master plans across the country as part of efforts to strengthen long-term flood resilience.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/05/news/dpwh-moves-to-update-flood-management-master-plans-nationwide/2419100",
-      "cross_verified": false,
-      "published_at": "2026-09-05T02:44:40.000000Z"
-    },
-    {
-      "title": "EMI affordability: When does an ‘affordable monthly payment’ become unaffordable? Experts explain",
-      "title_ko": "EMI affordability: When does an ‘affordable monthly payment’ become unaffordable? Experts explain",
-      "snippet": "A manageable EMI is about more than a low monthly payment. Experts explain the 30% EMI rule, debt risks and how borrowers can assess loan affordability while protecting savings and financial security. Seeking professional guidance is a must when faced with financial hardships.",
-      "snippet_ko": "A manageable EMI is about more than a low monthly payment. Experts explain the 30% EMI rule, debt risks and how borrowers can assess loan affordability while protecting savings and financial security. Seeking professional guidance is a must when faced with financial hardships.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/money/personal-finance/emi-affordability-when-does-an-affordable-monthly-payment-become-unaffordable-experts-explain-11788532183064.html",
-      "cross_verified": false,
-      "published_at": "2026-09-05T02:29:52.000000Z"
     }
   ],
   "portfolio_news": [
