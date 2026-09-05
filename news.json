@@ -1,56 +1,43 @@
 {
-  "updated_at": "2026-09-05T03:12:59.464464+00:00",
+  "updated_at": "2026-09-05T03:19:43.053601+00:00",
   "status": "ok",
   "market_news": [
     {
-      "title": "Inside the Box: How Constraints Make Us Better",
-      "title_ko": "Inside the Box: How Constraints Make Us Better",
-      "snippet": "Leadership Now is a leading source for leadership development and analysis. We believe that anyone can make a difference by leading from where they are.",
-      "snippet_ko": "Leadership Now is a leading source for leadership development and analysis. We believe that anyone can make a difference by leading from where they are.",
+      "title": "Premium Income Corp. - Class A declares $0.09 dividend (TSX:PIC.A:CA)",
+      "title_ko": "Premium Income Corp. - Class A declares $0.09 dividend (TSX:PIC.A:CA)",
+      "snippet": "Premium Income Corp. Class A (PIC.A:CA) declares a $0.09 monthly dividend.",
+      "snippet_ko": "Premium Income Corp. Class A (PIC.A:CA) declares a $0.09 monthly dividend.",
       "symbol": "",
       "sentiment_score": 0.0,
-      "source": "leadershipnow.com",
-      "url": "https://www.leadershipnow.com/leadingblog/2026/09/inside_the_box_how_constraints.html",
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4640492-premium-income-corp-class-a-declares-0_09-dividend",
       "cross_verified": false,
-      "published_at": "2026-09-05T02:50:06.000000Z"
+      "published_at": "2026-09-05T03:06:11.000000Z"
+    },
+    {
+      "title": "Premium Global Income Split declares $0.08 dividend (TSX:PGIC:CA)",
+      "title_ko": "Premium Global Income Split declares $0.08 dividend (TSX:PGIC:CA)",
+      "snippet": "Premium Global Income Split (PGIC:CA) declares a $0.08 monthly dividend; payable Sept 29 (record/ex-div Sept 15).",
+      "snippet_ko": "Premium Global Income Split (PGIC:CA) declares a $0.08 monthly dividend; payable Sept 29 (record/ex-div Sept 15).",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4640491-premium-global-income-split-declares-0_08-dividend",
+      "cross_verified": false,
+      "published_at": "2026-09-05T03:02:55.000000Z"
+    },
+    {
+      "title": "Premium Global Income Split Fund PFD SHS declares $0.0625 dividend (TSX:PGIC.PR.A:CA)",
+      "title_ko": "Premium Global Income Split Fund PFD SHS declares $0.0625 dividend (TSX:PGIC.PR.A:CA)",
+      "snippet": "Premium Global Income Split Fund (PGIC.PR.A) declares $0.0625 monthly dividend; payable Sept 29, record/ex-div Sept 15.",
+      "snippet_ko": "Premium Global Income Split Fund (PGIC.PR.A) declares $0.0625 monthly dividend; payable Sept 29, record/ex-div Sept 15.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4640490-premium-global-income-split-fund-pfd-shs-declares-0_0625-dividend",
+      "cross_verified": false,
+      "published_at": "2026-09-05T03:02:07.000000Z"
     }
   ],
-  "portfolio_news": [
-    {
-      "title": "Jim Cramer Bullish on MP Materials (MP) But Warns Investors Not to Expect Quick Results",
-      "title_ko": "Jim Cramer Bullish on MP Materials (MP) But Warns Investors Not to Expect Quick Results",
-      "snippet": "A caller inquired about starting a position in MP Materials Corp. (NYSE:MP) during the lightning round of the September 2 episode of Mad Money, and Jim Cramer replied: I think it makes sense.",
-      "snippet_ko": "A caller inquired about starting a position in MP Materials Corp. (NYSE:MP) during the lightning round of the September 2 episode of Mad Money, and Jim Cramer replied: I think it makes sense.",
-      "symbol": "MP",
-      "sentiment_score": 0.0,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/jim-cramer-bullish-on-mp-materials-mp-but-warns-investors-not-to-expect-quick-results-1827731/",
-      "cross_verified": false,
-      "published_at": "2026-09-04T23:14:41.000000Z"
-    },
-    {
-      "title": "ChronoScale Says It Plans a 50 MW Microsoft AI Deployment. Can CHRN Fund the Build Without Diluting Shareholders?",
-      "title_ko": "ChronoScale Says It Plans a 50 MW Microsoft AI Deployment. Can CHRN Fund the Build Without Diluting Shareholders?",
-      "snippet": "ChronoScale said on August 27 that it plans with Microsoft to deploy 50 megawatts of AI infrastructure in North America using NVIDIA GB300 NVL72 systems and liquid cooling.",
-      "snippet_ko": "ChronoScale said on August 27 that it plans with Microsoft to deploy 50 megawatts of AI infrastructure in North America using NVIDIA GB300 NVL72 systems and liquid cooling.",
-      "symbol": "MSFT",
-      "sentiment_score": 0.0,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/chronoscale-says-it-plans-a-50-mw-microsoft-ai-deployment-can-chrn-fund-the-build-without-diluting-shareholders-1827868/",
-      "cross_verified": false,
-      "published_at": "2026-09-04T23:10:34.000000Z"
-    },
-    {
-      "title": "AWS Plans 2 Million More NVIDIA GPUs. Is This Better News for AMZN’s Cloud Growth or NVDA’s Backlog?",
-      "title_ko": "AWS Plans 2 Million More NVIDIA GPUs. Is This Better News for AMZN’s Cloud Growth or NVDA’s Backlog?",
-      "snippet": "AWS and NVIDIA said on August 26 that Amazon's cloud plans to deploy two million additional Blackwell Ultra, Rubin, and Rubin Ultra GPUs during 2027 and 2028.",
-      "snippet_ko": "AWS and NVIDIA said on August 26 that Amazon's cloud plans to deploy two million additional Blackwell Ultra, Rubin, and Rubin Ultra GPUs during 2027 and 2028.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.0,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/aws-plans-2-million-more-nvidia-gpus-is-this-better-news-for-amzns-cloud-growth-or-nvdas-backlog-1827871/",
-      "cross_verified": false,
-      "published_at": "2026-09-04T23:04:19.000000Z"
-    }
-  ]
+  "portfolio_news": []
 }
