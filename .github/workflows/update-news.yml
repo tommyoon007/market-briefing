@@ -13,196 +13,238 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: "3.x"
 
-      - name: Fetch MarketAux news
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Collect market news
         env:
           MARKETAUX_API_TOKEN: ${{ secrets.MARKETAUX_API_TOKEN }}
         run: |
-          python - <<'PY'
+          cat > collect_news.py <<'PYTHON'
           import json
           import os
-          import sys
-          from datetime import datetime, timedelta, timezone
-          from urllib.error import HTTPError, URLError
-          from urllib.parse import urlencode
-          from urllib.request import Request, urlopen
+          import re
+          from datetime import datetime, timezone
+          from urllib.parse import urlparse
 
-          API_KEY = os.environ.get("MARKETAUX_API_TOKEN")
+          import requests
 
-          if not API_KEY:
-              print("ERROR: MARKETAUX_API_TOKEN secret is missing.")
-              sys.exit(1)
-
+          API_TOKEN = os.environ.get("MARKETAUX_API_TOKEN", "")
           API_URL = "https://api.marketaux.com/v1/news/all"
 
-          portfolio_symbols = [
+          PORTFOLIO_SYMBOLS = {
               "AAPL", "MSFT", "META", "GOOGL", "AMZN",
               "MSTR", "NVDA", "AVGO", "DIS", "MRK",
               "V", "MA", "NFLX", "TSLA", "PLTR",
               "DKNG", "MP", "AMSC", "INTC"
+          }
+
+          MARKET_KEYWORDS = [
+              "stock", "stocks", "share", "shares", "equity",
+              "nasdaq", "s&p", "dow jones", "wall street",
+              "market", "investor", "investors", "trading",
+              "earnings", "revenue", "profit", "guidance",
+              "fed", "federal reserve", "interest rate",
+              "inflation", "economy", "economic", "gdp",
+              "tariff", "trade war", "recession",
+              "treasury", "bond", "yield", "oil", "gold",
+              "bitcoin", "crypto", "artificial intelligence",
+              "ai", "semiconductor", "chip", "technology",
+              "ipo", "merger", "acquisition", "dividend",
+              "buyback", "downgrade", "upgrade"
           ]
 
-          # 미국 주식시장 관련성을 판단할 핵심 단어
-          market_keywords = [
-              "stock", "stocks", "stock market", "share",
-              "shares", "equity", "equities", "nasdaq",
-              "s&p", "dow", "wall street", "investor",
-              "investors", "earnings", "revenue", "profit",
-              "loss", "fed", "federal reserve", "interest rate",
-              "inflation", "tariff", "trade", "treasury",
-              "bond", "yield", "oil", "gold", "bitcoin",
-              "crypto", "semiconductor", "technology",
-              "artificial intelligence", "ai", "economy",
-              "economic", "gdp", "jobs", "employment",
-              "unemployment", "recession", "ipo", "merger"
+          EXCLUDED_KEYWORDS = [
+              "leadership development",
+              "flood management",
+              "master plans",
+              "emi affordability",
+              "celebrity",
+              "horoscope",
+              "sports scores",
+              "recipe"
           ]
 
-          def fetch_marketaux(symbols=None):
-              published_after = (
-                  datetime.now(timezone.utc) - timedelta(hours=48)
-              ).strftime("%Y-%m-%dT%H:%M:%S")
+          def clean_text(value):
+              if not value:
+                  return ""
+              return re.sub(r"\s+", " ", str(value)).strip()
 
-              params = {
-                  "api_token": API_KEY,
-                  "language": "en",
-                  "limit": "50",
-                  "published_after": published_after,
-                  "filter_entities": "true"
-              }
-
-              if symbols:
-                  params["symbols"] = ",".join(symbols)
-
-              url = API_URL + "?" + urlencode(params)
-
-              print("Requesting MarketAux...")
-              print("Published after:", published_after)
-              print("Symbols:", params.get("symbols", "none"))
-
-              request = Request(
-                  url,
-                  headers={"User-Agent": "market-briefing/1.0"}
+          def get_text(article):
+              title = clean_text(article.get("title"))
+              description = clean_text(
+                  article.get("description")
+                  or article.get("snippet")
+                  or article.get("content")
               )
-
-              try:
-                  with urlopen(request, timeout=30) as response:
-                      return json.loads(
-                          response.read().decode("utf-8")
-                      )
-
-              except HTTPError as error:
-                  error_body = error.read().decode(
-                      "utf-8", errors="replace"
-                  )
-                  print("MarketAux HTTP ERROR:", error.code)
-                  print("MarketAux RESPONSE:", error_body)
-                  raise
-
-              except URLError as error:
-                  print("MarketAux URL ERROR:", error.reason)
-                  raise
+              return f"{title} {description}".lower()
 
           def get_symbol(article):
-              for entity in article.get("entities") or []:
-                  symbol = (entity.get("symbol") or "").upper()
-                  if symbol:
+              symbols = article.get("symbols") or []
+
+              if isinstance(symbols, list):
+                  for symbol in symbols:
+                      symbol = str(symbol).upper().strip()
+                      if symbol in PORTFOLIO_SYMBOLS:
+                          return symbol
+
+              text = get_text(article)
+
+              for symbol in sorted(PORTFOLIO_SYMBOLS, key=len, reverse=True):
+                  pattern = rf"(?<![A-Z]){re.escape(symbol)}(?![A-Z])"
+                  if re.search(pattern, text.upper()):
                       return symbol
+
               return ""
 
-          def make_item(article):
-              return {
-                  "title": article.get("title") or "",
-                  "title_ko": article.get("title") or "",
-                  "snippet": article.get("description") or "",
-                  "snippet_ko": article.get("description") or "",
-                  "symbol": get_symbol(article),
-                  "sentiment_score": 0.0,
-                  "source": (
-                      article.get("source")
-                      or article.get("source_name")
-                      or ""
-                  ),
-                  "url": article.get("url") or "",
-                  "cross_verified": False,
-                  "published_at": article.get("published_at") or ""
-              }
+          def is_excluded(article):
+              text = get_text(article)
+              return any(keyword in text for keyword in EXCLUDED_KEYWORDS)
 
           def is_market_related(article):
-              text = " ".join([
-                  article.get("title") or "",
-                  article.get("description") or ""
-              ]).lower()
+              if is_excluded(article):
+                  return False
 
-              return any(
-                  keyword in text
-                  for keyword in market_keywords
-              )
+              text = get_text(article)
+
+              if get_symbol(article):
+                  return True
+
+              return any(keyword in text for keyword in MARKET_KEYWORDS)
+
+          def article_key(article):
+              url = clean_text(article.get("url"))
+              title = clean_text(article.get("title")).lower()
+
+              if url:
+                  return ("url", url)
+
+              return ("title", title)
 
           def unique_articles(articles):
               result = []
               seen = set()
 
               for article in articles:
-                  url = article.get("url") or ""
-                  title = article.get("title") or ""
-                  unique_key = url or title
+                  key = article_key(article)
 
-                  if not unique_key or unique_key in seen:
+                  if key in seen:
                       continue
 
-                  seen.add(unique_key)
+                  seen.add(key)
                   result.append(article)
 
               return result
 
-          # 보유 종목 뉴스
-          print("MarketAux: portfolio news")
+          def make_article(article):
+              title = clean_text(article.get("title"))
+              snippet = clean_text(
+                  article.get("description")
+                  or article.get("snippet")
+                  or article.get("content")
+              )
 
-          portfolio_data = fetch_marketaux(portfolio_symbols)
-          portfolio_articles = portfolio_data.get("data") or []
+              source = article.get("source")
+              if isinstance(source, dict):
+                  source = source.get("domain") or source.get("name")
 
-          portfolio_news = [
-              make_item(article)
-              for article in unique_articles(portfolio_articles)
-              if get_symbol(article) in portfolio_symbols
+              source = clean_text(source)
+
+              url = clean_text(article.get("url"))
+              published_at = article.get("published_at") or ""
+
+              symbol = get_symbol(article)
+
+              return {
+                  "title": title,
+                  "title_ko": title,
+                  "snippet": snippet,
+                  "snippet_ko": snippet,
+                  "symbol": symbol,
+                  "sentiment_score": 0.0,
+                  "source": source,
+                  "url": url,
+                  "cross_verified": False,
+                  "published_at": published_at
+              }
+
+          if not API_TOKEN:
+              raise RuntimeError("MARKETAUX_API_TOKEN is missing")
+
+          params = {
+              "api_token": API_TOKEN,
+              "language": "en",
+              "limit": 100,
+              "filter_entities": "true"
+          }
+
+          response = requests.get(
+              API_URL,
+              params=params,
+              timeout=30
+          )
+
+          response.raise_for_status()
+
+          payload = response.json()
+          articles = payload.get("data") or []
+
+          market_articles = [
+              article for article in articles
+              if is_market_related(article)
           ]
 
-          # 시장 전체 뉴스
-          print("MarketAux: market news")
+          portfolio_articles = [
+              article for article in market_articles
+              if get_symbol(article)
+          ]
 
-          market_data = fetch_marketaux()
-          market_articles = market_data.get("data") or []
+          market_articles = unique_articles(market_articles)
+          portfolio_articles = unique_articles(portfolio_articles)
 
-          market_news = [
-              make_item(article)
-              for article in unique_articles(market_articles)
-              if is_market_related(article)
+          market_articles = [
+              make_article(article)
+              for article in market_articles[:20]
+          ]
+
+          portfolio_articles = [
+              make_article(article)
+              for article in portfolio_articles[:30]
           ]
 
           output = {
               "updated_at": datetime.now(timezone.utc).isoformat(),
               "status": "ok",
-              "market_news": market_news,
-              "portfolio_news": portfolio_news
+              "market_news": market_articles,
+              "portfolio_news": portfolio_articles
           }
 
           with open("news.json", "w", encoding="utf-8") as file:
-              json.dump(output, file, ensure_ascii=False, indent=2)
+              json.dump(
+                  output,
+                  file,
+                  ensure_ascii=False,
+                  indent=2
+              )
 
-          print("SUCCESS")
-          print("Market news:", len(market_news))
-          print("Portfolio news:", len(portfolio_news))
-          print("news.json created")
-          PY
+          print(f"Market news: {len(market_articles)}")
+          print(f"Portfolio news: {len(portfolio_articles)}")
+          print("news.json created successfully")
+          PYTHON
 
-      - name: Commit news.json
+          python collect_news.py
+
+      - name: Commit and push news.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -210,7 +252,7 @@ jobs:
           git add news.json
 
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No changes to commit"
           else
             git commit -m "Update market news"
             git push
