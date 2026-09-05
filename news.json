@@ -1,42 +1,42 @@
 {
-  "updated_at": "2026-09-05T02:27:50.170714+00:00",
+  "updated_at": "2026-09-05T03:06:02.357071+00:00",
   "status": "ok",
   "market_news": [
     {
-      "title": "Watch: How much can Canada fight back in its trade war with the US?",
-      "title_ko": "Watch: How much can Canada fight back in its trade war with the US?",
-      "snippet": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
-      "snippet_ko": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
+      "title": "Inside the Box: How Constraints Make Us Better",
+      "title_ko": "Inside the Box: How Constraints Make Us Better",
+      "snippet": "Leadership Now is a leading source for leadership development and analysis. We believe that anyone can make a difference by leading from where they are.",
+      "snippet_ko": "Leadership Now is a leading source for leadership development and analysis. We believe that anyone can make a difference by leading from where they are.",
       "symbol": "",
       "sentiment_score": 0.0,
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
+      "source": "leadershipnow.com",
+      "url": "https://www.leadershipnow.com/leadingblog/2026/09/inside_the_box_how_constraints.html",
       "cross_verified": false,
-      "published_at": "2026-09-05T02:13:21.000000Z"
+      "published_at": "2026-09-05T02:50:06.000000Z"
     },
     {
-      "title": "'We have an idea for peace': Trump says Witkoff, Kushner heading abroad to discuss Ukraine peace",
-      "title_ko": "'We have an idea for peace': Trump says Witkoff, Kushner heading abroad to discuss Ukraine peace",
-      "snippet": "In an effort to address the persistent conflict, U.S. envoys Steve Witkoff and Jared Kushner are headed abroad for critical peace negotiations. President Trump has indicated the existence of a new proposal designed to bring an end to hostilities. Their itinerary includes a stop in Moscow, with possible discussions extending to Ukraine.",
-      "snippet_ko": "In an effort to address the persistent conflict, U.S. envoys Steve Witkoff and Jared Kushner are headed abroad for critical peace negotiations. President Trump has indicated the existence of a new proposal designed to bring an end to hostilities. Their itinerary includes a stop in Moscow, with possible discussions extending to Ukraine.",
+      "title": "DPWH moves to update flood management master plans nationwide",
+      "title_ko": "DPWH moves to update flood management master plans nationwide",
+      "snippet": "MANILA, Philippines — The Department of Public Works and Highways (DPWH) is moving to update flood management master plans across the country as part of efforts to strengthen long-term flood resilience.",
+      "snippet_ko": "MANILA, Philippines — The Department of Public Works and Highways (DPWH) is moving to update flood management master plans across the country as part of efforts to strengthen long-term flood resilience.",
       "symbol": "",
       "sentiment_score": 0.0,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/we-have-an-idea-for-peace-trump-says-witkoff-kushner-heading-abroad-to-discuss-ukraine-peace/articleshow/133783739.cms",
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/05/news/dpwh-moves-to-update-flood-management-master-plans-nationwide/2419100",
       "cross_verified": false,
-      "published_at": "2026-09-05T01:36:41.000000Z"
+      "published_at": "2026-09-05T02:44:40.000000Z"
     },
     {
-      "title": "Bank holiday today: Check if SBI, HDFC, ICICI branches are open or closed on Saturday, September 5",
-      "title_ko": "Bank holiday today: Check if SBI, HDFC, ICICI branches are open or closed on Saturday, September 5",
-      "snippet": "September 5 is Teachers' Day in India, but banks remain open as it is the first Saturday of the month. RBI guidelines mandate bank closures on specific Saturdays and Sundays. Details here.",
-      "snippet_ko": "September 5 is Teachers' Day in India, but banks remain open as it is the first Saturday of the month. RBI guidelines mandate bank closures on specific Saturdays and Sundays. Details here.",
+      "title": "EMI affordability: When does an ‘affordable monthly payment’ become unaffordable? Experts explain",
+      "title_ko": "EMI affordability: When does an ‘affordable monthly payment’ become unaffordable? Experts explain",
+      "snippet": "A manageable EMI is about more than a low monthly payment. Experts explain the 30% EMI rule, debt risks and how borrowers can assess loan affordability while protecting savings and financial security. Seeking professional guidance is a must when faced with financial hardships.",
+      "snippet_ko": "A manageable EMI is about more than a low monthly payment. Experts explain the 30% EMI rule, debt risks and how borrowers can assess loan affordability while protecting savings and financial security. Seeking professional guidance is a must when faced with financial hardships.",
       "symbol": "",
       "sentiment_score": 0.0,
       "source": "livemint.com",
-      "url": "https://www.livemint.com/money/bank-holiday-today-check-if-sbi-hdfc-icici-branches-are-open-or-closed-on-saturday-september-5-11788570083507.html",
+      "url": "https://www.livemint.com/money/personal-finance/emi-affordability-when-does-an-affordable-monthly-payment-become-unaffordable-experts-explain-11788532183064.html",
       "cross_verified": false,
-      "published_at": "2026-09-05T01:36:35.000000Z"
+      "published_at": "2026-09-05T02:29:52.000000Z"
     }
   ],
   "portfolio_news": [
