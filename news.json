@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-05T03:44:27.159057+00:00",
+  "updated_at": "2026-09-05T03:56:40.207127+00:00",
   "status": "ok",
   "market_news": [
     {
       "title": "Jio IPO: Ambani’s tech titan listing story isn’t yet credible",
-      "title_ko": "Jio IPO: Ambani’s tech titan listing story isn’t yet credible",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "snippet": "Mukesh Ambani is pitching Jio Platforms as more than a telecom company ahead of its IPO, highlighting thousands of patents, AI and proprietary technology. But questions remain over the commercial value of its intellectual property and whether its technology ambitions justify a potential $120-140 billion valuation.",
-      "snippet_ko": "Mukesh Ambani is pitching Jio Platforms as more than a telecom company ahead of its IPO, highlighting thousands of patents, AI and proprietary technology. But questions remain over the commercial value of its intellectual property and whether its technology ambitions justify a potential $120-140 billion valuation.",
+      "snippet_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "symbol": "GOOGL",
       "sentiment_score": 0.5727,
       "source": "economictimes.indiatimes.com",
@@ -16,9 +16,9 @@
     },
     {
       "title": "Jim Cramer Bullish on MP Materials (MP) But Warns Investors Not to Expect Quick Results",
-      "title_ko": "Jim Cramer Bullish on MP Materials (MP) But Warns Investors Not to Expect Quick Results",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "snippet": "A caller inquired about starting a position in MP Materials Corp. (NYSE:MP) during the lightning round of the September 2 episode of Mad Money, and Jim Cramer replied: I think it makes sense.",
-      "snippet_ko": "A caller inquired about starting a position in MP Materials Corp. (NYSE:MP) during the lightning round of the September 2 episode of Mad Money, and Jim Cramer replied: I think it makes sense.",
+      "snippet_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "symbol": "MP",
       "sentiment_score": 0.1588,
       "source": "insidermonkey.com",
@@ -28,9 +28,9 @@
     },
     {
       "title": "ChronoScale Says It Plans a 50 MW Microsoft AI Deployment. Can CHRN Fund the Build Without Diluting Shareholders?",
-      "title_ko": "ChronoScale Says It Plans a 50 MW Microsoft AI Deployment. Can CHRN Fund the Build Without Diluting Shareholders?",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "snippet": "ChronoScale said on August 27 that it plans with Microsoft to deploy 50 megawatts of AI infrastructure in North America using NVIDIA GB300 NVL72 systems and liquid cooling.",
-      "snippet_ko": "ChronoScale said on August 27 that it plans with Microsoft to deploy 50 megawatts of AI infrastructure in North America using NVIDIA GB300 NVL72 systems and liquid cooling.",
+      "snippet_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "symbol": "MSFT",
       "sentiment_score": 0.3553,
       "source": "insidermonkey.com",
@@ -39,10 +39,22 @@
       "published_at": "2026-09-04T23:10:34.000000Z"
     },
     {
+      "title": "Baozun Inc (BZUN) Chief Strategy Officer Junhua Wu Buys 13,500 Shares",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "snippet": "In a notable display of confidence, Junhua Wu, Chief Strategy Officer of Baozun Inc (BZUN), recently purchased 13,500 shares of the company's stock. The transac",
+      "snippet_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "symbol": "",
+      "sentiment_score": 0.4749,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9069067/baozun-inc-bzun-chief-strategy-officer-junhua-wu-buys-13500-shares",
+      "cross_verified": true,
+      "published_at": "2026-09-05T03:02:53.000000Z"
+    },
+    {
       "title": "Axogen (AXGN) Director Joseph Tyndall Sells 3,500 Shares",
-      "title_ko": "Axogen (AXGN) Director Joseph Tyndall Sells 3,500 Shares",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "snippet": "Joseph Tyndall, a director at Axogen Inc (AXGN), sold 3,500 shares of the company's stock on September 2, 2026, according to a recent SEC Filing. Following the",
-      "snippet_ko": "Joseph Tyndall, a director at Axogen Inc (AXGN), sold 3,500 shares of the company's stock on September 2, 2026, according to a recent SEC Filing. Following the",
+      "snippet_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "symbol": "",
       "sentiment_score": 0.496,
       "source": "gurufocus.com",
@@ -51,24 +63,24 @@
       "published_at": "2026-09-05T03:02:28.000000Z"
     },
     {
-      "title": "Airgain Inc (AIRG) President and CEO Jacob Suen Sells 1,000 Shares",
-      "title_ko": "Airgain Inc (AIRG) President and CEO Jacob Suen Sells 1,000 Shares",
-      "snippet": "On September 3, 2026, Jacob Suen, President and Chief Executive Officer of Airgain Inc (AIRG), sold 1,000 shares of the company's stock, according to a recent S",
-      "snippet_ko": "On September 3, 2026, Jacob Suen, President and Chief Executive Officer of Airgain Inc (AIRG), sold 1,000 shares of the company's stock, according to a recent S",
+      "title": "Atara Biotherapeutics (ATRA) Director Brian Cherry Buys 104,166 Shares",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "snippet": "Director Brian Cherry has demonstrated confidence in Atara Biotherapeutics Inc (ATRA) with a significant open-market purchase of 104,166 shares on 2026-09-04, a",
+      "snippet_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "symbol": "",
-      "sentiment_score": 0.424,
+      "sentiment_score": 0.5989,
       "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9069064/airgain-inc-airg-president-and-ceo-jacob-suen-sells-1000-shares",
+      "url": "https://www.gurufocus.com/news/9069065/atara-biotherapeutics-atra-director-brian-cherry-buys-104166-shares",
       "cross_verified": true,
-      "published_at": "2026-09-05T03:01:37.000000Z"
+      "published_at": "2026-09-05T03:02:04.000000Z"
     }
   ],
   "portfolio_news": [
     {
       "title": "Jio IPO: Ambani’s tech titan listing story isn’t yet credible",
-      "title_ko": "Jio IPO: Ambani’s tech titan listing story isn’t yet credible",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "snippet": "Mukesh Ambani is pitching Jio Platforms as more than a telecom company ahead of its IPO, highlighting thousands of patents, AI and proprietary technology. But questions remain over the commercial value of its intellectual property and whether its technology ambitions justify a potential $120-140 billion valuation.",
-      "snippet_ko": "Mukesh Ambani is pitching Jio Platforms as more than a telecom company ahead of its IPO, highlighting thousands of patents, AI and proprietary technology. But questions remain over the commercial value of its intellectual property and whether its technology ambitions justify a potential $120-140 billion valuation.",
+      "snippet_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "symbol": "GOOGL",
       "sentiment_score": 0.5727,
       "source": "economictimes.indiatimes.com",
@@ -78,9 +90,9 @@
     },
     {
       "title": "Jim Cramer Bullish on MP Materials (MP) But Warns Investors Not to Expect Quick Results",
-      "title_ko": "Jim Cramer Bullish on MP Materials (MP) But Warns Investors Not to Expect Quick Results",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "snippet": "A caller inquired about starting a position in MP Materials Corp. (NYSE:MP) during the lightning round of the September 2 episode of Mad Money, and Jim Cramer replied: I think it makes sense.",
-      "snippet_ko": "A caller inquired about starting a position in MP Materials Corp. (NYSE:MP) during the lightning round of the September 2 episode of Mad Money, and Jim Cramer replied: I think it makes sense.",
+      "snippet_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "symbol": "MP",
       "sentiment_score": 0.1588,
       "source": "insidermonkey.com",
@@ -90,9 +102,9 @@
     },
     {
       "title": "ChronoScale Says It Plans a 50 MW Microsoft AI Deployment. Can CHRN Fund the Build Without Diluting Shareholders?",
-      "title_ko": "ChronoScale Says It Plans a 50 MW Microsoft AI Deployment. Can CHRN Fund the Build Without Diluting Shareholders?",
+      "title_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "snippet": "ChronoScale said on August 27 that it plans with Microsoft to deploy 50 megawatts of AI infrastructure in North America using NVIDIA GB300 NVL72 systems and liquid cooling.",
-      "snippet_ko": "ChronoScale said on August 27 that it plans with Microsoft to deploy 50 megawatts of AI infrastructure in North America using NVIDIA GB300 NVL72 systems and liquid cooling.",
+      "snippet_ko": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "symbol": "MSFT",
       "sentiment_score": 0.3553,
       "source": "insidermonkey.com",
