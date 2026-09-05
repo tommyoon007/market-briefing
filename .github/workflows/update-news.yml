@@ -42,7 +42,6 @@ jobs:
 
           API_URL = "https://api.marketaux.com/v1/news/all"
 
-          # 자기 포트폴리오 주요 종목
           portfolio_symbols = [
               "AAPL", "MSFT", "META", "GOOGL", "AMZN",
               "MSTR", "NVDA", "AVGO", "DIS", "MRK",
@@ -50,8 +49,22 @@ jobs:
               "DKNG", "MP", "AMSC", "INTC"
           ]
 
+          # 미국 주식시장 관련성을 판단할 핵심 단어
+          market_keywords = [
+              "stock", "stocks", "stock market", "share",
+              "shares", "equity", "equities", "nasdaq",
+              "s&p", "dow", "wall street", "investor",
+              "investors", "earnings", "revenue", "profit",
+              "loss", "fed", "federal reserve", "interest rate",
+              "inflation", "tariff", "trade", "treasury",
+              "bond", "yield", "oil", "gold", "bitcoin",
+              "crypto", "semiconductor", "technology",
+              "artificial intelligence", "ai", "economy",
+              "economic", "gdp", "jobs", "employment",
+              "unemployment", "recession", "ipo", "merger"
+          ]
+
           def fetch_marketaux(symbols=None):
-              # MarketAux 날짜 필터는 UTC 기준 초 단위 형식으로 전송
               published_after = (
                   datetime.now(timezone.utc) - timedelta(hours=48)
               ).strftime("%Y-%m-%dT%H:%M:%S")
@@ -61,7 +74,7 @@ jobs:
                   "language": "en",
                   "limit": "50",
                   "published_after": published_after,
-                  "filter_entities": "true",
+                  "filter_entities": "true"
               }
 
               if symbols:
@@ -70,24 +83,24 @@ jobs:
               url = API_URL + "?" + urlencode(params)
 
               print("Requesting MarketAux...")
-              print("URL:", API_URL)
               print("Published after:", published_after)
               print("Symbols:", params.get("symbols", "none"))
 
               request = Request(
                   url,
-                  headers={
-                      "User-Agent": "market-briefing/1.0"
-                  }
+                  headers={"User-Agent": "market-briefing/1.0"}
               )
 
               try:
                   with urlopen(request, timeout=30) as response:
-                      body = response.read().decode("utf-8")
-                      return json.loads(body)
+                      return json.loads(
+                          response.read().decode("utf-8")
+                      )
 
               except HTTPError as error:
-                  error_body = error.read().decode("utf-8", errors="replace")
+                  error_body = error.read().decode(
+                      "utf-8", errors="replace"
+                  )
                   print("MarketAux HTTP ERROR:", error.code)
                   print("MarketAux RESPONSE:", error_body)
                   raise
@@ -96,21 +109,20 @@ jobs:
                   print("MarketAux URL ERROR:", error.reason)
                   raise
 
-          def make_item(article):
-              entities = article.get("entities") or []
-
-              symbol = ""
-              for entity in entities:
-                  symbol = entity.get("symbol") or ""
+          def get_symbol(article):
+              for entity in article.get("entities") or []:
+                  symbol = (entity.get("symbol") or "").upper()
                   if symbol:
-                      break
+                      return symbol
+              return ""
 
+          def make_item(article):
               return {
                   "title": article.get("title") or "",
                   "title_ko": article.get("title") or "",
                   "snippet": article.get("description") or "",
                   "snippet_ko": article.get("description") or "",
-                  "symbol": symbol,
+                  "symbol": get_symbol(article),
                   "sentiment_score": 0.0,
                   "source": (
                       article.get("source")
@@ -119,20 +131,50 @@ jobs:
                   ),
                   "url": article.get("url") or "",
                   "cross_verified": False,
-                  "published_at": article.get("published_at") or "",
+                  "published_at": article.get("published_at") or ""
               }
 
+          def is_market_related(article):
+              text = " ".join([
+                  article.get("title") or "",
+                  article.get("description") or ""
+              ]).lower()
+
+              return any(
+                  keyword in text
+                  for keyword in market_keywords
+              )
+
+          def unique_articles(articles):
+              result = []
+              seen = set()
+
+              for article in articles:
+                  url = article.get("url") or ""
+                  title = article.get("title") or ""
+                  unique_key = url or title
+
+                  if not unique_key or unique_key in seen:
+                      continue
+
+                  seen.add(unique_key)
+                  result.append(article)
+
+              return result
+
+          # 보유 종목 뉴스
           print("MarketAux: portfolio news")
 
-          data = fetch_marketaux(portfolio_symbols)
-          articles = data.get("data") or []
+          portfolio_data = fetch_marketaux(portfolio_symbols)
+          portfolio_articles = portfolio_data.get("data") or []
 
           portfolio_news = [
               make_item(article)
-              for article in articles
+              for article in unique_articles(portfolio_articles)
+              if get_symbol(article) in portfolio_symbols
           ]
 
-          # 시장 전체 뉴스도 별도로 가져오기
+          # 시장 전체 뉴스
           print("MarketAux: market news")
 
           market_data = fetch_marketaux()
@@ -140,14 +182,15 @@ jobs:
 
           market_news = [
               make_item(article)
-              for article in market_articles
+              for article in unique_articles(market_articles)
+              if is_market_related(article)
           ]
 
           output = {
               "updated_at": datetime.now(timezone.utc).isoformat(),
               "status": "ok",
               "market_news": market_news,
-              "portfolio_news": portfolio_news,
+              "portfolio_news": portfolio_news
           }
 
           with open("news.json", "w", encoding="utf-8") as file:
@@ -157,7 +200,6 @@ jobs:
           print("Market news:", len(market_news))
           print("Portfolio news:", len(portfolio_news))
           print("news.json created")
-
           PY
 
       - name: Commit news.json
