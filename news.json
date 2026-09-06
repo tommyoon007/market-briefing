@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T02:24:16.614770+00:00",
+  "updated_at": "2026-09-06T02:41:03.298501+00:00",
   "status": "ok",
   "market_news": [
     {
@@ -27,16 +27,28 @@
       "published_at": "2026-09-05T23:20:00.000000Z"
     },
     {
-      "title": "Intel’s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
-      "title_ko": "Intel’s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
-      "snippet": "On September 3, Mizuho lowered the price target on Intel Corporation (NASDAQ:INTC) to $92 from $109. Mizuho’s note reads more bullish on INTC’s business than the price target suggests, but the firm is stopping short of turning bullish. The firm noted multiple operating tailwinds working in favor of Intel, namely Agentic AI demand, enterprise server […]",
-      "snippet_ko": "On September 3, Mizuho lowered the price target on Intel Corporation (NASDAQ:INTC) to $92 from $109. Mizuho’s note reads more bullish on INTC’s business than the price target suggests, but the firm is stopping short of turning bullish. The firm noted multiple operating tailwinds working in favor of Intel, namely Agentic AI demand, enterprise server […]",
-      "symbol": "INTC",
-      "sentiment_score": -0.0287,
+      "title": "Why Intel Stock Climbed This Week",
+      "title_ko": "Why Intel Stock Climbed This Week",
+      "snippet": "Dell's torrid revenue growth bodes well for the semiconductor leader.",
+      "snippet_ko": "Dell's torrid revenue growth bodes well for the semiconductor leader.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0555,
       "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/intel-ai-tailwinds-real-mizuho-225825483.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-climbed-week-224017728.html",
       "cross_verified": true,
-      "published_at": "2026-09-05T22:58:25.000000Z"
+      "published_at": "2026-09-05T22:40:17.000000Z"
+    },
+    {
+      "title": "iFabric Corp (IFABF) (Q1 2026) Earnings Call Highlights: Record Revenue Surges to $27.5M, Exceeding Guidance",
+      "title_ko": "iFabric Corp (IFABF) (Q1 2026) Earnings Call Highlights: Record Revenue Surges to $27.5M, Exceeding Guidance",
+      "snippet": "Revenue: $27.5 million, a record for the company, compared to $7.1 million in the prior year and ahead of the $20 million to $25 million guidance.Intelligent Fa",
+      "snippet_ko": "Revenue: $27.5 million, a record for the company, compared to $7.1 million in the prior year and ahead of the $20 million to $25 million guidance.Intelligent Fa",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9069488/ifabric-corp-ifabf-q1-2026-earnings-call-highlights-record-revenue-surges-to-275m-exceeding-guidance",
+      "cross_verified": true,
+      "published_at": "2026-09-06T01:00:27.000000Z"
     },
     {
       "title": "Q1 2026 iFabric Corp Earnings Call Transcript",
@@ -77,16 +89,16 @@
       "published_at": "2026-09-05T23:20:00.000000Z"
     },
     {
-      "title": "Intel’s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
-      "title_ko": "Intel’s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
-      "snippet": "On September 3, Mizuho lowered the price target on Intel Corporation (NASDAQ:INTC) to $92 from $109. Mizuho’s note reads more bullish on INTC’s business than the price target suggests, but the firm is stopping short of turning bullish. The firm noted multiple operating tailwinds working in favor of Intel, namely Agentic AI demand, enterprise server […]",
-      "snippet_ko": "On September 3, Mizuho lowered the price target on Intel Corporation (NASDAQ:INTC) to $92 from $109. Mizuho’s note reads more bullish on INTC’s business than the price target suggests, but the firm is stopping short of turning bullish. The firm noted multiple operating tailwinds working in favor of Intel, namely Agentic AI demand, enterprise server […]",
-      "symbol": "INTC",
-      "sentiment_score": -0.0287,
+      "title": "Why Intel Stock Climbed This Week",
+      "title_ko": "Why Intel Stock Climbed This Week",
+      "snippet": "Dell's torrid revenue growth bodes well for the semiconductor leader.",
+      "snippet_ko": "Dell's torrid revenue growth bodes well for the semiconductor leader.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0555,
       "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/intel-ai-tailwinds-real-mizuho-225825483.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-climbed-week-224017728.html",
       "cross_verified": true,
-      "published_at": "2026-09-05T22:58:25.000000Z"
+      "published_at": "2026-09-05T22:40:17.000000Z"
     }
   ]
 }
