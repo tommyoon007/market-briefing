@@ -1,42 +1,42 @@
 {
-  "updated_at": "2026-09-06T10:05:03.608975+00:00",
+  "updated_at": "2026-09-06T13:50:25.959128+00:00",
   "status": "ok",
   "market_news": [
     {
-      "title": "Tesla Expands Robotaxi Services with 24/7 Availability",
-      "title_ko": "테슬라, 연중무휴 24시간 운영으로 로보택시 서비스 확대",
-      "snippet": "On September 06, 2026, Tesla's AI head, Ashok Elluswamy, announced that the company's Robotaxi service is set to transition into a 24/7 operational model. This",
-      "snippet_ko": "2026년 9월 6일, 테슬라의 AI 부문 책임자인 아쇼크 엘루스와미는 회사의 로보택시 서비스가 연중무휴 24시간 운영 모델로 전환될 예정이라고 발표했습니다. 이는",
-      "symbol": "TSLA",
-      "sentiment_score": 0.5075,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9069494/tesla-expands-robotaxi-services-with-247-availability",
+      "title": "MPLX: 7%+ Yield Is Just The Appetizer, The Growth Is The Main Course (NYSE:MPLX)",
+      "title_ko": "MPLX: 7%+ Yield Is Just The Appetizer, The Growth Is The Main Course (NYSE:MPLX)",
+      "snippet": "MPLX LP looks like a top MLP to buy: 7%+ yield, fee-based midstream cash flows, growth CapEx, and 12.5% distribution hikes. Here's what investors need to consider.",
+      "snippet_ko": "MPLX LP looks like a top MLP to buy: 7%+ yield, fee-based midstream cash flows, growth CapEx, and 12.5% distribution hikes. Here's what investors need to consider.",
+      "symbol": "",
+      "sentiment_score": 0.1909,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4943410-mplx-7-percent-plus-yield-is-just-the-appetizer-the-growth-is-the-main-course",
       "cross_verified": true,
-      "published_at": "2026-09-06T07:11:42.000000Z"
+      "published_at": "2026-09-06T13:15:00.000000Z"
     },
     {
-      "title": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Pioneer Has the Stronger Technology Advantage?",
-      "title_ko": "IonQ 대 Rigetti Computing: 두 순수 양자 기술 선구자 중 어느 쪽이 더 강력한 기술적 우위를 차지하고 있을까?",
-      "snippet": "Rigetti and IonQ are taking two separate approaches to quantum computing.",
-      "snippet_ko": "Rigetti와 IonQ는 양자 컴퓨팅 분야에서 서로 다른 두 가지 접근 방식을 취하고 있다.",
-      "symbol": "NVDA",
-      "sentiment_score": -0.296,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-vs-rigetti-computing-pure-232000862.html",
+      "title": "Voya Financial’s (VOYA) Earnings Fell While Its Retirement Business Boomed",
+      "title_ko": "Voya Financial’s (VOYA) Earnings Fell While Its Retirement Business Boomed",
+      "snippet": "On August 4, Voya Financial (NYSE:VOYA) announced its second-quarter 2026 results, and the headline numbers tell an uncomfortable story.",
+      "snippet_ko": "On August 4, Voya Financial (NYSE:VOYA) announced its second-quarter 2026 results, and the headline numbers tell an uncomfortable story.",
+      "symbol": "",
+      "sentiment_score": -0.1027,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/voya-financials-voya-earnings-fell-while-its-retirement-business-boomed-1828515/",
       "cross_verified": true,
-      "published_at": "2026-09-05T23:20:00.000000Z"
+      "published_at": "2026-09-06T12:49:48.000000Z"
     },
     {
-      "title": "Intel’s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
-      "title_ko": "인텔의 AI 호재는 분명하다. 그럼에도 미즈호는 목표 주가를 하향 조정했다.",
-      "snippet": "On September 3, Mizuho lowered the price target on Intel Corporation (NASDAQ:INTC) to $92 from $109. Mizuho’s note reads more bullish on INTC’s business than the price target suggests, but the firm is stopping short of turning bullish. The firm noted multiple operating tailwinds working in favor of Intel, namely Agentic AI demand, enterprise server […]",
-      "snippet_ko": "9월 3일, 미즈호는 인텔(NASDAQ:INTC)의 목표 주가를 109달러에서 92달러로 하향 조정했다. 미즈호의 보고서 내용은 목표 주가가 시사하는 것보다 인텔의 사업에 대해 더 낙관적인 입장을 담고 있지만, 이 회사는 아직까지 공식적으로 강세 전망을 내놓지는 않고 있다. 이 기관은 인텔에 유리한 여러 가지 경영 호재, 즉 에이전틱 AI 수요, 엔터프라이즈 서버 […] 등을 언급했다.",
-      "symbol": "INTC",
-      "sentiment_score": -0.0287,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/intel-ai-tailwinds-real-mizuho-225825483.html",
+      "title": "Adobe: Avoid This Dead Cat Bounce (NASDAQ:ADBE)",
+      "title_ko": "Adobe: Avoid This Dead Cat Bounce (NASDAQ:ADBE)",
+      "snippet": "Adobe faces AI disruption as rivals threaten creative software. Click for more on ADBE stock.",
+      "snippet_ko": "Adobe faces AI disruption as rivals threaten creative software. Click for more on ADBE stock.",
+      "symbol": "",
+      "sentiment_score": -0.7579,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4943403-adobe-avoid-this-dead-cat-bounce",
       "cross_verified": true,
-      "published_at": "2026-09-05T22:58:25.000000Z"
+      "published_at": "2026-09-06T12:45:00.000000Z"
     },
     {
       "title": "Video game makers really don't want to give their customers tariff refunds",
@@ -76,6 +76,18 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Nvidia’s Hugging Face Deal Is a Hedge against Broadcom’s Custom Silicon Threat",
+      "title_ko": "Nvidia’s Hugging Face Deal Is a Hedge against Broadcom’s Custom Silicon Threat",
+      "snippet": "NVIDIA Corporation (NASDAQ:NVDA) has officially committed billions on AI developer platform Hugging Face for a $12.9 billion.",
+      "snippet_ko": "NVIDIA Corporation (NASDAQ:NVDA) has officially committed billions on AI developer platform Hugging Face for a $12.9 billion.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.5059,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/nvidias-hugging-face-deal-is-a-hedge-against-broadcoms-custom-silicon-threat-1827852/",
+      "cross_verified": true,
+      "published_at": "2026-09-06T10:51:11.000000Z"
+    },
     {
       "title": "Tesla Expands Robotaxi Services with 24/7 Availability",
       "title_ko": "테슬라, 연중무휴 24시간 운영으로 로보택시 서비스 확대",
