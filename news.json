@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-06T02:41:03.298501+00:00",
+  "updated_at": "2026-09-06T03:02:24.458299+00:00",
   "status": "ok",
   "market_news": [
     {
       "title": "Tesla's Robotaxi Set to Launch 24/7 Service Soon",
-      "title_ko": "Tesla's Robotaxi Set to Launch 24/7 Service Soon",
+      "title_ko": "테슬라의 로봇택시, 조만간 연중무휴 24시간 서비스 개시 예정",
       "snippet": "On September 05, 2026, Tesla Inc (TSLA) announced that its AI chief, Ashok Elluswamy, revealed the company is nearing the launch of its 24/7 Robotaxi service. T",
-      "snippet_ko": "On September 05, 2026, Tesla Inc (TSLA) announced that its AI chief, Ashok Elluswamy, revealed the company is nearing the launch of its 24/7 Robotaxi service. T",
+      "snippet_ko": "2026년 9월 5일, 테슬라(TSLA)는 자사의 AI 총괄 책임자인 아쇼크 엘루스와미가 24시간 연중무휴 로보택시 서비스 출시가 임박했다고 밝혔다고 발표했다. T",
       "symbol": "TSLA",
       "sentiment_score": 0.6388,
       "source": "gurufocus.com",
@@ -15,34 +15,10 @@
       "published_at": "2026-09-06T01:31:52.000000Z"
     },
     {
-      "title": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Pioneer Has the Stronger Technology Advantage?",
-      "title_ko": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Pioneer Has the Stronger Technology Advantage?",
-      "snippet": "Rigetti and IonQ are taking two separate approaches to quantum computing.",
-      "snippet_ko": "Rigetti and IonQ are taking two separate approaches to quantum computing.",
-      "symbol": "NVDA",
-      "sentiment_score": -0.296,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-vs-rigetti-computing-pure-232000862.html",
-      "cross_verified": true,
-      "published_at": "2026-09-05T23:20:00.000000Z"
-    },
-    {
-      "title": "Why Intel Stock Climbed This Week",
-      "title_ko": "Why Intel Stock Climbed This Week",
-      "snippet": "Dell's torrid revenue growth bodes well for the semiconductor leader.",
-      "snippet_ko": "Dell's torrid revenue growth bodes well for the semiconductor leader.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.0555,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-climbed-week-224017728.html",
-      "cross_verified": true,
-      "published_at": "2026-09-05T22:40:17.000000Z"
-    },
-    {
       "title": "iFabric Corp (IFABF) (Q1 2026) Earnings Call Highlights: Record Revenue Surges to $27.5M, Exceeding Guidance",
-      "title_ko": "iFabric Corp (IFABF) (Q1 2026) Earnings Call Highlights: Record Revenue Surges to $27.5M, Exceeding Guidance",
+      "title_ko": "iFabric Corp (IFABF) (2026년 1분기) 실적 발표 주요 내용: 매출이 2,750만 달러로 급증하며 사상 최고치를 기록, 가이던스를 상회",
       "snippet": "Revenue: $27.5 million, a record for the company, compared to $7.1 million in the prior year and ahead of the $20 million to $25 million guidance.Intelligent Fa",
-      "snippet_ko": "Revenue: $27.5 million, a record for the company, compared to $7.1 million in the prior year and ahead of the $20 million to $25 million guidance.Intelligent Fa",
+      "snippet_ko": "매출: 2,750만 달러로, 이는 회사 사상 최고 기록이며, 전년도의 710만 달러에 비해 크게 증가한 수치이자 2,000만~2,500만 달러였던 전망치를 상회했다. Intelligent Fa",
       "symbol": "",
       "sentiment_score": 0.0,
       "source": "gurufocus.com",
@@ -52,9 +28,9 @@
     },
     {
       "title": "Q1 2026 iFabric Corp Earnings Call Transcript",
-      "title_ko": "Q1 2026 iFabric Corp Earnings Call Transcript",
+      "title_ko": "2026년 1분기 iFabric Corp 실적 발표 전화 회의 기록",
       "snippet": "May 14, 2026 / 06:00PM GMTDeborah Honig - Adelaide Capital Corp - Analyst All right. Good morning, good afternoon, depending on where you're dialing in from. Th",
-      "snippet_ko": "May 14, 2026 / 06:00PM GMTDeborah Honig - Adelaide Capital Corp - Analyst All right. Good morning, good afternoon, depending on where you're dialing in from. Th",
+      "snippet_ko": "2026년 5월 14일 / 오후 6:00 GMT 데보라 호니그 - 애들레이드 캐피털 코프 - 애널리스트 네. 안녕하세요. 어디에서 전화로 참여하고 계신지에 따라 아침이거나 오후이시겠네요. 그",
       "symbol": "",
       "sentiment_score": 0.0,
       "source": "gurufocus.com",
@@ -66,39 +42,15 @@
   "portfolio_news": [
     {
       "title": "Tesla's Robotaxi Set to Launch 24/7 Service Soon",
-      "title_ko": "Tesla's Robotaxi Set to Launch 24/7 Service Soon",
+      "title_ko": "테슬라의 로봇택시, 조만간 연중무휴 24시간 서비스 개시 예정",
       "snippet": "On September 05, 2026, Tesla Inc (TSLA) announced that its AI chief, Ashok Elluswamy, revealed the company is nearing the launch of its 24/7 Robotaxi service. T",
-      "snippet_ko": "On September 05, 2026, Tesla Inc (TSLA) announced that its AI chief, Ashok Elluswamy, revealed the company is nearing the launch of its 24/7 Robotaxi service. T",
+      "snippet_ko": "2026년 9월 5일, 테슬라(TSLA)는 자사의 AI 총괄 책임자인 아쇼크 엘루스와미가 24시간 연중무휴 로보택시 서비스 출시가 임박했다고 밝혔다고 발표했다. T",
       "symbol": "TSLA",
       "sentiment_score": 0.6388,
       "source": "gurufocus.com",
       "url": "https://www.gurufocus.com/news/9069493/teslas-robotaxi-set-to-launch-247-service-soon",
       "cross_verified": true,
       "published_at": "2026-09-06T01:31:52.000000Z"
-    },
-    {
-      "title": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Pioneer Has the Stronger Technology Advantage?",
-      "title_ko": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Pioneer Has the Stronger Technology Advantage?",
-      "snippet": "Rigetti and IonQ are taking two separate approaches to quantum computing.",
-      "snippet_ko": "Rigetti and IonQ are taking two separate approaches to quantum computing.",
-      "symbol": "NVDA",
-      "sentiment_score": -0.296,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-vs-rigetti-computing-pure-232000862.html",
-      "cross_verified": true,
-      "published_at": "2026-09-05T23:20:00.000000Z"
-    },
-    {
-      "title": "Why Intel Stock Climbed This Week",
-      "title_ko": "Why Intel Stock Climbed This Week",
-      "snippet": "Dell's torrid revenue growth bodes well for the semiconductor leader.",
-      "snippet_ko": "Dell's torrid revenue growth bodes well for the semiconductor leader.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.0555,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-climbed-week-224017728.html",
-      "cross_verified": true,
-      "published_at": "2026-09-05T22:40:17.000000Z"
     }
   ]
 }
