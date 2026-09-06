@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-06T14:16:02.096296+00:00",
+  "updated_at": "2026-09-06T14:28:44.396775+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "How I bought stocks and left the ETF the fees behind.",
+      "title_ko": "How I bought stocks and left the ETF the fees behind.",
+      "snippet": "Exchange traded funds (ETFs) are likely the greatest advancement for investorkind. We can gain much-needed diversifcation and keep the fees super low. Compared to traditional actively managed mutual funds, ETFs are usually a 90% to 95% off sale. Over the decades this fee saving can amount to a life-changing event. But what if we go […]",
+      "snippet_ko": "Exchange traded funds (ETFs) are likely the greatest advancement for investorkind. We can gain much-needed diversifcation and keep the fees super low. Compared to traditional actively managed mutual funds, ETFs are usually a 90% to 95% off sale. Over the decades this fee saving can amount to a life-changing event. But what if we go […]",
+      "symbol": "",
+      "sentiment_score": 0.2291,
+      "source": "cutthecrapinvesting.com",
+      "url": "https://cutthecrapinvesting.com/2026/09/06/how-i-bought-stocks-and-left-the-etf-the-fees-behind/",
+      "cross_verified": true,
+      "published_at": "2026-09-06T13:18:21.000000Z"
+    },
     {
       "title": "It's Not Worth Buying VOO Or QQQ Anymore (NYSEARCA:VOO)",
       "title_ko": "It's Not Worth Buying VOO Or QQQ Anymore (NYSEARCA:VOO)",
