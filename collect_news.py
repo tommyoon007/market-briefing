@@ -119,7 +119,7 @@ def parse_entities(article):
         ).upper()
 
         for sym in sorted(PORTFOLIO_SYMBOLS, key=len, reverse=True):
-            pattern = rf"(?<![A-Z]){re.escape(sym)}(?![A-Z)"
+            pattern = rf"(?<![A-Z]){re.escape(sym)}(?![A-Z])"
 
             if re.search(pattern, text):
                 found_symbol = sym
