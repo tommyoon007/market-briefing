@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-06T09:21:32.534889+00:00",
+  "updated_at": "2026-09-06T10:05:03.608975+00:00",
   "status": "ok",
   "market_news": [
     {
       "title": "Tesla Expands Robotaxi Services with 24/7 Availability",
-      "title_ko": "테슬라, 연중무휴 24시간 운영으로 로봇택시 서비스 확대",
+      "title_ko": "테슬라, 연중무휴 24시간 운영으로 로보택시 서비스 확대",
       "snippet": "On September 06, 2026, Tesla's AI head, Ashok Elluswamy, announced that the company's Robotaxi service is set to transition into a 24/7 operational model. This",
       "snippet_ko": "2026년 9월 6일, 테슬라의 AI 부문 책임자인 아쇼크 엘루스와미는 회사의 로보택시 서비스가 연중무휴 24시간 운영 모델로 전환될 예정이라고 발표했습니다. 이는",
       "symbol": "TSLA",
@@ -27,16 +27,40 @@
       "published_at": "2026-09-05T23:20:00.000000Z"
     },
     {
-      "title": "Why Intel Stock Climbed This Week",
-      "title_ko": "이번 주 인텔 주가가 상승한 이유",
-      "snippet": "Dell's torrid revenue growth bodes well for the semiconductor leader.",
-      "snippet_ko": "델의 눈부신 매출 성장은 반도체 업계 선두 기업에게 긍정적인 신호로 작용하고 있다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.0555,
+      "title": "Intel’s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
+      "title_ko": "인텔의 AI 호재는 분명하다. 그럼에도 미즈호는 목표 주가를 하향 조정했다.",
+      "snippet": "On September 3, Mizuho lowered the price target on Intel Corporation (NASDAQ:INTC) to $92 from $109. Mizuho’s note reads more bullish on INTC’s business than the price target suggests, but the firm is stopping short of turning bullish. The firm noted multiple operating tailwinds working in favor of Intel, namely Agentic AI demand, enterprise server […]",
+      "snippet_ko": "9월 3일, 미즈호는 인텔(NASDAQ:INTC)의 목표 주가를 109달러에서 92달러로 하향 조정했다. 미즈호의 보고서 내용은 목표 주가가 시사하는 것보다 인텔의 사업에 대해 더 낙관적인 입장을 담고 있지만, 이 회사는 아직까지 공식적으로 강세 전망을 내놓지는 않고 있다. 이 기관은 인텔에 유리한 여러 가지 경영 호재, 즉 에이전틱 AI 수요, 엔터프라이즈 서버 […] 등을 언급했다.",
+      "symbol": "INTC",
+      "sentiment_score": -0.0287,
       "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-climbed-week-224017728.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/intel-ai-tailwinds-real-mizuho-225825483.html",
       "cross_verified": true,
-      "published_at": "2026-09-05T22:40:17.000000Z"
+      "published_at": "2026-09-05T22:58:25.000000Z"
+    },
+    {
+      "title": "Video game makers really don't want to give their customers tariff refunds",
+      "title_ko": "비디오 게임 제작사들은 고객들에게 관세 환급을 해주고 싶어 하지 않는다",
+      "snippet": "Sony, Microsoft and Nintendo are all arguing in court that they don't have to the pass tariff refunds they've received to their customers.",
+      "snippet_ko": "소니, 마이크로소프트, 닌텐도는 모두 법정에서 자신들이 받은 관세 환급금을 고객들에게 돌려줄 의무가 없다고 주장하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.0427,
+      "source": "businessinsider.com",
+      "url": "https://www.businessinsider.com/tariff-refunds-nintendo-sony-playstation-microsoft-xbox-video-games-2026-9",
+      "cross_verified": true,
+      "published_at": "2026-09-06T09:39:17.000000Z"
+    },
+    {
+      "title": "IDBI Bank stake sale: Open offer remains a possibility",
+      "title_ko": "IDBI 은행 지분 매각: 공개 매수 제안 가능성은 여전히 남아 있다",
+      "snippet": "IDBI Bank's potential stake sale raises concerns over transparency, valuation, and possible mandatory open offers by Fairfax Holdings.",
+      "snippet_ko": "IDBI 은행의 지분 매각 가능성으로 인해 투명성, 기업 가치 평가, 그리고 페어팩스 홀딩스의 의무적 공개 매수 제안 가능성에 대한 우려가 제기되고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.2295,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/idbi-bank-stake-sale-open-offer-remains-a-possibility/article71434809.ece",
+      "cross_verified": true,
+      "published_at": "2026-09-06T08:05:11.000000Z"
     },
     {
       "title": "SSR Mining: The Cash Is In, And Shares Are Still Cheap (NASDAQ:SSRM)",
@@ -49,24 +73,12 @@
       "url": "https://seekingalpha.com/article/4943390-ssr-mining-stock-cash-in-and-shares-are-still-cheap",
       "cross_verified": true,
       "published_at": "2026-09-06T07:55:16.000000Z"
-    },
-    {
-      "title": "SBI to hire 12,000 employees, add 250 branches in FY27, says State Bank of India's chairman CS Setty",
-      "title_ko": "인도국립은행(SBI)의 CS 세티 회장이 “2027 회계연도에 직원 1만 2,000명을 채용하고 지점 250곳을 신설할 계획”이라고 밝혔다.",
-      "snippet": "State Bank of India (SBI) intends to hire about 12,000 employees and add around 250 new branches to its network in the ongoing financial year, said C S Setty, Chairman of the country's biggest lender.",
-      "snippet_ko": "인도 최대 은행인 인도국립은행(SBI)의 C S 세티 회장은 “이번 회계연도에 약 12,000명의 직원을 채용하고 지점망을 약 250곳 확대할 계획”이라고 밝혔다.",
-      "symbol": "",
-      "sentiment_score": 0.1437,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/news/sbi-to-hire-12-000-employees-add-250-branches-in-fy27-says-state-bank-of-indias-chairman-cs-setty-11788678529774.html",
-      "cross_verified": true,
-      "published_at": "2026-09-06T07:17:52.000000Z"
     }
   ],
   "portfolio_news": [
     {
       "title": "Tesla Expands Robotaxi Services with 24/7 Availability",
-      "title_ko": "테슬라, 연중무휴 24시간 운영으로 로봇택시 서비스 확대",
+      "title_ko": "테슬라, 연중무휴 24시간 운영으로 로보택시 서비스 확대",
       "snippet": "On September 06, 2026, Tesla's AI head, Ashok Elluswamy, announced that the company's Robotaxi service is set to transition into a 24/7 operational model. This",
       "snippet_ko": "2026년 9월 6일, 테슬라의 AI 부문 책임자인 아쇼크 엘루스와미는 회사의 로보택시 서비스가 연중무휴 24시간 운영 모델로 전환될 예정이라고 발표했습니다. 이는",
       "symbol": "TSLA",
@@ -89,16 +101,16 @@
       "published_at": "2026-09-05T23:20:00.000000Z"
     },
     {
-      "title": "Why Intel Stock Climbed This Week",
-      "title_ko": "이번 주 인텔 주가가 상승한 이유",
-      "snippet": "Dell's torrid revenue growth bodes well for the semiconductor leader.",
-      "snippet_ko": "델의 눈부신 매출 성장은 반도체 업계 선두 기업에게 긍정적인 신호로 작용하고 있다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.0555,
+      "title": "Intel’s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
+      "title_ko": "인텔의 AI 호재는 분명하다. 그럼에도 미즈호는 목표 주가를 하향 조정했다.",
+      "snippet": "On September 3, Mizuho lowered the price target on Intel Corporation (NASDAQ:INTC) to $92 from $109. Mizuho’s note reads more bullish on INTC’s business than the price target suggests, but the firm is stopping short of turning bullish. The firm noted multiple operating tailwinds working in favor of Intel, namely Agentic AI demand, enterprise server […]",
+      "snippet_ko": "9월 3일, 미즈호는 인텔(NASDAQ:INTC)의 목표 주가를 109달러에서 92달러로 하향 조정했다. 미즈호의 보고서 내용은 목표 주가가 시사하는 것보다 인텔의 사업에 대해 더 낙관적인 입장을 담고 있지만, 이 회사는 아직까지 공식적으로 강세 전망을 내놓지는 않고 있다. 이 기관은 인텔에 유리한 여러 가지 경영 호재, 즉 에이전틱 AI 수요, 엔터프라이즈 서버 […] 등을 언급했다.",
+      "symbol": "INTC",
+      "sentiment_score": -0.0287,
       "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-climbed-week-224017728.html",
+      "url": "https://finance.yahoo.com/technology/ai/articles/intel-ai-tailwinds-real-mizuho-225825483.html",
       "cross_verified": true,
-      "published_at": "2026-09-05T22:40:17.000000Z"
+      "published_at": "2026-09-05T22:58:25.000000Z"
     }
   ]
 }
