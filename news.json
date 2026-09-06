@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-06T20:16:06.455780+00:00",
+  "updated_at": "2026-09-06T23:41:14.109206+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "SPY Looks 13.0% Overvalued on GF Value™ as Market Awaits Post-Labor Day Trading",
+      "title_ko": "노동절 이후 거래 동향을 지켜보는 가운데, GF Value™ 기준 SPY는 13.0% 과대평가된 것으로 나타났습니다.",
+      "snippet": "On September 06, 2026, ahead of the U.S. markets closing for Labor Day on September 7, investors in the State Street SPDR S&P 500 ETF Trust (ticker: SPY) face a",
+      "snippet_ko": "2026년 9월 6일, 9월 7일 노동절로 인해 미국 증시가 휴장하기 전, 스테이트 스트리트 SPDR S&P 500 ETF 트러스트(티커: SPY)의 투자자들은 다음과 같은 상황에 직면하게 됩니다.",
+      "symbol": "",
+      "sentiment_score": 0.1132,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9069549/spy-looks-130-overvalued-on-gf-value-as-market-awaits-postlabor-day-trading",
+      "cross_verified": true,
+      "published_at": "2026-09-06T22:55:39.000000Z"
+    },
+    {
+      "title": "Gap Taps New Old Navy CEO to Turn Around Sluggish Sales",
+      "title_ko": "갭, 부진한 매출 회복을 위해 올드 네이비 신임 CEO를 영입",
+      "snippet": "CNBC and Reuters reported that The Gap, Inc. (NYSE:GAP) named retail veteran Michael Francis as president and CEO of Old Navy, effective November 2, succeeding Haio Barbeito, who will move into an advisory role. The announcement came alongside second-quarter results showing Old Navy net sales fell 4% year over year to $2.1 billion, with comparable […]",
+      "snippet_ko": "CNBC와 로이터 통신은 갭(The Gap, Inc., NYSE:GAP)이 소매업계 베테랑인 마이클 프랜시스를 11월 2일부로 올드 네이비(Old Navy)의 사장 겸 CEO로 임명했다고 보도했다. 그는 자문직으로 자리를 옮기게 될 하이오 바르베이토의 후임이다. 이번 발표는 올드 네이비의 2분기 실적이 공개된 것과 동시에 이루어졌는데, 올드 네이비의 순매출은 전년 동기 대비 4% 감소한 21억 달러를 기록했으며, 동일 매장 매출은 […]",
+      "symbol": "",
+      "sentiment_score": 0.4228,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gap-taps-old-navy-ceo-221935372.html",
+      "cross_verified": true,
+      "published_at": "2026-09-06T22:19:35.000000Z"
+    },
     {
       "title": "RYAAY Looks 6.7% Undervalued on GF Value™ as Dividend Remains Sustainable",
       "title_ko": "RYAAY, 배당금 지속 가능성 유지되며 GF Value™ 기준 6.7% 저평가된 것으로 나타남",
@@ -124,6 +148,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Market Open: ASX roller coaster ride forecast to slide down this morning",
+      "title_ko": "장 개장: 오늘 오전 ASX, 롤러코스터 같은 등락세 속에서 하락세 예상",
+      "snippet": "The roller coaster that is the ASX at the moment is expected to begin on a downward motion this morning following Wall Street.",
+      "snippet_ko": "현재 롤러코스터 같은 등락을 보이고 있는 ASX는 오늘 아침 월스트리트의 흐름을 따라 하락세를 보일 것으로 예상된다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.462,
+      "source": "themarketherald.com.au",
+      "url": "https://themarketonline.com.au/market-open-asx-roller-coaster-ride-forecast-to-slide-down-this-morning-2026-09-07/",
+      "cross_verified": true,
+      "published_at": "2026-09-06T22:44:52.000000Z"
+    },
+    {
+      "title": "Apple (AAPL) Sets iPhone Launch Event. The First Under New CEO John Ternus",
+      "title_ko": "애플(AAPL), 아이폰 출시 행사 일정 확정. 신임 CEO 존 터너스 체제 하에서 첫 행사",
+      "snippet": "CNBC and Reuters reported that Apple Inc. (NASDAQ:AAPL) will hold its next product launch event on September 9 at Apple Park in Cupertino, marking incoming CEO John Ternus’s first major event since taking over from Tim Cook. He became executive chairman on September 1. Analysts expect Apple to reveal the iPhone 18 Pro and Pro […]",
+      "snippet_ko": "CNBC와 로이터 통신은 애플(NASDAQ:AAPL)이 9월 9일 쿠퍼티노의 애플 파크에서 차기 신제품 출시 행사를 개최할 것이라고 보도했으며, 이는 팀 쿡의 뒤를 이어 CEO직을 맡은 존 테르누스 신임 CEO의 첫 번째 주요 행사가 될 것이라고 전했다. 그는 9월 1일 집행 회장으로 취임했다. 분석가들은 애플이 아이폰 18 프로와 프로 […]를 공개할 것으로 예상하고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.1716,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/articles/apple-aapl-sets-iphone-launch-221225248.html",
+      "cross_verified": true,
+      "published_at": "2026-09-06T22:12:25.000000Z"
+    },
+    {
+      "title": "AMZN Looks 4.4% Overvalued on GF Value™ Amid Price-to-Sales Concerns",
+      "title_ko": "GF Value™ 분석에 따르면, AMZN은 매출 대비 주가 비율에 대한 우려 속에서 4.4% 과대평가된 것으로 보인다",
+      "snippet": "On September 06, 2026, Miami International Airport halted all flights after an Amazon (AMZN) Air cargo plane overran a runway, colliding with vehicles and causi",
+      "snippet_ko": "2026년 9월 6일, 마이애미 국제공항은 아마존(AMZN) 에어 화물기가 활주로를 벗어나 차량들과 충돌하여 사고를 일으킨 후 모든 항공편 운항을 중단했다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.0,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9069546/amzn-looks-44-overvalued-on-gf-value-amid-pricetosales-concerns",
+      "cross_verified": true,
+      "published_at": "2026-09-06T21:55:32.000000Z"
+    },
     {
       "title": "McDonald’s India Drama Erupts While Wall Street Targets 24% Stock Rally",
       "title_ko": "월스트리트가 24% 주가 상승을 전망하는 가운데, 맥도날드 인도에서 파문이 일고 있다",
