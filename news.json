@@ -1,56 +1,104 @@
 {
-  "updated_at": "2026-09-06T03:02:24.458299+00:00",
+  "updated_at": "2026-09-06T09:21:32.534889+00:00",
   "status": "ok",
   "market_news": [
     {
-      "title": "Tesla's Robotaxi Set to Launch 24/7 Service Soon",
-      "title_ko": "테슬라의 로봇택시, 조만간 연중무휴 24시간 서비스 개시 예정",
-      "snippet": "On September 05, 2026, Tesla Inc (TSLA) announced that its AI chief, Ashok Elluswamy, revealed the company is nearing the launch of its 24/7 Robotaxi service. T",
-      "snippet_ko": "2026년 9월 5일, 테슬라(TSLA)는 자사의 AI 총괄 책임자인 아쇼크 엘루스와미가 24시간 연중무휴 로보택시 서비스 출시가 임박했다고 밝혔다고 발표했다. T",
+      "title": "Tesla Expands Robotaxi Services with 24/7 Availability",
+      "title_ko": "테슬라, 연중무휴 24시간 운영으로 로봇택시 서비스 확대",
+      "snippet": "On September 06, 2026, Tesla's AI head, Ashok Elluswamy, announced that the company's Robotaxi service is set to transition into a 24/7 operational model. This",
+      "snippet_ko": "2026년 9월 6일, 테슬라의 AI 부문 책임자인 아쇼크 엘루스와미는 회사의 로보택시 서비스가 연중무휴 24시간 운영 모델로 전환될 예정이라고 발표했습니다. 이는",
       "symbol": "TSLA",
-      "sentiment_score": 0.6388,
+      "sentiment_score": 0.5075,
       "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9069493/teslas-robotaxi-set-to-launch-247-service-soon",
+      "url": "https://www.gurufocus.com/news/9069494/tesla-expands-robotaxi-services-with-247-availability",
       "cross_verified": true,
-      "published_at": "2026-09-06T01:31:52.000000Z"
+      "published_at": "2026-09-06T07:11:42.000000Z"
     },
     {
-      "title": "iFabric Corp (IFABF) (Q1 2026) Earnings Call Highlights: Record Revenue Surges to $27.5M, Exceeding Guidance",
-      "title_ko": "iFabric Corp (IFABF) (2026년 1분기) 실적 발표 주요 내용: 매출이 2,750만 달러로 급증하며 사상 최고치를 기록, 가이던스를 상회",
-      "snippet": "Revenue: $27.5 million, a record for the company, compared to $7.1 million in the prior year and ahead of the $20 million to $25 million guidance.Intelligent Fa",
-      "snippet_ko": "매출: 2,750만 달러로, 이는 회사 사상 최고 기록이며, 전년도의 710만 달러에 비해 크게 증가한 수치이자 2,000만~2,500만 달러였던 전망치를 상회했다. Intelligent Fa",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9069488/ifabric-corp-ifabf-q1-2026-earnings-call-highlights-record-revenue-surges-to-275m-exceeding-guidance",
+      "title": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Pioneer Has the Stronger Technology Advantage?",
+      "title_ko": "IonQ 대 Rigetti Computing: 두 순수 양자 기술 선구자 중 어느 쪽이 더 강력한 기술적 우위를 차지하고 있을까?",
+      "snippet": "Rigetti and IonQ are taking two separate approaches to quantum computing.",
+      "snippet_ko": "Rigetti와 IonQ는 양자 컴퓨팅 분야에서 서로 다른 두 가지 접근 방식을 취하고 있다.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.296,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-vs-rigetti-computing-pure-232000862.html",
       "cross_verified": true,
-      "published_at": "2026-09-06T01:00:27.000000Z"
+      "published_at": "2026-09-05T23:20:00.000000Z"
     },
     {
-      "title": "Q1 2026 iFabric Corp Earnings Call Transcript",
-      "title_ko": "2026년 1분기 iFabric Corp 실적 발표 전화 회의 기록",
-      "snippet": "May 14, 2026 / 06:00PM GMTDeborah Honig - Adelaide Capital Corp - Analyst All right. Good morning, good afternoon, depending on where you're dialing in from. Th",
-      "snippet_ko": "2026년 5월 14일 / 오후 6:00 GMT 데보라 호니그 - 애들레이드 캐피털 코프 - 애널리스트 네. 안녕하세요. 어디에서 전화로 참여하고 계신지에 따라 아침이거나 오후이시겠네요. 그",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9069483/q1-2026-ifabric-corp-earnings-call-transcript",
+      "title": "Why Intel Stock Climbed This Week",
+      "title_ko": "이번 주 인텔 주가가 상승한 이유",
+      "snippet": "Dell's torrid revenue growth bodes well for the semiconductor leader.",
+      "snippet_ko": "델의 눈부신 매출 성장은 반도체 업계 선두 기업에게 긍정적인 신호로 작용하고 있다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0555,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-climbed-week-224017728.html",
       "cross_verified": true,
-      "published_at": "2026-09-06T00:37:22.000000Z"
+      "published_at": "2026-09-05T22:40:17.000000Z"
+    },
+    {
+      "title": "SSR Mining: The Cash Is In, And Shares Are Still Cheap (NASDAQ:SSRM)",
+      "title_ko": "SSR Mining: 현금 유동성은 풍부하지만 주가는 여전히 저평가되어 있다 (NASDAQ:SSRM)",
+      "snippet": "Despite Q2's elevated AISC of $2,622/oz and higher sustaining capex for SSR Mining, full-year production guidance is reaffirmed. Read why SSRM stock is a Buy.",
+      "snippet_ko": "SSR Mining의 2분기 AISC가 온스당 2,622달러로 상승했고 지속적 자본지출도 증가했음에도 불구하고, 연간 생산 전망치는 재확인되었습니다. SSRM 주식을 ‘매수’로 추천하는 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.296,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4943390-ssr-mining-stock-cash-in-and-shares-are-still-cheap",
+      "cross_verified": true,
+      "published_at": "2026-09-06T07:55:16.000000Z"
+    },
+    {
+      "title": "SBI to hire 12,000 employees, add 250 branches in FY27, says State Bank of India's chairman CS Setty",
+      "title_ko": "인도국립은행(SBI)의 CS 세티 회장이 “2027 회계연도에 직원 1만 2,000명을 채용하고 지점 250곳을 신설할 계획”이라고 밝혔다.",
+      "snippet": "State Bank of India (SBI) intends to hire about 12,000 employees and add around 250 new branches to its network in the ongoing financial year, said C S Setty, Chairman of the country's biggest lender.",
+      "snippet_ko": "인도 최대 은행인 인도국립은행(SBI)의 C S 세티 회장은 “이번 회계연도에 약 12,000명의 직원을 채용하고 지점망을 약 250곳 확대할 계획”이라고 밝혔다.",
+      "symbol": "",
+      "sentiment_score": 0.1437,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/news/sbi-to-hire-12-000-employees-add-250-branches-in-fy27-says-state-bank-of-indias-chairman-cs-setty-11788678529774.html",
+      "cross_verified": true,
+      "published_at": "2026-09-06T07:17:52.000000Z"
     }
   ],
   "portfolio_news": [
     {
-      "title": "Tesla's Robotaxi Set to Launch 24/7 Service Soon",
-      "title_ko": "테슬라의 로봇택시, 조만간 연중무휴 24시간 서비스 개시 예정",
-      "snippet": "On September 05, 2026, Tesla Inc (TSLA) announced that its AI chief, Ashok Elluswamy, revealed the company is nearing the launch of its 24/7 Robotaxi service. T",
-      "snippet_ko": "2026년 9월 5일, 테슬라(TSLA)는 자사의 AI 총괄 책임자인 아쇼크 엘루스와미가 24시간 연중무휴 로보택시 서비스 출시가 임박했다고 밝혔다고 발표했다. T",
+      "title": "Tesla Expands Robotaxi Services with 24/7 Availability",
+      "title_ko": "테슬라, 연중무휴 24시간 운영으로 로봇택시 서비스 확대",
+      "snippet": "On September 06, 2026, Tesla's AI head, Ashok Elluswamy, announced that the company's Robotaxi service is set to transition into a 24/7 operational model. This",
+      "snippet_ko": "2026년 9월 6일, 테슬라의 AI 부문 책임자인 아쇼크 엘루스와미는 회사의 로보택시 서비스가 연중무휴 24시간 운영 모델로 전환될 예정이라고 발표했습니다. 이는",
       "symbol": "TSLA",
-      "sentiment_score": 0.6388,
+      "sentiment_score": 0.5075,
       "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9069493/teslas-robotaxi-set-to-launch-247-service-soon",
+      "url": "https://www.gurufocus.com/news/9069494/tesla-expands-robotaxi-services-with-247-availability",
       "cross_verified": true,
-      "published_at": "2026-09-06T01:31:52.000000Z"
+      "published_at": "2026-09-06T07:11:42.000000Z"
+    },
+    {
+      "title": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Pioneer Has the Stronger Technology Advantage?",
+      "title_ko": "IonQ 대 Rigetti Computing: 두 순수 양자 기술 선구자 중 어느 쪽이 더 강력한 기술적 우위를 차지하고 있을까?",
+      "snippet": "Rigetti and IonQ are taking two separate approaches to quantum computing.",
+      "snippet_ko": "Rigetti와 IonQ는 양자 컴퓨팅 분야에서 서로 다른 두 가지 접근 방식을 취하고 있다.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.296,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-vs-rigetti-computing-pure-232000862.html",
+      "cross_verified": true,
+      "published_at": "2026-09-05T23:20:00.000000Z"
+    },
+    {
+      "title": "Why Intel Stock Climbed This Week",
+      "title_ko": "이번 주 인텔 주가가 상승한 이유",
+      "snippet": "Dell's torrid revenue growth bodes well for the semiconductor leader.",
+      "snippet_ko": "델의 눈부신 매출 성장은 반도체 업계 선두 기업에게 긍정적인 신호로 작용하고 있다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0555,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-climbed-week-224017728.html",
+      "cross_verified": true,
+      "published_at": "2026-09-05T22:40:17.000000Z"
     }
   ]
 }
