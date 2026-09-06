@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-06T16:48:58.061501+00:00",
+  "updated_at": "2026-09-06T20:16:06.455780+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "RYAAY Looks 6.7% Undervalued on GF Value™ as Dividend Remains Sustainable",
+      "title_ko": "RYAAY, 배당금 지속 가능성 유지되며 GF Value™ 기준 6.7% 저평가된 것으로 나타남",
+      "snippet": "On September 06, 2026, Ryanair Holdings PLC (RYAAY) announced a significant reduction in its winter flight schedule to counteract losses caused by sustained hig",
+      "snippet_ko": "2026년 9월 6일, 라이언에어 홀딩스 PLC(RYAAY)는 지속되는 고유가로 인한 손실을 상쇄하기 위해 겨울철 운항 일정을 대폭 축소한다고 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.3156,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9069541/ryaay-looks-67-undervalued-on-gf-value-as-dividend-remains-sustainable",
+      "cross_verified": true,
+      "published_at": "2026-09-06T19:55:26.000000Z"
+    },
+    {
+      "title": "Okta Jumps 20% as AI-Driven Security Fears Fuel a Beat-and-Raise Quarter",
+      "title_ko": "AI 기반 보안에 대한 우려가 실적 호조와 전망 상향 조정을 이끌어내며 오크타 주가 20% 급등",
+      "snippet": "CNBC reported that Okta, Inc. (NASDAQ:OKTA) shares surged as much as 29% after the identity security company beat fiscal second-quarter estimates. Adjusted earnings per share came in at $1.05 versus $0.97 expected, and revenue rose 11% to $805 million versus $795 million expected. Net income totaled $116 million, up from $67 million a year earlier, […]",
+      "snippet_ko": "CNBC는 신원 보안 기업인 옥타(Okta, Inc., 나스닥: OKTA)가 회계연도 2분기 실적 전망치를 상회하자 주가가 최대 29% 급등했다고 보도했다. 조정 주당 순이익은 예상치 0.97달러를 상회한 1.05달러를 기록했으며, 매출은 예상치 7억 9,500만 달러 대비 11% 증가한 8억 500만 달러를 기록했다. 순이익은 전년 동기 6,700만 달러에서 증가한 1억 1,600만 달러를 기록했으며, […]",
+      "symbol": "",
+      "sentiment_score": 0.3077,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/okta-jumps-20-ai-driven-193519966.html",
+      "cross_verified": true,
+      "published_at": "2026-09-06T19:35:19.000000Z"
+    },
+    {
+      "title": "Arista Networks vs. IBM: Comparing Quarterly Revenue Trends Between These Artificial Intelligence Giants",
+      "title_ko": "아리스타 네트웍스 대 IBM: 인공지능 분야의 두 거대 기업 간 분기별 매출 추이 비교",
+      "snippet": "Arista has posted eight straight quarters of revenue gains, while IBM swings between peaks and valleys.",
+      "snippet_ko": "아리스타는 8분기 연속 매출 증가를 기록한 반면, IBM은 호황과 불황을 오가고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.1573,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-vs-ibm-comparing-193216269.html",
+      "cross_verified": true,
+      "published_at": "2026-09-06T19:32:16.000000Z"
+    },
     {
       "title": "A $2.1 Million Portfolio, Two Withdrawal Plans: One Triggers IRMAA and RMD Taxes, One Never Does",
       "title_ko": "210만 달러 규모의 포트폴리오, 두 가지 인출 계획: 하나는 IRMAA와 RMD 세금을 발생시키지만, 다른 하나는 절대 그렇지 않다",
@@ -88,6 +124,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "McDonald’s India Drama Erupts While Wall Street Targets 24% Stock Rally",
+      "title_ko": "월스트리트가 24% 주가 상승을 전망하는 가운데, 맥도날드 인도에서 파문이 일고 있다",
+      "snippet": "McDonald's India's X account melted into memecoin posts while Wall Street still targets a 24% MCD stock rally.",
+      "snippet_ko": "인도 맥도날드의 X 계정은 밈코인 관련 게시물로 도배된 반면, 월스트리트는 여전히 MCD 주가가 24% 상승할 것으로 전망하고 있다.",
+      "symbol": "MCD",
+      "sentiment_score": -0.1191,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-india-drama-erupts-while-175220642.html",
+      "cross_verified": true,
+      "published_at": "2026-09-06T17:52:20.000000Z"
+    },
+    {
+      "title": "Nvidia Is Near Its High While Its Biggest Chip Peers Sit 18% to 32% Below Theirs. These Are the Chip Stocks to Buy.",
+      "title_ko": "엔비디아는 최고가에 근접한 반면, 주요 경쟁사들의 주가는 최고가 대비 18%에서 32% 낮은 수준에 머물러 있습니다. 매수해야 할 반도체 주식은 다음과 같습니다.",
+      "snippet": "One wave of AI spending pays all five of these companies. Why do their discounts run from 2.6% to 32%?",
+      "snippet_ko": "단 한 번의 AI 투자 물결만으로도 이 5개 기업 모두에 자금이 유입됩니다. 그런데 왜 이들 기업의 할인율은 2.6%에서 32%까지 차이가 나는 것일까요?",
+      "symbol": "AVGO",
+      "sentiment_score": 0.0249,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-near-high-while-biggest-173401947.html",
+      "cross_verified": true,
+      "published_at": "2026-09-06T17:34:01.000000Z"
+    },
+    {
+      "title": "Meta Platforms (NASDAQ:META) -- Navigating Challenges in Social Media",
+      "title_ko": "메타 플랫폼스(나스닥: META) — 소셜 미디어의 난관을 헤쳐나가기",
+      "snippet": "Investments in the metaverse and AI-driven features.Advertising revenue recovery post-privacy changes.Competition from emerging social media platforms poses ris",
+      "snippet_ko": "메타버스 및 AI 기반 기능에 대한 투자. 개인정보 보호 정책 변경 이후 광고 수익 회복. 신흥 소셜 미디어 플랫폼의 경쟁으로 인한 위험",
+      "symbol": "META",
+      "sentiment_score": 0.3376,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9069521/meta-platforms-nasdaqmeta-navigating-challenges-in-social-media",
+      "cross_verified": true,
+      "published_at": "2026-09-06T17:00:12.000000Z"
+    },
     {
       "title": "Will Alphabet Break Warren Buffett's Cardinal Rule of Investing?",
       "title_ko": "알파벳이 워런 버핏의 투자 철칙을 깨뜨릴 것인가?",
