@@ -1,7 +1,6 @@
 import json
 import os
 import re
-import time
 from datetime import datetime, timezone
 
 import requests
@@ -56,14 +55,11 @@ def clean_text(value):
     return re.sub(r"\s+", " ", str(value)).strip()
 
 
-def translate_text(text):
-    """
-    DeepL 번역 함수
+# =========================================================
+# DeepL 번역
+# =========================================================
 
-    번역 성공 → 한국어 반환
-    번역 실패 → 원문 반환
-    오류 내용 → Actions 로그에 출력
-    """
+def translate_text(text):
 
     if not text:
         return text
@@ -73,17 +69,23 @@ def translate_text(text):
         return text
 
     try:
+
         response = requests.post(
             DEEPL_URL,
+
+            # ★ 핵심 수정: API 키를 Authorization 헤더로 전달
+            headers={
+                "Authorization": f"DeepL-Auth-Key {DEEPL_API_KEY}"
+            },
+
             data={
-                "auth_key": DEEPL_API_KEY,
                 "text": text[:500],
                 "target_lang": "KO"
             },
+
             timeout=20
         )
 
-        # 성공
         if response.status_code == 200:
 
             result = response.json()
@@ -100,7 +102,6 @@ def translate_text(text):
             print("⚠️ DeepL 응답에 번역 결과가 없습니다.")
             return text
 
-        # 실패
         print(f"❌ DeepL 오류: HTTP {response.status_code}")
         print(response.text[:500])
 
@@ -141,7 +142,6 @@ def parse_entities(article):
         if not found_symbol and sym in PORTFOLIO_SYMBOLS:
             found_symbol = sym
 
-    # entities에 티커가 없으면 제목/설명에서 검색
     if not found_symbol:
 
         text = (
@@ -211,7 +211,6 @@ def make_article(article):
 
     symbol, sentiment_score = parse_entities(article)
 
-    # 번역
     title_ko = translate_text(title)
     snippet_ko = translate_text(snippet)
 
@@ -245,7 +244,6 @@ def repair_old_translations(items):
         snippet = item.get("snippet", "")
         snippet_ko = item.get("snippet_ko", "")
 
-        # 제목 번역이 없거나 원문과 같으면 재번역
         if title and (
             not title_ko
             or title_ko.strip() == title.strip()
@@ -254,10 +252,10 @@ def repair_old_translations(items):
             translated = translate_text(title)
 
             if translated != title:
+
                 item["title_ko"] = translated
                 repaired += 1
 
-        # 요약 번역이 없거나 원문과 같으면 재번역
         if snippet and (
             not snippet_ko
             or snippet_ko.strip() == snippet.strip()
@@ -266,6 +264,7 @@ def repair_old_translations(items):
             translated = translate_text(snippet)
 
             if translated != snippet:
+
                 item["snippet_ko"] = translated
                 repaired += 1
 
