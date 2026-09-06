@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-06T14:35:32.066826+00:00",
+  "updated_at": "2026-09-06T16:48:58.061501+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "A $2.1 Million Portfolio, Two Withdrawal Plans: One Triggers IRMAA and RMD Taxes, One Never Does",
+      "title_ko": "210만 달러 규모의 포트폴리오, 두 가지 인출 계획: 하나는 IRMAA와 RMD 세금을 발생시키지만, 다른 하나는 절대 그렇지 않다",
+      "snippet": "Two retirees with identical $2.1 million portfolios can face wildly different tax bills in their seventies, and the gap comes down to a single decision made years before Medicare or RMDs enter the picture.",
+      "snippet_ko": "210만 달러 규모의 동일한 투자 포트폴리오를 보유한 두 명의 은퇴자는 70대에 들어섰을 때 천차만별인 세금을 내야 할 수 있는데, 이러한 차이는 메디케어나 필수 인출 한도(RMD)가 적용되기 수년 전에 내린 단 한 번의 결정에 기인합니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-1-million-portfolio-two-155443112.html",
+      "cross_verified": true,
+      "published_at": "2026-09-06T15:54:43.000000Z"
+    },
+    {
+      "title": "Where Will Ford Be in 5 Years?",
+      "title_ko": "5년 후 포드는 어떤 모습일까?",
+      "snippet": "After a disappointing 9% gain in the last five years, the company's bulls are patiently waiting for better returns in the future.",
+      "snippet_ko": "지난 5년간 9%라는 실망스러운 상승률을 기록한 후, 이 회사의 강세론자들은 앞으로 더 나은 수익률을 기대하며 인내심을 가지고 기다리고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.8074,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/where-ford-5-years-155000658.html",
+      "cross_verified": true,
+      "published_at": "2026-09-06T15:50:00.000000Z"
+    },
     {
       "title": "How I bought stocks and left the ETF the fees behind.",
       "title_ko": "내가 어떻게 주식을 매수하고 ETF의 수수료를 뒤로 한 채 벗어났는지.",
@@ -64,6 +88,30 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Will Alphabet Break Warren Buffett's Cardinal Rule of Investing?",
+      "title_ko": "알파벳이 워런 버핏의 투자 철칙을 깨뜨릴 것인가?",
+      "snippet": "Berkshire Hathaway has made Alphabet one of the top positions in its large stock portfolio this year.",
+      "snippet_ko": "버크셔 해서웨이는 올해 알파벳을 자사의 대형주 포트폴리오에서 주요 보유 종목 중 하나로 삼았다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.0884,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-break-warren-buffetts-cardinal-151500923.html",
+      "cross_verified": true,
+      "published_at": "2026-09-06T15:15:00.000000Z"
+    },
+    {
+      "title": "PLTR Looks 0.6% Undervalued on GF Value™ as Momentum Surges",
+      "title_ko": "모멘텀이 급등하면서 GF Value™ 기준 PLTR은 0.6% 저평가된 것으로 나타남",
+      "snippet": "On September 06, 2026, the technology sector posted a strong 6.36% gain in August, driven largely by stellar earnings reports from key players. Palantir Technol",
+      "snippet_ko": "2026년 9월 6일, 기술 부문은 주요 기업들의 뛰어난 실적 발표에 힘입어 8월 한 달 동안 6.36%의 견실한 상승세를 기록했다. 팔란티어 테크놀로지",
+      "symbol": "PLTR",
+      "sentiment_score": 0.6597,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9069510/pltr-looks-06-undervalued-on-gf-value-as-momentum-surges",
+      "cross_verified": true,
+      "published_at": "2026-09-06T15:56:14.000000Z"
+    },
     {
       "title": "Intel’s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
       "title_ko": "인텔의 AI 호재는 확실하다. 그럼에도 미즈호는 목표 주가를 하향 조정했다.",
