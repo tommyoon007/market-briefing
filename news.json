@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-06T14:03:42.233692+00:00",
+  "updated_at": "2026-09-06T14:16:02.096296+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "It's Not Worth Buying VOO Or QQQ Anymore (NYSEARCA:VOO)",
+      "title_ko": "It's Not Worth Buying VOO Or QQQ Anymore (NYSEARCA:VOO)",
+      "snippet": "Concerned about VOO/QQQ valuations? See why CAPE, earnings adjustments, mega-cap concentration, and thin equity risk premium make me nervous. Click for more.",
+      "snippet_ko": "Concerned about VOO/QQQ valuations? See why CAPE, earnings adjustments, mega-cap concentration, and thin equity risk premium make me nervous. Click for more.",
+      "symbol": "",
+      "sentiment_score": 0.4939,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4943200-its-not-worth-buying-voo-or-qqq-anymore",
+      "cross_verified": true,
+      "published_at": "2026-09-06T13:30:00.000000Z"
+    },
     {
       "title": "MPLX: 7%+ Yield Is Just The Appetizer, The Growth Is The Main Course (NYSE:MPLX)",
       "title_ko": "MPLX: 7%+ Yield Is Just The Appetizer, The Growth Is The Main Course (NYSE:MPLX)",
@@ -40,6 +52,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Intel’s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
+      "title_ko": "Intel’s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
+      "snippet": "On September 3, Mizuho lowered the price target on Intel Corporation (NASDAQ:INTC) to $92 from $109. Mizuho’s note reads more bullish on INTC’s business than the price target suggests, but the firm is stopping short of turning bullish. The firm noted multiple operating tailwinds working in favor of Intel, namely Agentic AI demand, enterprise server […]",
+      "snippet_ko": "On September 3, Mizuho lowered the price target on Intel Corporation (NASDAQ:INTC) to $92 from $109. Mizuho’s note reads more bullish on INTC’s business than the price target suggests, but the firm is stopping short of turning bullish. The firm noted multiple operating tailwinds working in favor of Intel, namely Agentic AI demand, enterprise server […]",
+      "symbol": "INTC",
+      "sentiment_score": -0.0287,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/intel-ai-tailwinds-real-mizuho-225825483.html",
+      "cross_verified": true,
+      "published_at": "2026-09-05T22:58:25.000000Z"
+    },
+    {
+      "title": "Why Intel Stock Climbed This Week",
+      "title_ko": "Why Intel Stock Climbed This Week",
+      "snippet": "Dell's torrid revenue growth bodes well for the semiconductor leader.",
+      "snippet_ko": "Dell's torrid revenue growth bodes well for the semiconductor leader.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0555,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-climbed-week-224017728.html",
+      "cross_verified": true,
+      "published_at": "2026-09-05T22:40:17.000000Z"
+    },
+    {
+      "title": "Prediction: Amazon Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club Before 2029",
+      "title_ko": "Prediction: Amazon Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club Before 2029",
+      "snippet": "Amazon stock has underperformed the S&P 500 over the last five years, but the company has incredible strengths.",
+      "snippet_ko": "Amazon stock has underperformed the S&P 500 over the last five years, but the company has incredible strengths.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4989,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-amazon-join-nvidia-apple-194000818.html",
+      "cross_verified": true,
+      "published_at": "2026-09-05T19:40:00.000000Z"
+    },
     {
       "title": "Nvidia’s Hugging Face Deal Is a Hedge against Broadcom’s Custom Silicon Threat",
       "title_ko": "Nvidia’s Hugging Face Deal Is a Hedge against Broadcom’s Custom Silicon Threat",
