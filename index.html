@@ -5,14 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Market Briefing</title>
 
-  <!-- PWA 앱 설정 -->
   <link rel="manifest" href="manifest.json">
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="theme-color" content="#0b1020">
 
-  <!-- 아이콘 연결 -->
   <link rel="icon" href="icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="icon.svg">
 
@@ -86,8 +84,9 @@
       gap: 6px;
     }
 
+    /* 누적 기사를 편하게 스크롤할 수 있도록 높이 500px로 확숙 */
     .news-scroll-container {
-      max-height: 380px;
+      max-height: 500px;
       overflow-y: auto;
       padding-right: 6px;
     }
@@ -400,27 +399,13 @@
       }
     }
 
-    function renderNewsList(articles, container, isPortfolioSection = false) {
+    function renderNewsList(articles, container) {
       if (!articles || articles.length === 0) {
-        container.innerHTML = `<div class="news-text">수집된 뉴스가 없습니다.</div>`;
+        container.innerHTML = `<div class="news-text">해당하는 뉴스가 없습니다.</div>`;
         return;
       }
 
-      let displayList = articles;
-
-      if (isPortfolioSection) {
-        displayList = articles.filter(art => {
-          const sym = art.symbol ? art.symbol.toUpperCase() : "";
-          return tickers.includes(sym);
-        });
-
-        if (displayList.length === 0) {
-          container.innerHTML = `<div class="news-text">설정하신 보유 종목의 최근 기사가 없습니다.</div>`;
-          return;
-        }
-      }
-
-      container.innerHTML = displayList.map(art => {
+      container.innerHTML = articles.map(art => {
         const symbol = art.symbol ? art.symbol.toUpperCase() : "";
         const score = typeof art.sentiment_score === "number" ? art.sentiment_score : 0;
         const isCrossVerified = art.cross_verified || false;
@@ -461,12 +446,27 @@
     }
 
     function renderAllNews() {
-      let marketArticles = newsData.market_news || [];
-      if (marketArticles.length === 0 && (newsData.portfolio_news || []).length > 0) {
-        marketArticles = newsData.portfolio_news;
-      }
-      renderNewsList(marketArticles, marketNewsContainer, false);
-      renderNewsList(newsData.portfolio_news || [], portfolioNewsContainer, true);
+      const activeTickers = new Set(tickers);
+
+      // 1. 보유 종목 뉴스 선택
+      const portfolioArticles = (newsData.portfolio_news || []).filter(art => {
+        const sym = art.symbol ? art.symbol.toUpperCase() : "";
+        return activeTickers.has(sym);
+      });
+
+      // 보유 종목 칸에 출력되는 기사의 URL 기록
+      const portfolioUrls = new Set(portfolioArticles.map(a => a.url));
+
+      // 2. 전체 시장 뉴스에서 보유 종목 관련 기사 완전히 제거 (중복 차단)
+      const marketArticles = (newsData.market_news || []).filter(art => {
+        const sym = art.symbol ? art.symbol.toUpperCase() : "";
+        if (activeTickers.has(sym)) return false; 
+        if (portfolioUrls.has(art.url)) return false; 
+        return true;
+      });
+
+      renderNewsList(marketArticles, marketNewsContainer);
+      renderNewsList(portfolioArticles, portfolioNewsContainer);
     }
 
     checkNewsBtn.onclick = fetchNews;
