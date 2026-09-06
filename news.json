@@ -1,6 +1,80 @@
 {
-  "updated_at": "",
+  "updated_at": "2026-09-06T14:03:42.233692+00:00",
   "status": "ok",
-  "market_news": [],
-  "portfolio_news": []
+  "market_news": [
+    {
+      "title": "MPLX: 7%+ Yield Is Just The Appetizer, The Growth Is The Main Course (NYSE:MPLX)",
+      "title_ko": "MPLX: 7%+ Yield Is Just The Appetizer, The Growth Is The Main Course (NYSE:MPLX)",
+      "snippet": "MPLX LP looks like a top MLP to buy: 7%+ yield, fee-based midstream cash flows, growth CapEx, and 12.5% distribution hikes. Here's what investors need to consider.",
+      "snippet_ko": "MPLX LP looks like a top MLP to buy: 7%+ yield, fee-based midstream cash flows, growth CapEx, and 12.5% distribution hikes. Here's what investors need to consider.",
+      "symbol": "",
+      "sentiment_score": 0.1909,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4943410-mplx-7-percent-plus-yield-is-just-the-appetizer-the-growth-is-the-main-course",
+      "cross_verified": true,
+      "published_at": "2026-09-06T13:15:00.000000Z"
+    },
+    {
+      "title": "Voya Financial’s (VOYA) Earnings Fell While Its Retirement Business Boomed",
+      "title_ko": "Voya Financial’s (VOYA) Earnings Fell While Its Retirement Business Boomed",
+      "snippet": "On August 4, Voya Financial (NYSE:VOYA) announced its second-quarter 2026 results, and the headline numbers tell an uncomfortable story.",
+      "snippet_ko": "On August 4, Voya Financial (NYSE:VOYA) announced its second-quarter 2026 results, and the headline numbers tell an uncomfortable story.",
+      "symbol": "",
+      "sentiment_score": -0.1027,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/voya-financials-voya-earnings-fell-while-its-retirement-business-boomed-1828515/",
+      "cross_verified": true,
+      "published_at": "2026-09-06T12:49:48.000000Z"
+    },
+    {
+      "title": "Adobe: Avoid This Dead Cat Bounce (NASDAQ:ADBE)",
+      "title_ko": "Adobe: Avoid This Dead Cat Bounce (NASDAQ:ADBE)",
+      "snippet": "Adobe faces AI disruption as rivals threaten creative software. Click for more on ADBE stock.",
+      "snippet_ko": "Adobe faces AI disruption as rivals threaten creative software. Click for more on ADBE stock.",
+      "symbol": "",
+      "sentiment_score": -0.7579,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4943403-adobe-avoid-this-dead-cat-bounce",
+      "cross_verified": true,
+      "published_at": "2026-09-06T12:45:00.000000Z"
+    }
+  ],
+  "portfolio_news": [
+    {
+      "title": "Nvidia’s Hugging Face Deal Is a Hedge against Broadcom’s Custom Silicon Threat",
+      "title_ko": "Nvidia’s Hugging Face Deal Is a Hedge against Broadcom’s Custom Silicon Threat",
+      "snippet": "NVIDIA Corporation (NASDAQ:NVDA) has officially committed billions on AI developer platform Hugging Face for a $12.9 billion.",
+      "snippet_ko": "NVIDIA Corporation (NASDAQ:NVDA) has officially committed billions on AI developer platform Hugging Face for a $12.9 billion.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.5059,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/nvidias-hugging-face-deal-is-a-hedge-against-broadcoms-custom-silicon-threat-1827852/",
+      "cross_verified": true,
+      "published_at": "2026-09-06T10:51:11.000000Z"
+    },
+    {
+      "title": "Tesla Expands Robotaxi Services with 24/7 Availability",
+      "title_ko": "Tesla Expands Robotaxi Services with 24/7 Availability",
+      "snippet": "On September 06, 2026, Tesla's AI head, Ashok Elluswamy, announced that the company's Robotaxi service is set to transition into a 24/7 operational model. This",
+      "snippet_ko": "On September 06, 2026, Tesla's AI head, Ashok Elluswamy, announced that the company's Robotaxi service is set to transition into a 24/7 operational model. This",
+      "symbol": "TSLA",
+      "sentiment_score": 0.5075,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9069494/tesla-expands-robotaxi-services-with-247-availability",
+      "cross_verified": true,
+      "published_at": "2026-09-06T07:11:42.000000Z"
+    },
+    {
+      "title": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Pioneer Has the Stronger Technology Advantage?",
+      "title_ko": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Pioneer Has the Stronger Technology Advantage?",
+      "snippet": "Rigetti and IonQ are taking two separate approaches to quantum computing.",
+      "snippet_ko": "Rigetti and IonQ are taking two separate approaches to quantum computing.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.296,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-vs-rigetti-computing-pure-232000862.html",
+      "cross_verified": true,
+      "published_at": "2026-09-05T23:20:00.000000Z"
+    }
+  ]
 }
