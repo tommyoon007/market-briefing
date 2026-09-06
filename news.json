@@ -1,104 +1,92 @@
 {
-  "updated_at": "2026-09-05T19:48:14.354799+00:00",
+  "updated_at": "2026-09-06T02:24:16.614770+00:00",
   "status": "ok",
   "market_news": [
     {
-      "title": "Apple's First iPhone Under New CEO John Ternus Launches Sept. 9. Here's Whether It's Finally Time to Buy the Stock.",
-      "title_ko": "Apple's First iPhone Under New CEO John Ternus Launches Sept. 9. Here's Whether It's Finally Time to Buy the Stock.",
-      "snippet": "Ternus will introduce Apple's new iPhones (as well as some other products and services) on Sept. 9.",
-      "snippet_ko": "Ternus will introduce Apple's new iPhones (as well as some other products and services) on Sept. 9.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.132,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apples-first-iphone-under-ceo-183500451.html",
-      "cross_verified": true,
-      "published_at": "2026-09-05T18:35:00.000000Z"
-    },
-    {
-      "title": "With AI Revenue Set to Surge 400% Over the Next 2 Years, Broadcom Stock Looks Like a Buy on Recent Dip",
-      "title_ko": "With AI Revenue Set to Surge 400% Over the Next 2 Years, Broadcom Stock Looks Like a Buy on Recent Dip",
-      "snippet": "Broadcom shares dipped despite strong fiscal Q3 results and a clear line of sight to huge future growth.",
-      "snippet_ko": "Broadcom shares dipped despite strong fiscal Q3 results and a clear line of sight to huge future growth.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.1116,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-revenue-set-surge-400-174500769.html",
-      "cross_verified": true,
-      "published_at": "2026-09-05T17:45:00.000000Z"
-    },
-    {
-      "title": "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn",
-      "title_ko": "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn",
-      "snippet": "These companies have already recorded billions in profits from their Anthropic stakes.",
-      "snippet_ko": "These companies have already recorded billions in profits from their Anthropic stakes.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.4773,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-could-next-mega-ipo-170500565.html",
-      "cross_verified": true,
-      "published_at": "2026-09-05T17:05:00.000000Z"
-    },
-    {
-      "title": "Trump's AI Data Center Support Faces Voter Backlash",
-      "title_ko": "Trump's AI Data Center Support Faces Voter Backlash",
-      "snippet": "On September 05, 2026, the political landscape surrounding artificial intelligence (AI) data centers is heating up, particularly with the strong backing from fo",
-      "snippet_ko": "On September 05, 2026, the political landscape surrounding artificial intelligence (AI) data centers is heating up, particularly with the strong backing from fo",
-      "symbol": "",
-      "sentiment_score": 0.3987,
+      "title": "Tesla's Robotaxi Set to Launch 24/7 Service Soon",
+      "title_ko": "Tesla's Robotaxi Set to Launch 24/7 Service Soon",
+      "snippet": "On September 05, 2026, Tesla Inc (TSLA) announced that its AI chief, Ashok Elluswamy, revealed the company is nearing the launch of its 24/7 Robotaxi service. T",
+      "snippet_ko": "On September 05, 2026, Tesla Inc (TSLA) announced that its AI chief, Ashok Elluswamy, revealed the company is nearing the launch of its 24/7 Robotaxi service. T",
+      "symbol": "TSLA",
+      "sentiment_score": 0.6388,
       "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9069471/trumps-ai-data-center-support-faces-voter-backlash",
+      "url": "https://www.gurufocus.com/news/9069493/teslas-robotaxi-set-to-launch-247-service-soon",
       "cross_verified": true,
-      "published_at": "2026-09-05T18:50:29.000000Z"
+      "published_at": "2026-09-06T01:31:52.000000Z"
     },
     {
-      "title": "Jim Cramer Explains Why He Is Avoiding Big Predictions on Rocket Companies (RKT)",
-      "title_ko": "Jim Cramer Explains Why He Is Avoiding Big Predictions on Rocket Companies (RKT)",
-      "snippet": "During the lightning round on September 2, a caller mentioned that Rocket Companies, Inc. (NYSE:RKT) delivered its most profitable quarter in four years despite elevated interest rates, which challenges the market assumption that the business remains overly rate-sensitive. They asked whether the stock is positioned to reach $30 once interest rates stabilize or decline. In […]",
-      "snippet_ko": "During the lightning round on September 2, a caller mentioned that Rocket Companies, Inc. (NYSE:RKT) delivered its most profitable quarter in four years despite elevated interest rates, which challenges the market assumption that the business remains overly rate-sensitive. They asked whether the stock is positioned to reach $30 once interest rates stabilize or decline. In […]",
-      "symbol": "",
-      "sentiment_score": 0.3706,
+      "title": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Pioneer Has the Stronger Technology Advantage?",
+      "title_ko": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Pioneer Has the Stronger Technology Advantage?",
+      "snippet": "Rigetti and IonQ are taking two separate approaches to quantum computing.",
+      "snippet_ko": "Rigetti and IonQ are taking two separate approaches to quantum computing.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.296,
       "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-avoiding-183939972.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-vs-rigetti-computing-pure-232000862.html",
       "cross_verified": true,
-      "published_at": "2026-09-05T18:39:39.000000Z"
+      "published_at": "2026-09-05T23:20:00.000000Z"
+    },
+    {
+      "title": "Intel’s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
+      "title_ko": "Intel’s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
+      "snippet": "On September 3, Mizuho lowered the price target on Intel Corporation (NASDAQ:INTC) to $92 from $109. Mizuho’s note reads more bullish on INTC’s business than the price target suggests, but the firm is stopping short of turning bullish. The firm noted multiple operating tailwinds working in favor of Intel, namely Agentic AI demand, enterprise server […]",
+      "snippet_ko": "On September 3, Mizuho lowered the price target on Intel Corporation (NASDAQ:INTC) to $92 from $109. Mizuho’s note reads more bullish on INTC’s business than the price target suggests, but the firm is stopping short of turning bullish. The firm noted multiple operating tailwinds working in favor of Intel, namely Agentic AI demand, enterprise server […]",
+      "symbol": "INTC",
+      "sentiment_score": -0.0287,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/intel-ai-tailwinds-real-mizuho-225825483.html",
+      "cross_verified": true,
+      "published_at": "2026-09-05T22:58:25.000000Z"
+    },
+    {
+      "title": "Q1 2026 iFabric Corp Earnings Call Transcript",
+      "title_ko": "Q1 2026 iFabric Corp Earnings Call Transcript",
+      "snippet": "May 14, 2026 / 06:00PM GMTDeborah Honig - Adelaide Capital Corp - Analyst All right. Good morning, good afternoon, depending on where you're dialing in from. Th",
+      "snippet_ko": "May 14, 2026 / 06:00PM GMTDeborah Honig - Adelaide Capital Corp - Analyst All right. Good morning, good afternoon, depending on where you're dialing in from. Th",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9069483/q1-2026-ifabric-corp-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-09-06T00:37:22.000000Z"
     }
   ],
   "portfolio_news": [
     {
-      "title": "Apple's First iPhone Under New CEO John Ternus Launches Sept. 9. Here's Whether It's Finally Time to Buy the Stock.",
-      "title_ko": "Apple's First iPhone Under New CEO John Ternus Launches Sept. 9. Here's Whether It's Finally Time to Buy the Stock.",
-      "snippet": "Ternus will introduce Apple's new iPhones (as well as some other products and services) on Sept. 9.",
-      "snippet_ko": "Ternus will introduce Apple's new iPhones (as well as some other products and services) on Sept. 9.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.132,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apples-first-iphone-under-ceo-183500451.html",
+      "title": "Tesla's Robotaxi Set to Launch 24/7 Service Soon",
+      "title_ko": "Tesla's Robotaxi Set to Launch 24/7 Service Soon",
+      "snippet": "On September 05, 2026, Tesla Inc (TSLA) announced that its AI chief, Ashok Elluswamy, revealed the company is nearing the launch of its 24/7 Robotaxi service. T",
+      "snippet_ko": "On September 05, 2026, Tesla Inc (TSLA) announced that its AI chief, Ashok Elluswamy, revealed the company is nearing the launch of its 24/7 Robotaxi service. T",
+      "symbol": "TSLA",
+      "sentiment_score": 0.6388,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9069493/teslas-robotaxi-set-to-launch-247-service-soon",
       "cross_verified": true,
-      "published_at": "2026-09-05T18:35:00.000000Z"
+      "published_at": "2026-09-06T01:31:52.000000Z"
     },
     {
-      "title": "With AI Revenue Set to Surge 400% Over the Next 2 Years, Broadcom Stock Looks Like a Buy on Recent Dip",
-      "title_ko": "With AI Revenue Set to Surge 400% Over the Next 2 Years, Broadcom Stock Looks Like a Buy on Recent Dip",
-      "snippet": "Broadcom shares dipped despite strong fiscal Q3 results and a clear line of sight to huge future growth.",
-      "snippet_ko": "Broadcom shares dipped despite strong fiscal Q3 results and a clear line of sight to huge future growth.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.1116,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-revenue-set-surge-400-174500769.html",
-      "cross_verified": true,
-      "published_at": "2026-09-05T17:45:00.000000Z"
-    },
-    {
-      "title": "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn",
-      "title_ko": "Anthropic Could Be the Next Mega IPO: 2 Magnificent Stocks That Already Own a Piece of the AI Unicorn",
-      "snippet": "These companies have already recorded billions in profits from their Anthropic stakes.",
-      "snippet_ko": "These companies have already recorded billions in profits from their Anthropic stakes.",
+      "title": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Pioneer Has the Stronger Technology Advantage?",
+      "title_ko": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Pioneer Has the Stronger Technology Advantage?",
+      "snippet": "Rigetti and IonQ are taking two separate approaches to quantum computing.",
+      "snippet_ko": "Rigetti and IonQ are taking two separate approaches to quantum computing.",
       "symbol": "NVDA",
-      "sentiment_score": 0.4773,
+      "sentiment_score": -0.296,
       "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-could-next-mega-ipo-170500565.html",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-vs-rigetti-computing-pure-232000862.html",
       "cross_verified": true,
-      "published_at": "2026-09-05T17:05:00.000000Z"
+      "published_at": "2026-09-05T23:20:00.000000Z"
+    },
+    {
+      "title": "Intel’s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
+      "title_ko": "Intel’s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
+      "snippet": "On September 3, Mizuho lowered the price target on Intel Corporation (NASDAQ:INTC) to $92 from $109. Mizuho’s note reads more bullish on INTC’s business than the price target suggests, but the firm is stopping short of turning bullish. The firm noted multiple operating tailwinds working in favor of Intel, namely Agentic AI demand, enterprise server […]",
+      "snippet_ko": "On September 3, Mizuho lowered the price target on Intel Corporation (NASDAQ:INTC) to $92 from $109. Mizuho’s note reads more bullish on INTC’s business than the price target suggests, but the firm is stopping short of turning bullish. The firm noted multiple operating tailwinds working in favor of Intel, namely Agentic AI demand, enterprise server […]",
+      "symbol": "INTC",
+      "sentiment_score": -0.0287,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/intel-ai-tailwinds-real-mizuho-225825483.html",
+      "cross_verified": true,
+      "published_at": "2026-09-05T22:58:25.000000Z"
     }
   ]
 }
