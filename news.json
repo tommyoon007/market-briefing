@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-07T18:40:22.533671+00:00",
+  "updated_at": "2026-09-07T22:42:17.452544+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Mission Produce Q3 2026 Earnings Preview (NASDAQ:AVO)",
+      "title_ko": "미션 프로듀스 2026년 3분기 실적 전망 (나스닥: AVO)",
+      "snippet": "Preview Mission Produce (AVO) Q3 earnings Sept 8: EPS $0.12, revenue $367.6M.",
+      "snippet_ko": "9월 8일 미션 프로듀스(AVO) 3분기 실적 미리보기: 주당순이익(EPS) 0.12달러, 매출 3억 6,760만 달러.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4640348-mission-produce-q3-2026-earnings-preview",
+      "cross_verified": true,
+      "published_at": "2026-09-07T21:35:00.000000Z"
+    },
+    {
+      "title": "Casey's General Stores Q1 2027 Earnings Preview (NASDAQ:CASY)",
+      "title_ko": "케이시 제너럴 스토어(Casey's General Stores) 2027년 1분기 실적 전망 (나스닥: CASY)",
+      "snippet": "Preview Casey’s General Stores (CASY) Q1 earnings Sept 8: EPS $6.74 and revenue $5.55B estimates, revision trends, and beat history—read now.",
+      "snippet_ko": "9월 8일 케이시 제너럴 스토어(CASY) 1분기 실적 미리보기: 주당 순이익(EPS) 6.74달러, 매출 55억 5천만 달러 예상치, 실적 전망치 수정 동향 및 예상치 상회 실적 내역 — 지금 바로 읽어보세요.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4640350-caseys-general-stores-q1-2027-earnings-preview",
+      "cross_verified": true,
+      "published_at": "2026-09-07T21:35:00.000000Z"
+    },
+    {
+      "title": "Walker & Dunlop, Inc. (WD) Discusses Whether America Faces a Housing Shortage Transcript",
+      "title_ko": "Walker & Dunlop, Inc. (WD), “미국이 주택 부족 사태에 직면했는가”에 대해 논의한 회의록",
+      "snippet": "Walker & Dunlop, Inc. (WD) Discusses Whether America Faces a Housing Shortage September 1, 2026 8:00 PM EDTCompany ParticipantsWilly Walker - Chairman,...",
+      "snippet_ko": "Walker & Dunlop, Inc. (WD), 미국이 주택 부족 사태에 직면했는지 논의 2026년 9월 1일 오후 8:00 (EDT) 참가 임원: 윌리 워커 - 회장,...",
+      "symbol": "",
+      "sentiment_score": 0.2326,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4943610-walker-and-dunlop-inc-wd-discusses-whether-america-faces-a-housing-shortage-transcript",
+      "cross_verified": true,
+      "published_at": "2026-09-07T21:15:29.000000Z"
+    },
     {
       "title": "McRae Industries (MCRAB) Maintains Quarterly Dividend Amid Uncertain Valuation Landscape",
       "title_ko": "맥레이 인더스트리즈(MCRAB), 불확실한 기업 가치 평가 환경 속 분기 배당금 유지",
@@ -244,6 +280,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Broadcom’s AI Forecast Suggests Hyperscalers Want More Than Just Nvidia GPUs",
+      "title_ko": "브로드컴의 AI 전망에 따르면, 하이퍼스케일러들은 엔비디아 GPU 이상의 것을 원하고 있는 것으로 보인다",
+      "snippet": "Big Tech’s appetite for AI infrastructure isn’t being sated anytime soon, and Broadcom Inc. (NASDAQ:AVGO) is proof of that.",
+      "snippet_ko": "빅테크 기업들의 AI 인프라에 대한 욕구는 당분간 갉아먹히지 않을 전망이며, 브로드컴(Broadcom Inc., 나스닥: AVGO)이 그 증거다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.2037,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/broadcoms-ai-forecast-suggests-hyperscalers-want-more-than-just-nvidia-gpus-1827814/",
+      "cross_verified": true,
+      "published_at": "2026-09-07T21:11:02.000000Z"
+    },
+    {
+      "title": "Jim Cramer Wants Nvidia to Buy Back $500 Billion. Can Apple’s Playbook Work?",
+      "title_ko": "짐 크레이머, 엔비디아에 5,000억 달러 규모의 자사주 매입을 촉구. 애플의 전략이 통할까?",
+      "snippet": "Jim Cramer wants NVIDIA Corporation (NASDAQ:NVDA) to authorize a $500 billion buyback and purchase shares daily. His September 1 Mad Money argument points to Apple Inc. (NASDAQ:AAPL) as the model.",
+      "snippet_ko": "짐 크레이머는 엔비디아(NASDAQ:NVDA)가 5,000억 달러 규모의 자사주 매입을 승인하고 매일 주식을 매입하기를 원한다. 지난 9월 1일 ‘매드 머니’에서 그가 제시한 주장은 애플(NASDAQ:AAPL)을 그 모델로 꼽았다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.375,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/jim-cramer-wants-nvidia-to-buy-back-500-billion-can-apples-playbook-work-1832027/",
+      "cross_verified": true,
+      "published_at": "2026-09-07T20:34:15.000000Z"
+    },
+    {
+      "title": "Tulfo files bill honoring Lea Salonga after historic Hollywood Walk of Fame star",
+      "title_ko": "툴포, 할리우드 명예의 거리 별을 받은 리아 살롱가를 기리는 법안 발의",
+      "snippet": "Tulfo files bill honoring Lea Salonga after historic Hollywood Walk of Fame star",
+      "snippet_ko": "툴포, 할리우드 명예의 거리 별을 받은 리아 살롱가를 기리는 법안 발의",
+      "symbol": "DIS",
+      "sentiment_score": 0.0,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/08/news/tulfo-files-bill-honoring-lea-salonga-after-historic-hollywood-walk-of-fame-star/2420063",
+      "cross_verified": true,
+      "published_at": "2026-09-07T19:51:08.000000Z"
+    },
     {
       "title": "AST SpaceMobile Director Adriana Cisneros Buys $619,235 Shares. What Does This Mean for Investors?",
       "title_ko": "AST SpaceMobile의 아드리아나 시스네로스 이사, 619,235달러 상당의 주식 매입. 이는 투자자들에게 어떤 의미일까?",
