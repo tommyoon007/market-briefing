@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-06T23:41:14.109206+00:00",
+  "updated_at": "2026-09-07T04:02:55.539886+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Launch of AI Financial Assistants: A New Era for Investment Insights",
+      "title_ko": "AI 금융 비서 출시: 투자 통찰력의 새로운 시대",
+      "snippet": "On September 06, 2026, a series of AI-driven financial assistants were launched on the Qianwen platform, enhancing its offerings in professional financial servi",
+      "snippet_ko": "2026년 9월 6일, Qianwen 플랫폼에서 일련의 AI 기반 금융 어시스턴트가 출시되어 전문 금융 서비스 분야의 제공 범위가 확대되었습니다.",
+      "symbol": "",
+      "sentiment_score": 0.3187,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9069588/launch-of-ai-financial-assistants-a-new-era-for-investment-insights",
+      "cross_verified": true,
+      "published_at": "2026-09-07T03:50:25.000000Z"
+    },
+    {
+      "title": "South Korea's Exports to India Surge Over 30% Driven by Semiconductor Demand",
+      "title_ko": "반도체 수요에 힘입어 한국의 대인도 수출이 30% 이상 급증했다",
+      "snippet": "On September 06, 2026, South Korea's exports to India have surged by 30.8% from January to August this year, reaching $16.8 billion compared to $12.84 billion d",
+      "snippet_ko": "2026년 9월 6일, 올해 1월부터 8월까지 한국의 대인도 수출액은 전년 동기 대비 30.8% 급증하여 168억 달러를 기록했으며, 이는 전년 동기 128억 4천만 달러에 비해...",
+      "symbol": "",
+      "sentiment_score": -0.0122,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9069585/south-koreas-exports-to-india-surge-over-30-driven-by-semiconductor-demand",
+      "cross_verified": true,
+      "published_at": "2026-09-07T03:30:27.000000Z"
+    },
+    {
+      "title": "Russia Ready to Supply Oil to India Amid Sanctions Threats",
+      "title_ko": "제재 위협 속 러시아, 인도에 원유 공급할 준비 마쳤다",
+      "snippet": "On September 06, 2026, the Russian Ambassador to New Delhi confirmed Russia's readiness to supply oil to India, amidst rising tensions over proposed U.S. sancti",
+      "snippet_ko": "2026년 9월 6일, 뉴델리 주재 러시아 대사는 미국이 제재 조치를 검토하고 있다는 소식으로 긴장이 고조되는 가운데, 러시아가 인도에 석유를 공급할 준비가 되어 있음을 확인했다.",
+      "symbol": "",
+      "sentiment_score": -0.1012,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9069583/russia-ready-to-supply-oil-to-india-amid-sanctions-threats",
+      "cross_verified": true,
+      "published_at": "2026-09-07T03:10:29.000000Z"
+    },
     {
       "title": "SPY Looks 13.0% Overvalued on GF Value™ as Market Awaits Post-Labor Day Trading",
       "title_ko": "노동절 이후 거래 동향을 지켜보는 가운데, GF Value™ 기준 SPY는 13.0% 과대평가된 것으로 나타났습니다.",
@@ -148,6 +184,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Amazon Cargo Plane Incident at Miami Airport: Five Dead",
+      "title_ko": "마이애미 공항에서 발생한 아마존 화물기 사고: 5명 사망",
+      "snippet": "On September 06, 2026, an Amazon cargo plane, operated by 21 Air, crashed off the runway at Miami International Airport, resulting in at least five fatalities a",
+      "snippet_ko": "2026년 9월 6일, 21 에어에서 운항하던 아마존 화물기가 마이애미 국제공항 활주로 밖에서 추락하여 최소 5명이 사망하는 등",
+      "symbol": "AMZN",
+      "sentiment_score": 0.0,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9069561/amazon-cargo-plane-incident-at-miami-airport-five-dead",
+      "cross_verified": true,
+      "published_at": "2026-09-07T01:30:43.000000Z"
+    },
+    {
+      "title": "Meta’s $18 Billion Teen Safety Deal Puts the Pressure on TikTok and YouTube Next",
+      "title_ko": "메타의 180억 달러 규모 청소년 안전 협약, 다음 타겟인 틱톡과 유튜브에 압박 가해",
+      "snippet": "CNBC reported that Meta Platforms, Inc. (NASDAQ:META) agreed to pay up to $18 billion combined to settle claims that its platforms fueled a teen mental health crisis.",
+      "snippet_ko": "CNBC는 메타 플랫폼스(Meta Platforms, Inc., 나스닥: META)가 자사 플랫폼이 청소년의 정신 건강 위기를 부추겼다는 주장을 해결하기 위해 총 180억 달러를 지급하기로 합의했다고 보도했다.",
+      "symbol": "META",
+      "sentiment_score": -0.0957,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/metas-18-billion-teen-safety-deal-puts-the-pressure-on-tiktok-and-youtube-next-1828120/",
+      "cross_verified": true,
+      "published_at": "2026-09-07T01:16:13.000000Z"
+    },
+    {
+      "title": "A. Stotz All Weather Strategies – August 2026",
+      "title_ko": "A. 스토츠의 ‘모든 상황에 대비한 전략’ – 2026년 8월",
+      "snippet": "Performance review in August 2026 - AWIG gained 1.9%, AWS gained 5.1%, AWAF gained 3.9%.",
+      "snippet_ko": "2026년 8월 성과 평가 - AWIG는 1.9%, AWS는 5.1%, AWAF는 3.9% 상승했다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.9236,
+      "source": "becomeabetterinvestor.net",
+      "url": "https://becomeabetterinvestor.net/a-stotz-all-weather-strategies-august-2026/",
+      "cross_verified": true,
+      "published_at": "2026-09-07T00:01:06.000000Z"
+    },
     {
       "title": "Market Open: ASX roller coaster ride forecast to slide down this morning",
       "title_ko": "장 개장: 오늘 오전 ASX, 롤러코스터 같은 등락세 속에서 하락세 예상",
