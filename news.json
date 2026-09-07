@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-07T12:08:36.889593+00:00",
+  "updated_at": "2026-09-07T18:40:22.533671+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "McRae Industries (MCRAB) Maintains Quarterly Dividend Amid Uncertain Valuation Landscape",
+      "title_ko": "맥레이 인더스트리즈(MCRAB), 불확실한 기업 가치 평가 환경 속 분기 배당금 유지",
+      "snippet": "On September 07, 2026, McRae Industries, Inc. (MCRAB) declared a quarterly dividend of $0.14 per share, unchanged from its prior payout. The dividend carries a",
+      "snippet_ko": "2026년 9월 7일, 맥레이 인더스트리즈(McRae Industries, Inc., MCRAB)는 주당 0.14달러의 분기 배당금을 발표했는데, 이는 이전 배당금과 동일한 수준입니다. 이 배당금은",
+      "symbol": "",
+      "sentiment_score": 0.0545,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9069745/mcrae-industries-mcrab-maintains-quarterly-dividend-amid-uncertain-valuation-landscape",
+      "cross_verified": true,
+      "published_at": "2026-09-07T17:56:01.000000Z"
+    },
+    {
+      "title": "TSI Looks 39.2% Overvalued on GF Value™",
+      "title_ko": "GF Value™에 따르면 TSI는 39.2% 과대평가된 것으로 나타났습니다.",
+      "snippet": "On September 07, 2026, TCW Strategic Income Fund (TSI) announced a monthly dividend of $0.0283 per share, maintaining its previous payout level. The fund curren",
+      "snippet_ko": "2026년 9월 7일, TCW 전략적 소득 펀드(TSI)는 주당 0.0283달러의 월 배당금을 발표하며, 기존 배당 수준을 유지했습니다. 이 펀드는 현재",
+      "symbol": "",
+      "sentiment_score": 0.4671,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9069744/tsi-looks-392-overvalued-on-gf-value",
+      "cross_verified": true,
+      "published_at": "2026-09-07T17:55:31.000000Z"
+    },
+    {
+      "title": "European Markets Dip Amid Oil Price Surge and Novartis (NVS) Stock Decline",
+      "title_ko": "유가 급등과 노바티스(NVS) 주가 하락 속에 유럽 증시 하락",
+      "snippet": "On September 07, 2026, European stock markets experienced pressure due to rising oil prices and a significant drop in Novartis (NVS) shares following the failur",
+      "snippet_ko": "2026년 9월 7일, 유가 상승과 노바티스(NVS)의 실패로 인한 주가 급락으로 유럽 증시가 압박을 받았습니다.",
+      "symbol": "",
+      "sentiment_score": 0.5834,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9069741/european-markets-dip-amid-oil-price-surge-and-novartis-nvs-stock-decline",
+      "cross_verified": true,
+      "published_at": "2026-09-07T17:50:26.000000Z"
+    },
     {
       "title": "SPY Looks 13.0% Overvalued on GF Value™ as of September 07, 2026",
       "title_ko": "2026년 9월 7일 기준, GF Value™에 따르면 SPY는 13.0% 과대평가된 것으로 나타났습니다.",
@@ -208,6 +244,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "AST SpaceMobile Director Adriana Cisneros Buys $619,235 Shares. What Does This Mean for Investors?",
+      "title_ko": "AST SpaceMobile의 아드리아나 시스네로스 이사, 619,235달러 상당의 주식 매입. 이는 투자자들에게 어떤 의미일까?",
+      "snippet": "Cisneros increased her indirect holdings to 2.4 million shares valued at $140.7 million, signaling continued confidence as the satellite-broadband company expands its network.",
+      "snippet_ko": "시스네로스는 간접 보유 지분을 240만 주(평가액 1억 4,070만 달러)로 늘렸으며, 이는 위성 광대역 통신사가 네트워크를 확장해 나가는 가운데 지속적인 신뢰를 보여주는 신호로 해석된다.",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.0129,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-director-adriana-cisneros-171301377.html",
+      "cross_verified": true,
+      "published_at": "2026-09-07T17:13:01.000000Z"
+    },
+    {
+      "title": "Elon Musk Owns 28% of Tesla, a Stake Worth Nearly $350 Billion. Here's Why His Ownership Level Matters for Shareholders.",
+      "title_ko": "일론 머스크는 테슬라 지분의 28%를 보유하고 있으며, 이 지분의 가치는 약 3,500억 달러에 달합니다. 그의 지분율이 주주들에게 왜 중요한지 알아보겠습니다.",
+      "snippet": "Tesla investors know it's often",
+      "snippet_ko": "테슬라 투자자들은 종종 그렇다는 사실을 알고 있다",
+      "symbol": "AAPL",
+      "sentiment_score": -0.3032,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-owns-28-tesla-170700943.html",
+      "cross_verified": true,
+      "published_at": "2026-09-07T17:07:00.000000Z"
+    },
+    {
+      "title": "AI Is Moving Into Everyday Business — These 5 Stocks Sit Squarely in the Path of the Surge",
+      "title_ko": "AI가 일상적인 비즈니스 영역으로 진출하고 있다 — 이 5개 종목은 이러한 성장세의 중심에 자리 잡고 있다",
+      "snippet": "AI is embedding itself in ordinary business operations, and the compute footprint required to sustain that shift is expanding faster than the industry can build. Goldman Sachs Global Investment Research finds that 22.4% of firms are already using AI in their regular business functions, while another 25.9% expect to begin using it within the next […]",
+      "snippet_ko": "AI는 일상적인 비즈니스 운영에 점차 스며들고 있으며, 이러한 변화를 뒷받침하는 데 필요한 컴퓨팅 자원은 업계가 이를 구축할 수 있는 속도보다 더 빠르게 확대되고 있습니다. 골드만삭스 글로벌 투자 리서치(Goldman Sachs Global Investment Research)에 따르면, 기업의 22.4%는 이미 일상적인 비즈니스 업무에 AI를 활용하고 있는 반면, 25.9%는 향후 […] 이내에 AI 도입을 시작할 것으로 예상하고 있습니다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.6204,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-moving-everyday-business-5-165250986.html",
+      "cross_verified": true,
+      "published_at": "2026-09-07T16:52:50.000000Z"
+    },
     {
       "title": "Apple: I Don't See Any New Ideas That Could Be Bigger Than The iPhone (NASDAQ:AAPL)",
       "title_ko": "애플: 아이폰(나스닥: AAPL)보다 더 큰 성공을 거둘 만한 새로운 아이디어는 보이지 않는다",
