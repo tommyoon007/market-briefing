@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-07T04:02:55.539886+00:00",
+  "updated_at": "2026-09-07T12:08:36.889593+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "SPY Looks 13.0% Overvalued on GF Value™ as of September 07, 2026",
+      "title_ko": "2026년 9월 7일 기준, GF Value™에 따르면 SPY는 13.0% 과대평가된 것으로 나타났습니다.",
+      "snippet": "On September 07, 2026, the S&P 500's historical pattern of declines on the first trading day of Labor Day week once again draws attention, with the State Street",
+      "snippet_ko": "2026년 9월 7일, 노동절 주간의 첫 거래일에 S&P 500 지수가 하락하는 과거의 패턴이 다시 한 번 주목을 받고 있는 가운데, 스테이트 스트리트는",
+      "symbol": "",
+      "sentiment_score": 0.1366,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9069675/spy-looks-130-overvalued-on-gf-value-as-of-september-07-2026",
+      "cross_verified": true,
+      "published_at": "2026-09-07T11:55:31.000000Z"
+    },
+    {
+      "title": "SPHD: Why SCHD Is Better For High Dividends And Low Volatility (NYSEARCA:SPHD)",
+      "title_ko": "SPHD: 왜 SCHD가 높은 배당금과 낮은 변동성 측면에서 더 나은 선택인가 (NYSEARCA:SPHD)",
+      "snippet": "SPHD ETF targets conservative income investors but sacrifices total returns versus peers. Find out why I assign SPHD a Sell rating.",
+      "snippet_ko": "SPHD ETF는 보수적인 소득형 투자자를 대상으로 하지만, 동종 상품에 비해 총수익률이 떨어집니다. 제가 SPHD에 ‘매도’ 등급을 부여한 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.3645,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4943450-sphd-why-schd-etf-better-for-high-dividends-low-volatility",
+      "cross_verified": true,
+      "published_at": "2026-09-07T11:30:00.000000Z"
+    },
     {
       "title": "Launch of AI Financial Assistants: A New Era for Investment Insights",
       "title_ko": "AI 금융 비서 출시: 투자 통찰력의 새로운 시대",
@@ -184,6 +208,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Apple: I Don't See Any New Ideas That Could Be Bigger Than The iPhone (NASDAQ:AAPL)",
+      "title_ko": "애플: 아이폰(나스닥: AAPL)보다 더 큰 성공을 거둘 만한 새로운 아이디어는 보이지 않는다",
+      "snippet": "Apple Inc. will focus its September launch event on the iPhone 18 Pro, Pro Max, and a new foldable iPhone Ultra. Click here to read more on AAPL stock.",
+      "snippet_ko": "애플(Apple Inc.)은 9월 신제품 발표회에서 아이폰 18 프로, 프로 맥스, 그리고 새로운 폴더블 아이폰 울트라에 초점을 맞출 예정이다. AAPL 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4259,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4943527-apple-i-dont-see-any-new-ideas-that-could-be-bigger-than-the-iphone",
+      "cross_verified": true,
+      "published_at": "2026-09-07T11:30:00.000000Z"
+    },
+    {
+      "title": "Data Center Investment Surge in Australia: Tech Giants Show Interest (AAPL)",
+      "title_ko": "호주 데이터 센터 투자 급증: 기술 대기업들의 관심 집중 (AAPL)",
+      "snippet": "On September 07, 2026, Australian data center operator AirTrunk Operating Pty Ltd. announced a surge in interest from major U.S. tech companies, including Apple",
+      "snippet_ko": "2026년 9월 7일, 호주의 데이터센터 운영사인 에어트렁크 오퍼레이팅(AirTrunk Operating Pty Ltd.)은 애플을 비롯한 미국의 주요 기술 기업들로부터 관심이 급증하고 있다고 발표했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.6691,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9069662/data-center-investment-surge-in-australia-tech-giants-show-interest-aapl",
+      "cross_verified": true,
+      "published_at": "2026-09-07T10:51:52.000000Z"
+    },
+    {
+      "title": "India needs double-digit factory growth, Bank of America says",
+      "title_ko": "뱅크 오브 아메리카, “인도는 두 자릿수 공장 성장률 필요”라고 밝혔다",
+      "snippet": "Indias manufacturing sector needs to grow at least 10% annually for 15 years to reach 25% of GDP, Bank of America estimates. That could create a $2.3-trillion manufacturing economy by 2040, but regulatory burdens, high power costs and a shortage of medium-sized firms remain major obstacles.",
+      "snippet_ko": "뱅크 오브 아메리카의 추산에 따르면, 인도의 제조업 부문이 GDP의 25%를 차지하기 위해서는 향후 15년 동안 매년 최소 10%의 성장률을 기록해야 한다. 이 경우 2040년까지 2.3조 달러 규모의 제조업 경제가 조성될 수 있겠지만, 규제 부담, 높은 전력 비용, 중견 기업 부족 등이 여전히 주요 걸림돌로 남아 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.3612,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/india-needs-double-digit-factory-growth-bank-of-america-says/articleshow/133876459.cms",
+      "cross_verified": true,
+      "published_at": "2026-09-07T10:34:01.000000Z"
+    },
     {
       "title": "Amazon Cargo Plane Incident at Miami Airport: Five Dead",
       "title_ko": "마이애미 공항에서 발생한 아마존 화물기 사고: 5명 사망",
