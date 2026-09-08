@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-08T11:00:49.879036+00:00",
+  "updated_at": "2026-09-08T16:25:28.595097+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Tech Resilience Amidst Broader Market Softness: Midday Update for September 8, 2026",
+      "title_ko": "전반적인 시장 약세 속 기술주의 탄력성: 2026년 9월 8일 정오 업데이트",
+      "snippet": "U.S. equity markets displayed a stark divergence during midday trading on Tuesday, September 8th, 2026. While the broader market struggled to find its footing",
+      "snippet_ko": "2026년 9월 8일 화요일 정오 거래 시간 동안 미국 주식 시장은 극명한 엇갈린 양상을 보였다. 전반적인 시장은 방향성을 잡지 못한 채 고전하는 반면",
+      "symbol": "",
+      "sentiment_score": 0.3358,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-resilience-amidst-broader-market-softness-midday-update-for-september-8-2026/71541/",
+      "cross_verified": true,
+      "published_at": "2026-09-08T16:07:21.000000Z"
+    },
+    {
+      "title": "SK Hynix Jumps 7% as AI Diverts Memory From Phones, Micron Holds Steady, Apple Slips",
+      "title_ko": "AI 수요로 인해 스마트폰용 메모리 수요가 전환되면서 SK하이닉스 주가가 7% 급등한 반면, 마이크론은 보합세를 보였고 애플은 하락했다.",
+      "snippet": "The memory allocation split is defining today’s session as artificial intelligence customers pull wafer capacity toward high-bandwidth chips and away from the conventional parts that phones need. That divide is showing up cleanly across the semiconductor complex, with Korean suppliers rallying while their largest smartphone customer slides. SK Hynix (NASDAQ:SKHY) stock is up 7% to […]",
+      "snippet_ko": "인공지능(AI) 고객들이 웨이퍼 생산 능력을 스마트폰에 필요한 기존 부품에서 벗어나 고대역폭 칩 쪽으로 전환함에 따라, 메모리 할당 구도가 오늘 장의 흐름을 좌우하고 있다. 이러한 양극화는 반도체 업계 전반에 뚜렷이 나타나고 있으며, 한국 공급업체들은 주가가 상승하는 반면, 이들의 최대 스마트폰 고객사는 주가가 하락하고 있다. SK하이닉스(NASDAQ:SKHY) 주가는 7% 상승해 […]",
+      "symbol": "",
+      "sentiment_score": 0.4767,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-jumps-7-ai-155806621.html",
+      "cross_verified": true,
+      "published_at": "2026-09-08T15:58:06.000000Z"
+    },
+    {
+      "title": "Dunelm Group plc (DNLMY) Q4 2026 Earnings Call Prepared Remarks Transcript",
+      "title_ko": "Dunelm Group plc (DNLMY) 2026년 4분기 실적 발표 전화회의 사전 준비 발언 전문",
+      "snippet": "Dunelm Group plc (DNLMY) Q4 2026 Earnings Call September 8, 2026 2:00 AM EDTCompany ParticipantsClodagh Moriarty - Chief Executive OfficerKaren Witts - CFO...",
+      "snippet_ko": "Dunelm Group plc (DNLMY) 2026년 4분기 실적 발표 전화회의, 2026년 9월 8일 오전 2:00 (EDT) 회사 참가자: 클로다 모리아티 - 최고경영자(CEO), 카렌 위츠 - 최고재무책임자(CFO)...",
+      "symbol": "",
+      "sentiment_score": 0.5176,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4943880-dunelm-group-plc-dnlmy-q4-2026-earnings-call-prepared-remarks-transcript",
+      "cross_verified": true,
+      "published_at": "2026-09-08T15:45:30.000000Z"
+    },
     {
       "title": "Automatic Data Processing Stock: Tailwinds At Its Back (NASDAQ:ADP)",
       "title_ko": "자동 데이터 처리(ADP) 주식: 호재의 바람을 타고 (나스닥: ADP)",
@@ -328,6 +364,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Could Apple Face a $17 Billion Child Safety Settlement Like Meta?",
+      "title_ko": "애플도 메타처럼 170억 달러 규모의 아동 안전 관련 합의금을 지불하게 될까?",
+      "snippet": "On the morning John Ternus took over as Apple CEO, the most consequential headline about the company had nothing to do with the iPhone cycle or Siri AI. It came from a CNBC Squawk Box interview on September 1, 2026, where West Virginia Attorney General JB McCuskey called Meta Platforms (NASDAQ:META)’ recent $17 billion child-safety […]",
+      "snippet_ko": "존 테르누스가 애플 CEO로 취임한 날 아침, 이 회사와 관련해 가장 중요한 뉴스 헤드라인은 아이폰 출시 주기나 시리(Siri) AI와는 전혀 무관했다. 이 소식은 2026년 9월 1일 CNBC ‘스쿼크 박스(Squawk Box)’ 인터뷰에서 나왔는데, 웨스트버지니아주 법무장관 JB 맥커스키가 메타 플랫폼스(NASDAQ:META)의 최근 170억 달러 규모의 아동 안전 […]",
+      "symbol": "AAPL",
+      "sentiment_score": 0.412,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/could-apple-face-17-billion-150503182.html",
+      "cross_verified": true,
+      "published_at": "2026-09-08T15:05:03.000000Z"
+    },
+    {
+      "title": "Amazon Just Handed Qualcomm a Slice of AWS’s AI Buildout",
+      "title_ko": "아마존, 퀄컴에 AWS의 AI 인프라 확충 사업 일부를 맡겼다",
+      "snippet": "AWS is sitting on a $496 billion backlog and doubling its power capacity, and the pressure is now pulling a surprising new name into the AI silicon race alongside Broadcom. Whether that newcomer can actually deliver before the window closes is the real question.",
+      "snippet_ko": "AWS는 4,960억 달러 규모의 미처리 수주를 확보한 상태이며 전력 용량을 두 배로 늘리고 있는데, 이러한 압박으로 인해 브로드컴과 어깨를 나란히 하며 AI 반도체 경쟁에 뛰어드는 의외의 신생 기업이 등장하고 있다. 그 신생 기업이 기한이 만료되기 전에 실제로 성과를 낼 수 있을지가 진정한 관건이다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.18,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-just-handed-qualcomm-slice-145631339.html",
+      "cross_verified": true,
+      "published_at": "2026-09-08T14:56:31.000000Z"
+    },
+    {
+      "title": "Five Dead After Amazon Plane Overran Runway at Miami Airport",
+      "title_ko": "마이애미 공항에서 아마존 항공기가 활주로를 벗어나 5명 사망",
+      "snippet": "An Amazon cargo plane barreled off a runway at Miami International Airport on Sunday, killing at least five people and injuring five others as it struck",
+      "snippet_ko": "일요일, 마이애미 국제공항에서 아마존 화물기가 활주로를 이탈해 충돌하면서 최소 5명이 사망하고 5명이 부상을 입었다.",
+      "symbol": "AMZN",
+      "sentiment_score": -0.25,
+      "source": "insurancejournal.com",
+      "url": "https://www.insurancejournal.com/news/southeast/2026/09/08/884349.htm",
+      "cross_verified": true,
+      "published_at": "2026-09-08T14:22:15.000000Z"
+    },
     {
       "title": "Nvidia, Palantir, and Meta Platforms Are Rattling Wall Street With This $18.6 Billion Warning",
       "title_ko": "엔비디아, 팔란티어, 메타 플랫폼스가 186억 달러 규모의 실적 하향 조정 소식으로 월가를 뒤흔들고 있다",
