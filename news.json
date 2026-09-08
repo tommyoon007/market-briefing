@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-08T04:04:33.218497+00:00",
+  "updated_at": "2026-09-08T11:00:49.879036+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Automatic Data Processing Stock: Tailwinds At Its Back (NASDAQ:ADP)",
+      "title_ko": "자동 데이터 처리(ADP) 주식: 호재의 바람을 타고 (나스닥: ADP)",
+      "snippet": "Automatic Data Processing remains a global HCM leader, benefiting from organic growth, and rising client fund yields. Read why ADP stock is a buy.",
+      "snippet_ko": "ADP는 유기적 성장과 고객 자금 수익률 상승에 힘입어 여전히 글로벌 HCM 분야의 선두주자로 자리매김하고 있습니다. ADP 주식을 매수해야 하는 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": -0.1909,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4943734-automatic-data-processing-tailwinds-at-its-back",
+      "cross_verified": true,
+      "published_at": "2026-09-08T10:15:22.000000Z"
+    },
     {
       "title": "Matson: Better Fundamentals, Limited Upside After The Rally (NYSE:MATX)",
       "title_ko": "매트슨: 펀더멘털은 개선되었으나, 랠리 이후 상승 여력은 제한적 (NYSE:MATX)",
@@ -316,6 +328,66 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Nvidia, Palantir, and Meta Platforms Are Rattling Wall Street With This $18.6 Billion Warning",
+      "title_ko": "엔비디아, 팔란티어, 메타 플랫폼스가 186억 달러 규모의 실적 하향 조정 소식으로 월가를 뒤흔들고 있다",
+      "snippet": "The people who know Nvidia, Palantir, and Meta best are sending all the wrong signals to investors.",
+      "snippet_ko": "엔비디아, 팔란티어, 메타를 가장 잘 아는 사람들이 투자자들에게 완전히 잘못된 신호를 보내고 있다.",
+      "symbol": "META",
+      "sentiment_score": 0.2945,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-palantir-meta-platforms-rattling-092601179.html",
+      "cross_verified": true,
+      "published_at": "2026-09-08T09:26:01.000000Z"
+    },
+    {
+      "title": "Baron Durable Advantage Fund Q2 2026 Shareholder Letter (BDAFX)",
+      "title_ko": "바론 듀러블 어드밴티지 펀드 2026년 2분기 주주 서한 (BDAFX)",
+      "snippet": "Baron Durable Advantage Fund gained 13.6% in Q2 2026, trailing the S&P 500's 15.2% rise. Read the full analysis for more details on current performance and AI investments.",
+      "snippet_ko": "바론 듀러블 어드밴티지 펀드는 2026년 2분기에 13.6%의 수익률을 기록했으나, S&P 500 지수의 15.2% 상승률에는 미치지 못했습니다. 현재 성과 및 AI 투자에 대한 자세한 내용은 전체 분석 보고서를 참조하십시오.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3083,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4943699-baron-durable-advantage-fund-q2-2026-shareholder-letter",
+      "cross_verified": true,
+      "published_at": "2026-09-08T07:20:00.000000Z"
+    },
+    {
+      "title": "Broadcom: Recent Earnings Confirm Why It's The AI Stock I Trust The Least (NASDAQ:AVGO)",
+      "title_ko": "브로드컴: 최근 실적 발표를 통해 이 회사가 내가 가장 신뢰하지 않는 AI 관련 주식인 이유가 확인됐다 (나스닥: AVGO)",
+      "snippet": "Broadcom's problem is not AI demand, but whether the quality and risk-adjusted value of that demand is deteriorating. Learn why AVGO stock is a hold.",
+      "snippet_ko": "브로드컴의 문제는 AI 수요 자체가 아니라, 그 수요의 질과 위험 조정 가치가 악화되고 있는지 여부입니다. AVGO 주식을 ‘보유’로 평가해야 하는 이유를 알아보세요.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.5106,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4943682-broadcom-stock-recent-earnings-confirm-why-its-the-ai-stock-i-trust-least",
+      "cross_verified": true,
+      "published_at": "2026-09-08T07:01:56.000000Z"
+    },
+    {
+      "title": "India eyes AI for next finance leap after digital payments boom",
+      "title_ko": "인도, 디지털 결제 붐에 이어 차세대 금융 도약을 위해 AI에 주목",
+      "snippet": "India prepares for an AI-driven financial revolution at the Global Fintech Fest, addressing risks and innovations in digital payments.",
+      "snippet_ko": "인도는 ‘글로벌 핀테크 페스트’에서 디지털 결제 분야의 위험 요인과 혁신을 다루며, AI 주도 금융 혁명을 준비하고 있다.",
+      "symbol": "V",
+      "sentiment_score": 0.1779,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/india-eyes-ai-for-next-finance-leap-after-digital-payments-boom/article71442094.ece",
+      "cross_verified": true,
+      "published_at": "2026-09-08T10:24:06.000000Z"
+    },
+    {
+      "title": "Tesla Stock: Elon Is Going For The Robotaxi Moonshot (NASDAQ:TSLA)",
+      "title_ko": "테슬라 주가: 일론, 로봇택시라는 대담한 도전에 나선다 (나스닥:TSLA)",
+      "snippet": "Tesla's automotive business funds and accelerates a flywheel of software-defined hardware and real-world AI. Find out why TSLA stock is a strong buy.",
+      "snippet_ko": "테슬라의 자동차 사업은 소프트웨어 정의 하드웨어와 실생활 적용 AI의 선순환 구조를 뒷받침하고 가속화합니다. TSLA 주식을 강력히 매수해야 하는 이유를 확인해 보세요.",
+      "symbol": "TSLA",
+      "sentiment_score": 0.436,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4943738-tesla-elon-is-going-for-the-robotaxi-moonshot",
+      "cross_verified": true,
+      "published_at": "2026-09-08T10:21:28.000000Z"
+    },
     {
       "title": "Market Open: Rising oil prices putting pressure on ASX this morning",
       "title_ko": "장 개장: 오늘 아침 유가 상승이 ASX에 압박을 주고 있다",
