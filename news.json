@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-07T22:42:17.452544+00:00",
+  "updated_at": "2026-09-08T04:04:33.218497+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Matson: Better Fundamentals, Limited Upside After The Rally (NYSE:MATX)",
+      "title_ko": "매트슨: 펀더멘털은 개선되었으나, 랠리 이후 상승 여력은 제한적 (NYSE:MATX)",
+      "snippet": "Matson's fundamentals have improved, driven by China's recovery and stronger Ocean Transportation profitability. Read more on MATX stock here.",
+      "snippet_ko": "중국의 경기 회복과 해상 운송 부문의 수익성 개선에 힘입어 매트슨(Matson)의 기초 실적이 개선되었습니다. MATX 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.3634,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4943651-matson-stock-better-fundamentals-limited-upside-after-rally",
+      "cross_verified": true,
+      "published_at": "2026-09-08T02:40:20.000000Z"
+    },
+    {
+      "title": "A Navy Contract And A Cash Cushion Reshape Hyliion’s (HYLN) Story",
+      "title_ko": "해군 계약과 여유 자금, 하이리온(HYLN)의 전망을 새롭게 그리다",
+      "snippet": "On August 11, Hyliion Holdings Corp.",
+      "snippet_ko": "8월 11일, Hyliion Holdings Corp.",
+      "symbol": "",
+      "sentiment_score": 0.6124,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/a-navy-contract-and-a-cash-cushion-reshape-hyliions-hyln-story-1829742/",
+      "cross_verified": true,
+      "published_at": "2026-09-08T02:38:37.000000Z"
+    },
+    {
+      "title": "Matthews International (MATW) Cuts Its Outlook While Chasing A Battery Future",
+      "title_ko": "매튜스 인터내셔널(MATW), 배터리 사업 확장에 힘쓰는 가운데 실적 전망 하향 조정",
+      "snippet": "On August 6, Matthews International (NASDAQ:MATW) delivered fiscal third-quarter results that read as two different companies stapled together.",
+      "snippet_ko": "8월 6일, 매튜스 인터내셔널(NASDAQ:MATW)은 마치 서로 다른 두 회사가 억지로 합쳐진 듯한 제3분기 실적 보고서를 발표했다.",
+      "symbol": "",
+      "sentiment_score": -0.148,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/matthews-international-matw-cuts-its-outlook-while-chasing-a-battery-future-1829743/",
+      "cross_verified": true,
+      "published_at": "2026-09-08T02:33:00.000000Z"
+    },
     {
       "title": "Mission Produce Q3 2026 Earnings Preview (NASDAQ:AVO)",
       "title_ko": "미션 프로듀스 2026년 3분기 실적 전망 (나스닥: AVO)",
@@ -280,6 +316,18 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Market Open: Rising oil prices putting pressure on ASX this morning",
+      "title_ko": "장 개장: 오늘 아침 유가 상승이 ASX에 압박을 주고 있다",
+      "snippet": "Rising Middle East tensions are putting pressure on world markets with the ASX forecast to open lower this morning.",
+      "snippet_ko": "중동 지역의 긴장이 고조되면서 세계 시장에 압박을 가하고 있는 가운데, 오늘 아침 ASX는 하락세로 출발할 것으로 전망됩니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.0904,
+      "source": "themarketherald.com.au",
+      "url": "https://themarketonline.com.au/market-open-rising-oil-prices-putting-pressure-on-asx-this-morning-2026-09-08/",
+      "cross_verified": true,
+      "published_at": "2026-09-07T22:48:49.000000Z"
+    },
     {
       "title": "Broadcom’s AI Forecast Suggests Hyperscalers Want More Than Just Nvidia GPUs",
       "title_ko": "브로드컴의 AI 전망에 따르면, 하이퍼스케일러들은 엔비디아 GPU 이상의 것을 원하고 있는 것으로 보인다",
