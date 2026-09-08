@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-08T20:59:19.010325+00:00",
+  "updated_at": "2026-09-08T23:58:11.381890+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Newell Brands Inc. (NWL) Presents at Barclays 19th Annual Global Consumer Staples Conference Transcript",
+      "title_ko": "뉴웰 브랜즈(Newell Brands Inc., NWL)의 바클레이즈 제19회 연례 글로벌 필수소비재 컨퍼런스 발표 전문",
+      "snippet": "Newell Brands Inc. (NWL) Barclays 19th Annual Global Consumer Staples Conference September 8, 2026 4:30 PM EDTCompany ParticipantsChristopher Peterson -...",
+      "snippet_ko": "뉴웰 브랜즈(Newell Brands Inc., NWL), 바클레이즈 제19회 연례 글로벌 필수소비재 컨퍼런스, 2026년 9월 8일 오후 4시 30분(EDT) 참가 기업 대표 크리스토퍼 피터슨 -...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4944080-newell-brands-inc-nwl-presents-at-barclays-19th-annual-global-consumer-staples-conference",
+      "cross_verified": true,
+      "published_at": "2026-09-08T23:05:29.000000Z"
+    },
+    {
+      "title": "BrasilAgro - Companhia Brasileira de Propriedades Agrícolas 2026 Q4 - Results - Earnings Call Presentation (NYSE:LND) 2026-09-08",
+      "title_ko": "BrasilAgro - 브라질 농업 자산 회사 2026년 4분기 실적 - 실적 발표 설명자료 (NYSE:LND) 2026-09-08",
+      "snippet": "2026-09-08. The following slide deck was published by BrasilAgro - Companhia Brasileira de Propriedades Agrícolas in conjunction with their 2026 Q4 earnings...",
+      "snippet_ko": "2026년 9월 8일. 다음 슬라이드 자료는 BrasilAgro(Companhia Brasileira de Propriedades Agrícolas)가 2026년 4분기 실적 발표와 함께 공개한 것입니다...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4944098-brasilagro-companhia-brasileira-de-propriedades-agricolas-2026-q4-results-earnings-call",
+      "cross_verified": true,
+      "published_at": "2026-09-08T23:01:12.000000Z"
+    },
+    {
+      "title": "Nike: 12-Year Low, 4%+ Yield, But The Stock Still Isn't Cheap (NYSE:NKE)",
+      "title_ko": "나이키: 12년 만에 최저치, 배당수익률 4% 이상… 하지만 주가는 여전히 저렴하지 않다 (NYSE:NKE)",
+      "snippet": "Nike looks overvalued despite a 50% drop as margins and sales weaken, raising dividend-cut risk; see key threats and downside targets. Click for more on NKE.",
+      "snippet_ko": "마진과 매출이 약세를 보이며 주가가 50%나 하락했음에도 나이키는 여전히 고평가된 것으로 보이며, 이로 인해 배당금 삭감 위험이 커지고 있다. 주요 위험 요인과 하락 목표가를 확인해 보십시오. NKE에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": -0.2732,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4944057-nike-12-year-low-4-percent-plus-yield-but-the-stock-still-isnt-cheap",
+      "cross_verified": true,
+      "published_at": "2026-09-08T23:00:12.000000Z"
+    },
     {
       "title": "Micron’s Crash May Set Up Another Leg Higher (NASDAQ:MU)",
       "title_ko": "마이크론의 급락이 추가 상승 국면을 마련할 수도 있다 (NASDAQ:MU)",
@@ -400,6 +436,18 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Amazon accused of firing pregnant workers who sought chairs, breaks and other accommodations: lawsuit",
+      "title_ko": "아마존, 의자 제공·휴식 시간 보장 등 편의 조치를 요청한 임산부 직원들을 해고했다는 혐의로 고소당해",
+      "snippet": "The lawsuit claims Amazon fired pregnant workers after medical appointments, emergency room visits and lactation breaks depleted their unpaid time off.",
+      "snippet_ko": "소송에 따르면, 아마존은 임산부 직원들이 진료 예약, 응급실 방문 및 수유 휴가로 인해 무급 휴가 일수가 소진되자 해고했다고 한다.",
+      "symbol": "AMZN",
+      "sentiment_score": -0.6808,
+      "source": "video.foxbusiness.com",
+      "url": "https://www.foxbusiness.com/lifestyle/amazon-accused-punishing-pregnant-workers-who-sought-chairs-breaks-other-accommodations-lawsuit",
+      "cross_verified": true,
+      "published_at": "2026-09-08T21:56:28.000000Z"
+    },
     {
       "title": "Alphabet Inc. (GOOGL) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript",
       "title_ko": "알파벳(Alphabet Inc., GOOGL), 골드만삭스 ‘커뮤니코피아 + 테크놀로지 컨퍼런스 2026’에서 발표: 발표록",
