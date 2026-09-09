@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-09T11:05:22.552132+00:00",
+  "updated_at": "2026-09-09T16:21:50.166990+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Signet Jewelers Limited (SIG) Q2 2027 Earnings Call Transcript",
+      "title_ko": "시그넷 주얼러스 리미티드(SIG) 2027년 2분기 실적 발표 전화 회의 기록",
+      "snippet": "Signet Jewelers Limited (SIG) Q2 2027 Earnings Call September 9, 2026 8:30 AM EDTCompany ParticipantsRobert Ballew - Senior Vice President of Investor...",
+      "snippet_ko": "시그넷 주얼러스 리미티드(SIG) 2027년 2분기 실적 발표 전화 회의, 2026년 9월 9일 오전 8시 30분(EDT) 회사 참석자: 로버트 발루 - 투자자 관계 담당 수석 부사장...",
+      "symbol": "",
+      "sentiment_score": 0.4259,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4944405-signet-jewelers-limited-sig-q2-2027-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-09-09T15:57:12.000000Z"
+    },
+    {
+      "title": "The Clorox Company (CLX) Presents at Barclays 19th Annual Global Consumer Staples Conference Transcript",
+      "title_ko": "클로록스(CLX)의 ‘바클레이즈 제19회 연례 글로벌 필수소비재 컨퍼런스’ 발표 전문",
+      "snippet": "The Clorox Company (CLX) Barclays 19th Annual Global Consumer Staples Conference September 9, 2026 9:00 AM EDTCompany ParticipantsLinda Rendle - CEO &...",
+      "snippet_ko": "클로록스(CLX), 바클레이즈 제19회 연례 글로벌 필수소비재 컨퍼런스, 2026년 9월 9일 오전 9:00 (EDT) 참가 기업 대표: 린다 렌들 - CEO 겸...",
+      "symbol": "",
+      "sentiment_score": 0.3548,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4944400-the-clorox-company-clx-presents-at-barclays-19th-annual-global-consumer-staples-conference",
+      "cross_verified": true,
+      "published_at": "2026-09-09T15:57:10.000000Z"
+    },
+    {
+      "title": "MetLife, Inc. (MET) Presents at KBW Insurance Conference 2026 Transcript",
+      "title_ko": "메트라이프(MetLife, Inc., MET)의 ‘KBW 보험 컨퍼런스 2026’ 발표 전문",
+      "snippet": "MetLife, Inc. (MET) KBW Insurance Conference 2026 September 9, 2026 9:15 AM EDTCompany ParticipantsMichel Khalaf - CEO, President & DirectorJohn...",
+      "snippet_ko": "메트라이프(MetLife, Inc.) (MET) KBW 보험 컨퍼런스 2026 2026년 9월 9일 오전 9시 15분 (EDT) 참석 임원 미셸 칼라프 - CEO, 사장 겸 이사 존...",
+      "symbol": "",
+      "sentiment_score": 0.3548,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4944427-metlife-inc-met-presents-at-kbw-insurance-conference-2026-transcript",
+      "cross_verified": true,
+      "published_at": "2026-09-09T15:57:09.000000Z"
+    },
     {
       "title": "Danske Bank A/S, transactions by persons discharging managerial responsibilities",
       "title_ko": "Danske Bank A/S, 경영 책임자들에 의한 거래",
@@ -472,6 +508,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Meta shares are still cheap and worth buying. Here's why",
+      "title_ko": "메타 주가는 여전히 저렴하며 매수할 가치가 있습니다. 그 이유는 다음과 같습니다.",
+      "snippet": "Meta's new model and personal agent app showcase the hidden value inside the social media giant.",
+      "snippet_ko": "메타의 새로운 모델과 개인 비서 앱은 이 소셜 미디어 거대 기업 안에 숨겨진 가치를 보여준다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3791,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/09/meta-shares-are-still-cheap-and-worth-buying-heres-why.html",
+      "cross_verified": true,
+      "published_at": "2026-09-09T15:37:56.000000Z"
+    },
+    {
+      "title": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up",
+      "title_ko": "AMD, CFO가 AI 칩 시장 전망치를 3조 달러로 상향 조정하며 3% 상승… 인텔은 소폭 상승",
+      "snippet": "AMD's CFO just reshaped how big the AI chip market could get, and investors sent the stock surging past a key technical level while quietly slamming a door on one of Intel's biggest hopes.",
+      "snippet_ko": "AMD의 최고재무책임자(CFO)가 AI 칩 시장의 잠재적 규모에 대한 전망을 새롭게 제시하자, 투자자들은 주가를 주요 기술적 저항선을 넘어 치솟게 만들었으며, 동시에 인텔의 가장 큰 희망 중 하나에 조용히 종지부를 찍었다.",
+      "symbol": "INTC",
+      "sentiment_score": 0.2631,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-rises-3-cfo-lifts-144521803.html",
+      "cross_verified": true,
+      "published_at": "2026-09-09T14:45:21.000000Z"
+    },
+    {
+      "title": "A $2,000 iPhone Duo gives John Ternus his Steve Jobs moment",
+      "title_ko": "2,000달러짜리 아이폰 듀오가 존 테르누스에게 ‘스티브 잡스 같은 순간’을 선사했다",
+      "snippet": "In John Ternus as CEO, Apple marks a return to the “product guy” heritage of Steve Jobs, something that many will welcome.",
+      "snippet_ko": "애플은 존 테르누스를 CEO로 선임함으로써 스티브 잡스의 ‘제품 전문가’ 전통으로의 회귀를 알렸으며, 이는 많은 이들이 반길 만한 일입니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.0786,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/opinion/online-views/a-2-000-iphone-duo-gives-john-ternus-his-steve-jobs-moment-11788962771319.html",
+      "cross_verified": true,
+      "published_at": "2026-09-09T14:42:32.000000Z"
+    },
     {
       "title": "Apple’s (AAPL) “Surprise and Shine” Event Tests Its Foldable iPhone Against Huawei and Xiaomi",
       "title_ko": "애플(AAPL)의 ‘Surprise and Shine’ 행사, 화웨이와 샤오미와 맞서 접이식 아이폰을 선보이다",
