@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-08T23:58:11.381890+00:00",
+  "updated_at": "2026-09-09T04:28:43.461136+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Headwater Exploration-Tamarack Valley Combination: Something For Everybody (CDDRF)",
+      "title_ko": "헤드워터 익스플로레이션-타마락 밸리 합동 공연: 모두를 위한 무대 (CDDRF)",
+      "snippet": "Headwater-Tamarack merger creates mature Tamarack Valley plus spun-off Tributary Exploration startup.",
+      "snippet_ko": "헤드워터와 타마랙의 합병으로 성숙한 타마랙 밸리가 탄생하고, 분사된 신생 기업 트리뷰터리 익스플로레이션이 설립되었다.",
+      "symbol": "",
+      "sentiment_score": 0.4417,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4944132-headwater-exploration-tamarack-valley-combination-something-for-everybody",
+      "cross_verified": true,
+      "published_at": "2026-09-09T03:14:23.000000Z"
+    },
+    {
+      "title": "JPMorgan, Jane Street probes show India scrutinizing Wall Street traders",
+      "title_ko": "JPMorgan과 제인 스트리트에 대한 조사 결과, 인도가 월가 트레이더들을 면밀히 조사하고 있음이 드러났다",
+      "snippet": "Sebi has signaled internally that it is getting more proactive in examining transactions by domestic and international traders as part of an effort to protect retail investors",
+      "snippet_ko": "세비(Sebi)는 소매 투자자를 보호하기 위한 노력의 일환으로, 국내외 거래자들의 거래 내역을 더욱 적극적으로 검토하고 있다는 점을 내부적으로 시사했다.",
+      "symbol": "",
+      "sentiment_score": 0.6293,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/markets/news/jpmorgan-jane-street-probes-show-india-scrutinizing-wall-street-traders-126090900147_1.html",
+      "cross_verified": true,
+      "published_at": "2026-09-09T03:13:33.000000Z"
+    },
     {
       "title": "Newell Brands Inc. (NWL) Presents at Barclays 19th Annual Global Consumer Staples Conference Transcript",
       "title_ko": "뉴웰 브랜즈(Newell Brands Inc., NWL)의 바클레이즈 제19회 연례 글로벌 필수소비재 컨퍼런스 발표 전문",
@@ -436,6 +460,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Meta Limits Facebook and Instagram Access in New York",
+      "title_ko": "메타, 뉴욕에서 페이스북 및 인스타그램 접속 제한",
+      "snippet": "Meta limits Facebook and Instagram access to every other day in New York due to a data center moratorium, impacting local users.",
+      "snippet_ko": "메타는 데이터 센터 운영 중단 조치로 인해 뉴욕에서 페이스북과 인스타그램 접속을 격일로 제한하고 있으며, 이로 인해 현지 사용자들이 영향을 받고 있다.",
+      "symbol": "META",
+      "sentiment_score": -0.3818,
+      "source": "platformonomics.com",
+      "url": "https://platformonomics.com/2026/09/breaking-meta-announces-facebook-and-instagram-rationing-in-new-york-state-due-to-data-center-moratorium/",
+      "cross_verified": true,
+      "published_at": "2026-09-09T04:16:56.000000Z"
+    },
+    {
+      "title": "Wednesday’s HotCopper trends: PolarX, Resolution Minerals, Auric Mining and other daily topics",
+      "title_ko": "수요일 HotCopper 주요 동향: PolarX, Resolution Minerals, Auric Mining 및 기타 오늘의 화제",
+      "snippet": "With more than 600k average monthly users on the HotCopper forums, each and every discussion can move markets.",
+      "snippet_ko": "HotCopper 포럼의 월평균 이용자 수가 60만 명을 넘기 때문에, 그곳에서 오가는 모든 토론이 시장에 영향을 미칠 수 있습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.34,
+      "source": "themarketherald.com.au",
+      "url": "https://themarketonline.com.au/wednesdays-hotcopper-trends-polarx-resolution-minerals-auric-mining-and-other-daily-topics-2026-09-09/",
+      "cross_verified": true,
+      "published_at": "2026-09-09T02:58:17.000000Z"
+    },
+    {
+      "title": "Disney: The Period Of Underperformance Is Likely To End (Rating Upgrade) (NYSE:DIS)",
+      "title_ko": "디즈니: 부진한 실적이 지속되던 시기는 끝날 것으로 보인다 (투자의견 상향) (NYSE:DIS)",
+      "snippet": "Upgrade Disney to a Buy: strong Q3 results, operating leverage, bigger buybacks, and a discounted forward P/E suggest upside.",
+      "snippet_ko": "디즈니에 대한 투자의견을 ‘매수’로 상향 조정: 견조한 3분기 실적, 영업 레버리지, 확대된 자사주 매입, 그리고 할인된 예상 주가수익비율(P/E)이 상승 여력을 시사한다.",
+      "symbol": "DIS",
+      "sentiment_score": 0.4468,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4944127-disney-stock-period-of-underperformance-likely-to-end-rating-upgrade",
+      "cross_verified": true,
+      "published_at": "2026-09-09T02:41:26.000000Z"
+    },
     {
       "title": "Amazon accused of firing pregnant workers who sought chairs, breaks and other accommodations: lawsuit",
       "title_ko": "아마존, 의자 제공·휴식 시간 보장 등 편의 조치를 요청한 임산부 직원들을 해고했다는 혐의로 고소당해",
