@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-09T16:21:50.166990+00:00",
+  "updated_at": "2026-09-09T20:47:31.677125+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "US stocks today: US stocks retreat as oil crosses $100, yields rise ahead of inflation data",
+      "title_ko": "오늘 미국 증시: 유가 100달러 돌파, 인플레이션 지표 발표를 앞두고 채권 수익률 상승에 미국 증시 하락",
+      "snippet": "US stocks fell on Wednesday as Brent crude climbed above $100 a barrel, raising fresh inflation concerns and weighing on investor sentiment. The S&P 500, Nasdaq and Dow declined as Treasury yields rose ahead of key US inflation data. Markets are also weighing the possibility of a Federal Reserve rate hike next week.",
+      "snippet_ko": "수요일 미국 증시는 브렌트유 가격이 배럴당 100달러를 넘어섬에 따라 인플레이션에 대한 우려가 다시 고조되고 투자 심리가 위축되면서 하락세를 보였다. 주요 미국 인플레이션 지표 발표를 앞두고 국채 수익률이 상승하면서 S&P 500, 나스닥, 다우 지수가 모두 하락했다. 또한 시장은 다음 주 연방준비제도(Fed)의 금리 인상 가능성도 주시하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.3502,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-retreat-as-oil-crosses-100-yields-rise-ahead-of-inflation-data/articleshow/133983348.cms",
+      "cross_verified": true,
+      "published_at": "2026-09-09T20:14:36.000000Z"
+    },
+    {
+      "title": "Barings BDC: This BDC Should Not Trade At A 19% NAV Discount (NYSE:BBDC)",
+      "title_ko": "Barings BDC: 이 BDC는 순자산가치 대비 19% 할인된 가격에 거래되어서는 안 된다 (NYSE:BBDC)",
+      "snippet": "Barings BDC remains a Strong Buy due to robust asset quality, full dividend coverage, and an unjustified 19% discount to NAV. Read more on BBDC stock here.",
+      "snippet_ko": "Barings BDC는 탄탄한 자산 건전성, 배당금 전액 충당 가능성, 그리고 순자산가치(NAV) 대비 19%라는 부당한 할인율 덕분에 여전히 ‘강력 매수’ 추천을 받고 있습니다. BBDC 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.2202,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4944617-barings-bdc-this-bdc-should-not-trade-at-a-19-percent-nav-discount",
+      "cross_verified": true,
+      "published_at": "2026-09-09T20:10:44.000000Z"
+    },
+    {
+      "title": "[DowJonesToday]Dow Jones Slumps as Inflation Concerns Weigh on Market Sentiment",
+      "title_ko": "[DowJonesToday] 인플레이션 우려가 시장 심리에 부담을 주며 다우존스 지수 급락",
+      "snippet": "The Dow Jones Industrial Average (^DJI) was down 405.41 (-0.7680%) points today, Wednesday, September 9th, 2026, closing at 52,380.66. Market sentiment was",
+      "snippet_ko": "2026년 9월 9일 수요일, 다우존스 산업평균지수(^DJI)는 405.41포인트(-0.7680%) 하락하여 52,380.66으로 장을 마감했다. 시장 심리는",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/dowjonestodaydow-jones-slumps-as-inflation-concerns-weigh-on-market-sentiment-4/71600/",
+      "cross_verified": true,
+      "published_at": "2026-09-09T20:09:08.000000Z"
+    },
     {
       "title": "Signet Jewelers Limited (SIG) Q2 2027 Earnings Call Transcript",
       "title_ko": "시그넷 주얼러스 리미티드(SIG) 2027년 2분기 실적 발표 전화 회의 기록",
@@ -508,6 +544,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Market Stagnates as Investors Await Inflation Data; Meta Platforms Surges",
+      "title_ko": "투자자들이 인플레이션 지표를 기다리는 가운데 시장 정체… 메타 플랫폼스 급등",
+      "snippet": "The U.S. stock market experienced a day of cautious, range-bound trading on Wednesday, September 9th, 2026. Investors appeared to be in a",
+      "snippet_ko": "2026년 9월 9일 수요일, 미국 증시는 신중한 분위기 속에서 횡보세를 보이며 장을 마쳤다. 투자자들은",
+      "symbol": "AMZN",
+      "sentiment_score": 0.3473,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/market-stagnates-as-investors-await-inflation-data-meta-platforms-surges/71599/",
+      "cross_verified": true,
+      "published_at": "2026-09-09T20:07:12.000000Z"
+    },
+    {
+      "title": "Broadcom: Wall Street’s Margin Fallacy Expands Bulls' Alpha (NASDAQ:AVGO)",
+      "title_ko": "브로드컴: 월스트리트의 마진 오판이 강세론자들의 알파를 확대하고 있다 (나스닥: AVGO)",
+      "snippet": "Broadcom is a Strong Buy, with a solid price point for bulls given its AI infrastructure leadership and robust forward pipeline. Read more on AVGO stock here.",
+      "snippet_ko": "브로드컴은 AI 인프라 분야의 선도적 입지와 탄탄한 향후 사업 파이프라인을 고려할 때, 강세 투자자들에게 매력적인 가격대를 형성하고 있어 ‘강력 매수’ 추천 종목입니다. AVGO 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.0513,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4944590-broadcom-wall-streets-margin-fallacy-expands-bulls-alpha",
+      "cross_verified": true,
+      "published_at": "2026-09-09T19:27:33.000000Z"
+    },
+    {
+      "title": "Market Sentiment Cools as Energy and Commodities Rally Amid Broader Index Slump",
+      "title_ko": "광범위한 지수 하락 속 에너지 및 원자재 가격 상승에 시장 심리가 냉각되고 있다",
+      "snippet": "U.S. equity markets experienced a wave of selling pressure during Wednesday’s afternoon trading session, as investors grappled with shifting economic",
+      "snippet_ko": "수요일 오후 거래 시간 동안 투자자들이 변화하는 경제 상황에 대응하느라 고심하면서 미국 주식 시장은 매도 압력이 몰아쳤다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2289,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/market-sentiment-cools-as-energy-and-commodities-rally-amid-broader-index-slump/71597/",
+      "cross_verified": true,
+      "published_at": "2026-09-09T18:07:14.000000Z"
+    },
     {
       "title": "Meta shares are still cheap and worth buying. Here's why",
       "title_ko": "메타 주가는 여전히 저렴하며 매수할 가치가 있습니다. 그 이유는 다음과 같습니다.",
