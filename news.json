@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-09T04:28:43.461136+00:00",
+  "updated_at": "2026-09-09T11:05:22.552132+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Danske Bank A/S, transactions by persons discharging managerial responsibilities",
+      "title_ko": "Danske Bank A/S, 경영 책임자들에 의한 거래",
+      "snippet": "9 September 2026",
+      "snippet_ko": "2026년 9월 9일",
+      "symbol": "",
+      "sentiment_score": 0.3454,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/09/tmt-newswire/globenewswire/danske-bank-as-transactions-by-persons-discharging-managerial-responsibilities/2421333",
+      "cross_verified": true,
+      "published_at": "2026-09-09T10:27:21.000000Z"
+    },
     {
       "title": "Headwater Exploration-Tamarack Valley Combination: Something For Everybody (CDDRF)",
       "title_ko": "헤드워터 익스플로레이션-타마락 밸리 합동 공연: 모두를 위한 무대 (CDDRF)",
@@ -460,6 +472,66 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Apple’s (AAPL) “Surprise and Shine” Event Tests Its Foldable iPhone Against Huawei and Xiaomi",
+      "title_ko": "애플(AAPL)의 ‘Surprise and Shine’ 행사, 화웨이와 샤오미와 맞서 접이식 아이폰을 선보이다",
+      "snippet": "Wall Street sees Apple Inc. (NASDAQ:AAPL) entering a significant hardware cycle ahead of its “Surprise and Shine” event streaming live on Wednesday, September 9, 2026. Bank of America, in particular, expects a broad slate of new Apple devices led by new iPhones and a Foldable iPhone. On September 8, BofA Securities analyst Wamsi Mohan reiterated a […]",
+      "snippet_ko": "월스트리트는 2026년 9월 9일 수요일 생중계될 ‘Surprise and Shine’ 행사를 앞두고 애플(NASDAQ:AAPL)이 중요한 하드웨어 주기에 접어들 것으로 전망하고 있다. 특히 뱅크 오브 아메리카는 신형 아이폰과 폴더블 아이폰을 필두로 한 다양한 신제품 라인업이 공개될 것으로 예상하고 있다. 9월 8일, 뱅크오브아메리카 증권의 애널리스트 왐시 모한은 […]을 재확인했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.374,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/articles/apple-aapl-surprise-shine-event-101521233.html",
+      "cross_verified": true,
+      "published_at": "2026-09-09T10:15:21.000000Z"
+    },
+    {
+      "title": "Tech Sector Drags on Markets as Investors Await Key Economic Data",
+      "title_ko": "투자자들이 주요 경제 지표를 기다리는 가운데, 기술주가 시장 하락을 이끌고 있다",
+      "snippet": "U.S. stock futures and premarket activity indicate a cautious start for Wall Street on Wednesday, September 9th, 2026. Following a period of heightened",
+      "snippet_ko": "미국 주식 선물과 장전 거래 동향을 보면, 2026년 9월 9일 수요일 월스트리트는 신중한 출발을 보일 것으로 보인다. 한동안 고조된",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4024,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-sector-drags-on-markets-as-investors-await-key-economic-data/71568/",
+      "cross_verified": true,
+      "published_at": "2026-09-09T10:07:13.000000Z"
+    },
+    {
+      "title": "Can Micron Catch Up to Nvidia's $5.5 Trillion Market Cap?",
+      "title_ko": "마이크론이 엔비디아의 5.5조 달러 시가총액을 따라잡을 수 있을까?",
+      "snippet": "The memory-chip maker might now occupy a more valuable bottleneck position in the AI build-out than Nvidia.",
+      "snippet_ko": "이 메모리 칩 제조사는 이제 AI 인프라 구축 과정에서 엔비디아보다 더 중요한 병목 지점을 차지할 수도 있다.",
+      "symbol": "AVGO",
+      "sentiment_score": -0.0357,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-catch-nvidias-5-5-100700144.html",
+      "cross_verified": true,
+      "published_at": "2026-09-09T10:07:00.000000Z"
+    },
+    {
+      "title": "This Is the Fintech Stock I'd Buy Next, and Soon",
+      "title_ko": "이것이 바로 제가 조만간 매수할 핀테크 주식입니다",
+      "snippet": "SoFi Technologies' recent pullback makes sense, but it overlooks a slew of bullish signs.",
+      "snippet_ko": "SoFi Technologies의 최근 주가 조정은 타당해 보이지만, 수많은 강세 신호들을 간과하고 있다.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.1368,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fintech-stock-id-buy-next-103000944.html",
+      "cross_verified": true,
+      "published_at": "2026-09-09T10:30:00.000000Z"
+    },
+    {
+      "title": "How Much Longer Can the Current Bull Market Last? History Provides a Clear Answer.",
+      "title_ko": "현재의 강세장은 얼마나 더 지속될 수 있을까? 역사가 명확한 답을 제시한다.",
+      "snippet": "The current bull market is approaching its fourth anniversary.",
+      "snippet_ko": "현재의 강세장은 4주년을 맞이하고 있다.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.296,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/much-longer-current-bull-market-102300486.html",
+      "cross_verified": true,
+      "published_at": "2026-09-09T10:23:00.000000Z"
+    },
     {
       "title": "Meta Limits Facebook and Instagram Access in New York",
       "title_ko": "메타, 뉴욕에서 페이스북 및 인스타그램 접속 제한",
