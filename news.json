@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-09T20:47:31.677125+00:00",
+  "updated_at": "2026-09-09T23:59:19.454346+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Teradyne, Inc. (TER) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript",
+      "title_ko": "테라다인(Teradyne, Inc., TER), 골드만삭스 ‘커뮤니코피아 + 테크놀로지 컨퍼런스 2026’에서 발표: 발표록",
+      "snippet": "Teradyne, Inc. (TER) Goldman Sachs Communacopia + Technology Conference 2026 September 9, 2026 4:45 PM EDTCompany ParticipantsGregory Smith - President, CEO...",
+      "snippet_ko": "테라다인(Teradyne, Inc.) (TER) 골드만삭스 ‘커뮤니코피아 + 테크놀로지 컨퍼런스 2026’ 2026년 9월 9일 오후 4시 45분(EDT) 참가 임원 그레고리 스미스 - 사장 겸 CEO...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4944716-teradyne-inc-ter-presents-at-goldman-sachs-communacopia-technology-conference-2026-transcript",
+      "cross_verified": true,
+      "published_at": "2026-09-09T23:37:04.000000Z"
+    },
     {
       "title": "US stocks today: US stocks retreat as oil crosses $100, yields rise ahead of inflation data",
       "title_ko": "오늘 미국 증시: 유가 100달러 돌파, 인플레이션 지표 발표를 앞두고 채권 수익률 상승에 미국 증시 하락",
@@ -544,6 +556,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "The Coca-Cola Company (KO) Presents at Barclays 19th Annual Global Consumer Staples Conference Transcript",
+      "title_ko": "코카콜라 컴퍼니(KO), 바클레이즈 제19회 연례 글로벌 필수소비재 컨퍼런스에서 발표: 회의록",
+      "snippet": "The Coca-Cola Company (KO) Barclays 19th Annual Global Consumer Staples Conference September 9, 2026 11:15 AM EDTCompany ParticipantsHenrique Braun - CEO...",
+      "snippet_ko": "코카콜라 컴퍼니(KO) 바클레이즈 제19회 연례 글로벌 필수소비재 컨퍼런스 2026년 9월 9일 오전 11시 15분(EDT) 참가 기업 대표 헨리크 브라운 - CEO...",
+      "symbol": "KO",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4944498-the-coca-cola-company-ko-presents-at-barclays-19th-annual-global-consumer-staples-conference",
+      "cross_verified": true,
+      "published_at": "2026-09-09T23:27:06.000000Z"
+    },
+    {
+      "title": "Apple: The $2,000 iPhone Changes The Investment Case (NASDAQ:AAPL)",
+      "title_ko": "애플: 2,000달러짜리 아이폰이 투자 전망을 바꾼다 (나스닥:AAPL)",
+      "snippet": "Apple Inc. is rated Strong Buy with a $372 target. Click for this AAPL update following the iPhone launch event.",
+      "snippet_ko": "애플(Apple Inc.)은 ‘강력 매수(Strong Buy)’ 등급을 받았으며, 목표 주가는 372달러입니다. 아이폰 출시 행사 이후 발표된 AAPL 관련 최신 소식을 보려면 여기를 클릭하세요.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3922,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4944722-apple-the-2000-iphone-changes-the-investment-case",
+      "cross_verified": true,
+      "published_at": "2026-09-09T23:19:02.000000Z"
+    },
+    {
+      "title": "Market Open: Oil over US$100 per barrel after further Middle East unrest",
+      "title_ko": "시장 개장: 중동 지역 추가 불안으로 원유 가격 배럴당 100달러 돌파",
+      "snippet": "Wall Street was again down after oil surged further overnight with Brent hitting over US$100 per barrel this morning.",
+      "snippet_ko": "밤사이 유가가 추가로 급등해 오늘 아침 브렌트유 가격이 배럴당 100달러를 넘어선 가운데, 월가 증시는 다시 하락세를 보였다.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.3113,
+      "source": "themarketherald.com.au",
+      "url": "https://themarketonline.com.au/market-open-oil-over-us100-per-barrel-after-further-middle-east-unrest-2026-09-10/",
+      "cross_verified": true,
+      "published_at": "2026-09-09T22:46:36.000000Z"
+    },
     {
       "title": "Market Stagnates as Investors Await Inflation Data; Meta Platforms Surges",
       "title_ko": "투자자들이 인플레이션 지표를 기다리는 가운데 시장 정체… 메타 플랫폼스 급등",
