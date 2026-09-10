@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-10T16:12:16.492510+00:00",
+  "updated_at": "2026-09-10T20:42:26.927842+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Adamas Trust Declares Third Quarter 2026 Preferred Stock Dividends",
+      "title_ko": "아다마스 트러스트, 2026년 3분기 우선주 배당금 지급 발표",
+      "snippet": "NEW YORK, Sept. 10, 2026 (GLOBE NEWSWIRE) -- Adamas Trust, Inc. (Nasdaq: ADAM) (the 'Company” or 'Adamas”) announced today that its Board of Directors (the 'Board”) declared cash dividends on the Company’s 8.000% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ('Series D Preferred Stock”), 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ('Series E Preferred Stock”), 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ('Series F Preferred Stock”) and 7.000% Series G Cumulative Redeemable Preferred Stock ('Series G Preferred Stock”) as stated below.",
+      "snippet_ko": "뉴욕, 2026년 9월 10일 (GLOBE NEWSWIRE) -- 아다마스 트러스트(Adamas Trust, Inc.)(나스닥: ADAM)(이하 ‘회사’ 또는 ‘아다마스’)는 오늘 이사회(이하 ‘이사회’)가 회사의 8.000% 시리즈 D 고정-변동 금리 누적 상환 가능 우선주 (이하 ‘D 시리즈 우선주’), 7.875% E 시리즈 고정-변동 금리 누적 상환 가능 우선주(이하 ‘E 시리즈 우선주’), 6.875% F 시리즈 고정-변동 금리 누적 상환 가능 우선주(이하 ‘F 시리즈 우선주’)에 대한 현금 배당을 결의했다고 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.743,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/11/tmt-newswire/globenewswire/adamas-trust-declares-third-quarter-2026-preferred-stock-dividends/2423021",
+      "cross_verified": true,
+      "published_at": "2026-09-10T20:10:25.000000Z"
+    },
+    {
+      "title": "XORTX Announces Initiation of Clinical and Commercial Manufacturing of XORLO™",
+      "title_ko": "XORTX, XORLO™의 임상 및 상용 생산 개시 발표",
+      "snippet": "● Contract manufacturing of GMP drug substance and commercial-scale tablets to support the XRX-OXY-102 clinical study and future US FDA marketing approval ●",
+      "snippet_ko": "● XRX-OXY-102 임상 연구 및 향후 미국 FDA 시판 승인을 지원하기 위한 GMP 의약품 원료 및 상용 규모 정제의 위탁 제조 ●",
+      "symbol": "",
+      "sentiment_score": 0.7003,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/11/tmt-newswire/globenewswire/xortx-announces-initiation-of-clinical-and-commercial-manufacturing-of-xorlo/2423019",
+      "cross_verified": true,
+      "published_at": "2026-09-10T20:10:19.000000Z"
+    },
+    {
+      "title": "Applied Materials Announces Cash Dividend",
+      "title_ko": "애플라이드 머티리얼즈, 현금 배당 발표",
+      "snippet": "SANTA CLARA, Calif., Sept. 10, 2026 (GLOBE NEWSWIRE) -- Applied Materials, Inc. today announced that its Board of Directors has approved a quarterly cash dividend of $0.53 per share payable on the company’s common stock. The dividend is payable on Dec. 10, 2026 to shareholders of record as of Nov. 19, 2026.",
+      "snippet_ko": "캘리포니아주 산타클라라, 2026년 9월 10일 (GLOBE NEWSWIRE) -- 애플라이드 머티리얼즈(Applied Materials, Inc.)는 오늘 이사회가 자사 보통주에 대해 주당 0.53달러의 분기별 현금 배당금을 승인했다고 발표했다. 이 배당금은 2026년 11월 19일 기준 주주명부에 등재된 주주들에게 2026년 12월 10일에 지급될 예정이다.",
+      "symbol": "",
+      "sentiment_score": 0.3994,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/11/tmt-newswire/globenewswire/applied-materials-announces-cash-dividend/2423018",
+      "cross_verified": true,
+      "published_at": "2026-09-10T20:10:15.000000Z"
+    },
     {
       "title": "WMT Looks 2.9% Overvalued on GF Value™ Amid Mixed Guru and Insider Activity",
       "title_ko": "전문가와 내부자의 움직임이 엇갈리는 가운데, GF Value™ 기준 WMT는 2.9% 과대평가된 것으로 나타남",
@@ -652,6 +688,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Tech Resilience and Earnings Anticipation: Markets Steady Ahead of Adobe Results",
+      "title_ko": "기술 기업의 회복력과 실적 기대감: 어도비 실적 발표를 앞두고 시장 안정세 유지",
+      "snippet": "U.S. equity markets remained remarkably resilient on Thursday, September 10th, 2026, as investors balanced fresh economic data against the backdrop of a",
+      "snippet_ko": "2026년 9월 10일 목요일, 미국 주식 시장은 투자자들이 새로운 경제 지표를 종합적으로 평가하는 가운데,",
+      "symbol": "META",
+      "sentiment_score": 0.342,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-resilience-and-earnings-anticipation-markets-steady-ahead-of-adobe-results/71644/",
+      "cross_verified": true,
+      "published_at": "2026-09-10T20:07:13.000000Z"
+    },
+    {
+      "title": "AMZN Looks 1.7% Overvalued on GF Value™ as Market Prices in Growth Despite Cash-Flow Challenges",
+      "title_ko": "현금 흐름에 어려움이 있음에도 시장이 성장성을 반영함에 따라, GF Value™ 기준 AMZN은 1.7% 과대평가된 것으로 보인다.",
+      "snippet": "On September 10, 2026, Amazon.com Inc (NASDAQ: AMZN) announced a $230 million investment to boost compensation and benefits for 100,000 Whole Foods employees, i",
+      "snippet_ko": "2026년 9월 10일, 아마존닷컴(Amazon.com Inc, 나스닥: AMZN)은 홀푸드(Whole Foods) 직원 10만 명의 급여 및 복리후생을 개선하기 위해 2억 3천만 달러를 투자하겠다고 발표했으며, i",
+      "symbol": "AMZN",
+      "sentiment_score": 0.613,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9075870/amzn-looks-17-overvalued-on-gf-value-as-market-prices-in-growth-despite-cashflow-challenges",
+      "cross_verified": true,
+      "published_at": "2026-09-10T19:55:29.000000Z"
+    },
+    {
+      "title": "Coca-Cola CEO says don’t chase ‘irrational’ pricing as Campa Cola goes ₹10",
+      "title_ko": "캄파 콜라 가격이 ₹10으로 오르자 코카콜라 CEO, ‘비이성적인’ 가격 책정을 쫓지 말라고 당부",
+      "snippet": "Coca-Cola will not overreact to rivals' pricing strategies in India. The company focuses on fundamentals like brands and revenue growth management. Reliance's Campa Cola has emerged as a significant challenger in the market. Newer entrants are increasing their market share with popular price points. Coca-Cola plans to boost marketing and distribution spending to compete.",
+      "snippet_ko": "코카콜라는 인도 시장에서 경쟁사들의 가격 전략에 과도하게 반응하지 않을 방침이다. 이 회사는 브랜드 및 매출 성장 관리와 같은 기본 요소에 주력하고 있다. 릴라이언스의 ‘캄파 콜라’가 시장에서 강력한 도전자로 부상했다. 신규 진입 업체들은 대중적인 가격대를 내세워 시장 점유율을 확대하고 있다. 코카콜라는 이에 대응하기 위해 마케팅 및 유통 비용을 늘릴 계획이다.",
+      "symbol": "KO",
+      "sentiment_score": -0.079,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/coca-cola-ceo-says-dont-chase-irrational-pricing-as-campa-cola-goes-10/articleshow/134027512.cms",
+      "cross_verified": true,
+      "published_at": "2026-09-10T19:27:46.000000Z"
+    },
     {
       "title": "AAPL Reiterated by TD Cowen -- Price Target Maintained at $400",
       "title_ko": "TD Cowen, AAPL에 대한 투자 의견을 재확인… 목표주가는 400달러로 유지",
