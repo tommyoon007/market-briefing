@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-10T11:01:48.364486+00:00",
+  "updated_at": "2026-09-10T16:12:16.492510+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "WMT Looks 2.9% Overvalued on GF Value™ Amid Mixed Guru and Insider Activity",
+      "title_ko": "전문가와 내부자의 움직임이 엇갈리는 가운데, GF Value™ 기준 WMT는 2.9% 과대평가된 것으로 나타남",
+      "snippet": "On September 10, 2026, Walmart Inc (WMT) launched a fashion pop-up store in New York City to coincide with New York Fashion Week, spotlighting its private label",
+      "snippet_ko": "2026년 9월 10일, 월마트(WMT)는 뉴욕 패션 위크에 맞춰 뉴욕시에 패션 팝업 스토어를 오픈하며 자사 자체 브랜드를 대대적으로 선보였다.",
+      "symbol": "",
+      "sentiment_score": 0.5061,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9075523/wmt-looks-29-overvalued-on-gf-value-amid-mixed-guru-and-insider-activity",
+      "cross_verified": true,
+      "published_at": "2026-09-10T16:00:39.000000Z"
+    },
+    {
+      "title": "KNX Initiates Coverage On by Bernstein -- Rating Set to Outperform",
+      "title_ko": "버나인, KNX에 대한 애널리시스 개시 -- ‘아웃퍼폼’ 등급 부여",
+      "snippet": "On October 23, 2023, Knight-Swift (KNX) received an \"Outperform\" rating from Bernstein. The firm has initiated coverage on the stock with a price target of $91.",
+      "snippet_ko": "2023년 10월 23일, 나이트-스위프트(KNX)는 번스타인으로부터 “아웃퍼폼(Outperform)” 등급을 받았다. 번스타인은 이 종목에 대한 분석을 시작하며 목표 주가를 91달러로 제시했다.",
+      "symbol": "",
+      "sentiment_score": 0.4215,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9075507/knx-initiates-coverage-on-by-bernstein-rating-set-to-outperform",
+      "cross_verified": true,
+      "published_at": "2026-09-10T16:00:21.000000Z"
+    },
+    {
+      "title": "NVS Looks 6.0% Overvalued on GF Value™ Amid Dividend Sustainability Concerns",
+      "title_ko": "배당 지속 가능성에 대한 우려가 제기되는 가운데, NVS는 GF Value™ 기준 6.0% 과대평가된 것으로 나타남",
+      "snippet": "On September 10, 2026, a major shareholder of Novartis AG (NYSE: NVS) called for a board overhaul following setbacks in two pivotal phase 3 drug trials. This de",
+      "snippet_ko": "2026년 9월 10일, 노바티스 AG(NYSE: NVS)의 한 대주주가 두 건의 핵심 3상 임상시험에서 차질을 빚은 것을 계기로 이사회 개편을 촉구했다. 이 결정은...",
+      "symbol": "",
+      "sentiment_score": 0.5679,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9075445/nvs-looks-60-overvalued-on-gf-value-amid-dividend-sustainability-concerns",
+      "cross_verified": true,
+      "published_at": "2026-09-10T16:00:09.000000Z"
+    },
     {
       "title": "Diageo: Realizing Value Will Take Time, But Value Is There (NYSE:DEO)",
       "title_ko": "디아지오: 가치 실현에는 시간이 걸리겠지만, 가치는 분명히 존재한다 (NYSE:DEO)",
@@ -616,6 +652,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "AAPL Reiterated by TD Cowen -- Price Target Maintained at $400",
+      "title_ko": "TD Cowen, AAPL에 대한 투자 의견을 재확인… 목표주가는 400달러로 유지",
+      "snippet": "Apple Inc. (AAPL) Analyst Rating Update - September 2026 On September 26, 2026, TD Cowen reiterated its Buy rating for Apple Inc. (AAPL). The price target re",
+      "snippet_ko": "애플(AAPL) 애널리스트 평가 업데이트 - 2026년 9월 2026년 9월 26일, TD Cowen은 애플(AAPL)에 대한 ‘매수(Buy)’ 투자의견을 재확인했다. 목표 주가는 재",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2553,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9075231/aapl-reiterated-by-td-cowen-price-target-maintained-at-400",
+      "cross_verified": true,
+      "published_at": "2026-09-10T14:35:41.000000Z"
+    },
+    {
+      "title": "iPhone Duo Threatens iPad Sales",
+      "title_ko": "아이폰 듀오, 아이패드 판매에 위협이 되고 있다",
+      "snippet": "Apple's new foldable iPhone carries a price tag that dwarfs the iPad mini, yet reviewers say it might make the tablet obsolete. Whether consumers agree could reshape which Apple products survive.",
+      "snippet_ko": "애플의 새로운 폴더블 아이폰은 아이패드 미니를 훨씬 능가하는 가격표를 달고 있지만, 평론가들은 이 제품이 태블릿을 구식으로 만들 수도 있다고 말한다. 소비자들이 이에 동의하느냐에 따라 어떤 애플 제품이 살아남을지가 결정될 수도 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.0197,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/iphone-duo-threatens-ipad-sales-143136953.html",
+      "cross_verified": true,
+      "published_at": "2026-09-10T14:31:36.000000Z"
+    },
+    {
+      "title": "Meta Platforms Agreed to Pay Up to $18 Billion and Set Some Limits for Younger Users. Is the Stock a Buy?",
+      "title_ko": "메타 플랫폼스(Meta Platforms)는 최대 180억 달러를 지불하고 미성년 사용자에 대한 일부 제한 조치를 도입하기로 합의했다. 이 주식은 매수할 만한가?",
+      "snippet": "The outcome of the lawsuit over teen social media addiction should have minimal impact on Meta's business.",
+      "snippet_ko": "청소년의 소셜 미디어 중독을 둘러싼 소송의 결과는 메타의 사업에 미미한 영향만을 미칠 것으로 보인다.",
+      "symbol": "META",
+      "sentiment_score": -0.0966,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-agreed-pay-18-143000368.html",
+      "cross_verified": true,
+      "published_at": "2026-09-10T14:30:00.000000Z"
+    },
     {
       "title": "Inside John Ternus' first Apple launch event as CEO: Foldable iPhone Duo, AI and more",
       "title_ko": "존 테르누스 CEO의 첫 애플 신제품 발표회 현장: 접이식 아이폰 2종, AI 등",
