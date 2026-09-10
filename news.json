@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-10T20:42:26.927842+00:00",
+  "updated_at": "2026-09-10T23:54:54.507130+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Frequency Electronics signals capacity expansion that could pull forward its $150M+ fiscal 2029 revenue target following $73M equity raise (NASDAQ:FEIM)",
+      "title_ko": "프리퀀시 일렉트로닉스(Frequency Electronics), 7,300만 달러 규모의 주식 발행 후 2029 회계연도 매출 목표인 1억 5,000만 달러 이상을 앞당길 수 있는 생산 능력 확대를 발표 (나스닥: FEIM)",
+      "snippet": "Frequency Electronics (FEIM) Q1 FY2027 earnings call: record revenue, rising margins, $129M backlog, and a $73M raise to scale space & defense growth—read...",
+      "snippet_ko": "프리퀀시 일렉트로닉스(FEIM) 2027 회계연도 1분기 실적 발표: 사상 최대 매출, 마진 상승, 1억 2,900만 달러 규모의 수주 잔고, 그리고 우주 및 방산 부문 성장 확대를 위한 7,300만 달러 규모의 자금 조달—자세히 보기...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4641885-frequency-electronics-signals-capacity-expansion-that-could-pull-forward-its-150m-fiscal-2029",
+      "cross_verified": true,
+      "published_at": "2026-09-10T23:27:56.000000Z"
+    },
+    {
+      "title": "Ibex forecasts FY2027 revenue of $700M-$715M as Sierra AI partnership scales (NASDAQ:IBEX)",
+      "title_ko": "이벡스(Ibex), 시에라 AI(Sierra AI)와의 파트너십 확대에 힘입어 2027 회계연도 매출 7억~7억 1,500만 달러 전망 (나스닥: IBEX)",
+      "snippet": "IBEX (IBEX) Q4 FY2026 earnings call recap: record revenue, Sierra AI agent rollout, Health Tech surge, and FY2027 guidance with margin outlook—read now.",
+      "snippet_ko": "IBEX(IBEX) 2026 회계연도 4분기 실적 발표 요약: 사상 최대 매출, 시에라 AI 에이전트 출시, 헬스테크 부문 급성장, 그리고 마진 전망을 포함한 2027 회계연도 실적 가이던스 — 지금 바로 읽어보세요.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4641884-ibex-forecasts-fy2027-revenue-of-700m-715m-as-sierra-ai-partnership-scales",
+      "cross_verified": true,
+      "published_at": "2026-09-10T23:27:51.000000Z"
+    },
+    {
+      "title": "Frequency Electronics, Inc. (FEIM) Q1 2027 Earnings Call Transcript",
+      "title_ko": "Frequency Electronics, Inc. (FEIM) 2027년 1분기 실적 발표 전화 회의 기록",
+      "snippet": "Frequency Electronics, Inc. (FEIM) Q1 2027 Earnings Call September 10, 2026 4:30 PM EDTCompany ParticipantsThomas McClelland - CEO, President &...",
+      "snippet_ko": "Frequency Electronics, Inc. (FEIM) 2027년 1분기 실적 발표 전화회의 2026년 9월 10일 오후 4시 30분 (EDT) 회사 참가자: 토마스 맥클렐랜드 - CEO, 사장 및...",
+      "symbol": "",
+      "sentiment_score": 0.3502,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4945278-frequency-electronics-inc-feim-q1-2027-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-09-10T23:27:08.000000Z"
+    },
     {
       "title": "Adamas Trust Declares Third Quarter 2026 Preferred Stock Dividends",
       "title_ko": "아다마스 트러스트, 2026년 3분기 우선주 배당금 지급 발표",
@@ -688,6 +724,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Apple (AAPL) Unveils iPhone Duo with AI Features Amid Market Movements",
+      "title_ko": "시장 변동 속에서 애플(AAPL), AI 기능을 탑재한 아이폰 두 모델 공개",
+      "snippet": "On September 10, 2026, Apple's stock (AAPL) rose by 3.56%, closing at $326.57 billion in trading. The company showcased its highly anticipated iPhone Duo foldab",
+      "snippet_ko": "2026년 9월 10일, 애플(AAPL) 주가는 3.56% 상승하여 3,265억 7천만 달러로 장을 마감했다. 이 회사는 많은 기대를 모았던 ‘아이폰 듀오’ 폴더블 폰을 공개했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2477,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9076204/apple-aapl-unveils-iphone-duo-with-ai-features-amid-market-movements",
+      "cross_verified": true,
+      "published_at": "2026-09-10T22:51:06.000000Z"
+    },
+    {
+      "title": "US Market Declines for Fourth Day Amid Rising Oil Prices and Inflation Concerns",
+      "title_ko": "유가 상승과 인플레이션 우려 속에 미국 증시, 4일 연속 하락",
+      "snippet": "On September 10, 2026, the US stock market faced its fourth consecutive day of declines, marking the longest losing streak since June. The S&P 500 fell by 0.6%,",
+      "snippet_ko": "2026년 9월 10일, 미국 증시는 4일 연속 하락세를 기록하며 6월 이후 가장 긴 하락세를 이어갔다. S&P 500 지수는 0.6% 하락했고,",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5435,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9076199/us-market-declines-for-fourth-day-amid-rising-oil-prices-and-inflation-concerns",
+      "cross_verified": true,
+      "published_at": "2026-09-10T22:50:25.000000Z"
+    },
+    {
+      "title": "Oil Jumped, Yields Followed, Stocks Held Together — CPI Decides the Next Move",
+      "title_ko": "유가가 급등했고, 채권 수익률도 뒤따랐으며, 주가는 비교적 안정세를 유지했다 — 다음 움직임은 소비자물가지수(CPI)에 달렸다",
+      "snippet": "The tape did exactly what it was supposed to do today. It just didn’t do it as violently as it could have.The S&P 500 closed at 7,591.70, down 0.6%. The Dow finished at 52,064.10, also down 0.6%. The Nasdaq dropped 0.7% to 26,081.72. That is four straight down days for…",
+      "snippet_ko": "오늘 증시는 예상대로 움직였습니다. 다만 예상보다 격렬한 움직임은 보이지 않았을 뿐입니다. S&P 500 지수는 0.6% 하락한 7,591.70으로 장을 마감했습니다. 다우 지수는 52,064.10으로 마감하며 역시 0.6% 하락했다. 나스닥 지수는 0.7% 하락한 26,081.72를 기록했다. 이는 4일 연속 하락세다…",
+      "symbol": "AAPL",
+      "sentiment_score": 0.1877,
+      "source": "upsidetrader.com",
+      "url": "https://www.upsidetrader.com/2026/09/10/oil-jumped-yields-followed-stocks-held-together-cpi-decides-the-next-move/",
+      "cross_verified": true,
+      "published_at": "2026-09-10T22:27:52.000000Z"
+    },
     {
       "title": "Tech Resilience and Earnings Anticipation: Markets Steady Ahead of Adobe Results",
       "title_ko": "기술 기업의 회복력과 실적 기대감: 어도비 실적 발표를 앞두고 시장 안정세 유지",
