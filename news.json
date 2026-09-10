@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-09T23:59:19.454346+00:00",
+  "updated_at": "2026-09-10T04:29:55.764753+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "American Eagle Outfitters, Inc. 2026 Q2 - Results - Earnings Call Presentation (NYSE:AEO) 2026-09-10",
+      "title_ko": "아메리칸 이글 아웃피터스(American Eagle Outfitters, Inc.) 2026년 2분기 실적 - 실적 발표 전화회의 프레젠테이션 (NYSE:AEO) 2026-09-10",
+      "snippet": "2026-09-10. The following slide deck was published by American Eagle Outfitters, Inc.",
+      "snippet_ko": "2026년 9월 10일. 다음 슬라이드 자료는 American Eagle Outfitters, Inc.에서 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4944813-american-eagle-outfitters-inc-2026-q2-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-09-10T04:01:30.000000Z"
+    },
+    {
+      "title": "MercadoLibre Stock: How A Formidable Moat Is Born (NASDAQ:MELI)",
+      "title_ko": "메르카도리브레 주식: 강력한 경쟁 우위가 어떻게 형성되는가 (NASDAQ:MELI)",
+      "snippet": "MercadoLibre dominates Latin American e-commerce and fintech, building a formidable moat through logistics and financial inclusion. See why MELI is a Strong Buy.",
+      "snippet_ko": "MercadoLibre는 라틴 아메리카의 전자상거래 및 핀테크 시장을 주도하며, 물류와 금융 포용을 통해 견고한 경쟁 우위를 구축하고 있습니다. MELI가 ‘강력 매수’ 종목인 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.4037,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4944800-mercadolibre-how-a-formidable-moat-is-born",
+      "cross_verified": true,
+      "published_at": "2026-09-10T03:52:13.000000Z"
+    },
+    {
+      "title": "ServiceNow: The Agentic AI Frontier (NYSE:NOW)",
+      "title_ko": "ServiceNow: 에이전트형 AI의 새로운 지평 (NYSE:NOW)",
+      "snippet": "ServiceNow is positioned as a leader in agentic AI, with a broad product portfolio and deep enterprise integration. Read why NOW stock is a Strong Buy.",
+      "snippet_ko": "ServiceNow는 폭넓은 제품 포트폴리오와 기업 시스템과의 긴밀한 통합을 바탕으로 에이전트형 AI 분야의 선두주자로 자리매김하고 있습니다. NOW 주식이 ‘강력 매수’ 추천을 받는 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4944798-servicenow-the-agentic-ai-frontier",
+      "cross_verified": true,
+      "published_at": "2026-09-10T03:40:46.000000Z"
+    },
     {
       "title": "Teradyne, Inc. (TER) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript",
       "title_ko": "테라다인(Teradyne, Inc., TER), 골드만삭스 ‘커뮤니코피아 + 테크놀로지 컨퍼런스 2026’에서 발표: 발표록",
@@ -556,6 +592,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Samsung works to draw iPhone users to its foldables even as Apple enters the market",
+      "title_ko": "애플이 이 시장에 진출했음에도 불구하고, 삼성은 아이폰 사용자들을 자사의 폴더블폰으로 끌어들이기 위해 노력하고 있다",
+      "snippet": "Samsung is drawing more iPhone users to its foldables as Apple’s rumored entry threatens to reshape the market.",
+      "snippet_ko": "애플의 폴더블폰 출시 소문이 시장을 재편할 조짐을 보이면서, 삼성은 더 많은 아이폰 사용자를 자사의 폴더블폰으로 끌어들이고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3145,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/10/samsung-tries-to-draw-iphone-users-to-its-foldables-amid-apple-entry.html",
+      "cross_verified": true,
+      "published_at": "2026-09-10T02:05:32.000000Z"
+    },
+    {
+      "title": "CNBC Daily Open: Apple's new iPhone bends. Bond vigilantes, not so much",
+      "title_ko": "CNBC 데일리 오픈: 애플의 신형 아이폰이 휘어진다. 채권 감시자들은 그다지 신경 쓰지 않는 듯",
+      "snippet": "Loads of new features, but guess what people were looking for? The crease, and how visible it is.",
+      "snippet_ko": "새로운 기능이 정말 많았지만, 사람들이 가장 궁금해했던 게 뭔지 아세요? 바로 주름과 그 주름이 얼마나 눈에 띄는지가었습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.1653,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/10/cnbc-daily-open-apple-new-iphone-duo-treasury-bonds-oil-trump.html",
+      "cross_verified": true,
+      "published_at": "2026-09-10T01:41:48.000000Z"
+    },
+    {
+      "title": "Widow files new suit alleging botched landing maneuvers, aircraft safety failures in Amazon jet crash",
+      "title_ko": "한 미망인이 아마존 제트기 추락 사고와 관련해 착륙 절차상의 실수와 항공기 안전 결함을 주장하며 새로운 소송을 제기했다",
+      "snippet": "The wrongful death lawsuit alleges dangerous landing maneuvers, inadequate training and aircraft safety failures in the Amazon jet crash.",
+      "snippet_ko": "이 부당 사망 소송은 아마존 제트기 추락 사고와 관련해 위험한 착륙 기동, 부적절한 훈련, 항공기 안전상의 결함을 주장하고 있다.",
+      "symbol": "AMZN",
+      "sentiment_score": -0.0516,
+      "source": "video.foxbusiness.com",
+      "url": "https://www.foxbusiness.com/lifestyle/widow-files-new-suit-alleging-botched-landing-maneuvers-aircraft-safety-failures-amazon-jet-crash",
+      "cross_verified": true,
+      "published_at": "2026-09-10T01:32:53.000000Z"
+    },
     {
       "title": "The Coca-Cola Company (KO) Presents at Barclays 19th Annual Global Consumer Staples Conference Transcript",
       "title_ko": "코카콜라 컴퍼니(KO), 바클레이즈 제19회 연례 글로벌 필수소비재 컨퍼런스에서 발표: 회의록",
