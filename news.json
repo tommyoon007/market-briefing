@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-11T10:59:44.846746+00:00",
+  "updated_at": "2026-09-11T16:15:41.856416+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Alkermes: A Slow-Burning Buy Prospect On Orexin-Agonist Promise (NASDAQ:ALKS)",
+      "title_ko": "알케르메스: 오렉신 작용제의 잠재력을 바탕으로 서서히 주목받을 매수 후보 (나스닥: ALKS)",
+      "snippet": "Alkermes plc upgraded to Buy on strong revenue growth, Lumryz momentum, and orexin pipeline upside in sleep/CNS—click to get the latest ALKS outlook now.",
+      "snippet_ko": "Alkermes plc는 견조한 매출 성장, Lumryz의 호조세, 수면/중추신경계(CNS) 분야의 오렉신 파이프라인에 대한 긍정적 전망을 바탕으로 ‘매수(Buy)’ 등급으로 상향 조정되었습니다. 지금 클릭하여 ALKS에 대한 최신 전망을 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.5423,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4945555-alkermes-a-slow-burning-buy-prospect-on-orexin-agonist-promise",
+      "cross_verified": true,
+      "published_at": "2026-09-11T15:30:16.000000Z"
+    },
+    {
+      "title": "US Foods Holding: Great Business, Mediocre Investment (NYSE:USFD)",
+      "title_ko": "US Foods Holding: 훌륭한 사업, 평범한 투자 대상 (NYSE:USFD)",
+      "snippet": "US Foods Holding's Q2 2026 shows revenue +4.5%, margin gains, Pronto/AI growth, and upbeat 2026 guidance—yet valuation looks rich. Click for more on USFD stock.",
+      "snippet_ko": "US Foods Holding의 2026년 2분기 실적은 매출 4.5% 증가, 마진 개선, Pronto/AI 부문 성장, 그리고 긍정적인 2026년 전망을 보여주었으나, 주가 평가 수준은 높은 것으로 보인다. USFD 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.6249,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4945542-us-foods-holding-great-business-mediocre-investment",
+      "cross_verified": true,
+      "published_at": "2026-09-11T15:30:00.000000Z"
+    },
     {
       "title": "Foreign Capital Sells $110.9 Million in Indonesian Stocks Amid Profit-Taking",
       "title_ko": "이익 실현 움직임 속에 외국인 투자자들이 인도네시아 주식 1억 1,090만 달러어치를 매도했다",
@@ -796,6 +820,54 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Stock Market Falls On Soaring Oil Prices, Yields, But Finishes Strong; CPI Inflation, Apple, Oracle, Meta In Focus: Weekly Review",
+      "title_ko": "유가와 채권 수익률 급등으로 주식 시장 하락했으나 강세로 마감… 소비자물가 상승률, 애플, 오라클, 메타 주목: 주간 리뷰",
+      "snippet": "The stock market fell as oil prices and Treasury yields soared, but rebounded Friday on CPI inflation. Apple, Oracle, Meta were key movers.",
+      "snippet_ko": "유가와 국채 수익률이 급등하면서 주식 시장은 하락했으나, 금요일 소비자물가지수(CPI) 인플레이션 발표에 힘입어 반등했다. 애플, 오라클, 메타가 주요 등락 종목이었다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5106,
+      "source": "finance.yahoo.com",
+      "url": "https://www.investors.com/news/stock-market-falls-on-oil-prices-yields-cpi-inflation-apple-oracle-meta/?src=A00220&yptr=yahoo",
+      "cross_verified": true,
+      "published_at": "2026-09-11T15:16:01.000000Z"
+    },
+    {
+      "title": "Google and Accenture Team Up to Accelerate Enterprise AI Adoption",
+      "title_ko": "구글과 액센츄어, 기업 내 AI 도입 가속화를 위해 손잡다",
+      "snippet": "Alphabet Inc. (NASDAQ:GOOG)’s Google Cloud and Accenture plc (NYSE:ACN) have launched the Accenture Gemini Enterprise Business Group, a joint initiative designed to accelerate enterprise adoption of Google’s Gemini Enterprise platform. Google Cloud will help train up to 1,000 Accenture forward-deployed engineers (FDEs) who will work directly with customers to build and implement AI applications. The […]",
+      "snippet_ko": "알파벳(Alphabet Inc., 나스닥: GOOG)의 구글 클라우드(Google Cloud)와 액센츄어(Accenture plc, 뉴욕증권거래소: ACN)는 기업들이 구글의 ‘제미니 엔터프라이즈(Gemini Enterprise)’ 플랫폼을 더 빠르게 도입할 수 있도록 지원하기 위한 공동 프로젝트인 ‘액센츄어 제미니 엔터프라이즈 비즈니스 그룹(Accenture Gemini Enterprise Business Group)’을 출범했습니다. 구글 클라우드는 고객과 직접 협력하여 AI 애플리케이션을 구축하고 구현할 액센처의 현장 배치 엔지니어(FDE) 최대 1,000명을 교육하는 데 도움을 줄 예정이다. […]",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.379,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/google-accenture-team-accelerate-enterprise-151402810.html",
+      "cross_verified": true,
+      "published_at": "2026-09-11T15:14:02.000000Z"
+    },
+    {
+      "title": "Qualcomm’s AI Ambitions Get a Boost From Amazon Partnership",
+      "title_ko": "퀄컴의 AI 야망, 아마존과의 제휴로 탄력을 받다",
+      "snippet": "QUALCOMM Incorporated (NASDAQ:QCOM) has struck a long-term partnership with Amazon.com, Inc. (NASDAQ:AMZN) under which Amazon could purchase as much as $60 billion of Qualcomm’s AI data-center chips and related products. As part of the agreement, Qualcomm has granted Amazon warrants worth roughly $4 billion, allowing Amazon to purchase Qualcomm shares at $161.26 per share, with […]",
+      "snippet_ko": "퀄컴(QUALCOMM Incorporated, 나스닥: QCOM)은 아마존닷컴(Amazon.com, Inc., 나스닥: AMZN)과 장기 파트너십을 체결했으며, 이에 따라 아마존은 퀄컴의 AI 데이터센터용 칩 및 관련 제품을 최대 600억 달러 규모로 구매할 수 있게 되었습니다. 이번 계약의 일환으로 퀄컴은 아마존에 약 40억 달러 상당의 신주인수권을 부여했으며, 이를 통해 아마존은 주당 161.26달러에 퀄컴 주식을 매입할 수 있게 되었으며, […]",
+      "symbol": "AMZN",
+      "sentiment_score": 0.3501,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-ai-ambitions-boost-amazon-151217166.html",
+      "cross_verified": true,
+      "published_at": "2026-09-11T15:12:17.000000Z"
+    },
+    {
+      "title": "Microsoft: Big Tech Winner Still On Sale (NASDAQ:MSFT)",
+      "title_ko": "마이크로소프트: 여전히 매수 기회인 대형 기술주 (나스닥: MSFT)",
+      "snippet": "Microsoft (MSFT) is a buy: Azure growth hits 43% with 45% guided, Copilot seats surge, and valuation looks discounted.",
+      "snippet_ko": "마이크로소프트(MSFT)는 매수 추천 종목입니다. 애저(Azure) 매출 성장률이 43%를 기록했으며, 45% 성장 전망치가 제시되었고, 코파일럿(Copilot) 사용자 수가 급증했으며, 주가 평가가 저평가된 것으로 보입니다.",
+      "symbol": "MSFT",
+      "sentiment_score": -0.1037,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4945556-microsoft-big-tech-winner-still-on-sale",
+      "cross_verified": true,
+      "published_at": "2026-09-11T15:32:42.000000Z"
+    },
     {
       "title": "How to Trade Tokenized Stocks on Base: A Step-by-Step Guide",
       "title_ko": "Base에서 토큰화된 주식을 거래하는 방법: 단계별 가이드",
