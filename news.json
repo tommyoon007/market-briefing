@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-11T04:07:41.778632+00:00",
+  "updated_at": "2026-09-11T10:59:44.846746+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Foreign Capital Sells $110.9 Million in Indonesian Stocks Amid Profit-Taking",
+      "title_ko": "이익 실현 움직임 속에 외국인 투자자들이 인도네시아 주식 1억 1,090만 달러어치를 매도했다",
+      "snippet": "On September 11, 2026, Indonesian Future Asset Securities reported a significant net sell-off of foreign stocks amounting to $110.9 million, the highest since J",
+      "snippet_ko": "2026년 9월 11일, 인도네시아 퓨처 애셋 증권은 1억 1,090만 달러에 달하는 대규모 외국인 주식 순매도 규모를 기록했다고 보고했는데, 이는 J 이후 가장 높은 수치이다.",
+      "symbol": "",
+      "sentiment_score": 0.296,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9077371/foreign-capital-sells-1109-million-in-indonesian-stocks-amid-profittaking",
+      "cross_verified": true,
+      "published_at": "2026-09-11T10:51:21.000000Z"
+    },
+    {
+      "title": "CRH Looks 18.0% Undervalued on GF Value™ with Strong Dividend Appeal",
+      "title_ko": "CRH는 GF Value™ 지표상 18.0% 저평가된 것으로 나타나며, 배당 매력도도 뛰어나다",
+      "snippet": "On September 11, 2026, Morgan Stanley analyst Angel Castillo reinstated coverage on CRH PLC (NYSE: CRH) with an Overweight rating and set a price target of $139",
+      "snippet_ko": "2026년 9월 11일, 모건 스탠리의 애널리스트 엔젤 카스티요는 CRH PLC(NYSE: CRH)에 대한 애널리스트 커버리지를 재개하며 ‘Overweight’ 등급을 부여하고 목표 주가를 139달러로 설정했다.",
+      "symbol": "",
+      "sentiment_score": 0.572,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9077370/crh-looks-180-undervalued-on-gf-value-with-strong-dividend-appeal",
+      "cross_verified": true,
+      "published_at": "2026-09-11T10:50:59.000000Z"
+    },
+    {
+      "title": "TTE Looks 28.2% Overvalued on GF Value™ as Dividend Sustainability Remains Key",
+      "title_ko": "GF Value™ 지표에 따르면 TTE는 28.2% 과대평가된 것으로 나타나며, 배당 지속 가능성이 여전히 핵심 요인으로 꼽힌다",
+      "snippet": "On September 11, 2026, TotalEnergies SE (NYSE: TTE) announced it has acquired the remaining 35% stake in the Grandpuits advanced recycling plant, making the fac",
+      "snippet_ko": "2026년 9월 11일, 토탈에너지 SE(TotalEnergies SE, NYSE: TTE)는 그랑퓌이(Grandpuits) 첨단 재활용 공장의 잔여 지분 35%를 인수했다고 발표했으며, 이로써 해당 시설은",
+      "symbol": "",
+      "sentiment_score": 0.5898,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9077366/tte-looks-282-overvalued-on-gf-value-as-dividend-sustainability-remains-key",
+      "cross_verified": true,
+      "published_at": "2026-09-11T10:26:18.000000Z"
+    },
     {
       "title": "Fiserv Inc at Goldman Sachs Communacopia + Technology Conference Transcript",
       "title_ko": "골드만삭스 ‘커뮤니코피아 + 테크놀로지 컨퍼런스’에서 피서브(Fiserv Inc)의 발표 전문",
@@ -760,6 +796,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "How to Trade Tokenized Stocks on Base: A Step-by-Step Guide",
+      "title_ko": "Base에서 토큰화된 주식을 거래하는 방법: 단계별 가이드",
+      "snippet": "On 24 August 2026, Coinbase moved US equities on-chain, launching ten tokenized stocks on its Base layer-2 network for eligible non-US investors. Nvidia,",
+      "snippet_ko": "2026년 8월 24일, 코인베이스는 미국 주식을 온체인으로 이전하며, 자격을 갖춘 비미국 투자자들을 대상으로 자사의 Base 레이어-2 네트워크에 10종의 토큰화된 주식을 출시했습니다. 엔비디아,",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4715,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/how-to-trade-tokenized-stocks-on-base-a-step-by-step-guide/",
+      "cross_verified": true,
+      "published_at": "2026-09-11T07:25:55.000000Z"
+    },
+    {
+      "title": "New-age industries fuelling India's capex cycle, says SBI chief",
+      "title_ko": "SBI 총재, “신흥 산업이 인도의 설비투자 사이클을 견인하고 있다”고 밝혀",
+      "snippet": "Corporate spending on infrastructure projects is increasing across India. New sectors like data centers and green hydrogen are driving credit demand. Companies are increasing capital expenditure due to better demand and growth prospects. Bank lending has grown significantly as companies prefer loans over bonds. State Bank of India is deploying liquidity from diaspora deposits to support lending.",
+      "snippet_ko": "인도 전역에서 인프라 프로젝트에 대한 기업 투자가 증가하고 있다. 데이터 센터와 친환경 수소와 같은 새로운 분야가 신용 수요를 견인하고 있다. 기업들은 수요 회복과 성장 전망 개선에 힘입어 자본 지출을 늘리고 있다. 기업들이 채권보다 대출을 선호함에 따라 은행 대출 규모도 크게 증가했다. 인도국립은행(State Bank of India)은 해외 동포 예금에서 확보한 유동성을 대출 지원에 활용하고 있다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.6023,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-says-new-age-industries-fuelling-indias-capex-cycle-data-centres-green-hydrogen-electric-vehicles-mukesh-ambani-gautam-adani/articleshow/134051051.cms",
+      "cross_verified": true,
+      "published_at": "2026-09-11T07:00:17.000000Z"
+    },
+    {
+      "title": "META Looks 24.2% Undervalued on GF Value™",
+      "title_ko": "GF Value™에 따르면 META는 24.2% 저평가된 것으로 나타났습니다.",
+      "snippet": "On September 11, 2026, Meta Platforms Inc (NASDAQ: META) declared a quarterly dividend of $0.525 per share, maintaining its payout consistency for the seventh c",
+      "snippet_ko": "2026년 9월 11일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)는 주당 0.525달러의 분기 배당금을 발표하며, 7분기 연속으로 일관된 배당 정책을 이어갔습니다.",
+      "symbol": "META",
+      "sentiment_score": 0.1993,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9077258/meta-looks-242-undervalued-on-gf-value",
+      "cross_verified": true,
+      "published_at": "2026-09-11T06:55:24.000000Z"
+    },
     {
       "title": "WELLINGTON MANAGEMENT GROUP LLP Adds 6.9 Million TPG Inc (TPG) Shares -- Stock Looks 23% Undervalued on GF Value",
       "title_ko": "웰링턴 매니지먼트 그룹 LLP, TPG Inc(TPG) 주식 690만 주 추가 매수 -- GF Value 기준 해당 종목은 23% 저평가된 것으로 분석",
