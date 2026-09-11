@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-11T16:15:41.856416+00:00",
+  "updated_at": "2026-09-11T20:48:08.958409+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Lululemon’s Guidance Cut Sent Shares Down 18%, Was It An Overreaction?",
+      "title_ko": "룰루레몬의 실적 전망 하향 조정에 주가가 18% 급락… 과반응이었을까?",
+      "snippet": "Lululemon Athletica Inc. (NASDAQ:LULU) recently issued its second guidance cut of the year, and investors responded immediately by sending shares down roughly 18%.",
+      "snippet_ko": "룰루레몬 애슬레티카(Lululemon Athletica Inc., 나스닥: LULU)가 최근 올해 들어 두 번째로 실적 전망치를 하향 조정하자, 투자자들은 즉각 반응하며 주가를 약 18% 하락시켰다.",
+      "symbol": "",
+      "sentiment_score": 0.8074,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/lululemons-guidance-cut-sent-shares-down-18-was-it-an-overreaction-1835030/",
+      "cross_verified": true,
+      "published_at": "2026-09-11T20:11:33.000000Z"
+    },
+    {
+      "title": "Jim Cramer Says He Is Not Going to Put His Money on AstraZeneca (AZN)",
+      "title_ko": "짐 크레이머, 아스트라제네카(AZN)에 투자하지 않겠다고 밝혀",
+      "snippet": "Toward the end of the lightning round on September 8, when a caller inquired about AstraZeneca PLC (NYSE:AZN), Mad Money host Jim Cramer commented: Alright, now, AstraZeneca reminds me of a company, it...",
+      "snippet_ko": "9월 8일 ‘라이트닝 라운드’가 막바지에 접어들 무렵, 한 시청자가 아스트라제네카 PLC(NYSE:AZN)에 대해 질문하자, ‘매드 머니’ 진행자 짐 크레이머는 다음과 같이 언급했다. “자, 아스트라제네카를 보니 어떤 회사가 떠오르는데, 그 회사는…”",
+      "symbol": "",
+      "sentiment_score": 0.1228,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/jim-cramer-says-he-is-not-going-to-put-his-money-on-astrazeneca-azn-1836610/",
+      "cross_verified": true,
+      "published_at": "2026-09-11T20:02:39.000000Z"
+    },
+    {
+      "title": "Korn Ferry (KFY) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript",
+      "title_ko": "Korn Ferry (KFY), 골드만삭스 ‘Communicopia + Technology Conference 2026’에서 발표: 회의록",
+      "snippet": "Korn Ferry (KFY) Goldman Sachs Communacopia + Technology Conference 2026 September 11, 2026 12:30 PM EDTCompany ParticipantsRobert Rozek - Executive VP, CFO...",
+      "snippet_ko": "Korn Ferry (KFY) 골드만삭스 Communacopia + Technology Conference 2026 2026년 9월 11일 오후 12시 30분 (EDT) 참가 기업 대표 로버트 로젝 - 전무이사, 최고재무책임자(CFO)...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4945615-korn-ferry-kfy-presents-at-goldman-sachs-communacopia-technology-conference-2026-transcript",
+      "cross_verified": true,
+      "published_at": "2026-09-11T19:57:24.000000Z"
+    },
     {
       "title": "Alkermes: A Slow-Burning Buy Prospect On Orexin-Agonist Promise (NASDAQ:ALKS)",
       "title_ko": "알케르메스: 오렉신 작용제의 잠재력을 바탕으로 서서히 주목받을 매수 후보 (나스닥: ALKS)",
@@ -820,6 +856,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Meta: The Market Misunderstanding Of This Stock Is Quite Baffling (NASDAQ:META)",
+      "title_ko": "메타: 이 종목에 대한 시장의 오해는 꽤나 의아스럽다 (나스닥: META)",
+      "snippet": "Meta Platforms, Inc. stays firmly at Buy, with AI and personal intelligence as strategic growth pillars. Learn more about META stock here.",
+      "snippet_ko": "메타 플랫폼스(Meta Platforms, Inc.)는 AI와 개인 맞춤형 인텔리전스를 전략적 성장 축으로 삼으며 ‘매수’ 추천을 확고히 유지하고 있습니다. META 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "META",
+      "sentiment_score": -0.4215,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4945600-meta-market-misunderstanding-this-stock-quite-baffling",
+      "cross_verified": true,
+      "published_at": "2026-09-11T17:52:03.000000Z"
+    },
+    {
+      "title": "In 1969, Robert Redford bought 5,000 acres in Utah to protect wilderness. 57 years later, 3,343 acres remain protected from development at Sundance Mountain Resort today",
+      "title_ko": "1969년, 로버트 레드포드는 야생지대를 보호하기 위해 유타주에서 5,000에이커의 토지를 매입했습니다. 57년이 지난 오늘날, 선댄스 마운틴 리조트 내 3,343에이커의 토지는 여전히 개발로부터 보호받고 있습니다.",
+      "snippet": "Robert Redfords connection to Utahs wilderness began with a motorcycle trip and grew into the creation of Sundance Mountain Resort and a lasting commitment to conservation. In 1969, he purchased 5,000 acres, named the land Sundance and designated a vast majority as a wilderness preserve. Today, more than 70% of the resorts acreage remains protected through conservation easements, while more than 860 acres of wildlife habitat, watershed and alpine meadows have been protected in perpetuity through a conservation easement donated by Redford and his family to Utah Open Lands.",
+      "snippet_ko": "로버트 레드포드와 유타주 야생지대의 인연은 오토바이 여행에서 시작되어, 결국 선댄스 마운틴 리조트의 설립과 자연 보전을 위한 지속적인 헌신으로 이어졌습니다. 1969년, 그는 5,000에이커의 토지를 매입하여 그 땅을 ‘선댄스’라고 명명하고, 그 대부분을 야생지대 보호구역으로 지정했습니다. 오늘날 리조트 부지의 70% 이상이 보전 지역 지정 계약을 통해 보호되고 있으며, 860에이커가 넘는 야생동물 서식지, 유역 및 고산 초원은 다음을 통해 영구적으로 보호되고 있습니다.",
+      "symbol": "DIS",
+      "sentiment_score": 0.9477,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/international/us/in-1969-robert-redford-bought-5000-acres-in-utah-to-protect-wilderness-57-years-later-3343-acres-remain-protected-from-development-at-sundance-mountain-resort-today/articleshow/134079529.cms",
+      "cross_verified": true,
+      "published_at": "2026-09-11T17:47:13.000000Z"
+    },
+    {
+      "title": "Apple Stock Has Returned Nearly 1,200% in 10 Years. How High Can AAPL Go From Here?",
+      "title_ko": "애플 주가는 지난 10년간 약 1,200%의 수익률을 기록했다. 앞으로 AAPL 주가는 어디까지 오를 수 있을까?",
+      "snippet": "Apple just posted its strongest June quarter ever, yet Wall Street has set a price target below where the stock trades today. Something does not add up, and the path to $450 per share is either a stretch case or the most obvious trade nobody wants to own.",
+      "snippet_ko": "애플은 방금 사상 최고의 6월 분기 실적을 발표했지만, 월스트리트는 현재 주가보다 낮은 목표 주가를 제시했다. 뭔가 앞뒤가 맞지 않는 상황이며, 주당 450달러까지 오를 것이라는 전망은 지나치게 낙관적인 시나리오이거나, 아무도 매수하고 싶어 하지 않는 가장 뻔한 투자 기회일 뿐이다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3485,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-returned-nearly-1-173040057.html",
+      "cross_verified": true,
+      "published_at": "2026-09-11T17:30:40.000000Z"
+    },
     {
       "title": "Stock Market Falls On Soaring Oil Prices, Yields, But Finishes Strong; CPI Inflation, Apple, Oracle, Meta In Focus: Weekly Review",
       "title_ko": "유가와 채권 수익률 급등으로 주식 시장 하락했으나 강세로 마감… 소비자물가 상승률, 애플, 오라클, 메타 주목: 주간 리뷰",
