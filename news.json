@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-10T23:54:54.507130+00:00",
+  "updated_at": "2026-09-11T04:07:41.778632+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Fiserv Inc at Goldman Sachs Communacopia + Technology Conference Transcript",
+      "title_ko": "골드만삭스 ‘커뮤니코피아 + 테크놀로지 컨퍼런스’에서 피서브(Fiserv Inc)의 발표 전문",
+      "snippet": "Sep 10, 2026 / 09:25PM GMTWilliam Nance Goldman Sachs-Analyst All right. We're going to get started on the next session. I am pleased to have a twofer here. We",
+      "snippet_ko": "2026년 9월 10일 / 오후 9시 25분(GMT) 윌리엄 낸스 골드만 삭스 애널리스트 좋습니다. 이제 다음 세션을 시작하겠습니다. 오늘 두 분을 한꺼번에 모시게 되어 기쁩니다. 저희는",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9076638/fiserv-inc-at-goldman-sachs-communacopia-technology-conference-transcript",
+      "cross_verified": true,
+      "published_at": "2026-09-11T04:00:10.000000Z"
+    },
+    {
+      "title": "Skyworks Solutions, Inc. at Goldman Sachs Communacopia + Technology Conference Transcript",
+      "title_ko": "골드만 삭스 ‘커뮤니코피아 + 테크놀로지 컨퍼런스’에서 발표된 스카이웍스 솔루션즈(Skyworks Solutions, Inc.)의 발언록",
+      "snippet": "Sep 10, 2026 / 09:25PM GMTJames Schneider - The Goldman Sachs Group, Inc. - Analyst Good afternoon, everybody. Welcome to the Goldman Sachs Communacopia Technol",
+      "snippet_ko": "2026년 9월 10일 / 오후 9시 25분 (GMT) 제임스 슈나이더 - 골드만삭스 그룹 - 애널리스트 여러분, 안녕하십니까. 골드만삭스 코뮤나코피아 테크놀로지에 오신 것을 환영합니다.",
+      "symbol": "",
+      "sentiment_score": 0.5711,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9076637/skyworks-solutions-inc-at-goldman-sachs-communacopia-technology-conference-transcript",
+      "cross_verified": true,
+      "published_at": "2026-09-11T04:00:09.000000Z"
+    },
+    {
+      "title": "Aurora Innovation, Inc. at Goldman Sachs Communacopia + Technology Conference Transcript",
+      "title_ko": "골드만삭스 ‘커뮤니코피아 + 테크놀로지 컨퍼런스’에서 오로라 이노베이션(Aurora Innovation, Inc.) 발표 내용 전문",
+      "snippet": "Sep 10, 2026 / 09:25PM GMTMark Delaney - The Goldman Sachs Group, Inc. - Analyst Okay, great. Thank you, everybody, for joining. My name is Mark Delaney, and I",
+      "snippet_ko": "2026년 9월 10일 / 오후 9시 25분 (GMT) 마크 델라니 - 골드만 삭스 그룹 - 애널리스트 네, 좋습니다. 참석해 주신 모든 분께 감사드립니다. 제 이름은 마크 델라니이며, 저는",
+      "symbol": "",
+      "sentiment_score": 0.9106,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9076636/aurora-innovation-inc-at-goldman-sachs-communacopia-technology-conference-transcript",
+      "cross_verified": true,
+      "published_at": "2026-09-11T04:00:08.000000Z"
+    },
     {
       "title": "Frequency Electronics signals capacity expansion that could pull forward its $150M+ fiscal 2029 revenue target following $73M equity raise (NASDAQ:FEIM)",
       "title_ko": "프리퀀시 일렉트로닉스(Frequency Electronics), 7,300만 달러 규모의 주식 발행 후 2029 회계연도 매출 목표인 1억 5,000만 달러 이상을 앞당길 수 있는 생산 능력 확대를 발표 (나스닥: FEIM)",
@@ -724,6 +760,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "WELLINGTON MANAGEMENT GROUP LLP Adds 6.9 Million TPG Inc (TPG) Shares -- Stock Looks 23% Undervalued on GF Value",
+      "title_ko": "웰링턴 매니지먼트 그룹 LLP, TPG Inc(TPG) 주식 690만 주 추가 매수 -- GF Value 기준 해당 종목은 23% 저평가된 것으로 분석",
+      "snippet": "WELLINGTON MANAGEMENT GROUP LLP (Trades, Portfolio) disclosed a significant addition to its position in TPG Inc (TPG) on Aug. 31, 2026, acquiring 6,901,283 shar",
+      "snippet_ko": "웰링턴 매니지먼트 그룹 LLP(Trades, Portfolio)는 2026년 8월 31일 TPG Inc(TPG)에 대한 보유 지분을 대폭 늘렸다고 밝혔으며, 6,901,283주를 매수했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2023,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9076627/wellington-management-group-llp-adds-69-million-tpg-inc-tpg-shares-stock-looks-23-undervalued-on-gf-value",
+      "cross_verified": true,
+      "published_at": "2026-09-11T03:39:20.000000Z"
+    },
+    {
+      "title": "WELLINGTON MANAGEMENT GROUP LLP Adds 2.8 Million AAON Inc (AAON) Shares -- Stock Looks 47% Undervalued on GF Value",
+      "title_ko": "웰링턴 매니지먼트 그룹 LLP, AAON Inc(AAON) 주식 280만 주 추가 매입 -- GF Value 기준 해당 주식은 47% 저평가된 것으로 보임",
+      "snippet": "A Significant Position Increase in the HVAC Manufacturer According to a 13G filing, WELLINGTON MANAGEMENT GROUP LLP (Trades, Portfolio) added 2,814,894 shares o",
+      "snippet_ko": "HVAC 제조사의 지분 대폭 확대 13G 신고서에 따르면, 웰링턴 매니지먼트 그룹 LLP(거래 내역, 포트폴리오)는 2,814,894주를 추가로 매입했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2371,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9076626/wellington-management-group-llp-adds-28-million-aaon-inc-aaon-shares-stock-looks-47-undervalued-on-gf-value",
+      "cross_verified": true,
+      "published_at": "2026-09-11T03:38:56.000000Z"
+    },
+    {
+      "title": "Wellington Management Group LLP Adds 4,972,315 Shares of Zenas BioPharma Inc (ZBIO)",
+      "title_ko": "웰링턴 매니지먼트 그룹 LLP, 제나스 바이오파마(ZBIO) 주식 4,972,315주를 추가 매입",
+      "snippet": "On 2026-08-31, WELLINGTON MANAGEMENT GROUP LLP (Trades, Portfolio) disclosed an addition to its position in Zenas BioPharma Inc (ZBIO), acquiring 4,972,315 shar",
+      "snippet_ko": "2026년 8월 31일, 웰링턴 매니지먼트 그룹 LLP(거래 내역, 포트폴리오)는 제나스 바이오파마(ZBIO)에 대한 보유 지분을 추가했다고 밝혔으며, 4,972,315주를 매수했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3818,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9076625/wellington-management-group-llp-adds-4972315-shares-of-zenas-biopharma-inc-zbio",
+      "cross_verified": true,
+      "published_at": "2026-09-11T03:38:32.000000Z"
+    },
     {
       "title": "Apple (AAPL) Unveils iPhone Duo with AI Features Amid Market Movements",
       "title_ko": "시장 변동 속에서 애플(AAPL), AI 기능을 탑재한 아이폰 두 모델 공개",
