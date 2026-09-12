@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T20:48:08.958409+00:00",
+  "updated_at": "2026-09-12T00:02:07.653571+00:00",
   "status": "ok",
   "market_news": [
     {
@@ -856,6 +856,18 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Xiaomi and Huawei Launch Foldable Smartphones Ahead of Apple’s Latest Product Launch",
+      "title_ko": "샤오미와 화웨이, 애플의 최신 제품 출시를 앞두고 폴더블 스마트폰을 선보였다",
+      "snippet": "China’s premium-smartphone battle is becoming more ambitious, and more expensive.",
+      "snippet_ko": "중국의 프리미엄 스마트폰 경쟁은 점점 더 치열해지고, 가격도 더 비싸지고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3401,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/xiaomi-and-huawei-launch-foldable-smartphones-ahead-of-apples-latest-product-launch-1834709/",
+      "cross_verified": true,
+      "published_at": "2026-09-11T22:24:34.000000Z"
+    },
     {
       "title": "Meta: The Market Misunderstanding Of This Stock Is Quite Baffling (NASDAQ:META)",
       "title_ko": "메타: 이 종목에 대한 시장의 오해는 꽤나 의아스럽다 (나스닥: META)",
