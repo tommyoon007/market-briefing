@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-12T12:04:36.150078+00:00",
+  "updated_at": "2026-09-12T16:53:26.883800+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "5 Big Yields That Could Be Slashed: Income Investors Beware",
+      "title_ko": "급감할 가능성이 있는 5대 고수익 종목: 소득형 투자자들은 주의하라",
+      "snippet": "Whirlpool's dividend suspension came with a 49% stock plunge, and four other high-yielding names are flashing the same warning signs that trapped income investors before the ax fell.",
+      "snippet_ko": "월풀의 배당 중단 소식에 주가가 49% 급락했으며, 다른 4개의 고배당 종목들도 배당 중단 조치가 내려지기 전 소득 투자자들을 곤경에 빠뜨렸던 것과 동일한 경고 신호를 보이고 있다.",
+      "symbol": "",
+      "sentiment_score": -0.1166,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-big-yields-could-slashed-153353087.html",
+      "cross_verified": true,
+      "published_at": "2026-09-12T15:33:53.000000Z"
+    },
     {
       "title": "Jim Cramer Dismisses Grab Holdings (GRAB) as a $3 Spec",
       "title_ko": "짐 크레이머, 그랩 홀딩스(GRAB)를 3달러짜리 투기주라고 일축했다",
@@ -916,6 +928,54 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Prediction: This High-Yield Dow Dividend Stock Will Become a Dividend King Before the End of the Year.",
+      "title_ko": "전망: 이 고수익 다우 지수 배당주는 올해가 끝나기 전에 ‘배당왕’이 될 것이다.",
+      "snippet": "McDonald's has increased its dividend for 49 consecutive years, and I believe it will raise it again in the fourth quarter, reaching 50 years.",
+      "snippet_ko": "맥도날드는 49년 연속 배당금을 인상해 왔으며, 제 생각에는 4분기에도 배당금을 다시 인상해 50년 연속 기록을 달성할 것으로 보입니다.",
+      "symbol": "MCD",
+      "sentiment_score": 0.4609,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-high-yield-dow-dividend-153500615.html",
+      "cross_verified": true,
+      "published_at": "2026-09-12T15:35:00.000000Z"
+    },
+    {
+      "title": "Here's who stands to make money from the Anthropic IPO",
+      "title_ko": "앤트로픽의 기업공개(IPO)로 누가 이익을 볼지 살펴보자",
+      "snippet": "The initial public offering could mint riches for the AI model maker's unusually broad base of private investors, while putting its intertwined financial relationships with some of its biggest on full display.",
+      "snippet_ko": "이번 기업공개(IPO)는 이 AI 모델 개발사의 유난히 광범위한 개인 투자자층에게 막대한 부를 안겨줄 수 있는 동시에, 주요 투자자 일부와 얽혀 있는 재무적 관계를 여실히 드러낼 전망이다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.1779,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/article/heres-who-stands-to-make-money-from-the-anthropic-ipo-151619986.html",
+      "cross_verified": true,
+      "published_at": "2026-09-12T15:16:19.000000Z"
+    },
+    {
+      "title": "McDonald's Stock: Finally Lovin' It (Rating Upgrade) (NYSE:MCD)",
+      "title_ko": "맥도날드 주가: 드디어 호평 (투자의견 상향) (NYSE:MCD)",
+      "snippet": "McDonald’s Q2 showed modest comparable sales growth, strong loyalty engagement, and robust capital returns. Read why MCD stock is upgraded to a buy.",
+      "snippet_ko": "맥도날드의 2분기 실적은 소폭의 동일 매장 매출 성장, 강력한 고객 충성도, 그리고 견실한 자본 수익률을 보여주었습니다. MCD 주식이 ‘매수’ 등급으로 상향 조정된 이유를 확인해 보세요.",
+      "symbol": "MCD",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4945788-mcdonalds-finally-lovin-it-rating-upgrade",
+      "cross_verified": true,
+      "published_at": "2026-09-12T14:56:00.000000Z"
+    },
+    {
+      "title": "Rivian Sacrificed Its 2027 Profit Target. Here's Why Investors Should Applaud.",
+      "title_ko": "리비안이 2027년 수익 목표를 포기했다. 투자자들이 이를 환영해야 하는 이유는 다음과 같다.",
+      "snippet": "The business of selling EVs will shift dramatically over the coming years.",
+      "snippet_ko": "앞으로 몇 년 동안 전기차 판매 시장은 극적인 변화를 겪을 것입니다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.1059,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-sacrificed-2027-profit-target-152500464.html",
+      "cross_verified": true,
+      "published_at": "2026-09-12T15:25:00.000000Z"
+    },
     {
       "title": "Tech layoffs 2026: As AI takes center stage, here's a list of major companies that laid off employees",
       "title_ko": "2026년 기술 업계 구조조정: AI가 주목받는 가운데, 직원을 감원한 주요 기업 목록은 다음과 같습니다.",
