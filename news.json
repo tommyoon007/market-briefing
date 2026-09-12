@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-12T20:25:02.137073+00:00",
+  "updated_at": "2026-09-12T23:53:10.756561+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "AI Agents Create Their Own Monitoring Problem. Datadog and Dynatrace Are Racing to Own It",
+      "title_ko": "AI 에이전트가 스스로 모니터링 문제를 야기하고 있다. Datadog과 Dynatrace는 이 시장을 선점하기 위해 치열한 경쟁을 벌이고 있다.",
+      "snippet": "AI coding agents are supposed to make software cheaper to build. They may also create more software changes, production failures and machine-generated complexity to inspect. That second-order effect connects Datadog, Inc. (NASDAQ:DDOG) and Dynatrace, Inc. (NYSE:DT) to an observability market that AI could expand rather than erase. Datadog told the Goldman Sachs Communacopia + Technology […]",
+      "snippet_ko": "AI 코딩 에이전트는 소프트웨어 개발 비용을 절감해 줄 것으로 기대됩니다. 하지만 동시에 소프트웨어 변경 사항이 늘어나고, 운영 오류가 발생하며, 기계가 생성한 복잡한 코드를 검토해야 하는 부담도 가중시킬 수 있습니다. 이러한 2차적 효과로 인해 Datadog, Inc. (NASDAQ:DDOG)와 Dynatrace, Inc. (NYSE:DT)는 AI가 시장을 사라지게 하기보다는 오히려 확대할 수 있는 가시성(observability) 시장과 연결됩니다. Datadog은 골드만삭스 Communacopia + Technology […]에서 다음과 같이 밝혔습니다.",
+      "symbol": "",
+      "sentiment_score": 0.3184,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-agents-create-own-monitoring-225626156.html",
+      "cross_verified": true,
+      "published_at": "2026-09-12T22:56:26.000000Z"
+    },
+    {
+      "title": "How Much Does a 61-Year-Old Need Invested to Collect $8,600 a Month for Life?",
+      "title_ko": "61세인 사람이 평생 매달 8,600달러를 수령하려면 얼마를 투자해야 할까요?",
+      "snippet": "Building a retirement income sleeve around seven funds sounds like diversification, but the largest position in this blueprint has a quiet habit of inflating its own payout once a year without ever promising to repeat it.",
+      "snippet_ko": "7개의 펀드를 중심으로 은퇴 소득 포트폴리오를 구성하는 것은 분산 투자처럼 보이지만, 이 투자 계획에서 비중이 가장 큰 펀드는 매년 한 번씩 배당금을 인상하는 습관이 있는데, 이를 반복하겠다고 약속한 적은 한 번도 없습니다.",
+      "symbol": "",
+      "sentiment_score": 0.5009,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/much-does-61-old-invested-225357243.html",
+      "cross_verified": true,
+      "published_at": "2026-09-12T22:53:57.000000Z"
+    },
+    {
+      "title": "GE Aerospace (GE)’s $12 Billion CPP Acquisition Puts Its Growth Strategy to the Test",
+      "title_ko": "GE 에어로스페이스(GE)의 120억 달러 규모 CPP 인수, 성장 전략의 성패가 걸렸다",
+      "snippet": "GE Aerospace (NYSE:GE) is making its largest acquisition since becoming a standalone publicly traded company. It agreed to acquire Consolidated Precision Products (CPP) for around $12 billion.",
+      "snippet_ko": "GE 에어로스페이스(NYSE:GE)는 독립적인 상장 기업으로 출범한 이후 최대 규모의 인수를 단행하고 있다. 이 회사는 컨솔리데이티드 프리시전 프로덕츠(CPP)를 약 120억 달러에 인수하기로 합의했다.",
+      "symbol": "",
+      "sentiment_score": -0.5994,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/ge-aerospace-ges-12-billion-cpp-acquisition-puts-its-growth-strategy-to-the-test-1836632/",
+      "cross_verified": true,
+      "published_at": "2026-09-12T22:38:33.000000Z"
+    },
     {
       "title": "RingCentral Chief Accounting Officer Sells 4,568 Shares",
       "title_ko": "링센트럴 최고회계책임자, 주식 4,568주 매도",
@@ -952,6 +988,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Not Nvidia. Not Micron. This Dirt Cheap “Magnificent Seven” Stock Could Be the Biggest Winner of the Trillion-Dollar AI Race – Here’s the Case.",
+      "title_ko": "엔비디아도 아니고, 마이크론도 아니다. 이 엄청나게 저렴한 ‘위대한 7인’ 주식이 1조 달러 규모의 AI 경쟁에서 가장 큰 승자가 될 수도 있다 – 그 근거는 다음과 같다.",
+      "snippet": "This company is already greatly benefiting from AI.",
+      "snippet_ko": "이 회사는 이미 AI 덕분에 큰 혜택을 보고 있습니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.7371,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/not-nvidia-not-micron-dirt-223501021.html",
+      "cross_verified": true,
+      "published_at": "2026-09-12T22:35:01.000000Z"
+    },
+    {
+      "title": "The AI Infrastructure Stock That Could Make Investors Millionaires Is Hiding in Plain Sight, and Wall Street Isn’t Paying Attention",
+      "title_ko": "투자자들을 백만장자로 만들어 줄 수 있는 AI 인프라주가 바로 눈앞에 숨어 있는데, 월스트리트는 이를 간과하고 있다",
+      "snippet": "Incredible demand for AI chips is accelerating Broadcom's growth, making the stock a no-brainer buy.",
+      "snippet_ko": "AI 칩에 대한 엄청난 수요가 브로드컴의 성장을 가속화하고 있어, 이 주식은 망설임 없이 매수해야 할 종목이다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.67,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-infrastructure-stock-could-investors-215001758.html",
+      "cross_verified": true,
+      "published_at": "2026-09-12T21:50:01.000000Z"
+    },
+    {
+      "title": "Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call",
+      "title_ko": "엔비디아 대 AMD: 일론 머스크, 스페이스X 실적 발표 전화 회의에서 한쪽 편을 들다",
+      "snippet": "Elon Musk recently praised a specific GPU stock during SpaceX's earnings call.",
+      "snippet_ko": "일론 머스크는 최근 스페이스X의 실적 발표 전화 회의에서 특정 GPU 관련 주식을 칭찬했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3742,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-amd-elon-musk-212000632.html",
+      "cross_verified": true,
+      "published_at": "2026-09-12T21:20:00.000000Z"
+    },
     {
       "title": "Google's Historic 396 MW Clean Energy Deal Just Changed the Game for 1 AI Power Play",
       "title_ko": "구글의 역사적인 396MW 규모 청정 에너지 계약이 한 AI 파워 플레이의 판도를 완전히 바꿔놓았다",
@@ -2115,18 +2187,6 @@
       "url": "https://www.gurufocus.com/news/9069494/tesla-expands-robotaxi-services-with-247-availability",
       "cross_verified": true,
       "published_at": "2026-09-06T07:11:42.000000Z"
-    },
-    {
-      "title": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Pioneer Has the Stronger Technology Advantage?",
-      "title_ko": "IonQ 대 Rigetti Computing: 두 순수 양자 기술 선구자 중 어느 쪽이 더 강력한 기술적 우위를 점하고 있을까?",
-      "snippet": "Rigetti and IonQ are taking two separate approaches to quantum computing.",
-      "snippet_ko": "Rigetti와 IonQ는 양자 컴퓨팅에 대해 서로 다른 두 가지 접근 방식을 취하고 있다.",
-      "symbol": "NVDA",
-      "sentiment_score": -0.296,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-vs-rigetti-computing-pure-232000862.html",
-      "cross_verified": true,
-      "published_at": "2026-09-05T23:20:00.000000Z"
     }
   ]
 }
