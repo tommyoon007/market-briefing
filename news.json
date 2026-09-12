@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-12T00:02:07.653571+00:00",
+  "updated_at": "2026-09-12T07:03:05.236051+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "After O.P. Bhatt, Coforge NRC chair D.K. Singh resigns amid board tensions",
+      "title_ko": "O.P. 바트에 이어, 코포지 NRC 의장 D.K. 싱이 이사회 내 갈등 속에서 사임했다",
+      "snippet": "Coforge's NRC Chair D.K. Singh resigns amid governance disputes, following former Chairman O.P. Bhatt's abrupt departure.",
+      "snippet_ko": "코포지(Coforge)의 NRC 의장 D.K. 싱이, 전 의장 O.P. 바트의 갑작스러운 사임에 이어 지배구조 논란 속에서 사임했다.",
+      "symbol": "",
+      "sentiment_score": 0.7184,
+      "source": "thehindu.com",
+      "url": "https://www.thehindu.com/business/after-op-bhatt-coforge-nrc-chair-dk-singh-resigns-amid-board-tensions/article71459199.ece",
+      "cross_verified": true,
+      "published_at": "2026-09-12T05:43:09.000000Z"
+    },
+    {
+      "title": "US stocks jump after oil prices ease and an inflation update comes in near expectations",
+      "title_ko": "유가가 하락하고 인플레이션 지표가 시장 예상치에 근접한 것으로 나타나자 미국 증시가 급등했다",
+      "snippet": "NEW YORK — U.S. stocks rebounded Friday and regained much of their losses for the week after oil prices eased off their recent spurt. An update on inflation across the United States that came in close to economists' expectations, even if prices are still rising too quickly for everyone's liking, also helped calm the market.",
+      "snippet_ko": "뉴욕 — 금요일 미국 증시는 유가가 최근의 급등세를 누그러뜨리자 반등하며 이번 주 동안 기록한 손실의 상당 부분을 만회했다. 물가 상승세가 여전히 많은 이들의 기대보다 빠르게 진행되고는 있지만, 미국 전역의 인플레이션 지표가 경제학자들의 예상치에 근접한 수치를 기록하면서 시장 안정에 기여했다.",
+      "symbol": "",
+      "sentiment_score": -0.0774,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/12/business/foreign-business/us-stocks-jump-after-oil-prices-ease-and-an-inflation-update-comes-in-near-expectations/2423724",
+      "cross_verified": true,
+      "published_at": "2026-09-12T05:12:13.000000Z"
+    },
+    {
+      "title": "Bank of Hawaii Stock: Asset Repricing Remains A Multi-Year Tailwind (NYSE:BOH)",
+      "title_ko": "하와이 은행 주가: 자산 재평가, 여전히 수년간 지속될 긍정적 요인 (NYSE:BOH)",
+      "snippet": "Bank of Hawaii (BOH) outlook: NIM expansion, low credit risk real estate loans, rising capital and shareholder payouts—see why BOH stock looks undervalued now.",
+      "snippet_ko": "하와이 은행(BOH) 전망: 순이자마진(NIM) 확대, 신용 위험이 낮은 부동산 대출, 자본금 증가 및 주주 배당금 증대—현재 BOH 주가가 저평가된 것으로 보이는 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": -0.0103,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4945716-bank-of-hawaii-asset-repricing-remains-multi-year-tailwind",
+      "cross_verified": true,
+      "published_at": "2026-09-12T03:50:00.000000Z"
+    },
     {
       "title": "Lululemon’s Guidance Cut Sent Shares Down 18%, Was It An Overreaction?",
       "title_ko": "룰루레몬의 실적 전망 하향 조정에 주가가 18% 급락… 과반응이었을까?",
@@ -856,6 +892,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Global Market Pulse: Tech M&A Heat, Geopolitical Tensions, and Healthcare Shifts",
+      "title_ko": "글로벌 시장 동향: 기술 분야 M&A 열기, 지정학적 긴장, 의료 산업의 변화",
+      "snippet": "The artificial intelligence landscape continues to shift as Nvidia (NVDA) eyes a strategic stake in Anthropic. This move comes as Anthropic prepares for a",
+      "snippet_ko": "엔비디아(NVDA)가 앤트로픽에 대한 전략적 지분 확보를 모색함에 따라 인공지능 업계의 판도는 계속해서 변화하고 있다. 이러한 움직임은 앤트로픽이",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2059,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/global-market-pulse-tech-ma-heat-geopolitical-tensions-and-healthcare-shifts/71693/",
+      "cross_verified": true,
+      "published_at": "2026-09-12T02:08:09.000000Z"
+    },
+    {
+      "title": "Cook Hands Ternus Apple (AAPL) that Still has to Prove itself on AI",
+      "title_ko": "쿡, AI 분야에서 아직 실력을 입증해야 하는 테르누스 애플(AAPL)을 언급하다",
+      "snippet": "Tim Cook stepped down as Apple Inc. (NASDAQ:AAPL)’s CEO on September 1 after 15 years, becoming executive chairman and handing the role to hardware chief John Ternus, Reuters reported.",
+      "snippet_ko": "로이터 통신에 따르면, 팀 쿡은 15년간 재직한 후 지난 9월 1일 애플(NASDAQ:AAPL)의 CEO직에서 물러나 집행회장으로 취임했으며, CEO직은 하드웨어 부문 책임자인 존 테르누스에게 넘겼다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2363,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/cook-hands-ternus-apple-aapl-that-still-has-to-prove-itself-on-ai-1834254/",
+      "cross_verified": true,
+      "published_at": "2026-09-12T01:14:45.000000Z"
+    },
+    {
+      "title": "Meta’s $18 Billion Settlement Could Be the Green Light for a New AI Push",
+      "title_ko": "메타의 180억 달러 규모 합의, 새로운 AI 추진의 신호탄이 될 수 있다",
+      "snippet": "Meta Platforms, Inc.",
+      "snippet_ko": "메타 플랫폼스(주)",
+      "symbol": "META",
+      "sentiment_score": 0.3219,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/metas-18-billion-settlement-could-be-the-green-light-for-a-new-ai-push-1834249/",
+      "cross_verified": true,
+      "published_at": "2026-09-12T00:55:00.000000Z"
+    },
     {
       "title": "Xiaomi and Huawei Launch Foldable Smartphones Ahead of Apple’s Latest Product Launch",
       "title_ko": "샤오미와 화웨이, 애플의 최신 제품 출시를 앞두고 폴더블 스마트폰을 선보였다",
