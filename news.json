@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-12T07:03:05.236051+00:00",
+  "updated_at": "2026-09-12T12:04:36.150078+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Jim Cramer Dismisses Grab Holdings (GRAB) as a $3 Spec",
+      "title_ko": "짐 크레이머, 그랩 홀딩스(GRAB)를 3달러짜리 투기주라고 일축했다",
+      "snippet": "During the September 8 episode of Mad Money, a caller asked about Grab Holdings Limited (NASDAQ:GRAB), highlighting its Southeast Asian ride-hailing and food delivery model, growing fintech segment, and...",
+      "snippet_ko": "9월 8일 방송된 ‘매드 머니’에서 한 청취자가 그랩 홀딩스 리미티드(NASDAQ:GRAB)에 대해 문의하며, 이 회사의 동남아시아 차량 호출 및 음식 배달 사업 모델, 성장 중인 핀테크 부문, 그리고...",
+      "symbol": "",
+      "sentiment_score": 0.7003,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/jim-cramer-dismisses-grab-holdings-grab-as-a-3-spec-1836596/",
+      "cross_verified": true,
+      "published_at": "2026-09-12T11:23:22.000000Z"
+    },
+    {
+      "title": "Jim Cramer Said Robinhood Markets (NASDAQ:HOOD) Just Keeps On Growing",
+      "title_ko": "짐 크레이머는 로빈후드 마켓(나스닥:HOOD)이 계속해서 성장하고 있다고 말했다",
+      "snippet": "Financial markets platform Robinhood Markets (NASDAQ:HOOD) is one of Cramer's favorite stocks.",
+      "snippet_ko": "금융 시장 플랫폼 로빈후드 마켓츠(NASDAQ:HOOD)는 크레이머가 가장 선호하는 종목 중 하나다.",
+      "symbol": "",
+      "sentiment_score": 0.2063,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/jim-cramer-said-robinhood-markets-nasdaqhood-just-keeps-on-growing-1836671/",
+      "cross_verified": true,
+      "published_at": "2026-09-12T11:21:58.000000Z"
+    },
     {
       "title": "After O.P. Bhatt, Coforge NRC chair D.K. Singh resigns amid board tensions",
       "title_ko": "O.P. 바트에 이어, 코포지 NRC 의장 D.K. 싱이 이사회 내 갈등 속에서 사임했다",
@@ -892,6 +916,54 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Tech layoffs 2026: As AI takes center stage, here's a list of major companies that laid off employees",
+      "title_ko": "2026년 기술 업계 구조조정: AI가 주목받는 가운데, 직원을 감원한 주요 기업 목록은 다음과 같습니다.",
+      "snippet": "In the first 10 days of September, more than 5,000 tech jobs were cut, taking 2026 layoffs to 128,536 across 299 companies. Oracle, Amazon, Dell, Meta, Uber, PayPal and other major firms have announced workforce reductions this year.",
+      "snippet_ko": "9월 첫 10일 동안 5,000개 이상의 기술 분야 일자리가 감축되면서, 2026년 한 해 동안 299개 기업에서 총 128,536명이 정리해고됐다. 오라클, 아마존, 델, 메타, 우버, 페이팔 등 주요 기업들이 올해 인력 감축을 발표했다.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.0114,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/news/tech-layoffs-2026-as-ai-takes-center-stage-heres-a-list-of-major-companies-that-laid-off-employees-11789203637160.html",
+      "cross_verified": true,
+      "published_at": "2026-09-12T09:24:50.000000Z"
+    },
+    {
+      "title": "Meta May Overtake Google Search in Ad Revenue This Year, Bernstein Says",
+      "title_ko": "버나스타인, “메타가 올해 광고 매출에서 구글 검색을 추월할 수도 있다”고 전망",
+      "snippet": "According to a note published on August 31, Bernstein analysts believe Meta Platforms, Inc. (NASDAQ:META) will surpass Alphabet Inc.",
+      "snippet_ko": "8월 31일에 발표된 리포트에 따르면, 번스타인 애널리스트들은 메타 플랫폼스(Meta Platforms, Inc., 나스닥: META)가 알파벳(Alphabet Inc.)을 추월할 것으로 전망하고 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.5444,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/meta-may-overtake-google-search-in-ad-revenue-this-year-bernstein-says-1828495/",
+      "cross_verified": true,
+      "published_at": "2026-09-12T08:46:33.000000Z"
+    },
+    {
+      "title": "Delhi HC protects personality, publicity rights of journalist Rajat Sharma",
+      "title_ko": "델리 고등법원, 기자 라쟈트 샤르마의 인격권 및 초상권 보호",
+      "snippet": "The court restrained Facebook and YouTube accounts from misusing the journalist's name, image, voice and likeness, and directed platforms to act on complaints within specified timelines",
+      "snippet_ko": "법원은 페이스북과 유튜브 계정이 해당 기자의 이름, 사진, 목소리 및 초상을 악용하는 것을 금지하고, 해당 플랫폼들이 정해진 기한 내에 민원에 대응하도록 지시했다.",
+      "symbol": "META",
+      "sentiment_score": 0.7717,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/india-news/delhi-hc-protects-personality-publicity-rights-of-journalist-rajat-sharma-126091200365_1.html",
+      "cross_verified": true,
+      "published_at": "2026-09-12T08:15:02.000000Z"
+    },
+    {
+      "title": "Oracle Just Added $30 Billion in AI Contracts. Nvidia Investors Should Read the Fine Print",
+      "title_ko": "오라클, AI 계약 규모를 300억 달러 추가했다. 엔비디아 투자자들은 약관을 꼼꼼히 살펴봐야 한다",
+      "snippet": "Oracle Corporation (NYSE:ORCL) and NVIDIA Corporation (NASDAQ:NVDA) have given investors another huge AI demand signal, but the economics are more important than the headline.",
+      "snippet_ko": "오라클(Oracle Corporation, NYSE:ORCL)과 엔비디아(NVIDIA Corporation, NASDAQ:NVDA)가 투자자들에게 또 한 번의 강력한 AI 수요 신호를 보냈지만, 헤드라인보다 경제성이 더 중요하다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.2955,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/oracle-just-added-30-billion-in-ai-contracts-nvidia-investors-should-read-the-fine-print-1836520/",
+      "cross_verified": true,
+      "published_at": "2026-09-12T11:15:50.000000Z"
+    },
     {
       "title": "Global Market Pulse: Tech M&A Heat, Geopolitical Tensions, and Healthcare Shifts",
       "title_ko": "글로벌 시장 동향: 기술 분야 M&A 열기, 지정학적 긴장, 의료 산업의 변화",
