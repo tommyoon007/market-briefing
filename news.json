@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-12T16:53:26.883800+00:00",
+  "updated_at": "2026-09-12T20:25:02.137073+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "RingCentral Chief Accounting Officer Sells 4,568 Shares",
+      "title_ko": "링센트럴 최고회계책임자, 주식 4,568주 매도",
+      "snippet": "Tarun Arora executed a Rule 10b5-1 plan trade, divesting 4,568 shares while retaining 75,141 shares valued at $5.23 million. The sale occurred as RingCentral stock delivered a 126% one-year return.",
+      "snippet_ko": "타룬 아로라는 10b5-1 규정 기반 매매 계획을 실행하여 4,568주를 매각하는 한편, 523만 달러 상당의 75,141주는 보유했다. 이번 매각은 링센트럴(RingCentral) 주가가 1년 동안 126%의 수익률을 기록한 시점에 이루어졌다.",
+      "symbol": "",
+      "sentiment_score": 0.3591,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ringcentral-chief-accounting-officer-sells-192501820.html",
+      "cross_verified": true,
+      "published_at": "2026-09-12T19:25:01.000000Z"
+    },
+    {
+      "title": "How Much Do You Really Need Invested in Bristol Myers Squibb to Collect $10,000 a Year?",
+      "title_ko": "연간 10,000달러를 받기 위해서는 브리스톨 마이어스 스큅에 실제로 얼마를 투자해야 할까요?",
+      "snippet": "Collecting $10,000 a year from Bristol Myers Squibb sounds straightforward until you factor in a looming patent cliff that threatens the very earnings funding that payout. Here is what the math and the risk actually look like together.",
+      "snippet_ko": "브리스톨-마이어스 스큅으로부터 연간 1만 달러를 받는 것은, 그 배당금 지급의 근간이 되는 수익 자체를 위협하는 특허 만료 시점이 다가오고 있다는 점을 고려하기 전까지는 간단해 보입니다. 다음은 이러한 수치와 위험이 실제로 어떻게 맞물려 있는지를 보여줍니다.",
+      "symbol": "",
+      "sentiment_score": 0.2616,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/much-really-invested-bristol-myers-191537674.html",
+      "cross_verified": true,
+      "published_at": "2026-09-12T19:15:37.000000Z"
+    },
     {
       "title": "5 Big Yields That Could Be Slashed: Income Investors Beware",
       "title_ko": "급감할 가능성이 있는 5대 고수익 종목: 소득형 투자자들은 주의하라",
@@ -928,6 +952,54 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Google's Historic 396 MW Clean Energy Deal Just Changed the Game for 1 AI Power Play",
+      "title_ko": "구글의 역사적인 396MW 규모 청정 에너지 계약이 한 AI 파워 플레이의 판도를 완전히 바꿔놓았다",
+      "snippet": "Recent IPO stock Fervo Energy is building on its partnership with Google with a massive power purchase agreement.",
+      "snippet_ko": "최근 기업공개(IPO)를 마친 Fervo Energy가 구글과의 파트너십을 바탕으로 대규모 전력 구매 계약을 체결하고 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.4243,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/energy/articles/googles-historic-396-mw-clean-190500123.html",
+      "cross_verified": true,
+      "published_at": "2026-09-12T19:05:00.000000Z"
+    },
+    {
+      "title": "Should You Ignore MP Materials and Buy This Rare-Earth Stock Instead?",
+      "title_ko": "MP 머티리얼즈를 무시하고 대신 이 희토류 주식을 매수해야 할까요?",
+      "snippet": "Rare-earth magnets are essential to the modern economy, and these two stocks help ensure a domestic supply.",
+      "snippet_ko": "희토류 자석은 현대 경제에 필수적이며, 이 두 종목은 국내 공급을 확보하는 데 기여합니다.",
+      "symbol": "MP",
+      "sentiment_score": 0.0859,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ignore-mp-materials-buy-rare-173300735.html",
+      "cross_verified": true,
+      "published_at": "2026-09-12T17:33:00.000000Z"
+    },
+    {
+      "title": "Prediction: Nvidia Stock Could Be Worth This Much by January 2028",
+      "title_ko": "전망: 2028년 1월이 되면 엔비디아 주가가 이 정도까지 오를 수 있다",
+      "snippet": "Nvidia is calling for 70% revenue growth for fiscal 2028.",
+      "snippet_ko": "엔비디아는 2028 회계연도에 매출이 70% 성장할 것으로 전망하고 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3889,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-could-worth-171700541.html",
+      "cross_verified": true,
+      "published_at": "2026-09-12T17:17:00.000000Z"
+    },
+    {
+      "title": "1 Magnificent Growth Stock Down 55% to Buy Right Now, According to Wall Street",
+      "title_ko": "월스트리트에 따르면, 현재 55% 하락한 이 훌륭한 성장주가 바로 지금 매수할 만한 종목이다",
+      "snippet": "Artificial intelligence is making cybersecurity more important than it has ever been.",
+      "snippet_ko": "인공지능 덕분에 사이버 보안의 중요성이 그 어느 때보다 커지고 있다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.1095,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-magnificent-growth-stock-down-193500413.html",
+      "cross_verified": true,
+      "published_at": "2026-09-12T19:35:00.000000Z"
+    },
     {
       "title": "Prediction: This High-Yield Dow Dividend Stock Will Become a Dividend King Before the End of the Year.",
       "title_ko": "전망: 이 고수익 다우 지수 배당주는 올해가 끝나기 전에 ‘배당왕’이 될 것이다.",
