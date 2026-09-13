@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-13T04:19:17.987256+00:00",
+  "updated_at": "2026-09-13T11:31:13.144065+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Upwork: Continued Client Losses Can't Be Ignored (NASDAQ:UPWK)",
+      "title_ko": "업워크: 계속되는 고객 이탈은 더 이상 무시할 수 없다 (나스닥:UPWK)",
+      "snippet": "Upwork faces AI disruption and client declines despite low valuation. Click for more on UPWK stock.",
+      "snippet_ko": "업워크(Upwork)는 낮은 기업 가치에도 불구하고 AI로 인한 시장 변화와 고객 감소에 직면해 있다. UPWK 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": -0.3224,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4945839-upwork-continued-client-losses-cant-be-ignored",
+      "cross_verified": true,
+      "published_at": "2026-09-13T10:36:20.000000Z"
+    },
+    {
+      "title": "Zeta targets global profitability in FY27 as overseas business scales",
+      "title_ko": "제타, 해외 사업 확대에 힘입어 27 회계연도 글로벌 수익성 달성 목표",
+      "snippet": "The banking-tech firm expects years of investment in international markets to start translating into revenue, while larger bank partnerships drive its India expansion.",
+      "snippet_ko": "이 뱅킹 테크 기업은 국제 시장에 수년간 투자해 온 성과가 이제 매출로 이어지기 시작할 것으로 기대하는 한편, 대형 은행들과의 파트너십을 통해 인도 시장 진출을 가속화하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.2058,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/news/zeta-targets-global-profitability-in-fy27-as-overseas-business-scales-11789282205322.html",
+      "cross_verified": true,
+      "published_at": "2026-09-13T09:56:48.000000Z"
+    },
+    {
+      "title": "Robinhood (HOOD) Expands Prediction Markets With Crypto.com Partnership",
+      "title_ko": "로빈후드(HOOD), 크립토닷컴과의 제휴를 통해 예측 시장 확대",
+      "snippet": "Robinhood Markets, Inc. (NASDAQ:HOOD) is continuing to position prediction markets as an important part of its broader growth strategy.",
+      "snippet_ko": "로빈후드 마켓츠(Robinhood Markets, Inc.)(나스닥: HOOD)는 예측 시장을 자사의 광범위한 성장 전략의 중요한 축으로 계속해서 자리매김하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.5364,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/robinhood-hood-expands-prediction-markets-with-crypto-com-partnership-1835995/",
+      "cross_verified": true,
+      "published_at": "2026-09-13T09:49:28.000000Z"
+    },
     {
       "title": "Altria Group Stock: Recent Puffs Aren't Enough For An Upgrade (NYSE:MO)",
       "title_ko": "알트리아 그룹 주가: 최근 상승세만으로는 등급 상향 조정에는 부족하다 (NYSE:MO)",
@@ -1024,6 +1060,30 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "From 2018 to 2022, more than 200,000 Break Free From Plastic volunteers audited waste in 84 countries; 56 companies produced more than half of all branded plastic pollution",
+      "title_ko": "2018년부터 2022년까지 84개국에서 20만 명 이상의 ‘Break Free From Plastic’ 자원봉사자들이 폐기물을 조사했으며, 56개 기업이 전체 브랜드 플라스틱 오염의 절반 이상을 발생시킨 것으로 나타났습니다.",
+      "snippet": "A new study reveals that just 56 companies are responsible for over half of the world's branded plastic pollution, highlighting the urgent need for corporate accountability and reduced plastic production. Discover which companies are at the forefront of this environmental crisis.",
+      "snippet_ko": "새로운 연구에 따르면, 전 세계 브랜드 플라스틱 오염의 절반 이상을 단 56개 기업이 유발하고 있는 것으로 드러났으며, 이는 기업의 책임 이행과 플라스틱 생산 감축이 시급함을 강조하고 있습니다. 이 환경 위기의 최전선에 서 있는 기업들이 어디인지 확인해 보세요.",
+      "symbol": "KO",
+      "sentiment_score": -0.3612,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/international/us/from-2018-to-2022-more-than-200000-break-free-from-plastic-volunteers-audited-waste-in-84-countries-56-companies-produced-more-than-half-of-all-branded-plastic-pollution/articleshow/134119806.cms",
+      "cross_verified": true,
+      "published_at": "2026-09-13T08:00:00.000000Z"
+    },
+    {
+      "title": "McDonald's Stock: At 52-Week Lows, But I'm Still Not Interested (NYSE:MCD)",
+      "title_ko": "맥도날드 주가: 52주 최저치지만, 여전히 관심이 없다 (NYSE:MCD)",
+      "snippet": "McDonald's Q2 saw weaker-than-expected same-store sales and revenue, with US comparable sales growth at just 0.8% amid execution issues. See why MCD stock is a Hold.",
+      "snippet_ko": "맥도날드의 2분기 동일 매장 매출과 매출액은 예상보다 부진한 모습을 보였으며, 운영상의 문제로 인해 미국 내 동일 매장 매출 성장률은 0.8%에 그쳤습니다. MCD 주식을 ‘보유(Hold)’로 평가하는 이유를 확인해 보세요.",
+      "symbol": "MCD",
+      "sentiment_score": -0.3178,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4945825-mcdonalds-at-52-week-lows-but-im-still-not-interested",
+      "cross_verified": true,
+      "published_at": "2026-09-13T03:56:40.000000Z"
+    },
     {
       "title": "McDonald's: Take A Step Back As Comps Slow And Rivals Gain (NYSE:MCD)",
       "title_ko": "맥도날드: 동일 매장 매출 성장세 둔화와 경쟁사들의 약세 속에서 한 발 물러서야 (NYSE:MCD)",
@@ -2199,30 +2259,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-climbed-week-224017728.html",
       "cross_verified": true,
       "published_at": "2026-09-05T22:40:17.000000Z"
-    },
-    {
-      "title": "Prediction: Amazon Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club Before 2029",
-      "title_ko": "전망: 아마존이 2029년 이전에 엔비디아, 애플, 알파벳과 함께 ‘4조 달러 클럽’에 합류할 것이다",
-      "snippet": "Amazon stock has underperformed the S&P 500 over the last five years, but the company has incredible strengths.",
-      "snippet_ko": "지난 5년 동안 아마존 주가는 S&P 500 지수보다 부진한 성과를 보였지만, 이 회사는 놀라운 강점을 지니고 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4989,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-amazon-join-nvidia-apple-194000818.html",
-      "cross_verified": true,
-      "published_at": "2026-09-05T19:40:00.000000Z"
-    },
-    {
-      "title": "Nvidia’s Hugging Face Deal Is a Hedge against Broadcom’s Custom Silicon Threat",
-      "title_ko": "엔비디아의 허깅페이스 인수 거래는 브로드컴의 맞춤형 반도체 위협에 대한 대비책이다",
-      "snippet": "NVIDIA Corporation (NASDAQ:NVDA) has officially committed billions on AI developer platform Hugging Face for a $12.9 billion.",
-      "snippet_ko": "엔비디아(NVIDIA Corporation, 나스닥: NVDA)는 AI 개발자 플랫폼인 허깅 페이스(Hugging Face)에 129억 달러를 투자하기로 공식적으로 약속했다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.5059,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/nvidias-hugging-face-deal-is-a-hedge-against-broadcoms-custom-silicon-threat-1827852/",
-      "cross_verified": true,
-      "published_at": "2026-09-06T10:51:11.000000Z"
     }
   ]
 }
