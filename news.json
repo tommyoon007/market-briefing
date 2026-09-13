@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-12T23:53:10.756561+00:00",
+  "updated_at": "2026-09-13T04:19:17.987256+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Altria Group Stock: Recent Puffs Aren't Enough For An Upgrade (NYSE:MO)",
+      "title_ko": "알트리아 그룹 주가: 최근 상승세만으로는 등급 상향 조정에는 부족하다 (NYSE:MO)",
+      "snippet": "Altria Group's revenue and adjusted profits saw modest growth but volume declines in premium brands. Read why MO stock is reaffirmed as Hold.",
+      "snippet_ko": "알트리아 그룹의 매출과 조정 이익은 소폭 증가했으나, 프리미엄 브랜드의 판매량은 감소했습니다. MO 주식이 ‘보유(Hold)’ 등급을 재확인받은 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4945824-altria-groups-recent-puffs-arent-enough-for-an-upgrade",
+      "cross_verified": true,
+      "published_at": "2026-09-13T03:37:45.000000Z"
+    },
+    {
+      "title": "Murphy Oil Stock: FCF Focus Makes A Difference Through Better Offshore Results (NYSE:MUR)",
+      "title_ko": "머피 오일 주가: 자유현금흐름(FCF)에 초점을 맞춘 전략이 해상 사업 실적 호조를 통해 차이를 만들어내고 있다 (NYSE:MUR)",
+      "snippet": "Murphy Oil has more than a few discoveries that will likely build the business in the future. Click here to read why I rate MUR stock a Strong Buy.",
+      "snippet_ko": "머피 오일(Murphy Oil)은 향후 사업 성장을 이끌 것으로 보이는 유망한 발견 사례를 다수 보유하고 있습니다. 제가 MUR 주식을 ‘강력 매수’로 평가하는 이유를 확인하려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.6093,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4945823-murphy-oil-fcf-focus-makes-a-difference-through-better-offshore-results",
+      "cross_verified": true,
+      "published_at": "2026-09-13T03:21:00.000000Z"
+    },
+    {
+      "title": "Keurig Dr Pepper: Beverage Momentum And JDE Peet's Synergies Support A Buy (NASDAQ:KDP)",
+      "title_ko": "Keurig Dr Pepper: 음료 부문의 호조와 JDE Peet's와의 시너지 효과로 매수 추천 (NASDAQ:KDP)",
+      "snippet": "Keurig Dr Pepper's beverage segment delivers sustainable volume-led growth. Click here to find out why I rate KDP stock a Buy.",
+      "snippet_ko": "Keurig Dr Pepper의 음료 부문은 판매량 중심의 지속 가능한 성장을 기록하고 있습니다. 제가 KDP 주식을 ‘매수’로 평가하는 이유를 알아보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.4019,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4945822-keurig-dr-pepper-stock-beverage-momentum-and-jde-peets-synergies-support-buy",
+      "cross_verified": true,
+      "published_at": "2026-09-13T03:19:20.000000Z"
+    },
     {
       "title": "AI Agents Create Their Own Monitoring Problem. Datadog and Dynatrace Are Racing to Own It",
       "title_ko": "AI 에이전트가 스스로 모니터링 문제를 야기하고 있다. Datadog과 Dynatrace는 이 시장을 선점하기 위해 치열한 경쟁을 벌이고 있다.",
@@ -988,6 +1024,18 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "McDonald's: Take A Step Back As Comps Slow And Rivals Gain (NYSE:MCD)",
+      "title_ko": "맥도날드: 동일 매장 매출 성장세 둔화와 경쟁사들의 약세 속에서 한 발 물러서야 (NYSE:MCD)",
+      "snippet": "McDonald's faces a significant slowdown in Q2 comp sales, underperforming rivals like Restaurant Brands and Chipotle. Read why MCD stock is a Hold.",
+      "snippet_ko": "맥도날드는 2분기 동일 매장 매출이 크게 둔화되며, 레스토랑 브랜즈(Restaurant Brands)나 치폴레(Chipotle) 같은 경쟁사들보다 부진한 실적을 기록했습니다. MCD 주식을 ‘보유(Hold)’로 평가하는 이유를 확인해 보세요.",
+      "symbol": "MCD",
+      "sentiment_score": 0.5267,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4945821-mcdonalds-take-a-step-back-as-comps-slow-and-rivals-gain-upgrade",
+      "cross_verified": true,
+      "published_at": "2026-09-13T03:13:26.000000Z"
+    },
     {
       "title": "Not Nvidia. Not Micron. This Dirt Cheap “Magnificent Seven” Stock Could Be the Biggest Winner of the Trillion-Dollar AI Race – Here’s the Case.",
       "title_ko": "엔비디아도 아니고, 마이크론도 아니다. 이 엄청나게 저렴한 ‘위대한 7인’ 주식이 1조 달러 규모의 AI 경쟁에서 가장 큰 승자가 될 수도 있다 – 그 근거는 다음과 같다.",
@@ -2175,18 +2223,6 @@
       "url": "https://www.insidermonkey.com/blog/nvidias-hugging-face-deal-is-a-hedge-against-broadcoms-custom-silicon-threat-1827852/",
       "cross_verified": true,
       "published_at": "2026-09-06T10:51:11.000000Z"
-    },
-    {
-      "title": "Tesla Expands Robotaxi Services with 24/7 Availability",
-      "title_ko": "테슬라, 연중무휴 24시간 운영으로 로봇택시 서비스 확대",
-      "snippet": "On September 06, 2026, Tesla's AI head, Ashok Elluswamy, announced that the company's Robotaxi service is set to transition into a 24/7 operational model. This",
-      "snippet_ko": "2026년 9월 6일, 테슬라의 AI 부문 책임자인 아쇼크 엘루스와미는 회사의 로보택시 서비스가 연중무휴 24시간 운영 모델로 전환될 예정이라고 발표했습니다. 이는",
-      "symbol": "TSLA",
-      "sentiment_score": 0.5075,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9069494/tesla-expands-robotaxi-services-with-247-availability",
-      "cross_verified": true,
-      "published_at": "2026-09-06T07:11:42.000000Z"
     }
   ]
 }
