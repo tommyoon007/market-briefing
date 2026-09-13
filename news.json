@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-13T15:59:26.804356+00:00",
+  "updated_at": "2026-09-13T18:44:47.567204+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Insidious: Out of the Further OTT release update: When and where will Amelia Eve’s horror movie stream after theatrical run",
+      "title_ko": "《인시디어스: 아웃 오브 더 퍼더》 OTT 공개 소식: 아멜리아 이브 주연의 이 공포 영화는 극장 상영 종료 후 언제, 어디서 스트리밍될까?",
+      "snippet": "Insidious: Out of the Further is the sixth instalment in the popular horror franchise and follows Gemma, a young mother who discovers that she can enter the terrifying realm known as The Further. The film, which released in theatres on August 21, 2026, has also been performing strongly at the box office. Heres everything to know about its expected Netflix OTT release date, cast, story and streaming details.",
+      "snippet_ko": "《인시디어스: 아웃 오브 더 퍼더》는 인기 호러 시리즈의 여섯 번째 작품으로, ‘더 퍼더’라는 공포의 세계로 들어갈 수 있다는 사실을 알게 된 젊은 엄마 젬마의 이야기를 다룹니다. 2026년 8월 21일 극장에서 개봉한 이 영화는 박스오피스에서도 호조를 보이고 있다. 넷플릭스 OTT 공개 예정일, 출연진, 줄거리 및 스트리밍 정보에 대해 알아야 할 모든 내용을 소개한다.",
+      "symbol": "",
+      "sentiment_score": 0.7184,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/insidious-out-of-the-further-ott-release-update-when-and-where-will-amelia-eves-horror-movie-stream-after-theatrical-run/articleshow/134214640.cms",
+      "cross_verified": true,
+      "published_at": "2026-09-13T17:42:26.000000Z"
+    },
     {
       "title": "On Second Thought, Never Mind: Here’s Why ORCL’s Larry Ellison Just Canceled $7.5 Billion Stock Sale",
       "title_ko": "다시 생각해보니, 그만두기로 했습니다: ORCL의 래리 엘리슨이 75억 달러 규모의 주식 매각을 막 취소한 이유는 바로 이것입니다",
@@ -1096,6 +1108,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Warren Buffett Made Apple Berkshire Hathaway's Single Largest Stock Position: $10,000 Invested 10 Years Ago Would Be Worth Roughly $122,400 Today",
+      "title_ko": "워런 버핏, 애플을 버크셔 해서웨이의 최대 보유 종목으로 선정: 10년 전 1만 달러를 투자했다면 현재 약 12만 2,400달러의 가치가 될 것",
+      "snippet": "Buffett and the Berkshire team began investing in Apple in 2016.",
+      "snippet_ko": "버핏과 버크셔 팀은 2016년부터 애플에 투자하기 시작했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4958,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-made-apple-berkshire-173600865.html",
+      "cross_verified": true,
+      "published_at": "2026-09-13T17:36:00.000000Z"
+    },
+    {
+      "title": "Nvidia vs. Broadcom: Which Trillion-Dollar AI Chip Stock Has More Upside After Their Latest Earnings?",
+      "title_ko": "엔비디아 대 브로드컴: 최근 실적 발표 이후, 1조 달러 규모 AI 칩 기업 중 어느 쪽의 상승 여력이 더 클까?",
+      "snippet": "Nvidia and Broadcom both just delivered monster earnings reports.",
+      "snippet_ko": "엔비디아와 브로드컴은 모두 방금 엄청난 실적을 발표했습니다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.4261,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-broadcom-trillion-dollar-172700367.html",
+      "cross_verified": true,
+      "published_at": "2026-09-13T17:27:00.000000Z"
+    },
+    {
+      "title": "AMD and Intel’s Shared AI Instructions Reach GCC. Can Software Cooperation Strengthen Both Stocks?",
+      "title_ko": "AMD와 인텔의 공동 AI 명령어가 GCC에 적용된다. 소프트웨어 협력으로 양사 주가가 상승할 수 있을까?",
+      "snippet": "AMD and Intel compete for processor customers, but they have a common interest in making developers comfortable staying with x86. A September 2 GCC commit added initial support for their AI Compute Extensions, or ACE, bringing that shared strategy into a widely used compiler’s development code. For Advanced Micro Devices, Inc. (NASDAQ:AMD) and Intel Corporation […]",
+      "snippet_ko": "AMD와 인텔은 프로세서 고객을 두고 경쟁하고 있지만, 개발자들이 x86 아키텍처를 계속 사용하도록 유도하는 데는 공통된 이해관계를 가지고 있습니다. 9월 2일 GCC에 적용된 커밋을 통해 두 회사의 ‘AI Compute Extensions(ACE)’에 대한 초기 지원이 추가되면서, 이 공동 전략이 널리 사용되는 컴파일러의 개발 코드에 반영되었습니다. 어드밴스드 마이크로 디바이스(Advanced Micro Devices, Inc., NASDAQ:AMD)와 인텔 코퍼레이션(Intel Corporation) […]",
+      "symbol": "INTC",
+      "sentiment_score": 0.4644,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-intel-shared-ai-instructions-165917161.html",
+      "cross_verified": true,
+      "published_at": "2026-09-13T16:59:17.000000Z"
+    },
     {
       "title": "Predicting Intel's Value by 2030 Could Make It Worth a Look Right Now",
       "title_ko": "2030년까지 인텔의 가치를 예측해 보면, 지금 당장 이 기업을 주목해 볼 만할 수도 있다",
@@ -2259,42 +2307,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-india-drama-erupts-while-175220642.html",
       "cross_verified": true,
       "published_at": "2026-09-06T17:52:20.000000Z"
-    },
-    {
-      "title": "Nvidia Is Near Its High While Its Biggest Chip Peers Sit 18% to 32% Below Theirs. These Are the Chip Stocks to Buy.",
-      "title_ko": "엔비디아는 최고가에 근접한 반면, 주요 경쟁사들의 주가는 최고가 대비 18%에서 32% 낮은 수준에 머물러 있습니다. 매수해야 할 반도체 주식은 다음과 같습니다.",
-      "snippet": "One wave of AI spending pays all five of these companies. Why do their discounts run from 2.6% to 32%?",
-      "snippet_ko": "단 한 번의 AI 투자 물결만으로도 이 5개 기업 모두에 자금이 유입됩니다. 그런데 왜 이들 기업의 할인율은 2.6%에서 32%까지 차이가 나는 것일까요?",
-      "symbol": "AVGO",
-      "sentiment_score": 0.0249,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-near-high-while-biggest-173401947.html",
-      "cross_verified": true,
-      "published_at": "2026-09-06T17:34:01.000000Z"
-    },
-    {
-      "title": "Meta Platforms (NASDAQ:META) -- Navigating Challenges in Social Media",
-      "title_ko": "메타 플랫폼스(나스닥: META) — 소셜 미디어의 난관을 헤쳐나가기",
-      "snippet": "Investments in the metaverse and AI-driven features.Advertising revenue recovery post-privacy changes.Competition from emerging social media platforms poses ris",
-      "snippet_ko": "메타버스 및 AI 기반 기능에 대한 투자. 개인정보 보호 정책 변경 이후 광고 수익 회복. 신흥 소셜 미디어 플랫폼의 경쟁으로 인한 위험",
-      "symbol": "META",
-      "sentiment_score": 0.3376,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9069521/meta-platforms-nasdaqmeta-navigating-challenges-in-social-media",
-      "cross_verified": true,
-      "published_at": "2026-09-06T17:00:12.000000Z"
-    },
-    {
-      "title": "Will Alphabet Break Warren Buffett's Cardinal Rule of Investing?",
-      "title_ko": "알파벳이 워런 버핏의 투자 철칙을 깨뜨릴 것인가?",
-      "snippet": "Berkshire Hathaway has made Alphabet one of the top positions in its large stock portfolio this year.",
-      "snippet_ko": "버크셔 해서웨이는 올해 알파벳을 자사의 대형주 포트폴리오에서 주요 보유 종목 중 하나로 삼았다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.0884,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-break-warren-buffetts-cardinal-151500923.html",
-      "cross_verified": true,
-      "published_at": "2026-09-06T15:15:00.000000Z"
     }
   ]
 }
