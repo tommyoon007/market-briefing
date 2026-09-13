@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-13T11:31:13.144065+00:00",
+  "updated_at": "2026-09-13T15:59:26.804356+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "On Second Thought, Never Mind: Here’s Why ORCL’s Larry Ellison Just Canceled $7.5 Billion Stock Sale",
+      "title_ko": "다시 생각해보니, 그만두기로 했습니다: ORCL의 래리 엘리슨이 75억 달러 규모의 주식 매각을 막 취소한 이유는 바로 이것입니다",
+      "snippet": "Larry Ellison had a $7.5 billion Oracle stock sale locked and loaded, then quietly walked away without explanation. What he did instead says everything about where he thinks the company is headed.",
+      "snippet_ko": "래리 엘리슨은 75억 달러 규모의 오라클 주식 매각을 거의 마무리 지은 상태였으나, 아무런 설명도 없이 조용히 물러났다. 그가 대신 취한 행동은 그가 회사의 미래 방향을 어떻게 보고 있는지를 여실히 보여준다.",
+      "symbol": "",
+      "sentiment_score": 0.1821,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/second-thought-never-mind-why-145340407.html",
+      "cross_verified": true,
+      "published_at": "2026-09-13T14:53:40.000000Z"
+    },
+    {
+      "title": "19-year-old YouTuber builds 300-sq ft. tiny home on parents’ property for $45,000. Here's why more Gen Z are choosing to live independently",
+      "title_ko": "19세 유튜버가 부모님 땅에 45,000달러를 들여 300제곱피트 규모의 작은 집을 지었다. Z세대가 독립적인 생활을 선택하는 이유가 여기에 있다.",
+      "snippet": "A nineteen-year-old built her own tiny home on her parents' property, avoiding rent. This trend highlights young Americans seeking independence and affordable housing solutions. Rising home prices and rents are making traditional living arrangements difficult for many. Accessory Dwelling Units, or ADUs, offer smaller, independent living spaces on existing land. This innovative approach provides privacy and lower housing costs for the next generation.",
+      "snippet_ko": "19세 소녀가 부모님의 부지에 직접 작은 집을 지어 월세 부담을 피했습니다. 이러한 추세는 독립을 추구하고 저렴한 주거 해결책을 모색하는 미국 젊은이들의 현실을 잘 보여줍니다. 주택 가격과 임대료의 상승으로 인해 많은 사람들이 전통적인 주거 방식을 유지하기 어려워지고 있습니다. 부속 주거 단위(ADU)는 기존 부지 내에 더 작고 독립적인 주거 공간을 제공합니다. 이러한 혁신적인 접근 방식은 차세대에게 사생활 보호와 낮은 주거 비용을 보장합니다.",
+      "symbol": "",
+      "sentiment_score": 0.2732,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/19-year-old-youtuber-builds-300-sq-ft-tiny-home-on-parents-property-for-45000-heres-why-more-gen-z-are-choosing-to-live-independently/articleshow/134206115.cms",
+      "cross_verified": true,
+      "published_at": "2026-09-13T14:49:23.000000Z"
+    },
+    {
+      "title": "NEW MID-TERM FINANCIAL TARGETS - ISS TO ACCELERATE HIGHER-QUALITY GROWTH AND EXPAND MARGINS",
+      "title_ko": "새로운 중기 재무 목표 - ISS, 고품질 성장 가속화 및 마진 확대 추진",
+      "snippet": "Company Announcement",
+      "snippet_ko": "회사 공지사항",
+      "symbol": "",
+      "sentiment_score": 0.497,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/13/tmt-newswire/globenewswire/new-mid-term-financial-targets-iss-to-accelerate-higher-quality-growth-and-expand-margins/2424023",
+      "cross_verified": true,
+      "published_at": "2026-09-13T14:48:22.000000Z"
+    },
     {
       "title": "Upwork: Continued Client Losses Can't Be Ignored (NASDAQ:UPWK)",
       "title_ko": "업워크: 계속되는 고객 이탈은 더 이상 무시할 수 없다 (나스닥:UPWK)",
@@ -1060,6 +1096,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Predicting Intel's Value by 2030 Could Make It Worth a Look Right Now",
+      "title_ko": "2030년까지 인텔의 가치를 예측해 보면, 지금 당장 이 기업을 주목해 볼 만할 수도 있다",
+      "snippet": "Intel stock has dipped lately, but it could bounce back given its strong growth prospects.",
+      "snippet_ko": "인텔 주가는 최근 하락세를 보였지만, 탄탄한 성장 전망을 고려할 때 다시 반등할 가능성이 있다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/predicting-intels-value-2030-could-144300174.html",
+      "cross_verified": true,
+      "published_at": "2026-09-13T14:43:00.000000Z"
+    },
+    {
+      "title": "Broadcom’s Anthropic Ramp Puts Google’s TPU Business in a Different Light",
+      "title_ko": "브로드컴의 앤트로픽 인수, 구글의 TPU 사업을 새로운 시각에서 바라보게 하다",
+      "snippet": "Broadcom's September 2 results show custom AI hardware turning into substantial sales.",
+      "snippet_ko": "브로드컴의 9월 2일 실적 발표에 따르면, 맞춤형 AI 하드웨어가 상당한 매출로 이어지고 있는 것으로 나타났다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.5071,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/broadcoms-anthropic-ramp-puts-googles-tpu-business-in-a-different-light-1836961/",
+      "cross_verified": true,
+      "published_at": "2026-09-13T11:38:04.000000Z"
+    },
+    {
+      "title": "Amazon’s Zoox Enters San Francisco’s Crowded Robotaxi Market, Taking Direct Aim at Waymo and Tesla",
+      "title_ko": "아마존의 ‘줌(Zoox)’, 샌프란시스코의 치열한 로봇택시 시장에 진출… 웨이모와 테슬라를 정면으로 겨냥",
+      "snippet": "According to an August 29 report, Amazon.com Inc.",
+      "snippet_ko": "8월 29일자 보도에 따르면, 아마존닷컴(Amazon.com Inc.)은",
+      "symbol": "AMZN",
+      "sentiment_score": 0.1879,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/amazons-zoox-enters-san-franciscos-crowded-robotaxi-market-taking-direct-aim-at-waymo-and-tesla-1827585/",
+      "cross_verified": true,
+      "published_at": "2026-09-13T11:25:58.000000Z"
+    },
     {
       "title": "From 2018 to 2022, more than 200,000 Break Free From Plastic volunteers audited waste in 84 countries; 56 companies produced more than half of all branded plastic pollution",
       "title_ko": "2018년부터 2022년까지 84개국에서 20만 명 이상의 ‘Break Free From Plastic’ 자원봉사자들이 폐기물을 조사했으며, 56개 기업이 전체 브랜드 플라스틱 오염의 절반 이상을 발생시킨 것으로 나타났습니다.",
@@ -2223,42 +2295,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-break-warren-buffetts-cardinal-151500923.html",
       "cross_verified": true,
       "published_at": "2026-09-06T15:15:00.000000Z"
-    },
-    {
-      "title": "PLTR Looks 0.6% Undervalued on GF Value™ as Momentum Surges",
-      "title_ko": "모멘텀이 급등하면서 GF Value™ 기준 PLTR은 0.6% 저평가된 것으로 나타남",
-      "snippet": "On September 06, 2026, the technology sector posted a strong 6.36% gain in August, driven largely by stellar earnings reports from key players. Palantir Technol",
-      "snippet_ko": "2026년 9월 6일, 기술 부문은 주요 기업들의 뛰어난 실적 발표에 힘입어 8월 한 달 동안 6.36%의 견실한 상승세를 기록했다. 팔란티어 테크놀로지",
-      "symbol": "PLTR",
-      "sentiment_score": 0.6597,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9069510/pltr-looks-06-undervalued-on-gf-value-as-momentum-surges",
-      "cross_verified": true,
-      "published_at": "2026-09-06T15:56:14.000000Z"
-    },
-    {
-      "title": "Intel’s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
-      "title_ko": "인텔의 AI 호재는 확실하다. 그럼에도 미즈호는 목표 주가를 하향 조정했다.",
-      "snippet": "On September 3, Mizuho lowered the price target on Intel Corporation (NASDAQ:INTC) to $92 from $109. Mizuho’s note reads more bullish on INTC’s business than the price target suggests, but the firm is stopping short of turning bullish. The firm noted multiple operating tailwinds working in favor of Intel, namely Agentic AI demand, enterprise server […]",
-      "snippet_ko": "9월 3일, 미즈호는 인텔(NASDAQ:INTC)의 목표주가를 109달러에서 92달러로 하향 조정했다. 미즈호의 보고서 내용은 목표주가가 시사하는 것보다 인텔의 사업에 대해 더 낙관적인 입장을 담고 있으나, 해당 기관은 아직까지 공식적으로 강세 전망을 내놓지는 않고 있다. 이 기관은 인텔에 유리한 여러 가지 경영상의 호재, 즉 에이전틱 AI 수요, 기업용 서버 […] 등을 언급했다.",
-      "symbol": "INTC",
-      "sentiment_score": -0.0287,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/intel-ai-tailwinds-real-mizuho-225825483.html",
-      "cross_verified": true,
-      "published_at": "2026-09-05T22:58:25.000000Z"
-    },
-    {
-      "title": "Why Intel Stock Climbed This Week",
-      "title_ko": "이번 주 인텔 주가가 상승한 이유",
-      "snippet": "Dell's torrid revenue growth bodes well for the semiconductor leader.",
-      "snippet_ko": "델의 눈부신 매출 성장은 반도체 업계 선두주자에게 긍정적인 신호로 작용하고 있다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.0555,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-climbed-week-224017728.html",
-      "cross_verified": true,
-      "published_at": "2026-09-05T22:40:17.000000Z"
     }
   ]
 }
