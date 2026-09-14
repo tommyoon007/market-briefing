@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-13T22:16:45.028967+00:00",
+  "updated_at": "2026-09-14T04:25:52.282290+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Anthropic walks tightrope to Nasdaq, pushing for a slowdown while pursuing $2 trillion valuation",
+      "title_ko": "앤트로픽은 나스닥 상장을 앞두고 줄타기 같은 행보를 보이고 있으며, 2조 달러의 기업가치를 추구하는 한편 성장 속도 조절을 모색하고 있다.",
+      "snippet": "As Anthropic meets with prospective investors ahead of its potentially historic market debut, CEO Dario Amodei is pushing for a slowdown in AI.",
+      "snippet_ko": "역사적인 시장 데뷔를 앞두고 앤트로픽이 잠재적 투자자들과 회동을 갖는 가운데, 다리오 아모데이 CEO는 AI 발전 속도를 늦추자고 촉구하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
+      "cross_verified": true,
+      "published_at": "2026-09-14T04:01:01.000000Z"
+    },
+    {
+      "title": "Softbank Group gets upsized $11.9 billion loan in OpenAI funding push",
+      "title_ko": "소프트뱅크 그룹, 오픈AI 자금 조달 추진에 따라 119억 달러 규모의 대출 규모 확대",
+      "snippet": "The Japanese conglomerate sealed the two-year facility last week, attracting commitments from around 20 banks",
+      "snippet_ko": "이 일본 대기업은 지난주 약 20개 은행으로부터 자금 조달 약정을 확보하며 2년 만기 대출 계약을 체결했다.",
+      "symbol": "",
+      "sentiment_score": 0.1841,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/softbank-group-gets-upsized-11-9-billion-loan-in-openai-funding-push-126091400091_1.html",
+      "cross_verified": true,
+      "published_at": "2026-09-14T03:33:33.000000Z"
+    },
     {
       "title": "A $100 Monthly Investment in VGT Could Grow Into This Over 20 Years",
       "title_ko": "VGT에 매달 100달러씩 투자하면 20년 후 이만큼 불어날 수 있습니다",
@@ -1132,6 +1156,42 @@
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Why You Should Still Invest in US Stocks Despite Market Volatility",
+      "title_ko": "시장 변동성에도 불구하고 여전히 미국 주식에 투자해야 하는 이유",
+      "snippet": "Short-term volatility does not undermine the long-term case for US stocks – here's why Singapore investors may still want exposure.",
+      "snippet_ko": "단기적인 변동성이 미국 주식의 장기적 투자 매력에 타격을 주지는 않는다. 싱가포르 투자자들이 여전히 미국 주식에 투자해야 할 이유가 여기에 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.6447,
+      "source": "thesmartinvestor.com.sg",
+      "url": "https://thesmartinvestor.com.sg/why-you-should-still-invest-in-us-stocks-despite-market-volatility/",
+      "cross_verified": true,
+      "published_at": "2026-09-14T03:30:00.000000Z"
+    },
+    {
+      "title": "US Physical Therapy (USPH) Taps A Global Finance Veteran As CFO",
+      "title_ko": "US Physical Therapy(USPH), 글로벌 금융계 베테랑을 CFO로 선임",
+      "snippet": "On August 14, US Physical Therapy (NYSE:USPH) announced that Nchacha Etta will become the company's Executive Vice President and Chief Financial Officer, effective September 1.",
+      "snippet_ko": "8월 14일, US Physical Therapy(NYSE:USPH)는 Nchacha Etta가 9월 1일부로 회사의 부사장 겸 최고재무책임자(CFO)로 취임할 것이라고 발표했다.",
+      "symbol": "KO",
+      "sentiment_score": 0.074,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/us-physical-therapy-usph-taps-a-global-finance-veteran-as-cfo-1837182/",
+      "cross_verified": true,
+      "published_at": "2026-09-14T02:31:55.000000Z"
+    },
+    {
+      "title": "Apple: Duo Won't Move The Needle (NASDAQ:AAPL)",
+      "title_ko": "애플: 듀오는 큰 영향을 미치지 못할 것 (나스닥:AAPL)",
+      "snippet": "Apple Inc. trades at all-time highs despite lacking a transformative AI or hardware catalyst. Read why I remain ultra-Bearish on AAPL stock.",
+      "snippet_ko": "애플(Apple Inc.)은 획기적인 AI나 하드웨어 관련 호재가 없음에도 불구하고 주가가 사상 최고치를 기록하고 있습니다. 제가 AAPL 주식에 대해 여전히 극도로 비관적인 입장을 고수하는 이유를 확인해 보세요.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4945845-apple-duo-wont-move-the-needle",
+      "cross_verified": true,
+      "published_at": "2026-09-14T00:00:00.000000Z"
+    },
     {
       "title": "Coca-Cola vs. Pepsi: Five Years, Two Completely Different Outcomes",
       "title_ko": "코카콜라 대 펩시: 5년, 정반대의 두 가지 결과",
@@ -2295,42 +2355,6 @@
       "url": "https://www.gurufocus.com/news/9069561/amazon-cargo-plane-incident-at-miami-airport-five-dead",
       "cross_verified": true,
       "published_at": "2026-09-07T01:30:43.000000Z"
-    },
-    {
-      "title": "Meta’s $18 Billion Teen Safety Deal Puts the Pressure on TikTok and YouTube Next",
-      "title_ko": "메타의 180억 달러 규모 청소년 안전 협약, 다음 타겟인 틱톡과 유튜브에 압박 가해",
-      "snippet": "CNBC reported that Meta Platforms, Inc. (NASDAQ:META) agreed to pay up to $18 billion combined to settle claims that its platforms fueled a teen mental health crisis.",
-      "snippet_ko": "CNBC는 메타 플랫폼스(Meta Platforms, Inc., 나스닥: META)가 자사 플랫폼이 청소년의 정신 건강 위기를 부추겼다는 주장을 해결하기 위해 총 180억 달러를 지급하기로 합의했다고 보도했다.",
-      "symbol": "META",
-      "sentiment_score": -0.0957,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/metas-18-billion-teen-safety-deal-puts-the-pressure-on-tiktok-and-youtube-next-1828120/",
-      "cross_verified": true,
-      "published_at": "2026-09-07T01:16:13.000000Z"
-    },
-    {
-      "title": "A. Stotz All Weather Strategies – August 2026",
-      "title_ko": "A. 스토츠의 ‘모든 상황에 대비한 전략’ – 2026년 8월",
-      "snippet": "Performance review in August 2026 - AWIG gained 1.9%, AWS gained 5.1%, AWAF gained 3.9%.",
-      "snippet_ko": "2026년 8월 성과 평가 - AWIG는 1.9%, AWS는 5.1%, AWAF는 3.9% 상승했다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.9236,
-      "source": "becomeabetterinvestor.net",
-      "url": "https://becomeabetterinvestor.net/a-stotz-all-weather-strategies-august-2026/",
-      "cross_verified": true,
-      "published_at": "2026-09-07T00:01:06.000000Z"
-    },
-    {
-      "title": "Market Open: ASX roller coaster ride forecast to slide down this morning",
-      "title_ko": "장 개장: 오늘 오전 ASX, 롤러코스터 같은 등락세 속에서 하락세 예상",
-      "snippet": "The roller coaster that is the ASX at the moment is expected to begin on a downward motion this morning following Wall Street.",
-      "snippet_ko": "현재 롤러코스터 같은 등락을 보이고 있는 ASX는 오늘 아침 월스트리트의 흐름을 따라 하락세를 보일 것으로 예상된다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.462,
-      "source": "themarketherald.com.au",
-      "url": "https://themarketonline.com.au/market-open-asx-roller-coaster-ride-forecast-to-slide-down-this-morning-2026-09-07/",
-      "cross_verified": true,
-      "published_at": "2026-09-06T22:44:52.000000Z"
     }
   ]
 }
