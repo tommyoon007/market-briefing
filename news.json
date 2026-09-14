@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-14T12:24:48.109031+00:00",
+  "updated_at": "2026-09-14T19:10:43.670535+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "QCI Expands Metrics with Next-Day Slot Performance Data",
+      "title_ko": "QCI, 익일 배송 시간대 실적 데이터를 통해 평가 지표 확대",
+      "snippet": "Enhanced capability helps casino operators benchmark performance and optimize their floors without waiting weeks for industry data.",
+      "snippet_ko": "향상된 기능을 통해 카지노 운영사는 업계 데이터를 받기 위해 몇 주를 기다릴 필요 없이 성과를 비교 분석하고 카지노 홀 운영을 최적화할 수 있습니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/15/tmt-newswire/globenewswire/qci-expands-metrics-with-next-day-slot-performance-data/2424936",
+      "cross_verified": true,
+      "published_at": "2026-09-14T18:46:41.000000Z"
+    },
+    {
+      "title": "Cabaletta Bio, Inc. (CABA) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+      "title_ko": "카발레타 바이오(Cabaletta Bio, Inc., CABA), 모건 스탠리 제24회 연례 글로벌 헬스케어 컨퍼런스에서 발표: 발표록",
+      "snippet": "Cabaletta Bio, Inc. (CABA) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 10:45 AM EDTCompany ParticipantsSteven Nichtberger -...",
+      "snippet_ko": "Cabaletta Bio, Inc. (CABA) 모건 스탠리 제24회 연례 글로벌 헬스케어 컨퍼런스 2026년 9월 14일 오전 10시 45분 (EDT) 참가 기업 대표 스티븐 니히트버거 -...",
+      "symbol": "",
+      "sentiment_score": 0.2859,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4946102-cabaletta-bio-inc-caba-presents-at-morgan-stanley-24th-annual-global-healthcare-conference",
+      "cross_verified": true,
+      "published_at": "2026-09-14T18:31:42.000000Z"
+    },
+    {
+      "title": "State Street Corporation (STT) Presents at Barclays 24th Annual Global Financial Services Conference Transcript",
+      "title_ko": "스테이트 스트리트 코퍼레이션(STT), 바클레이즈 제24회 연례 글로벌 금융 서비스 컨퍼런스에서 발표: 회의록",
+      "snippet": "State Street Corporation (STT) Barclays 24th Annual Global Financial Services Conference September 14, 2026 11:15 AM EDTCompany ParticipantsJohn Woods -...",
+      "snippet_ko": "스테이트 스트리트 코퍼레이션(STT) 바클레이즈 제24회 연례 글로벌 금융 서비스 컨퍼런스 2026년 9월 14일 오전 11시 15분(EDT) 참가 기업 존 우즈 -...",
+      "symbol": "",
+      "sentiment_score": 0.5767,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4946121-state-street-corporation-stt-presents-at-barclays-24th-annual-global-financial-services",
+      "cross_verified": true,
+      "published_at": "2026-09-14T18:31:39.000000Z"
+    },
     {
       "title": "SL Green’s 2026 Office Leasing Reaches Nearly 1.8 Million Square Feet",
       "title_ko": "SL 그린의 2026년 사무실 임대 계약 규모가 약 180만 제곱피트에 달했다",
@@ -1165,21 +1201,45 @@
       "url": "https://www.insidermonkey.com/blog/voya-financials-voya-earnings-fell-while-its-retirement-business-boomed-1828515/",
       "cross_verified": true,
       "published_at": "2026-09-06T12:49:48.000000Z"
-    },
-    {
-      "title": "Adobe: Avoid This Dead Cat Bounce (NASDAQ:ADBE)",
-      "title_ko": "어도비: 이 ‘데드 캣 바운스’에 주의하라 (나스닥: ADBE)",
-      "snippet": "Adobe faces AI disruption as rivals threaten creative software. Click for more on ADBE stock.",
-      "snippet_ko": "경쟁사들이 크리에이티브 소프트웨어 시장을 위협하면서 어도비는 AI로 인한 판도 변화에 직면해 있습니다. ADBE 주가에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": -0.7579,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4943403-adobe-avoid-this-dead-cat-bounce",
-      "cross_verified": true,
-      "published_at": "2026-09-06T12:45:00.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "AMZN Looks 2.6% Overvalued on GF Value™",
+      "title_ko": "GF Value™에 따르면 AMZN은 2.6% 과대평가된 것으로 보인다",
+      "snippet": "On September 14, 2026, Amazon.com Inc (NASDAQ: AMZN) announced a strategic partnership with Netflix and YouTube to form the Streaming Access and Choice Alliance",
+      "snippet_ko": "2026년 9월 14일, 아마존닷컴(Amazon.com Inc, 나스닥: AMZN)은 넷플릭스(Netflix) 및 유튜브(YouTube)와 전략적 파트너십을 체결하여 ‘스트리밍 접근 및 선택 연합(Streaming Access and Choice Alliance)’을 출범한다고 발표했다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.4498,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9079841/amzn-looks-26-overvalued-on-gf-value",
+      "cross_verified": true,
+      "published_at": "2026-09-14T18:26:51.000000Z"
+    },
+    {
+      "title": "Wall Street Lunch: Tesla's Roadster Could Be Ready To Take Flight",
+      "title_ko": "월스트리트 런치: 테슬라 로드스터, 드디어 날개를 펼칠 준비가 되었을지도 모른다",
+      "snippet": "Tesla (TSLA) has an Oct. 1 event scheduled that is expected to be a public unveiling or major update for the long-delayed second-generation Roadster model.",
+      "snippet_ko": "테슬라(TSLA)는 10월 1일에 행사를 예정하고 있으며, 이 행사에서는 오랫동안 출시가 미뤄져 온 2세대 로드스터 모델의 공개 또는 주요 업데이트가 있을 것으로 예상된다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.237,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4946107-wall-street-lunch-teslas-roadster-could-be-ready-to-take-flight",
+      "cross_verified": true,
+      "published_at": "2026-09-14T18:07:00.000000Z"
+    },
+    {
+      "title": "GOOG Looks 35.0% Overvalued on GF Value™ as Waymo Expands Autonomous Service",
+      "title_ko": "웨이모의 자율주행 서비스 확대에 따라 GOOG, GF Value™ 기준 35.0% 과대평가된 것으로 분석",
+      "snippet": "On September 14, 2026, Alphabet Inc (GOOG) announced the official launch of its fully autonomous ride service in Las Vegas, marking a significant milestone for",
+      "snippet_ko": "2026년 9월 14일, 알파벳(Alphabet Inc, GOOG)은 라스베이거스에서 완전 자율 주행 차량 서비스를 공식 출시한다고 발표했으며, 이는",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.5656,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9079786/goog-looks-350-overvalued-on-gf-value-as-waymo-expands-autonomous-service",
+      "cross_verified": true,
+      "published_at": "2026-09-14T17:50:53.000000Z"
+    },
     {
       "title": "Tim Cook Could Have Purchased Any of 488 S&P 500 Companies With $879 Billion. Instead, He Bought Something That Changed Apple's Fortune Forever.",
       "title_ko": "팀 쿡은 8,790억 달러로 S&P 500 지수에 포함된 488개 기업 중 어느 곳이든 인수할 수 있었다. 하지만 그는 애플의 운명을 영원히 바꿔놓은 무언가를 선택했다.",
@@ -2343,42 +2403,6 @@
       "url": "https://www.manilatimes.net/2026/09/08/news/tulfo-files-bill-honoring-lea-salonga-after-historic-hollywood-walk-of-fame-star/2420063",
       "cross_verified": true,
       "published_at": "2026-09-07T19:51:08.000000Z"
-    },
-    {
-      "title": "AST SpaceMobile Director Adriana Cisneros Buys $619,235 Shares. What Does This Mean for Investors?",
-      "title_ko": "AST SpaceMobile의 아드리아나 시스네로스 이사, 619,235달러 상당의 주식 매입. 이는 투자자들에게 어떤 의미일까?",
-      "snippet": "Cisneros increased her indirect holdings to 2.4 million shares valued at $140.7 million, signaling continued confidence as the satellite-broadband company expands its network.",
-      "snippet_ko": "시스네로스는 간접 보유 지분을 240만 주(평가액 1억 4,070만 달러)로 늘렸으며, 이는 위성 광대역 통신사가 네트워크를 확장해 나가는 가운데 지속적인 신뢰를 보여주는 신호로 해석된다.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.0129,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-director-adriana-cisneros-171301377.html",
-      "cross_verified": true,
-      "published_at": "2026-09-07T17:13:01.000000Z"
-    },
-    {
-      "title": "Elon Musk Owns 28% of Tesla, a Stake Worth Nearly $350 Billion. Here's Why His Ownership Level Matters for Shareholders.",
-      "title_ko": "일론 머스크는 테슬라 지분의 28%를 보유하고 있으며, 이 지분의 가치는 약 3,500억 달러에 달합니다. 그의 지분율이 주주들에게 왜 중요한지 알아보겠습니다.",
-      "snippet": "Tesla investors know it's often",
-      "snippet_ko": "테슬라 투자자들은 종종 그렇다는 사실을 알고 있다",
-      "symbol": "AAPL",
-      "sentiment_score": -0.3032,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-owns-28-tesla-170700943.html",
-      "cross_verified": true,
-      "published_at": "2026-09-07T17:07:00.000000Z"
-    },
-    {
-      "title": "AI Is Moving Into Everyday Business — These 5 Stocks Sit Squarely in the Path of the Surge",
-      "title_ko": "AI가 일상적인 비즈니스 영역으로 진출하고 있다 — 이 5개 종목은 이러한 성장세의 중심에 자리 잡고 있다",
-      "snippet": "AI is embedding itself in ordinary business operations, and the compute footprint required to sustain that shift is expanding faster than the industry can build. Goldman Sachs Global Investment Research finds that 22.4% of firms are already using AI in their regular business functions, while another 25.9% expect to begin using it within the next […]",
-      "snippet_ko": "AI는 일상적인 비즈니스 운영에 점차 스며들고 있으며, 이러한 변화를 뒷받침하는 데 필요한 컴퓨팅 자원은 업계가 이를 구축할 수 있는 속도보다 더 빠르게 확대되고 있습니다. 골드만삭스 글로벌 투자 리서치(Goldman Sachs Global Investment Research)에 따르면, 기업의 22.4%는 이미 일상적인 비즈니스 업무에 AI를 활용하고 있는 반면, 25.9%는 향후 […] 이내에 AI 도입을 시작할 것으로 예상하고 있습니다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.6204,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-moving-everyday-business-5-165250986.html",
-      "cross_verified": true,
-      "published_at": "2026-09-07T16:52:50.000000Z"
     }
   ]
 }
