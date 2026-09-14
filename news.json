@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-14T19:10:43.670535+00:00",
+  "updated_at": "2026-09-14T23:02:05.222230+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "TransMedics Group, Inc. (TMDX) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+      "title_ko": "트랜스메딕스 그룹(TransMedics Group, Inc., TMDX), 모건 스탠리 제24회 연례 글로벌 헬스케어 컨퍼런스에서 발표: 발표록",
+      "snippet": "TransMedics Group, Inc. (TMDX) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 3:20 PM EDTCompany ParticipantsWaleed Hassanein -...",
+      "snippet_ko": "TransMedics Group, Inc. (TMDX) 모건 스탠리 제24회 연례 글로벌 헬스케어 컨퍼런스 2026년 9월 14일 오후 3시 20분 (EDT) 참가 기업 대표: 왈리드 하사네인 -...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4946220-transmedics-group-inc-tmdx-presents-at-morgan-stanley-24th-annual-global-healthcare",
+      "cross_verified": true,
+      "published_at": "2026-09-14T22:31:38.000000Z"
+    },
+    {
+      "title": "Phillips Edison & Company, Inc. (PECO) Presents at Barclays 24th Annual Global Financial Services Conference Transcript",
+      "title_ko": "필립스 에디슨 앤 컴퍼니(PECO)의 바클레이즈 제24회 연례 글로벌 금융 서비스 컨퍼런스 발표 전문",
+      "snippet": "Phillips Edison & Company, Inc. (PECO) Barclays 24th Annual Global Financial Services Conference September 14, 2026 2:00 PM EDTCompany ParticipantsJohn...",
+      "snippet_ko": "필립스 에디슨 앤 컴퍼니(PECO) 바클레이즈 제24회 연례 글로벌 금융 서비스 컨퍼런스 2026년 9월 14일 오후 2:00 (EDT) 참가 기업 대표 존...",
+      "symbol": "",
+      "sentiment_score": 0.2261,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4946203-phillips-edison-and-company-inc-peco-presents-at-barclays-24th-annual-global-financial",
+      "cross_verified": true,
+      "published_at": "2026-09-14T22:31:37.000000Z"
+    },
+    {
+      "title": "Is It Too Late to Buy ServiceNow Inc (NOW) After 7.4% Rally? GF Value Says Undervalued",
+      "title_ko": "7.4% 급등한 지금, ServiceNow Inc(NOW) 매수가 너무 늦은 걸까? GF Value는 저평가되었다고 분석한다",
+      "snippet": "On September 14, 2026, ServiceNow Inc (NOW) shares rose 7.4% to $142.35. The stock has fluctuated within a 52-week range of $81.24 to $194.73, reflecting a vola",
+      "snippet_ko": "2026년 9월 14일, ServiceNow Inc(NOW)의 주가는 7.4% 상승한 142.35달러를 기록했습니다. 이 주식은 52주 동안 81.24달러에서 194.73달러 사이의 등락을 보였으며, 이는 변동성을 반영한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.6336,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9080175/is-it-too-late-to-buy-servicenow-inc-now-after-74-rally-gf-value-says-undervalued",
+      "cross_verified": true,
+      "published_at": "2026-09-14T22:29:56.000000Z"
+    },
     {
       "title": "QCI Expands Metrics with Next-Day Slot Performance Data",
       "title_ko": "QCI, 익일 배송 시간대 실적 데이터를 통해 평가 지표 확대",
@@ -1165,45 +1201,45 @@
       "url": "https://cutthecrapinvesting.com/2026/09/06/how-i-bought-stocks-and-left-the-etf-the-fees-behind/",
       "cross_verified": true,
       "published_at": "2026-09-06T13:18:21.000000Z"
-    },
-    {
-      "title": "It's Not Worth Buying VOO Or QQQ Anymore (NYSEARCA:VOO)",
-      "title_ko": "더 이상 VOO나 QQQ를 매수할 가치가 없다 (NYSEARCA:VOO)",
-      "snippet": "Concerned about VOO/QQQ valuations? See why CAPE, earnings adjustments, mega-cap concentration, and thin equity risk premium make me nervous. Click for more.",
-      "snippet_ko": "VOO/QQQ의 밸류에이션이 걱정되시나요? CAPE, 이익 조정, 초대형주 집중 현상, 그리고 낮은 주식 위험 프리미엄이 왜 저를 불안하게 하는지 확인해 보세요. 자세한 내용을 보려면 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.4939,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4943200-its-not-worth-buying-voo-or-qqq-anymore",
-      "cross_verified": true,
-      "published_at": "2026-09-06T13:30:00.000000Z"
-    },
-    {
-      "title": "MPLX: 7%+ Yield Is Just The Appetizer, The Growth Is The Main Course (NYSE:MPLX)",
-      "title_ko": "MPLX: 7% 이상의 배당 수익률은 그저 전채에 불과하며, 성장이야말로 메인 코스다 (NYSE:MPLX)",
-      "snippet": "MPLX LP looks like a top MLP to buy: 7%+ yield, fee-based midstream cash flows, growth CapEx, and 12.5% distribution hikes. Here's what investors need to consider.",
-      "snippet_ko": "MPLX LP는 매수할 만한 최고의 MLP로 보입니다. 7% 이상의 수익률, 수수료 기반의 미드스트림 현금 흐름, 성장에 기여하는 자본 지출, 그리고 12.5%의 배당금 인상률을 자랑합니다. 투자자들이 고려해야 할 사항은 다음과 같습니다.",
-      "symbol": "",
-      "sentiment_score": 0.1909,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4943410-mplx-7-percent-plus-yield-is-just-the-appetizer-the-growth-is-the-main-course",
-      "cross_verified": true,
-      "published_at": "2026-09-06T13:15:00.000000Z"
-    },
-    {
-      "title": "Voya Financial’s (VOYA) Earnings Fell While Its Retirement Business Boomed",
-      "title_ko": "보야 파이낸셜(VOYA)의 실적은 하락한 반면, 퇴직 연금 사업은 호조를 보였음",
-      "snippet": "On August 4, Voya Financial (NYSE:VOYA) announced its second-quarter 2026 results, and the headline numbers tell an uncomfortable story.",
-      "snippet_ko": "8월 4일, 보야 파이낸셜(Voya Financial, NYSE:VOYA)은 2026년 2분기 실적을 발표했는데, 주요 수치는 우려스러운 상황을 보여주고 있다.",
-      "symbol": "",
-      "sentiment_score": -0.1027,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/voya-financials-voya-earnings-fell-while-its-retirement-business-boomed-1828515/",
-      "cross_verified": true,
-      "published_at": "2026-09-06T12:49:48.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Is Broadcom Inc (AVGO) a Bargain After 4.8% Drop? GF Value Says Undervalued",
+      "title_ko": "브로드컴(AVGO)이 4.8% 하락한 지금 매수 기회일까? GF 밸류, “저평가됐다”고 분석",
+      "snippet": "On September 14, 2026, Broadcom Inc (AVGO) shares fell 4.8% to a current price of $344.72, reflecting a challenging market environment. Over the past year, the",
+      "snippet_ko": "2026년 9월 14일, 브로드컴(Broadcom Inc, AVGO) 주가는 4.8% 하락해 현재 344.72달러를 기록했으며, 이는 어려운 시장 상황을 반영한 것이다. 지난 1년 동안,",
+      "symbol": "AVGO",
+      "sentiment_score": 0.5112,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9080131/is-broadcom-inc-avgo-a-bargain-after-48-drop-gf-value-says-undervalued",
+      "cross_verified": true,
+      "published_at": "2026-09-14T22:03:13.000000Z"
+    },
+    {
+      "title": "A Look at Alphabet Inc (GOOGL) After 3.2% Gain -- GF Value $256.56 vs Price $349.39",
+      "title_ko": "3.2% 상승한 알파벳(GOOGL) 현황 살펴보기 — GF 가치 $256.56 vs 주가 $349.39",
+      "snippet": "On September 14, 2026, Alphabet Inc (GOOGL) shares rose 3.2%, bringing the current price to $349.39. The stock has fluctuated within a 52-week range of $235.84",
+      "snippet_ko": "2026년 9월 14일, 알파벳(Alphabet Inc, GOOGL) 주가는 3.2% 상승하여 현재 주가는 349.39달러를 기록했습니다. 이 주식은 지난 52주 동안 235.84달러의 등락폭을 보였습니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.6375,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9080125/a-look-at-alphabet-inc-googl-after-32-gain-gf-value-25656-vs-price-34939",
+      "cross_verified": true,
+      "published_at": "2026-09-14T22:01:23.000000Z"
+    },
+    {
+      "title": "Merck & Co., Inc. (MRK) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+      "title_ko": "머크 앤 컴퍼니(Merck & Co., Inc., MRK), 모건 스탠리 제24회 연례 글로벌 헬스케어 컨퍼런스에서 발표: 발표록",
+      "snippet": "Merck & Co., Inc. (MRK) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 3:20 PM EDTCompany ParticipantsRobert Davis -...",
+      "snippet_ko": "머크 앤 컴퍼니(Merck & Co., Inc., MRK), 모건 스탠리 제24회 연례 글로벌 헬스케어 컨퍼런스, 2026년 9월 14일 오후 3시 20분(EDT) 참가 기업 대표 로버트 데이비스 -...",
+      "symbol": "MRK",
+      "sentiment_score": 0.3567,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4946226-merck-and-co-inc-mrk-presents-at-morgan-stanley-24th-annual-global-healthcare-conference",
+      "cross_verified": true,
+      "published_at": "2026-09-14T21:01:43.000000Z"
+    },
     {
       "title": "AMZN Looks 2.6% Overvalued on GF Value™",
       "title_ko": "GF Value™에 따르면 AMZN은 2.6% 과대평가된 것으로 보인다",
@@ -2367,42 +2403,6 @@
       "url": "https://themarketonline.com.au/market-open-rising-oil-prices-putting-pressure-on-asx-this-morning-2026-09-08/",
       "cross_verified": true,
       "published_at": "2026-09-07T22:48:49.000000Z"
-    },
-    {
-      "title": "Broadcom’s AI Forecast Suggests Hyperscalers Want More Than Just Nvidia GPUs",
-      "title_ko": "브로드컴의 AI 전망에 따르면, 하이퍼스케일러들은 엔비디아 GPU 이상의 것을 원하고 있는 것으로 보인다",
-      "snippet": "Big Tech’s appetite for AI infrastructure isn’t being sated anytime soon, and Broadcom Inc. (NASDAQ:AVGO) is proof of that.",
-      "snippet_ko": "빅테크 기업들의 AI 인프라에 대한 욕구는 당분간 갉아먹히지 않을 전망이며, 브로드컴(Broadcom Inc., 나스닥: AVGO)이 그 증거다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.2037,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/broadcoms-ai-forecast-suggests-hyperscalers-want-more-than-just-nvidia-gpus-1827814/",
-      "cross_verified": true,
-      "published_at": "2026-09-07T21:11:02.000000Z"
-    },
-    {
-      "title": "Jim Cramer Wants Nvidia to Buy Back $500 Billion. Can Apple’s Playbook Work?",
-      "title_ko": "짐 크레이머, 엔비디아에 5,000억 달러 규모의 자사주 매입을 촉구. 애플의 전략이 통할까?",
-      "snippet": "Jim Cramer wants NVIDIA Corporation (NASDAQ:NVDA) to authorize a $500 billion buyback and purchase shares daily. His September 1 Mad Money argument points to Apple Inc. (NASDAQ:AAPL) as the model.",
-      "snippet_ko": "짐 크레이머는 엔비디아(NASDAQ:NVDA)가 5,000억 달러 규모의 자사주 매입을 승인하고 매일 주식을 매입하기를 원한다. 지난 9월 1일 ‘매드 머니’에서 그가 제시한 주장은 애플(NASDAQ:AAPL)을 그 모델로 꼽았다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.375,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/jim-cramer-wants-nvidia-to-buy-back-500-billion-can-apples-playbook-work-1832027/",
-      "cross_verified": true,
-      "published_at": "2026-09-07T20:34:15.000000Z"
-    },
-    {
-      "title": "Tulfo files bill honoring Lea Salonga after historic Hollywood Walk of Fame star",
-      "title_ko": "툴포, 할리우드 명예의 거리 별을 받은 리아 살롱가를 기리는 법안 발의",
-      "snippet": "Tulfo files bill honoring Lea Salonga after historic Hollywood Walk of Fame star",
-      "snippet_ko": "툴포, 할리우드 명예의 거리 별을 받은 리아 살롱가를 기리는 법안 발의",
-      "symbol": "DIS",
-      "sentiment_score": 0.0,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/08/news/tulfo-files-bill-honoring-lea-salonga-after-historic-hollywood-walk-of-fame-star/2420063",
-      "cross_verified": true,
-      "published_at": "2026-09-07T19:51:08.000000Z"
     }
   ]
 }
