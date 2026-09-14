@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-14T04:25:52.282290+00:00",
+  "updated_at": "2026-09-14T12:24:48.109031+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "SL Green’s 2026 Office Leasing Reaches Nearly 1.8 Million Square Feet",
+      "title_ko": "SL 그린의 2026년 사무실 임대 계약 규모가 약 180만 제곱피트에 달했다",
+      "snippet": "245 Park Avenue 100% Leased",
+      "snippet_ko": "245 파크 애비뉴, 100% 임차 완료",
+      "symbol": "",
+      "sentiment_score": 0.1472,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/14/tmt-newswire/globenewswire/sl-greens-2026-office-leasing-reaches-nearly-18-million-square-feet/2424463",
+      "cross_verified": true,
+      "published_at": "2026-09-14T11:37:42.000000Z"
+    },
+    {
+      "title": "Glass House Brands Releases Mama Sue Professional Athlete Balm for Sale in California",
+      "title_ko": "글라스 하우스 브랜즈, 캘리포니아에서 ‘마마 수 프로페셔널 애슬리트 밤’ 판매 개시",
+      "snippet": "New high-potency transdermal balm was created with professional athletes in mind and is suitable for both high-performance recovery and everyday use",
+      "snippet_ko": "새로운 고효능 경피 흡수 밤은 프로 운동선수들을 염두에 두고 개발되었으며, 고강도 운동 후 회복은 물론 일상적인 사용에도 적합합니다.",
+      "symbol": "",
+      "sentiment_score": 0.2567,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/14/tmt-newswire/globenewswire/glass-house-brands-releases-mama-sue-professional-athlete-balm-for-sale-in-california/2424462",
+      "cross_verified": true,
+      "published_at": "2026-09-14T11:37:38.000000Z"
+    },
     {
       "title": "Anthropic walks tightrope to Nasdaq, pushing for a slowdown while pursuing $2 trillion valuation",
       "title_ko": "앤트로픽은 나스닥 상장을 앞두고 줄타기 같은 행보를 보이고 있으며, 2조 달러의 기업가치를 추구하는 한편 성장 속도 조절을 모색하고 있다.",
@@ -1157,6 +1181,54 @@
   ],
   "portfolio_news": [
     {
+      "title": "Tim Cook Could Have Purchased Any of 488 S&P 500 Companies With $879 Billion. Instead, He Bought Something That Changed Apple's Fortune Forever.",
+      "title_ko": "팀 쿡은 8,790억 달러로 S&P 500 지수에 포함된 488개 기업 중 어느 곳이든 인수할 수 있었다. 하지만 그는 애플의 운명을 영원히 바꿔놓은 무언가를 선택했다.",
+      "snippet": "Apple’s now-former boss made a never-before-seen wager on a prized asset.",
+      "snippet_ko": "애플의 전 최고경영자는 핵심 자산에 대해 전례 없는 도박을 감행했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4481,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tim-cook-could-purchased-488-112601409.html",
+      "cross_verified": true,
+      "published_at": "2026-09-14T11:26:01.000000Z"
+    },
+    {
+      "title": "Global AI stocks fall as industry chiefs call for slowing development",
+      "title_ko": "업계 수장들이 개발 속도 조절을 촉구하면서 전 세계 AI 관련 주가가 하락했다",
+      "snippet": "Anthropic CEO Dario Amodei, in a lengthy essay shared on X on Saturday, called on AI companies to slow the rate at which they advance model capabilities amid mounting fears of misuse of artificial intelligence. Both Elon Musk, who runs xAI, and Sam Altman, CEO of OpenAI, said they agree with Amodei.",
+      "snippet_ko": "안트로픽(Anthropic)의 다리오 아모데이(Dario Amodei) CEO는 토요일 X에 게시한 장문의 글에서, 인공지능의 오용에 대한 우려가 커지는 가운데 AI 기업들에게 모델 성능 향상 속도를 늦출 것을 촉구했다. xAI를 운영하는 엘론 머스크와 오픈AI의 샘 알트먼 CEO는 모두 아모데이의 의견에 동의한다고 밝혔다.",
+      "symbol": "AMZN",
+      "sentiment_score": -0.056,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-ai-stocks-fall-as-industry-chiefs-call-for-slowing-development/articleshow/134239897.cms",
+      "cross_verified": true,
+      "published_at": "2026-09-14T11:13:00.000000Z"
+    },
+    {
+      "title": "Wall Street Breakfast Podcast: Oil's New Chokepoint",
+      "title_ko": "월스트리트 브렉퍼스트 팟캐스트: 석유의 새로운 병목 지점",
+      "snippet": "Another reason oil is sitting above $100. Novo Nordisk is dropping half its name. Trump is making the AI case for speed over caution.",
+      "snippet_ko": "유가 $100 선을 유지하고 있는 또 다른 이유. 노보 노르디스크가 사명에서 ‘노보’를 빼기로 했다. 트럼프는 신중함보다 속도를 중시해야 한다는 점을 인공지능(AI)을 예로 들어 주장하고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4945957-wall-street-breakfast-podcast-oils-new-chokepoint",
+      "cross_verified": true,
+      "published_at": "2026-09-14T10:55:00.000000Z"
+    },
+    {
+      "title": "Costco Hiked Its Dividend by 13%. Here Is What a $10,000 Investment Earns Annually.",
+      "title_ko": "코스트코가 배당금을 13% 인상했습니다. 1만 달러를 투자했을 때 연간 수익은 다음과 같습니다.",
+      "snippet": "The annual dividend amount is misleading because Costco is a special case when it comes to dividends.",
+      "snippet_ko": "코스트코는 배당금 측면에서 특별한 경우이기 때문에 연간 배당금 액수는 오해를 불러일으킬 수 있습니다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0976,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/costco-hiked-dividend-13-10-114200655.html",
+      "cross_verified": true,
+      "published_at": "2026-09-14T11:42:00.000000Z"
+    },
+    {
       "title": "Why You Should Still Invest in US Stocks Despite Market Volatility",
       "title_ko": "시장 변동성에도 불구하고 여전히 미국 주식에 투자해야 하는 이유",
       "snippet": "Short-term volatility does not undermine the long-term case for US stocks – here's why Singapore investors may still want exposure.",
@@ -2307,54 +2379,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/ai-moving-everyday-business-5-165250986.html",
       "cross_verified": true,
       "published_at": "2026-09-07T16:52:50.000000Z"
-    },
-    {
-      "title": "Apple: I Don't See Any New Ideas That Could Be Bigger Than The iPhone (NASDAQ:AAPL)",
-      "title_ko": "애플: 아이폰(나스닥: AAPL)보다 더 큰 성공을 거둘 만한 새로운 아이디어는 보이지 않는다",
-      "snippet": "Apple Inc. will focus its September launch event on the iPhone 18 Pro, Pro Max, and a new foldable iPhone Ultra. Click here to read more on AAPL stock.",
-      "snippet_ko": "애플(Apple Inc.)은 9월 신제품 발표회에서 아이폰 18 프로, 프로 맥스, 그리고 새로운 폴더블 아이폰 울트라에 초점을 맞출 예정이다. AAPL 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4259,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4943527-apple-i-dont-see-any-new-ideas-that-could-be-bigger-than-the-iphone",
-      "cross_verified": true,
-      "published_at": "2026-09-07T11:30:00.000000Z"
-    },
-    {
-      "title": "Data Center Investment Surge in Australia: Tech Giants Show Interest (AAPL)",
-      "title_ko": "호주 데이터 센터 투자 급증: 기술 대기업들의 관심 집중 (AAPL)",
-      "snippet": "On September 07, 2026, Australian data center operator AirTrunk Operating Pty Ltd. announced a surge in interest from major U.S. tech companies, including Apple",
-      "snippet_ko": "2026년 9월 7일, 호주의 데이터센터 운영사인 에어트렁크 오퍼레이팅(AirTrunk Operating Pty Ltd.)은 애플을 비롯한 미국의 주요 기술 기업들로부터 관심이 급증하고 있다고 발표했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.6691,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9069662/data-center-investment-surge-in-australia-tech-giants-show-interest-aapl",
-      "cross_verified": true,
-      "published_at": "2026-09-07T10:51:52.000000Z"
-    },
-    {
-      "title": "India needs double-digit factory growth, Bank of America says",
-      "title_ko": "뱅크 오브 아메리카, “인도는 두 자릿수 공장 성장률 필요”라고 밝혔다",
-      "snippet": "Indias manufacturing sector needs to grow at least 10% annually for 15 years to reach 25% of GDP, Bank of America estimates. That could create a $2.3-trillion manufacturing economy by 2040, but regulatory burdens, high power costs and a shortage of medium-sized firms remain major obstacles.",
-      "snippet_ko": "뱅크 오브 아메리카의 추산에 따르면, 인도의 제조업 부문이 GDP의 25%를 차지하기 위해서는 향후 15년 동안 매년 최소 10%의 성장률을 기록해야 한다. 이 경우 2040년까지 2.3조 달러 규모의 제조업 경제가 조성될 수 있겠지만, 규제 부담, 높은 전력 비용, 중견 기업 부족 등이 여전히 주요 걸림돌로 남아 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": -0.3612,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/india-needs-double-digit-factory-growth-bank-of-america-says/articleshow/133876459.cms",
-      "cross_verified": true,
-      "published_at": "2026-09-07T10:34:01.000000Z"
-    },
-    {
-      "title": "Amazon Cargo Plane Incident at Miami Airport: Five Dead",
-      "title_ko": "마이애미 공항에서 발생한 아마존 화물기 사고: 5명 사망",
-      "snippet": "On September 06, 2026, an Amazon cargo plane, operated by 21 Air, crashed off the runway at Miami International Airport, resulting in at least five fatalities a",
-      "snippet_ko": "2026년 9월 6일, 21 에어에서 운항하던 아마존 화물기가 마이애미 국제공항 활주로 밖에서 추락하여 최소 5명이 사망하는 등",
-      "symbol": "AMZN",
-      "sentiment_score": 0.0,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9069561/amazon-cargo-plane-incident-at-miami-airport-five-dead",
-      "cross_verified": true,
-      "published_at": "2026-09-07T01:30:43.000000Z"
     }
   ]
 }
