@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-14T23:02:05.222230+00:00",
+  "updated_at": "2026-09-15T04:26:26.553254+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Arundhati Bhattacharya: 'Nothing Was Guaranteed, Nothing Was Given'",
+      "title_ko": "아룬다티 바타차르야: “보장된 것도, 주어진 것도 없었다”",
+      "snippet": "'Giving up is very easy. But don't give up. Try out whatever you can. Something will happen.'",
+      "snippet_ko": "'포기하는 건 정말 쉽습니다. 하지만 포기하지 마세요. 할 수 있는 건 무엇이든 시도해 보세요. 분명 뭔가 좋은 일이 일어날 겁니다.'",
+      "symbol": "",
+      "sentiment_score": 0.064,
+      "source": "rediff.com",
+      "url": "https://www.rediff.com/business/special/how-arundhati-bhattacharya-triumphed-against-all-odds/20260915.htm",
+      "cross_verified": true,
+      "published_at": "2026-09-15T03:35:57.000000Z"
+    },
+    {
+      "title": "Parker-Hannifin (PH) Completes $2.4 Billion U.S. and €2.025 Billion Euro Senior Notes Offerings",
+      "title_ko": "파커-하니핀(PH), 24억 달러 규모의 미국 달러권 선순위 채권 및 20억 2,500만 유로 규모의 유로화 선순위 채권 발행 완료",
+      "snippet": "Parker-Hannifin Corporation (PH) announced on September 14, 2026, that it has completed its previously announced registered offerings of $2.4 billion in aggreg",
+      "snippet_ko": "파커-해니핀 코퍼레이션(PH)은 2026년 9월 14일, 앞서 발표했던 총 24억 달러 규모의 등록 공모를 완료했다고 밝혔다.",
+      "symbol": "",
+      "sentiment_score": 0.1877,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9080565/parkerhannifin-ph-completes-24-billion-us-and-2025-billion-euro-senior-notes-offerings",
+      "cross_verified": true,
+      "published_at": "2026-09-15T03:30:11.000000Z"
+    },
+    {
+      "title": "lululemon athletica inc. (LULU) Appoints Heidi O'Neill to Board as She Begins CEO Role",
+      "title_ko": "룰루레몬 애슬레티카(LULU)가 하이디 오닐을 이사회 이사로 선임했으며, 그녀는 CEO 직무를 시작하게 된다",
+      "snippet": "lululemon athletica inc. (LULU) announced that its board of directors appointed Heidi O'Neill as a member of the board, effective September 8, 2026. In connect",
+      "snippet_ko": "룰루레몬 애슬레티카(LULU)는 이사회가 하이디 오닐을 이사로 선임했으며, 이는 2026년 9월 8일부터 효력이 발생한다고 발표했다. 이와 관련하여",
+      "symbol": "",
+      "sentiment_score": 0.2123,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9080564/lululemon-athletica-inc-lulu-appoints-heidi-oneill-to-board-as-she-begins-ceo-role",
+      "cross_verified": true,
+      "published_at": "2026-09-15T03:30:10.000000Z"
+    },
     {
       "title": "TransMedics Group, Inc. (TMDX) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
       "title_ko": "트랜스메딕스 그룹(TransMedics Group, Inc., TMDX), 모건 스탠리 제24회 연례 글로벌 헬스케어 컨퍼런스에서 발표: 발표록",
@@ -1165,45 +1201,45 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-vs-ibm-comparing-193216269.html",
       "cross_verified": true,
       "published_at": "2026-09-06T19:32:16.000000Z"
-    },
-    {
-      "title": "A $2.1 Million Portfolio, Two Withdrawal Plans: One Triggers IRMAA and RMD Taxes, One Never Does",
-      "title_ko": "210만 달러 규모의 포트폴리오, 두 가지 인출 계획: 하나는 IRMAA와 RMD 세금을 발생시키지만, 다른 하나는 절대 그렇지 않다",
-      "snippet": "Two retirees with identical $2.1 million portfolios can face wildly different tax bills in their seventies, and the gap comes down to a single decision made years before Medicare or RMDs enter the picture.",
-      "snippet_ko": "210만 달러 규모의 동일한 투자 포트폴리오를 보유한 두 명의 은퇴자는 70대에 들어섰을 때 천차만별인 세금을 내야 할 수 있는데, 이러한 차이는 메디케어나 필수 인출 한도(RMD)가 적용되기 수년 전에 내린 단 한 번의 결정에 기인합니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-1-million-portfolio-two-155443112.html",
-      "cross_verified": true,
-      "published_at": "2026-09-06T15:54:43.000000Z"
-    },
-    {
-      "title": "Where Will Ford Be in 5 Years?",
-      "title_ko": "5년 후 포드는 어떤 모습일까?",
-      "snippet": "After a disappointing 9% gain in the last five years, the company's bulls are patiently waiting for better returns in the future.",
-      "snippet_ko": "지난 5년간 9%라는 실망스러운 상승률을 기록한 후, 이 회사의 강세론자들은 앞으로 더 나은 수익률을 기대하며 인내심을 가지고 기다리고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.8074,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/where-ford-5-years-155000658.html",
-      "cross_verified": true,
-      "published_at": "2026-09-06T15:50:00.000000Z"
-    },
-    {
-      "title": "How I bought stocks and left the ETF the fees behind.",
-      "title_ko": "내가 어떻게 주식을 매수하고 ETF의 수수료를 뒤로 한 채 벗어났는지.",
-      "snippet": "Exchange traded funds (ETFs) are likely the greatest advancement for investorkind. We can gain much-needed diversifcation and keep the fees super low. Compared to traditional actively managed mutual funds, ETFs are usually a 90% to 95% off sale. Over the decades this fee saving can amount to a life-changing event. But what if we go […]",
-      "snippet_ko": "상장지수펀드(ETF)는 투자자들에게 있어 가장 큰 진전이라고 할 수 있습니다. 우리는 절실히 필요한 포트폴리오 분산 효과를 얻으면서도 수수료를 매우 낮게 유지할 수 있습니다. 기존의 능동형 뮤추얼 펀드와 비교했을 때, ETF는 일반적으로 수수료가 90%에서 95%나 저렴합니다. 수십 년에 걸쳐 이러한 수수료 절감 효과는 인생을 바꿀 만한 규모로 누적될 수 있습니다. 하지만 만약 우리가 […]",
-      "symbol": "",
-      "sentiment_score": 0.2291,
-      "source": "cutthecrapinvesting.com",
-      "url": "https://cutthecrapinvesting.com/2026/09/06/how-i-bought-stocks-and-left-the-etf-the-fees-behind/",
-      "cross_verified": true,
-      "published_at": "2026-09-06T13:18:21.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+      "title_ko": "중국의 8월 소매판매가 예상치를 하회한 가운데 투자 부진이 심화되면서 중국 정부에 대한 압박이 가중되고 있다",
+      "snippet": "China's investment slump deepened, retail sales growth slowed further in August while industrial output blew past estimates as Beijing warns of supply-demand imbalance.",
+      "snippet_ko": "8월 중국 투자 부진이 심화되고 소매판매 증가세가 더욱 둔화된 반면, 산업생산은 예상치를 크게 상회했으며, 중국 정부는 수급 불균형에 대한 경고를 내렸다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.0,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
+      "cross_verified": true,
+      "published_at": "2026-09-15T02:01:22.000000Z"
+    },
+    {
+      "title": "Broadcom CEO Dismisses AI Development Concerns Amid Market Volatility (AVGO)",
+      "title_ko": "브로드컴 CEO, 시장 변동성 속 AI 개발 우려 일축 (AVGO)",
+      "snippet": "On September 14, 2026, Broadcom Inc (AVGO) faced market turbulence as CEO Hock Tan addressed investor concerns regarding a potential slowdown in AI model develo",
+      "snippet_ko": "2026년 9월 14일, 브로드컴(Broadcom Inc, AVGO)은 홉 탄(Hock Tan) CEO가 AI 모델 개발의 잠재적 둔화에 대한 투자자들의 우려에 답변하면서 시장 변동성을 겪었다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.3189,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9080518/broadcom-ceo-dismisses-ai-development-concerns-amid-market-volatility-avgo",
+      "cross_verified": true,
+      "published_at": "2026-09-15T01:50:45.000000Z"
+    },
+    {
+      "title": "Amazon Partners with Wiwynn to Expand U.S. AI Infrastructure Capacity",
+      "title_ko": "아마존, Wiwynn과 손잡고 미국 내 AI 인프라 용량 확대",
+      "snippet": "Amazon.com, Inc. (NASDAQ:AMZN) and Wiwynn are expanding Wiwynn's advanced manufacturing facility in Socorro, Texas, with nearly 1,000 additional jobs expected by the end of 2027.",
+      "snippet_ko": "Amazon.com, Inc. (나스닥: AMZN)와 Wiwynn은 텍사스주 소코로에 위치한 Wiwynn의 첨단 제조 시설을 확장하고 있으며, 이를 통해 2027년 말까지 약 1,000개의 일자리가 추가로 창출될 것으로 예상된다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.3219,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/blog/amazon-partners-with-wiwynn-to-expand-u-s-ai-infrastructure-capacity-1835761/",
+      "cross_verified": true,
+      "published_at": "2026-09-15T01:22:23.000000Z"
+    },
     {
       "title": "Is Broadcom Inc (AVGO) a Bargain After 4.8% Drop? GF Value Says Undervalued",
       "title_ko": "브로드컴(AVGO)이 4.8% 하락한 지금 매수 기회일까? GF 밸류, “저평가됐다”고 분석",
@@ -2367,42 +2403,6 @@
       "url": "https://seekingalpha.com/article/4943682-broadcom-stock-recent-earnings-confirm-why-its-the-ai-stock-i-trust-least",
       "cross_verified": true,
       "published_at": "2026-09-08T07:01:56.000000Z"
-    },
-    {
-      "title": "India eyes AI for next finance leap after digital payments boom",
-      "title_ko": "인도, 디지털 결제 붐에 이어 차세대 금융 도약을 위해 AI에 주목",
-      "snippet": "India prepares for an AI-driven financial revolution at the Global Fintech Fest, addressing risks and innovations in digital payments.",
-      "snippet_ko": "인도는 ‘글로벌 핀테크 페스트’에서 디지털 결제 분야의 위험 요인과 혁신을 다루며, AI 주도 금융 혁명을 준비하고 있다.",
-      "symbol": "V",
-      "sentiment_score": 0.1779,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/india-eyes-ai-for-next-finance-leap-after-digital-payments-boom/article71442094.ece",
-      "cross_verified": true,
-      "published_at": "2026-09-08T10:24:06.000000Z"
-    },
-    {
-      "title": "Tesla Stock: Elon Is Going For The Robotaxi Moonshot (NASDAQ:TSLA)",
-      "title_ko": "테슬라 주가: 일론, 로봇택시라는 대담한 도전에 나선다 (나스닥:TSLA)",
-      "snippet": "Tesla's automotive business funds and accelerates a flywheel of software-defined hardware and real-world AI. Find out why TSLA stock is a strong buy.",
-      "snippet_ko": "테슬라의 자동차 사업은 소프트웨어 정의 하드웨어와 실생활 적용 AI의 선순환 구조를 뒷받침하고 가속화합니다. TSLA 주식을 강력히 매수해야 하는 이유를 확인해 보세요.",
-      "symbol": "TSLA",
-      "sentiment_score": 0.436,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4943738-tesla-elon-is-going-for-the-robotaxi-moonshot",
-      "cross_verified": true,
-      "published_at": "2026-09-08T10:21:28.000000Z"
-    },
-    {
-      "title": "Market Open: Rising oil prices putting pressure on ASX this morning",
-      "title_ko": "장 개장: 오늘 아침 유가 상승이 ASX에 압박을 주고 있다",
-      "snippet": "Rising Middle East tensions are putting pressure on world markets with the ASX forecast to open lower this morning.",
-      "snippet_ko": "중동 지역의 긴장이 고조되면서 세계 시장에 압박을 가하고 있는 가운데, 오늘 아침 ASX는 하락세로 출발할 것으로 전망됩니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.0904,
-      "source": "themarketherald.com.au",
-      "url": "https://themarketonline.com.au/market-open-rising-oil-prices-putting-pressure-on-asx-this-morning-2026-09-08/",
-      "cross_verified": true,
-      "published_at": "2026-09-07T22:48:49.000000Z"
     }
   ]
 }
