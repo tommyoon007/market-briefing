@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-15T16:42:56.748425+00:00",
+  "updated_at": "2026-09-15T21:07:09.723352+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "IBM's New AI Deal Must Handle 23 Million Transactions Daily",
+      "title_ko": "IBM의 새로운 AI 계약은 매일 2,300만 건의 거래를 처리해야 한다",
+      "snippet": "International Business Machines (IBM), the hybrid-cloud, mainframe and enterprise-AI provider, expanded its relationship with Turkey's Kredi KayÄ±t Bürosu on M",
+      "snippet_ko": "하이브리드 클라우드, 메인프레임 및 엔터프라이즈 AI 솔루션 제공업체인 인터내셔널 비즈니스 머신즈(IBM)는 M일, 터키의 크레디 카이얏 부루소(Kredi Kayıt Bürosu)와의 협력 관계를 확대했다.",
+      "symbol": "",
+      "sentiment_score": 0.4397,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9082176/ibms-new-ai-deal-must-handle-23-million-transactions-daily",
+      "cross_verified": true,
+      "published_at": "2026-09-15T21:06:01.000000Z"
+    },
+    {
+      "title": "Thatch Announces $108M Financing Round",
+      "title_ko": "Thatch, 1억 800만 달러 규모의 자금 조달 라운드 발표",
+      "snippet": "SAN FRANCISCO, CA, Thatch today announced that it has raised $108 million in new funding at a $1 billion valuation.",
+      "snippet_ko": "캘리포니아주 샌프란시스코 — Thatch는 오늘 기업 가치 10억 달러를 기준으로 1억 800만 달러의 신규 자금을 조달했다고 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.441,
+      "source": "vcnewsdaily.com",
+      "url": "https://vcnewsdaily.com/thatch/venture-capital-funding/vttlpsswrj",
+      "cross_verified": true,
+      "published_at": "2026-09-15T21:03:10.000000Z"
+    },
+    {
+      "title": "Redwood Trust (RWT) CFO Brooke Carillo Buys 26,065 Shares in Open-Market Purchase",
+      "title_ko": "레드우드 트러스트(RWT)의 브룩 카릴로 최고재무책임자(CFO), 공개 시장에서 주식 26,065주 매수",
+      "snippet": "In a Form 4 filing with the U.S. Securities and Exchange Commission, Brooke Carillo, Chief Financial Officer of Redwood Trust Inc (RWT), disclosed the purchase",
+      "snippet_ko": "레드우드 트러스트(Redwood Trust Inc, RWT)의 최고재무책임자(CFO)인 브룩 카릴로(Brooke Carillo)는 미국 증권거래위원회(SEC)에 제출한 양식 4를 통해 해당 매수 사실을 공개했다.",
+      "symbol": "",
+      "sentiment_score": 0.498,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9082583/redwood-trust-rwt-cfo-brooke-carillo-buys-26065-shares-in-openmarket-purchase",
+      "cross_verified": true,
+      "published_at": "2026-09-15T21:01:49.000000Z"
+    },
     {
       "title": "GOVX Maintained by Noble Capital Markets -- Rating Outperform",
       "title_ko": "GOVX는 노블 캐피털 마켓츠가 담당하고 있으며, 등급은 ‘아웃퍼폼’입니다.",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9069675/spy-looks-130-overvalued-on-gf-value-as-of-september-07-2026",
       "cross_verified": true,
       "published_at": "2026-09-07T11:55:31.000000Z"
-    },
-    {
-      "title": "SPHD: Why SCHD Is Better For High Dividends And Low Volatility (NYSEARCA:SPHD)",
-      "title_ko": "SPHD: 왜 SCHD가 높은 배당금과 낮은 변동성 측면에서 더 나은 선택인가 (NYSEARCA:SPHD)",
-      "snippet": "SPHD ETF targets conservative income investors but sacrifices total returns versus peers. Find out why I assign SPHD a Sell rating.",
-      "snippet_ko": "SPHD ETF는 보수적인 소득형 투자자를 대상으로 하지만, 동종 상품에 비해 총수익률이 떨어집니다. 제가 SPHD에 ‘매도’ 등급을 부여한 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.3645,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4943450-sphd-why-schd-etf-better-for-high-dividends-low-volatility",
-      "cross_verified": true,
-      "published_at": "2026-09-07T11:30:00.000000Z"
-    },
-    {
-      "title": "Launch of AI Financial Assistants: A New Era for Investment Insights",
-      "title_ko": "AI 금융 비서 출시: 투자 통찰력의 새로운 시대",
-      "snippet": "On September 06, 2026, a series of AI-driven financial assistants were launched on the Qianwen platform, enhancing its offerings in professional financial servi",
-      "snippet_ko": "2026년 9월 6일, Qianwen 플랫폼에서 일련의 AI 기반 금융 어시스턴트가 출시되어 전문 금융 서비스 분야의 제공 범위가 확대되었습니다.",
-      "symbol": "",
-      "sentiment_score": 0.3187,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9069588/launch-of-ai-financial-assistants-a-new-era-for-investment-insights",
-      "cross_verified": true,
-      "published_at": "2026-09-07T03:50:25.000000Z"
-    },
-    {
-      "title": "South Korea's Exports to India Surge Over 30% Driven by Semiconductor Demand",
-      "title_ko": "반도체 수요에 힘입어 한국의 대인도 수출이 30% 이상 급증했다",
-      "snippet": "On September 06, 2026, South Korea's exports to India have surged by 30.8% from January to August this year, reaching $16.8 billion compared to $12.84 billion d",
-      "snippet_ko": "2026년 9월 6일, 올해 1월부터 8월까지 한국의 대인도 수출액은 전년 동기 대비 30.8% 급증하여 168억 달러를 기록했으며, 이는 전년 동기 128억 4천만 달러에 비해...",
-      "symbol": "",
-      "sentiment_score": -0.0122,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9069585/south-koreas-exports-to-india-surge-over-30-driven-by-semiconductor-demand",
-      "cross_verified": true,
-      "published_at": "2026-09-07T03:30:27.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Former Google DeepMind researcher raises a new warning about AI risk",
+      "title_ko": "구글 딥마인드 전 연구원이 AI 위험에 대해 새로운 경고를 제기했다",
+      "snippet": "Alphabet Inc. (GOOGL, Financials), the parent of Google and DeepMind, is being pulled deeper into a growing debate over how quickly advanced AI should move.Bila",
+      "snippet_ko": "구글과 딥마인드의 모회사인 알파벳(Alphabet Inc., GOOGL, 금융)은 첨단 AI의 발전 속도가 어느 정도여야 하는지에 대한 논란에 점점 더 깊이 휘말리고 있다. 빌라",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3498,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9082407/former-google-deepmind-researcher-raises-a-new-warning-about-ai-risk",
+      "cross_verified": true,
+      "published_at": "2026-09-15T20:12:04.000000Z"
+    },
+    {
+      "title": "AMZN Looks 0.2% Overvalued on GF Value™ as Price-to-Sales Signals Caution",
+      "title_ko": "GF Value™에 따르면 AMZN은 매출 대비 주가 비율이 경계 신호를 보내고 있어 0.2% 과대평가된 것으로 보인다",
+      "snippet": "On September 15, 2026, Amazon.com Inc (NASDAQ: AMZN) disclosed ongoing challenges related to a disruption in its Middle East AWS infrastructure, impacting multi",
+      "snippet_ko": "2026년 9월 15일, Amazon.com Inc(나스닥: AMZN)는 중동 지역 AWS 인프라 장애와 관련된 지속적인 문제를 공개했으며, 이로 인해 다수의",
+      "symbol": "AMZN",
+      "sentiment_score": 0.089,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9082429/amzn-looks-02-overvalued-on-gf-value-as-pricetosales-signals-caution",
+      "cross_verified": true,
+      "published_at": "2026-09-15T18:50:39.000000Z"
+    },
+    {
+      "title": "3 Smart Growth Stocks For A Higher-Yield Market",
+      "title_ko": "고수익 시장을 위한 3가지 스마트 성장주",
+      "snippet": "Discover 3 Quant-backed growth stocks built for a higher-yield market. Join Steven Cress as he breaks down top data-driven stock picks for elevated interest rates.",
+      "snippet_ko": "높은 수익률 시장을 대비해 퀀트 분석에 기반한 성장주 3종을 만나보세요. 스티븐 크레스가 금리 상승기에 주목할 만한 데이터 기반 추천 종목을 상세히 분석해 드립니다.",
+      "symbol": "INTC",
+      "sentiment_score": 0.4495,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4946682-3-smart-growth-stocks-for-a-higher-yield-market",
+      "cross_verified": true,
+      "published_at": "2026-09-15T18:37:00.000000Z"
+    },
     {
       "title": "INTC Looks 209.3% Overvalued on GF Value™",
       "title_ko": "GF Value™에 따르면 INTC는 209.3% 과대평가된 것으로 나타났습니다.",
@@ -2367,42 +2403,6 @@
       "url": "https://www.foxbusiness.com/lifestyle/amazon-accused-punishing-pregnant-workers-who-sought-chairs-breaks-other-accommodations-lawsuit",
       "cross_verified": true,
       "published_at": "2026-09-08T21:56:28.000000Z"
-    },
-    {
-      "title": "Alphabet Inc. (GOOGL) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript",
-      "title_ko": "알파벳(Alphabet Inc., GOOGL), 골드만삭스 ‘커뮤니코피아 + 테크놀로지 컨퍼런스 2026’에서 발표: 발표록",
-      "snippet": "Alphabet Inc. (GOOGL) Goldman Sachs Communacopia + Technology Conference 2026 September 8, 2026 1:10 PM EDTCompany ParticipantsThomas Kurian - CEO of Google...",
-      "snippet_ko": "알파벳(Alphabet Inc.) (GOOGL) 골드만삭스 ‘커뮤니카피아 + 테크놀로지 컨퍼런스 2026’ 2026년 9월 8일 오후 1시 10분(EDT) 참가 기업 대표 토마스 쿠리안 - 구글 CEO...",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.0843,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4944000-alphabet-inc-googl-presents-at-goldman-sachs-communacopia-technology-conference-2026",
-      "cross_verified": true,
-      "published_at": "2026-09-08T19:25:32.000000Z"
-    },
-    {
-      "title": "Baron Fifth Avenue Growth Fund Q2 2026 Shareholder Letter",
-      "title_ko": "바론 피프스 애비뉴 성장 펀드 2026년 2분기 주주 서한",
-      "snippet": "Baron Fifth Avenue Growth Fund gained 24.6% (Institutional Shares) during the second quarter, which compares to gains of 16.7% for the Russell 1000 Growth Index. Read more here.",
-      "snippet_ko": "바론 피프스 애비뉴 성장 펀드는 2분기 동안 24.6%(기관용 지분)의 수익률을 기록했으며, 이는 러셀 1000 성장 지수의 16.7% 수익률과 대비됩니다. 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.2669,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4943998-baron-fifth-avenue-growth-fund-q2-2026-shareholder-letter",
-      "cross_verified": true,
-      "published_at": "2026-09-08T19:25:00.000000Z"
-    },
-    {
-      "title": "Broadcom Earnings: Why This Stock Just Became A Must-Buy (NASDAQ:AVGO)",
-      "title_ko": "브로드컴 실적: 이 주식이 왜 ‘반드시 매수해야 할 종목’이 되었는지 (나스닥: AVGO)",
-      "snippet": "Broadcom Inc.'s Q3 earnings hinted at a fast-growing AI powerhouse. Click for this updated look at AVGO stock and see why I remain bullish.",
-      "snippet_ko": "브로드컴(Broadcom Inc.)의 3분기 실적은 빠르게 성장하는 AI 강호의 모습을 엿보게 했습니다. AVGO 주식에 대한 최신 분석을 확인하려면 여기를 클릭하고, 제가 여전히 낙관적인 전망을 유지하는 이유를 알아보세요.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4943995-broadcom-earnings-why-this-stock-just-became-a-must-buy",
-      "cross_verified": true,
-      "published_at": "2026-09-08T19:20:57.000000Z"
     }
   ]
 }
