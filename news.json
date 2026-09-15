@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-15T04:26:26.553254+00:00",
+  "updated_at": "2026-09-15T11:30:08.582823+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "INGM Projects Strong Growth but Faces Valuation Challenges Amid Insider Selling",
+      "title_ko": "INGM, 강력한 성장 전망을 내놓고 있으나 내부자 매도로 인해 기업 가치 평가에 어려움을 겪고 있다",
+      "snippet": "On September 15, 2026, Ingram Micro Holding Corp (NYSE: INGM) announced optimistic growth forecasts for the 2026-2029 period, projecting double-digit net income",
+      "snippet_ko": "2026년 9월 15일, 잉그램 마이크로 홀딩스(Ingram Micro Holding Corp, NYSE: INGM)는 2026~2029년 기간에 대한 낙관적인 성장 전망을 발표하며, 두 자릿수 순이익을 예상했다.",
+      "symbol": "",
+      "sentiment_score": 0.5588,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9081402/ingm-projects-strong-growth-but-faces-valuation-challenges-amid-insider-selling",
+      "cross_verified": true,
+      "published_at": "2026-09-15T11:29:02.000000Z"
+    },
+    {
+      "title": "ABT Looks 22.9% Undervalued on GF Value™",
+      "title_ko": "GF Value™에 따르면 ABT는 22.9% 저평가된 것으로 나타남",
+      "snippet": "On September 15, 2026, Abbott Laboratories (NYSE: ABT) announced the successful launch of its innovative Volt Pulsed Field Ablation System in Canada, a breakthr",
+      "snippet_ko": "2026년 9월 15일, 애보트 래버러토리스(NYSE: ABT)는 획기적인 혁신적인 ‘볼트 펄스 필드 절제 시스템(Volt Pulsed Field Ablation System)’을 캐나다에서 성공적으로 출시했다고 발표했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.7019,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9081397/abt-looks-229-undervalued-on-gf-value",
+      "cross_verified": true,
+      "published_at": "2026-09-15T11:26:39.000000Z"
+    },
+    {
+      "title": "Citi Raises Price Target for Acumen Pharmaceuticals (ABOS) to $5 Amid Phase 2 Catalyst Watch",
+      "title_ko": "시티, 2상 임상시험에 대한 긍정적 신호 기대 속에 아큐멘 파마슈티컬스(ABOS) 목표주가 5달러로 상향",
+      "snippet": "On September 15, 2026, Citi upgraded its price target for Acumen Pharmaceuticals Inc (NASDAQ: ABOS) from $4 to $5 while maintaining a Buy rating. The firm also",
+      "snippet_ko": "2026년 9월 15일, 씨티는 아큐멘 파마슈티컬스(Acumen Pharmaceuticals Inc, 나스닥: ABOS)에 대한 목표 주가를 4달러에서 5달러로 상향 조정하는 한편, ‘매수(Buy)’ 투자의견을 유지했다. 또한 이 회사는",
+      "symbol": "",
+      "sentiment_score": 0.2994,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9081396/citi-raises-price-target-for-acumen-pharmaceuticals-abos-to-5-amid-phase-2-catalyst-watch",
+      "cross_verified": true,
+      "published_at": "2026-09-15T11:26:15.000000Z"
+    },
     {
       "title": "Arundhati Bhattacharya: 'Nothing Was Guaranteed, Nothing Was Given'",
       "title_ko": "아룬다티 바타차르야: “보장된 것도, 주어진 것도 없었다”",
@@ -1165,45 +1201,45 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/gap-taps-old-navy-ceo-221935372.html",
       "cross_verified": true,
       "published_at": "2026-09-06T22:19:35.000000Z"
-    },
-    {
-      "title": "RYAAY Looks 6.7% Undervalued on GF Value™ as Dividend Remains Sustainable",
-      "title_ko": "RYAAY, 배당금 지속 가능성 유지되며 GF Value™ 기준 6.7% 저평가된 것으로 나타남",
-      "snippet": "On September 06, 2026, Ryanair Holdings PLC (RYAAY) announced a significant reduction in its winter flight schedule to counteract losses caused by sustained hig",
-      "snippet_ko": "2026년 9월 6일, 라이언에어 홀딩스 PLC(RYAAY)는 지속되는 고유가로 인한 손실을 상쇄하기 위해 겨울철 운항 일정을 대폭 축소한다고 발표했다.",
-      "symbol": "",
-      "sentiment_score": 0.3156,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9069541/ryaay-looks-67-undervalued-on-gf-value-as-dividend-remains-sustainable",
-      "cross_verified": true,
-      "published_at": "2026-09-06T19:55:26.000000Z"
-    },
-    {
-      "title": "Okta Jumps 20% as AI-Driven Security Fears Fuel a Beat-and-Raise Quarter",
-      "title_ko": "AI 기반 보안에 대한 우려가 실적 호조와 전망 상향 조정을 이끌어내며 오크타 주가 20% 급등",
-      "snippet": "CNBC reported that Okta, Inc. (NASDAQ:OKTA) shares surged as much as 29% after the identity security company beat fiscal second-quarter estimates. Adjusted earnings per share came in at $1.05 versus $0.97 expected, and revenue rose 11% to $805 million versus $795 million expected. Net income totaled $116 million, up from $67 million a year earlier, […]",
-      "snippet_ko": "CNBC는 신원 보안 기업인 옥타(Okta, Inc., 나스닥: OKTA)가 회계연도 2분기 실적 전망치를 상회하자 주가가 최대 29% 급등했다고 보도했다. 조정 주당 순이익은 예상치 0.97달러를 상회한 1.05달러를 기록했으며, 매출은 예상치 7억 9,500만 달러 대비 11% 증가한 8억 500만 달러를 기록했다. 순이익은 전년 동기 6,700만 달러에서 증가한 1억 1,600만 달러를 기록했으며, […]",
-      "symbol": "",
-      "sentiment_score": 0.3077,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/okta-jumps-20-ai-driven-193519966.html",
-      "cross_verified": true,
-      "published_at": "2026-09-06T19:35:19.000000Z"
-    },
-    {
-      "title": "Arista Networks vs. IBM: Comparing Quarterly Revenue Trends Between These Artificial Intelligence Giants",
-      "title_ko": "아리스타 네트웍스 대 IBM: 인공지능 분야의 두 거대 기업 간 분기별 매출 추이 비교",
-      "snippet": "Arista has posted eight straight quarters of revenue gains, while IBM swings between peaks and valleys.",
-      "snippet_ko": "아리스타는 8분기 연속 매출 증가를 기록한 반면, IBM은 호황과 불황을 오가고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.1573,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-vs-ibm-comparing-193216269.html",
-      "cross_verified": true,
-      "published_at": "2026-09-06T19:32:16.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "AMZN Looks 2.0% Overvalued on GF Value™ Heading into Prime Big Deal Days",
+      "title_ko": "프라임 빅 딜 데이를 앞두고 AMZN은 GF Value™ 기준 2.0% 과대평가된 것으로 보인다",
+      "snippet": "On September 15, 2026, Amazon.com Inc (NASDAQ: AMZN) announced the return of its Prime Big Deal Days event, scheduled for October 6 and 7. This exclusive 48-hou",
+      "snippet_ko": "2026년 9월 15일, 아마존닷컴(Amazon.com Inc, 나스닥: AMZN)은 10월 6일과 7일에 열릴 예정인 ‘프라임 빅 딜 데이즈(Prime Big Deal Days)’ 행사의 재개를 발표했습니다. 이 48시간 동안 진행되는 독점 행사는",
+      "symbol": "AMZN",
+      "sentiment_score": 0.6259,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9081330/amzn-looks-20-overvalued-on-gf-value-heading-into-prime-big-deal-days",
+      "cross_verified": true,
+      "published_at": "2026-09-15T10:51:05.000000Z"
+    },
+    {
+      "title": "Google’s Traffic Numbers Look Fine, Its Search Economics Tell Another Story",
+      "title_ko": "구글의 트래픽 수치는 괜찮아 보이지만, 검색 시장의 경제학적 현실은 다른 이야기를 말해주고 있다",
+      "snippet": "According to Bank of America’s traffic data, Alphabet Inc. (NASDAQ:GOOG) is holding its position despite growing competition from a range of AI challengers. Visits have increased, mobile users are growing, and the company’s share remains stable even as Claude and Gemini have recorded triple-digit growth. That stability may initially look like a positive sign for […]",
+      "snippet_ko": "뱅크 오브 아메리카의 트래픽 데이터에 따르면, 알파벳(Alphabet Inc., 나스닥:GOOG)은 다양한 AI 신생 기업들의 경쟁이 거세지고 있음에도 불구하고 입지를 굳건히 지키고 있다. 클로드(Claude)와 제미니(Gemini)가 세 자릿수 성장률을 기록했음에도 불구하고, 알파벳의 방문자 수는 증가했고 모바일 사용자도 늘어나며 시장 점유율은 안정적인 모습을 유지하고 있다. 이러한 안정성은 언뜻 보기에 […]에 대한 긍정적인 신호로 보일 수 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.84,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/google-traffic-numbers-look-fine-102257813.html",
+      "cross_verified": true,
+      "published_at": "2026-09-15T10:22:57.000000Z"
+    },
+    {
+      "title": "Intel's Turnaround Is Running Out Of Excuses (NASDAQ:INTC)",
+      "title_ko": "인텔의 실적 회복에 더 이상 핑계를 댈 수 없는 상황 (NASDAQ:INTC)",
+      "snippet": "Intel’s 14A discussions are shifting toward capacity requirements, making external customer commitments the next major proof point for foundry.",
+      "snippet_ko": "인텔의 14A 관련 논의가 생산 능력 요건으로 초점을 옮기면서, 외부 고객에 대한 약속 이행 여부가 파운드리 사업의 다음 주요 검증 기준이 되고 있다.",
+      "symbol": "INTC",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4946374-intels-turnaround-is-running-out-of-excuses",
+      "cross_verified": true,
+      "published_at": "2026-09-15T10:16:09.000000Z"
+    },
     {
       "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
       "title_ko": "중국의 8월 소매판매가 예상치를 하회한 가운데 투자 부진이 심화되면서 중국 정부에 대한 압박이 가중되고 있다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.insurancejournal.com/news/southeast/2026/09/08/884349.htm",
       "cross_verified": true,
       "published_at": "2026-09-08T14:22:15.000000Z"
-    },
-    {
-      "title": "Nvidia, Palantir, and Meta Platforms Are Rattling Wall Street With This $18.6 Billion Warning",
-      "title_ko": "엔비디아, 팔란티어, 메타 플랫폼스가 186억 달러 규모의 실적 하향 조정 소식으로 월가를 뒤흔들고 있다",
-      "snippet": "The people who know Nvidia, Palantir, and Meta best are sending all the wrong signals to investors.",
-      "snippet_ko": "엔비디아, 팔란티어, 메타를 가장 잘 아는 사람들이 투자자들에게 완전히 잘못된 신호를 보내고 있다.",
-      "symbol": "META",
-      "sentiment_score": 0.2945,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-palantir-meta-platforms-rattling-092601179.html",
-      "cross_verified": true,
-      "published_at": "2026-09-08T09:26:01.000000Z"
-    },
-    {
-      "title": "Baron Durable Advantage Fund Q2 2026 Shareholder Letter (BDAFX)",
-      "title_ko": "바론 듀러블 어드밴티지 펀드 2026년 2분기 주주 서한 (BDAFX)",
-      "snippet": "Baron Durable Advantage Fund gained 13.6% in Q2 2026, trailing the S&P 500's 15.2% rise. Read the full analysis for more details on current performance and AI investments.",
-      "snippet_ko": "바론 듀러블 어드밴티지 펀드는 2026년 2분기에 13.6%의 수익률을 기록했으나, S&P 500 지수의 15.2% 상승률에는 미치지 못했습니다. 현재 성과 및 AI 투자에 대한 자세한 내용은 전체 분석 보고서를 참조하십시오.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3083,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4943699-baron-durable-advantage-fund-q2-2026-shareholder-letter",
-      "cross_verified": true,
-      "published_at": "2026-09-08T07:20:00.000000Z"
-    },
-    {
-      "title": "Broadcom: Recent Earnings Confirm Why It's The AI Stock I Trust The Least (NASDAQ:AVGO)",
-      "title_ko": "브로드컴: 최근 실적 발표를 통해 이 회사가 내가 가장 신뢰하지 않는 AI 관련 주식인 이유가 확인됐다 (나스닥: AVGO)",
-      "snippet": "Broadcom's problem is not AI demand, but whether the quality and risk-adjusted value of that demand is deteriorating. Learn why AVGO stock is a hold.",
-      "snippet_ko": "브로드컴의 문제는 AI 수요 자체가 아니라, 그 수요의 질과 위험 조정 가치가 악화되고 있는지 여부입니다. AVGO 주식을 ‘보유’로 평가해야 하는 이유를 알아보세요.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.5106,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4943682-broadcom-stock-recent-earnings-confirm-why-its-the-ai-stock-i-trust-least",
-      "cross_verified": true,
-      "published_at": "2026-09-08T07:01:56.000000Z"
     }
   ]
 }
