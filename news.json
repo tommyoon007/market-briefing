@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-15T11:30:08.582823+00:00",
+  "updated_at": "2026-09-15T16:42:56.748425+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "GOVX Maintained by Noble Capital Markets -- Rating Outperform",
+      "title_ko": "GOVX는 노블 캐피털 마켓츠가 담당하고 있으며, 등급은 ‘아웃퍼폼’입니다.",
+      "snippet": "On October 03, 2023, Geovax Labs (GOVX) received an analyst rating update from Noble Capital Markets, where analyst Robert LeBoyer maintained an Outperform rati",
+      "snippet_ko": "2023년 10월 3일, Geovax Labs(GOVX)는 Noble Capital Markets로부터 애널리스트 평가 업데이트를 받았으며, 애널리스트 로버트 르보이어(Robert LeBoyer)는 ‘Outperform’ 등급을 유지했다.",
+      "symbol": "",
+      "sentiment_score": 0.3834,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9082203/govx-maintained-by-noble-capital-markets-rating-outperform",
+      "cross_verified": true,
+      "published_at": "2026-09-15T16:30:23.000000Z"
+    },
+    {
+      "title": "Texas Challenger to Nasdaq, NYSE Lands Fifth Company in a Week",
+      "title_ko": "나스닥·뉴욕증권거래소(NYSE)에 상장하는 텍사스 챌린저, 일주일 만에 5번째 기업 유치",
+      "snippet": "Texas Capital Bancshares Inc. will switch its primary listing to the Texas Stock Exchange from Nasdaq, making it the fifth company in a week to jump to",
+      "snippet_ko": "텍사스 캐피탈 뱅크셰어스(Texas Capital Bancshares Inc.)는 나스닥에서 텍사스 증권거래소로 주 상장처를 변경할 예정이며, 이로써 일주일 만에 텍사스 증권거래소로 이적한 다섯 번째 기업이 될 전망이다.",
+      "symbol": "",
+      "sentiment_score": 0.296,
+      "source": "insurancejournal.com",
+      "url": "https://www.insurancejournal.com/news/southcentral/2026/09/15/885190.htm",
+      "cross_verified": true,
+      "published_at": "2026-09-15T16:03:57.000000Z"
+    },
+    {
+      "title": "SPY Looks 12.0% Overvalued on GF Value™ as of September 15, 2026",
+      "title_ko": "2026년 9월 15일 기준, GF Value™에 따르면 SPY는 12.0% 과대평가된 것으로 나타났습니다.",
+      "snippet": "On September 15, 2026, BlackRock highlighted that despite rising borrowing costs and elevated energy prices, corporate fundamentals remain resilient, supporting",
+      "snippet_ko": "2026년 9월 15일, 블랙록은 차입 비용 상승과 높은 에너지 가격에도 불구하고 기업의 펀더멘털이 여전히 견고하여, 이를 뒷받침하고 있다고 강조했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.444,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9082136/spy-looks-120-overvalued-on-gf-value-as-of-september-15-2026",
+      "cross_verified": true,
+      "published_at": "2026-09-15T15:57:45.000000Z"
+    },
     {
       "title": "INGM Projects Strong Growth but Faces Valuation Challenges Amid Insider Selling",
       "title_ko": "INGM, 강력한 성장 전망을 내놓고 있으나 내부자 매도로 인해 기업 가치 평가에 어려움을 겪고 있다",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9069585/south-koreas-exports-to-india-surge-over-30-driven-by-semiconductor-demand",
       "cross_verified": true,
       "published_at": "2026-09-07T03:30:27.000000Z"
-    },
-    {
-      "title": "Russia Ready to Supply Oil to India Amid Sanctions Threats",
-      "title_ko": "제재 위협 속 러시아, 인도에 원유 공급할 준비 마쳤다",
-      "snippet": "On September 06, 2026, the Russian Ambassador to New Delhi confirmed Russia's readiness to supply oil to India, amidst rising tensions over proposed U.S. sancti",
-      "snippet_ko": "2026년 9월 6일, 뉴델리 주재 러시아 대사는 미국이 제재 조치를 검토하고 있다는 소식으로 긴장이 고조되는 가운데, 러시아가 인도에 석유를 공급할 준비가 되어 있음을 확인했다.",
-      "symbol": "",
-      "sentiment_score": -0.1012,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9069583/russia-ready-to-supply-oil-to-india-amid-sanctions-threats",
-      "cross_verified": true,
-      "published_at": "2026-09-07T03:10:29.000000Z"
-    },
-    {
-      "title": "SPY Looks 13.0% Overvalued on GF Value™ as Market Awaits Post-Labor Day Trading",
-      "title_ko": "노동절 이후 거래 동향을 지켜보는 가운데, GF Value™ 기준 SPY는 13.0% 과대평가된 것으로 나타났습니다.",
-      "snippet": "On September 06, 2026, ahead of the U.S. markets closing for Labor Day on September 7, investors in the State Street SPDR S&P 500 ETF Trust (ticker: SPY) face a",
-      "snippet_ko": "2026년 9월 6일, 9월 7일 노동절로 인해 미국 증시가 휴장하기 전, 스테이트 스트리트 SPDR S&P 500 ETF 트러스트(티커: SPY)의 투자자들은 다음과 같은 상황에 직면하게 됩니다.",
-      "symbol": "",
-      "sentiment_score": 0.1132,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9069549/spy-looks-130-overvalued-on-gf-value-as-market-awaits-postlabor-day-trading",
-      "cross_verified": true,
-      "published_at": "2026-09-06T22:55:39.000000Z"
-    },
-    {
-      "title": "Gap Taps New Old Navy CEO to Turn Around Sluggish Sales",
-      "title_ko": "갭, 부진한 매출 회복을 위해 올드 네이비 신임 CEO를 영입",
-      "snippet": "CNBC and Reuters reported that The Gap, Inc. (NYSE:GAP) named retail veteran Michael Francis as president and CEO of Old Navy, effective November 2, succeeding Haio Barbeito, who will move into an advisory role. The announcement came alongside second-quarter results showing Old Navy net sales fell 4% year over year to $2.1 billion, with comparable […]",
-      "snippet_ko": "CNBC와 로이터 통신은 갭(The Gap, Inc., NYSE:GAP)이 소매업계 베테랑인 마이클 프랜시스를 11월 2일부로 올드 네이비(Old Navy)의 사장 겸 CEO로 임명했다고 보도했다. 그는 자문직으로 자리를 옮기게 될 하이오 바르베이토의 후임이다. 이번 발표는 올드 네이비의 2분기 실적이 공개된 것과 동시에 이루어졌는데, 올드 네이비의 순매출은 전년 동기 대비 4% 감소한 21억 달러를 기록했으며, 동일 매장 매출은 […]",
-      "symbol": "",
-      "sentiment_score": 0.4228,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gap-taps-old-navy-ceo-221935372.html",
-      "cross_verified": true,
-      "published_at": "2026-09-06T22:19:35.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "INTC Looks 209.3% Overvalued on GF Value™",
+      "title_ko": "GF Value™에 따르면 INTC는 209.3% 과대평가된 것으로 나타났습니다.",
+      "snippet": "On September 15, 2026, Altera, a chipmaker backed by Silver Lake and Intel, filed confidentially for an initial public offering (IPO), signaling a major develop",
+      "snippet_ko": "2026년 9월 15일, 실버 레이크와 인텔의 투자를 받은 반도체 제조사 알테라(Altera)가 비공개로 기업공개(IPO)를 신청하며, 이는 중대한 전개를 예고하는 신호로 해석된다.",
+      "symbol": "INTC",
+      "sentiment_score": 0.0258,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9082134/intc-looks-2093-overvalued-on-gf-value",
+      "cross_verified": true,
+      "published_at": "2026-09-15T15:57:24.000000Z"
+    },
+    {
+      "title": "META Looks 21.9% Undervalued on GF Value™ as AI Chip Innovation Drives Growth",
+      "title_ko": "AI 칩 혁신이 성장을 견인함에 따라 META는 GF Value™ 기준 21.9% 저평가된 것으로 나타남",
+      "snippet": "On September 15, 2026, Meta Platforms Inc (NASDAQ: META) announced plans to deploy its third-generation AI chips, the MTIA 450, in data centers by mid-2024, wit",
+      "snippet_ko": "2026년 9월 15일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)는 2024년 중반까지 데이터 센터에 자사의 3세대 AI 칩인 MTIA 450을 도입할 계획을 발표했으며,",
+      "symbol": "META",
+      "sentiment_score": 0.2476,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9082133/meta-looks-219-undervalued-on-gf-value-as-ai-chip-innovation-drives-growth",
+      "cross_verified": true,
+      "published_at": "2026-09-15T15:57:01.000000Z"
+    },
+    {
+      "title": "Former Google Researcher Issues Stark AI Warning",
+      "title_ko": "구글 전 연구원, 인공지능에 대한 강력한 경고 발령",
+      "snippet": "Alphabet (GOOGL) is facing renewed attention around the risks of advanced artificial intelligence after a former Google DeepMind researcher became the latest in",
+      "snippet_ko": "구글 딥마인드(DeepMind)의 전직 연구원이 최근",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.0381,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9082115/former-google-researcher-issues-stark-ai-warning",
+      "cross_verified": true,
+      "published_at": "2026-09-15T15:49:34.000000Z"
+    },
     {
       "title": "AMZN Looks 2.0% Overvalued on GF Value™ Heading into Prime Big Deal Days",
       "title_ko": "프라임 빅 딜 데이를 앞두고 AMZN은 GF Value™ 기준 2.0% 과대평가된 것으로 보인다",
@@ -2367,42 +2403,6 @@
       "url": "https://seekingalpha.com/article/4943995-broadcom-earnings-why-this-stock-just-became-a-must-buy",
       "cross_verified": true,
       "published_at": "2026-09-08T19:20:57.000000Z"
-    },
-    {
-      "title": "Could Apple Face a $17 Billion Child Safety Settlement Like Meta?",
-      "title_ko": "애플도 메타처럼 170억 달러 규모의 아동 안전 관련 합의금을 지불하게 될까?",
-      "snippet": "On the morning John Ternus took over as Apple CEO, the most consequential headline about the company had nothing to do with the iPhone cycle or Siri AI. It came from a CNBC Squawk Box interview on September 1, 2026, where West Virginia Attorney General JB McCuskey called Meta Platforms (NASDAQ:META)’ recent $17 billion child-safety […]",
-      "snippet_ko": "존 테르누스가 애플 CEO로 취임한 날 아침, 이 회사와 관련해 가장 중요한 뉴스 헤드라인은 아이폰 출시 주기나 시리(Siri) AI와는 전혀 무관했다. 이 소식은 2026년 9월 1일 CNBC ‘스쿼크 박스(Squawk Box)’ 인터뷰에서 나왔는데, 웨스트버지니아주 법무장관 JB 맥커스키가 메타 플랫폼스(NASDAQ:META)의 최근 170억 달러 규모의 아동 안전 […]",
-      "symbol": "AAPL",
-      "sentiment_score": 0.412,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-apple-face-17-billion-150503182.html",
-      "cross_verified": true,
-      "published_at": "2026-09-08T15:05:03.000000Z"
-    },
-    {
-      "title": "Amazon Just Handed Qualcomm a Slice of AWS’s AI Buildout",
-      "title_ko": "아마존, 퀄컴에 AWS의 AI 인프라 확충 사업 일부를 맡겼다",
-      "snippet": "AWS is sitting on a $496 billion backlog and doubling its power capacity, and the pressure is now pulling a surprising new name into the AI silicon race alongside Broadcom. Whether that newcomer can actually deliver before the window closes is the real question.",
-      "snippet_ko": "AWS는 4,960억 달러 규모의 미처리 수주를 확보한 상태이며 전력 용량을 두 배로 늘리고 있는데, 이러한 압박으로 인해 브로드컴과 어깨를 나란히 하며 AI 반도체 경쟁에 뛰어드는 의외의 신생 기업이 등장하고 있다. 그 신생 기업이 기한이 만료되기 전에 실제로 성과를 낼 수 있을지가 진정한 관건이다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.18,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-just-handed-qualcomm-slice-145631339.html",
-      "cross_verified": true,
-      "published_at": "2026-09-08T14:56:31.000000Z"
-    },
-    {
-      "title": "Five Dead After Amazon Plane Overran Runway at Miami Airport",
-      "title_ko": "마이애미 공항에서 아마존 항공기가 활주로를 벗어나 5명 사망",
-      "snippet": "An Amazon cargo plane barreled off a runway at Miami International Airport on Sunday, killing at least five people and injuring five others as it struck",
-      "snippet_ko": "일요일, 마이애미 국제공항에서 아마존 화물기가 활주로를 이탈해 충돌하면서 최소 5명이 사망하고 5명이 부상을 입었다.",
-      "symbol": "AMZN",
-      "sentiment_score": -0.25,
-      "source": "insurancejournal.com",
-      "url": "https://www.insurancejournal.com/news/southeast/2026/09/08/884349.htm",
-      "cross_verified": true,
-      "published_at": "2026-09-08T14:22:15.000000Z"
     }
   ]
 }
