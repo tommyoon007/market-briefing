@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-16T07:31:18.550894+00:00",
+  "updated_at": "2026-09-16T13:20:30.861268+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "JPMorgan Chase Stock Is Beating Nu This Year, but Only One of Them Had Positive Free Cash Flow Last Year",
+      "title_ko": "올해 JPMorgan Chase 주가는 Nu보다 더 좋은 성과를 보이고 있지만, 작년 자유현금흐름이 흑자를 기록한 곳은 단 한 곳뿐이었다",
+      "snippet": "JPMorgan trades at a cheaper valuation, but Nu's 43% revenue growth and positive free cash flow tell a starkly different profitability story.",
+      "snippet_ko": "JPMorgan의 기업 가치는 상대적으로 낮게 평가되고 있지만, Nu의 43% 매출 성장률과 흑자 자유 현금 흐름은 수익성 측면에서 완전히 다른 양상을 보여주고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.4929,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-stock-beating-nu-124101333.html",
+      "cross_verified": true,
+      "published_at": "2026-09-16T12:41:01.000000Z"
+    },
     {
       "title": "IBM's New AI Deal Must Handle 23 Million Transactions Daily",
       "title_ko": "IBM의 새로운 AI 계약은 매일 2,300만 건의 거래를 처리해야 한다",
@@ -1189,21 +1201,57 @@
       "url": "https://www.gurufocus.com/news/9069741/european-markets-dip-amid-oil-price-surge-and-novartis-nvs-stock-decline",
       "cross_verified": true,
       "published_at": "2026-09-07T17:50:26.000000Z"
-    },
-    {
-      "title": "SPY Looks 13.0% Overvalued on GF Value™ as of September 07, 2026",
-      "title_ko": "2026년 9월 7일 기준, GF Value™에 따르면 SPY는 13.0% 과대평가된 것으로 나타났습니다.",
-      "snippet": "On September 07, 2026, the S&P 500's historical pattern of declines on the first trading day of Labor Day week once again draws attention, with the State Street",
-      "snippet_ko": "2026년 9월 7일, 노동절 주간의 첫 거래일에 S&P 500 지수가 하락하는 과거의 패턴이 다시 한 번 주목을 받고 있는 가운데, 스테이트 스트리트는",
-      "symbol": "",
-      "sentiment_score": 0.1366,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9069675/spy-looks-130-overvalued-on-gf-value-as-of-september-07-2026",
-      "cross_verified": true,
-      "published_at": "2026-09-07T11:55:31.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Intel Rises 4%, SK Hynix Climbs 3% on Reports of Talks to Make Memory Chips at Ohio Campus; Micron Holds Flat",
+      "title_ko": "오하이오 캠퍼스에서 메모리 칩 생산을 위한 협의 중이라는 보도에 인텔은 4%, SK하이닉스는 3% 상승한 반면, 마이크론은 보합세를 보임",
+      "snippet": "A Reuters report about SK Hynix possibly producing memory chips on Intel's Ohio campus sent shares of both companies surging, but the real story is what the deal's structure could mean for Micron and the future of U.S. chip manufacturing.",
+      "snippet_ko": "SK하이닉스가 인텔의 오하이오 캠퍼스에서 메모리 칩을 생산할 가능성이 있다는 로이터 통신의 보도로 양사 주가가 급등했으나, 진짜 핵심은 이번 거래 구조가 마이크론과 미국 반도체 제조업의 미래에 어떤 의미를 지닐지다.",
+      "symbol": "INTC",
+      "sentiment_score": 0.5103,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-rises-4-sk-hynix-123933795.html",
+      "cross_verified": true,
+      "published_at": "2026-09-16T12:39:33.000000Z"
+    },
+    {
+      "title": "Alphabet, Exelon, and Patterson-UTI Just Paid Shareholders. Here’s What They Got.",
+      "title_ko": "알파벳, 엑셀론, 패터슨-UTI가 최근 주주들에게 배당금을 지급했습니다. 주주들이 받은 금액은 다음과 같습니다.",
+      "snippet": "Three companies with nothing in common all sent checks to shareholders within the same two-day window, and the reasons behind each payment reveal something very different about where each business is headed.",
+      "snippet_ko": "서로 아무런 공통점도 없는 세 회사가 모두 이틀이라는 같은 기간 내에 주주들에게 수표를 발송했는데, 각 지급의 배경을 살펴보면 각 기업의 향후 방향에 대해 매우 다른 점을 엿볼 수 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3807,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-exelon-patterson-uti-just-123504231.html",
+      "cross_verified": true,
+      "published_at": "2026-09-16T12:35:04.000000Z"
+    },
+    {
+      "title": "Alphabet (GOOG) Surges 24% as Revenue Growth Soars — But Is $190 Billion in Capex Too Much?",
+      "title_ko": "알파벳(GOOG), 매출 성장세 급증에 주가가 24% 급등 — 하지만 1,900억 달러 규모의 자본지출은 과한 것일까?",
+      "snippet": "Alluvium Asset Management, an asset management company, released its “Conventum – Alluvium Global Fund” second-quarter 2026 investor letter. The letter can be downloaded here. The second quarter reflected a sharp shift from geopolitical uncertainty and oil market volatility to a powerful equity rally led by semiconductor companies. Despite the broader market strength, the Fund declined […]",
+      "snippet_ko": "자산운용사 알루비움 애셋 매니지먼트(Alluvium Asset Management)가 “Conventum – Alluvium Global Fund”의 2026년 2분기 투자자 서한을 발표했습니다. 해당 서한은 여기에서 다운로드할 수 있습니다. 2분기에는 지정학적 불확실성과 원유 시장의 변동성에서 반도체 기업을 중심으로 한 강력한 주식 랠리로 급격한 전환이 나타났습니다. 전반적인 시장 강세에도 불구하고, 본 펀드는 […] 하락했습니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.5727,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-goog-surges-24-revenue-123012360.html",
+      "cross_verified": true,
+      "published_at": "2026-09-16T12:30:12.000000Z"
+    },
+    {
+      "title": "Elon Musk Is Worth $900 Billion, But That Could Change In A Day",
+      "title_ko": "일론 머스크의 순자산은 9,000억 달러에 달하지만, 이는 하루 만에 바뀔 수도 있다",
+      "snippet": "Elon Musk has crossed the trillion-dollar threshold before and watched it vanish in weeks. What keeps his fortune swinging by hundreds of billions at a time says a lot about how fragile that number really is.",
+      "snippet_ko": "일론 머스크는 과거에도 1조 달러의 문턱을 넘었다가 불과 몇 주 만에 그 기록이 사라지는 것을 지켜본 적이 있다. 그의 재산이 한 번에 수천억 단위로 요동치는 현상은 그 수치가 실제로 얼마나 취약한지를 여실히 보여준다.",
+      "symbol": "TSLA",
+      "sentiment_score": -0.0772,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-worth-900-billion-123938238.html",
+      "cross_verified": true,
+      "published_at": "2026-09-16T12:39:38.000000Z"
+    },
     {
       "title": "Former Google DeepMind researcher raises a new warning about AI risk",
       "title_ko": "구글 딥마인드 전 연구원이 AI 위험에 대해 새로운 경고를 제기했다",
@@ -2355,54 +2403,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/much-longer-current-bull-market-102300486.html",
       "cross_verified": true,
       "published_at": "2026-09-09T10:23:00.000000Z"
-    },
-    {
-      "title": "Meta Limits Facebook and Instagram Access in New York",
-      "title_ko": "메타, 뉴욕에서 페이스북 및 인스타그램 접속 제한",
-      "snippet": "Meta limits Facebook and Instagram access to every other day in New York due to a data center moratorium, impacting local users.",
-      "snippet_ko": "메타는 데이터 센터 운영 중단 조치로 인해 뉴욕에서 페이스북과 인스타그램 접속을 격일로 제한하고 있으며, 이로 인해 현지 사용자들이 영향을 받고 있다.",
-      "symbol": "META",
-      "sentiment_score": -0.3818,
-      "source": "platformonomics.com",
-      "url": "https://platformonomics.com/2026/09/breaking-meta-announces-facebook-and-instagram-rationing-in-new-york-state-due-to-data-center-moratorium/",
-      "cross_verified": true,
-      "published_at": "2026-09-09T04:16:56.000000Z"
-    },
-    {
-      "title": "Wednesday’s HotCopper trends: PolarX, Resolution Minerals, Auric Mining and other daily topics",
-      "title_ko": "수요일 HotCopper 주요 동향: PolarX, Resolution Minerals, Auric Mining 및 기타 오늘의 화제",
-      "snippet": "With more than 600k average monthly users on the HotCopper forums, each and every discussion can move markets.",
-      "snippet_ko": "HotCopper 포럼의 월평균 이용자 수가 60만 명을 넘기 때문에, 그곳에서 오가는 모든 토론이 시장에 영향을 미칠 수 있습니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.34,
-      "source": "themarketherald.com.au",
-      "url": "https://themarketonline.com.au/wednesdays-hotcopper-trends-polarx-resolution-minerals-auric-mining-and-other-daily-topics-2026-09-09/",
-      "cross_verified": true,
-      "published_at": "2026-09-09T02:58:17.000000Z"
-    },
-    {
-      "title": "Disney: The Period Of Underperformance Is Likely To End (Rating Upgrade) (NYSE:DIS)",
-      "title_ko": "디즈니: 부진한 실적이 지속되던 시기는 끝날 것으로 보인다 (투자의견 상향) (NYSE:DIS)",
-      "snippet": "Upgrade Disney to a Buy: strong Q3 results, operating leverage, bigger buybacks, and a discounted forward P/E suggest upside.",
-      "snippet_ko": "디즈니에 대한 투자의견을 ‘매수’로 상향 조정: 견조한 3분기 실적, 영업 레버리지, 확대된 자사주 매입, 그리고 할인된 예상 주가수익비율(P/E)이 상승 여력을 시사한다.",
-      "symbol": "DIS",
-      "sentiment_score": 0.4468,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4944127-disney-stock-period-of-underperformance-likely-to-end-rating-upgrade",
-      "cross_verified": true,
-      "published_at": "2026-09-09T02:41:26.000000Z"
-    },
-    {
-      "title": "Amazon accused of firing pregnant workers who sought chairs, breaks and other accommodations: lawsuit",
-      "title_ko": "아마존, 의자 제공·휴식 시간 보장 등 편의 조치를 요청한 임산부 직원들을 해고했다는 혐의로 고소당해",
-      "snippet": "The lawsuit claims Amazon fired pregnant workers after medical appointments, emergency room visits and lactation breaks depleted their unpaid time off.",
-      "snippet_ko": "소송에 따르면, 아마존은 임산부 직원들이 진료 예약, 응급실 방문 및 수유 휴가로 인해 무급 휴가 일수가 소진되자 해고했다고 한다.",
-      "symbol": "AMZN",
-      "sentiment_score": -0.6808,
-      "source": "video.foxbusiness.com",
-      "url": "https://www.foxbusiness.com/lifestyle/amazon-accused-punishing-pregnant-workers-who-sought-chairs-breaks-other-accommodations-lawsuit",
-      "cross_verified": true,
-      "published_at": "2026-09-08T21:56:28.000000Z"
     }
   ]
 }
