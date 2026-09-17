@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-16T22:48:39.376980+00:00",
+  "updated_at": "2026-09-17T04:27:59.507613+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Anavex Life Sciences Corp. (AVXL) Discusses Board Misalignment, Leadership Concerns, and Strategic Changes for Company Turnaround Transcript",
+      "title_ko": "아나벡스 라이프 사이언스(Anavex Life Sciences Corp., AVXL), 이사회 간 의견 불일치, 경영진 관련 우려, 그리고 기업 회생을 위한 전략적 변화에 대해 논의한 회의록",
+      "snippet": "Anavex Life Sciences Corp. (AVXL) Discusses Board Misalignment, Leadership Concerns, and Strategic Changes for Company Turnaround September 16, 2026 10:00...",
+      "snippet_ko": "아나벡스 라이프 사이언스(Anavex Life Sciences Corp., AVXL), 기업 회생을 위한 이사회 의견 불일치, 리더십 문제 및 전략적 변화에 대해 논의 2026년 9월 16일 10:00...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4947094-anavex-life-sciences-corp-avxl-discusses-board-misalignment-leadership-concerns-and-strategic",
+      "cross_verified": true,
+      "published_at": "2026-09-17T03:51:37.000000Z"
+    },
+    {
+      "title": "Cal-Maine Foods Stock: A Brutal Reset, But An Interesting Opportunity (NASDAQ:CALM)",
+      "title_ko": "Cal-Maine Foods 주가: 가혹한 조정, 그러나 흥미로운 기회 (NASDAQ:CALM)",
+      "snippet": "Cal-Maine Foods (CALM) rated Buy: diversification into specialty eggs & prepared foods, reasonable valuation (11.2x P/E) despite FY2026 dip. See more here.",
+      "snippet_ko": "Cal-Maine Foods (CALM) 매수 추천: 특산 계란 및 조리 식품 분야로의 사업 다각화, 2026 회계연도 실적 부진에도 불구하고 합리적인 밸류에이션(주가수익비율 11.2배). 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.1525,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4947309-cal-maine-foods-a-brutal-reset-but-an-interesting-opportunity",
+      "cross_verified": true,
+      "published_at": "2026-09-17T03:14:59.000000Z"
+    },
+    {
+      "title": "Cisco Stock Could Soon Wake From Its Summer Slumber (NASDAQ:CSCO)",
+      "title_ko": "시스코 주가, 곧 여름 침체에서 깨어날 전망 (나스닥:CSCO)",
+      "snippet": "Cisco Q4 FY2026: revenue is +18% YoY, AI networking demand surges as hyperscaler orders jump 4.5x. Read here for a detailed investment analysis.",
+      "snippet_ko": "시스코 2026 회계연도 4분기: 매출이 전년 동기 대비 18% 증가했으며, 하이퍼스케일러의 주문량이 4.5배 급증함에 따라 AI 네트워킹 수요가 급증했습니다. 자세한 투자 분석은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.3891,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4947307-cisco-stock-could-soon-wake-from-its-summer-slumber",
+      "cross_verified": true,
+      "published_at": "2026-09-17T03:07:20.000000Z"
+    },
     {
       "title": "Protalix BioTherapeutics, Inc. (PLX) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
       "title_ko": "프로탈릭스 바이오테라퓨틱스(Protalix BioTherapeutics, Inc., PLX), 모건 스탠리 제24회 연례 글로벌 헬스케어 컨퍼런스에서 발표: 발표록",
@@ -1165,45 +1201,33 @@
       "url": "https://seekingalpha.com/article/4943734-automatic-data-processing-tailwinds-at-its-back",
       "cross_verified": true,
       "published_at": "2026-09-08T10:15:22.000000Z"
-    },
-    {
-      "title": "Matson: Better Fundamentals, Limited Upside After The Rally (NYSE:MATX)",
-      "title_ko": "매트슨: 펀더멘털은 개선되었으나, 랠리 이후 상승 여력은 제한적 (NYSE:MATX)",
-      "snippet": "Matson's fundamentals have improved, driven by China's recovery and stronger Ocean Transportation profitability. Read more on MATX stock here.",
-      "snippet_ko": "중국의 경기 회복과 해상 운송 부문의 수익성 개선에 힘입어 매트슨(Matson)의 기초 실적이 개선되었습니다. MATX 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.3634,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4943651-matson-stock-better-fundamentals-limited-upside-after-rally",
-      "cross_verified": true,
-      "published_at": "2026-09-08T02:40:20.000000Z"
-    },
-    {
-      "title": "A Navy Contract And A Cash Cushion Reshape Hyliion’s (HYLN) Story",
-      "title_ko": "해군 계약과 여유 자금, 하이리온(HYLN)의 전망을 새롭게 그리다",
-      "snippet": "On August 11, Hyliion Holdings Corp.",
-      "snippet_ko": "8월 11일, Hyliion Holdings Corp.",
-      "symbol": "",
-      "sentiment_score": 0.6124,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/a-navy-contract-and-a-cash-cushion-reshape-hyliions-hyln-story-1829742/",
-      "cross_verified": true,
-      "published_at": "2026-09-08T02:38:37.000000Z"
-    },
-    {
-      "title": "Matthews International (MATW) Cuts Its Outlook While Chasing A Battery Future",
-      "title_ko": "매튜스 인터내셔널(MATW), 배터리 사업 확장에 힘쓰는 가운데 실적 전망 하향 조정",
-      "snippet": "On August 6, Matthews International (NASDAQ:MATW) delivered fiscal third-quarter results that read as two different companies stapled together.",
-      "snippet_ko": "8월 6일, 매튜스 인터내셔널(NASDAQ:MATW)은 마치 서로 다른 두 회사가 억지로 합쳐진 듯한 제3분기 실적 보고서를 발표했다.",
-      "symbol": "",
-      "sentiment_score": -0.148,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/matthews-international-matw-cuts-its-outlook-while-chasing-a-battery-future-1829743/",
-      "cross_verified": true,
-      "published_at": "2026-09-08T02:33:00.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Trump to host China's Xi Jinping: What to expect, who'll attend state dinner in Washington? All you need to know",
+      "title_ko": "트럼프, 중국 시진핑 주석 접대: 어떤 일이 펼쳐질까, 워싱턴에서 열리는 국빈 만찬에는 누가 참석할까? 꼭 알아야 할 모든 것",
+      "snippet": "US President Donald Trump said earlier he will host a state dinner for Xi Jinping when the Chinese leader visits the White House on September 24.",
+      "snippet_ko": "도널드 트럼프 미국 대통령은 앞서 시진핑 중국 국가주석이 9월 24일 백악관을 방문할 때 국빈 만찬을 주최하겠다고 밝혔다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.0,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/news/us-news/trump-to-host-chinas-xi-jinping-what-to-expect-wholl-attend-state-dinner-in-washington-all-you-need-to-know-11789610301267.html",
+      "cross_verified": true,
+      "published_at": "2026-09-17T02:06:35.000000Z"
+    },
+    {
+      "title": "Global Markets Update: OpenAI Discloses Safety Incidents, Google Dodges Breakup, and Brazil Trims Rates",
+      "title_ko": "글로벌 시장 동향: 오픈AI, 안전 사고 공개… 구글, 분할 위기 모면… 브라질, 금리 인하",
+      "snippet": "OpenAI has introduced a formal framework to track and disclose incidents where its AI models behave in unexpected or \"misaligned\" ways. The company",
+      "snippet_ko": "OpenAI는 자사의 AI 모델이 예상치 못한 방식이나 “일치하지 않는” 방식으로 작동하는 사고를 추적하고 공개하기 위한 공식적인 체계를 도입했다. 이 회사는",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.3206,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/global-markets-update-openai-discloses-safety-incidents-google-dodges-breakup-and-brazil-trims-rates/71877/",
+      "cross_verified": true,
+      "published_at": "2026-09-16T22:08:16.000000Z"
+    },
     {
       "title": "Fed Hikes Rates by 25 Basis Points as Chairman Warsh Signals “Higher for Longer” Stance",
       "title_ko": "워시 의장이 “더 오랫동안 더 높은 금리” 기조를 시사한 가운데, 연준이 금리를 25 베이시스 포인트 인상했다",
@@ -2379,30 +2403,6 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/market-sentiment-cools-as-energy-and-commodities-rally-amid-broader-index-slump/71597/",
       "cross_verified": true,
       "published_at": "2026-09-09T18:07:14.000000Z"
-    },
-    {
-      "title": "Meta shares are still cheap and worth buying. Here's why",
-      "title_ko": "메타 주가는 여전히 저렴하며 매수할 가치가 있습니다. 그 이유는 다음과 같습니다.",
-      "snippet": "Meta's new model and personal agent app showcase the hidden value inside the social media giant.",
-      "snippet_ko": "메타의 새로운 모델과 개인 비서 앱은 이 소셜 미디어 거대 기업 안에 숨겨진 가치를 보여준다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3791,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/09/meta-shares-are-still-cheap-and-worth-buying-heres-why.html",
-      "cross_verified": true,
-      "published_at": "2026-09-09T15:37:56.000000Z"
-    },
-    {
-      "title": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up",
-      "title_ko": "AMD, CFO가 AI 칩 시장 전망치를 3조 달러로 상향 조정하며 3% 상승… 인텔은 소폭 상승",
-      "snippet": "AMD's CFO just reshaped how big the AI chip market could get, and investors sent the stock surging past a key technical level while quietly slamming a door on one of Intel's biggest hopes.",
-      "snippet_ko": "AMD의 최고재무책임자(CFO)가 AI 칩 시장의 잠재적 규모에 대한 전망을 새롭게 제시하자, 투자자들은 주가를 주요 기술적 저항선을 넘어 치솟게 만들었으며, 동시에 인텔의 가장 큰 희망 중 하나에 조용히 종지부를 찍었다.",
-      "symbol": "INTC",
-      "sentiment_score": 0.2631,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-rises-3-cfo-lifts-144521803.html",
-      "cross_verified": true,
-      "published_at": "2026-09-09T14:45:21.000000Z"
     }
   ]
 }
