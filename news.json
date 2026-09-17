@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-17T11:24:21.353127+00:00",
+  "updated_at": "2026-09-17T16:42:13.080402+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Janus Henderson Mortgage-Backed Securities ETF Q2 2026 Commentary (NYSEARCA:JMBS)",
+      "title_ko": "자누스 헨더슨 모기지 담보 증권 ETF 2026년 2분기 분석 보고서 (NYSEARCA:JMBS)",
+      "snippet": "Janus Henderson Mortgage-Backed Securities ETF returned 0.79% and the Bloomberg U.S. Mortgage Backed Securities Index returned 0.58%.",
+      "snippet_ko": "야누스 헨더슨 모기지 담보 증권 ETF는 0.79%의 수익률을 기록했고, 블룸버그 미국 모기지 담보 증권 지수는 0.58%의 수익률을 기록했다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4947528-janus-henderson-mortgage-backed-securities-etf-q2-2026-commentary",
+      "cross_verified": true,
+      "published_at": "2026-09-17T15:53:00.000000Z"
+    },
+    {
+      "title": "Applied Materials’ $5 billion India plan to build chip R&D lab, supply chain",
+      "title_ko": "애플라이드 머티리얼즈, 50억 달러 규모의 인도 투자 계획… 반도체 연구개발(R&D) 센터 및 공급망 구축",
+      "snippet": "The event saw Tata Electronics, which is developing India’s first commercial chip fabrication plant, sign seven memorandums of understanding with semiconductor supply-chain companies.",
+      "snippet_ko": "이번 행사에서 인도 최초의 상업용 칩 제조 공장을 건설 중인 타타 일렉트로닉스(Tata Electronics)가 반도체 공급망 기업들과 7건의 양해각서(MOU)를 체결했다.",
+      "symbol": "",
+      "sentiment_score": 0.3379,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/industry/applied-materials-5-billion-india-plan-to-build-chip-r-d-lab-supply-chain-11789655951975.html",
+      "cross_verified": true,
+      "published_at": "2026-09-17T15:52:36.000000Z"
+    },
+    {
+      "title": "Progyny: Best-In-Class And Likely To Exceed Analyst Estimates In 2027 (NASDAQ:PGNY)",
+      "title_ko": "Progyny: 동종 업계 최고 수준이며 2027년 애널리스트 예상치를 상회할 전망 (NASDAQ:PGNY)",
+      "snippet": "Progyny (PGNY) remains a top fertility benefits leader with strong growth, margin expansion, and catalysts ahead—explore the outlook and decide if it’s a...",
+      "snippet_ko": "Progyny(PGNY)는 강력한 성장세와 마진 확대, 향후 기대되는 긍정적 요인들을 바탕으로 여전히 불임 치료 혜택 분야의 선두주자로 자리매김하고 있습니다. 전망을 살펴보고 이 종목이 투자할 만한지 판단해 보세요...",
+      "symbol": "",
+      "sentiment_score": 0.1909,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4947525-progyny-best-in-class-and-likely-to-exceed-analyst-estimates-in-2027",
+      "cross_verified": true,
+      "published_at": "2026-09-17T15:45:28.000000Z"
+    },
     {
       "title": "111 Inc. gains 12% on preliminary go-private proposal from buyer group (YI:NASDAQ)",
       "title_ko": "111 Inc., 인수자 그룹의 예비 비공개화 제안에 주가가 12% 상승 (YI:NASDAQ)",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4944025-micron-crash-may-set-up-another-leg-higher",
       "cross_verified": true,
       "published_at": "2026-09-08T20:11:20.000000Z"
-    },
-    {
-      "title": "Air Products and Chemicals: Better Margins, Higher Returns (NYSE:APD)",
-      "title_ko": "에어 프로덕츠 앤 케미컬스: 마진 개선, 수익률 상승 (NYSE:APD)",
-      "snippet": "Air Products and Chemicals is rated a Buy due to improving margins, lower CAPEX, and stronger cash generation and returns. Read more on APD stock here.",
-      "snippet_ko": "에어 프로덕츠 앤드 케미컬스(Air Products and Chemicals)는 마진 개선, 자본지출(CAPEX) 감소, 그리고 현금 창출 및 수익성 강화로 인해 ‘매수’ 등급을 받았습니다. APD 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.3793,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4944022-air-products-and-chemicals-better-margins-higher-returns-and-a-more-disciplined-energy-transition-strategy",
-      "cross_verified": true,
-      "published_at": "2026-09-08T20:07:57.000000Z"
-    },
-    {
-      "title": "Absci: Positive Ph1 Data ABS-201 AGA And Several Catalysts Inbound (ABSI)",
-      "title_ko": "Absci: Ph1 단계에서 긍정적인 ABS-201 AGA 데이터 발표, 향후 여러 호재 예상 (ABSI)",
-      "snippet": "Absci is upgraded to Buy after strong Phase 1 ABS-201 AGA data, solid PK/safety, and 2026–27 catalysts. Read the latest analysis on the stock here.",
-      "snippet_ko": "Absci는 ABS-201 AGA 1상 임상시험 결과 호조, 견실한 약동학 및 안전성 데이터, 그리고 2026~27년 예상되는 긍정적 요인들을 바탕으로 투자 등급이 ‘매수’로 상향 조정되었습니다. 해당 종목에 대한 최신 분석 보고서는 여기에서 확인하실 수 있습니다.",
-      "symbol": "",
-      "sentiment_score": 0.4153,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4944014-absci-positive-ph1-data-abs-201-aga-and-several-catalysts-inbound-upgrade",
-      "cross_verified": true,
-      "published_at": "2026-09-08T19:51:38.000000Z"
-    },
-    {
-      "title": "Tech Resilience Amidst Broader Market Softness: Midday Update for September 8, 2026",
-      "title_ko": "전반적인 시장 약세 속 기술주의 탄력성: 2026년 9월 8일 정오 업데이트",
-      "snippet": "U.S. equity markets displayed a stark divergence during midday trading on Tuesday, September 8th, 2026. While the broader market struggled to find its footing",
-      "snippet_ko": "2026년 9월 8일 화요일 정오 거래 시간 동안 미국 주식 시장은 극명한 엇갈린 양상을 보였다. 전반적인 시장은 방향성을 잡지 못한 채 고전하는 반면",
-      "symbol": "",
-      "sentiment_score": 0.3358,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-resilience-amidst-broader-market-softness-midday-update-for-september-8-2026/71541/",
-      "cross_verified": true,
-      "published_at": "2026-09-08T16:07:21.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Meta Platforms: Get In Before September 23 (NASDAQ:META)",
+      "title_ko": "메타 플랫폼스: 9월 23일 이전에 매수하세요 (나스닥: META)",
+      "snippet": "Meta Platforms is evolving beyond advertising, with AI agents and cloud computing emerging as new growth engines. Click for more on META's Buy case.",
+      "snippet_ko": "메타 플랫폼스는 광고를 넘어 진화하고 있으며, AI 에이전트와 클라우드 컴퓨팅이 새로운 성장 동력으로 부상하고 있습니다. META의 매수 근거에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "META",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4947512-meta-platforms-get-in-before-september-23",
+      "cross_verified": true,
+      "published_at": "2026-09-17T15:09:53.000000Z"
+    },
+    {
+      "title": "India's first vertically integrated SiC semiconductor unit nears production",
+      "title_ko": "인도 최초의 수직 통합형 SiC 반도체 생산 시설, 가동 임박",
+      "snippet": "RIR Power Electronics has installed key equipment at its Rs 618 crore Bhubaneswar facility, which is expected to begin operations within the next three months.",
+      "snippet_ko": "RIR 파워 일렉트로닉스는 618 크로레 루피 규모의 부바네스와르 공장에 주요 설비를 설치했으며, 이 공장은 향후 3개월 이내에 가동을 시작할 것으로 예상된다.",
+      "symbol": "INTC",
+      "sentiment_score": -0.2023,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/industry/news/india-s-first-vertically-integrated-sic-semiconductor-unit-nears-production-126091701289_1.html",
+      "cross_verified": true,
+      "published_at": "2026-09-17T14:46:57.000000Z"
+    },
+    {
+      "title": "Intel: Too Expensive Despite The Fast Growth (NASDAQ:INTC)",
+      "title_ko": "인텔: 빠른 성장세에도 불구하고 주가가 너무 비싸다 (나스닥: INTC)",
+      "snippet": "Intel (INTC) posts fastest growth in 15 years as Q2 revenue jumps 25% and margins expand; PC price hikes lift profit.",
+      "snippet_ko": "인텔(INTC)이 2분기 매출이 25% 급증하고 마진이 확대되면서 15년 만에 가장 빠른 성장세를 기록했으며, PC 가격 인상이 이익 증가를 이끌었다.",
+      "symbol": "INTC",
+      "sentiment_score": -0.1202,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4947500-intel-too-expensive-despite-fast-growth",
+      "cross_verified": true,
+      "published_at": "2026-09-17T14:42:49.000000Z"
+    },
     {
       "title": "Wall Street Breakfast Podcast: Amazon Supercharges Generac",
       "title_ko": "월스트리트 브렉퍼스트 팟캐스트: 아마존, 제너랙에 강력한 추진력을 더하다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.foxbusiness.com/lifestyle/widow-files-new-suit-alleging-botched-landing-maneuvers-aircraft-safety-failures-amazon-jet-crash",
       "cross_verified": true,
       "published_at": "2026-09-10T01:32:53.000000Z"
-    },
-    {
-      "title": "The Coca-Cola Company (KO) Presents at Barclays 19th Annual Global Consumer Staples Conference Transcript",
-      "title_ko": "코카콜라 컴퍼니(KO), 바클레이즈 제19회 연례 글로벌 필수소비재 컨퍼런스에서 발표: 회의록",
-      "snippet": "The Coca-Cola Company (KO) Barclays 19th Annual Global Consumer Staples Conference September 9, 2026 11:15 AM EDTCompany ParticipantsHenrique Braun - CEO...",
-      "snippet_ko": "코카콜라 컴퍼니(KO) 바클레이즈 제19회 연례 글로벌 필수소비재 컨퍼런스 2026년 9월 9일 오전 11시 15분(EDT) 참가 기업 대표 헨리크 브라운 - CEO...",
-      "symbol": "KO",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4944498-the-coca-cola-company-ko-presents-at-barclays-19th-annual-global-consumer-staples-conference",
-      "cross_verified": true,
-      "published_at": "2026-09-09T23:27:06.000000Z"
-    },
-    {
-      "title": "Apple: The $2,000 iPhone Changes The Investment Case (NASDAQ:AAPL)",
-      "title_ko": "애플: 2,000달러짜리 아이폰이 투자 전망을 바꾼다 (나스닥:AAPL)",
-      "snippet": "Apple Inc. is rated Strong Buy with a $372 target. Click for this AAPL update following the iPhone launch event.",
-      "snippet_ko": "애플(Apple Inc.)은 ‘강력 매수(Strong Buy)’ 등급을 받았으며, 목표 주가는 372달러입니다. 아이폰 출시 행사 이후 발표된 AAPL 관련 최신 소식을 보려면 여기를 클릭하세요.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3922,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4944722-apple-the-2000-iphone-changes-the-investment-case",
-      "cross_verified": true,
-      "published_at": "2026-09-09T23:19:02.000000Z"
-    },
-    {
-      "title": "Market Open: Oil over US$100 per barrel after further Middle East unrest",
-      "title_ko": "시장 개장: 중동 지역 추가 불안으로 원유 가격 배럴당 100달러 돌파",
-      "snippet": "Wall Street was again down after oil surged further overnight with Brent hitting over US$100 per barrel this morning.",
-      "snippet_ko": "밤사이 유가가 추가로 급등해 오늘 아침 브렌트유 가격이 배럴당 100달러를 넘어선 가운데, 월가 증시는 다시 하락세를 보였다.",
-      "symbol": "AAPL",
-      "sentiment_score": -0.3113,
-      "source": "themarketherald.com.au",
-      "url": "https://themarketonline.com.au/market-open-oil-over-us100-per-barrel-after-further-middle-east-unrest-2026-09-10/",
-      "cross_verified": true,
-      "published_at": "2026-09-09T22:46:36.000000Z"
     }
   ]
 }
