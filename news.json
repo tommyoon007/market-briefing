@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-17T04:27:59.507613+00:00",
+  "updated_at": "2026-09-17T11:24:21.353127+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "111 Inc. gains 12% on preliminary go-private proposal from buyer group (YI:NASDAQ)",
+      "title_ko": "111 Inc., 인수자 그룹의 예비 비공개화 제안에 주가가 12% 상승 (YI:NASDAQ)",
+      "snippet": "111 Inc. (YI) stock jumps on a $4.52/ADS going-private proposal from co-founders.",
+      "snippet_ko": "111 Inc. (YI) 주가가 공동 창업자들이 제시한 ADS당 4.52달러 규모의 비상장화 제안에 힘입어 급등했다.",
+      "symbol": "",
+      "sentiment_score": 0.34,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4643700-111-inc-gains-12-on-preliminary-go-private-proposal-from-buyer-group",
+      "cross_verified": true,
+      "published_at": "2026-09-17T10:44:25.000000Z"
+    },
+    {
+      "title": "DiamondRock Hospitality Company: Still A Buy, Though Not As Cheap (NASDAQ:DRH)",
+      "title_ko": "다이아몬드로크 호스피탈리티 컴퍼니: 여전히 매수 추천, 다만 이전만큼 저렴하지는 않다 (나스닥:DRH)",
+      "snippet": "DiamondRock Hospitality Company has delivered strong Q2 2026 results, prompting a raised price target to $15/share and a maintained Buy rating. Learn more about DRH stock here.",
+      "snippet_ko": "다이아몬드록 호스피탈리티 컴퍼니(DiamondRock Hospitality Company)가 2026년 2분기 호실적을 발표함에 따라, 목표 주가가 주당 15달러로 상향 조정되었으며 ‘매수(Buy)’ 투자의견은 유지되었습니다. DRH 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4947413-diamondrock-hospitality-company-stock-still-buy-though-not-cheap",
+      "cross_verified": true,
+      "published_at": "2026-09-17T10:30:53.000000Z"
+    },
+    {
+      "title": "Payment giants battle the fear factor in agentic commerce",
+      "title_ko": "결제 업계 거물들, 에이전트 기반 상거래의 ‘불안 요인’에 맞서다",
+      "snippet": "Visa and Mastercard have released products designed to manage AI agent risk, and are also working with Ant International on a shared know-your-agent protocol.",
+      "snippet_ko": "비자와 마스터카드는 AI 에이전트 관련 위험을 관리하기 위해 고안된 상품을 출시했으며, 앤트 인터내셔널과 협력하여 ‘에이전트 신원 확인(Know-Your-Agent)’ 공동 프로토콜을 마련하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.7346,
+      "source": "americanbanker.com",
+      "url": "https://www.americanbanker.com/payments/news/mastercard-visa-launch-agentic-ai-risk-tools",
+      "cross_verified": true,
+      "published_at": "2026-09-17T10:30:00.000000Z"
+    },
     {
       "title": "Anavex Life Sciences Corp. (AVXL) Discusses Board Misalignment, Leadership Concerns, and Strategic Changes for Company Turnaround Transcript",
       "title_ko": "아나벡스 라이프 사이언스(Anavex Life Sciences Corp., AVXL), 이사회 간 의견 불일치, 경영진 관련 우려, 그리고 기업 회생을 위한 전략적 변화에 대해 논의한 회의록",
@@ -1165,45 +1201,45 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-resilience-amidst-broader-market-softness-midday-update-for-september-8-2026/71541/",
       "cross_verified": true,
       "published_at": "2026-09-08T16:07:21.000000Z"
-    },
-    {
-      "title": "SK Hynix Jumps 7% as AI Diverts Memory From Phones, Micron Holds Steady, Apple Slips",
-      "title_ko": "AI 수요로 인해 스마트폰용 메모리 수요가 전환되면서 SK하이닉스 주가가 7% 급등한 반면, 마이크론은 보합세를 보였고 애플은 하락했다.",
-      "snippet": "The memory allocation split is defining today’s session as artificial intelligence customers pull wafer capacity toward high-bandwidth chips and away from the conventional parts that phones need. That divide is showing up cleanly across the semiconductor complex, with Korean suppliers rallying while their largest smartphone customer slides. SK Hynix (NASDAQ:SKHY) stock is up 7% to […]",
-      "snippet_ko": "인공지능(AI) 고객들이 웨이퍼 생산 능력을 스마트폰에 필요한 기존 부품에서 벗어나 고대역폭 칩 쪽으로 전환함에 따라, 메모리 할당 구도가 오늘 장의 흐름을 좌우하고 있다. 이러한 양극화는 반도체 업계 전반에 뚜렷이 나타나고 있으며, 한국 공급업체들은 주가가 상승하는 반면, 이들의 최대 스마트폰 고객사는 주가가 하락하고 있다. SK하이닉스(NASDAQ:SKHY) 주가는 7% 상승해 […]",
-      "symbol": "",
-      "sentiment_score": 0.4767,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-jumps-7-ai-155806621.html",
-      "cross_verified": true,
-      "published_at": "2026-09-08T15:58:06.000000Z"
-    },
-    {
-      "title": "Dunelm Group plc (DNLMY) Q4 2026 Earnings Call Prepared Remarks Transcript",
-      "title_ko": "Dunelm Group plc (DNLMY) 2026년 4분기 실적 발표 전화회의 사전 준비 발언 전문",
-      "snippet": "Dunelm Group plc (DNLMY) Q4 2026 Earnings Call September 8, 2026 2:00 AM EDTCompany ParticipantsClodagh Moriarty - Chief Executive OfficerKaren Witts - CFO...",
-      "snippet_ko": "Dunelm Group plc (DNLMY) 2026년 4분기 실적 발표 전화회의, 2026년 9월 8일 오전 2:00 (EDT) 회사 참가자: 클로다 모리아티 - 최고경영자(CEO), 카렌 위츠 - 최고재무책임자(CFO)...",
-      "symbol": "",
-      "sentiment_score": 0.5176,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4943880-dunelm-group-plc-dnlmy-q4-2026-earnings-call-prepared-remarks-transcript",
-      "cross_verified": true,
-      "published_at": "2026-09-08T15:45:30.000000Z"
-    },
-    {
-      "title": "Automatic Data Processing Stock: Tailwinds At Its Back (NASDAQ:ADP)",
-      "title_ko": "자동 데이터 처리(ADP) 주식: 호재의 바람을 타고 (나스닥: ADP)",
-      "snippet": "Automatic Data Processing remains a global HCM leader, benefiting from organic growth, and rising client fund yields. Read why ADP stock is a buy.",
-      "snippet_ko": "ADP는 유기적 성장과 고객 자금 수익률 상승에 힘입어 여전히 글로벌 HCM 분야의 선두주자로 자리매김하고 있습니다. ADP 주식을 매수해야 하는 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": -0.1909,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4943734-automatic-data-processing-tailwinds-at-its-back",
-      "cross_verified": true,
-      "published_at": "2026-09-08T10:15:22.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Wall Street Breakfast Podcast: Amazon Supercharges Generac",
+      "title_ko": "월스트리트 브렉퍼스트 팟캐스트: 아마존, 제너랙에 강력한 추진력을 더하다",
+      "snippet": "Generac lands an $8B opportunity with Amazon. One food safety issue cost Kroger $100M. The Fed raised rates. Trump responded.",
+      "snippet_ko": "제너랙(Generac)이 아마존과 80억 달러 규모의 계약을 체결했다. 크로거(Kroger)는 한 건의 식품 안전 문제로 1억 달러의 손실을 입었다. 연방준비제도(Fed)가 금리를 인상했다. 트럼프가 이에 대응했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2811,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4947425-wall-street-breakfast-podcast-amazon-supercharges-generac",
+      "cross_verified": true,
+      "published_at": "2026-09-17T10:30:00.000000Z"
+    },
+    {
+      "title": "EQT plans $50 billion India investment, including Adani Connex",
+      "title_ko": "EQT, 아다니 커넥스(Adani Connex)를 포함한 500억 달러 규모의 인도 투자 계획",
+      "snippet": "EQT AB is planning a $50 billion spending spree in India by 2030 that will include a significant investment in billionaire Gautam Adani’s data center business.",
+      "snippet_ko": "EQT AB는 2030년까지 인도에서 500억 달러 규모의 대규모 투자를 계획하고 있으며, 여기에는 억만장자 고탐 아다니의 데이터 센터 사업에 대한 상당한 투자도 포함될 예정이다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.0,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/companies/eqt-plans-50-billion-india-investment-including-adani-connex/article71475655.ece",
+      "cross_verified": true,
+      "published_at": "2026-09-17T07:00:46.000000Z"
+    },
+    {
+      "title": "Tiger Brokers Singapore Named Best Personal Investment Platform at the Euromoney Awards for Excellence 2026",
+      "title_ko": "타이거 브로커스 싱가포르, ‘2026 유로머니 어워즈 포 엑설런스’에서 ‘최고의 개인 투자 플랫폼’으로 선정",
+      "snippet": "SINGAPORE, Sept. 17, 2026 /PRNewswire/ -- Tiger Brokers Singapore has been named Best Personal Investment Platform at the Euromoney Awards for Excellence 2026, recognising a breakthrough year for the platform in Singapore and its growing appeal among self-directed investors. The award follows Tiger Brokers' recent recognition as one of CNBC and Statista's World's Top Fintech Companies of 2026, capping a run of industry accolades for the platform. This milestone comes on the back of a record year for the business.",
+      "snippet_ko": "싱가포르, 2026년 9월 17일 /PRNewswire/ -- 타이거 브로커스 싱가포르(Tiger Brokers Singapore)가 ‘2026 유로머니 어워드(Euromoney Awards for Excellence 2026)’에서 ‘최고의 개인 투자 플랫폼’으로 선정되었습니다. 이는 싱가포르 시장에서 플랫폼이 획기적인 한 해를 보냈으며, 자율 투자자들 사이에서 점점 더 큰 호응을 얻고 있음을 인정받은 결과입니다. 이번 수상은 타이거 브로커스가 최근 CNBC와 스타티스타(Statista)가 선정한 ‘2026년 세계 최고의 핀테크 기업’ 중 하나로 선정된 데 이은 것으로, 해당 플랫폼이 연이어 받은 업계 찬사를 마무리하는 성과입니다. 이 같은 이정표는 기록적인 한 해를 바탕으로 이루어졌습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2427,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/17/tmt-newswire/pr-newswire/tiger-brokers-singapore-named-best-personal-investment-platform-at-the-euromoney-awards-for-excellence-2026/2427178",
+      "cross_verified": true,
+      "published_at": "2026-09-17T05:40:31.000000Z"
+    },
     {
       "title": "Trump to host China's Xi Jinping: What to expect, who'll attend state dinner in Washington? All you need to know",
       "title_ko": "트럼프, 중국 시진핑 주석 접대: 어떤 일이 펼쳐질까, 워싱턴에서 열리는 국빈 만찬에는 누가 참석할까? 꼭 알아야 할 모든 것",
@@ -2367,42 +2403,6 @@
       "url": "https://themarketonline.com.au/market-open-oil-over-us100-per-barrel-after-further-middle-east-unrest-2026-09-10/",
       "cross_verified": true,
       "published_at": "2026-09-09T22:46:36.000000Z"
-    },
-    {
-      "title": "Market Stagnates as Investors Await Inflation Data; Meta Platforms Surges",
-      "title_ko": "투자자들이 인플레이션 지표를 기다리는 가운데 시장 정체… 메타 플랫폼스 급등",
-      "snippet": "The U.S. stock market experienced a day of cautious, range-bound trading on Wednesday, September 9th, 2026. Investors appeared to be in a",
-      "snippet_ko": "2026년 9월 9일 수요일, 미국 증시는 신중한 분위기 속에서 횡보세를 보이며 장을 마쳤다. 투자자들은",
-      "symbol": "AMZN",
-      "sentiment_score": 0.3473,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/market-stagnates-as-investors-await-inflation-data-meta-platforms-surges/71599/",
-      "cross_verified": true,
-      "published_at": "2026-09-09T20:07:12.000000Z"
-    },
-    {
-      "title": "Broadcom: Wall Street’s Margin Fallacy Expands Bulls' Alpha (NASDAQ:AVGO)",
-      "title_ko": "브로드컴: 월스트리트의 마진 오판이 강세론자들의 알파를 확대하고 있다 (나스닥: AVGO)",
-      "snippet": "Broadcom is a Strong Buy, with a solid price point for bulls given its AI infrastructure leadership and robust forward pipeline. Read more on AVGO stock here.",
-      "snippet_ko": "브로드컴은 AI 인프라 분야의 선도적 입지와 탄탄한 향후 사업 파이프라인을 고려할 때, 강세 투자자들에게 매력적인 가격대를 형성하고 있어 ‘강력 매수’ 추천 종목입니다. AVGO 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.0513,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4944590-broadcom-wall-streets-margin-fallacy-expands-bulls-alpha",
-      "cross_verified": true,
-      "published_at": "2026-09-09T19:27:33.000000Z"
-    },
-    {
-      "title": "Market Sentiment Cools as Energy and Commodities Rally Amid Broader Index Slump",
-      "title_ko": "광범위한 지수 하락 속 에너지 및 원자재 가격 상승에 시장 심리가 냉각되고 있다",
-      "snippet": "U.S. equity markets experienced a wave of selling pressure during Wednesday’s afternoon trading session, as investors grappled with shifting economic",
-      "snippet_ko": "수요일 오후 거래 시간 동안 투자자들이 변화하는 경제 상황에 대응하느라 고심하면서 미국 주식 시장은 매도 압력이 몰아쳤다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2289,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/market-sentiment-cools-as-energy-and-commodities-rally-amid-broader-index-slump/71597/",
-      "cross_verified": true,
-      "published_at": "2026-09-09T18:07:14.000000Z"
     }
   ]
 }
