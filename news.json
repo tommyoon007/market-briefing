@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-17T16:42:13.080402+00:00",
+  "updated_at": "2026-09-17T21:10:56.912345+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Star Equity Holdings to Present at Upcoming Conferences",
+      "title_ko": "스타 에쿼티 홀딩스, 다가오는 컨퍼런스에서 발표 예정",
+      "snippet": "OLD GREENWICH, Conn., Sept. 17, 2026 (GLOBE NEWSWIRE) -- Star Equity Holdings, Inc. (Nasdaq: STRR and STRRP) ('Star' or the 'Company'), a diversified holding company, announced today that its management team will present and host one-on-one meetings with investors at two upcoming conferences.",
+      "snippet_ko": "코네티컷주 올드 그리니치, 2026년 9월 17일 (GLOBE NEWSWIRE) -- 다각화된 지주회사인 Star Equity Holdings, Inc. (나스닥: STRR 및 STRRP)(이하 ‘Star’ 또는 ‘회사’)는 오늘, 경영진이 다가오는 두 차례의 컨퍼런스에서 발표를 진행하고 투자자들과의 일대일 미팅을 주관할 것이라고 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.2801,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/18/tmt-newswire/globenewswire/star-equity-holdings-to-present-at-upcoming-conferences/2427929",
+      "cross_verified": true,
+      "published_at": "2026-09-17T20:19:39.000000Z"
+    },
+    {
+      "title": "LiqTech to Participate in the Lytham Partners Fall 2026 Investor Conference",
+      "title_ko": "리크테크, 2026년 가을 라이섬 파트너스 투자자 컨퍼런스에 참가 예정",
+      "snippet": "BALLERUP, Denmark, Sept. 17, 2026 (GLOBE NEWSWIRE) -- LiqTech International, Inc. (Nasdaq: LIQT), a clean technology company specializing in advanced ceramic filtration solutions, will participate in a webcast presentation and host one-on-one meetings with investors at the Lytham Partners Fall 2026 Investor Conference, taking place virtually on September 29-30, 2026.",
+      "snippet_ko": "덴마크 발레루프, 2026년 9월 17일 (GLOBE NEWSWIRE) -- 첨단 세라믹 여과 솔루션을 전문으로 하는 청정 기술 기업인 LiqTech International, Inc. (나스닥: LIQT)는 첨단 세라믹 여과 솔루션을 전문으로 하는 청정 기술 기업으로, 2026년 9월 29일부터 30일까지 온라인으로 개최되는 ‘Lytham Partners 2026년 가을 투자자 컨퍼런스’에 참가하여 웹캐스트 프레젠테이션을 진행하고 투자자들과의 1:1 미팅을 가질 예정이다.",
+      "symbol": "",
+      "sentiment_score": 0.36,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/18/tmt-newswire/globenewswire/liqtech-to-participate-in-the-lytham-partners-fall-2026-investor-conference/2427927",
+      "cross_verified": true,
+      "published_at": "2026-09-17T20:19:31.000000Z"
+    },
+    {
+      "title": "First Mining Announces $50 Million Bought-Deal Offering of Common Shares",
+      "title_ko": "퍼스트 마이닝, 5,000만 달러 규모의 보통주 매입 약정 방식 공모 실시 발표",
+      "snippet": "NOT FOR DISTRIBUTION TO UNITED STATES NEWS WIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES",
+      "snippet_ko": "미국 뉴스 통신사에 배포하거나 미국 내에서 유포해서는 안 됨",
+      "symbol": "",
+      "sentiment_score": 0.1324,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/18/tmt-newswire/globenewswire/first-mining-announces-50-million-bought-deal-offering-of-common-shares/2427925",
+      "cross_verified": true,
+      "published_at": "2026-09-17T20:19:24.000000Z"
+    },
     {
       "title": "Janus Henderson Mortgage-Backed Securities ETF Q2 2026 Commentary (NYSEARCA:JMBS)",
       "title_ko": "자누스 헨더슨 모기지 담보 증권 ETF 2026년 2분기 분석 보고서 (NYSEARCA:JMBS)",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4944080-newell-brands-inc-nwl-presents-at-barclays-19th-annual-global-consumer-staples-conference",
       "cross_verified": true,
       "published_at": "2026-09-08T23:05:29.000000Z"
-    },
-    {
-      "title": "BrasilAgro - Companhia Brasileira de Propriedades Agrícolas 2026 Q4 - Results - Earnings Call Presentation (NYSE:LND) 2026-09-08",
-      "title_ko": "BrasilAgro - 브라질 농업 자산 회사 2026년 4분기 실적 - 실적 발표 설명자료 (NYSE:LND) 2026-09-08",
-      "snippet": "2026-09-08. The following slide deck was published by BrasilAgro - Companhia Brasileira de Propriedades Agrícolas in conjunction with their 2026 Q4 earnings...",
-      "snippet_ko": "2026년 9월 8일. 다음 슬라이드 자료는 BrasilAgro(Companhia Brasileira de Propriedades Agrícolas)가 2026년 4분기 실적 발표와 함께 공개한 것입니다...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4944098-brasilagro-companhia-brasileira-de-propriedades-agricolas-2026-q4-results-earnings-call",
-      "cross_verified": true,
-      "published_at": "2026-09-08T23:01:12.000000Z"
-    },
-    {
-      "title": "Nike: 12-Year Low, 4%+ Yield, But The Stock Still Isn't Cheap (NYSE:NKE)",
-      "title_ko": "나이키: 12년 만에 최저치, 배당수익률 4% 이상… 하지만 주가는 여전히 저렴하지 않다 (NYSE:NKE)",
-      "snippet": "Nike looks overvalued despite a 50% drop as margins and sales weaken, raising dividend-cut risk; see key threats and downside targets. Click for more on NKE.",
-      "snippet_ko": "마진과 매출이 약세를 보이며 주가가 50%나 하락했음에도 나이키는 여전히 고평가된 것으로 보이며, 이로 인해 배당금 삭감 위험이 커지고 있다. 주요 위험 요인과 하락 목표가를 확인해 보십시오. NKE에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": -0.2732,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4944057-nike-12-year-low-4-percent-plus-yield-but-the-stock-still-isnt-cheap",
-      "cross_verified": true,
-      "published_at": "2026-09-08T23:00:12.000000Z"
-    },
-    {
-      "title": "Micron’s Crash May Set Up Another Leg Higher (NASDAQ:MU)",
-      "title_ko": "마이크론의 급락이 추가 상승 국면을 마련할 수도 있다 (NASDAQ:MU)",
-      "snippet": "Micron Technology sees tighter DRAM supply by 2027 as AI boosts HBM demand; $22B in customer deals add visibility. Click for this MU update.",
-      "snippet_ko": "마이크론 테크놀로지는 AI로 인한 HBM 수요 증가로 2027년까지 DRAM 공급이 더욱 타이트해질 것으로 전망하며, 220억 달러 규모의 고객 계약이 전망의 가시성을 높여주고 있습니다. 이 MU 업데이트를 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": -0.1005,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4944025-micron-crash-may-set-up-another-leg-higher",
-      "cross_verified": true,
-      "published_at": "2026-09-08T20:11:20.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Tech power players land seat at table for high-stakes dinner with Trump, Xi",
+      "title_ko": "기술 업계 거물들, 트럼프·시진핑과 함께한 중대한 만찬 자리에 합류",
+      "snippet": "Donald Trump is planning a state dinner for Chinese President Xi Jinping, with OpenAI CEO Sam Altman and Apple's Tim Cook reportedly planning to attend.",
+      "snippet_ko": "도널드 트럼프 대통령은 시진핑 중국 국가주석을 위한 국빈 만찬을 계획 중이며, 보도에 따르면 오픈AI의 샘 알트만 CEO와 애플의 팀 쿡도 참석할 예정이라고 한다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.084,
+      "source": "foxbusiness.com",
+      "url": "https://www.foxbusiness.com/markets/tech-power-players-land-seat-table-high-stakes-dinner-trump-xi",
+      "cross_verified": true,
+      "published_at": "2026-09-17T20:18:40.000000Z"
+    },
+    {
+      "title": "SK hynix Could Be The Catalyst Intel Foundry Needs (Rating Upgrade) (NASDAQ:INTC)",
+      "title_ko": "SK하이닉스, 인텔 파운드리 사업에 필요한 촉매제가 될 수 있다 (투자의견 상향) (나스닥:INTC)",
+      "snippet": "Intel Corporation is rated a Speculative Buy, and the rumored SK hynix Inc. deal could support the Ohio foundry. Read more on INTC stock here.",
+      "snippet_ko": "인텔(Intel Corporation)은 ‘투기적 매수(Speculative Buy)’ 등급을 받았으며, 소문으로 돌고 있는 SK하이닉스와의 거래가 오하이오 파운드리 사업에 긍정적 영향을 미칠 수 있습니다. INTC 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "INTC",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4947604-sk-hynix-could-be-catalyst-intel-foundry-needs-rating-upgrade",
+      "cross_verified": true,
+      "published_at": "2026-09-17T19:10:31.000000Z"
+    },
+    {
+      "title": "Oracle vs. Broadcom: Which \"Picks and Shovels\" AI Stock Has the Bigger Growth Runway From Here?",
+      "title_ko": "오라클 대 브로드컴: 앞으로 더 큰 성장 잠재력을 가진 ‘픽 앤 쇼벨’ AI 주식은 어느 쪽일까?",
+      "snippet": "Broadcom and Oracle have underperformed over the past year, but they could jump significantly given their impressive growth and bright prospects.",
+      "snippet_ko": "브로드컴과 오라클은 지난 1년간 주가가 부진했으나, 인상적인 성장세와 밝은 전망을 고려할 때 주가가 크게 반등할 가능성이 있다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.3019,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-vs-broadcom-picks-shovels-174300358.html",
+      "cross_verified": true,
+      "published_at": "2026-09-17T17:43:00.000000Z"
+    },
     {
       "title": "Meta Platforms: Get In Before September 23 (NASDAQ:META)",
       "title_ko": "메타 플랫폼스: 9월 23일 이전에 매수하세요 (나스닥: META)",
@@ -2367,42 +2403,6 @@
       "url": "https://www.foxbusiness.com/technology/inside-john-ternus-first-apple-launch-event-ceo-foldable-iphone-duo-ai-more",
       "cross_verified": true,
       "published_at": "2026-09-10T10:00:52.000000Z"
-    },
-    {
-      "title": "Samsung works to draw iPhone users to its foldables even as Apple enters the market",
-      "title_ko": "애플이 이 시장에 진출했음에도 불구하고, 삼성은 아이폰 사용자들을 자사의 폴더블폰으로 끌어들이기 위해 노력하고 있다",
-      "snippet": "Samsung is drawing more iPhone users to its foldables as Apple’s rumored entry threatens to reshape the market.",
-      "snippet_ko": "애플의 폴더블폰 출시 소문이 시장을 재편할 조짐을 보이면서, 삼성은 더 많은 아이폰 사용자를 자사의 폴더블폰으로 끌어들이고 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3145,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/10/samsung-tries-to-draw-iphone-users-to-its-foldables-amid-apple-entry.html",
-      "cross_verified": true,
-      "published_at": "2026-09-10T02:05:32.000000Z"
-    },
-    {
-      "title": "CNBC Daily Open: Apple's new iPhone bends. Bond vigilantes, not so much",
-      "title_ko": "CNBC 데일리 오픈: 애플의 신형 아이폰이 휘어진다. 채권 감시자들은 그다지 신경 쓰지 않는 듯",
-      "snippet": "Loads of new features, but guess what people were looking for? The crease, and how visible it is.",
-      "snippet_ko": "새로운 기능이 정말 많았지만, 사람들이 가장 궁금해했던 게 뭔지 아세요? 바로 주름과 그 주름이 얼마나 눈에 띄는지가었습니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.1653,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/10/cnbc-daily-open-apple-new-iphone-duo-treasury-bonds-oil-trump.html",
-      "cross_verified": true,
-      "published_at": "2026-09-10T01:41:48.000000Z"
-    },
-    {
-      "title": "Widow files new suit alleging botched landing maneuvers, aircraft safety failures in Amazon jet crash",
-      "title_ko": "한 미망인이 아마존 제트기 추락 사고와 관련해 착륙 절차상의 실수와 항공기 안전 결함을 주장하며 새로운 소송을 제기했다",
-      "snippet": "The wrongful death lawsuit alleges dangerous landing maneuvers, inadequate training and aircraft safety failures in the Amazon jet crash.",
-      "snippet_ko": "이 부당 사망 소송은 아마존 제트기 추락 사고와 관련해 위험한 착륙 기동, 부적절한 훈련, 항공기 안전상의 결함을 주장하고 있다.",
-      "symbol": "AMZN",
-      "sentiment_score": -0.0516,
-      "source": "video.foxbusiness.com",
-      "url": "https://www.foxbusiness.com/lifestyle/widow-files-new-suit-alleging-botched-landing-maneuvers-aircraft-safety-failures-amazon-jet-crash",
-      "cross_verified": true,
-      "published_at": "2026-09-10T01:32:53.000000Z"
     }
   ]
 }
