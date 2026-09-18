@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-18T17:36:55.564660+00:00",
+  "updated_at": "2026-09-18T20:43:41.781631+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Markets Edge Higher as Utilities and Tech Lead; Focus Shifts to Next Week’s Earnings",
+      "title_ko": "유틸리티와 기술주가 주도하며 증시 소폭 상승… 관심은 다음 주 실적 발표로 쏠려",
+      "snippet": "U.S. equity markets maintained a positive trajectory on Friday, September 18th, 2026, as investors navigated a landscape of stabilizing interest rates and",
+      "snippet_ko": "2026년 9월 18일 금요일, 미국 주식 시장은 투자자들이 금리 안정화 추세 속에서 시장 상황을 헤쳐 나가는 가운데 상승세를 이어갔으며,",
+      "symbol": "",
+      "sentiment_score": 0.4953,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/markets-edge-higher-as-utilities-and-tech-lead-focus-shifts-to-next-weeks-earnings/71967/",
+      "cross_verified": true,
+      "published_at": "2026-09-18T20:07:14.000000Z"
+    },
+    {
+      "title": "Radcom: A Setback, Not A Broken Thesis (Rating Downgrade) (NASDAQ:RDCM)",
+      "title_ko": "Radcom: 일시적인 차질일 뿐, 투자 논리가 무너진 것은 아니다 (투자의견 하향 조정) (NASDAQ:RDCM)",
+      "snippet": "RADCOM is downgraded to Buy after revenue drop and guidance cut. Click to read more on its valuation, buyback, cash strength and 2026–27 rebound risks.",
+      "snippet_ko": "RADCOM은 매출 감소와 실적 전망 하향 조정에 따라 투자 등급이 ‘매수’로 하향 조정되었습니다. 기업 가치 평가, 자사주 매입, 현금 유동성 및 2026~27년 반등 위험에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.4239,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4947951-radcom-a-setback-not-a-broken-thesis-rating-downgrade",
+      "cross_verified": true,
+      "published_at": "2026-09-18T19:58:40.000000Z"
+    },
+    {
+      "title": "Kinross Gold: The Re-Rating Setup Is Becoming Increasingly Attractive (NYSE:KGC)",
+      "title_ko": "킨로스 골드: 재평가 가능성이 점점 더 매력적으로 다가오고 있다 (NYSE:KGC)",
+      "snippet": "Kinross Gold is rated a Strong Buy, supported by robust free cash flow, a healthy balance sheet, and a deep project pipeline. Read more on KGC stock here.",
+      "snippet_ko": "킨로스 골드(Kinross Gold)는 탄탄한 자유 현금 흐름, 건실한 재무 구조, 그리고 풍부한 프로젝트 파이프라인을 바탕으로 ‘강력 매수(Strong Buy)’ 등급을 받았습니다. KGC 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.4404,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4947937-kinross-gold-the-re-rating-setup-is-becoming-increasingly-attractive",
+      "cross_verified": true,
+      "published_at": "2026-09-18T19:09:04.000000Z"
+    },
     {
       "title": "Janux Therapeutics: It's Too Early To Tell If Prostate Cancer Program Can Succeed (JANX)",
       "title_ko": "자녹스 테라퓨틱스: 전립선암 치료 프로그램의 성공 여부를 판단하기에는 아직 이르다 (JANX)",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4944800-mercadolibre-how-a-formidable-moat-is-born",
       "cross_verified": true,
       "published_at": "2026-09-10T03:52:13.000000Z"
-    },
-    {
-      "title": "ServiceNow: The Agentic AI Frontier (NYSE:NOW)",
-      "title_ko": "ServiceNow: 에이전트형 AI의 새로운 지평 (NYSE:NOW)",
-      "snippet": "ServiceNow is positioned as a leader in agentic AI, with a broad product portfolio and deep enterprise integration. Read why NOW stock is a Strong Buy.",
-      "snippet_ko": "ServiceNow는 폭넓은 제품 포트폴리오와 기업 시스템과의 긴밀한 통합을 바탕으로 에이전트형 AI 분야의 선두주자로 자리매김하고 있습니다. NOW 주식이 ‘강력 매수’ 추천을 받는 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4944798-servicenow-the-agentic-ai-frontier",
-      "cross_verified": true,
-      "published_at": "2026-09-10T03:40:46.000000Z"
-    },
-    {
-      "title": "Teradyne, Inc. (TER) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript",
-      "title_ko": "테라다인(Teradyne, Inc., TER), 골드만삭스 ‘커뮤니코피아 + 테크놀로지 컨퍼런스 2026’에서 발표: 발표록",
-      "snippet": "Teradyne, Inc. (TER) Goldman Sachs Communacopia + Technology Conference 2026 September 9, 2026 4:45 PM EDTCompany ParticipantsGregory Smith - President, CEO...",
-      "snippet_ko": "테라다인(Teradyne, Inc.) (TER) 골드만삭스 ‘커뮤니코피아 + 테크놀로지 컨퍼런스 2026’ 2026년 9월 9일 오후 4시 45분(EDT) 참가 임원 그레고리 스미스 - 사장 겸 CEO...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4944716-teradyne-inc-ter-presents-at-goldman-sachs-communacopia-technology-conference-2026-transcript",
-      "cross_verified": true,
-      "published_at": "2026-09-09T23:37:04.000000Z"
-    },
-    {
-      "title": "US stocks today: US stocks retreat as oil crosses $100, yields rise ahead of inflation data",
-      "title_ko": "오늘 미국 증시: 유가 100달러 돌파, 인플레이션 지표 발표를 앞두고 채권 수익률 상승에 미국 증시 하락",
-      "snippet": "US stocks fell on Wednesday as Brent crude climbed above $100 a barrel, raising fresh inflation concerns and weighing on investor sentiment. The S&P 500, Nasdaq and Dow declined as Treasury yields rose ahead of key US inflation data. Markets are also weighing the possibility of a Federal Reserve rate hike next week.",
-      "snippet_ko": "수요일 미국 증시는 브렌트유 가격이 배럴당 100달러를 넘어섬에 따라 인플레이션에 대한 우려가 다시 고조되고 투자 심리가 위축되면서 하락세를 보였다. 주요 미국 인플레이션 지표 발표를 앞두고 국채 수익률이 상승하면서 S&P 500, 나스닥, 다우 지수가 모두 하락했다. 또한 시장은 다음 주 연방준비제도(Fed)의 금리 인상 가능성도 주시하고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.3502,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-retreat-as-oil-crosses-100-yields-rise-ahead-of-inflation-data/articleshow/133983348.cms",
-      "cross_verified": true,
-      "published_at": "2026-09-09T20:14:36.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Warren Buffett Hands Berkshire Chair to Son After 33 Years",
+      "title_ko": "워런 버핏, 33년 만에 버크셔 회장직 아들에게 물려줘",
+      "snippet": "Warren Buffett becomes Chairman Emeritus as son Howard, a Berkshire director since 1993, takes the chair. Greg Abel stays CEO; Class B shares dipped 0.3%.",
+      "snippet_ko": "워런 버핏이 명예 회장으로 물러나고, 1993년부터 버크셔 이사로 재직해 온 아들 하워드가 회장에 취임했다. 그렉 아벨은 CEO직을 유지했으며, B종 주식은 0.3% 하락했다.",
+      "symbol": "KO",
+      "sentiment_score": 0.2898,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/warren-buffett-becomes-chairman-emeritus-and-hands-the-chair-to-his-son-33-years-a-berkshire-director/",
+      "cross_verified": true,
+      "published_at": "2026-09-18T18:41:00.000000Z"
+    },
+    {
+      "title": "Apple Raised Stakes with its $2000-Priced Foldable. But Can it Be the New Growth Engine?",
+      "title_ko": "애플은 2,000달러짜리 폴더블 스마트폰으로 판을 키웠다. 하지만 이것이 새로운 성장 동력이 될 수 있을까?",
+      "snippet": "Apple Inc. (NASDAQ:AAPL) has just released its first foldable phone, the Duo, marking the most significant design change to an iPhone in recent years.",
+      "snippet_ko": "애플(Apple Inc., 나스닥: AAPL)이 첫 번째 폴더블 스마트폰인 ‘듀오(Duo)’를 출시했으며, 이는 최근 몇 년간 아이폰 디자인에 있어 가장 큰 변화를 가져온 사건이다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4811,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/apple-raised-stakes-with-its-2000-priced-foldable-but-can-it-be-the-new-growth-engine-1840334/",
+      "cross_verified": true,
+      "published_at": "2026-09-18T18:11:54.000000Z"
+    },
+    {
+      "title": "Day 1 sales of iPhone 18 Pro 15-28% higher than 17 Pro, shows data",
+      "title_ko": "데이터에 따르면 아이폰 18 프로의 출시 첫날 판매량이 17 프로보다 15~28% 더 높은 것으로 나타났다",
+      "snippet": "Preliminary market estimates show day-one demand for the iPhone 18 Pro series up 15-28% in India, with the new burgundy shade replacing last year's orange as the top choice",
+      "snippet_ko": "시장 초기 추산에 따르면, 인도에서 아이폰 18 프로 시리즈의 출시 첫날 수요가 15~28% 증가한 것으로 나타났으며, 새로운 버건디 색상이 작년 오렌지 색상을 제치고 가장 인기 있는 색상으로 떠올랐다.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.1649,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/companies/news/day-1-sales-of-iphone-18-pro-15-28-higher-than-17-pro-shows-data-126091801453_1.html",
+      "cross_verified": true,
+      "published_at": "2026-09-18T17:46:55.000000Z"
+    },
     {
       "title": "Wall Street Breakfast With Steven Cress (undefined:INTA)",
       "title_ko": "스티븐 크레스와 함께하는 월스트리트 조찬 모임 (undefined:INTA)",
@@ -2367,42 +2403,6 @@
       "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-says-new-age-industries-fuelling-indias-capex-cycle-data-centres-green-hydrogen-electric-vehicles-mukesh-ambani-gautam-adani/articleshow/134051051.cms",
       "cross_verified": true,
       "published_at": "2026-09-11T07:00:17.000000Z"
-    },
-    {
-      "title": "META Looks 24.2% Undervalued on GF Value™",
-      "title_ko": "GF Value™에 따르면 META는 24.2% 저평가된 것으로 나타났습니다.",
-      "snippet": "On September 11, 2026, Meta Platforms Inc (NASDAQ: META) declared a quarterly dividend of $0.525 per share, maintaining its payout consistency for the seventh c",
-      "snippet_ko": "2026년 9월 11일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)는 주당 0.525달러의 분기 배당금을 발표하며, 7분기 연속으로 일관된 배당 정책을 이어갔습니다.",
-      "symbol": "META",
-      "sentiment_score": 0.1993,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9077258/meta-looks-242-undervalued-on-gf-value",
-      "cross_verified": true,
-      "published_at": "2026-09-11T06:55:24.000000Z"
-    },
-    {
-      "title": "WELLINGTON MANAGEMENT GROUP LLP Adds 6.9 Million TPG Inc (TPG) Shares -- Stock Looks 23% Undervalued on GF Value",
-      "title_ko": "웰링턴 매니지먼트 그룹 LLP, TPG Inc(TPG) 주식 690만 주 추가 매수 -- GF Value 기준 해당 종목은 23% 저평가된 것으로 분석",
-      "snippet": "WELLINGTON MANAGEMENT GROUP LLP (Trades, Portfolio) disclosed a significant addition to its position in TPG Inc (TPG) on Aug. 31, 2026, acquiring 6,901,283 shar",
-      "snippet_ko": "웰링턴 매니지먼트 그룹 LLP(Trades, Portfolio)는 2026년 8월 31일 TPG Inc(TPG)에 대한 보유 지분을 대폭 늘렸다고 밝혔으며, 6,901,283주를 매수했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2023,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9076627/wellington-management-group-llp-adds-69-million-tpg-inc-tpg-shares-stock-looks-23-undervalued-on-gf-value",
-      "cross_verified": true,
-      "published_at": "2026-09-11T03:39:20.000000Z"
-    },
-    {
-      "title": "WELLINGTON MANAGEMENT GROUP LLP Adds 2.8 Million AAON Inc (AAON) Shares -- Stock Looks 47% Undervalued on GF Value",
-      "title_ko": "웰링턴 매니지먼트 그룹 LLP, AAON Inc(AAON) 주식 280만 주 추가 매입 -- GF Value 기준 해당 주식은 47% 저평가된 것으로 보임",
-      "snippet": "A Significant Position Increase in the HVAC Manufacturer According to a 13G filing, WELLINGTON MANAGEMENT GROUP LLP (Trades, Portfolio) added 2,814,894 shares o",
-      "snippet_ko": "HVAC 제조사의 지분 대폭 확대 13G 신고서에 따르면, 웰링턴 매니지먼트 그룹 LLP(거래 내역, 포트폴리오)는 2,814,894주를 추가로 매입했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2371,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9076626/wellington-management-group-llp-adds-28-million-aaon-inc-aaon-shares-stock-looks-47-undervalued-on-gf-value",
-      "cross_verified": true,
-      "published_at": "2026-09-11T03:38:56.000000Z"
     }
   ]
 }
