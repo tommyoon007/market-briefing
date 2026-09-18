@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-18T12:51:38.179585+00:00",
+  "updated_at": "2026-09-18T17:36:55.564660+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Janux Therapeutics: It's Too Early To Tell If Prostate Cancer Program Can Succeed (JANX)",
+      "title_ko": "자녹스 테라퓨틱스: 전립선암 치료 프로그램의 성공 여부를 판단하기에는 아직 이르다 (JANX)",
+      "snippet": "Janux Therapeutics surged on promising early data and M&A rumors in 2024, but recent clinical updates led to a sharp stock decline. Click for more on JANX.",
+      "snippet_ko": "Janux Therapeutics는 2024년 유망한 초기 데이터와 인수합병(M&A) 소문에 힘입어 주가가 급등했으나, 최근 발표된 임상 결과로 인해 주가가 급락했습니다. JANX에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": -0.296,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4947908-janux-therapeutics-its-too-early-to-tell-if-prostate-cancer-program-can-succeed",
+      "cross_verified": true,
+      "published_at": "2026-09-18T16:46:52.000000Z"
+    },
+    {
+      "title": "Applied Optoelectronics Is Entering Its Most Important Growth Phase (NASDAQ:AAOI)",
+      "title_ko": "응용 광전자공학이 가장 중요한 성장 국면에 접어들고 있다 (나스닥:AAOI)",
+      "snippet": "Applied Optoelectronics forecasts 800G/1.6T optical demand outpacing capacity through 2027. Click for read more on the AAOI stock.",
+      "snippet_ko": "Applied Optoelectronics는 2027년까지 800G/1.6T 광통신 수요가 생산 능력을 앞지를 것으로 전망하고 있습니다. AAOI 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.5097,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4947903-applied-optoelectronics-is-entering-its-most-important-growth-phase",
+      "cross_verified": true,
+      "published_at": "2026-09-18T16:26:16.000000Z"
+    },
+    {
+      "title": "Jim Cramer Says to Wait For Corning (GLW) to Fall Further",
+      "title_ko": "짐 크레이머, 코닝(GLW) 주가가 더 떨어질 때까지 기다리라고 조언",
+      "snippet": "During the September 14 episode of Mad Money, a caller asked whether it is a good time to trim profits on Corning Incorporated (NYSE:GLW) or hold the current position. Jim Cramer commented: I don’t want you to do that. Remember, in the club, I said sell it? Then I was despondent because it went up […]",
+      "snippet_ko": "9월 14일 방송된 ‘매드 머니’에서 한 시청자가 코닝(Corning Incorporated, NYSE:GLW)에 대한 투자에서 이익을 실현할 시점인지, 아니면 현재 포지션을 유지해야 할지 물었습니다. 짐 크레이머는 다음과 같이 말했습니다. “그렇게 하지 마세요.” 기억하시나요? 클럽에서 제가 매도하라고 말했던 거요? 그런데 주가가 오르자 저는 낙담했었죠 […]",
+      "symbol": "",
+      "sentiment_score": 0.5651,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-wait-corning-162201204.html",
+      "cross_verified": true,
+      "published_at": "2026-09-18T16:22:01.000000Z"
+    },
     {
       "title": "Paycom: Recovery Started With More To Come (NYSE:PAYC)",
       "title_ko": "Paycom: 회복세가 시작되었으며, 앞으로도 더 이어질 전망 (NYSE:PAYC)",
@@ -1165,45 +1201,45 @@
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-retreat-as-oil-crosses-100-yields-rise-ahead-of-inflation-data/articleshow/133983348.cms",
       "cross_verified": true,
       "published_at": "2026-09-09T20:14:36.000000Z"
-    },
-    {
-      "title": "Barings BDC: This BDC Should Not Trade At A 19% NAV Discount (NYSE:BBDC)",
-      "title_ko": "Barings BDC: 이 BDC는 순자산가치 대비 19% 할인된 가격에 거래되어서는 안 된다 (NYSE:BBDC)",
-      "snippet": "Barings BDC remains a Strong Buy due to robust asset quality, full dividend coverage, and an unjustified 19% discount to NAV. Read more on BBDC stock here.",
-      "snippet_ko": "Barings BDC는 탄탄한 자산 건전성, 배당금 전액 충당 가능성, 그리고 순자산가치(NAV) 대비 19%라는 부당한 할인율 덕분에 여전히 ‘강력 매수’ 추천을 받고 있습니다. BBDC 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.2202,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4944617-barings-bdc-this-bdc-should-not-trade-at-a-19-percent-nav-discount",
-      "cross_verified": true,
-      "published_at": "2026-09-09T20:10:44.000000Z"
-    },
-    {
-      "title": "[DowJonesToday]Dow Jones Slumps as Inflation Concerns Weigh on Market Sentiment",
-      "title_ko": "[DowJonesToday] 인플레이션 우려가 시장 심리에 부담을 주며 다우존스 지수 급락",
-      "snippet": "The Dow Jones Industrial Average (^DJI) was down 405.41 (-0.7680%) points today, Wednesday, September 9th, 2026, closing at 52,380.66. Market sentiment was",
-      "snippet_ko": "2026년 9월 9일 수요일, 다우존스 산업평균지수(^DJI)는 405.41포인트(-0.7680%) 하락하여 52,380.66으로 장을 마감했다. 시장 심리는",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/dowjonestodaydow-jones-slumps-as-inflation-concerns-weigh-on-market-sentiment-4/71600/",
-      "cross_verified": true,
-      "published_at": "2026-09-09T20:09:08.000000Z"
-    },
-    {
-      "title": "Signet Jewelers Limited (SIG) Q2 2027 Earnings Call Transcript",
-      "title_ko": "시그넷 주얼러스 리미티드(SIG) 2027년 2분기 실적 발표 전화 회의 기록",
-      "snippet": "Signet Jewelers Limited (SIG) Q2 2027 Earnings Call September 9, 2026 8:30 AM EDTCompany ParticipantsRobert Ballew - Senior Vice President of Investor...",
-      "snippet_ko": "시그넷 주얼러스 리미티드(SIG) 2027년 2분기 실적 발표 전화 회의, 2026년 9월 9일 오전 8시 30분(EDT) 회사 참석자: 로버트 발루 - 투자자 관계 담당 수석 부사장...",
-      "symbol": "",
-      "sentiment_score": 0.4259,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4944405-signet-jewelers-limited-sig-q2-2027-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-09-09T15:57:12.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Wall Street Breakfast With Steven Cress (undefined:INTA)",
+      "title_ko": "스티븐 크레스와 함께하는 월스트리트 조찬 모임 (undefined:INTA)",
+      "snippet": "It's a witching day! Steven Cress says as a long-term investor, don't make any investment decisions on it. Obviously if you're a short-term trader, it can impact your holdings.",
+      "snippet_ko": "오늘은 정말 요술 같은 날입니다! 스티븐 크레스는 장기 투자자라면 이날 어떤 투자 결정도 내리지 말라고 조언합니다. 물론 단기 트레이더라면 보유 종목에 영향을 미칠 수 있습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3348,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4947912-wall-street-breakfast-with-steven-cress-intapp-boot-barn-costco-doordash",
+      "cross_verified": true,
+      "published_at": "2026-09-18T16:16:00.000000Z"
+    },
+    {
+      "title": "AI Memory Costs Continue to Explode — And It’s About to Get a Lot Worse",
+      "title_ko": "AI 메모리 비용은 계속해서 급증하고 있으며, 앞으로 상황은 훨씬 더 악화될 전망이다",
+      "snippet": "Intel's CEO just warned that memory prices have surged to levels that could reshape the economics of everything from budget smartphones to AI servers, and the worst may still be two years away.",
+      "snippet_ko": "인텔 CEO는 방금 메모리 가격이 저가형 스마트폰부터 AI 서버에 이르기까지 모든 분야의 경제 구조를 뒤바꿀 수 있는 수준까지 치솟았다고 경고했으며, 최악의 상황은 아직 2년 뒤에나 닥칠 수도 있다고 밝혔다.",
+      "symbol": "INTC",
+      "sentiment_score": -0.3125,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/articles/ai-memory-costs-continue-explode-160254071.html",
+      "cross_verified": true,
+      "published_at": "2026-09-18T16:02:54.000000Z"
+    },
+    {
+      "title": "Why Alphabet Stock Popped This Morning",
+      "title_ko": "오늘 아침 알파벳 주가가 급등한 이유",
+      "snippet": "Free cash flow is Alphabet's biggest problem, but this analyst isn't worried at all.",
+      "snippet_ko": "자유 현금 흐름은 알파벳의 가장 큰 문제이지만, 이 애널리스트는 전혀 걱정하지 않는다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.0778,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-alphabet-stock-popped-morning-153653750.html",
+      "cross_verified": true,
+      "published_at": "2026-09-18T15:36:53.000000Z"
+    },
     {
       "title": "Who is Howard G Buffett? Warren Buffett's son to be Berkshire Hathaway Chair as father vacates position after 50+ years",
       "title_ko": "하워드 G. 버핏은 누구인가? 워런 버핏의 아들이, 50년 넘게 재임해 온 아버지가 자리를 물러남에 따라 버크셔 해서웨이 회장에 취임할 예정이다.",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9076626/wellington-management-group-llp-adds-28-million-aaon-inc-aaon-shares-stock-looks-47-undervalued-on-gf-value",
       "cross_verified": true,
       "published_at": "2026-09-11T03:38:56.000000Z"
-    },
-    {
-      "title": "Wellington Management Group LLP Adds 4,972,315 Shares of Zenas BioPharma Inc (ZBIO)",
-      "title_ko": "웰링턴 매니지먼트 그룹 LLP, 제나스 바이오파마(ZBIO) 주식 4,972,315주를 추가 매입",
-      "snippet": "On 2026-08-31, WELLINGTON MANAGEMENT GROUP LLP (Trades, Portfolio) disclosed an addition to its position in Zenas BioPharma Inc (ZBIO), acquiring 4,972,315 shar",
-      "snippet_ko": "2026년 8월 31일, 웰링턴 매니지먼트 그룹 LLP(거래 내역, 포트폴리오)는 제나스 바이오파마(ZBIO)에 대한 보유 지분을 추가했다고 밝혔으며, 4,972,315주를 매수했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3818,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9076625/wellington-management-group-llp-adds-4972315-shares-of-zenas-biopharma-inc-zbio",
-      "cross_verified": true,
-      "published_at": "2026-09-11T03:38:32.000000Z"
-    },
-    {
-      "title": "Apple (AAPL) Unveils iPhone Duo with AI Features Amid Market Movements",
-      "title_ko": "시장 변동 속에서 애플(AAPL), AI 기능을 탑재한 아이폰 두 모델 공개",
-      "snippet": "On September 10, 2026, Apple's stock (AAPL) rose by 3.56%, closing at $326.57 billion in trading. The company showcased its highly anticipated iPhone Duo foldab",
-      "snippet_ko": "2026년 9월 10일, 애플(AAPL) 주가는 3.56% 상승하여 3,265억 7천만 달러로 장을 마감했다. 이 회사는 많은 기대를 모았던 ‘아이폰 듀오’ 폴더블 폰을 공개했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2477,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9076204/apple-aapl-unveils-iphone-duo-with-ai-features-amid-market-movements",
-      "cross_verified": true,
-      "published_at": "2026-09-10T22:51:06.000000Z"
-    },
-    {
-      "title": "US Market Declines for Fourth Day Amid Rising Oil Prices and Inflation Concerns",
-      "title_ko": "유가 상승과 인플레이션 우려 속에 미국 증시, 4일 연속 하락",
-      "snippet": "On September 10, 2026, the US stock market faced its fourth consecutive day of declines, marking the longest losing streak since June. The S&P 500 fell by 0.6%,",
-      "snippet_ko": "2026년 9월 10일, 미국 증시는 4일 연속 하락세를 기록하며 6월 이후 가장 긴 하락세를 이어갔다. S&P 500 지수는 0.6% 하락했고,",
-      "symbol": "AAPL",
-      "sentiment_score": 0.5435,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9076199/us-market-declines-for-fourth-day-amid-rising-oil-prices-and-inflation-concerns",
-      "cross_verified": true,
-      "published_at": "2026-09-10T22:50:25.000000Z"
     }
   ]
 }
