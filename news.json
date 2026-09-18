@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-18T00:02:02.402187+00:00",
+  "updated_at": "2026-09-18T07:16:39.524505+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Equinor ASA: Buy-back of shares to share programmes for employees",
+      "title_ko": "Equinor ASA: 직원 주식 보상 프로그램을 위한 자사주 매입",
+      "snippet": "Please see below information about transactions made under the buy-back programme for Equinor ASA (OSE:EQNR, NYSE:EQNR) for shares to be used in the share-based incentive programmes for employees and management.",
+      "snippet_ko": "Equinor ASA(OSE:EQNR, NYSE:EQNR)의 직원 및 경영진을 위한 주식 기반 인센티브 프로그램에 사용될 주식을 매입하기 위해 시행된 자사주 매입 프로그램에 관한 정보는 아래를 참조해 주시기 바랍니다.",
+      "symbol": "",
+      "sentiment_score": 0.4668,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/18/tmt-newswire/globenewswire/equinor-asa-buy-back-of-shares-to-share-programmes-for-employees/2428054",
+      "cross_verified": true,
+      "published_at": "2026-09-18T06:02:47.000000Z"
+    },
+    {
+      "title": "White House Weighs Incubator for Cyber Research, Startups",
+      "title_ko": "백악관, 사이버 연구 및 스타트업 지원을 위한 인큐베이터 설립 검토 중",
+      "snippet": "The Trump administration is weighing a plan to establish a government-led incubator aimed at investing in cybersecurity research and spinning out startups",
+      "snippet_ko": "트럼프 행정부는 사이버 보안 연구에 투자하고 스타트업을 분사시키는 것을 목표로 하는 정부 주도의 인큐베이터를 설립하는 방안을 검토하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.5267,
+      "source": "insurancejournal.com",
+      "url": "https://www.insurancejournal.com/news/national/2026/09/18/885557.htm",
+      "cross_verified": true,
+      "published_at": "2026-09-18T05:28:43.000000Z"
+    },
+    {
+      "title": "Up to 7% savings account interest rate: Check latest rates offered by Canara Bank, Bank of India and IDFC FIRST Bank - Savings account interest rates",
+      "title_ko": "최대 7%의 예금 금리: 카나라 은행, 인도 은행, IDFC FIRST 은행의 최신 금리 확인하기 - 예금 금리",
+      "snippet": "Many banks such as Canara Bank, Bank of India and IDFC FIRST Bank revised their savings account interest rates in September 2026. Here is a look at the latest savings account interest rates offered by Canara Bank, Bank of India and IDFC FIRST Bank. Savings account interest rates",
+      "snippet_ko": "카나라 은행, 인도 은행, IDFC FIRST 은행 등 많은 은행들이 2026년 9월에 저축예금 금리를 조정했습니다. 다음은 카나라 은행, 인도 은행, IDFC FIRST 은행이 제공하는 최신 저축예금 금리 현황입니다. 저축예금 금리",
+      "symbol": "",
+      "sentiment_score": 0.7184,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/wealth/save/up-to-7-savings-account-interest-rate-check-latest-rates-offered-by-canara-bank-bank-of-india-and-idfc-first-bank/slideshow/134326641.cms",
+      "cross_verified": true,
+      "published_at": "2026-09-18T05:15:06.000000Z"
+    },
     {
       "title": "Star Equity Holdings to Present at Upcoming Conferences",
       "title_ko": "스타 에쿼티 홀딩스, 다가오는 컨퍼런스에서 발표 예정",
@@ -1165,45 +1201,45 @@
       "url": "https://www.manilatimes.net/2026/09/09/tmt-newswire/globenewswire/danske-bank-as-transactions-by-persons-discharging-managerial-responsibilities/2421333",
       "cross_verified": true,
       "published_at": "2026-09-09T10:27:21.000000Z"
-    },
-    {
-      "title": "Headwater Exploration-Tamarack Valley Combination: Something For Everybody (CDDRF)",
-      "title_ko": "헤드워터 익스플로레이션-타마락 밸리 합동 공연: 모두를 위한 무대 (CDDRF)",
-      "snippet": "Headwater-Tamarack merger creates mature Tamarack Valley plus spun-off Tributary Exploration startup.",
-      "snippet_ko": "헤드워터와 타마랙의 합병으로 성숙한 타마랙 밸리가 탄생하고, 분사된 신생 기업 트리뷰터리 익스플로레이션이 설립되었다.",
-      "symbol": "",
-      "sentiment_score": 0.4417,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4944132-headwater-exploration-tamarack-valley-combination-something-for-everybody",
-      "cross_verified": true,
-      "published_at": "2026-09-09T03:14:23.000000Z"
-    },
-    {
-      "title": "JPMorgan, Jane Street probes show India scrutinizing Wall Street traders",
-      "title_ko": "JPMorgan과 제인 스트리트에 대한 조사 결과, 인도가 월가 트레이더들을 면밀히 조사하고 있음이 드러났다",
-      "snippet": "Sebi has signaled internally that it is getting more proactive in examining transactions by domestic and international traders as part of an effort to protect retail investors",
-      "snippet_ko": "세비(Sebi)는 소매 투자자를 보호하기 위한 노력의 일환으로, 국내외 거래자들의 거래 내역을 더욱 적극적으로 검토하고 있다는 점을 내부적으로 시사했다.",
-      "symbol": "",
-      "sentiment_score": 0.6293,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/markets/news/jpmorgan-jane-street-probes-show-india-scrutinizing-wall-street-traders-126090900147_1.html",
-      "cross_verified": true,
-      "published_at": "2026-09-09T03:13:33.000000Z"
-    },
-    {
-      "title": "Newell Brands Inc. (NWL) Presents at Barclays 19th Annual Global Consumer Staples Conference Transcript",
-      "title_ko": "뉴웰 브랜즈(Newell Brands Inc., NWL)의 바클레이즈 제19회 연례 글로벌 필수소비재 컨퍼런스 발표 전문",
-      "snippet": "Newell Brands Inc. (NWL) Barclays 19th Annual Global Consumer Staples Conference September 8, 2026 4:30 PM EDTCompany ParticipantsChristopher Peterson -...",
-      "snippet_ko": "뉴웰 브랜즈(Newell Brands Inc., NWL), 바클레이즈 제19회 연례 글로벌 필수소비재 컨퍼런스, 2026년 9월 8일 오후 4시 30분(EDT) 참가 기업 대표 크리스토퍼 피터슨 -...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4944080-newell-brands-inc-nwl-presents-at-barclays-19th-annual-global-consumer-staples-conference",
-      "cross_verified": true,
-      "published_at": "2026-09-08T23:05:29.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Anthropic says Claude drives over 25% of its research and development",
+      "title_ko": "앤트로픽은 클로드가 자사의 연구개발의 25% 이상을 주도하고 있다고 밝혔습니다.",
+      "snippet": "Anthropic found Claude leads 26% of Anthropic's R&D, up from effectively nothing at the start of the year, according to a report",
+      "snippet_ko": "한 보고서에 따르면, 앤트로픽(Anthropic)은 클로드(Claude)가 앤트로픽 연구개발(R&D) 업무의 26%를 주도하고 있는 것으로 나타났으며, 이는 연초에 사실상 전무하던 수준에서 증가한 수치라고 한다.",
+      "symbol": "META",
+      "sentiment_score": 0.6908,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/technology/artificial-intelligence/anthropic-says-claude-drives-over-25-of-its-research-and-development-126091800158_1.html",
+      "cross_verified": true,
+      "published_at": "2026-09-18T03:40:23.000000Z"
+    },
+    {
+      "title": "Nabfid sanctions over ₹3,000 crore loans for data centres amid AI push",
+      "title_ko": "AI 확대 추진 속에 나브피드, 데이터 센터에 3,000 크로어 루피 이상의 대출 승인",
+      "snippet": "The facilities from the National Bank for Financing Infrastructure and Development, or Nabfid, have a moratorium of as much as five years, with repayment over the following 10 years",
+      "snippet_ko": "국립 인프라 및 개발 금융 은행(Nabfid)이 제공하는 대출 상품은 최대 5년의 상환 유예 기간이 주어지며, 이후 10년에 걸쳐 상환하게 됩니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.5574,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/finance/news/nabfid-sanctions-over-3-000-crore-loans-for-data-centres-amid-ai-push-126091800136_1.html",
+      "cross_verified": true,
+      "published_at": "2026-09-18T03:30:51.000000Z"
+    },
+    {
+      "title": "Open-source AI fuels 440% surge in hackers using blockchains in attacks",
+      "title_ko": "오픈소스 AI로 인해 공격에 블록체인을 활용하는 해커가 440% 급증했다",
+      "snippet": "A malware attack uses malicious software planted on a computer or network to steal information, passwords or funds",
+      "snippet_ko": "악성코드 공격은 컴퓨터나 네트워크에 심어진 악성 소프트웨어를 이용해 정보, 비밀번호 또는 자금을 탈취하는 것을 말합니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.8519,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/markets/news/open-source-ai-fuels-440-surge-in-hackers-using-blockchains-in-attacks-126091800137_1.html",
+      "cross_verified": true,
+      "published_at": "2026-09-18T03:30:09.000000Z"
+    },
     {
       "title": "Apple's Quality Is Tempting, But I'm Put Off By The Valuation (NASDAQ:AAPL)",
       "title_ko": "애플의 품질은 매력적이지만, 기업 가치 평가가 부담스럽다 (NASDAQ:AAPL)",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9075870/amzn-looks-17-overvalued-on-gf-value-as-market-prices-in-growth-despite-cashflow-challenges",
       "cross_verified": true,
       "published_at": "2026-09-10T19:55:29.000000Z"
-    },
-    {
-      "title": "Coca-Cola CEO says don’t chase ‘irrational’ pricing as Campa Cola goes ₹10",
-      "title_ko": "캄파 콜라 가격이 ₹10으로 오르자 코카콜라 CEO, ‘비이성적인’ 가격 책정을 쫓지 말라고 당부",
-      "snippet": "Coca-Cola will not overreact to rivals' pricing strategies in India. The company focuses on fundamentals like brands and revenue growth management. Reliance's Campa Cola has emerged as a significant challenger in the market. Newer entrants are increasing their market share with popular price points. Coca-Cola plans to boost marketing and distribution spending to compete.",
-      "snippet_ko": "코카콜라는 인도 시장에서 경쟁사들의 가격 전략에 과도하게 반응하지 않을 방침이다. 이 회사는 브랜드 및 매출 성장 관리와 같은 기본 요소에 주력하고 있다. 릴라이언스의 ‘캄파 콜라’가 시장에서 강력한 도전자로 부상했다. 신규 진입 업체들은 대중적인 가격대를 내세워 시장 점유율을 확대하고 있다. 코카콜라는 이에 대응하기 위해 마케팅 및 유통 비용을 늘릴 계획이다.",
-      "symbol": "KO",
-      "sentiment_score": -0.079,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/coca-cola-ceo-says-dont-chase-irrational-pricing-as-campa-cola-goes-10/articleshow/134027512.cms",
-      "cross_verified": true,
-      "published_at": "2026-09-10T19:27:46.000000Z"
-    },
-    {
-      "title": "AAPL Reiterated by TD Cowen -- Price Target Maintained at $400",
-      "title_ko": "TD Cowen, AAPL에 대한 투자 의견을 재확인… 목표주가는 400달러로 유지",
-      "snippet": "Apple Inc. (AAPL) Analyst Rating Update - September 2026 On September 26, 2026, TD Cowen reiterated its Buy rating for Apple Inc. (AAPL). The price target re",
-      "snippet_ko": "애플(AAPL) 애널리스트 평가 업데이트 - 2026년 9월 2026년 9월 26일, TD Cowen은 애플(AAPL)에 대한 ‘매수(Buy)’ 투자의견을 재확인했다. 목표 주가는 재",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2553,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9075231/aapl-reiterated-by-td-cowen-price-target-maintained-at-400",
-      "cross_verified": true,
-      "published_at": "2026-09-10T14:35:41.000000Z"
-    },
-    {
-      "title": "iPhone Duo Threatens iPad Sales",
-      "title_ko": "아이폰 듀오, 아이패드 판매에 위협이 되고 있다",
-      "snippet": "Apple's new foldable iPhone carries a price tag that dwarfs the iPad mini, yet reviewers say it might make the tablet obsolete. Whether consumers agree could reshape which Apple products survive.",
-      "snippet_ko": "애플의 새로운 폴더블 아이폰은 아이패드 미니를 훨씬 능가하는 가격표를 달고 있지만, 평론가들은 이 제품이 태블릿을 구식으로 만들 수도 있다고 말한다. 소비자들이 이에 동의하느냐에 따라 어떤 애플 제품이 살아남을지가 결정될 수도 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.0197,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/iphone-duo-threatens-ipad-sales-143136953.html",
-      "cross_verified": true,
-      "published_at": "2026-09-10T14:31:36.000000Z"
     }
   ]
 }
