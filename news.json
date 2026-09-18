@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-18T07:16:39.524505+00:00",
+  "updated_at": "2026-09-18T12:51:38.179585+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Paycom: Recovery Started With More To Come (NYSE:PAYC)",
+      "title_ko": "Paycom: 회복세가 시작되었으며, 앞으로도 더 이어질 전망 (NYSE:PAYC)",
+      "snippet": "Paycom (PAYC) Q2 2026 earnings: revenue +10%, EPS +48%, raised guidance and aggressive buybacks.",
+      "snippet_ko": "Paycom(PAYC) 2026년 2분기 실적: 매출 10% 증가, 주당순이익(EPS) 48% 증가, 실적 전망 상향 조정 및 적극적인 자사주 매입.",
+      "symbol": "",
+      "sentiment_score": 0.1366,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4947819-paycom-recovery-started-with-more-to-come",
+      "cross_verified": true,
+      "published_at": "2026-09-18T12:23:44.000000Z"
+    },
+    {
+      "title": "PBF Energy Stock: War Is The Unpredictable Wild Card (NYSE:PBF)",
+      "title_ko": "PBF 에너지 주식: 전쟁은 예측 불가능한 변수 (NYSE:PBF)",
+      "snippet": "PBF Energy (PBF) is up nearly 200% YTD as geopolitical disruptions lift US fuel demand.",
+      "snippet_ko": "지정학적 혼란으로 인해 미국의 연료 수요가 증가함에 따라 PBF 에너지(PBF)의 주가는 연초 대비 거의 200% 상승했다.",
+      "symbol": "",
+      "sentiment_score": -0.5994,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4947716-pbf-energy-war-is-the-unpredictable-wild-card",
+      "cross_verified": true,
+      "published_at": "2026-09-18T12:15:00.000000Z"
+    },
+    {
+      "title": "Organon Announces Two Her Health Grants in India to Support Adolescent Girls’ Health in Bihar and Women’s Contraceptive Access in Uttar Pradesh",
+      "title_ko": "오르가논, 비하르주 청소년 소녀들의 건강 증진과 우타르프라데시주 여성들의 피임 수단 접근성 향상을 지원하기 위해 인도에서 ‘Her Health’ 보조금 2건을 발표",
+      "snippet": "Organon Announces Two Her Health Grants in India to Support Adolescent Girls' Health in Bihar and Women's Contraceptive Access in Uttar Pradesh",
+      "snippet_ko": "오르가논, 비하르주의 사춘기 소녀 건강 지원 및 우타르프라데시주의 여성 피임 접근성 향상을 위해 인도에서 ‘Her Health’ 보조금 2건을 발표",
+      "symbol": "",
+      "sentiment_score": 0.7045,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/organon-announces-two-her-health-grants-in-india-to-support-adolescent-girls-health-in-bihar-and-womens-contraceptive-access-in-uttar-pradesh/article71480045.ece",
+      "cross_verified": true,
+      "published_at": "2026-09-18T12:08:57.000000Z"
+    },
     {
       "title": "Equinor ASA: Buy-back of shares to share programmes for employees",
       "title_ko": "Equinor ASA: 직원 주식 보상 프로그램을 위한 자사주 매입",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4944405-signet-jewelers-limited-sig-q2-2027-earnings-call-transcript",
       "cross_verified": true,
       "published_at": "2026-09-09T15:57:12.000000Z"
-    },
-    {
-      "title": "The Clorox Company (CLX) Presents at Barclays 19th Annual Global Consumer Staples Conference Transcript",
-      "title_ko": "클로록스(CLX)의 ‘바클레이즈 제19회 연례 글로벌 필수소비재 컨퍼런스’ 발표 전문",
-      "snippet": "The Clorox Company (CLX) Barclays 19th Annual Global Consumer Staples Conference September 9, 2026 9:00 AM EDTCompany ParticipantsLinda Rendle - CEO &...",
-      "snippet_ko": "클로록스(CLX), 바클레이즈 제19회 연례 글로벌 필수소비재 컨퍼런스, 2026년 9월 9일 오전 9:00 (EDT) 참가 기업 대표: 린다 렌들 - CEO 겸...",
-      "symbol": "",
-      "sentiment_score": 0.3548,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4944400-the-clorox-company-clx-presents-at-barclays-19th-annual-global-consumer-staples-conference",
-      "cross_verified": true,
-      "published_at": "2026-09-09T15:57:10.000000Z"
-    },
-    {
-      "title": "MetLife, Inc. (MET) Presents at KBW Insurance Conference 2026 Transcript",
-      "title_ko": "메트라이프(MetLife, Inc., MET)의 ‘KBW 보험 컨퍼런스 2026’ 발표 전문",
-      "snippet": "MetLife, Inc. (MET) KBW Insurance Conference 2026 September 9, 2026 9:15 AM EDTCompany ParticipantsMichel Khalaf - CEO, President & DirectorJohn...",
-      "snippet_ko": "메트라이프(MetLife, Inc.) (MET) KBW 보험 컨퍼런스 2026 2026년 9월 9일 오전 9시 15분 (EDT) 참석 임원 미셸 칼라프 - CEO, 사장 겸 이사 존...",
-      "symbol": "",
-      "sentiment_score": 0.3548,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4944427-metlife-inc-met-presents-at-kbw-insurance-conference-2026-transcript",
-      "cross_verified": true,
-      "published_at": "2026-09-09T15:57:09.000000Z"
-    },
-    {
-      "title": "Danske Bank A/S, transactions by persons discharging managerial responsibilities",
-      "title_ko": "Danske Bank A/S, 경영 책임자들에 의한 거래",
-      "snippet": "9 September 2026",
-      "snippet_ko": "2026년 9월 9일",
-      "symbol": "",
-      "sentiment_score": 0.3454,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/09/tmt-newswire/globenewswire/danske-bank-as-transactions-by-persons-discharging-managerial-responsibilities/2421333",
-      "cross_verified": true,
-      "published_at": "2026-09-09T10:27:21.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Who is Howard G Buffett? Warren Buffett's son to be Berkshire Hathaway Chair as father vacates position after 50+ years",
+      "title_ko": "하워드 G. 버핏은 누구인가? 워런 버핏의 아들이, 50년 넘게 재임해 온 아버지가 자리를 물러남에 따라 버크셔 해서웨이 회장에 취임할 예정이다.",
+      "snippet": "Howard G Buffett will succeed Warren Buffett as chairman of Berkshire Hathaway. Warren, 96, becomes chairman emeritus after leading since 1970. Howard, born in 1954, has been on the board since 1993 and is involved in agriculture, conservation, and philanthropy.",
+      "snippet_ko": "하워드 G. 버핏이 워런 버핏의 뒤를 이어 버크셔 해서웨이의 회장으로 취임할 예정이다. 96세인 워런 버핏은 1970년부터 회사를 이끌어 온 뒤 명예 회장으로 물러난다. 1954년생인 하워드 버핏은 1993년부터 이사회에 재직해 왔으며, 농업, 환경 보전, 자선 활동에 적극적으로 참여해 왔다.",
+      "symbol": "KO",
+      "sentiment_score": 0.1612,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/people/who-is-howard-g-buffett-warren-buffetts-son-to-be-berkshire-hathaway-chair-as-father-vacates-position-after-50-years-11789728538087.html",
+      "cross_verified": true,
+      "published_at": "2026-09-18T11:48:42.000000Z"
+    },
+    {
+      "title": "The U.S. Foreclosure Map Is Shifting",
+      "title_ko": "미국의 주택 압류 현황이 변화하고 있다",
+      "snippet": "Weekly investing news quiz + Wall Street Breakfast highlights: Fed watch, housing foreclosures shift to South Carolina, Nvidia outlook & markets.",
+      "snippet_ko": "주간 투자 뉴스 퀴즈 + ‘월스트리트 브렉퍼스트’ 주요 내용: 연준 동향, 사우스캐롤라이나주로 옮겨가는 주택 압류 사태, 엔비디아 전망 및 시장 동향.",
+      "symbol": "AVGO",
+      "sentiment_score": -0.2166,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4947803-the-u-s-foreclosure-map-is-shifting",
+      "cross_verified": true,
+      "published_at": "2026-09-18T11:30:23.000000Z"
+    },
+    {
+      "title": "US Market: Nike’s position in Dow Jones index comes under pressure",
+      "title_ko": "미국 시장: 다우존스 지수 내 나이키의 위상이 압박을 받고 있다",
+      "snippet": "Nike faces growing speculation over its future in the Dow after being removed from the S&P 100. Its weak share performance, low price and declining market value have raised questions about whether the sportswear giant could eventually exit the blue-chip index.",
+      "snippet_ko": "나이키는 S&P 100 지수에서 제외된 이후 다우 지수 내 잔류 여부에 대한 추측이 점점 더 커지고 있다. 부진한 주가 실적, 낮은 주가, 그리고 시가총액 감소로 인해 이 스포츠웨어 거대 기업이 결국 우량주 지수에서 제외될 수 있을지에 대한 의문이 제기되고 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2966,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-nikes-position-in-dow-jones-index-comes-under-pressure/articleshow/134329444.cms",
+      "cross_verified": true,
+      "published_at": "2026-09-18T07:48:31.000000Z"
+    },
     {
       "title": "Anthropic says Claude drives over 25% of its research and development",
       "title_ko": "앤트로픽은 클로드가 자사의 연구개발의 25% 이상을 주도하고 있다고 밝혔습니다.",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9076199/us-market-declines-for-fourth-day-amid-rising-oil-prices-and-inflation-concerns",
       "cross_verified": true,
       "published_at": "2026-09-10T22:50:25.000000Z"
-    },
-    {
-      "title": "Oil Jumped, Yields Followed, Stocks Held Together — CPI Decides the Next Move",
-      "title_ko": "유가가 급등했고, 채권 수익률도 뒤따랐으며, 주가는 비교적 안정세를 유지했다 — 다음 움직임은 소비자물가지수(CPI)에 달렸다",
-      "snippet": "The tape did exactly what it was supposed to do today. It just didn’t do it as violently as it could have.The S&P 500 closed at 7,591.70, down 0.6%. The Dow finished at 52,064.10, also down 0.6%. The Nasdaq dropped 0.7% to 26,081.72. That is four straight down days for…",
-      "snippet_ko": "오늘 증시는 예상대로 움직였습니다. 다만 예상보다 격렬한 움직임은 보이지 않았을 뿐입니다. S&P 500 지수는 0.6% 하락한 7,591.70으로 장을 마감했습니다. 다우 지수는 52,064.10으로 마감하며 역시 0.6% 하락했다. 나스닥 지수는 0.7% 하락한 26,081.72를 기록했다. 이는 4일 연속 하락세다…",
-      "symbol": "AAPL",
-      "sentiment_score": 0.1877,
-      "source": "upsidetrader.com",
-      "url": "https://www.upsidetrader.com/2026/09/10/oil-jumped-yields-followed-stocks-held-together-cpi-decides-the-next-move/",
-      "cross_verified": true,
-      "published_at": "2026-09-10T22:27:52.000000Z"
-    },
-    {
-      "title": "Tech Resilience and Earnings Anticipation: Markets Steady Ahead of Adobe Results",
-      "title_ko": "기술 기업의 회복력과 실적 기대감: 어도비 실적 발표를 앞두고 시장 안정세 유지",
-      "snippet": "U.S. equity markets remained remarkably resilient on Thursday, September 10th, 2026, as investors balanced fresh economic data against the backdrop of a",
-      "snippet_ko": "2026년 9월 10일 목요일, 미국 주식 시장은 투자자들이 새로운 경제 지표를 종합적으로 평가하는 가운데,",
-      "symbol": "META",
-      "sentiment_score": 0.342,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-resilience-and-earnings-anticipation-markets-steady-ahead-of-adobe-results/71644/",
-      "cross_verified": true,
-      "published_at": "2026-09-10T20:07:13.000000Z"
-    },
-    {
-      "title": "AMZN Looks 1.7% Overvalued on GF Value™ as Market Prices in Growth Despite Cash-Flow Challenges",
-      "title_ko": "현금 흐름에 어려움이 있음에도 시장이 성장성을 반영함에 따라, GF Value™ 기준 AMZN은 1.7% 과대평가된 것으로 보인다.",
-      "snippet": "On September 10, 2026, Amazon.com Inc (NASDAQ: AMZN) announced a $230 million investment to boost compensation and benefits for 100,000 Whole Foods employees, i",
-      "snippet_ko": "2026년 9월 10일, 아마존닷컴(Amazon.com Inc, 나스닥: AMZN)은 홀푸드(Whole Foods) 직원 10만 명의 급여 및 복리후생을 개선하기 위해 2억 3천만 달러를 투자하겠다고 발표했으며, i",
-      "symbol": "AMZN",
-      "sentiment_score": 0.613,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9075870/amzn-looks-17-overvalued-on-gf-value-as-market-prices-in-growth-despite-cashflow-challenges",
-      "cross_verified": true,
-      "published_at": "2026-09-10T19:55:29.000000Z"
     }
   ]
 }
