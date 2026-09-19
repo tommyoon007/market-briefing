@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-19T17:07:04.352629+00:00",
+  "updated_at": "2026-09-19T20:24:02.784943+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "AbbVie's Migraine Franchise Scored a Big Win. Is This Dividend King a No-Brainer Buy Right Now?",
+      "title_ko": "애브비(AbbVie)의 편두통 사업 부문이 큰 성과를 거뒀다. 이 ‘배당왕’ 주식을 지금 당장 매수하는 것이 현명한 선택일까?",
+      "snippet": "AbbVie's market-beating days don't seem to be over yet.",
+      "snippet_ko": "애브비의 시장 평균을 상회하는 행보는 아직 끝나지 않은 듯하다.",
+      "symbol": "",
+      "sentiment_score": 0.4165,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/healthcare/articles/abbvies-migraine-franchise-scored-big-192000630.html",
+      "cross_verified": true,
+      "published_at": "2026-09-19T19:20:00.000000Z"
+    },
+    {
+      "title": "Fifth Third’s (FITB) Comerica Merger Is Done, Now Comes The Payoff",
+      "title_ko": "피프스 써드(FITB)와 코메리카의 합병이 마무리되었으며, 이제 그 결실을 거둘 차례다",
+      "snippet": "On September 8, Fifth Third Bancorp (NASDAQ:FITB) said it had finished moving close to 600,000 former Comerica customers and 293 branches across Arizona, California, Florida, Michigan and Texas onto its own systems, a conversion carried out over Labor Day weekend. The move caps the integration that began when the two banks joined forces on February […]",
+      "snippet_ko": "9월 8일, 피프스 써드 뱅코프(Fifth Third Bancorp, 나스닥: FITB)는 애리조나, 캘리포니아, 플로리다, 미시간, 텍사스 전역에 분포된 코메리카(Comerica)의 기존 고객 약 60만 명과 293개 지점을 자사 시스템으로 이전하는 작업을 완료했다고 밝혔다. 이 전환 작업은 노동절 주말 동안 진행되었다. 이번 조치는 두 은행이 지난 2월 […]에 합병을 시작하면서 진행된 통합 과정을 마무리하는 것이다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fifth-third-fitb-comerica-merger-190743312.html",
+      "cross_verified": true,
+      "published_at": "2026-09-19T19:07:43.000000Z"
+    },
     {
       "title": "Better Artificial Intelligence Stock: Aehr Test Systems vs. KLA Corporation",
       "title_ko": "더 나은 인공지능 관련 주식: Aehr Test Systems 대 KLA Corporation",
@@ -1177,33 +1201,45 @@
       "url": "https://seekingalpha.com/news/4641885-frequency-electronics-signals-capacity-expansion-that-could-pull-forward-its-150m-fiscal-2029",
       "cross_verified": true,
       "published_at": "2026-09-10T23:27:56.000000Z"
-    },
-    {
-      "title": "Ibex forecasts FY2027 revenue of $700M-$715M as Sierra AI partnership scales (NASDAQ:IBEX)",
-      "title_ko": "이벡스(Ibex), 시에라 AI(Sierra AI)와의 파트너십 확대에 힘입어 2027 회계연도 매출 7억~7억 1,500만 달러 전망 (나스닥: IBEX)",
-      "snippet": "IBEX (IBEX) Q4 FY2026 earnings call recap: record revenue, Sierra AI agent rollout, Health Tech surge, and FY2027 guidance with margin outlook—read now.",
-      "snippet_ko": "IBEX(IBEX) 2026 회계연도 4분기 실적 발표 요약: 사상 최대 매출, 시에라 AI 에이전트 출시, 헬스테크 부문 급성장, 그리고 마진 전망을 포함한 2027 회계연도 실적 가이던스 — 지금 바로 읽어보세요.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4641884-ibex-forecasts-fy2027-revenue-of-700m-715m-as-sierra-ai-partnership-scales",
-      "cross_verified": true,
-      "published_at": "2026-09-10T23:27:51.000000Z"
-    },
-    {
-      "title": "Frequency Electronics, Inc. (FEIM) Q1 2027 Earnings Call Transcript",
-      "title_ko": "Frequency Electronics, Inc. (FEIM) 2027년 1분기 실적 발표 전화 회의 기록",
-      "snippet": "Frequency Electronics, Inc. (FEIM) Q1 2027 Earnings Call September 10, 2026 4:30 PM EDTCompany ParticipantsThomas McClelland - CEO, President &...",
-      "snippet_ko": "Frequency Electronics, Inc. (FEIM) 2027년 1분기 실적 발표 전화회의 2026년 9월 10일 오후 4시 30분 (EDT) 회사 참가자: 토마스 맥클렐랜드 - CEO, 사장 및...",
-      "symbol": "",
-      "sentiment_score": 0.3502,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4945278-frequency-electronics-inc-feim-q1-2027-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-09-10T23:27:08.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "UBS Highlights AI Investment Opportunities; Amazon (AMZN) and Texas Instruments (TXN) Lead",
+      "title_ko": "UBS, AI 투자 기회 강조… 아마존(AMZN)과 텍사스 인스트루먼트(TXN)가 주도",
+      "snippet": "On September 19, 2026, UBS analysts highlighted a burgeoning cycle in artificial intelligence (AI) spending, revealing multiple investment opportunities within",
+      "snippet_ko": "2026년 9월 19일, UBS 애널리스트들은 인공지능(AI) 투자 지출이 급증하는 추세를 강조하며, 이 분야에서 다양한 투자 기회를 제시했습니다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.247,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9089206/ubs-highlights-ai-investment-opportunities-amazon-amzn-and-texas-instruments-txn-lead",
+      "cross_verified": true,
+      "published_at": "2026-09-19T19:30:27.000000Z"
+    },
+    {
+      "title": "Forget Buying All Seven: The \"Magnificent Seven\" Stock Most Likely to Double by 2028",
+      "title_ko": "7종 모두 매수할 필요는 없다: 2028년까지 주가가 두 배로 오를 가능성이 가장 높은 ‘위대한 7인’ 주식",
+      "snippet": "I believe investors are underrating the potential of this compounding machine.",
+      "snippet_ko": "저는 투자자들이 이 ‘복리 효과의 기계’가 지닌 잠재력을 과소평가하고 있다고 생각합니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.7765,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/forget-buying-seven-magnificent-seven-185000912.html",
+      "cross_verified": true,
+      "published_at": "2026-09-19T18:50:00.000000Z"
+    },
+    {
+      "title": "Trump Proposes AI Rebranding Amid Escalating Global Conflicts",
+      "title_ko": "전 세계적 갈등이 고조되는 가운데 트럼프, AI 이미지 쇄신 방안 제시",
+      "snippet": "President Donald Trump sparked a new debate in the tech sector on Saturday by questioning the terminology used for Artificial Intelligence. In a post on Truth",
+      "snippet_ko": "도널드 트럼프 대통령은 토요일, 인공지능에 사용되는 용어에 의문을 제기하며 기술 업계에서 새로운 논쟁을 불러일으켰다. ‘트루스’에 올린 게시물에서",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.7003,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/trump-proposes-ai-rebranding-amid-escalating-global-conflicts/71991/",
+      "cross_verified": true,
+      "published_at": "2026-09-19T17:08:16.000000Z"
+    },
     {
       "title": "GOOG Looks 35.4% Overvalued on GF Value™ Amid AI Security Concerns",
       "title_ko": "AI 보안 우려 속에서 GOOG, GF Value™ 기준 35.4% 과대평가된 것으로 나타남",
@@ -2367,42 +2403,6 @@
       "url": "https://www.livemint.com/companies/news/tech-layoffs-2026-as-ai-takes-center-stage-heres-a-list-of-major-companies-that-laid-off-employees-11789203637160.html",
       "cross_verified": true,
       "published_at": "2026-09-12T09:24:50.000000Z"
-    },
-    {
-      "title": "Meta May Overtake Google Search in Ad Revenue This Year, Bernstein Says",
-      "title_ko": "버나스타인, “메타가 올해 광고 매출에서 구글 검색을 추월할 수도 있다”고 전망",
-      "snippet": "According to a note published on August 31, Bernstein analysts believe Meta Platforms, Inc. (NASDAQ:META) will surpass Alphabet Inc.",
-      "snippet_ko": "8월 31일에 발표된 리포트에 따르면, 번스타인 애널리스트들은 메타 플랫폼스(Meta Platforms, Inc., 나스닥: META)가 알파벳(Alphabet Inc.)을 추월할 것으로 전망하고 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.5444,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/meta-may-overtake-google-search-in-ad-revenue-this-year-bernstein-says-1828495/",
-      "cross_verified": true,
-      "published_at": "2026-09-12T08:46:33.000000Z"
-    },
-    {
-      "title": "Delhi HC protects personality, publicity rights of journalist Rajat Sharma",
-      "title_ko": "델리 고등법원, 기자 라쟈트 샤르마의 인격권 및 초상권 보호",
-      "snippet": "The court restrained Facebook and YouTube accounts from misusing the journalist's name, image, voice and likeness, and directed platforms to act on complaints within specified timelines",
-      "snippet_ko": "법원은 페이스북과 유튜브 계정이 해당 기자의 이름, 사진, 목소리 및 초상을 악용하는 것을 금지하고, 해당 플랫폼들이 정해진 기한 내에 민원에 대응하도록 지시했다.",
-      "symbol": "META",
-      "sentiment_score": 0.7717,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/india-news/delhi-hc-protects-personality-publicity-rights-of-journalist-rajat-sharma-126091200365_1.html",
-      "cross_verified": true,
-      "published_at": "2026-09-12T08:15:02.000000Z"
-    },
-    {
-      "title": "Oracle Just Added $30 Billion in AI Contracts. Nvidia Investors Should Read the Fine Print",
-      "title_ko": "오라클, AI 계약 규모를 300억 달러 추가했다. 엔비디아 투자자들은 약관을 꼼꼼히 살펴봐야 한다",
-      "snippet": "Oracle Corporation (NYSE:ORCL) and NVIDIA Corporation (NASDAQ:NVDA) have given investors another huge AI demand signal, but the economics are more important than the headline.",
-      "snippet_ko": "오라클(Oracle Corporation, NYSE:ORCL)과 엔비디아(NVIDIA Corporation, NASDAQ:NVDA)가 투자자들에게 또 한 번의 강력한 AI 수요 신호를 보냈지만, 헤드라인보다 경제성이 더 중요하다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.2955,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/oracle-just-added-30-billion-in-ai-contracts-nvidia-investors-should-read-the-fine-print-1836520/",
-      "cross_verified": true,
-      "published_at": "2026-09-12T11:15:50.000000Z"
     }
   ]
 }
