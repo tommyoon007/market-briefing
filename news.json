@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-19T12:24:29.284974+00:00",
+  "updated_at": "2026-09-19T17:07:04.352629+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Better Artificial Intelligence Stock: Aehr Test Systems vs. KLA Corporation",
+      "title_ko": "더 나은 인공지능 관련 주식: Aehr Test Systems 대 KLA Corporation",
+      "snippet": "One niche player burned cash and posted a net loss; the other generated $3.8 billion in free cash flow.",
+      "snippet_ko": "한 틈새 시장 기업은 현금을 낭비하며 순손실을 기록한 반면, 다른 기업은 38억 달러의 자유 현금 흐름을 창출했다.",
+      "symbol": "",
+      "sentiment_score": 0.2988,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/better-artificial-intelligence-stock-aehr-162316240.html",
+      "cross_verified": true,
+      "published_at": "2026-09-19T16:23:16.000000Z"
+    },
+    {
+      "title": "Celsius Executives Have Been Buying the Stock. Should Investors Join Them?",
+      "title_ko": "셀시우스 경영진이 자사주를 매수하고 있다. 투자자들도 그들과 함께해야 할까?",
+      "snippet": "Insider buying is a good sign for Celsius, but that's not the only thing to consider before buying the stock.",
+      "snippet_ko": "내부자의 매수는 셀시우스(Celsius)에 있어 긍정적인 신호이지만, 주식을 매수하기 전에 고려해야 할 점은 그뿐만이 아닙니다.",
+      "symbol": "",
+      "sentiment_score": 0.7141,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/celsius-executives-buying-stock-investors-162000571.html",
+      "cross_verified": true,
+      "published_at": "2026-09-19T16:20:00.000000Z"
+    },
     {
       "title": "PagerDuty Stock: Dirt Cheap And AI Is Creating A Great New Opportunity (NYSE:PD)",
       "title_ko": "PagerDuty 주가: 엄청나게 저렴하며, AI가 새로운 큰 기회를 창출하고 있다 (NYSE:PD)",
@@ -1177,33 +1201,57 @@
       "url": "https://seekingalpha.com/article/4945278-frequency-electronics-inc-feim-q1-2027-earnings-call-transcript",
       "cross_verified": true,
       "published_at": "2026-09-10T23:27:08.000000Z"
-    },
-    {
-      "title": "Adamas Trust Declares Third Quarter 2026 Preferred Stock Dividends",
-      "title_ko": "아다마스 트러스트, 2026년 3분기 우선주 배당금 지급 발표",
-      "snippet": "NEW YORK, Sept. 10, 2026 (GLOBE NEWSWIRE) -- Adamas Trust, Inc. (Nasdaq: ADAM) (the 'Company” or 'Adamas”) announced today that its Board of Directors (the 'Board”) declared cash dividends on the Company’s 8.000% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ('Series D Preferred Stock”), 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ('Series E Preferred Stock”), 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ('Series F Preferred Stock”) and 7.000% Series G Cumulative Redeemable Preferred Stock ('Series G Preferred Stock”) as stated below.",
-      "snippet_ko": "뉴욕, 2026년 9월 10일 (GLOBE NEWSWIRE) -- 아다마스 트러스트(Adamas Trust, Inc.)(나스닥: ADAM)(이하 ‘회사’ 또는 ‘아다마스’)는 오늘 이사회(이하 ‘이사회’)가 회사의 8.000% 시리즈 D 고정-변동 금리 누적 상환 가능 우선주 (이하 ‘D 시리즈 우선주’), 7.875% E 시리즈 고정-변동 금리 누적 상환 가능 우선주(이하 ‘E 시리즈 우선주’), 6.875% F 시리즈 고정-변동 금리 누적 상환 가능 우선주(이하 ‘F 시리즈 우선주’)에 대한 현금 배당을 결의했다고 발표했다.",
-      "symbol": "",
-      "sentiment_score": 0.743,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/11/tmt-newswire/globenewswire/adamas-trust-declares-third-quarter-2026-preferred-stock-dividends/2423021",
-      "cross_verified": true,
-      "published_at": "2026-09-10T20:10:25.000000Z"
-    },
-    {
-      "title": "XORTX Announces Initiation of Clinical and Commercial Manufacturing of XORLO™",
-      "title_ko": "XORTX, XORLO™의 임상 및 상용 생산 개시 발표",
-      "snippet": "● Contract manufacturing of GMP drug substance and commercial-scale tablets to support the XRX-OXY-102 clinical study and future US FDA marketing approval ●",
-      "snippet_ko": "● XRX-OXY-102 임상 연구 및 향후 미국 FDA 시판 승인을 지원하기 위한 GMP 의약품 원료 및 상용 규모 정제의 위탁 제조 ●",
-      "symbol": "",
-      "sentiment_score": 0.7003,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/11/tmt-newswire/globenewswire/xortx-announces-initiation-of-clinical-and-commercial-manufacturing-of-xorlo/2423019",
-      "cross_verified": true,
-      "published_at": "2026-09-10T20:10:19.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "GOOG Looks 35.4% Overvalued on GF Value™ Amid AI Security Concerns",
+      "title_ko": "AI 보안 우려 속에서 GOOG, GF Value™ 기준 35.4% 과대평가된 것으로 나타남",
+      "snippet": "On September 19, 2026, Alphabet Inc (GOOG) disclosed that its Gemini AI model gained unauthorized access to three external companies in May during a cybersecuri",
+      "snippet_ko": "2026년 9월 19일, 알파벳(Alphabet Inc, GOOG)은 자사의 제미니(Gemini) AI 모델이 지난 5월 사이버 보안 사고 발생 당시 외부 기업 3곳에 무단으로 접근했다고 밝혔다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.5067,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9089167/goog-looks-354-overvalued-on-gf-value-amid-ai-security-concerns",
+      "cross_verified": true,
+      "published_at": "2026-09-19T15:55:24.000000Z"
+    },
+    {
+      "title": "Warren Buffett Watched Alphabet's Stock Price Climb 9,000% Before He Decided to Invest. Here's Why He and Greg Abel Are Making It One of Berkshire Hathaway's Biggest Investments Now.",
+      "title_ko": "워런 버핏은 알파벳의 주가가 9,000%나 치솟는 것을 지켜본 뒤에야 투자하기로 결정했다. 지금 그와 그렉 에이벨이 알파벳을 버크셔 해서웨이의 최대 투자처 중 하나로 삼고 있는 이유는 다음과 같다.",
+      "snippet": "Here's why Berkshire could be buying more Alphabet shares this quarter.",
+      "snippet_ko": "버크셔가 이번 분기에 알파벳 주식을 더 매입할 가능성이 있는 이유는 다음과 같습니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.2408,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-watched-alphabets-stock-145000584.html",
+      "cross_verified": true,
+      "published_at": "2026-09-19T14:50:00.000000Z"
+    },
+    {
+      "title": "Coinbase Asks CFTC for 24/5 US Single-Stock Perpetuals",
+      "title_ko": "코인베이스, CFTC에 미국 개별 주식 영구선물 상품에 대한 24/5 거래 승인 요청",
+      "snippet": "Coinbase Derivatives filed with the CFTC to list perpetual futures on individual US stocks, offering 24/5 leveraged exposure without owning the shares.",
+      "snippet_ko": "코인베이스 파생상품(Coinbase Derivatives)은 미국 개별 주식에 대한 무기한 선물을 상장하기 위해 CFTC에 신청서를 제출했으며, 이를 통해 주식을 직접 보유하지 않고도 주 5일 24시간 동안 레버리지 투자를 할 수 있게 되었습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4044,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/coinbase-files-with-cftc-to-launch-single-stock-perpetual-futures-in-us/",
+      "cross_verified": true,
+      "published_at": "2026-09-19T14:07:21.000000Z"
+    },
+    {
+      "title": "Higher interest rates and AI safety fears put the stock market to the test last week",
+      "title_ko": "지난주, 금리 상승과 인공지능(AI) 안전성에 대한 우려로 주식 시장이 시련을 겪었다",
+      "snippet": "Investors wrestled with the prospect of a new Fed rate-hiking cycle and the raging debate on whether to slow down AI.",
+      "snippet_ko": "투자자들은 연준의 새로운 금리 인상 사이클 전망과 AI 발전 속도를 늦춰야 하는지에 대한 격렬한 논쟁 사이에서 고심했다.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.0129,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/19/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week.html",
+      "cross_verified": true,
+      "published_at": "2026-09-19T16:03:09.000000Z"
+    },
     {
       "title": "Broadcom (AVGO) Stock Price Prediction: $465 Bull, $280 Bear",
       "title_ko": "브로드컴(AVGO) 주가 전망: 강세 $465, 약세 $280",
@@ -2355,54 +2403,6 @@
       "url": "https://www.insidermonkey.com/blog/oracle-just-added-30-billion-in-ai-contracts-nvidia-investors-should-read-the-fine-print-1836520/",
       "cross_verified": true,
       "published_at": "2026-09-12T11:15:50.000000Z"
-    },
-    {
-      "title": "Global Market Pulse: Tech M&A Heat, Geopolitical Tensions, and Healthcare Shifts",
-      "title_ko": "글로벌 시장 동향: 기술 분야 M&A 열기, 지정학적 긴장, 의료 산업의 변화",
-      "snippet": "The artificial intelligence landscape continues to shift as Nvidia (NVDA) eyes a strategic stake in Anthropic. This move comes as Anthropic prepares for a",
-      "snippet_ko": "엔비디아(NVDA)가 앤트로픽에 대한 전략적 지분 확보를 모색함에 따라 인공지능 업계의 판도는 계속해서 변화하고 있다. 이러한 움직임은 앤트로픽이",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2059,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/global-market-pulse-tech-ma-heat-geopolitical-tensions-and-healthcare-shifts/71693/",
-      "cross_verified": true,
-      "published_at": "2026-09-12T02:08:09.000000Z"
-    },
-    {
-      "title": "Cook Hands Ternus Apple (AAPL) that Still has to Prove itself on AI",
-      "title_ko": "쿡, AI 분야에서 아직 실력을 입증해야 하는 테르누스 애플(AAPL)을 언급하다",
-      "snippet": "Tim Cook stepped down as Apple Inc. (NASDAQ:AAPL)’s CEO on September 1 after 15 years, becoming executive chairman and handing the role to hardware chief John Ternus, Reuters reported.",
-      "snippet_ko": "로이터 통신에 따르면, 팀 쿡은 15년간 재직한 후 지난 9월 1일 애플(NASDAQ:AAPL)의 CEO직에서 물러나 집행회장으로 취임했으며, CEO직은 하드웨어 부문 책임자인 존 테르누스에게 넘겼다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2363,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/cook-hands-ternus-apple-aapl-that-still-has-to-prove-itself-on-ai-1834254/",
-      "cross_verified": true,
-      "published_at": "2026-09-12T01:14:45.000000Z"
-    },
-    {
-      "title": "Meta’s $18 Billion Settlement Could Be the Green Light for a New AI Push",
-      "title_ko": "메타의 180억 달러 규모 합의, 새로운 AI 추진의 신호탄이 될 수 있다",
-      "snippet": "Meta Platforms, Inc.",
-      "snippet_ko": "메타 플랫폼스(주)",
-      "symbol": "META",
-      "sentiment_score": 0.3219,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/metas-18-billion-settlement-could-be-the-green-light-for-a-new-ai-push-1834249/",
-      "cross_verified": true,
-      "published_at": "2026-09-12T00:55:00.000000Z"
-    },
-    {
-      "title": "Xiaomi and Huawei Launch Foldable Smartphones Ahead of Apple’s Latest Product Launch",
-      "title_ko": "샤오미와 화웨이, 애플의 최신 제품 출시를 앞두고 폴더블 스마트폰을 선보였다",
-      "snippet": "China’s premium-smartphone battle is becoming more ambitious, and more expensive.",
-      "snippet_ko": "중국의 프리미엄 스마트폰 경쟁은 점점 더 치열해지고, 가격도 더 비싸지고 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3401,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/xiaomi-and-huawei-launch-foldable-smartphones-ahead-of-apples-latest-product-launch-1834709/",
-      "cross_verified": true,
-      "published_at": "2026-09-11T22:24:34.000000Z"
     }
   ]
 }
