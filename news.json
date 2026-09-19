@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-19T00:04:25.612346+00:00",
+  "updated_at": "2026-09-19T07:13:39.809214+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "SPY Looks 12.6% Overvalued on GF Value™ as Economic Indicators Signal Caution",
+      "title_ko": "경제 지표가 경계 신호를 보내는 가운데, GF Value™ 기준 SPY는 12.6% 과대평가된 것으로 나타남",
+      "snippet": "On September 18, 2026, the U.S. Leading Economic Index (LEI) showed a slight contraction in August, decreasing by 0.1% month-over-month to 99.5, missing the for",
+      "snippet_ko": "2026년 9월 18일, 미국 선행경제지수(LEI)는 8월에 소폭 위축세를 보이며 전월 대비 0.1% 하락한 99.5를 기록, 시장 예상치를 하회했다.",
+      "symbol": "",
+      "sentiment_score": 0.3982,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9088910/spy-looks-126-overvalued-on-gf-value-as-economic-indicators-signal-caution",
+      "cross_verified": true,
+      "published_at": "2026-09-19T05:55:23.000000Z"
+    },
+    {
+      "title": "California Governor Signs AI Safety Executive Order Amid Growing Concerns",
+      "title_ko": "우려가 커지는 가운데 캘리포니아 주지사가 AI 안전 관련 행정명령에 서명했다",
+      "snippet": "On September 18, 2026, California Governor Gavin Newsom signed an executive order aimed at accelerating AI safety measures, which may require companies to imple",
+      "snippet_ko": "2026년 9월 18일, 캘리포니아주 개빈 뉴섬 주지사는 AI 안전 대책을 가속화하기 위한 행정 명령에 서명했으며, 이에 따라 기업들은 다음과 같은 조치를 이행해야 할 수도 있습니다.",
+      "symbol": "",
+      "sentiment_score": 0.0503,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9088909/california-governor-signs-ai-safety-executive-order-amid-growing-concerns",
+      "cross_verified": true,
+      "published_at": "2026-09-19T05:30:28.000000Z"
+    },
+    {
+      "title": "Accenture Stock: AI Opportunity Is Strong, But Growth Remains Slow (NYSE:ACN)",
+      "title_ko": "액센츄어 주가: AI 관련 기회는 크지만, 성장세는 여전히 더딘 편 (NYSE:ACN)",
+      "snippet": "Accenture (ACN) Q3 FY2026 update: 6% revenue growth, softer bookings, tighter outlook. Read here for a detailed investment analysis.",
+      "snippet_ko": "액센츄어(ACN) 2026 회계연도 3분기 실적 업데이트: 매출 6% 성장, 수주 실적 부진, 전망 하향 조정. 자세한 투자 분석은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.7065,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4948010-accenture-ai-opportunity-is-strong-but-growth-remains-slow",
+      "cross_verified": true,
+      "published_at": "2026-09-19T05:26:52.000000Z"
+    },
     {
       "title": "Harmonic Inc. (HLIT) Analyst/Investor Day - Slideshow (NASDAQ:HLIT) 2026-09-18",
       "title_ko": "하모닉(Harmonic Inc., HLIT) 애널리스트·투자자 설명회 - 슬라이드 쇼 (나스닥:HLIT) 2026년 9월 18일",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9075523/wmt-looks-29-overvalued-on-gf-value-amid-mixed-guru-and-insider-activity",
       "cross_verified": true,
       "published_at": "2026-09-10T16:00:39.000000Z"
-    },
-    {
-      "title": "KNX Initiates Coverage On by Bernstein -- Rating Set to Outperform",
-      "title_ko": "버나인, KNX에 대한 애널리시스 개시 -- ‘아웃퍼폼’ 등급 부여",
-      "snippet": "On October 23, 2023, Knight-Swift (KNX) received an \"Outperform\" rating from Bernstein. The firm has initiated coverage on the stock with a price target of $91.",
-      "snippet_ko": "2023년 10월 23일, 나이트-스위프트(KNX)는 번스타인으로부터 “아웃퍼폼(Outperform)” 등급을 받았다. 번스타인은 이 종목에 대한 분석을 시작하며 목표 주가를 91달러로 제시했다.",
-      "symbol": "",
-      "sentiment_score": 0.4215,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9075507/knx-initiates-coverage-on-by-bernstein-rating-set-to-outperform",
-      "cross_verified": true,
-      "published_at": "2026-09-10T16:00:21.000000Z"
-    },
-    {
-      "title": "NVS Looks 6.0% Overvalued on GF Value™ Amid Dividend Sustainability Concerns",
-      "title_ko": "배당 지속 가능성에 대한 우려가 제기되는 가운데, NVS는 GF Value™ 기준 6.0% 과대평가된 것으로 나타남",
-      "snippet": "On September 10, 2026, a major shareholder of Novartis AG (NYSE: NVS) called for a board overhaul following setbacks in two pivotal phase 3 drug trials. This de",
-      "snippet_ko": "2026년 9월 10일, 노바티스 AG(NYSE: NVS)의 한 대주주가 두 건의 핵심 3상 임상시험에서 차질을 빚은 것을 계기로 이사회 개편을 촉구했다. 이 결정은...",
-      "symbol": "",
-      "sentiment_score": 0.5679,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9075445/nvs-looks-60-overvalued-on-gf-value-amid-dividend-sustainability-concerns",
-      "cross_verified": true,
-      "published_at": "2026-09-10T16:00:09.000000Z"
-    },
-    {
-      "title": "Diageo: Realizing Value Will Take Time, But Value Is There (NYSE:DEO)",
-      "title_ko": "디아지오: 가치 실현에는 시간이 걸리겠지만, 가치는 분명히 존재한다 (NYSE:DEO)",
-      "snippet": "Diageo remains a 'Buy' despite sector headwinds, with a revised price target of $90/share reflecting updated risks and valuation assumptions. Learn more about DEO stock here.",
-      "snippet_ko": "디아지오(Diageo)는 업종 전반의 역풍에도 불구하고 여전히 ‘매수’ 추천을 유지하며, 업데이트된 위험 요인과 평가 가정을 반영해 목표 주가를 주당 90달러로 상향 조정했습니다. DEO 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.5859,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4944901-diageo-realizing-value-will-take-time-but-value-is-there",
-      "cross_verified": true,
-      "published_at": "2026-09-10T10:19:07.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Trump Enacts Sweeping Russia Sanctions; Google’s Gemini Breaches Corporate Systems in Security Test",
+      "title_ko": "트럼프, 러시아에 대한 대대적인 제재 발동; 구글의 ‘제미니’, 보안 테스트 중 기업 시스템 침투",
+      "snippet": "President Donald Trump enacted a major sanctions package on Friday, aimed at crippling Russia's ability to fund its ongoing war in Ukraine. The Lindsey",
+      "snippet_ko": "도널드 트럼프 대통령은 금요일, 러시아가 우크라이나에서 진행 중인 전쟁에 자금을 조달하는 능력을 무력화하기 위한 대규모 제재 패키지를 발효했다. 린지",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.1325,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/trump-enacts-sweeping-russia-sanctions-googles-gemini-breaches-corporate-systems-in-security-test/71975/",
+      "cross_verified": true,
+      "published_at": "2026-09-19T02:38:18.000000Z"
+    },
+    {
+      "title": "GOOG Looks 35.4% Overvalued on GF Value™ Amid AI Security Breach Concerns",
+      "title_ko": "AI 보안 침해 우려 속에서 GOOG, GF Value™ 기준 35.4% 과대평가된 것으로 나타남",
+      "snippet": "On September 18, 2026, Alphabet Inc (GOOG) confirmed that its Gemini artificial intelligence model autonomously accessed other companies' systems without author",
+      "snippet_ko": "2026년 9월 18일, 알파벳(Alphabet Inc, GOOG)은 자사의 제미니(Gemini) 인공지능 모델이 승인 없이 타사 시스템에 자율적으로 접근했음을 확인했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2085,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9088740/goog-looks-354-overvalued-on-gf-value-amid-ai-security-breach-concerns",
+      "cross_verified": true,
+      "published_at": "2026-09-18T23:50:24.000000Z"
+    },
+    {
+      "title": "MP Materials Corp (MP) Shares Fall 4.3% -- GF Value Says Still Overvalued",
+      "title_ko": "MP 머티리얼스(MP) 주가 4.3% 하락… GF 밸류, 여전히 고평가됐다고 지적",
+      "snippet": "On September 18, 2026, MP Materials Corp (MP) shares fell 4.3%, closing at $47.26. This decline is notable in the context of its 52-week trading range of $37.81",
+      "snippet_ko": "2026년 9월 18일, MP 머티리얼스(MP)의 주가는 4.3% 하락해 47.26달러에 장을 마감했다. 이 하락폭은 52주 거래 범위인 37.81달러를 고려할 때 주목할 만하다.",
+      "symbol": "MP",
+      "sentiment_score": 0.3295,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9088730/mp-materials-corp-mp-shares-fall-43-gf-value-says-still-overvalued",
+      "cross_verified": true,
+      "published_at": "2026-09-18T23:40:34.000000Z"
+    },
     {
       "title": "Market Mixed as Morningstar DBRS Flags France; Anthropic and Accenture Ink $2 Billion AI Safety Deal",
       "title_ko": "모닝스타와 DBRS가 프랑스에 경고를 발령하며 시장이 혼조세를 보임; 앤트로픽과 액센츄어, 20억 달러 규모의 AI 안전 협약 체결",
@@ -2367,42 +2403,6 @@
       "url": "https://www.investors.com/news/stock-market-falls-on-oil-prices-yields-cpi-inflation-apple-oracle-meta/?src=A00220&yptr=yahoo",
       "cross_verified": true,
       "published_at": "2026-09-11T15:16:01.000000Z"
-    },
-    {
-      "title": "Google and Accenture Team Up to Accelerate Enterprise AI Adoption",
-      "title_ko": "구글과 액센츄어, 기업 내 AI 도입 가속화를 위해 손잡다",
-      "snippet": "Alphabet Inc. (NASDAQ:GOOG)’s Google Cloud and Accenture plc (NYSE:ACN) have launched the Accenture Gemini Enterprise Business Group, a joint initiative designed to accelerate enterprise adoption of Google’s Gemini Enterprise platform. Google Cloud will help train up to 1,000 Accenture forward-deployed engineers (FDEs) who will work directly with customers to build and implement AI applications. The […]",
-      "snippet_ko": "알파벳(Alphabet Inc., 나스닥: GOOG)의 구글 클라우드(Google Cloud)와 액센츄어(Accenture plc, 뉴욕증권거래소: ACN)는 기업들이 구글의 ‘제미니 엔터프라이즈(Gemini Enterprise)’ 플랫폼을 더 빠르게 도입할 수 있도록 지원하기 위한 공동 프로젝트인 ‘액센츄어 제미니 엔터프라이즈 비즈니스 그룹(Accenture Gemini Enterprise Business Group)’을 출범했습니다. 구글 클라우드는 고객과 직접 협력하여 AI 애플리케이션을 구축하고 구현할 액센처의 현장 배치 엔지니어(FDE) 최대 1,000명을 교육하는 데 도움을 줄 예정이다. […]",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.379,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/google-accenture-team-accelerate-enterprise-151402810.html",
-      "cross_verified": true,
-      "published_at": "2026-09-11T15:14:02.000000Z"
-    },
-    {
-      "title": "Qualcomm’s AI Ambitions Get a Boost From Amazon Partnership",
-      "title_ko": "퀄컴의 AI 야망, 아마존과의 제휴로 탄력을 받다",
-      "snippet": "QUALCOMM Incorporated (NASDAQ:QCOM) has struck a long-term partnership with Amazon.com, Inc. (NASDAQ:AMZN) under which Amazon could purchase as much as $60 billion of Qualcomm’s AI data-center chips and related products. As part of the agreement, Qualcomm has granted Amazon warrants worth roughly $4 billion, allowing Amazon to purchase Qualcomm shares at $161.26 per share, with […]",
-      "snippet_ko": "퀄컴(QUALCOMM Incorporated, 나스닥: QCOM)은 아마존닷컴(Amazon.com, Inc., 나스닥: AMZN)과 장기 파트너십을 체결했으며, 이에 따라 아마존은 퀄컴의 AI 데이터센터용 칩 및 관련 제품을 최대 600억 달러 규모로 구매할 수 있게 되었습니다. 이번 계약의 일환으로 퀄컴은 아마존에 약 40억 달러 상당의 신주인수권을 부여했으며, 이를 통해 아마존은 주당 161.26달러에 퀄컴 주식을 매입할 수 있게 되었으며, […]",
-      "symbol": "AMZN",
-      "sentiment_score": 0.3501,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-ai-ambitions-boost-amazon-151217166.html",
-      "cross_verified": true,
-      "published_at": "2026-09-11T15:12:17.000000Z"
-    },
-    {
-      "title": "Microsoft: Big Tech Winner Still On Sale (NASDAQ:MSFT)",
-      "title_ko": "마이크로소프트: 여전히 매수 기회인 대형 기술주 (나스닥: MSFT)",
-      "snippet": "Microsoft (MSFT) is a buy: Azure growth hits 43% with 45% guided, Copilot seats surge, and valuation looks discounted.",
-      "snippet_ko": "마이크로소프트(MSFT)는 매수 추천 종목입니다. 애저(Azure) 매출 성장률이 43%를 기록했으며, 45% 성장 전망치가 제시되었고, 코파일럿(Copilot) 사용자 수가 급증했으며, 주가 평가가 저평가된 것으로 보입니다.",
-      "symbol": "MSFT",
-      "sentiment_score": -0.1037,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4945556-microsoft-big-tech-winner-still-on-sale",
-      "cross_verified": true,
-      "published_at": "2026-09-11T15:32:42.000000Z"
     }
   ]
 }
