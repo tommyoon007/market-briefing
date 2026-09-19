@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-19T07:13:39.809214+00:00",
+  "updated_at": "2026-09-19T12:24:29.284974+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "PagerDuty Stock: Dirt Cheap And AI Is Creating A Great New Opportunity (NYSE:PD)",
+      "title_ko": "PagerDuty 주가: 엄청나게 저렴하며, AI가 새로운 큰 기회를 창출하고 있다 (NYSE:PD)",
+      "snippet": "PagerDuty (PD) turnaround: AI-driven incident response, profitability, and operational gains. Read here for a detailed investment analysis.",
+      "snippet_ko": "PagerDuty(PD)의 반전: AI 기반 사고 대응, 수익성 및 운영 효율성 향상. 자세한 투자 분석은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.5868,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4948048-pagerduty-dirt-cheap-and-ai-is-creating-a-great-new-opportunity",
+      "cross_verified": true,
+      "published_at": "2026-09-19T11:30:57.000000Z"
+    },
+    {
+      "title": "Targa Resources (TRGP) Set a Record Quarter and Then Raised the Bar",
+      "title_ko": "타르가 리소시스(TRGP), 사상 최대 분기 실적을 기록한 뒤 목표를 한층 더 높였다",
+      "snippet": "On August 6, Targa Resources Corp. (NYSE:TRGP) reported a record second quarter.",
+      "snippet_ko": "8월 6일, 타르가 리소시스(Targa Resources Corp., NYSE:TRGP)는 2분기 사상 최대 실적을 기록했다고 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.148,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/targa-resources-trgp-set-a-record-quarter-and-then-raised-the-bar-1840146/",
+      "cross_verified": true,
+      "published_at": "2026-09-19T11:04:33.000000Z"
+    },
     {
       "title": "SPY Looks 12.6% Overvalued on GF Value™ as Economic Indicators Signal Caution",
       "title_ko": "경제 지표가 경계 신호를 보내는 가운데, GF Value™ 기준 SPY는 12.6% 과대평가된 것으로 나타남",
@@ -1177,33 +1201,57 @@
       "url": "https://www.manilatimes.net/2026/09/11/tmt-newswire/globenewswire/xortx-announces-initiation-of-clinical-and-commercial-manufacturing-of-xorlo/2423019",
       "cross_verified": true,
       "published_at": "2026-09-10T20:10:19.000000Z"
-    },
-    {
-      "title": "Applied Materials Announces Cash Dividend",
-      "title_ko": "애플라이드 머티리얼즈, 현금 배당 발표",
-      "snippet": "SANTA CLARA, Calif., Sept. 10, 2026 (GLOBE NEWSWIRE) -- Applied Materials, Inc. today announced that its Board of Directors has approved a quarterly cash dividend of $0.53 per share payable on the company’s common stock. The dividend is payable on Dec. 10, 2026 to shareholders of record as of Nov. 19, 2026.",
-      "snippet_ko": "캘리포니아주 산타클라라, 2026년 9월 10일 (GLOBE NEWSWIRE) -- 애플라이드 머티리얼즈(Applied Materials, Inc.)는 오늘 이사회가 자사 보통주에 대해 주당 0.53달러의 분기별 현금 배당금을 승인했다고 발표했다. 이 배당금은 2026년 11월 19일 기준 주주명부에 등재된 주주들에게 2026년 12월 10일에 지급될 예정이다.",
-      "symbol": "",
-      "sentiment_score": 0.3994,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/11/tmt-newswire/globenewswire/applied-materials-announces-cash-dividend/2423018",
-      "cross_verified": true,
-      "published_at": "2026-09-10T20:10:15.000000Z"
-    },
-    {
-      "title": "WMT Looks 2.9% Overvalued on GF Value™ Amid Mixed Guru and Insider Activity",
-      "title_ko": "전문가와 내부자의 움직임이 엇갈리는 가운데, GF Value™ 기준 WMT는 2.9% 과대평가된 것으로 나타남",
-      "snippet": "On September 10, 2026, Walmart Inc (WMT) launched a fashion pop-up store in New York City to coincide with New York Fashion Week, spotlighting its private label",
-      "snippet_ko": "2026년 9월 10일, 월마트(WMT)는 뉴욕 패션 위크에 맞춰 뉴욕시에 패션 팝업 스토어를 오픈하며 자사 자체 브랜드를 대대적으로 선보였다.",
-      "symbol": "",
-      "sentiment_score": 0.5061,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9075523/wmt-looks-29-overvalued-on-gf-value-amid-mixed-guru-and-insider-activity",
-      "cross_verified": true,
-      "published_at": "2026-09-10T16:00:39.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Broadcom (AVGO) Stock Price Prediction: $465 Bull, $280 Bear",
+      "title_ko": "브로드컴(AVGO) 주가 전망: 강세 $465, 약세 $280",
+      "snippet": "Broadcom (AVGO) stock price prediction: $465 bull, $395 base, $280 bear from Friday's $357.61 close, set against Q4 guidance and 50% customer concentration.",
+      "snippet_ko": "브로드컴(AVGO) 주가 전망: 금요일 종가 357.61달러를 기준으로 강세 시나리오 465달러, 기본 시나리오 395달러, 약세 시나리오 280달러. 이는 4분기 실적 가이던스와 50%에 달하는 고객 집중도를 고려한 전망이다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.0749,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/broadcom-avgo-stock-price-prediction-465-bull-280-bear/",
+      "cross_verified": true,
+      "published_at": "2026-09-19T10:00:00.000000Z"
+    },
+    {
+      "title": "Intel Corporation (INTC)’s Terafab Partnership Could Give Its AI Foundry Ambitions a Major Boost",
+      "title_ko": "인텔(INTC)의 ‘테라팹(Terafab)’ 파트너십이 자사의 AI 파운드리 사업 계획에 큰 탄력을 줄 수 있다",
+      "snippet": "Intel Corporation (NASDAQ:INTC) is targeting a potentially significant opportunity through its strategic Terafab partnership with companies associated with Elon Musk, including SpaceX, Tesla, and xAI.",
+      "snippet_ko": "인텔(Intel Corporation, 나스닥: INTC)은 스페이스X(SpaceX), 테슬라(Tesla), xAI 등 일론 머스크와 관련된 기업들과의 전략적 ‘테라팹(Terafab)’ 파트너십을 통해 잠재적으로 상당한 사업 기회를 노리고 있다.",
+      "symbol": "INTC",
+      "sentiment_score": 0.6094,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/intel-corporation-intcs-terafab-partnership-could-give-its-ai-foundry-ambitions-a-major-boost-1839271/",
+      "cross_verified": true,
+      "published_at": "2026-09-19T08:13:41.000000Z"
+    },
+    {
+      "title": "Meta (META)’s Stilla.ai Deal Could Turn Business Agent Into a New Monetization Engine",
+      "title_ko": "메타(META)의 스틸라.ai 인수, ‘비즈니스 에이전트’를 새로운 수익 창출 동력으로 탈바꿈시킬 전망",
+      "snippet": "Meta Platforms, Inc. (NASDAQ:META) is taking another step toward monetizing artificial intelligence beyond its core advertising business. On September 9, the company acquired AI startup Stilla.ai.",
+      "snippet_ko": "메타 플랫폼스(Meta Platforms, Inc., 나스닥: META)가 핵심 사업인 광고 사업을 넘어 인공지능(AI)을 통한 수익 창출을 위해 또 한 걸음을 내디뎠다. 지난 9월 9일, 이 회사는 AI 스타트업 스틸라.ai(Stilla.ai)를 인수했다.",
+      "symbol": "META",
+      "sentiment_score": 0.3098,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/meta-metas-stilla-ai-deal-could-turn-business-agent-into-a-new-monetization-engine-1837535/",
+      "cross_verified": true,
+      "published_at": "2026-09-19T07:57:56.000000Z"
+    },
+    {
+      "title": "Ferrari (RACE) Signs Rakuten While 2027 Is Already Spoken For",
+      "title_ko": "페라리(RACE), 라쿠텐과 계약 체결… 2027년 스폰서십은 이미 확정된 상태",
+      "snippet": "On September 17, Ferrari N.V. (NYSE:RACE) announced a partnership with the technology company Rakuten Group, Inc., effective January 1, 2027.",
+      "snippet_ko": "9월 17일, 페라리 N.V. (NYSE:RACE)는 기술 기업인 라쿠텐 그룹(Rakuten Group, Inc.)과 2027년 1월 1일부터 효력이 발생하는 파트너십을 체결했다고 발표했다.",
+      "symbol": "V",
+      "sentiment_score": 0.4927,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/ferrari-race-signs-rakuten-while-2027-is-already-spoken-for-1840147/",
+      "cross_verified": true,
+      "published_at": "2026-09-19T11:01:00.000000Z"
+    },
     {
       "title": "Trump Enacts Sweeping Russia Sanctions; Google’s Gemini Breaches Corporate Systems in Security Test",
       "title_ko": "트럼프, 러시아에 대한 대대적인 제재 발동; 구글의 ‘제미니’, 보안 테스트 중 기업 시스템 침투",
@@ -2355,54 +2403,6 @@
       "url": "https://www.insidermonkey.com/blog/xiaomi-and-huawei-launch-foldable-smartphones-ahead-of-apples-latest-product-launch-1834709/",
       "cross_verified": true,
       "published_at": "2026-09-11T22:24:34.000000Z"
-    },
-    {
-      "title": "Meta: The Market Misunderstanding Of This Stock Is Quite Baffling (NASDAQ:META)",
-      "title_ko": "메타: 이 종목에 대한 시장의 오해는 꽤나 의아스럽다 (나스닥: META)",
-      "snippet": "Meta Platforms, Inc. stays firmly at Buy, with AI and personal intelligence as strategic growth pillars. Learn more about META stock here.",
-      "snippet_ko": "메타 플랫폼스(Meta Platforms, Inc.)는 AI와 개인 맞춤형 인텔리전스를 전략적 성장 축으로 삼으며 ‘매수’ 추천을 확고히 유지하고 있습니다. META 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "META",
-      "sentiment_score": -0.4215,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4945600-meta-market-misunderstanding-this-stock-quite-baffling",
-      "cross_verified": true,
-      "published_at": "2026-09-11T17:52:03.000000Z"
-    },
-    {
-      "title": "In 1969, Robert Redford bought 5,000 acres in Utah to protect wilderness. 57 years later, 3,343 acres remain protected from development at Sundance Mountain Resort today",
-      "title_ko": "1969년, 로버트 레드포드는 야생지대를 보호하기 위해 유타주에서 5,000에이커의 토지를 매입했습니다. 57년이 지난 오늘날, 선댄스 마운틴 리조트 내 3,343에이커의 토지는 여전히 개발로부터 보호받고 있습니다.",
-      "snippet": "Robert Redfords connection to Utahs wilderness began with a motorcycle trip and grew into the creation of Sundance Mountain Resort and a lasting commitment to conservation. In 1969, he purchased 5,000 acres, named the land Sundance and designated a vast majority as a wilderness preserve. Today, more than 70% of the resorts acreage remains protected through conservation easements, while more than 860 acres of wildlife habitat, watershed and alpine meadows have been protected in perpetuity through a conservation easement donated by Redford and his family to Utah Open Lands.",
-      "snippet_ko": "로버트 레드포드와 유타주 야생지대의 인연은 오토바이 여행에서 시작되어, 결국 선댄스 마운틴 리조트의 설립과 자연 보전을 위한 지속적인 헌신으로 이어졌습니다. 1969년, 그는 5,000에이커의 토지를 매입하여 그 땅을 ‘선댄스’라고 명명하고, 그 대부분을 야생지대 보호구역으로 지정했습니다. 오늘날 리조트 부지의 70% 이상이 보전 지역 지정 계약을 통해 보호되고 있으며, 860에이커가 넘는 야생동물 서식지, 유역 및 고산 초원은 다음을 통해 영구적으로 보호되고 있습니다.",
-      "symbol": "DIS",
-      "sentiment_score": 0.9477,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/international/us/in-1969-robert-redford-bought-5000-acres-in-utah-to-protect-wilderness-57-years-later-3343-acres-remain-protected-from-development-at-sundance-mountain-resort-today/articleshow/134079529.cms",
-      "cross_verified": true,
-      "published_at": "2026-09-11T17:47:13.000000Z"
-    },
-    {
-      "title": "Apple Stock Has Returned Nearly 1,200% in 10 Years. How High Can AAPL Go From Here?",
-      "title_ko": "애플 주가는 지난 10년간 약 1,200%의 수익률을 기록했다. 앞으로 AAPL 주가는 어디까지 오를 수 있을까?",
-      "snippet": "Apple just posted its strongest June quarter ever, yet Wall Street has set a price target below where the stock trades today. Something does not add up, and the path to $450 per share is either a stretch case or the most obvious trade nobody wants to own.",
-      "snippet_ko": "애플은 방금 사상 최고의 6월 분기 실적을 발표했지만, 월스트리트는 현재 주가보다 낮은 목표 주가를 제시했다. 뭔가 앞뒤가 맞지 않는 상황이며, 주당 450달러까지 오를 것이라는 전망은 지나치게 낙관적인 시나리오이거나, 아무도 매수하고 싶어 하지 않는 가장 뻔한 투자 기회일 뿐이다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3485,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-returned-nearly-1-173040057.html",
-      "cross_verified": true,
-      "published_at": "2026-09-11T17:30:40.000000Z"
-    },
-    {
-      "title": "Stock Market Falls On Soaring Oil Prices, Yields, But Finishes Strong; CPI Inflation, Apple, Oracle, Meta In Focus: Weekly Review",
-      "title_ko": "유가와 채권 수익률 급등으로 주식 시장 하락했으나 강세로 마감… 소비자물가 상승률, 애플, 오라클, 메타 주목: 주간 리뷰",
-      "snippet": "The stock market fell as oil prices and Treasury yields soared, but rebounded Friday on CPI inflation. Apple, Oracle, Meta were key movers.",
-      "snippet_ko": "유가와 국채 수익률이 급등하면서 주식 시장은 하락했으나, 금요일 소비자물가지수(CPI) 인플레이션 발표에 힘입어 반등했다. 애플, 오라클, 메타가 주요 등락 종목이었다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.5106,
-      "source": "finance.yahoo.com",
-      "url": "https://www.investors.com/news/stock-market-falls-on-oil-prices-yields-cpi-inflation-apple-oracle-meta/?src=A00220&yptr=yahoo",
-      "cross_verified": true,
-      "published_at": "2026-09-11T15:16:01.000000Z"
     }
   ]
 }
