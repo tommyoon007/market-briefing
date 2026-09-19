@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-18T20:43:41.781631+00:00",
+  "updated_at": "2026-09-19T00:04:25.612346+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Harmonic Inc. (HLIT) Analyst/Investor Day - Slideshow (NASDAQ:HLIT) 2026-09-18",
+      "title_ko": "하모닉(Harmonic Inc., HLIT) 애널리스트·투자자 설명회 - 슬라이드 쇼 (나스닥:HLIT) 2026년 9월 18일",
+      "snippet": "2026-09-18. The following slide deck was published by Harmonic Inc.",
+      "snippet_ko": "2026년 9월 18일. 다음 슬라이드 자료는 Harmonic Inc.에서 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4947988-harmonic-inc-hlit-analyst-investor-day-slideshow",
+      "cross_verified": true,
+      "published_at": "2026-09-18T23:18:38.000000Z"
+    },
+    {
+      "title": "AXA SA (AXA:CA) Analyst/Investor Day - Slideshow (NEOE:AXA:CA) 2026-09-18",
+      "title_ko": "AXA SA (AXA:CA) 애널리스트/투자자 설명회 - 슬라이드쇼 (NEOE:AXA:CA) 2026-09-18",
+      "snippet": "2026-09-18. The following slide deck was published by AXA SA in conjunction with this event.",
+      "snippet_ko": "2026년 9월 18일. 다음 슬라이드 자료는 AXA SA가 이번 행사와 관련하여 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4947987-axa-sa-axa-ca-analyst-investor-day-slideshow",
+      "cross_verified": true,
+      "published_at": "2026-09-18T23:17:57.000000Z"
+    },
+    {
+      "title": "AMD: Gambling With Limited Upside (Downgrade) (NASDAQ:AMD)",
+      "title_ko": "AMD: 상승 여력이 제한적인 투기성 종목 (매도 등급 하향) (나스닥: AMD)",
+      "snippet": "Advanced Micro Devices is downgraded to a Sell due to an unattractive risk/reward profile despite robust short-term growth. Click for this AMD update.",
+      "snippet_ko": "어드밴스드 마이크로 디바이스(AMD)는 단기적으로 견조한 성장세를 보이고 있음에도 불구하고 위험 대비 수익성이 매력적이지 않다는 이유로 투자 등급이 ‘매도’로 하향 조정되었습니다. AMD 관련 최신 소식을 보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.1837,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4947979-amd-gambling-with-limited-upside-downgrade",
+      "cross_verified": true,
+      "published_at": "2026-09-18T23:14:01.000000Z"
+    },
     {
       "title": "Markets Edge Higher as Utilities and Tech Lead; Focus Shifts to Next Week’s Earnings",
       "title_ko": "유틸리티와 기술주가 주도하며 증시 소폭 상승… 관심은 다음 주 실적 발표로 쏠려",
@@ -1165,45 +1201,33 @@
       "url": "https://seekingalpha.com/article/4944901-diageo-realizing-value-will-take-time-but-value-is-there",
       "cross_verified": true,
       "published_at": "2026-09-10T10:19:07.000000Z"
-    },
-    {
-      "title": "Behind the Idea: Sharesight",
-      "title_ko": "아이디어의 배경: Sharesight",
-      "snippet": "Doug Morris, chief executive of Sharesight, on tracking true portfolio performance, the upkeep behind broker integrations, and educating DIY investors.",
-      "snippet_ko": "Sharesight의 최고경영자(CEO) 더그 모리스가 진정한 포트폴리오 성과 추적, 증권사 연동 유지 관리, 그리고 DIY 투자자 교육에 대해 이야기한다.",
-      "symbol": "",
-      "sentiment_score": 0.5106,
-      "source": "thefintechtimes.com",
-      "url": "https://thefintechtimes.com/behind-the-idea-sharesight/",
-      "cross_verified": true,
-      "published_at": "2026-09-10T10:00:04.000000Z"
-    },
-    {
-      "title": "American Eagle Outfitters, Inc. 2026 Q2 - Results - Earnings Call Presentation (NYSE:AEO) 2026-09-10",
-      "title_ko": "아메리칸 이글 아웃피터스(American Eagle Outfitters, Inc.) 2026년 2분기 실적 - 실적 발표 전화회의 프레젠테이션 (NYSE:AEO) 2026-09-10",
-      "snippet": "2026-09-10. The following slide deck was published by American Eagle Outfitters, Inc.",
-      "snippet_ko": "2026년 9월 10일. 다음 슬라이드 자료는 American Eagle Outfitters, Inc.에서 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4944813-american-eagle-outfitters-inc-2026-q2-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-09-10T04:01:30.000000Z"
-    },
-    {
-      "title": "MercadoLibre Stock: How A Formidable Moat Is Born (NASDAQ:MELI)",
-      "title_ko": "메르카도리브레 주식: 강력한 경쟁 우위가 어떻게 형성되는가 (NASDAQ:MELI)",
-      "snippet": "MercadoLibre dominates Latin American e-commerce and fintech, building a formidable moat through logistics and financial inclusion. See why MELI is a Strong Buy.",
-      "snippet_ko": "MercadoLibre는 라틴 아메리카의 전자상거래 및 핀테크 시장을 주도하며, 물류와 금융 포용을 통해 견고한 경쟁 우위를 구축하고 있습니다. MELI가 ‘강력 매수’ 종목인 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.4037,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4944800-mercadolibre-how-a-formidable-moat-is-born",
-      "cross_verified": true,
-      "published_at": "2026-09-10T03:52:13.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Market Mixed as Morningstar DBRS Flags France; Anthropic and Accenture Ink $2 Billion AI Safety Deal",
+      "title_ko": "모닝스타와 DBRS가 프랑스에 경고를 발령하며 시장이 혼조세를 보임; 앤트로픽과 액센츄어, 20억 달러 규모의 AI 안전 협약 체결",
+      "snippet": "Wall Street navigated a volatile session on Friday as the 10-year Treasury yield hovered near the critical 5.00% threshold. While the S&P 500 (^GSPC)",
+      "snippet_ko": "금요일 월스트리트는 10년물 국채 수익률이 중요한 5.00% 선 근처에서 등락을 거듭하는 가운데 변동성이 큰 장세를 보였습니다. 한편 S&P 500 지수(^GSPC)는",
+      "symbol": "AVGO",
+      "sentiment_score": 0.5574,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/market-mixed-as-morningstar-dbrs-flags-france-anthropic-and-accenture-ink-2-billion-ai-safety-deal/71970/",
+      "cross_verified": true,
+      "published_at": "2026-09-18T21:08:12.000000Z"
+    },
+    {
+      "title": "MP Materials Stock: Beijing Is Buying Its 3% Holder",
+      "title_ko": "MP 머티리얼스 주식: 베이징이 지분 3%를 보유한 주주를 인수 중",
+      "snippet": "China Rare Earth Group is in talks to buy Shenghe Resources, owner of 3% of MP Materials stock, putting Beijing on the Pentagon's share register.",
+      "snippet_ko": "중국 희토류 그룹은 MP 머티리얼스 지분의 3%를 보유한 셩허 리소스를 인수하기 위한 협상을 진행 중이며, 이로 인해 중국 정부가 미 국방부의 주주 명부에 이름을 올리게 될 전망이다.",
+      "symbol": "MP",
+      "sentiment_score": 0.3093,
+      "source": "equedia.com",
+      "url": "https://equedia.com/mp-materials-stock-china-stake",
+      "cross_verified": true,
+      "published_at": "2026-09-18T20:51:36.000000Z"
+    },
     {
       "title": "Warren Buffett Hands Berkshire Chair to Son After 33 Years",
       "title_ko": "워런 버핏, 33년 만에 버크셔 회장직 아들에게 물려줘",
@@ -2379,30 +2403,6 @@
       "url": "https://seekingalpha.com/article/4945556-microsoft-big-tech-winner-still-on-sale",
       "cross_verified": true,
       "published_at": "2026-09-11T15:32:42.000000Z"
-    },
-    {
-      "title": "How to Trade Tokenized Stocks on Base: A Step-by-Step Guide",
-      "title_ko": "Base에서 토큰화된 주식을 거래하는 방법: 단계별 가이드",
-      "snippet": "On 24 August 2026, Coinbase moved US equities on-chain, launching ten tokenized stocks on its Base layer-2 network for eligible non-US investors. Nvidia,",
-      "snippet_ko": "2026년 8월 24일, 코인베이스는 미국 주식을 온체인으로 이전하며, 자격을 갖춘 비미국 투자자들을 대상으로 자사의 Base 레이어-2 네트워크에 10종의 토큰화된 주식을 출시했습니다. 엔비디아,",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4715,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/how-to-trade-tokenized-stocks-on-base-a-step-by-step-guide/",
-      "cross_verified": true,
-      "published_at": "2026-09-11T07:25:55.000000Z"
-    },
-    {
-      "title": "New-age industries fuelling India's capex cycle, says SBI chief",
-      "title_ko": "SBI 총재, “신흥 산업이 인도의 설비투자 사이클을 견인하고 있다”고 밝혀",
-      "snippet": "Corporate spending on infrastructure projects is increasing across India. New sectors like data centers and green hydrogen are driving credit demand. Companies are increasing capital expenditure due to better demand and growth prospects. Bank lending has grown significantly as companies prefer loans over bonds. State Bank of India is deploying liquidity from diaspora deposits to support lending.",
-      "snippet_ko": "인도 전역에서 인프라 프로젝트에 대한 기업 투자가 증가하고 있다. 데이터 센터와 친환경 수소와 같은 새로운 분야가 신용 수요를 견인하고 있다. 기업들은 수요 회복과 성장 전망 개선에 힘입어 자본 지출을 늘리고 있다. 기업들이 채권보다 대출을 선호함에 따라 은행 대출 규모도 크게 증가했다. 인도국립은행(State Bank of India)은 해외 동포 예금에서 확보한 유동성을 대출 지원에 활용하고 있다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.6023,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-says-new-age-industries-fuelling-indias-capex-cycle-data-centres-green-hydrogen-electric-vehicles-mukesh-ambani-gautam-adani/articleshow/134051051.cms",
-      "cross_verified": true,
-      "published_at": "2026-09-11T07:00:17.000000Z"
     }
   ]
 }
