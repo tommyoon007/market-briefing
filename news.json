@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-20T18:37:21.126911+00:00",
+  "updated_at": "2026-09-20T22:19:20.870172+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "UBS Looks 29.8% Overvalued on GF Value™ Amid Capital Requirement Concerns (NYSE: UBS)",
+      "title_ko": "자본 요건 우려 속에서 GF Value™ 기준 UBS 주가, 29.8% 과대평가된 것으로 나타나 (NYSE: UBS)",
+      "snippet": "On September 20, 2026, UBS Group AG (NYSE: UBS) CEO Sergio Ermotti urged Swiss lawmakers to reconsider proposed capital regulations that could force the bank to",
+      "snippet_ko": "2026년 9월 20일, UBS 그룹 AG(NYSE: UBS)의 세르지오 에르모티 최고경영자(CEO)는 스위스 의원들에게 은행이 어쩔 수 없이 ~하게 될 수도 있는 제안된 자본 규제안을 재고해 줄 것을 촉구했다.",
+      "symbol": "",
+      "sentiment_score": 0.4128,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9089303/ubs-looks-298-overvalued-on-gf-value-amid-capital-requirement-concerns-nyse-ubs",
+      "cross_verified": true,
+      "published_at": "2026-09-20T21:55:44.000000Z"
+    },
+    {
+      "title": "Nordson’s (NDSN) New Vantage XL Addresses Increasing Advanced Semiconductor Packaging Demand",
+      "title_ko": "노드슨(NDSN)의 신제품 ‘밴티지 XL(Vantage XL)’, 증가하는 첨단 반도체 패키징 수요에 대응",
+      "snippet": "The launch of ASYMTEK Vantage XL comes at a time when demand for advanced semiconductor packaging solutions is accelerating. For that reason, such fluid dispensing system carries a lot of strategic significance for Nordson (NASDAQ:NDSN). It reflects on the company’s push to cater to the intricate packaging requirements that are fueled by high-performance computing, artificial […]",
+      "snippet_ko": "ASYMTEK Vantage XL의 출시 시기는 첨단 반도체 패키징 솔루션에 대한 수요가 급증하고 있는 시점과 맞물립니다. 이러한 이유로, 해당 유체 디스펜싱 시스템은 Nordson(NASDAQ:NDSN)에게 전략적으로 매우 중요한 의미를 지닙니다. 이는 고성능 컴퓨팅과 인공지능(AI) […]에 힘입어 더욱 복잡해지고 있는 패키징 요구 사항을 충족하기 위한 회사의 노력을 반영합니다.",
+      "symbol": "",
+      "sentiment_score": 0.3502,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nordson-ndsn-vantage-xl-addresses-212740323.html",
+      "cross_verified": true,
+      "published_at": "2026-09-20T21:27:40.000000Z"
+    },
     {
       "title": "SPY Looks 12.0% Overvalued on GF Value™ as Inflation Concerns Mount",
       "title_ko": "인플레이션 우려가 고조되는 가운데, GF Value™ 기준 SPY는 12.0% 과대평가된 것으로 나타남",
@@ -1177,33 +1201,45 @@
       "url": "https://www.insidermonkey.com/blog/jim-cramer-said-robinhood-markets-nasdaqhood-just-keeps-on-growing-1836671/",
       "cross_verified": true,
       "published_at": "2026-09-12T11:21:58.000000Z"
-    },
-    {
-      "title": "After O.P. Bhatt, Coforge NRC chair D.K. Singh resigns amid board tensions",
-      "title_ko": "O.P. 바트에 이어, 코포지 NRC 의장 D.K. 싱이 이사회 내 갈등 속에서 사임했다",
-      "snippet": "Coforge's NRC Chair D.K. Singh resigns amid governance disputes, following former Chairman O.P. Bhatt's abrupt departure.",
-      "snippet_ko": "코포지(Coforge)의 NRC 의장 D.K. 싱이, 전 의장 O.P. 바트의 갑작스러운 사임에 이어 지배구조 논란 속에서 사임했다.",
-      "symbol": "",
-      "sentiment_score": 0.7184,
-      "source": "thehindu.com",
-      "url": "https://www.thehindu.com/business/after-op-bhatt-coforge-nrc-chair-dk-singh-resigns-amid-board-tensions/article71459199.ece",
-      "cross_verified": true,
-      "published_at": "2026-09-12T05:43:09.000000Z"
-    },
-    {
-      "title": "US stocks jump after oil prices ease and an inflation update comes in near expectations",
-      "title_ko": "유가가 하락하고 인플레이션 지표가 시장 예상치에 근접한 것으로 나타나자 미국 증시가 급등했다",
-      "snippet": "NEW YORK — U.S. stocks rebounded Friday and regained much of their losses for the week after oil prices eased off their recent spurt. An update on inflation across the United States that came in close to economists' expectations, even if prices are still rising too quickly for everyone's liking, also helped calm the market.",
-      "snippet_ko": "뉴욕 — 금요일 미국 증시는 유가가 최근의 급등세를 누그러뜨리자 반등하며 이번 주 동안 기록한 손실의 상당 부분을 만회했다. 물가 상승세가 여전히 많은 이들의 기대보다 빠르게 진행되고는 있지만, 미국 전역의 인플레이션 지표가 경제학자들의 예상치에 근접한 수치를 기록하면서 시장 안정에 기여했다.",
-      "symbol": "",
-      "sentiment_score": -0.0774,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/12/business/foreign-business/us-stocks-jump-after-oil-prices-ease-and-an-inflation-update-comes-in-near-expectations/2423724",
-      "cross_verified": true,
-      "published_at": "2026-09-12T05:12:13.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Amazon (AMZN) Taps the UK Bond Market for the First Time to Help Fund its AI Buildout",
+      "title_ko": "아마존(AMZN), AI 인프라 확충 자금 조달을 위해 처음으로 영국 채권 시장에 진출",
+      "snippet": "On September 8, 2026, Reuters reported that Amazon.com, Inc. (NASDAQ:AMZN) hired JPMorgan Chase, Barclays, HSBC and NatWest to arrange its first-ever sterling-denominated bond sale, with four tranches spanning 3 to 19 years. It is part of a broader push by technology hyperscalers to diversify their funding sources for artificial intelligence infrastructure. The deal priced the […]",
+      "snippet_ko": "2026년 9월 8일, 로이터 통신은 아마존닷컴(Amazon.com, Inc., 나스닥: AMZN)이 JPMorgan Chase, Barclays, HSBC, NatWest를 주관사로 선정해 사상 첫 파운드화 표시 채권 발행을 추진 중이며, 이 채권은 3년에서 19년에 이르는 4개 트랜치로 구성될 것이라고 보도했다. 이는 기술 하이퍼스케일러들이 인공지능 인프라를 위한 자금 조달원을 다각화하려는 광범위한 노력의 일환이다. 이번 거래에서 […]의 가격을 책정했다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.0324,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-amzn-taps-uk-bond-212711015.html",
+      "cross_verified": true,
+      "published_at": "2026-09-20T21:27:11.000000Z"
+    },
+    {
+      "title": "Amazon (AMZN) Sued Again, This Time over How it Treats Pregnant Warehouse Workers",
+      "title_ko": "아마존(AMZN), 이번에는 임신한 물류센터 근로자 대우 문제로 또다시 소송 당해",
+      "snippet": "On September 8, 2026, Reuters reported that Amazon.com, Inc. (NASDAQ:AMZN) was sued in a proposed nationwide class action accusing the company of systematically discriminating against thousands of pregnant employees, including by denying basic accommodations like chairs and bathroom breaks and firing workers who missed too much time for pregnancy-related medical needs. The lawsuit was filed […]",
+      "snippet_ko": "2026년 9월 8일, 로이터 통신은 아마존닷컴(Amazon.com, Inc., 나스닥: AMZN)이 수천 명의 임산부 직원을 체계적으로 차별했다는 혐의로 전국적 집단소송을 당했다고 보도했다. 이 소송에서는 회사가 의자 제공이나 화장실 이용 시간 보장 같은 기본적인 편의 조치를 거부하고, 임신 관련 의료적 필요로 인해 결근이 잦은 직원을 해고하는 등의 행위를 저지른 것으로 지적되었다. 이 소송은 […]에 제기되었다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.0404,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/healthcare/articles/amazon-amzn-sued-again-time-212413687.html",
+      "cross_verified": true,
+      "published_at": "2026-09-20T21:24:13.000000Z"
+    },
+    {
+      "title": "Investigators Dig into Landing Speed and Runway Safety After Amazon (AMZN)’s Fatal Miami Crash",
+      "title_ko": "아마존(AMZN)의 마이애미 치명적 추락 사고 이후, 수사관들이 착륙 속도와 활주로 안전 문제를 집중 조사 중",
+      "snippet": "On September 7, 2026, the Wall Street Journal reported that federal investigators are examining the landing speed, braking systems, and weather conditions of a fatal Amazon.com, Inc.",
+      "snippet_ko": "2026년 9월 7일, 월스트리트저널은 연방 수사 당국이 사망 사고가 발생한 아마존닷컴(Amazon.com, Inc.)의 착륙 속도, 제동 시스템 및 기상 조건을 조사하고 있다고 보도했다.",
+      "symbol": "AMZN",
+      "sentiment_score": -0.0043,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/investigators-dig-into-landing-speed-and-runway-safety-after-amazon-amzns-fatal-miami-crash-1837755/",
+      "cross_verified": true,
+      "published_at": "2026-09-20T21:18:29.000000Z"
+    },
     {
       "title": "Billionaire Bill Ackman Dumps Alphabet and Loads Up On a Mega-Cap Stock Down 15% From Its Peak",
       "title_ko": "억만장자 빌 애크먼, 알파벳 매도하고 최고치 대비 15% 하락한 초대형주 대량 매수",
@@ -2367,42 +2403,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/not-nvidia-not-micron-dirt-223501021.html",
       "cross_verified": true,
       "published_at": "2026-09-12T22:35:01.000000Z"
-    },
-    {
-      "title": "The AI Infrastructure Stock That Could Make Investors Millionaires Is Hiding in Plain Sight, and Wall Street Isn’t Paying Attention",
-      "title_ko": "투자자들을 백만장자로 만들어 줄 수 있는 AI 인프라주가 바로 눈앞에 숨어 있는데, 월스트리트는 이를 간과하고 있다",
-      "snippet": "Incredible demand for AI chips is accelerating Broadcom's growth, making the stock a no-brainer buy.",
-      "snippet_ko": "AI 칩에 대한 엄청난 수요가 브로드컴의 성장을 가속화하고 있어, 이 주식은 망설임 없이 매수해야 할 종목이다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.67,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-infrastructure-stock-could-investors-215001758.html",
-      "cross_verified": true,
-      "published_at": "2026-09-12T21:50:01.000000Z"
-    },
-    {
-      "title": "Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call",
-      "title_ko": "엔비디아 대 AMD: 일론 머스크, 스페이스X 실적 발표 전화 회의에서 한쪽 편을 들다",
-      "snippet": "Elon Musk recently praised a specific GPU stock during SpaceX's earnings call.",
-      "snippet_ko": "일론 머스크는 최근 스페이스X의 실적 발표 전화 회의에서 특정 GPU 관련 주식을 칭찬했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3742,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-amd-elon-musk-212000632.html",
-      "cross_verified": true,
-      "published_at": "2026-09-12T21:20:00.000000Z"
-    },
-    {
-      "title": "Google's Historic 396 MW Clean Energy Deal Just Changed the Game for 1 AI Power Play",
-      "title_ko": "구글의 역사적인 396MW 규모 청정 에너지 계약이 한 AI 파워 플레이의 판도를 완전히 바꿔놓았다",
-      "snippet": "Recent IPO stock Fervo Energy is building on its partnership with Google with a massive power purchase agreement.",
-      "snippet_ko": "최근 기업공개(IPO)를 마친 Fervo Energy가 구글과의 파트너십을 바탕으로 대규모 전력 구매 계약을 체결하고 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.4243,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/energy/articles/googles-historic-396-mw-clean-190500123.html",
-      "cross_verified": true,
-      "published_at": "2026-09-12T19:05:00.000000Z"
     }
   ]
 }
