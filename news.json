@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-20T11:04:14.184469+00:00",
+  "updated_at": "2026-09-20T15:50:37.436560+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Cue Biopharma (CUE) Reports Positive Phase 2 Data, Market Pricing Reflects High Growth Expectations",
+      "title_ko": "큐 바이오파마(CUE), 긍정적인 2상 임상 데이터 발표… 시장 주가는 높은 성장 기대감을 반영",
+      "snippet": "On September 20, 2026, Cue Biopharma Inc (NASDAQ: CUE) announced encouraging topline results from its Phase 2 clinical trial of CUE-221 in China, targeting mode",
+      "snippet_ko": "2026년 9월 20일, Cue Biopharma Inc(나스닥: CUE)는 중국에서 진행 중인 CUE-221의 2상 임상시험에 대한 고무적인 주요 결과를 발표했는데, 이 임상시험은 …을 대상으로 한 것이다.",
+      "symbol": "",
+      "sentiment_score": 0.3145,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9089244/cue-biopharma-cue-reports-positive-phase-2-data-market-pricing-reflects-high-growth-expectations",
+      "cross_verified": true,
+      "published_at": "2026-09-20T15:25:23.000000Z"
+    },
+    {
+      "title": "Summit Therapeutics (SMMT) Shows Promise in Lung Cancer Trial but Faces Valuation Challenges",
+      "title_ko": "서밋 테라퓨틱스(SMMT), 폐암 임상시험에서 유망한 결과 보여줬으나 기업 가치 평가에 어려움 직면",
+      "snippet": "On September 20, 2026, Summit Therapeutics Inc (NASDAQ: SMMT) announced that its investigational drug ivonescimab demonstrated a 27% reduction in death risk com",
+      "snippet_ko": "2026년 9월 20일, 서밋 테라퓨틱스(Summit Therapeutics Inc, 나스닥: SMMT)는 자사의 임상 시험용 신약인 이보네스시맙(ivonescimab)이 사망 위험을 27% 감소시킨 것으로 나타났다고 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.039,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9089241/summit-therapeutics-smmt-shows-promise-in-lung-cancer-trial-but-faces-valuation-challenges",
+      "cross_verified": true,
+      "published_at": "2026-09-20T14:55:44.000000Z"
+    },
     {
       "title": "Natera, Inc. (NTRA) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
       "title_ko": "Natera, Inc. (NTRA), 모건 스탠리 제24회 연례 글로벌 헬스케어 컨퍼런스에서 발표: 발표록",
@@ -1177,33 +1201,45 @@
       "url": "https://www.insidermonkey.com/blog/jim-cramer-says-he-is-not-going-to-put-his-money-on-astrazeneca-azn-1836610/",
       "cross_verified": true,
       "published_at": "2026-09-11T20:02:39.000000Z"
-    },
-    {
-      "title": "Korn Ferry (KFY) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript",
-      "title_ko": "Korn Ferry (KFY), 골드만삭스 ‘Communicopia + Technology Conference 2026’에서 발표: 회의록",
-      "snippet": "Korn Ferry (KFY) Goldman Sachs Communacopia + Technology Conference 2026 September 11, 2026 12:30 PM EDTCompany ParticipantsRobert Rozek - Executive VP, CFO...",
-      "snippet_ko": "Korn Ferry (KFY) 골드만삭스 Communacopia + Technology Conference 2026 2026년 9월 11일 오후 12시 30분 (EDT) 참가 기업 대표 로버트 로젝 - 전무이사, 최고재무책임자(CFO)...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4945615-korn-ferry-kfy-presents-at-goldman-sachs-communacopia-technology-conference-2026-transcript",
-      "cross_verified": true,
-      "published_at": "2026-09-11T19:57:24.000000Z"
-    },
-    {
-      "title": "Alkermes: A Slow-Burning Buy Prospect On Orexin-Agonist Promise (NASDAQ:ALKS)",
-      "title_ko": "알케르메스: 오렉신 작용제의 잠재력을 바탕으로 서서히 주목받을 매수 후보 (나스닥: ALKS)",
-      "snippet": "Alkermes plc upgraded to Buy on strong revenue growth, Lumryz momentum, and orexin pipeline upside in sleep/CNS—click to get the latest ALKS outlook now.",
-      "snippet_ko": "Alkermes plc는 견조한 매출 성장, Lumryz의 호조세, 수면/중추신경계(CNS) 분야의 오렉신 파이프라인에 대한 긍정적 전망을 바탕으로 ‘매수(Buy)’ 등급으로 상향 조정되었습니다. 지금 클릭하여 ALKS에 대한 최신 전망을 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.5423,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4945555-alkermes-a-slow-burning-buy-prospect-on-orexin-agonist-promise",
-      "cross_verified": true,
-      "published_at": "2026-09-11T15:30:16.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "AVGO Looks 12.4% Undervalued on GF Value™ as Insider Selling Weighs on Sentiment",
+      "title_ko": "내부자 매물이 시장 심리에 부정적인 영향을 미치면서, GF Value™ 기준 AVGO는 12.4% 저평가된 것으로 나타났습니다.",
+      "snippet": "On September 20, 2026, Broadcom Inc (ticker: AVGO) announced a significant commitment of approximately $29 billion in guarantees to a special-purpose vehicle de",
+      "snippet_ko": "2026년 9월 20일, 브로드컴(Broadcom Inc, 종목코드: AVGO)은 특수목적법인(SPV)에 약 290억 달러 규모의 보증을 제공하겠다는 중대한 계획을 발표했습니다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.4161,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9089240/avgo-looks-124-undervalued-on-gf-value-as-insider-selling-weighs-on-sentiment",
+      "cross_verified": true,
+      "published_at": "2026-09-20T14:55:24.000000Z"
+    },
+    {
+      "title": "Broadcom: 5 Reasons To Buy This Dip (NASDAQ:AVGO)",
+      "title_ko": "브로드컴: 주가가 하락했을 때 매수해야 할 5가지 이유 (NASDAQ:AVGO)",
+      "snippet": "Broadcom AI chip growth is accelerating, but TPU competition and margin pressures loom. Click for more on AVGO stock.",
+      "snippet_ko": "브로드컴의 AI 칩 성장세가 가속화되고 있지만, TPU 경쟁과 마진 압박이 다가오고 있다. AVGO 주식에 대한 자세한 내용을 보려면 클릭하세요.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4948137-broadcom-5-reasons-to-buy-this-dip",
+      "cross_verified": true,
+      "published_at": "2026-09-20T12:53:12.000000Z"
+    },
+    {
+      "title": "Google Ad Tech Remedy Spares AdX but Targets Its 20% Fee",
+      "title_ko": "구글 광고 기술 관련 구제 조치, AdX는 제외하되 20% 수수료는 규제 대상으로 지정",
+      "snippet": "Google ad tech remedy: Brinkema refused an AdX divestiture on 2 Sep 2026, but the unsealed opinion puts AdX's 20% take rate in play. GOOGL spot $349.54.",
+      "snippet_ko": "구글 광고 기술 관련 조치: 브링케마 판사는 2026년 9월 2일 AdX 매각 요청을 기각했으나, 공개된 판결문에서 AdX의 20% 수수료율이 쟁점으로 떠올랐다. GOOGL 종가 349.54달러.",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.0902,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/google-ad-tech-remedy-adx-spared-20-percent-take-rate/",
+      "cross_verified": true,
+      "published_at": "2026-09-20T12:47:00.000000Z"
+    },
     {
       "title": "Wall Street Week Ahead",
       "title_ko": "월스트리트 주간 전망",
@@ -2367,42 +2403,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/1-magnificent-growth-stock-down-193500413.html",
       "cross_verified": true,
       "published_at": "2026-09-12T19:35:00.000000Z"
-    },
-    {
-      "title": "Prediction: This High-Yield Dow Dividend Stock Will Become a Dividend King Before the End of the Year.",
-      "title_ko": "전망: 이 고수익 다우 지수 배당주는 올해가 끝나기 전에 ‘배당왕’이 될 것이다.",
-      "snippet": "McDonald's has increased its dividend for 49 consecutive years, and I believe it will raise it again in the fourth quarter, reaching 50 years.",
-      "snippet_ko": "맥도날드는 49년 연속 배당금을 인상해 왔으며, 제 생각에는 4분기에도 배당금을 다시 인상해 50년 연속 기록을 달성할 것으로 보입니다.",
-      "symbol": "MCD",
-      "sentiment_score": 0.4609,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-high-yield-dow-dividend-153500615.html",
-      "cross_verified": true,
-      "published_at": "2026-09-12T15:35:00.000000Z"
-    },
-    {
-      "title": "Here's who stands to make money from the Anthropic IPO",
-      "title_ko": "앤트로픽의 기업공개(IPO)로 누가 이익을 볼지 살펴보자",
-      "snippet": "The initial public offering could mint riches for the AI model maker's unusually broad base of private investors, while putting its intertwined financial relationships with some of its biggest on full display.",
-      "snippet_ko": "이번 기업공개(IPO)는 이 AI 모델 개발사의 유난히 광범위한 개인 투자자층에게 막대한 부를 안겨줄 수 있는 동시에, 주요 투자자 일부와 얽혀 있는 재무적 관계를 여실히 드러낼 전망이다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.1779,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/article/heres-who-stands-to-make-money-from-the-anthropic-ipo-151619986.html",
-      "cross_verified": true,
-      "published_at": "2026-09-12T15:16:19.000000Z"
-    },
-    {
-      "title": "McDonald's Stock: Finally Lovin' It (Rating Upgrade) (NYSE:MCD)",
-      "title_ko": "맥도날드 주가: 드디어 호평 (투자의견 상향) (NYSE:MCD)",
-      "snippet": "McDonald’s Q2 showed modest comparable sales growth, strong loyalty engagement, and robust capital returns. Read why MCD stock is upgraded to a buy.",
-      "snippet_ko": "맥도날드의 2분기 실적은 소폭의 동일 매장 매출 성장, 강력한 고객 충성도, 그리고 견실한 자본 수익률을 보여주었습니다. MCD 주식이 ‘매수’ 등급으로 상향 조정된 이유를 확인해 보세요.",
-      "symbol": "MCD",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4945788-mcdonalds-finally-lovin-it-rating-upgrade",
-      "cross_verified": true,
-      "published_at": "2026-09-12T14:56:00.000000Z"
     }
   ]
 }
