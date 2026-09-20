@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-19T23:59:45.823730+00:00",
+  "updated_at": "2026-09-20T04:46:49.868715+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "IDEX Corporation Stock: A Stronger Franchise Already Carries A Recovery Price (NYSE:IEX)",
+      "title_ko": "IDEX Corporation 주식: 이미 회복 국면에 진입한 견고한 사업 기반을 바탕으로 (NYSE:IEX)",
+      "snippet": "IDEX Corporation benefits from strong customer loyalty due to its critical, engineered components. Read why IEX stock is a Hold.",
+      "snippet_ko": "IDEX Corporation은 핵심 공학 부품 덕분에 고객 충성도가 매우 높습니다. IEX 주식을 ‘보유(Hold)’로 평가하는 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.3818,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4948106-idex-corporation-stronger-franchise-already-carries-a-recovery-price",
+      "cross_verified": true,
+      "published_at": "2026-09-20T03:17:45.000000Z"
+    },
+    {
+      "title": "The winning: Brands and audiences are hungry for celebrities with distinct, dependable style",
+      "title_ko": "성공의 비결: 브랜드와 대중은 독창적이고 믿음직한 스타일을 지닌 유명인을 갈망하고 있다",
+      "snippet": "In the social-media era, personal style has become a valuable business asset for celebrities and influencers. Authentic, recognisable fashion identities can generate massive media value, attract brand partnerships and help luxury labels enter Indias market.",
+      "snippet_ko": "소셜 미디어 시대에 개인적 스타일은 유명인과 인플루언서들에게 귀중한 비즈니스 자산이 되었습니다. 진정성 있고 독창적인 패션 정체성은 막대한 미디어 가치를 창출하고, 브랜드와의 파트너십을 유치하며, 명품 브랜드가 인도 시장에 진출하는 데 도움을 줄 수 있습니다.",
+      "symbol": "",
+      "sentiment_score": 0.7269,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/the-winning-brands-and-audiences-are-hungry-for-celebrities-with-distinct-dependable-style/articleshow/134362943.cms",
+      "cross_verified": true,
+      "published_at": "2026-09-20T03:13:11.000000Z"
+    },
+    {
+      "title": "SentinelOne: Land-And-Expand Strategy Is Driving Growth Across Every Product Line (NYSE:S)",
+      "title_ko": "SentinelOne: ‘진출 및 확장’ 전략이 모든 제품 라인의 성장을 견인하고 있다 (NYSE:S)",
+      "snippet": "SentinelOne continues to gain market share, expand multiproduct adoption, and grow ARR above 20% YoY. Read why S stock is a Buy.",
+      "snippet_ko": "SentinelOne은 시장 점유율을 지속적으로 확대하고, 다중 제품 채택을 늘리며, 연간 반복 매출(ARR)을 전년 대비 20% 이상 성장시키고 있습니다. S 주식을 ‘매수’로 추천하는 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.6152,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4948105-sentinelone-land-and-expand-strategy-is-driving-growth-across-every-product-line",
+      "cross_verified": true,
+      "published_at": "2026-09-20T03:03:52.000000Z"
+    },
     {
       "title": "Korn Ferry (KFY) Presents at William Blair Human Capital Services Virtual Conference - Slideshow (NYSE:KFY) 2026-09-19",
       "title_ko": "Korn Ferry (KFY), 윌리엄 블레어 인적자원 서비스 가상 컨퍼런스에서 발표 - 슬라이드쇼 (NYSE:KFY) 2026-09-19",
@@ -1165,45 +1201,21 @@
       "url": "https://www.gurufocus.com/news/9077371/foreign-capital-sells-1109-million-in-indonesian-stocks-amid-profittaking",
       "cross_verified": true,
       "published_at": "2026-09-11T10:51:21.000000Z"
-    },
-    {
-      "title": "CRH Looks 18.0% Undervalued on GF Value™ with Strong Dividend Appeal",
-      "title_ko": "CRH는 GF Value™ 지표상 18.0% 저평가된 것으로 나타나며, 배당 매력도도 뛰어나다",
-      "snippet": "On September 11, 2026, Morgan Stanley analyst Angel Castillo reinstated coverage on CRH PLC (NYSE: CRH) with an Overweight rating and set a price target of $139",
-      "snippet_ko": "2026년 9월 11일, 모건 스탠리의 애널리스트 엔젤 카스티요는 CRH PLC(NYSE: CRH)에 대한 애널리스트 커버리지를 재개하며 ‘Overweight’ 등급을 부여하고 목표 주가를 139달러로 설정했다.",
-      "symbol": "",
-      "sentiment_score": 0.572,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9077370/crh-looks-180-undervalued-on-gf-value-with-strong-dividend-appeal",
-      "cross_verified": true,
-      "published_at": "2026-09-11T10:50:59.000000Z"
-    },
-    {
-      "title": "TTE Looks 28.2% Overvalued on GF Value™ as Dividend Sustainability Remains Key",
-      "title_ko": "GF Value™ 지표에 따르면 TTE는 28.2% 과대평가된 것으로 나타나며, 배당 지속 가능성이 여전히 핵심 요인으로 꼽힌다",
-      "snippet": "On September 11, 2026, TotalEnergies SE (NYSE: TTE) announced it has acquired the remaining 35% stake in the Grandpuits advanced recycling plant, making the fac",
-      "snippet_ko": "2026년 9월 11일, 토탈에너지 SE(TotalEnergies SE, NYSE: TTE)는 그랑퓌이(Grandpuits) 첨단 재활용 공장의 잔여 지분 35%를 인수했다고 발표했으며, 이로써 해당 시설은",
-      "symbol": "",
-      "sentiment_score": 0.5898,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9077366/tte-looks-282-overvalued-on-gf-value-as-dividend-sustainability-remains-key",
-      "cross_verified": true,
-      "published_at": "2026-09-11T10:26:18.000000Z"
-    },
-    {
-      "title": "Fiserv Inc at Goldman Sachs Communacopia + Technology Conference Transcript",
-      "title_ko": "골드만삭스 ‘커뮤니코피아 + 테크놀로지 컨퍼런스’에서 피서브(Fiserv Inc)의 발표 전문",
-      "snippet": "Sep 10, 2026 / 09:25PM GMTWilliam Nance Goldman Sachs-Analyst All right. We're going to get started on the next session. I am pleased to have a twofer here. We",
-      "snippet_ko": "2026년 9월 10일 / 오후 9시 25분(GMT) 윌리엄 낸스 골드만 삭스 애널리스트 좋습니다. 이제 다음 세션을 시작하겠습니다. 오늘 두 분을 한꺼번에 모시게 되어 기쁩니다. 저희는",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9076638/fiserv-inc-at-goldman-sachs-communacopia-technology-conference-transcript",
-      "cross_verified": true,
-      "published_at": "2026-09-11T04:00:10.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Companies avoid selling long-term bonds investors are clamoring for",
+      "title_ko": "기업들은 투자자들이 열망하는 장기 채권 발행을 꺼리고 있다",
+      "snippet": "That demand is higher than most of the market has seen this year",
+      "snippet_ko": "그 수요는 올해 시장 전반에서 관찰된 수준보다 더 높다",
+      "symbol": "AMZN",
+      "sentiment_score": -0.1891,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/companies-avoid-selling-long-term-bonds-investors-are-clamoring-for-126092000063_1.html",
+      "cross_verified": true,
+      "published_at": "2026-09-20T02:25:40.000000Z"
+    },
     {
       "title": "UBS Highlights AI Investment Opportunities; Amazon (AMZN) and Texas Instruments (TXN) Lead",
       "title_ko": "UBS, AI 투자 기회 강조… 아마존(AMZN)과 텍사스 인스트루먼트(TXN)가 주도",
@@ -2391,18 +2403,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-sacrificed-2027-profit-target-152500464.html",
       "cross_verified": true,
       "published_at": "2026-09-12T15:25:00.000000Z"
-    },
-    {
-      "title": "Tech layoffs 2026: As AI takes center stage, here's a list of major companies that laid off employees",
-      "title_ko": "2026년 기술 업계 구조조정: AI가 주목받는 가운데, 직원을 감원한 주요 기업 목록은 다음과 같습니다.",
-      "snippet": "In the first 10 days of September, more than 5,000 tech jobs were cut, taking 2026 layoffs to 128,536 across 299 companies. Oracle, Amazon, Dell, Meta, Uber, PayPal and other major firms have announced workforce reductions this year.",
-      "snippet_ko": "9월 첫 10일 동안 5,000개 이상의 기술 분야 일자리가 감축되면서, 2026년 한 해 동안 299개 기업에서 총 128,536명이 정리해고됐다. 오라클, 아마존, 델, 메타, 우버, 페이팔 등 주요 기업들이 올해 인력 감축을 발표했다.",
-      "symbol": "AAPL",
-      "sentiment_score": -0.0114,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/news/tech-layoffs-2026-as-ai-takes-center-stage-heres-a-list-of-major-companies-that-laid-off-employees-11789203637160.html",
-      "cross_verified": true,
-      "published_at": "2026-09-12T09:24:50.000000Z"
     }
   ]
 }
