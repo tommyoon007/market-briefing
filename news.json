@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-20T15:50:37.436560+00:00",
+  "updated_at": "2026-09-20T18:37:21.126911+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "SPY Looks 12.0% Overvalued on GF Value™ as Inflation Concerns Mount",
+      "title_ko": "인플레이션 우려가 고조되는 가운데, GF Value™ 기준 SPY는 12.0% 과대평가된 것으로 나타남",
+      "snippet": "On September 20, 2026, Minneapolis Federal Reserve President Neel Kashkari highlighted persistent inflationary pressures and the potential for further interest",
+      "snippet_ko": "2026년 9월 20일, 미니애폴리스 연방준비은행 총재인 닐 카슈카리는 지속되는 인플레이션 압력과 추가 금리 인상 가능성을 강조했으며",
+      "symbol": "",
+      "sentiment_score": 0.449,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9089285/spy-looks-120-overvalued-on-gf-value-as-inflation-concerns-mount",
+      "cross_verified": true,
+      "published_at": "2026-09-20T17:55:42.000000Z"
+    },
+    {
+      "title": "RF Industries (RFIL) Reports Stronger Profits. Can New Orders Sustain the Improved Product Mix?",
+      "title_ko": "RF 인더스트리즈(RFIL), 실적 호조 발표. 신규 수주가 개선된 제품 구성 추세를 지속시킬 수 있을까?",
+      "snippet": "RF Industries, Ltd. (NASDAQ:RFIL) reported stronger fiscal third-quarter results on September 14. Revenue increased 21% to $23.96 million for the quarter ended July 31, 2026, while operating income reached approximately $1.8 million, compared with $720,000 a year earlier. The next question is whether new orders can sustain that performance. Quarterly bookings totaled $22.5 million, below […]",
+      "snippet_ko": "RF Industries, Ltd. (나스닥: RFIL)는 9월 14일 회계연도 3분기 실적이 호조를 보였다고 발표했다. 2026년 7월 31일로 종료된 해당 분기의 매출은 21% 증가한 2,396만 달러를 기록했으며, 영업이익은 전년 동기 72만 달러 대비 약 180만 달러를 달성했다. 다음으로 주목할 점은 신규 수주가 이러한 실적을 지속할 수 있을지 여부다. 분기 수주액은 총 2,250만 달러로, […]보다 낮은 수준이었다.",
+      "symbol": "",
+      "sentiment_score": 0.5633,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rf-industries-rfil-reports-stronger-174049668.html",
+      "cross_verified": true,
+      "published_at": "2026-09-20T17:40:49.000000Z"
+    },
+    {
+      "title": "Sempra (SRE) Adds a 20-Year LNG Agreement. How Much Commercial Risk Does it Remove?",
+      "title_ko": "셈프라(SRE), 20년짜리 LNG 계약 체결. 이로 인해 상업적 위험이 얼마나 줄어들까?",
+      "snippet": "Sempra (NYSE:SRE) added a long-term customer commitment on September 14, when its infrastructure subsidiary announced a 20-year sales and purchase agreement with Petróleo Brasileiro S.A. – Petrobras (NYSE:PBR). The agreement covers approximately 0.8 million tonnes annually of liquefied natural gas, or LNG. Supply will come from the subsidiary’s contracted liquefaction capacity at Port Arthur LNG […]",
+      "snippet_ko": "셈프라(Sempra, NYSE:SRE)는 9월 14일, 자사의 인프라 자회사가 페트로브라스(Petróleo Brasileiro S.A. – Petrobras, NYSE:PBR)와 20년 간의 매매 계약을 체결했다고 발표하며 장기 고객 확보에 성공했다. 이 계약은 연간 약 80만 톤의 액화천연가스(LNG)를 대상으로 한다. 공급은 자회사가 포트 아서 LNG(Port Arthur LNG)에서 계약한 액화 설비 용량을 통해 이루어질 예정이다 […]",
+      "symbol": "",
+      "sentiment_score": 0.4442,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/energy/articles/sempra-sre-adds-20-lng-173718056.html",
+      "cross_verified": true,
+      "published_at": "2026-09-20T17:37:18.000000Z"
+    },
     {
       "title": "Cue Biopharma (CUE) Reports Positive Phase 2 Data, Market Pricing Reflects High Growth Expectations",
       "title_ko": "큐 바이오파마(CUE), 긍정적인 2상 임상 데이터 발표… 시장 주가는 높은 성장 기대감을 반영",
@@ -1165,45 +1201,45 @@
       "url": "https://www.manilatimes.net/2026/09/12/business/foreign-business/us-stocks-jump-after-oil-prices-ease-and-an-inflation-update-comes-in-near-expectations/2423724",
       "cross_verified": true,
       "published_at": "2026-09-12T05:12:13.000000Z"
-    },
-    {
-      "title": "Bank of Hawaii Stock: Asset Repricing Remains A Multi-Year Tailwind (NYSE:BOH)",
-      "title_ko": "하와이 은행 주가: 자산 재평가, 여전히 수년간 지속될 긍정적 요인 (NYSE:BOH)",
-      "snippet": "Bank of Hawaii (BOH) outlook: NIM expansion, low credit risk real estate loans, rising capital and shareholder payouts—see why BOH stock looks undervalued now.",
-      "snippet_ko": "하와이 은행(BOH) 전망: 순이자마진(NIM) 확대, 신용 위험이 낮은 부동산 대출, 자본금 증가 및 주주 배당금 증대—현재 BOH 주가가 저평가된 것으로 보이는 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": -0.0103,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4945716-bank-of-hawaii-asset-repricing-remains-multi-year-tailwind",
-      "cross_verified": true,
-      "published_at": "2026-09-12T03:50:00.000000Z"
-    },
-    {
-      "title": "Lululemon’s Guidance Cut Sent Shares Down 18%, Was It An Overreaction?",
-      "title_ko": "룰루레몬의 실적 전망 하향 조정에 주가가 18% 급락… 과반응이었을까?",
-      "snippet": "Lululemon Athletica Inc. (NASDAQ:LULU) recently issued its second guidance cut of the year, and investors responded immediately by sending shares down roughly 18%.",
-      "snippet_ko": "룰루레몬 애슬레티카(Lululemon Athletica Inc., 나스닥: LULU)가 최근 올해 들어 두 번째로 실적 전망치를 하향 조정하자, 투자자들은 즉각 반응하며 주가를 약 18% 하락시켰다.",
-      "symbol": "",
-      "sentiment_score": 0.8074,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/lululemons-guidance-cut-sent-shares-down-18-was-it-an-overreaction-1835030/",
-      "cross_verified": true,
-      "published_at": "2026-09-11T20:11:33.000000Z"
-    },
-    {
-      "title": "Jim Cramer Says He Is Not Going to Put His Money on AstraZeneca (AZN)",
-      "title_ko": "짐 크레이머, 아스트라제네카(AZN)에 투자하지 않겠다고 밝혀",
-      "snippet": "Toward the end of the lightning round on September 8, when a caller inquired about AstraZeneca PLC (NYSE:AZN), Mad Money host Jim Cramer commented: Alright, now, AstraZeneca reminds me of a company, it...",
-      "snippet_ko": "9월 8일 ‘라이트닝 라운드’가 막바지에 접어들 무렵, 한 시청자가 아스트라제네카 PLC(NYSE:AZN)에 대해 질문하자, ‘매드 머니’ 진행자 짐 크레이머는 다음과 같이 언급했다. “자, 아스트라제네카를 보니 어떤 회사가 떠오르는데, 그 회사는…”",
-      "symbol": "",
-      "sentiment_score": 0.1228,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/jim-cramer-says-he-is-not-going-to-put-his-money-on-astrazeneca-azn-1836610/",
-      "cross_verified": true,
-      "published_at": "2026-09-11T20:02:39.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Billionaire Bill Ackman Dumps Alphabet and Loads Up On a Mega-Cap Stock Down 15% From Its Peak",
+      "title_ko": "억만장자 빌 애크먼, 알파벳 매도하고 최고치 대비 15% 하락한 초대형주 대량 매수",
+      "snippet": "Bill Ackman sold Alphabet and bought Meta Platforms during Q2.",
+      "snippet_ko": "빌 애크먼은 2분기 동안 알파벳을 매도하고 메타 플랫폼스를 매수했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.0387,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-dumps-alphabet-172300077.html",
+      "cross_verified": true,
+      "published_at": "2026-09-20T17:23:00.000000Z"
+    },
+    {
+      "title": "Wall Street Brunch: U.S.-China Summit In Spotlight (NYSEARCA:SPY)",
+      "title_ko": "월스트리트 브런치: 주목받는 미·중 정상회담 (NYSEARCA:SPY)",
+      "snippet": "Trump and Xi meet with trade, tariffs and AI on deck. Trump pitches an AI Force while Google reveals a Gemini breach. Costco earnings put its sky-high valuation back in focus.",
+      "snippet_ko": "트럼프와 시진핑이 만나 무역, 관세, 인공지능(AI) 문제를 논의할 예정이다. 트럼프는 ‘AI 태스크포스’ 구성을 제안한 반면, 구글은 제미니 해킹 사고를 공개했다. 코스트코의 실적 발표로 천정부지에 달했던 기업 가치에 다시 관심이 쏠리고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4948147-wall-street-brunch-us-china-summit-in-spotlight",
+      "cross_verified": true,
+      "published_at": "2026-09-20T17:05:00.000000Z"
+    },
+    {
+      "title": "Prediction: Even With the $1,999 Price Tag, Apple's Foldable iPhone Duo Will Be a Hit and Apple Will Join Nvidia in the $5 Trillion Club.",
+      "title_ko": "전망: 1,999달러라는 가격에도 불구하고, 애플의 폴더블 아이폰 두 모델은 대히트를 기록할 것이며, 애플은 엔비디아와 함께 ‘5조 달러 클럽’에 합류할 것이다.",
+      "snippet": "Apple is on track to do something great that it hasn't done since 2012.",
+      "snippet_ko": "애플은 2012년 이후로 한 번도 해내지 못했던 대단한 일을 이뤄낼 전망입니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2673,
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-even-1-999-price-163700612.html",
+      "cross_verified": true,
+      "published_at": "2026-09-20T16:37:00.000000Z"
+    },
     {
       "title": "AVGO Looks 12.4% Undervalued on GF Value™ as Insider Selling Weighs on Sentiment",
       "title_ko": "내부자 매물이 시장 심리에 부정적인 영향을 미치면서, GF Value™ 기준 AVGO는 12.4% 저평가된 것으로 나타났습니다.",
@@ -2367,42 +2403,6 @@
       "url": "https://finance.yahoo.com/energy/articles/googles-historic-396-mw-clean-190500123.html",
       "cross_verified": true,
       "published_at": "2026-09-12T19:05:00.000000Z"
-    },
-    {
-      "title": "Should You Ignore MP Materials and Buy This Rare-Earth Stock Instead?",
-      "title_ko": "MP 머티리얼즈를 무시하고 대신 이 희토류 주식을 매수해야 할까요?",
-      "snippet": "Rare-earth magnets are essential to the modern economy, and these two stocks help ensure a domestic supply.",
-      "snippet_ko": "희토류 자석은 현대 경제에 필수적이며, 이 두 종목은 국내 공급을 확보하는 데 기여합니다.",
-      "symbol": "MP",
-      "sentiment_score": 0.0859,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ignore-mp-materials-buy-rare-173300735.html",
-      "cross_verified": true,
-      "published_at": "2026-09-12T17:33:00.000000Z"
-    },
-    {
-      "title": "Prediction: Nvidia Stock Could Be Worth This Much by January 2028",
-      "title_ko": "전망: 2028년 1월이 되면 엔비디아 주가가 이 정도까지 오를 수 있다",
-      "snippet": "Nvidia is calling for 70% revenue growth for fiscal 2028.",
-      "snippet_ko": "엔비디아는 2028 회계연도에 매출이 70% 성장할 것으로 전망하고 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3889,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-could-worth-171700541.html",
-      "cross_verified": true,
-      "published_at": "2026-09-12T17:17:00.000000Z"
-    },
-    {
-      "title": "1 Magnificent Growth Stock Down 55% to Buy Right Now, According to Wall Street",
-      "title_ko": "월스트리트에 따르면, 현재 55% 하락한 이 훌륭한 성장주가 바로 지금 매수할 만한 종목이다",
-      "snippet": "Artificial intelligence is making cybersecurity more important than it has ever been.",
-      "snippet_ko": "인공지능 덕분에 사이버 보안의 중요성이 그 어느 때보다 커지고 있다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.1095,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-magnificent-growth-stock-down-193500413.html",
-      "cross_verified": true,
-      "published_at": "2026-09-12T19:35:00.000000Z"
     }
   ]
 }
