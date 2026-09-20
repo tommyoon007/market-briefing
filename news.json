@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-20T04:46:49.868715+00:00",
+  "updated_at": "2026-09-20T11:04:14.184469+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Natera, Inc. (NTRA) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+      "title_ko": "Natera, Inc. (NTRA), 모건 스탠리 제24회 연례 글로벌 헬스케어 컨퍼런스에서 발표: 발표록",
+      "snippet": "Natera, Inc. (NTRA) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 7:45 AM EDTCompany ParticipantsSteve Chapman - CEO &...",
+      "snippet_ko": "Natera, Inc. (NTRA) 모건 스탠리 제24회 연례 글로벌 헬스케어 컨퍼런스 2026년 9월 14일 오전 7시 45분 (EDT) 참가 기업 대표 스티브 채프먼 - CEO 겸...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4948127-natera-inc-ntra-presents-at-morgan-stanley-24th-annual-global-healthcare-conference",
+      "cross_verified": true,
+      "published_at": "2026-09-20T10:18:47.000000Z"
+    },
+    {
+      "title": "Housing Market Shifts in Buyers' Favor As More Sellers Offer Concessions",
+      "title_ko": "더 많은 매도자들이 양보안을 제시함에 따라 주택 시장이 매수자 중심으로 변화하고 있다",
+      "snippet": "More sellers are offering concessions and cutting prices to entice buyers who have been sidelined by high mortgage rates and record-high prices.",
+      "snippet_ko": "높은 모기지 금리와 사상 최고치를 기록한 주택 가격으로 인해 주택 구매를 미루고 있는 구매자들을 유인하기 위해, 점점 더 많은 판매자들이 양보를 하거나 가격을 인하하고 있다.",
+      "symbol": "",
+      "sentiment_score": -0.1779,
+      "source": "businessinsider.com",
+      "url": "https://www.businessinsider.com/housing-market-sellers-concessions-home-price-cuts-mortgage-rates-2026-9",
+      "cross_verified": true,
+      "published_at": "2026-09-20T09:20:01.000000Z"
+    },
     {
       "title": "IDEX Corporation Stock: A Stronger Franchise Already Carries A Recovery Price (NYSE:IEX)",
       "title_ko": "IDEX Corporation 주식: 이미 회복 국면에 진입한 견고한 사업 기반을 바탕으로 (NYSE:IEX)",
@@ -1177,33 +1201,21 @@
       "url": "https://seekingalpha.com/article/4945555-alkermes-a-slow-burning-buy-prospect-on-orexin-agonist-promise",
       "cross_verified": true,
       "published_at": "2026-09-11T15:30:16.000000Z"
-    },
-    {
-      "title": "US Foods Holding: Great Business, Mediocre Investment (NYSE:USFD)",
-      "title_ko": "US Foods Holding: 훌륭한 사업, 평범한 투자 대상 (NYSE:USFD)",
-      "snippet": "US Foods Holding's Q2 2026 shows revenue +4.5%, margin gains, Pronto/AI growth, and upbeat 2026 guidance—yet valuation looks rich. Click for more on USFD stock.",
-      "snippet_ko": "US Foods Holding의 2026년 2분기 실적은 매출 4.5% 증가, 마진 개선, Pronto/AI 부문 성장, 그리고 긍정적인 2026년 전망을 보여주었으나, 주가 평가 수준은 높은 것으로 보인다. USFD 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.6249,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4945542-us-foods-holding-great-business-mediocre-investment",
-      "cross_verified": true,
-      "published_at": "2026-09-11T15:30:00.000000Z"
-    },
-    {
-      "title": "Foreign Capital Sells $110.9 Million in Indonesian Stocks Amid Profit-Taking",
-      "title_ko": "이익 실현 움직임 속에 외국인 투자자들이 인도네시아 주식 1억 1,090만 달러어치를 매도했다",
-      "snippet": "On September 11, 2026, Indonesian Future Asset Securities reported a significant net sell-off of foreign stocks amounting to $110.9 million, the highest since J",
-      "snippet_ko": "2026년 9월 11일, 인도네시아 퓨처 애셋 증권은 1억 1,090만 달러에 달하는 대규모 외국인 주식 순매도 규모를 기록했다고 보고했는데, 이는 J 이후 가장 높은 수치이다.",
-      "symbol": "",
-      "sentiment_score": 0.296,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9077371/foreign-capital-sells-1109-million-in-indonesian-stocks-amid-profittaking",
-      "cross_verified": true,
-      "published_at": "2026-09-11T10:51:21.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Wall Street Week Ahead",
+      "title_ko": "월스트리트 주간 전망",
+      "snippet": "Wall Street week ahead: Trump-Xi talks, key earnings (Costco, Meta) and Oracle AI outlook.",
+      "snippet_ko": "월스트리트 이번 주 전망: 트럼프-시진핑 회담, 주요 기업 실적(코스트코, 메타) 및 오라클 AI 전망.",
+      "symbol": "META",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4948126-wall-street-week-ahead",
+      "cross_verified": true,
+      "published_at": "2026-09-20T09:38:09.000000Z"
+    },
     {
       "title": "Companies avoid selling long-term bonds investors are clamoring for",
       "title_ko": "기업들은 투자자들이 열망하는 장기 채권 발행을 꺼리고 있다",
@@ -2391,18 +2403,6 @@
       "url": "https://seekingalpha.com/article/4945788-mcdonalds-finally-lovin-it-rating-upgrade",
       "cross_verified": true,
       "published_at": "2026-09-12T14:56:00.000000Z"
-    },
-    {
-      "title": "Rivian Sacrificed Its 2027 Profit Target. Here's Why Investors Should Applaud.",
-      "title_ko": "리비안이 2027년 수익 목표를 포기했다. 투자자들이 이를 환영해야 하는 이유는 다음과 같다.",
-      "snippet": "The business of selling EVs will shift dramatically over the coming years.",
-      "snippet_ko": "앞으로 몇 년 동안 전기차 판매 시장은 극적인 변화를 겪을 것입니다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.1059,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-sacrificed-2027-profit-target-152500464.html",
-      "cross_verified": true,
-      "published_at": "2026-09-12T15:25:00.000000Z"
     }
   ]
 }
