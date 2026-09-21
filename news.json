@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-21T19:12:23.910024+00:00",
+  "updated_at": "2026-09-21T23:06:58.219931+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "TOMZ Looks 80.1% Undervalued on GF Value™ Despite Financial Struggles",
+      "title_ko": "TOMZ, 재정적 어려움에도 불구하고 GF Value™ 기준 80.1% 저평가된 것으로 분석",
+      "snippet": "On September 21, 2026, TOMI Environmental Solutions Inc (NASDAQ: TOMZ) announced the cancellation of its merger agreement with Carbonium Core, a deal initially",
+      "snippet_ko": "2026년 9월 21일, TOMI Environmental Solutions Inc(나스닥: TOMZ)는 Carbonium Core와의 합병 계약 취소를 발표했는데, 이 거래는 당초",
+      "symbol": "",
+      "sentiment_score": 0.3688,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9090541/tomz-looks-801-undervalued-on-gf-value-despite-financial-struggles",
+      "cross_verified": true,
+      "published_at": "2026-09-21T22:26:46.000000Z"
+    },
+    {
+      "title": "DIA Looks 9.8% Overvalued on GF Value™ as Dividend Sustainability Remains Key",
+      "title_ko": "DIA, GF Value™ 기준 9.8% 과대평가된 것으로 나타나… 배당 지속 가능성이 여전히 핵심 요인으로 부각",
+      "snippet": "On September 21, 2026, U.S. markets rallied with the Dow Jones Industrial Average climbing 0.7%, buoyed by hopes for easing U.S.-China trade tensions and ongoin",
+      "snippet_ko": "2026년 9월 21일, 미-중 무역 긴장 완화 기대감과 지속적인...에 힘입어 미국 증시가 상승세를 보였으며, 다우존스 산업평균지수는 0.7% 상승했다.",
+      "symbol": "",
+      "sentiment_score": 0.7845,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9090457/dia-looks-98-overvalued-on-gf-value-as-dividend-sustainability-remains-key",
+      "cross_verified": true,
+      "published_at": "2026-09-21T21:58:13.000000Z"
+    },
+    {
+      "title": "Hitachi: Still Positive With Data Center Opportunity And Capacity Expansion Plans (HTHIY)",
+      "title_ko": "히타치: 데이터 센터 성장 기회와 용량 확장 계획에 여전히 긍정적 전망 (HTHIY)",
+      "snippet": "Hitachi, Ltd. remains a Buy as it places a greater focus on high-potential AI-driven data center and transformer markets. Read more on HTHIY stock here.",
+      "snippet_ko": "히타치(Hitachi, Ltd.)는 성장 잠재력이 높은 AI 기반 데이터 센터 및 트랜스포머 시장에 더욱 집중하고 있어 ‘매수’ 추천을 유지합니다. HTHIY 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.6924,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4948446-hitachi-still-positive-with-data-center-opportunity-and-capacity-expansion-plans",
+      "cross_verified": true,
+      "published_at": "2026-09-21T21:52:02.000000Z"
+    },
     {
       "title": "Vista Gold Corp. (VGZ) M&A Call Prepared Remarks Transcript",
       "title_ko": "Vista Gold Corp. (VGZ) M&A 컨퍼런스 콜 사전 준비 발언 전문",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4945824-altria-groups-recent-puffs-arent-enough-for-an-upgrade",
       "cross_verified": true,
       "published_at": "2026-09-13T03:37:45.000000Z"
-    },
-    {
-      "title": "Murphy Oil Stock: FCF Focus Makes A Difference Through Better Offshore Results (NYSE:MUR)",
-      "title_ko": "머피 오일 주가: 자유현금흐름(FCF)에 초점을 맞춘 전략이 해상 사업 실적 호조를 통해 차이를 만들어내고 있다 (NYSE:MUR)",
-      "snippet": "Murphy Oil has more than a few discoveries that will likely build the business in the future. Click here to read why I rate MUR stock a Strong Buy.",
-      "snippet_ko": "머피 오일(Murphy Oil)은 향후 사업 성장을 이끌 것으로 보이는 유망한 발견 사례를 다수 보유하고 있습니다. 제가 MUR 주식을 ‘강력 매수’로 평가하는 이유를 확인하려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.6093,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4945823-murphy-oil-fcf-focus-makes-a-difference-through-better-offshore-results",
-      "cross_verified": true,
-      "published_at": "2026-09-13T03:21:00.000000Z"
-    },
-    {
-      "title": "Keurig Dr Pepper: Beverage Momentum And JDE Peet's Synergies Support A Buy (NASDAQ:KDP)",
-      "title_ko": "Keurig Dr Pepper: 음료 부문의 호조와 JDE Peet's와의 시너지 효과로 매수 추천 (NASDAQ:KDP)",
-      "snippet": "Keurig Dr Pepper's beverage segment delivers sustainable volume-led growth. Click here to find out why I rate KDP stock a Buy.",
-      "snippet_ko": "Keurig Dr Pepper의 음료 부문은 판매량 중심의 지속 가능한 성장을 기록하고 있습니다. 제가 KDP 주식을 ‘매수’로 평가하는 이유를 알아보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.4019,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4945822-keurig-dr-pepper-stock-beverage-momentum-and-jde-peets-synergies-support-buy",
-      "cross_verified": true,
-      "published_at": "2026-09-13T03:19:20.000000Z"
-    },
-    {
-      "title": "AI Agents Create Their Own Monitoring Problem. Datadog and Dynatrace Are Racing to Own It",
-      "title_ko": "AI 에이전트가 스스로 모니터링 문제를 야기하고 있다. Datadog과 Dynatrace는 이 시장을 선점하기 위해 치열한 경쟁을 벌이고 있다.",
-      "snippet": "AI coding agents are supposed to make software cheaper to build. They may also create more software changes, production failures and machine-generated complexity to inspect. That second-order effect connects Datadog, Inc. (NASDAQ:DDOG) and Dynatrace, Inc. (NYSE:DT) to an observability market that AI could expand rather than erase. Datadog told the Goldman Sachs Communacopia + Technology […]",
-      "snippet_ko": "AI 코딩 에이전트는 소프트웨어 개발 비용을 절감해 줄 것으로 기대됩니다. 하지만 동시에 소프트웨어 변경 사항이 늘어나고, 운영 오류가 발생하며, 기계가 생성한 복잡한 코드를 검토해야 하는 부담도 가중시킬 수 있습니다. 이러한 2차적 효과로 인해 Datadog, Inc. (NASDAQ:DDOG)와 Dynatrace, Inc. (NYSE:DT)는 AI가 시장을 사라지게 하기보다는 오히려 확대할 수 있는 가시성(observability) 시장과 연결됩니다. Datadog은 골드만삭스 Communacopia + Technology […]에서 다음과 같이 밝혔습니다.",
-      "symbol": "",
-      "sentiment_score": 0.3184,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-agents-create-own-monitoring-225626156.html",
-      "cross_verified": true,
-      "published_at": "2026-09-12T22:56:26.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "META Looks 12.9% Undervalued on GF Value™ as Options Surge Signals Bullish Sentiment",
+      "title_ko": "GF Value™에 따르면 META는 12.9% 저평가된 것으로 나타나며, 옵션 거래량 급증은 강세 심리를 시사한다",
+      "snippet": "On September 21, 2026, Meta Platforms Inc (NASDAQ: META) experienced a notable surge in its share price, rising $83.20 or 12.51% to trade around $748.43. This s",
+      "snippet_ko": "2026년 9월 21일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)의 주가가 83.20달러(12.51%) 급등하며 748.43달러 선에서 거래되었습니다. 이 상승은",
+      "symbol": "META",
+      "sentiment_score": 0.5252,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9090433/meta-looks-129-undervalued-on-gf-value-as-options-surge-signals-bullish-sentiment",
+      "cross_verified": true,
+      "published_at": "2026-09-21T21:25:28.000000Z"
+    },
+    {
+      "title": "Apple settlement could mean a payout for some iPhone owners",
+      "title_ko": "애플과의 합의로 일부 아이폰 소유자들에게 보상금이 지급될 수 있다",
+      "snippet": "Apple customers who bought an iPhone 16 or iPhone 15 Pro may collect up to $95 per device from a $250 million class action settlement over Siri AI feature delays.",
+      "snippet_ko": "아이폰 16 또는 아이폰 15 프로를 구매한 애플 고객들은 시리(Siri) AI 기능 출시 지연과 관련해 2억 5천만 달러 규모의 집단소송 합의금에서 기기당 최대 95달러를 받을 수 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3483,
+      "source": "foxbusiness.com",
+      "url": "https://www.foxbusiness.com/technology/apple-settlement-could-mean-payout-some-iphone-owners",
+      "cross_verified": true,
+      "published_at": "2026-09-21T21:03:02.000000Z"
+    },
+    {
+      "title": "Novo Nordisk Stock Slides Nearly 8% in New York After $23 Billion Pipeline Plan Disappoints Investors",
+      "title_ko": "230억 달러 규모의 신약 파이프라인 계획이 투자자들의 기대를 저버리자, 뉴욕 증시에서 노보 노르디스크 주가가 8% 가까이 하락했다.",
+      "snippet": "Novo Nordisk stock fell nearly 8% in New York trading on Monday after the drugmaker's Capital Markets Day failed to convince investors that its pipeline can",
+      "snippet_ko": "월요일 뉴욕 증시에서 노보 노르디스크 주가는 이 제약사의 ‘자본시장 설명회’가 자사의 신약 파이프라인이",
+      "symbol": "MRK",
+      "sentiment_score": 0.3818,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/novo-nordisk-stock-slides-nearly-8-in-new-york-after-23-billion-pipeline-plan-disappoints-investors/",
+      "cross_verified": true,
+      "published_at": "2026-09-21T20:11:19.000000Z"
+    },
     {
       "title": "Intel surges 12% as CPU stocks rally. Here's what's driving the move",
       "title_ko": "CPU 관련주 급등에 힘입어 인텔 주가가 12% 급등했다. 이번 주가 상승의 원인은 다음과 같다.",
@@ -2367,42 +2403,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-vs-pepsi-five-211051894.html",
       "cross_verified": true,
       "published_at": "2026-09-13T21:10:51.000000Z"
-    },
-    {
-      "title": "VOOG vs. VONG: Which Powerhouse Vanguard ETF Is the Stronger Choice for Investors?",
-      "title_ko": "VOOG 대 VONG: 투자자들에게 더 나은 선택은 어느 강력한 선구자형 ETF일까?",
-      "snippet": "VONG and VOOG offer similar structures, but they diverge in diversification and recent performance.",
-      "snippet_ko": "VONG과 VOOG는 유사한 구조를 가지고 있지만, 투자 분산 정도와 최근 실적 면에서는 차이가 있습니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.7685,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/voog-vs-vong-powerhouse-vanguard-205014404.html",
-      "cross_verified": true,
-      "published_at": "2026-09-13T20:50:14.000000Z"
-    },
-    {
-      "title": "Forget Intel. Buy This Tech Stock in September Instead.",
-      "title_ko": "인텔은 잊어버리세요. 대신 9월에 이 기술주 주식을 사세요.",
-      "snippet": "Sandisk is up more than 2,000% over the past year -- and it is still cheap.",
-      "snippet_ko": "샌디스크의 주가는 지난 1년 동안 2,000% 이상 상승했지만, 여전히 저평가되어 있다.",
-      "symbol": "NVDA",
-      "sentiment_score": -0.0701,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/forget-intel-buy-tech-stock-205000747.html",
-      "cross_verified": true,
-      "published_at": "2026-09-13T20:50:00.000000Z"
-    },
-    {
-      "title": "Warren Buffett Made Apple Berkshire Hathaway's Single Largest Stock Position: $10,000 Invested 10 Years Ago Would Be Worth Roughly $122,400 Today",
-      "title_ko": "워런 버핏, 애플을 버크셔 해서웨이의 최대 보유 종목으로 선정: 10년 전 1만 달러를 투자했다면 현재 약 12만 2,400달러의 가치가 될 것",
-      "snippet": "Buffett and the Berkshire team began investing in Apple in 2016.",
-      "snippet_ko": "버핏과 버크셔 팀은 2016년부터 애플에 투자하기 시작했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4958,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-made-apple-berkshire-173600865.html",
-      "cross_verified": true,
-      "published_at": "2026-09-13T17:36:00.000000Z"
     }
   ]
 }
