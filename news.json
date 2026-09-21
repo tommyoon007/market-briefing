@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-21T12:31:29.408305+00:00",
+  "updated_at": "2026-09-21T19:12:23.910024+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Vista Gold Corp. (VGZ) M&A Call Prepared Remarks Transcript",
+      "title_ko": "Vista Gold Corp. (VGZ) M&A 컨퍼런스 콜 사전 준비 발언 전문",
+      "snippet": "Vista Gold Corp. (VGZ) M&A Call September 21, 2026 12:00 PM EDTCompany ParticipantsPamela Solly - Vice President of Investor RelationsFrederick H.",
+      "snippet_ko": "Vista Gold Corp. (VGZ) M&A 설명회 2026년 9월 21일 오후 12:00 (EDT) 회사 참가자: 파멜라 솔리 - 투자자 관계 부사장, 프레더릭 H.",
+      "symbol": "",
+      "sentiment_score": 0.4633,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4948388-vista-gold-corp-vgz-m-and-a-call-prepared-remarks-transcript",
+      "cross_verified": true,
+      "published_at": "2026-09-21T18:28:48.000000Z"
+    },
+    {
+      "title": "LLY Looks 25.1% Undervalued on GF Value™ as Oral GLP-1 Gains Traction",
+      "title_ko": "경구용 GLP-1 제제의 시장 입지가 확대됨에 따라 GF Value™ 기준 LLY의 주가가 25.1% 저평가된 것으로 나타남",
+      "snippet": "On September 21, 2026, Eli Lilly and Co (NYSE: LLY) CEO Dave Ricks disclosed on CNBC that about one-third of patients starting treatment with their new GLP-1 or",
+      "snippet_ko": "2026년 9월 21일, 일라이 릴리(Eli Lilly and Co, NYSE: LLY)의 데이브 릭스(Dave Ricks) 최고경영자(CEO)는 CNBC를 통해 자사의 새로운 GLP-1 제제나",
+      "symbol": "",
+      "sentiment_score": 0.17,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9090305/lly-looks-251-undervalued-on-gf-value-as-oral-glp1-gains-traction",
+      "cross_verified": true,
+      "published_at": "2026-09-21T18:27:31.000000Z"
+    },
     {
       "title": "EBF Looks 7.0% Overvalued on GF Value™ as Dividend Growth Signals Stability",
       "title_ko": "배당금 증가세가 안정성을 시사함에 따라 EBF는 GF Value™ 기준 7.0% 과대평가된 것으로 나타남",
@@ -1177,33 +1201,45 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-agents-create-own-monitoring-225626156.html",
       "cross_verified": true,
       "published_at": "2026-09-12T22:56:26.000000Z"
-    },
-    {
-      "title": "How Much Does a 61-Year-Old Need Invested to Collect $8,600 a Month for Life?",
-      "title_ko": "61세인 사람이 평생 매달 8,600달러를 수령하려면 얼마를 투자해야 할까요?",
-      "snippet": "Building a retirement income sleeve around seven funds sounds like diversification, but the largest position in this blueprint has a quiet habit of inflating its own payout once a year without ever promising to repeat it.",
-      "snippet_ko": "7개의 펀드를 중심으로 은퇴 소득 포트폴리오를 구성하는 것은 분산 투자처럼 보이지만, 이 투자 계획에서 비중이 가장 큰 펀드는 매년 한 번씩 배당금을 인상하는 습관이 있는데, 이를 반복하겠다고 약속한 적은 한 번도 없습니다.",
-      "symbol": "",
-      "sentiment_score": 0.5009,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/much-does-61-old-invested-225357243.html",
-      "cross_verified": true,
-      "published_at": "2026-09-12T22:53:57.000000Z"
-    },
-    {
-      "title": "GE Aerospace (GE)’s $12 Billion CPP Acquisition Puts Its Growth Strategy to the Test",
-      "title_ko": "GE 에어로스페이스(GE)의 120억 달러 규모 CPP 인수, 성장 전략의 성패가 걸렸다",
-      "snippet": "GE Aerospace (NYSE:GE) is making its largest acquisition since becoming a standalone publicly traded company. It agreed to acquire Consolidated Precision Products (CPP) for around $12 billion.",
-      "snippet_ko": "GE 에어로스페이스(NYSE:GE)는 독립적인 상장 기업으로 출범한 이후 최대 규모의 인수를 단행하고 있다. 이 회사는 컨솔리데이티드 프리시전 프로덕츠(CPP)를 약 120억 달러에 인수하기로 합의했다.",
-      "symbol": "",
-      "sentiment_score": -0.5994,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/ge-aerospace-ges-12-billion-cpp-acquisition-puts-its-growth-strategy-to-the-test-1836632/",
-      "cross_verified": true,
-      "published_at": "2026-09-12T22:38:33.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Intel surges 12% as CPU stocks rally. Here's what's driving the move",
+      "title_ko": "CPU 관련주 급등에 힘입어 인텔 주가가 12% 급등했다. 이번 주가 상승의 원인은 다음과 같다.",
+      "snippet": "Every weekday, the Investing Club releases the Homestretch, an actionable afternoon update just in time for the last hour of trading.",
+      "snippet_ko": "투자 클럽은 평일마다 장 마감 1시간 전에 맞춰 실질적인 투자 정보를 제공하는 오후 업데이트인 ‘Homestretch’를 발행합니다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.286,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/21/intel-surges-12percent-as-cpu-stocks-rally-heres-whats-driving-the-move.html",
+      "cross_verified": true,
+      "published_at": "2026-09-21T18:37:57.000000Z"
+    },
+    {
+      "title": "AAPL Looks 18.2% Overvalued on GF Value™ as Delivery Delays Spark Market Attention",
+      "title_ko": "배송 지연으로 시장의 관심이 쏠리면서 GF Value™ 기준 AAPL은 18.2% 과대평가된 것으로 나타남",
+      "snippet": "On September 21, 2026, Apple Inc (NASDAQ: AAPL) attracted investor focus following Citi's report highlighting longer delivery times for the iPhone 18 Pro and Pr",
+      "snippet_ko": "2026년 9월 21일, 시티그룹이 아이폰 18 프로와 프로의 배송 지연 문제를 지적한 보고서를 발표하면서 애플(NASDAQ: AAPL)이 투자자들의 주목을 받았습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2278,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9090243/aapl-looks-182-overvalued-on-gf-value-as-delivery-delays-spark-market-attention",
+      "cross_verified": true,
+      "published_at": "2026-09-21T17:56:23.000000Z"
+    },
+    {
+      "title": "AMZN Looks 3.6% Overvalued on GF Value™ as Market Prices in Strong Growth",
+      "title_ko": "시장이 강력한 성장세를 반영함에 따라 GF Value™ 기준 AMZN은 3.6% 과대평가된 것으로 나타남",
+      "snippet": "On September 21, 2026, Amazon.com Inc (NASDAQ: AMZN) expanded its ban on third-party AI shopping bots by prohibiting Meta's AI tool, Muse, from its platform. Th",
+      "snippet_ko": "2026년 9월 21일, Amazon.com Inc(나스닥: AMZN)는 자사 플랫폼에서 메타의 AI 도구인 ‘뮤즈(Muse)’의 사용을 금지함으로써, 제3자 AI 쇼핑 봇에 대한 금지 조치를 확대했다. 이",
+      "symbol": "AMZN",
+      "sentiment_score": -0.2401,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9090242/amzn-looks-36-overvalued-on-gf-value-as-market-prices-in-strong-growth",
+      "cross_verified": true,
+      "published_at": "2026-09-21T17:55:58.000000Z"
+    },
     {
       "title": "iPhone 18 Pro Series Demand Surges, Wait Times Extend",
       "title_ko": "아이폰 18 프로 시리즈 수요 급증, 대기 시간 길어지다",
@@ -2367,42 +2403,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-made-apple-berkshire-173600865.html",
       "cross_verified": true,
       "published_at": "2026-09-13T17:36:00.000000Z"
-    },
-    {
-      "title": "Nvidia vs. Broadcom: Which Trillion-Dollar AI Chip Stock Has More Upside After Their Latest Earnings?",
-      "title_ko": "엔비디아 대 브로드컴: 최근 실적 발표 이후, 1조 달러 규모 AI 칩 기업 중 어느 쪽의 상승 여력이 더 클까?",
-      "snippet": "Nvidia and Broadcom both just delivered monster earnings reports.",
-      "snippet_ko": "엔비디아와 브로드컴은 모두 방금 엄청난 실적을 발표했습니다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.4261,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-broadcom-trillion-dollar-172700367.html",
-      "cross_verified": true,
-      "published_at": "2026-09-13T17:27:00.000000Z"
-    },
-    {
-      "title": "AMD and Intel’s Shared AI Instructions Reach GCC. Can Software Cooperation Strengthen Both Stocks?",
-      "title_ko": "AMD와 인텔의 공동 AI 명령어가 GCC에 적용된다. 소프트웨어 협력으로 양사 주가가 상승할 수 있을까?",
-      "snippet": "AMD and Intel compete for processor customers, but they have a common interest in making developers comfortable staying with x86. A September 2 GCC commit added initial support for their AI Compute Extensions, or ACE, bringing that shared strategy into a widely used compiler’s development code. For Advanced Micro Devices, Inc. (NASDAQ:AMD) and Intel Corporation […]",
-      "snippet_ko": "AMD와 인텔은 프로세서 고객을 두고 경쟁하고 있지만, 개발자들이 x86 아키텍처를 계속 사용하도록 유도하는 데는 공통된 이해관계를 가지고 있습니다. 9월 2일 GCC에 적용된 커밋을 통해 두 회사의 ‘AI Compute Extensions(ACE)’에 대한 초기 지원이 추가되면서, 이 공동 전략이 널리 사용되는 컴파일러의 개발 코드에 반영되었습니다. 어드밴스드 마이크로 디바이스(Advanced Micro Devices, Inc., NASDAQ:AMD)와 인텔 코퍼레이션(Intel Corporation) […]",
-      "symbol": "INTC",
-      "sentiment_score": 0.4644,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-intel-shared-ai-instructions-165917161.html",
-      "cross_verified": true,
-      "published_at": "2026-09-13T16:59:17.000000Z"
-    },
-    {
-      "title": "Predicting Intel's Value by 2030 Could Make It Worth a Look Right Now",
-      "title_ko": "2030년까지 인텔의 가치를 예측해 보면, 지금 당장 이 기업을 주목해 볼 만할 수도 있다",
-      "snippet": "Intel stock has dipped lately, but it could bounce back given its strong growth prospects.",
-      "snippet_ko": "인텔 주가는 최근 하락세를 보였지만, 탄탄한 성장 전망을 고려할 때 다시 반등할 가능성이 있다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.0,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/predicting-intels-value-2030-could-144300174.html",
-      "cross_verified": true,
-      "published_at": "2026-09-13T14:43:00.000000Z"
     }
   ]
 }
