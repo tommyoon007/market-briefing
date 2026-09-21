@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-20T22:19:20.870172+00:00",
+  "updated_at": "2026-09-21T04:26:12.484263+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "JB–Singapore RTS Link: These 3 Singapore Stocks Could See Growth Derailed",
+      "title_ko": "JB–싱가포르 RTS 링크: 이 3개 싱가포르 종목의 성장세가 주춤할 수 있다",
+      "snippet": "Explore how the JB–Singapore RTS Link could derail growth for these three Singapore stocks amidst increased consumer spending.",
+      "snippet_ko": "소비 지출이 증가하는 가운데, JB–싱가포르 RTS 연계가 이 세 가지 싱가포르 주식의 성장에 어떤 차질을 빚을 수 있는지 살펴보세요.",
+      "symbol": "",
+      "sentiment_score": 0.0258,
+      "source": "thesmartinvestor.com.sg",
+      "url": "https://thesmartinvestor.com.sg/jb-singapore-rts-link-these-3-singapore-stocks-could-see-growth-derailed/",
+      "cross_verified": true,
+      "published_at": "2026-09-21T03:30:00.000000Z"
+    },
+    {
+      "title": "Oil Prices Drop as Brent (BRN) and WTI (CL) Face Longest Decline Since June",
+      "title_ko": "브렌트(BRN)와 WTI(CL)가 6월 이후 가장 긴 하락세를 기록하며 유가가 하락했다",
+      "snippet": "On September 20, 2026, oil prices have fallen for the fourth consecutive day, raising concerns among traders and analysts alike. The stock in focus today is Bar",
+      "snippet_ko": "2026년 9월 20일, 유가가 4일 연속 하락하면서 트레이더와 애널리스트 모두에게 우려를 불러일으키고 있습니다. 오늘 주목할 종목은 Bar입니다.",
+      "symbol": "",
+      "sentiment_score": 0.1637,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9089351/oil-prices-drop-as-brent-brn-and-wti-cl-face-longest-decline-since-june",
+      "cross_verified": true,
+      "published_at": "2026-09-21T03:02:46.000000Z"
+    },
     {
       "title": "UBS Looks 29.8% Overvalued on GF Value™ Amid Capital Requirement Concerns (NYSE: UBS)",
       "title_ko": "자본 요건 우려 속에서 GF Value™ 기준 UBS 주가, 29.8% 과대평가된 것으로 나타나 (NYSE: UBS)",
@@ -1177,33 +1201,45 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/5-big-yields-could-slashed-153353087.html",
       "cross_verified": true,
       "published_at": "2026-09-12T15:33:53.000000Z"
-    },
-    {
-      "title": "Jim Cramer Dismisses Grab Holdings (GRAB) as a $3 Spec",
-      "title_ko": "짐 크레이머, 그랩 홀딩스(GRAB)를 3달러짜리 투기주라고 일축했다",
-      "snippet": "During the September 8 episode of Mad Money, a caller asked about Grab Holdings Limited (NASDAQ:GRAB), highlighting its Southeast Asian ride-hailing and food delivery model, growing fintech segment, and...",
-      "snippet_ko": "9월 8일 방송된 ‘매드 머니’에서 한 청취자가 그랩 홀딩스 리미티드(NASDAQ:GRAB)에 대해 문의하며, 이 회사의 동남아시아 차량 호출 및 음식 배달 사업 모델, 성장 중인 핀테크 부문, 그리고...",
-      "symbol": "",
-      "sentiment_score": 0.7003,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/jim-cramer-dismisses-grab-holdings-grab-as-a-3-spec-1836596/",
-      "cross_verified": true,
-      "published_at": "2026-09-12T11:23:22.000000Z"
-    },
-    {
-      "title": "Jim Cramer Said Robinhood Markets (NASDAQ:HOOD) Just Keeps On Growing",
-      "title_ko": "짐 크레이머는 로빈후드 마켓(나스닥:HOOD)이 계속해서 성장하고 있다고 말했다",
-      "snippet": "Financial markets platform Robinhood Markets (NASDAQ:HOOD) is one of Cramer's favorite stocks.",
-      "snippet_ko": "금융 시장 플랫폼 로빈후드 마켓츠(NASDAQ:HOOD)는 크레이머가 가장 선호하는 종목 중 하나다.",
-      "symbol": "",
-      "sentiment_score": 0.2063,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/jim-cramer-said-robinhood-markets-nasdaqhood-just-keeps-on-growing-1836671/",
-      "cross_verified": true,
-      "published_at": "2026-09-12T11:21:58.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Meta Stock: Poised For Strong Long-Term Growth (NASDAQ:META)",
+      "title_ko": "메타 주식: 강력한 장기 성장 전망 (나스닥: META)",
+      "snippet": "Meta Platforms (META) outlook: AI tools, custom chips & subscriptions fuel growth.",
+      "snippet_ko": "메타 플랫폼스(META) 전망: AI 도구, 맞춤형 칩 및 구독 서비스가 성장을 견인한다.",
+      "symbol": "META",
+      "sentiment_score": 0.7845,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4948177-meta-poised-for-strong-long-term-growth",
+      "cross_verified": true,
+      "published_at": "2026-09-21T02:51:58.000000Z"
+    },
+    {
+      "title": "Investment Caution: Fidelity's Durance Avoids AI Bonds Amid Market Surge",
+      "title_ko": "투자 주의: 피델리티의 ‘듀런스’, 시장 급등 속 AI 관련 채권 투자 회피",
+      "snippet": "On September 20, 2026, James Durance of Fidelity International expressed caution regarding investments in AI-related bonds, maintaining his exposure in the tech",
+      "snippet_ko": "2026년 9월 20일, 피델리티 인터내셔널의 제임스 듀랜스는 AI 관련 채권 투자에 대해 신중한 입장을 밝히며, 기술 분야에 대한 투자 비중을 유지했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2851,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9089345/investment-caution-fidelitys-durance-avoids-ai-bonds-amid-market-surge",
+      "cross_verified": true,
+      "published_at": "2026-09-21T02:30:57.000000Z"
+    },
+    {
+      "title": "Diesel Prices Surge to Record High, Impacting Logistics and Inflation",
+      "title_ko": "디젤 가격, 사상 최고치로 치솟아… 물류 및 물가에 타격",
+      "snippet": "On September 20, 2026, the American Automobile Association (AAA) reported that the average retail price of diesel fuel in the U.S. has reached a new peak of $6.",
+      "snippet_ko": "2026년 9월 20일, 미국자동차협회(AAA)는 미국 내 디젤 연료의 평균 소매 가격이 6달러로 사상 최고치를 기록했다고 발표했다.",
+      "symbol": "AMZN",
+      "sentiment_score": -0.0122,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9089343/diesel-prices-surge-to-record-high-impacting-logistics-and-inflation",
+      "cross_verified": true,
+      "published_at": "2026-09-21T02:10:31.000000Z"
+    },
     {
       "title": "Amazon (AMZN) Taps the UK Bond Market for the First Time to Help Fund its AI Buildout",
       "title_ko": "아마존(AMZN), AI 인프라 확충 자금 조달을 위해 처음으로 영국 채권 시장에 진출",
@@ -2367,42 +2403,6 @@
       "url": "https://economictimes.indiatimes.com/news/international/us/from-2018-to-2022-more-than-200000-break-free-from-plastic-volunteers-audited-waste-in-84-countries-56-companies-produced-more-than-half-of-all-branded-plastic-pollution/articleshow/134119806.cms",
       "cross_verified": true,
       "published_at": "2026-09-13T08:00:00.000000Z"
-    },
-    {
-      "title": "McDonald's Stock: At 52-Week Lows, But I'm Still Not Interested (NYSE:MCD)",
-      "title_ko": "맥도날드 주가: 52주 최저치지만, 여전히 관심이 없다 (NYSE:MCD)",
-      "snippet": "McDonald's Q2 saw weaker-than-expected same-store sales and revenue, with US comparable sales growth at just 0.8% amid execution issues. See why MCD stock is a Hold.",
-      "snippet_ko": "맥도날드의 2분기 동일 매장 매출과 매출액은 예상보다 부진한 모습을 보였으며, 운영상의 문제로 인해 미국 내 동일 매장 매출 성장률은 0.8%에 그쳤습니다. MCD 주식을 ‘보유(Hold)’로 평가하는 이유를 확인해 보세요.",
-      "symbol": "MCD",
-      "sentiment_score": -0.3178,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4945825-mcdonalds-at-52-week-lows-but-im-still-not-interested",
-      "cross_verified": true,
-      "published_at": "2026-09-13T03:56:40.000000Z"
-    },
-    {
-      "title": "McDonald's: Take A Step Back As Comps Slow And Rivals Gain (NYSE:MCD)",
-      "title_ko": "맥도날드: 동일 매장 매출 성장세 둔화와 경쟁사들의 약세 속에서 한 발 물러서야 (NYSE:MCD)",
-      "snippet": "McDonald's faces a significant slowdown in Q2 comp sales, underperforming rivals like Restaurant Brands and Chipotle. Read why MCD stock is a Hold.",
-      "snippet_ko": "맥도날드는 2분기 동일 매장 매출이 크게 둔화되며, 레스토랑 브랜즈(Restaurant Brands)나 치폴레(Chipotle) 같은 경쟁사들보다 부진한 실적을 기록했습니다. MCD 주식을 ‘보유(Hold)’로 평가하는 이유를 확인해 보세요.",
-      "symbol": "MCD",
-      "sentiment_score": 0.5267,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4945821-mcdonalds-take-a-step-back-as-comps-slow-and-rivals-gain-upgrade",
-      "cross_verified": true,
-      "published_at": "2026-09-13T03:13:26.000000Z"
-    },
-    {
-      "title": "Not Nvidia. Not Micron. This Dirt Cheap “Magnificent Seven” Stock Could Be the Biggest Winner of the Trillion-Dollar AI Race – Here’s the Case.",
-      "title_ko": "엔비디아도 아니고, 마이크론도 아니다. 이 엄청나게 저렴한 ‘위대한 7인’ 주식이 1조 달러 규모의 AI 경쟁에서 가장 큰 승자가 될 수도 있다 – 그 근거는 다음과 같다.",
-      "snippet": "This company is already greatly benefiting from AI.",
-      "snippet_ko": "이 회사는 이미 AI 덕분에 큰 혜택을 보고 있습니다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.7371,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/not-nvidia-not-micron-dirt-223501021.html",
-      "cross_verified": true,
-      "published_at": "2026-09-12T22:35:01.000000Z"
     }
   ]
 }
