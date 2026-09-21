@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-21T04:26:12.484263+00:00",
+  "updated_at": "2026-09-21T12:31:29.408305+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "EBF Looks 7.0% Overvalued on GF Value™ as Dividend Growth Signals Stability",
+      "title_ko": "배당금 증가세가 안정성을 시사함에 따라 EBF는 GF Value™ 기준 7.0% 과대평가된 것으로 나타남",
+      "snippet": "On September 21, 2026, Ennis Inc (NYSE: EBF) released its second-quarter earnings report, highlighting steady revenue growth and a modest dividend increase. The",
+      "snippet_ko": "2026년 9월 21일, 에니스(Ennis Inc, NYSE: EBF)는 2분기 실적 보고서를 발표하며 꾸준한 매출 성장과 소폭의 배당금 인상을 강조했습니다. 이",
+      "symbol": "",
+      "sentiment_score": 0.7866,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9089552/ebf-looks-70-overvalued-on-gf-value-as-dividend-growth-signals-stability",
+      "cross_verified": true,
+      "published_at": "2026-09-21T11:58:45.000000Z"
+    },
+    {
+      "title": "EBF Looks 7.0% Overvalued on GF Value™ Amid Dividend Increase",
+      "title_ko": "배당금 증액 속에 EBF, GF Value™ 기준 7.0% 고평가된 것으로 나타남",
+      "snippet": "On September 21, 2026, Ennis Inc (NYSE: EBF) announced a quarterly dividend increase to $0.2625 per share, a 5% rise from the previous $0.25 dividend. This mark",
+      "snippet_ko": "2026년 9월 21일, Ennis Inc(NYSE: EBF)는 분기 배당금을 주당 0.2625달러로 인상한다고 발표했는데, 이는 기존 배당금인 0.25달러보다 5% 상승한 수준이다. 이번 조치는",
+      "symbol": "",
+      "sentiment_score": 0.7314,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9089551/ebf-looks-70-overvalued-on-gf-value-amid-dividend-increase",
+      "cross_verified": true,
+      "published_at": "2026-09-21T11:58:23.000000Z"
+    },
+    {
+      "title": "GE Looks 16.7% Overvalued on GF Value™ as Insider Selling Persists",
+      "title_ko": "내부자 매도세가 지속되는 가운데, GF Value™ 기준 GE 주가가 16.7% 과대평가된 것으로 나타남",
+      "snippet": "On September 21, 2026, GE Aerospace (NYSE: GE) announced a $225 million upgrade to its Research Center in Niskayuna, NY, supported by $8.4 million in New York S",
+      "snippet_ko": "2026년 9월 21일, GE 에어로스페이스(NYSE: GE)는 뉴욕주 니스카유나에 위치한 자사 연구 센터에 2억 2,500만 달러 규모의 시설 개선 계획을 발표했으며, 이 계획은 뉴욕주 정부로부터 840만 달러의 지원을 받게 되었다.",
+      "symbol": "",
+      "sentiment_score": 0.5,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9089550/ge-looks-167-overvalued-on-gf-value-as-insider-selling-persists",
+      "cross_verified": true,
+      "published_at": "2026-09-21T11:57:59.000000Z"
+    },
     {
       "title": "JB–Singapore RTS Link: These 3 Singapore Stocks Could See Growth Derailed",
       "title_ko": "JB–싱가포르 RTS 링크: 이 3개 싱가포르 종목의 성장세가 주춤할 수 있다",
@@ -1165,45 +1201,45 @@
       "url": "https://www.insidermonkey.com/blog/ge-aerospace-ges-12-billion-cpp-acquisition-puts-its-growth-strategy-to-the-test-1836632/",
       "cross_verified": true,
       "published_at": "2026-09-12T22:38:33.000000Z"
-    },
-    {
-      "title": "RingCentral Chief Accounting Officer Sells 4,568 Shares",
-      "title_ko": "링센트럴 최고회계책임자, 주식 4,568주 매도",
-      "snippet": "Tarun Arora executed a Rule 10b5-1 plan trade, divesting 4,568 shares while retaining 75,141 shares valued at $5.23 million. The sale occurred as RingCentral stock delivered a 126% one-year return.",
-      "snippet_ko": "타룬 아로라는 10b5-1 규정 기반 매매 계획을 실행하여 4,568주를 매각하는 한편, 523만 달러 상당의 75,141주는 보유했다. 이번 매각은 링센트럴(RingCentral) 주가가 1년 동안 126%의 수익률을 기록한 시점에 이루어졌다.",
-      "symbol": "",
-      "sentiment_score": 0.3591,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ringcentral-chief-accounting-officer-sells-192501820.html",
-      "cross_verified": true,
-      "published_at": "2026-09-12T19:25:01.000000Z"
-    },
-    {
-      "title": "How Much Do You Really Need Invested in Bristol Myers Squibb to Collect $10,000 a Year?",
-      "title_ko": "연간 10,000달러를 받기 위해서는 브리스톨 마이어스 스큅에 실제로 얼마를 투자해야 할까요?",
-      "snippet": "Collecting $10,000 a year from Bristol Myers Squibb sounds straightforward until you factor in a looming patent cliff that threatens the very earnings funding that payout. Here is what the math and the risk actually look like together.",
-      "snippet_ko": "브리스톨-마이어스 스큅으로부터 연간 1만 달러를 받는 것은, 그 배당금 지급의 근간이 되는 수익 자체를 위협하는 특허 만료 시점이 다가오고 있다는 점을 고려하기 전까지는 간단해 보입니다. 다음은 이러한 수치와 위험이 실제로 어떻게 맞물려 있는지를 보여줍니다.",
-      "symbol": "",
-      "sentiment_score": 0.2616,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/much-really-invested-bristol-myers-191537674.html",
-      "cross_verified": true,
-      "published_at": "2026-09-12T19:15:37.000000Z"
-    },
-    {
-      "title": "5 Big Yields That Could Be Slashed: Income Investors Beware",
-      "title_ko": "급감할 가능성이 있는 5대 고수익 종목: 소득형 투자자들은 주의하라",
-      "snippet": "Whirlpool's dividend suspension came with a 49% stock plunge, and four other high-yielding names are flashing the same warning signs that trapped income investors before the ax fell.",
-      "snippet_ko": "월풀의 배당 중단 소식에 주가가 49% 급락했으며, 다른 4개의 고배당 종목들도 배당 중단 조치가 내려지기 전 소득 투자자들을 곤경에 빠뜨렸던 것과 동일한 경고 신호를 보이고 있다.",
-      "symbol": "",
-      "sentiment_score": -0.1166,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-big-yields-could-slashed-153353087.html",
-      "cross_verified": true,
-      "published_at": "2026-09-12T15:33:53.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "iPhone 18 Pro Series Demand Surges, Wait Times Extend",
+      "title_ko": "아이폰 18 프로 시리즈 수요 급증, 대기 시간 길어지다",
+      "snippet": "On September 21, 2026, JPMorgan reported a significant increase in delivery wait times for Apple's iPhone 18 Pro series, indicating a strong demand for the late",
+      "snippet_ko": "2026년 9월 21일, JP모건은 애플의 아이폰 18 프로 시리즈 배송 대기 시간이 크게 늘어났다고 보고했으며, 이는 출시를 앞둔 해당 제품에 대한 수요가 강하다는 것을 시사한다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4136,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9089537/iphone-18-pro-series-demand-surges-wait-times-extend",
+      "cross_verified": true,
+      "published_at": "2026-09-21T11:52:21.000000Z"
+    },
+    {
+      "title": "Apple (AAPL) Neutral Rating Maintained by UBS with $296 Price Target",
+      "title_ko": "UBS, 애플(AAPL)에 대해 ‘중립’ 투자의견 유지… 목표주가 296달러 제시",
+      "snippet": "On September 21, 2026, UBS reaffirmed its \"neutral\" rating on Apple Inc. (AAPL) and maintained a price target of $296. Recent tracking data indicates that initi",
+      "snippet_ko": "2026년 9월 21일, UBS는 애플(AAPL)에 대한 ‘중립(Neutral)’ 투자의견을 재확인하고 목표주가를 296달러로 유지했다. 최근 추적 데이터에 따르면, 초기",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2433,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9089522/apple-aapl-neutral-rating-maintained-by-ubs-with-296-price-target",
+      "cross_verified": true,
+      "published_at": "2026-09-21T11:31:37.000000Z"
+    },
+    {
+      "title": "Merck: Time To Trim, Overvalued And Overbought (Rating Downgrade) (NYSE:MRK)",
+      "title_ko": "머크: 매도 시점, 과대평가 및 과매수 상태 (투자의견 하향 조정) (NYSE:MRK)",
+      "snippet": "Merck (MRK) outlook turns bearish after a 92% run: valuation now rich and overbought on mRNA vaccine hype.",
+      "snippet_ko": "머크(MRK) 주가, 92% 급등 후 전망이 약세로 돌아섰다: mRNA 백신 열풍으로 인해 현재 주가가 고평가되었으며 과매수 상태다.",
+      "symbol": "MRK",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4948262-merck-time-to-trim-overvalued-and-overbought-rating-downgrade",
+      "cross_verified": true,
+      "published_at": "2026-09-21T11:27:12.000000Z"
+    },
     {
       "title": "Meta Stock: Poised For Strong Long-Term Growth (NASDAQ:META)",
       "title_ko": "메타 주식: 강력한 장기 성장 전망 (나스닥: META)",
@@ -2367,42 +2403,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/predicting-intels-value-2030-could-144300174.html",
       "cross_verified": true,
       "published_at": "2026-09-13T14:43:00.000000Z"
-    },
-    {
-      "title": "Broadcom’s Anthropic Ramp Puts Google’s TPU Business in a Different Light",
-      "title_ko": "브로드컴의 앤트로픽 인수, 구글의 TPU 사업을 새로운 시각에서 바라보게 하다",
-      "snippet": "Broadcom's September 2 results show custom AI hardware turning into substantial sales.",
-      "snippet_ko": "브로드컴의 9월 2일 실적 발표에 따르면, 맞춤형 AI 하드웨어가 상당한 매출로 이어지고 있는 것으로 나타났다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.5071,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/broadcoms-anthropic-ramp-puts-googles-tpu-business-in-a-different-light-1836961/",
-      "cross_verified": true,
-      "published_at": "2026-09-13T11:38:04.000000Z"
-    },
-    {
-      "title": "Amazon’s Zoox Enters San Francisco’s Crowded Robotaxi Market, Taking Direct Aim at Waymo and Tesla",
-      "title_ko": "아마존의 ‘줌(Zoox)’, 샌프란시스코의 치열한 로봇택시 시장에 진출… 웨이모와 테슬라를 정면으로 겨냥",
-      "snippet": "According to an August 29 report, Amazon.com Inc.",
-      "snippet_ko": "8월 29일자 보도에 따르면, 아마존닷컴(Amazon.com Inc.)은",
-      "symbol": "AMZN",
-      "sentiment_score": 0.1879,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/amazons-zoox-enters-san-franciscos-crowded-robotaxi-market-taking-direct-aim-at-waymo-and-tesla-1827585/",
-      "cross_verified": true,
-      "published_at": "2026-09-13T11:25:58.000000Z"
-    },
-    {
-      "title": "From 2018 to 2022, more than 200,000 Break Free From Plastic volunteers audited waste in 84 countries; 56 companies produced more than half of all branded plastic pollution",
-      "title_ko": "2018년부터 2022년까지 84개국에서 20만 명 이상의 ‘Break Free From Plastic’ 자원봉사자들이 폐기물을 조사했으며, 56개 기업이 전체 브랜드 플라스틱 오염의 절반 이상을 발생시킨 것으로 나타났습니다.",
-      "snippet": "A new study reveals that just 56 companies are responsible for over half of the world's branded plastic pollution, highlighting the urgent need for corporate accountability and reduced plastic production. Discover which companies are at the forefront of this environmental crisis.",
-      "snippet_ko": "새로운 연구에 따르면, 전 세계 브랜드 플라스틱 오염의 절반 이상을 단 56개 기업이 유발하고 있는 것으로 드러났으며, 이는 기업의 책임 이행과 플라스틱 생산 감축이 시급함을 강조하고 있습니다. 이 환경 위기의 최전선에 서 있는 기업들이 어디인지 확인해 보세요.",
-      "symbol": "KO",
-      "sentiment_score": -0.3612,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/international/us/from-2018-to-2022-more-than-200000-break-free-from-plastic-volunteers-audited-waste-in-84-countries-56-companies-produced-more-than-half-of-all-branded-plastic-pollution/articleshow/134119806.cms",
-      "cross_verified": true,
-      "published_at": "2026-09-13T08:00:00.000000Z"
     }
   ]
 }
