@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-21T23:06:58.219931+00:00",
+  "updated_at": "2026-09-22T04:21:49.717516+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "US Explores Potash Supply from Belarus Amid Canada Trade Tensions (NTR)",
+      "title_ko": "캐나다와의 무역 긴장 속에서 미국, 벨라루스산 칼륨 공급 모색 (NTR)",
+      "snippet": "On September 21, 2026, amid escalating trade disputes with Canada, U.S. President Donald Trump announced that the U.S. is negotiating a significant agreement wi",
+      "snippet_ko": "2026년 9월 21일, 캐나다와의 무역 분쟁이 격화되는 가운데, 도널드 트럼프 미국 대통령은 미국이 캐나다와 중대한 협정을 협상 중이라고 발표했으며,",
+      "symbol": "",
+      "sentiment_score": 0.5048,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9090857/us-explores-potash-supply-from-belarus-amid-canada-trade-tensions-ntr",
+      "cross_verified": true,
+      "published_at": "2026-09-22T03:50:34.000000Z"
+    },
+    {
+      "title": "MEITAV INVESTMENT HOUSE LTD Trims Nayax Ltd (NYAX) Stake -- Shares Look 18% Undervalued on GF Value",
+      "title_ko": "MEITAV INVESTMENT HOUSE LTD, Nayax Ltd(NYAX) 지분 축소 -- GF Value 기준 주가, 18% 저평가된 것으로 분석",
+      "snippet": "A Minor Portfolio Adjustment in Nayax Ltd MEITAV INVESTMENT HOUSE LTD (Trades, Portfolio) disclosed a modest reduction in its position in Nayax Ltd (NYAX) on 20",
+      "snippet_ko": "Nayax Ltd에 대한 소폭의 포트폴리오 조정 MEITAV INVESTMENT HOUSE LTD (거래 내역, 포트폴리오)는 20일 Nayax Ltd(NYAX)에 대한 보유 지분을 소폭 줄였다고 밝혔다.",
+      "symbol": "",
+      "sentiment_score": 0.7375,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9090856/meitav-investment-house-ltd-trims-nayax-ltd-nyax-stake-shares-look-18-undervalued-on-gf-value",
+      "cross_verified": true,
+      "published_at": "2026-09-22T03:36:07.000000Z"
+    },
     {
       "title": "TOMZ Looks 80.1% Undervalued on GF Value™ Despite Financial Struggles",
       "title_ko": "TOMZ, 재정적 어려움에도 불구하고 GF Value™ 기준 80.1% 저평가된 것으로 분석",
@@ -1177,33 +1201,45 @@
       "url": "https://www.livemint.com/companies/news/zeta-targets-global-profitability-in-fy27-as-overseas-business-scales-11789282205322.html",
       "cross_verified": true,
       "published_at": "2026-09-13T09:56:48.000000Z"
-    },
-    {
-      "title": "Robinhood (HOOD) Expands Prediction Markets With Crypto.com Partnership",
-      "title_ko": "로빈후드(HOOD), 크립토닷컴과의 제휴를 통해 예측 시장 확대",
-      "snippet": "Robinhood Markets, Inc. (NASDAQ:HOOD) is continuing to position prediction markets as an important part of its broader growth strategy.",
-      "snippet_ko": "로빈후드 마켓츠(Robinhood Markets, Inc.)(나스닥: HOOD)는 예측 시장을 자사의 광범위한 성장 전략의 중요한 축으로 계속해서 자리매김하고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.5364,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/robinhood-hood-expands-prediction-markets-with-crypto-com-partnership-1835995/",
-      "cross_verified": true,
-      "published_at": "2026-09-13T09:49:28.000000Z"
-    },
-    {
-      "title": "Altria Group Stock: Recent Puffs Aren't Enough For An Upgrade (NYSE:MO)",
-      "title_ko": "알트리아 그룹 주가: 최근 상승세만으로는 등급 상향 조정에는 부족하다 (NYSE:MO)",
-      "snippet": "Altria Group's revenue and adjusted profits saw modest growth but volume declines in premium brands. Read why MO stock is reaffirmed as Hold.",
-      "snippet_ko": "알트리아 그룹의 매출과 조정 이익은 소폭 증가했으나, 프리미엄 브랜드의 판매량은 감소했습니다. MO 주식이 ‘보유(Hold)’ 등급을 재확인받은 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4945824-altria-groups-recent-puffs-arent-enough-for-an-upgrade",
-      "cross_verified": true,
-      "published_at": "2026-09-13T03:37:45.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "AI trade roars back as Meta’s personal agent fuels optimism",
+      "title_ko": "메타의 개인 비서가 낙관론을 부추기며 AI 거래가 다시 활기를 띠고 있다",
+      "snippet": "AI stocks surge as Meta's personal agent boosts optimism, driving gains for chipmakers and revitalizing the tech sector.",
+      "snippet_ko": "메타의 개인 비서 서비스가 시장 낙관론을 부추기면서 AI 관련 주가가 급등했고, 이로 인해 반도체 업체들의 주가가 상승하며 기술주 전반에 활기를 불어넣고 있다.",
+      "symbol": "META",
+      "sentiment_score": 0.802,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/markets/ai-trade-roars-back-as-metas-personal-agent-fuels-optimism/article71494034.ece",
+      "cross_verified": true,
+      "published_at": "2026-09-22T03:38:26.000000Z"
+    },
+    {
+      "title": "Thrivent Financial for Lutherans Trims Gloo Holdings Inc (GLOO) Stake by 1.40%",
+      "title_ko": "루터교인을 위한 쓰리벤트 파이낸셜(Thrivent Financial for Lutherans), 글루 홀딩스(Gloo Holdings Inc, GLOO) 지분 1.40% 축소",
+      "snippet": "A Modest Reduction in a Recently Public Name On Sept. 15, 2026, Thrivent Financial for Lutherans (Trades, Portfolio) executed a sale of 57,000 shares of Gloo Ho",
+      "snippet_ko": "최근 주목받던 기업의 주가가 소폭 하락 2026년 9월 15일, Thrivent Financial for Lutherans(거래, 포트폴리오)는 Gloo Ho 주식 57,000주를 매각했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3612,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9090854/thrivent-financial-for-lutherans-trims-gloo-holdings-inc-gloo-stake-by-140",
+      "cross_verified": true,
+      "published_at": "2026-09-22T03:35:13.000000Z"
+    },
+    {
+      "title": "HRT Financial LP Trims Generation Income Properties Inc (GIPR) Stake -- Shares Trade 91% Below GF Value",
+      "title_ko": "HRT Financial LP, Generation Income Properties Inc(GIPR) 지분 축소 -- 주가, GF 가치 대비 91% 하락",
+      "snippet": "A Strategic Reduction in a Deep-Value REIT Position On Sept. 11, 2026, HRT Financial LP executed a reduction in its position in Generation Income Properties Inc",
+      "snippet_ko": "저평가된 REIT 포지션의 전략적 축소: 2026년 9월 11일, HRT Financial LP는 Generation Income Properties Inc에 대한 포지션을 축소했습니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.8178,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9090851/hrt-financial-lp-trims-generation-income-properties-inc-gipr-stake-shares-trade-91-below-gf-value",
+      "cross_verified": true,
+      "published_at": "2026-09-22T03:33:31.000000Z"
+    },
     {
       "title": "META Looks 12.9% Undervalued on GF Value™ as Options Surge Signals Bullish Sentiment",
       "title_ko": "GF Value™에 따르면 META는 12.9% 저평가된 것으로 나타나며, 옵션 거래량 급증은 강세 심리를 시사한다",
@@ -2367,42 +2403,6 @@
       "url": "https://thesmartinvestor.com.sg/why-you-should-still-invest-in-us-stocks-despite-market-volatility/",
       "cross_verified": true,
       "published_at": "2026-09-14T03:30:00.000000Z"
-    },
-    {
-      "title": "US Physical Therapy (USPH) Taps A Global Finance Veteran As CFO",
-      "title_ko": "US Physical Therapy(USPH), 글로벌 금융계 베테랑을 CFO로 선임",
-      "snippet": "On August 14, US Physical Therapy (NYSE:USPH) announced that Nchacha Etta will become the company's Executive Vice President and Chief Financial Officer, effective September 1.",
-      "snippet_ko": "8월 14일, US Physical Therapy(NYSE:USPH)는 Nchacha Etta가 9월 1일부로 회사의 부사장 겸 최고재무책임자(CFO)로 취임할 것이라고 발표했다.",
-      "symbol": "KO",
-      "sentiment_score": 0.074,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/us-physical-therapy-usph-taps-a-global-finance-veteran-as-cfo-1837182/",
-      "cross_verified": true,
-      "published_at": "2026-09-14T02:31:55.000000Z"
-    },
-    {
-      "title": "Apple: Duo Won't Move The Needle (NASDAQ:AAPL)",
-      "title_ko": "애플: 듀오는 큰 영향을 미치지 못할 것 (나스닥:AAPL)",
-      "snippet": "Apple Inc. trades at all-time highs despite lacking a transformative AI or hardware catalyst. Read why I remain ultra-Bearish on AAPL stock.",
-      "snippet_ko": "애플(Apple Inc.)은 획기적인 AI나 하드웨어 관련 호재가 없음에도 불구하고 주가가 사상 최고치를 기록하고 있습니다. 제가 AAPL 주식에 대해 여전히 극도로 비관적인 입장을 고수하는 이유를 확인해 보세요.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4945845-apple-duo-wont-move-the-needle",
-      "cross_verified": true,
-      "published_at": "2026-09-14T00:00:00.000000Z"
-    },
-    {
-      "title": "Coca-Cola vs. Pepsi: Five Years, Two Completely Different Outcomes",
-      "title_ko": "코카콜라 대 펩시: 5년, 정반대의 두 가지 결과",
-      "snippet": "Coke and Pepsi have shared the same grocery aisle for decades, but their five-year stock charts now look like they belong to completely different industries. One structural difference in their business models explains the split, and it raises a pointed question for income investors eyeing Pepsi's bigger yield.",
-      "snippet_ko": "코카콜라와 펩시는 수십 년 동안 식료품점 진열대에서 나란히 자리해 왔지만, 최근 5년간의 주가 차트를 보면 마치 완전히 다른 업종에 속한 기업처럼 보입니다. 두 기업의 비즈니스 모델에 존재하는 한 가지 구조적 차이가 이러한 격차를 설명해 주며, 이는 펩시의 더 높은 배당 수익률을 노리는 배당 투자자들에게 날카로운 의문을 제기합니다.",
-      "symbol": "KO",
-      "sentiment_score": -0.3321,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-vs-pepsi-five-211051894.html",
-      "cross_verified": true,
-      "published_at": "2026-09-13T21:10:51.000000Z"
     }
   ]
 }
