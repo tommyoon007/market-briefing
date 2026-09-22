@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-22T16:42:18.329940+00:00",
+  "updated_at": "2026-09-22T21:07:47.094975+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Smiths Group PLC (SMGKF) (FY 2026) Earnings Call Highlights: Margin Expansion, DRC Integration, and a Leaner Industrial Focus",
+      "title_ko": "스미스 그룹 PLC (SMGKF) (2026 회계연도) 실적 발표 주요 내용: 마진 확대, DRC 통합, 그리고 산업 부문의 효율화",
+      "snippet": "Organic Revenue Growth: 1.2% to £1.9 billion for continuing operations (Smiths).Headline Operating Profit: Up 1.9% organically to £399 million.Headline Operat",
+      "snippet_ko": "핵심 매출 성장률: 계속 사업 부문 기준 1.2% 증가하여 19억 파운드 기록 (Smiths). 핵심 영업이익: 유기적 성장률 1.9% 증가하여 3억 9,900만 파운드 기록. 핵심 영업",
+      "symbol": "",
+      "sentiment_score": 0.1903,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9092286/smiths-group-plc-smgkf-fy-2026-earnings-call-highlights-margin-expansion-drc-integration-and-a-leaner-industrial-focus",
+      "cross_verified": true,
+      "published_at": "2026-09-22T21:00:23.000000Z"
+    },
+    {
+      "title": "BCB Bancorp (BCBP) CEO Thomas Obrien Buys 160,000 Shares in Open-Market Purchase",
+      "title_ko": "BCB Bancorp(BCBP)의 토마스 오브라이언 CEO, 공개 시장에서 주식 16만 주 매입",
+      "snippet": "In a notable display of insider confidence, Thomas Obrien, Chief Executive Officer of BCB Bancorp Inc (BCBP), purchased 160,000 shares of the company's common s",
+      "snippet_ko": "내부자의 확고한 자신감을 보여주는 주목할 만한 사례로, BCB Bancorp Inc(BCBP)의 최고경영자(CEO)인 토마스 오브라이언이 자사 보통주 16만 주를 매수했다.",
+      "symbol": "",
+      "sentiment_score": 0.4564,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9092285/bcb-bancorp-bcbp-ceo-thomas-obrien-buys-160000-shares-in-openmarket-purchase",
+      "cross_verified": true,
+      "published_at": "2026-09-22T21:00:22.000000Z"
+    },
+    {
+      "title": "DAVIDsTEA Inc (DTEAF) (Q2 2026) Earnings Call Highlights: Record Gross Margin and Accelerating Store Growth Offset US Tariff Headwinds",
+      "title_ko": "DAVIDsTEA Inc (DTEAF) (2026년 2분기) 실적 발표 주요 내용: 사상 최대의 매출총이익과 가속화되는 매장 확장세가 미국 관세로 인한 역풍을 상쇄",
+      "snippet": "Release Date: September 22, 2026For the complete transcript of the earnings call, please refer to the full earnings call transcript. Positive Points Brick-and-m",
+      "snippet_ko": "발표일: 2026년 9월 22일. 실적 발표 회의의 전체 기록은 실적 발표 회의 전문을 참조하시기 바랍니다. 긍정적 요인: 오프라인 매장-m",
+      "symbol": "",
+      "sentiment_score": 0.3412,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9092283/davidstea-inc-dteaf-q2-2026-earnings-call-highlights-record-gross-margin-and-accelerating-store-growth-offset-us-tariff-headwinds",
+      "cross_verified": true,
+      "published_at": "2026-09-22T21:00:17.000000Z"
+    },
     {
       "title": "DAVA Maintained by Deutsche Bank -- Price Target Lowered to $2.00",
       "title_ko": "DAVA, 도이체방크가 애널리스트 리포트를 유지하며 목표 주가를 2.00달러로 하향 조정",
@@ -1165,45 +1201,45 @@
       "url": "https://www.business-standard.com/world-news/softbank-group-gets-upsized-11-9-billion-loan-in-openai-funding-push-126091400091_1.html",
       "cross_verified": true,
       "published_at": "2026-09-14T03:33:33.000000Z"
-    },
-    {
-      "title": "A $100 Monthly Investment in VGT Could Grow Into This Over 20 Years",
-      "title_ko": "VGT에 매달 100달러씩 투자하면 20년 후 이만큼 불어날 수 있습니다",
-      "snippet": "This high-performing investment vehicle turned relatively small capital inflows into a huge sum.",
-      "snippet_ko": "이 고수익 투자 수단은 비교적 소액의 자본 유입을 막대한 금액으로 불려냈다.",
-      "symbol": "",
-      "sentiment_score": 0.2009,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/100-monthly-investment-vgt-could-212000615.html",
-      "cross_verified": true,
-      "published_at": "2026-09-13T21:20:00.000000Z"
-    },
-    {
-      "title": "Cathie Wood Sees an Economic Boom Wall Street Isn’t Pricing In",
-      "title_ko": "캐시 우드, 월스트리트가 가격에 반영하지 않은 경제 호황을 전망",
-      "snippet": "Cathie Wood is invoking the Industrial Revolution to argue Wall Street is anchored to a growth trend that artificial intelligence and converging technologies are about to shatter. The gap between what the consensus expects and what she sees coming is exactly where the portfolio opportunity lives.",
-      "snippet_ko": "캐시 우드는 산업혁명을 예로 들며, 월스트리트가 인공지능과 융합 기술이 곧 무너뜨릴 성장 추세에 얽매여 있다고 주장한다. 시장 컨센서스가 예상하는 바와 그녀가 전망하는 것 사이의 격차야말로 바로 포트폴리오 투자 기회가 도사리고 있는 곳이다.",
-      "symbol": "",
-      "sentiment_score": 0.1027,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/economy/articles/cathie-wood-sees-economic-boom-211005109.html",
-      "cross_verified": true,
-      "published_at": "2026-09-13T21:10:05.000000Z"
-    },
-    {
-      "title": "Insidious: Out of the Further OTT release update: When and where will Amelia Eve’s horror movie stream after theatrical run",
-      "title_ko": "《인시디어스: 아웃 오브 더 퍼더》 OTT 공개 소식: 아멜리아 이브 주연의 이 공포 영화는 극장 상영 종료 후 언제, 어디서 스트리밍될까?",
-      "snippet": "Insidious: Out of the Further is the sixth instalment in the popular horror franchise and follows Gemma, a young mother who discovers that she can enter the terrifying realm known as The Further. The film, which released in theatres on August 21, 2026, has also been performing strongly at the box office. Heres everything to know about its expected Netflix OTT release date, cast, story and streaming details.",
-      "snippet_ko": "《인시디어스: 아웃 오브 더 퍼더》는 인기 호러 시리즈의 여섯 번째 작품으로, ‘더 퍼더’라는 공포의 세계로 들어갈 수 있다는 사실을 알게 된 젊은 엄마 젬마의 이야기를 다룹니다. 2026년 8월 21일 극장에서 개봉한 이 영화는 박스오피스에서도 호조를 보이고 있다. 넷플릭스 OTT 공개 예정일, 출연진, 줄거리 및 스트리밍 정보에 대해 알아야 할 모든 내용을 소개한다.",
-      "symbol": "",
-      "sentiment_score": 0.7184,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/insidious-out-of-the-further-ott-release-update-when-and-where-will-amelia-eves-horror-movie-stream-after-theatrical-run/articleshow/134214640.cms",
-      "cross_verified": true,
-      "published_at": "2026-09-13T17:42:26.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "META Looks 13.5% Undervalued on GF Value™ as Muse App Sparks Growth Optimism",
+      "title_ko": "‘뮤즈’ 앱이 성장에 대한 낙관론을 불러일으키면서, META가 GF Value™ 기준 13.5% 저평가된 것으로 나타났습니다.",
+      "snippet": "On September 22, 2026, Meta Platforms Inc (NASDAQ: META) captured investor attention as its newly launched AI application, Muse, rapidly gained consumer tractio",
+      "snippet_ko": "2026년 9월 22일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)가 새로 출시한 AI 애플리케이션 ‘뮤즈(Muse)’가 소비자들 사이에서 빠르게 인기를 얻으면서 투자자들의 주목을 받았습니다.",
+      "symbol": "META",
+      "sentiment_score": 0.474,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9092242/meta-looks-135-undervalued-on-gf-value-as-muse-app-sparks-growth-optimism",
+      "cross_verified": true,
+      "published_at": "2026-09-22T19:56:58.000000Z"
+    },
+    {
+      "title": "Meta: AI Monetization Potential Is Finally Evident (NASDAQ:META)",
+      "title_ko": "메타: AI를 통한 수익화 가능성이 드디어 드러나고 있다 (나스닥:META)",
+      "snippet": "Meta Platforms, Inc. looks undervalued after its post-earnings dip—capex fears may be overdone as revenue jumps and new monetization grows. Click for this update.",
+      "snippet_ko": "메타 플랫폼스(Meta Platforms, Inc.)는 실적 발표 후 주가가 일시적으로 하락한 가운데 저평가된 것으로 보입니다. 매출이 급증하고 새로운 수익 창출 방안이 확대됨에 따라 자본 지출에 대한 우려는 지나친 것일 수 있습니다. 이 최신 소식을 보려면 여기를 클릭하세요.",
+      "symbol": "META",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4948763-meta-ai-monetization-potential-is-finally-evident",
+      "cross_verified": true,
+      "published_at": "2026-09-22T19:27:54.000000Z"
+    },
+    {
+      "title": "AAPL Looks 19.1% Overvalued on GF Value™ as Insider Selling Persists",
+      "title_ko": "내부자 매도세가 지속되는 가운데, GF Value™ 기준 AAPL은 19.1% 과대평가된 것으로 나타남",
+      "snippet": "On September 22, 2026, Apple Inc (AAPL) revealed it is developing a screenless fitness tracker designed to compete with Whoop and similar wearable brands. The d",
+      "snippet_ko": "2026년 9월 22일, 애플(AAPL)은 Whoop 및 유사한 웨어러블 브랜드들과 경쟁하기 위해 설계된 화면이 없는 피트니스 트래커를 개발 중이라고 밝혔다. 이 d",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3985,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9092188/aapl-looks-191-overvalued-on-gf-value-as-insider-selling-persists",
+      "cross_verified": true,
+      "published_at": "2026-09-22T18:59:07.000000Z"
+    },
     {
       "title": "Meta Platforms Inc (META): GF Score of 97 Signals Strong Outperformance Potential",
       "title_ko": "메타 플랫폼스(META): GF 점수 97점으로 강력한 초과수익 달성 가능성 시사",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9080131/is-broadcom-inc-avgo-a-bargain-after-48-drop-gf-value-says-undervalued",
       "cross_verified": true,
       "published_at": "2026-09-14T22:03:13.000000Z"
-    },
-    {
-      "title": "A Look at Alphabet Inc (GOOGL) After 3.2% Gain -- GF Value $256.56 vs Price $349.39",
-      "title_ko": "3.2% 상승한 알파벳(GOOGL) 현황 살펴보기 — GF 가치 $256.56 vs 주가 $349.39",
-      "snippet": "On September 14, 2026, Alphabet Inc (GOOGL) shares rose 3.2%, bringing the current price to $349.39. The stock has fluctuated within a 52-week range of $235.84",
-      "snippet_ko": "2026년 9월 14일, 알파벳(Alphabet Inc, GOOGL) 주가는 3.2% 상승하여 현재 주가는 349.39달러를 기록했습니다. 이 주식은 지난 52주 동안 235.84달러의 등락폭을 보였습니다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.6375,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9080125/a-look-at-alphabet-inc-googl-after-32-gain-gf-value-25656-vs-price-34939",
-      "cross_verified": true,
-      "published_at": "2026-09-14T22:01:23.000000Z"
-    },
-    {
-      "title": "Merck & Co., Inc. (MRK) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
-      "title_ko": "머크 앤 컴퍼니(Merck & Co., Inc., MRK), 모건 스탠리 제24회 연례 글로벌 헬스케어 컨퍼런스에서 발표: 발표록",
-      "snippet": "Merck & Co., Inc. (MRK) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 3:20 PM EDTCompany ParticipantsRobert Davis -...",
-      "snippet_ko": "머크 앤 컴퍼니(Merck & Co., Inc., MRK), 모건 스탠리 제24회 연례 글로벌 헬스케어 컨퍼런스, 2026년 9월 14일 오후 3시 20분(EDT) 참가 기업 대표 로버트 데이비스 -...",
-      "symbol": "MRK",
-      "sentiment_score": 0.3567,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4946226-merck-and-co-inc-mrk-presents-at-morgan-stanley-24th-annual-global-healthcare-conference",
-      "cross_verified": true,
-      "published_at": "2026-09-14T21:01:43.000000Z"
-    },
-    {
-      "title": "AMZN Looks 2.6% Overvalued on GF Value™",
-      "title_ko": "GF Value™에 따르면 AMZN은 2.6% 과대평가된 것으로 보인다",
-      "snippet": "On September 14, 2026, Amazon.com Inc (NASDAQ: AMZN) announced a strategic partnership with Netflix and YouTube to form the Streaming Access and Choice Alliance",
-      "snippet_ko": "2026년 9월 14일, 아마존닷컴(Amazon.com Inc, 나스닥: AMZN)은 넷플릭스(Netflix) 및 유튜브(YouTube)와 전략적 파트너십을 체결하여 ‘스트리밍 접근 및 선택 연합(Streaming Access and Choice Alliance)’을 출범한다고 발표했다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.4498,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9079841/amzn-looks-26-overvalued-on-gf-value",
-      "cross_verified": true,
-      "published_at": "2026-09-14T18:26:51.000000Z"
     }
   ]
 }
