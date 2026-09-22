@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-22T04:21:49.717516+00:00",
+  "updated_at": "2026-09-22T11:20:14.577686+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "AI Needs More Electricity, And NextEra Is Building Ahead Of Demand (NYSE:NEE)",
+      "title_ko": "AI에는 더 많은 전력이 필요하며, 넥스트에라(NextEra)는 수요 증가에 대비해 발전 설비를 확충하고 있다 (NYSE:NEE)",
+      "snippet": "NextEra Energy remains a strong buy as surging AI power demand and solid execution expand its upside potential to a $150 target. Learn more about NEE stock here.",
+      "snippet_ko": "인공지능(AI) 관련 전력 수요의 급증과 탄탄한 실적 수행으로 넥스트에라 에너지(NextEra Energy)의 상승 여력이 150달러 목표가까지 확대됨에 따라, 이 종목은 여전히 강력한 매수 추천 대상입니다. NEE 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.7503,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4948566-ai-needs-more-electricity-and-nextera-stock-building-ahead-of-demand",
+      "cross_verified": true,
+      "published_at": "2026-09-22T11:00:36.000000Z"
+    },
+    {
+      "title": "J Looks 31.0% Overvalued on GF Value™",
+      "title_ko": "GF Value™에 따르면 J는 31.0% 과대평가된 것으로 나타났습니다.",
+      "snippet": "On September 22, 2026, Jacobs Solutions Inc (NYSE: J) announced it has secured a major contract with Germany's federal radioactive waste disposal entity to prov",
+      "snippet_ko": "2026년 9월 22일, 제이콥스 솔루션스(Jacobs Solutions Inc, NYSE: J)는 독일 연방 방사성 폐기물 처리 기관과 주요 계약을 체결했다고 발표하며, 이를 통해...",
+      "symbol": "",
+      "sentiment_score": 0.34,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9091243/j-looks-310-overvalued-on-gf-value",
+      "cross_verified": true,
+      "published_at": "2026-09-22T10:56:36.000000Z"
+    },
+    {
+      "title": "VICR Looks 228.1% Overvalued on GF Value™",
+      "title_ko": "GF Value™에 따르면 VICR은 228.1% 과대평가된 것으로 나타났습니다.",
+      "snippet": "On September 22, 2026, Vicor Corp (NASDAQ: VICR) shares surged 10% after the company raised its Q3 revenue forecast, now expecting more than 20% sequential grow",
+      "snippet_ko": "2026년 9월 22일, Vicor Corp(나스닥: VICR)은 3분기 매출 전망치를 상향 조정하고 전분기 대비 20% 이상의 성장을 예상함에 따라 주가가 10% 급등했다.",
+      "symbol": "",
+      "sentiment_score": 0.3508,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9091241/vicr-looks-2281-overvalued-on-gf-value",
+      "cross_verified": true,
+      "published_at": "2026-09-22T10:55:46.000000Z"
+    },
     {
       "title": "US Explores Potash Supply from Belarus Amid Canada Trade Tensions (NTR)",
       "title_ko": "캐나다와의 무역 긴장 속에서 미국, 벨라루스산 칼륨 공급 모색 (NTR)",
@@ -1165,45 +1201,45 @@
       "url": "https://economictimes.indiatimes.com/magazines/panache/19-year-old-youtuber-builds-300-sq-ft-tiny-home-on-parents-property-for-45000-heres-why-more-gen-z-are-choosing-to-live-independently/articleshow/134206115.cms",
       "cross_verified": true,
       "published_at": "2026-09-13T14:49:23.000000Z"
-    },
-    {
-      "title": "NEW MID-TERM FINANCIAL TARGETS - ISS TO ACCELERATE HIGHER-QUALITY GROWTH AND EXPAND MARGINS",
-      "title_ko": "새로운 중기 재무 목표 - ISS, 고품질 성장 가속화 및 마진 확대 추진",
-      "snippet": "Company Announcement",
-      "snippet_ko": "회사 공지사항",
-      "symbol": "",
-      "sentiment_score": 0.497,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/13/tmt-newswire/globenewswire/new-mid-term-financial-targets-iss-to-accelerate-higher-quality-growth-and-expand-margins/2424023",
-      "cross_verified": true,
-      "published_at": "2026-09-13T14:48:22.000000Z"
-    },
-    {
-      "title": "Upwork: Continued Client Losses Can't Be Ignored (NASDAQ:UPWK)",
-      "title_ko": "업워크: 계속되는 고객 이탈은 더 이상 무시할 수 없다 (나스닥:UPWK)",
-      "snippet": "Upwork faces AI disruption and client declines despite low valuation. Click for more on UPWK stock.",
-      "snippet_ko": "업워크(Upwork)는 낮은 기업 가치에도 불구하고 AI로 인한 시장 변화와 고객 감소에 직면해 있다. UPWK 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": -0.3224,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4945839-upwork-continued-client-losses-cant-be-ignored",
-      "cross_verified": true,
-      "published_at": "2026-09-13T10:36:20.000000Z"
-    },
-    {
-      "title": "Zeta targets global profitability in FY27 as overseas business scales",
-      "title_ko": "제타, 해외 사업 확대에 힘입어 27 회계연도 글로벌 수익성 달성 목표",
-      "snippet": "The banking-tech firm expects years of investment in international markets to start translating into revenue, while larger bank partnerships drive its India expansion.",
-      "snippet_ko": "이 뱅킹 테크 기업은 국제 시장에 수년간 투자해 온 성과가 이제 매출로 이어지기 시작할 것으로 기대하는 한편, 대형 은행들과의 파트너십을 통해 인도 시장 진출을 가속화하고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.2058,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/news/zeta-targets-global-profitability-in-fy27-as-overseas-business-scales-11789282205322.html",
-      "cross_verified": true,
-      "published_at": "2026-09-13T09:56:48.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "AAPL Looks 18.2% Overvalued on GF Value™ as Insider Selling Persists",
+      "title_ko": "내부자 매도가 지속되는 가운데, GF Value™ 기준 AAPL은 18.2% 과대평가된 것으로 나타남",
+      "snippet": "On September 22, 2026, Goldman Sachs projected a 13.7% rise in the S&P 500 over the next year, setting a target of 8,700 from the current 7,651. The firm also e",
+      "snippet_ko": "2026년 9월 22일, 골드만삭스는 향후 1년 동안 S&P 500 지수가 13.7% 상승할 것으로 전망하며, 현재 7,651에서 8,700까지 오를 것으로 예상했다. 또한 이 회사는 e",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5251,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9091240/aapl-looks-182-overvalued-on-gf-value-as-insider-selling-persists",
+      "cross_verified": true,
+      "published_at": "2026-09-22T10:55:25.000000Z"
+    },
+    {
+      "title": "Wall Street Breakfast Podcast: Tech Rally Takes A Breath",
+      "title_ko": "월스트리트 브렉퍼스트 팟캐스트: 기술주 상승세가 잠시 주춤",
+      "snippet": "Can Monday’s rally survive Tuesday’s quiet open? McDonald's is testing a new item on the menu: ads. CarMax cuts jobs again as the used-car market refuses to shift gears.",
+      "snippet_ko": "월요일의 상승세가 화요일의 침체된 개장 속에서도 이어질 수 있을까? 맥도날드가 메뉴에 새로운 항목을 추가해 시험 중인데, 바로 ‘광고’다. 중고차 시장이 회복 기미를 보이지 않자 카맥스가 다시 한 번 인력을 감축했다.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.0071,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4948570-wall-street-breakfast-podcast-tech-rally-takes-a-breath",
+      "cross_verified": true,
+      "published_at": "2026-09-22T10:15:00.000000Z"
+    },
+    {
+      "title": "Coca-Cola and Zepto Turn Spain's FIFA World Cup Victory Into a collectible Piece of History",
+      "title_ko": "코카콜라와 제프토, 스페인의 FIFA 월드컵 우승을 기념할 만한 역사적 소장품으로 탄생시키다",
+      "snippet": "Coca-Cola and Zepto Turn Spain's FIFA World Cup Victory Into a collectible Piece of History",
+      "snippet_ko": "코카콜라와 제프토, 스페인의 FIFA 월드컵 우승을 소장용 역사적 기념품으로 탄생시키다",
+      "symbol": "KO",
+      "sentiment_score": 0.0953,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/coca-cola-and-zepto-turn-spains-fifa-world-cup-victory-into-a-collectible-piece-of-history/article71495013.ece",
+      "cross_verified": true,
+      "published_at": "2026-09-22T10:07:25.000000Z"
+    },
     {
       "title": "AI trade roars back as Meta’s personal agent fuels optimism",
       "title_ko": "메타의 개인 비서가 낙관론을 부추기며 AI 거래가 다시 활기를 띠고 있다",
@@ -2367,42 +2403,6 @@
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-ai-stocks-fall-as-industry-chiefs-call-for-slowing-development/articleshow/134239897.cms",
       "cross_verified": true,
       "published_at": "2026-09-14T11:13:00.000000Z"
-    },
-    {
-      "title": "Wall Street Breakfast Podcast: Oil's New Chokepoint",
-      "title_ko": "월스트리트 브렉퍼스트 팟캐스트: 석유의 새로운 병목 지점",
-      "snippet": "Another reason oil is sitting above $100. Novo Nordisk is dropping half its name. Trump is making the AI case for speed over caution.",
-      "snippet_ko": "유가 $100 선을 유지하고 있는 또 다른 이유. 노보 노르디스크가 사명에서 ‘노보’를 빼기로 했다. 트럼프는 신중함보다 속도를 중시해야 한다는 점을 인공지능(AI)을 예로 들어 주장하고 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4945957-wall-street-breakfast-podcast-oils-new-chokepoint",
-      "cross_verified": true,
-      "published_at": "2026-09-14T10:55:00.000000Z"
-    },
-    {
-      "title": "Costco Hiked Its Dividend by 13%. Here Is What a $10,000 Investment Earns Annually.",
-      "title_ko": "코스트코가 배당금을 13% 인상했습니다. 1만 달러를 투자했을 때 연간 수익은 다음과 같습니다.",
-      "snippet": "The annual dividend amount is misleading because Costco is a special case when it comes to dividends.",
-      "snippet_ko": "코스트코는 배당금 측면에서 특별한 경우이기 때문에 연간 배당금 액수는 오해를 불러일으킬 수 있습니다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.0976,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/costco-hiked-dividend-13-10-114200655.html",
-      "cross_verified": true,
-      "published_at": "2026-09-14T11:42:00.000000Z"
-    },
-    {
-      "title": "Why You Should Still Invest in US Stocks Despite Market Volatility",
-      "title_ko": "시장 변동성에도 불구하고 여전히 미국 주식에 투자해야 하는 이유",
-      "snippet": "Short-term volatility does not undermine the long-term case for US stocks – here's why Singapore investors may still want exposure.",
-      "snippet_ko": "단기적인 변동성이 미국 주식의 장기적 투자 매력에 타격을 주지는 않는다. 싱가포르 투자자들이 여전히 미국 주식에 투자해야 할 이유가 여기에 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.6447,
-      "source": "thesmartinvestor.com.sg",
-      "url": "https://thesmartinvestor.com.sg/why-you-should-still-invest-in-us-stocks-despite-market-volatility/",
-      "cross_verified": true,
-      "published_at": "2026-09-14T03:30:00.000000Z"
     }
   ]
 }
