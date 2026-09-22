@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-22T11:20:14.577686+00:00",
+  "updated_at": "2026-09-22T16:42:18.329940+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "DAVA Maintained by Deutsche Bank -- Price Target Lowered to $2.00",
+      "title_ko": "DAVA, 도이체방크가 애널리스트 리포트를 유지하며 목표 주가를 2.00달러로 하향 조정",
+      "snippet": "On October 10, 2023, Deutsche Bank maintained a Hold rating on Endava (DAVA). The price target has been adjusted down from $3.00 to $2.00, reflecting a signific",
+      "snippet_ko": "2023년 10월 10일, 도이체방크는 엔다바(DAVA)에 대해 ‘보유(Hold)’ 투자의견을 유지했습니다. 목표 주가는 3.00달러에서 2.00달러로 하향 조정되었으며, 이는 상당한",
+      "symbol": "",
+      "sentiment_score": 0.3613,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9092025/dava-maintained-by-deutsche-bank-price-target-lowered-to-200",
+      "cross_verified": true,
+      "published_at": "2026-09-22T16:02:44.000000Z"
+    },
+    {
+      "title": "CRH Maintained at Buy by UBS -- Price Target Lowered to $135",
+      "title_ko": "UBS, CRH에 대해 ‘매수’ 추천 유지… 목표주가 135달러로 하향 조정",
+      "snippet": "CRH PLC Analyst Rating Update On October 3, 2023, UBS maintained a Buy rating on CRH PLC (CRH), adjusting the price target down from $147 to $135, reflecting",
+      "snippet_ko": "CRH PLC 애널리스트 평가 업데이트 2023년 10월 3일, UBS는 CRH PLC(CRH)에 대한 ‘매수(Buy)’ 투자의견을 유지하면서, 목표 주가를 147달러에서 135달러로 하향 조정했는데, 이는 다음을 반영한 것이다.",
+      "symbol": "",
+      "sentiment_score": 0.4829,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9092022/crh-maintained-at-buy-by-ubs-price-target-lowered-to-135",
+      "cross_verified": true,
+      "published_at": "2026-09-22T16:01:25.000000Z"
+    },
     {
       "title": "AI Needs More Electricity, And NextEra Is Building Ahead Of Demand (NYSE:NEE)",
       "title_ko": "AI에는 더 많은 전력이 필요하며, 넥스트에라(NextEra)는 수요 증가에 대비해 발전 설비를 확충하고 있다 (NYSE:NEE)",
@@ -1177,33 +1201,57 @@
       "url": "https://economictimes.indiatimes.com/magazines/panache/insidious-out-of-the-further-ott-release-update-when-and-where-will-amelia-eves-horror-movie-stream-after-theatrical-run/articleshow/134214640.cms",
       "cross_verified": true,
       "published_at": "2026-09-13T17:42:26.000000Z"
-    },
-    {
-      "title": "On Second Thought, Never Mind: Here’s Why ORCL’s Larry Ellison Just Canceled $7.5 Billion Stock Sale",
-      "title_ko": "다시 생각해보니, 그만두기로 했습니다: ORCL의 래리 엘리슨이 75억 달러 규모의 주식 매각을 막 취소한 이유는 바로 이것입니다",
-      "snippet": "Larry Ellison had a $7.5 billion Oracle stock sale locked and loaded, then quietly walked away without explanation. What he did instead says everything about where he thinks the company is headed.",
-      "snippet_ko": "래리 엘리슨은 75억 달러 규모의 오라클 주식 매각을 거의 마무리 지은 상태였으나, 아무런 설명도 없이 조용히 물러났다. 그가 대신 취한 행동은 그가 회사의 미래 방향을 어떻게 보고 있는지를 여실히 보여준다.",
-      "symbol": "",
-      "sentiment_score": 0.1821,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/second-thought-never-mind-why-145340407.html",
-      "cross_verified": true,
-      "published_at": "2026-09-13T14:53:40.000000Z"
-    },
-    {
-      "title": "19-year-old YouTuber builds 300-sq ft. tiny home on parents’ property for $45,000. Here's why more Gen Z are choosing to live independently",
-      "title_ko": "19세 유튜버가 부모님 땅에 45,000달러를 들여 300제곱피트 규모의 작은 집을 지었다. Z세대가 독립적인 생활을 선택하는 이유가 여기에 있다.",
-      "snippet": "A nineteen-year-old built her own tiny home on her parents' property, avoiding rent. This trend highlights young Americans seeking independence and affordable housing solutions. Rising home prices and rents are making traditional living arrangements difficult for many. Accessory Dwelling Units, or ADUs, offer smaller, independent living spaces on existing land. This innovative approach provides privacy and lower housing costs for the next generation.",
-      "snippet_ko": "19세 소녀가 부모님의 부지에 직접 작은 집을 지어 월세 부담을 피했습니다. 이러한 추세는 독립을 추구하고 저렴한 주거 해결책을 모색하는 미국 젊은이들의 현실을 잘 보여줍니다. 주택 가격과 임대료의 상승으로 인해 많은 사람들이 전통적인 주거 방식을 유지하기 어려워지고 있습니다. 부속 주거 단위(ADU)는 기존 부지 내에 더 작고 독립적인 주거 공간을 제공합니다. 이러한 혁신적인 접근 방식은 차세대에게 사생활 보호와 낮은 주거 비용을 보장합니다.",
-      "symbol": "",
-      "sentiment_score": 0.2732,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/19-year-old-youtuber-builds-300-sq-ft-tiny-home-on-parents-property-for-45000-heres-why-more-gen-z-are-choosing-to-live-independently/articleshow/134206115.cms",
-      "cross_verified": true,
-      "published_at": "2026-09-13T14:49:23.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Meta Platforms Inc (META): GF Score of 97 Signals Strong Outperformance Potential",
+      "title_ko": "메타 플랫폼스(META): GF 점수 97점으로 강력한 초과수익 달성 가능성 시사",
+      "snippet": "Meta Platforms Inc (META) has recently drawn heightened interest from investors and financial analysts thanks to its robust financial stance. With shares curren",
+      "snippet_ko": "메타 플랫폼스(META)는 견실한 재무 건전성 덕분에 최근 투자자와 금융 애널리스트들의 관심을 더욱 끌고 있다. 현재 주가는",
+      "symbol": "META",
+      "sentiment_score": 0.6452,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9092014/meta-platforms-inc-meta-gf-score-of-97-signals-strong-outperformance-potential",
+      "cross_verified": true,
+      "published_at": "2026-09-22T16:00:26.000000Z"
+    },
+    {
+      "title": "AAPL Looks 18.6% Overvalued on GF Value™ as Insider Selling Persists",
+      "title_ko": "내부자 매도가 지속되는 가운데, GF Value™ 기준 AAPL은 18.6% 과대평가된 것으로 보인다",
+      "snippet": "On September 22, 2026, Andreessen Horowitz announced the launch of the Horowitz Andreessen Academy in San Francisco, a pioneering educational initiative focused",
+      "snippet_ko": "2026년 9월 22일, 안드레센 호로위츠는 샌프란시스코에 ‘호로위츠 안드레센 아카데미’를 설립한다고 발표했는데, 이는 다음과 같은 분야에 초점을 맞춘 선구적인 교육 프로젝트입니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5675,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9091994/aapl-looks-186-overvalued-on-gf-value-as-insider-selling-persists",
+      "cross_verified": true,
+      "published_at": "2026-09-22T15:58:51.000000Z"
+    },
+    {
+      "title": "Meta (META) Maintains Buy Rating with $820 Target Amid Muse Growth",
+      "title_ko": "메타(META), ‘뮤즈’ 성장세에 힘입어 ‘매수’ 등급 유지…목표주가 820달러",
+      "snippet": "On September 22, 2026, JPMorgan reiterated its \"Overweight\" rating on Meta Platforms Inc (META), setting a target price of $820. The firm believes that the laun",
+      "snippet_ko": "2026년 9월 22일, JPMorgan은 Meta Platforms Inc(META)에 대한 ‘Overweight’ 투자의견을 재확인하며 목표주가를 820달러로 제시했다. 이 기관은 이번 출시가",
+      "symbol": "META",
+      "sentiment_score": 0.3696,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9091970/meta-meta-maintains-buy-rating-with-820-target-amid-muse-growth",
+      "cross_verified": true,
+      "published_at": "2026-09-22T15:30:46.000000Z"
+    },
+    {
+      "title": "Arch Capital Group Ltd. at Bank of America Global Research Financials CEO Conference Transcript",
+      "title_ko": "뱅크 오브 아메리카 글로벌 리서치 금융업 CEO 컨퍼런스에서 아치 캐피털 그룹(Arch Capital Group Ltd.) 발표 전문",
+      "snippet": "Refinitiv StreetEvents Event TranscriptE D I T E D V E R S I O NACGL.OQ - Arch Capital Group Ltd.Arch Capital Group Ltd. at Bank of America Global Research Fi",
+      "snippet_ko": "Refinitiv StreetEvents 행사 기록 (편집본) ACGL.OQ - 아치 캐피탈 그룹(Arch Capital Group Ltd.) 아치 캐피탈 그룹(Arch Capital Group Ltd.), 뱅크 오브 아메리카 글로벌 리서치(Bank of America Global Research)에서",
+      "symbol": "V",
+      "sentiment_score": 0.1553,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9092021/arch-capital-group-ltd-at-bank-of-america-global-research-financials-ceo-conference-transcript",
+      "cross_verified": true,
+      "published_at": "2026-09-22T16:01:23.000000Z"
+    },
     {
       "title": "AAPL Looks 18.2% Overvalued on GF Value™ as Insider Selling Persists",
       "title_ko": "내부자 매도가 지속되는 가운데, GF Value™ 기준 AAPL은 18.2% 과대평가된 것으로 나타남",
@@ -2355,54 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9079841/amzn-looks-26-overvalued-on-gf-value",
       "cross_verified": true,
       "published_at": "2026-09-14T18:26:51.000000Z"
-    },
-    {
-      "title": "Wall Street Lunch: Tesla's Roadster Could Be Ready To Take Flight",
-      "title_ko": "월스트리트 런치: 테슬라 로드스터, 드디어 날개를 펼칠 준비가 되었을지도 모른다",
-      "snippet": "Tesla (TSLA) has an Oct. 1 event scheduled that is expected to be a public unveiling or major update for the long-delayed second-generation Roadster model.",
-      "snippet_ko": "테슬라(TSLA)는 10월 1일에 행사를 예정하고 있으며, 이 행사에서는 오랫동안 출시가 미뤄져 온 2세대 로드스터 모델의 공개 또는 주요 업데이트가 있을 것으로 예상된다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.237,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4946107-wall-street-lunch-teslas-roadster-could-be-ready-to-take-flight",
-      "cross_verified": true,
-      "published_at": "2026-09-14T18:07:00.000000Z"
-    },
-    {
-      "title": "GOOG Looks 35.0% Overvalued on GF Value™ as Waymo Expands Autonomous Service",
-      "title_ko": "웨이모의 자율주행 서비스 확대에 따라 GOOG, GF Value™ 기준 35.0% 과대평가된 것으로 분석",
-      "snippet": "On September 14, 2026, Alphabet Inc (GOOG) announced the official launch of its fully autonomous ride service in Las Vegas, marking a significant milestone for",
-      "snippet_ko": "2026년 9월 14일, 알파벳(Alphabet Inc, GOOG)은 라스베이거스에서 완전 자율 주행 차량 서비스를 공식 출시한다고 발표했으며, 이는",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.5656,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9079786/goog-looks-350-overvalued-on-gf-value-as-waymo-expands-autonomous-service",
-      "cross_verified": true,
-      "published_at": "2026-09-14T17:50:53.000000Z"
-    },
-    {
-      "title": "Tim Cook Could Have Purchased Any of 488 S&P 500 Companies With $879 Billion. Instead, He Bought Something That Changed Apple's Fortune Forever.",
-      "title_ko": "팀 쿡은 8,790억 달러로 S&P 500 지수에 포함된 488개 기업 중 어느 곳이든 인수할 수 있었다. 하지만 그는 애플의 운명을 영원히 바꿔놓은 무언가를 선택했다.",
-      "snippet": "Apple’s now-former boss made a never-before-seen wager on a prized asset.",
-      "snippet_ko": "애플의 전 최고경영자는 핵심 자산에 대해 전례 없는 도박을 감행했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4481,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tim-cook-could-purchased-488-112601409.html",
-      "cross_verified": true,
-      "published_at": "2026-09-14T11:26:01.000000Z"
-    },
-    {
-      "title": "Global AI stocks fall as industry chiefs call for slowing development",
-      "title_ko": "업계 수장들이 개발 속도 조절을 촉구하면서 전 세계 AI 관련 주가가 하락했다",
-      "snippet": "Anthropic CEO Dario Amodei, in a lengthy essay shared on X on Saturday, called on AI companies to slow the rate at which they advance model capabilities amid mounting fears of misuse of artificial intelligence. Both Elon Musk, who runs xAI, and Sam Altman, CEO of OpenAI, said they agree with Amodei.",
-      "snippet_ko": "안트로픽(Anthropic)의 다리오 아모데이(Dario Amodei) CEO는 토요일 X에 게시한 장문의 글에서, 인공지능의 오용에 대한 우려가 커지는 가운데 AI 기업들에게 모델 성능 향상 속도를 늦출 것을 촉구했다. xAI를 운영하는 엘론 머스크와 오픈AI의 샘 알트먼 CEO는 모두 아모데이의 의견에 동의한다고 밝혔다.",
-      "symbol": "AMZN",
-      "sentiment_score": -0.056,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-ai-stocks-fall-as-industry-chiefs-call-for-slowing-development/articleshow/134239897.cms",
-      "cross_verified": true,
-      "published_at": "2026-09-14T11:13:00.000000Z"
     }
   ]
 }
