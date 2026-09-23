@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-22T21:07:47.094975+00:00",
+  "updated_at": "2026-09-23T00:13:18.821519+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Sirius XM Holdings Inc (SIRI) Shares Fall 3.3% -- What GF Score of 71 Tells Investors",
+      "title_ko": "시리우스 XM 홀딩스(SIRI) 주가 3.3% 하락… ‘GF 점수 71’이 투자자들에게 시사하는 바는?",
+      "snippet": "On September 22, 2026, Sirius XM Holdings Inc (SIRI) shares fell 3.3%, closing at $26.53. The stock has seen a 52-week range between $19.77 and $32.66, indicati",
+      "snippet_ko": "2026년 9월 22일, 시리우스 XM 홀딩스(SIRI) 주가는 3.3% 하락하여 26.53달러에 장을 마감했습니다. 이 종목의 52주 등락폭은 19.77달러에서 32.66달러 사이였으며, 이는",
+      "symbol": "",
+      "sentiment_score": 0.5119,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9092527/sirius-xm-holdings-inc-siri-shares-fall-33-what-gf-score-of-71-tells-investors",
+      "cross_verified": true,
+      "published_at": "2026-09-22T23:27:32.000000Z"
+    },
+    {
+      "title": "DLR Looks 0.6% Overvalued on GF Value™",
+      "title_ko": "GF Value™에 따르면 DLR은 0.6% 과대평가된 것으로 보인다",
+      "snippet": "On September 22, 2026, Digital Realty Trust Inc (NYSE: DLR) announced plans to build a new cable landing station at its LAX12 data center in Los Angeles, partne",
+      "snippet_ko": "2026년 9월 22일, 디지털 리얼티 트러스트(Digital Realty Trust Inc, NYSE: DLR)는 로스앤젤레스에 위치한 자사의 LAX12 데이터 센터 내에 새로운 케이블 상륙 기지를 건설할 계획을 발표했으며, 파트너...",
+      "symbol": "",
+      "sentiment_score": 0.4359,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9092525/dlr-looks-06-overvalued-on-gf-value",
+      "cross_verified": true,
+      "published_at": "2026-09-22T23:25:49.000000Z"
+    },
     {
       "title": "Smiths Group PLC (SMGKF) (FY 2026) Earnings Call Highlights: Margin Expansion, DRC Integration, and a Leaner Industrial Focus",
       "title_ko": "스미스 그룹 PLC (SMGKF) (2026 회계연도) 실적 발표 주요 내용: 마진 확대, DRC 통합, 그리고 산업 부문의 효율화",
@@ -1177,33 +1201,45 @@
       "url": "https://www.manilatimes.net/2026/09/14/tmt-newswire/globenewswire/glass-house-brands-releases-mama-sue-professional-athlete-balm-for-sale-in-california/2424462",
       "cross_verified": true,
       "published_at": "2026-09-14T11:37:38.000000Z"
-    },
-    {
-      "title": "Anthropic walks tightrope to Nasdaq, pushing for a slowdown while pursuing $2 trillion valuation",
-      "title_ko": "앤트로픽은 나스닥 상장을 앞두고 줄타기 같은 행보를 보이고 있으며, 2조 달러의 기업가치를 추구하는 한편 성장 속도 조절을 모색하고 있다.",
-      "snippet": "As Anthropic meets with prospective investors ahead of its potentially historic market debut, CEO Dario Amodei is pushing for a slowdown in AI.",
-      "snippet_ko": "역사적인 시장 데뷔를 앞두고 앤트로픽이 잠재적 투자자들과 회동을 갖는 가운데, 다리오 아모데이 CEO는 AI 발전 속도를 늦추자고 촉구하고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
-      "cross_verified": true,
-      "published_at": "2026-09-14T04:01:01.000000Z"
-    },
-    {
-      "title": "Softbank Group gets upsized $11.9 billion loan in OpenAI funding push",
-      "title_ko": "소프트뱅크 그룹, 오픈AI 자금 조달 추진에 따라 119억 달러 규모의 대출 규모 확대",
-      "snippet": "The Japanese conglomerate sealed the two-year facility last week, attracting commitments from around 20 banks",
-      "snippet_ko": "이 일본 대기업은 지난주 약 20개 은행으로부터 자금 조달 약정을 확보하며 2년 만기 대출 계약을 체결했다.",
-      "symbol": "",
-      "sentiment_score": 0.1841,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/softbank-group-gets-upsized-11-9-billion-loan-in-openai-funding-push-126091400091_1.html",
-      "cross_verified": true,
-      "published_at": "2026-09-14T03:33:33.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Semiconductor Rally Faces Crosscurrents From FX and Credit",
+      "title_ko": "반도체 강세, 외환 및 신용 시장의 상반된 흐름에 직면",
+      "snippet": "Semiconductor stocks including Nvidia, AMD, and Broadcom are rallying, but widening CDS spreads, USD/KRW trends, and surging options activity may signal risks for the SMH.",
+      "snippet_ko": "엔비디아, AMD, 브로드컴 등 반도체주들이 강세를 보이고 있지만, CDS 스프레드 확대, 달러/원 환율 동향, 그리고 급증하는 옵션 거래량은 SMH에 대한 위험 신호일 수 있다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.0,
+      "source": "mottcapitalmanagement.com",
+      "url": "https://mottcapitalmanagement.com/semiconductor-rally-faces-crosscurrents-from-fx-and-credit/",
+      "cross_verified": true,
+      "published_at": "2026-09-22T23:41:35.000000Z"
+    },
+    {
+      "title": "Apple Develops Screenless Health Tracker Amidst AI Model Competition",
+      "title_ko": "애플, AI 모델 경쟁 속에서 화면이 없는 건강 추적기 개발 중",
+      "snippet": "On September 22, 2026, recent headlines have brought attention to significant developments in the tech sector, particularly with Apple Inc. (AAPL). The company",
+      "snippet_ko": "2026년 9월 22일, 최근 보도된 주요 뉴스들을 통해 기술 분야, 특히 애플(Apple Inc., AAPL)과 관련된 중대한 발전 사항이 주목을 받고 있습니다. 이 회사는",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4979,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9092455/apple-develops-screenless-health-tracker-amidst-ai-model-competition",
+      "cross_verified": true,
+      "published_at": "2026-09-22T22:50:41.000000Z"
+    },
+    {
+      "title": "Google Is Taking Its AI Chips Outside the Cloud. Nvidia Just Got a New Sovereign-AI Rival",
+      "title_ko": "구글이 자사의 AI 칩을 클라우드 외부로 확장하고 있다. 엔비디아에 ‘소버레인-AI’ 분야의 새로운 경쟁자가 등장했다.",
+      "snippet": "Google is testing whether its custom AI chips can become national infrastructure instead of remaining mostly a cloud advantage.",
+      "snippet_ko": "구글은 자사의 맞춤형 AI 칩이 단순히 클라우드 분야의 경쟁 우위로만 머무르는 대신 국가 인프라로 자리 잡을 수 있는지 여부를 시험하고 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2323,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/google-is-taking-its-ai-chips-outside-the-cloud-nvidia-just-got-a-new-sovereign-ai-rival-1842116/",
+      "cross_verified": true,
+      "published_at": "2026-09-22T22:05:42.000000Z"
+    },
     {
       "title": "META Looks 13.5% Undervalued on GF Value™ as Muse App Sparks Growth Optimism",
       "title_ko": "‘뮤즈’ 앱이 성장에 대한 낙관론을 불러일으키면서, META가 GF Value™ 기준 13.5% 저평가된 것으로 나타났습니다.",
@@ -2367,42 +2403,6 @@
       "url": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
       "cross_verified": true,
       "published_at": "2026-09-15T02:01:22.000000Z"
-    },
-    {
-      "title": "Broadcom CEO Dismisses AI Development Concerns Amid Market Volatility (AVGO)",
-      "title_ko": "브로드컴 CEO, 시장 변동성 속 AI 개발 우려 일축 (AVGO)",
-      "snippet": "On September 14, 2026, Broadcom Inc (AVGO) faced market turbulence as CEO Hock Tan addressed investor concerns regarding a potential slowdown in AI model develo",
-      "snippet_ko": "2026년 9월 14일, 브로드컴(Broadcom Inc, AVGO)은 홉 탄(Hock Tan) CEO가 AI 모델 개발의 잠재적 둔화에 대한 투자자들의 우려에 답변하면서 시장 변동성을 겪었다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.3189,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9080518/broadcom-ceo-dismisses-ai-development-concerns-amid-market-volatility-avgo",
-      "cross_verified": true,
-      "published_at": "2026-09-15T01:50:45.000000Z"
-    },
-    {
-      "title": "Amazon Partners with Wiwynn to Expand U.S. AI Infrastructure Capacity",
-      "title_ko": "아마존, Wiwynn과 손잡고 미국 내 AI 인프라 용량 확대",
-      "snippet": "Amazon.com, Inc. (NASDAQ:AMZN) and Wiwynn are expanding Wiwynn's advanced manufacturing facility in Socorro, Texas, with nearly 1,000 additional jobs expected by the end of 2027.",
-      "snippet_ko": "Amazon.com, Inc. (나스닥: AMZN)와 Wiwynn은 텍사스주 소코로에 위치한 Wiwynn의 첨단 제조 시설을 확장하고 있으며, 이를 통해 2027년 말까지 약 1,000개의 일자리가 추가로 창출될 것으로 예상된다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.3219,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/blog/amazon-partners-with-wiwynn-to-expand-u-s-ai-infrastructure-capacity-1835761/",
-      "cross_verified": true,
-      "published_at": "2026-09-15T01:22:23.000000Z"
-    },
-    {
-      "title": "Is Broadcom Inc (AVGO) a Bargain After 4.8% Drop? GF Value Says Undervalued",
-      "title_ko": "브로드컴(AVGO)이 4.8% 하락한 지금 매수 기회일까? GF 밸류, “저평가됐다”고 분석",
-      "snippet": "On September 14, 2026, Broadcom Inc (AVGO) shares fell 4.8% to a current price of $344.72, reflecting a challenging market environment. Over the past year, the",
-      "snippet_ko": "2026년 9월 14일, 브로드컴(Broadcom Inc, AVGO) 주가는 4.8% 하락해 현재 344.72달러를 기록했으며, 이는 어려운 시장 상황을 반영한 것이다. 지난 1년 동안,",
-      "symbol": "AVGO",
-      "sentiment_score": 0.5112,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9080131/is-broadcom-inc-avgo-a-bargain-after-48-drop-gf-value-says-undervalued",
-      "cross_verified": true,
-      "published_at": "2026-09-14T22:03:13.000000Z"
     }
   ]
 }
