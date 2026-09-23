@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-23T07:37:10.428919+00:00",
+  "updated_at": "2026-09-23T13:32:04.710327+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "BFAM Maintained by Morgan Stanley -- Price Target Lowered to $66.00",
+      "title_ko": "모건 스탠리, BFAM에 대해 ‘보유’ 등급 유지 -- 목표주가 66.00달러로 하향 조정",
+      "snippet": "Bright Horizons Family Solutions Inc (BFAM) Analyst Rating Update On October 31, 2023, Bright Horizons Family Solutions Inc (BFAM) received an updated rating",
+      "snippet_ko": "브라이트 호라이즌스 패밀리 솔루션즈(Bright Horizons Family Solutions Inc, BFAM) 애널리스트 등급 업데이트: 2023년 10월 31일, 브라이트 호라이즌스 패밀리 솔루션즈(BFAM)의 등급이 갱신되었습니다.",
+      "symbol": "",
+      "sentiment_score": 0.271,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9093405/bfam-maintained-by-morgan-stanley-price-target-lowered-to-6600",
+      "cross_verified": true,
+      "published_at": "2026-09-23T13:31:57.000000Z"
+    },
+    {
+      "title": "VIAV Maintained by Rosenblatt -- Price Target Steady at $70",
+      "title_ko": "VIAV, 로젠블랫이 담당 — 목표주가는 70달러로 유지",
+      "snippet": "Viavi Solutions (VIAV) Analyst Rating Update On October 12, 2023, Rosenblatt maintained a 'Buy' rating for Viavi Solutions (VIAV). The price target remains u",
+      "snippet_ko": "Viavi Solutions (VIAV) 애널리스트 등급 업데이트 2023년 10월 12일, 로젠블랫은 Viavi Solutions (VIAV)에 대한 ‘매수’ 등급을 유지했습니다. 목표 주가는 여전히 u",
+      "symbol": "",
+      "sentiment_score": 0.4277,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9093403/viav-maintained-by-rosenblatt-price-target-steady-at-70",
+      "cross_verified": true,
+      "published_at": "2026-09-23T13:31:33.000000Z"
+    },
+    {
+      "title": "IMCC Looks 82.5% Undervalued on GF Value™ Despite Profitability Challenges",
+      "title_ko": "IMCC, 수익성 문제에도 불구하고 GF Value™ 기준 82.5% 저평가된 것으로 분석",
+      "snippet": "On September 23, 2026, IM Cannabis Corp (NASDAQ: IMCC) announced a strategic move to acquire a 51% stake in Space Defense Innovations via a non-binding Letter o",
+      "snippet_ko": "2026년 9월 23일, IM Cannabis Corp(나스닥: IMCC)는 구속력 없는 의향서(Letter of Intent)를 통해 Space Defense Innovations의 지분 51%를 인수하겠다는 전략적 계획을 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.123,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9093374/imcc-looks-825-undervalued-on-gf-value-despite-profitability-challenges",
+      "cross_verified": true,
+      "published_at": "2026-09-23T13:02:17.000000Z"
+    },
     {
       "title": "Binance Invests $100 Million in Circle (USDC) to Strengthen Partnership",
       "title_ko": "바이낸스, 서클(USDC)에 1억 달러 투자해 파트너십 강화",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4946203-phillips-edison-and-company-inc-peco-presents-at-barclays-24th-annual-global-financial",
       "cross_verified": true,
       "published_at": "2026-09-14T22:31:37.000000Z"
-    },
-    {
-      "title": "Is It Too Late to Buy ServiceNow Inc (NOW) After 7.4% Rally? GF Value Says Undervalued",
-      "title_ko": "7.4% 급등한 지금, ServiceNow Inc(NOW) 매수가 너무 늦은 걸까? GF Value는 저평가되었다고 분석한다",
-      "snippet": "On September 14, 2026, ServiceNow Inc (NOW) shares rose 7.4% to $142.35. The stock has fluctuated within a 52-week range of $81.24 to $194.73, reflecting a vola",
-      "snippet_ko": "2026년 9월 14일, ServiceNow Inc(NOW)의 주가는 7.4% 상승한 142.35달러를 기록했습니다. 이 주식은 52주 동안 81.24달러에서 194.73달러 사이의 등락을 보였으며, 이는 변동성을 반영한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.6336,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9080175/is-it-too-late-to-buy-servicenow-inc-now-after-74-rally-gf-value-says-undervalued",
-      "cross_verified": true,
-      "published_at": "2026-09-14T22:29:56.000000Z"
-    },
-    {
-      "title": "QCI Expands Metrics with Next-Day Slot Performance Data",
-      "title_ko": "QCI, 익일 배송 시간대 실적 데이터를 통해 평가 지표 확대",
-      "snippet": "Enhanced capability helps casino operators benchmark performance and optimize their floors without waiting weeks for industry data.",
-      "snippet_ko": "향상된 기능을 통해 카지노 운영사는 업계 데이터를 받기 위해 몇 주를 기다릴 필요 없이 성과를 비교 분석하고 카지노 홀 운영을 최적화할 수 있습니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/15/tmt-newswire/globenewswire/qci-expands-metrics-with-next-day-slot-performance-data/2424936",
-      "cross_verified": true,
-      "published_at": "2026-09-14T18:46:41.000000Z"
-    },
-    {
-      "title": "Cabaletta Bio, Inc. (CABA) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
-      "title_ko": "카발레타 바이오(Cabaletta Bio, Inc., CABA), 모건 스탠리 제24회 연례 글로벌 헬스케어 컨퍼런스에서 발표: 발표록",
-      "snippet": "Cabaletta Bio, Inc. (CABA) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 10:45 AM EDTCompany ParticipantsSteven Nichtberger -...",
-      "snippet_ko": "Cabaletta Bio, Inc. (CABA) 모건 스탠리 제24회 연례 글로벌 헬스케어 컨퍼런스 2026년 9월 14일 오전 10시 45분 (EDT) 참가 기업 대표 스티븐 니히트버거 -...",
-      "symbol": "",
-      "sentiment_score": 0.2859,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4946102-cabaletta-bio-inc-caba-presents-at-morgan-stanley-24th-annual-global-healthcare-conference",
-      "cross_verified": true,
-      "published_at": "2026-09-14T18:31:42.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "META Maintained by Keybanc -- Price Target Raised to $900",
+      "title_ko": "META, 키뱅크가 담당 — 목표 주가 900달러로 상향 조정",
+      "snippet": "Meta Platforms (META) Analyst Rating Update On October 3, 2023, Meta Platforms (META) received a maintained Overweight rating from Keybanc analyst Justin Pat",
+      "snippet_ko": "메타 플랫폼스(META) 애널리스트 평가 업데이트: 2023년 10월 3일, 메타 플랫폼스(META)는 키뱅크의 애널리스트 저스틴 팻으로부터 ‘Overweight’ 등급을 유지받았습니다.",
+      "symbol": "META",
+      "sentiment_score": 0.0258,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9093365/meta-maintained-by-keybanc-price-target-raised-to-900",
+      "cross_verified": true,
+      "published_at": "2026-09-23T13:00:36.000000Z"
+    },
+    {
+      "title": "AAPL Looks 18.5% Overvalued on GF Value™ as Diesel Export Ban Concerns Mount",
+      "title_ko": "디젤 수출 금지 우려가 고조되는 가운데, GF Value™ 기준 AAPL 주가가 18.5% 과대평가된 것으로 나타났습니다.",
+      "snippet": "On September 23, 2026, amidst rising concerns over a potential U.S. diesel export ban supported by President Donald Trump, Apple Inc (AAPL) remains a focal poin",
+      "snippet_ko": "2026년 9월 23일, 도널드 트럼프 대통령이 지지하는 미국의 디젤 수출 금지 가능성에 대한 우려가 고조되는 가운데, 애플(AAPL)은 여전히 주목의 중심에 서 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4049,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9093318/aapl-looks-185-overvalued-on-gf-value-as-diesel-export-ban-concerns-mount",
+      "cross_verified": true,
+      "published_at": "2026-09-23T12:55:50.000000Z"
+    },
+    {
+      "title": "SciSparc: Subsidiary NeuroThera Highlights Enhancement of U.S. Patent Portfolio Through Collaboration with Clearmind Covering LSD, Ketamine and Ibogaine Combinations",
+      "title_ko": "SciSparc: 자회사 NeuroThera, LSD, 케타민 및 이보가인 병용 요법을 다루는 Clearmind와의 협력을 통해 미국 특허 포트폴리오를 강화했다고 강조",
+      "snippet": "The U.S. patent applications cover proprietary combinations of NeuroThera’s PEA technology with LSD, ketamine and ibogaine for potential therapeutic applications, including mental health disorders, such as depression and PTSD as well as substance use disorders",
+      "snippet_ko": "이 미국 특허 출원은 NeuroThera의 PEA 기술을 LSD, 케타민, 이보가인과 독창적으로 결합한 것으로, 우울증 및 외상 후 스트레스 장애(PTSD)와 같은 정신 건강 장애는 물론 약물 사용 장애를 포함한 잠재적인 치료 용도를 다룹니다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.4588,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/23/tmt-newswire/globenewswire/scisparc-subsidiary-neurothera-highlights-enhancement-of-us-patent-portfolio-through-collaboration-with-clearmind-covering-lsd-ketamine-and-ibogaine-combinations/2431308",
+      "cross_verified": true,
+      "published_at": "2026-09-23T12:51:21.000000Z"
+    },
     {
       "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
       "title_ko": "SK하이닉스, 인텔(INTC)의 오하이오 부지에 눈독 들이고 있다. 마이크론(MU)이 주목해야 하는 이유",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9082134/intc-looks-2093-overvalued-on-gf-value",
       "cross_verified": true,
       "published_at": "2026-09-15T15:57:24.000000Z"
-    },
-    {
-      "title": "META Looks 21.9% Undervalued on GF Value™ as AI Chip Innovation Drives Growth",
-      "title_ko": "AI 칩 혁신이 성장을 견인함에 따라 META는 GF Value™ 기준 21.9% 저평가된 것으로 나타남",
-      "snippet": "On September 15, 2026, Meta Platforms Inc (NASDAQ: META) announced plans to deploy its third-generation AI chips, the MTIA 450, in data centers by mid-2024, wit",
-      "snippet_ko": "2026년 9월 15일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)는 2024년 중반까지 데이터 센터에 자사의 3세대 AI 칩인 MTIA 450을 도입할 계획을 발표했으며,",
-      "symbol": "META",
-      "sentiment_score": 0.2476,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9082133/meta-looks-219-undervalued-on-gf-value-as-ai-chip-innovation-drives-growth",
-      "cross_verified": true,
-      "published_at": "2026-09-15T15:57:01.000000Z"
-    },
-    {
-      "title": "Former Google Researcher Issues Stark AI Warning",
-      "title_ko": "구글 전 연구원, 인공지능에 대한 강력한 경고 발령",
-      "snippet": "Alphabet (GOOGL) is facing renewed attention around the risks of advanced artificial intelligence after a former Google DeepMind researcher became the latest in",
-      "snippet_ko": "구글 딥마인드(DeepMind)의 전직 연구원이 최근",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.0381,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9082115/former-google-researcher-issues-stark-ai-warning",
-      "cross_verified": true,
-      "published_at": "2026-09-15T15:49:34.000000Z"
-    },
-    {
-      "title": "AMZN Looks 2.0% Overvalued on GF Value™ Heading into Prime Big Deal Days",
-      "title_ko": "프라임 빅 딜 데이를 앞두고 AMZN은 GF Value™ 기준 2.0% 과대평가된 것으로 보인다",
-      "snippet": "On September 15, 2026, Amazon.com Inc (NASDAQ: AMZN) announced the return of its Prime Big Deal Days event, scheduled for October 6 and 7. This exclusive 48-hou",
-      "snippet_ko": "2026년 9월 15일, 아마존닷컴(Amazon.com Inc, 나스닥: AMZN)은 10월 6일과 7일에 열릴 예정인 ‘프라임 빅 딜 데이즈(Prime Big Deal Days)’ 행사의 재개를 발표했습니다. 이 48시간 동안 진행되는 독점 행사는",
-      "symbol": "AMZN",
-      "sentiment_score": 0.6259,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9081330/amzn-looks-20-overvalued-on-gf-value-heading-into-prime-big-deal-days",
-      "cross_verified": true,
-      "published_at": "2026-09-15T10:51:05.000000Z"
     }
   ]
 }
