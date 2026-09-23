@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-23T18:20:34.254186+00:00",
+  "updated_at": "2026-09-23T22:51:32.336901+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "MO Looks 19.3% Overvalued on GF Value™ Amid Dividend Sustainability Concerns",
+      "title_ko": "배당금 지속 가능성에 대한 우려가 제기되는 가운데, GF Value™ 기준 MO는 19.3% 과대평가된 것으로 나타남",
+      "snippet": "On September 23, 2026, news surfaced that the Biden administration is considering regulatory changes to facilitate the introduction of more tobacco products, in",
+      "snippet_ko": "2026년 9월 23일, 바이든 행정부가 더 많은 담배 제품의 출시를 촉진하기 위해 규제 변경을 검토하고 있다는 소식이 전해졌는데,",
+      "symbol": "",
+      "sentiment_score": 0.5133,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9094162/mo-looks-193-overvalued-on-gf-value-amid-dividend-sustainability-concerns",
+      "cross_verified": true,
+      "published_at": "2026-09-23T21:29:14.000000Z"
+    },
+    {
+      "title": "STOK Looks 163.2% Overvalued on GF Value™",
+      "title_ko": "GF Value™에 따르면 STOK은 163.2% 과대평가된 것으로 나타났습니다.",
+      "snippet": "On September 23, 2026, Stoke Therapeutics Inc (NASDAQ: STOK) announced a significant change in its Board of Directors with the appointment of Bo Cumbo, coincidi",
+      "snippet_ko": "2026년 9월 23일, 스토크 테라퓨틱스(Stoke Therapeutics Inc, 나스닥: STOK)는 보 쿰보(Bo Cumbo)의 임명을 통해 이사회에 중대한 변화가 있었다고 발표했으며, 이는",
+      "symbol": "",
+      "sentiment_score": 0.3942,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9094161/stok-looks-1632-overvalued-on-gf-value",
+      "cross_verified": true,
+      "published_at": "2026-09-23T21:28:52.000000Z"
+    },
+    {
+      "title": "MDXG Looks 21.5% Undervalued on GF Value™ After Favorable FDA Ruling",
+      "title_ko": "FDA의 긍정적인 결정에 따라 MDXG는 GF Value™ 기준 21.5% 저평가된 것으로 나타남",
+      "snippet": "On September 23, 2026, MiMedx Group Inc (NASDAQ: MDXG) received a significant legal victory as the U.S. District Court for the Northern District of Georgia over",
+      "snippet_ko": "2026년 9월 23일, MiMedx Group Inc(나스닥: MDXG)는 조지아 북부 연방지방법원이",
+      "symbol": "",
+      "sentiment_score": 0.4347,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9094160/mdxg-looks-215-undervalued-on-gf-value-after-favorable-fda-ruling",
+      "cross_verified": true,
+      "published_at": "2026-09-23T21:28:25.000000Z"
+    },
     {
       "title": "VEEV Looks 7.2% Undervalued on GF Value™",
       "title_ko": "GF Value™에 따르면 VEEV는 7.2% 저평가된 것으로 나타났습니다.",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9081397/abt-looks-229-undervalued-on-gf-value",
       "cross_verified": true,
       "published_at": "2026-09-15T11:26:39.000000Z"
-    },
-    {
-      "title": "Citi Raises Price Target for Acumen Pharmaceuticals (ABOS) to $5 Amid Phase 2 Catalyst Watch",
-      "title_ko": "시티, 2상 임상시험에 대한 긍정적 신호 기대 속에 아큐멘 파마슈티컬스(ABOS) 목표주가 5달러로 상향",
-      "snippet": "On September 15, 2026, Citi upgraded its price target for Acumen Pharmaceuticals Inc (NASDAQ: ABOS) from $4 to $5 while maintaining a Buy rating. The firm also",
-      "snippet_ko": "2026년 9월 15일, 씨티는 아큐멘 파마슈티컬스(Acumen Pharmaceuticals Inc, 나스닥: ABOS)에 대한 목표 주가를 4달러에서 5달러로 상향 조정하는 한편, ‘매수(Buy)’ 투자의견을 유지했다. 또한 이 회사는",
-      "symbol": "",
-      "sentiment_score": 0.2994,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9081396/citi-raises-price-target-for-acumen-pharmaceuticals-abos-to-5-amid-phase-2-catalyst-watch",
-      "cross_verified": true,
-      "published_at": "2026-09-15T11:26:15.000000Z"
-    },
-    {
-      "title": "Arundhati Bhattacharya: 'Nothing Was Guaranteed, Nothing Was Given'",
-      "title_ko": "아룬다티 바타차르야: “보장된 것도, 주어진 것도 없었다”",
-      "snippet": "'Giving up is very easy. But don't give up. Try out whatever you can. Something will happen.'",
-      "snippet_ko": "'포기하는 건 정말 쉽습니다. 하지만 포기하지 마세요. 할 수 있는 건 무엇이든 시도해 보세요. 분명 뭔가 좋은 일이 일어날 겁니다.'",
-      "symbol": "",
-      "sentiment_score": 0.064,
-      "source": "rediff.com",
-      "url": "https://www.rediff.com/business/special/how-arundhati-bhattacharya-triumphed-against-all-odds/20260915.htm",
-      "cross_verified": true,
-      "published_at": "2026-09-15T03:35:57.000000Z"
-    },
-    {
-      "title": "Parker-Hannifin (PH) Completes $2.4 Billion U.S. and €2.025 Billion Euro Senior Notes Offerings",
-      "title_ko": "파커-하니핀(PH), 24억 달러 규모의 미국 달러권 선순위 채권 및 20억 2,500만 유로 규모의 유로화 선순위 채권 발행 완료",
-      "snippet": "Parker-Hannifin Corporation (PH) announced on September 14, 2026, that it has completed its previously announced registered offerings of $2.4 billion in aggreg",
-      "snippet_ko": "파커-해니핀 코퍼레이션(PH)은 2026년 9월 14일, 앞서 발표했던 총 24억 달러 규모의 등록 공모를 완료했다고 밝혔다.",
-      "symbol": "",
-      "sentiment_score": 0.1877,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9080565/parkerhannifin-ph-completes-24-billion-us-and-2025-billion-euro-senior-notes-offerings",
-      "cross_verified": true,
-      "published_at": "2026-09-15T03:30:11.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "GOOG Looks 33.3% Overvalued on GF Value™ Amid Strong Fundamentals",
+      "title_ko": "GOOG, 견실한 펀더멘털 속에서도 GF Value™ 기준 33.3% 과대평가된 것으로 나타남",
+      "snippet": "On September 23, 2026, Alphabet Inc (GOOG) announced a significant upgrade to its video creation platform, Google Vids, now available for free to all users with",
+      "snippet_ko": "2026년 9월 23일, 알파벳(Alphabet Inc, GOOG)은 자사의 동영상 제작 플랫폼인 ‘구글 비즈(Google Vids)’를 대폭 업그레이드했다고 발표했으며, 이제 모든 사용자가 무료로 이용할 수 있게 되었습니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.5053,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9094121/goog-looks-333-overvalued-on-gf-value-amid-strong-fundamentals",
+      "cross_verified": true,
+      "published_at": "2026-09-23T20:26:22.000000Z"
+    },
+    {
+      "title": "Intel Is Storming Back Into The AI Conversation - Reiterate Buy (NASDAQ:INTC)",
+      "title_ko": "인텔, AI 논의의 중심 무대로 다시 돌진 중 - ‘매수’ 의견 재확인 (NASDAQ:INTC)",
+      "snippet": "Intel is rated a Buy, with its turnaround gaining momentum and recent developments justifying valuation expansion. Read more on INTC stock here.",
+      "snippet_ko": "인텔은 ‘매수’ 등급을 받았으며, 실적 회복세가 탄력을 받고 있고 최근 동향으로 볼 때 주가 상승 여력이 충분합니다. INTC 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "INTC",
+      "sentiment_score": 0.6544,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4949161-intel-is-storming-back-into-the-ai-conversation-reiterate-buy",
+      "cross_verified": true,
+      "published_at": "2026-09-23T20:07:59.000000Z"
+    },
+    {
+      "title": "Market Stability Prevails as Investors Eye Upcoming Retail and Tech Earnings",
+      "title_ko": "투자자들이 다가오는 소매 및 기술 기업들의 실적 발표를 주시하는 가운데 시장 안정세가 이어지고 있다",
+      "snippet": "U.S. equity markets remained largely stable during Wednesday's trading session, September 23rd, 2026, as investors balanced optimistic economic sentiment",
+      "snippet_ko": "2026년 9월 23일 수요일 장중, 투자자들이 낙관적인 경제 전망과 신중한 태도를 조화시키면서 미국 주식 시장은 대체로 안정세를 유지했다.",
+      "symbol": "META",
+      "sentiment_score": 0.1511,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/market-stability-prevails-as-investors-eye-upcoming-retail-and-tech-earnings/72149/",
+      "cross_verified": true,
+      "published_at": "2026-09-23T20:07:15.000000Z"
+    },
     {
       "title": "MP Materials: Growth Is Strong But Much Has Already Been Priced In (NYSE:MP)",
       "title_ko": "MP 머티리얼스: 성장세는 견실하지만, 이미 상당 부분이 주가에 반영된 상태 (NYSE:MP)",
@@ -2367,42 +2403,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-exelon-patterson-uti-just-123504231.html",
       "cross_verified": true,
       "published_at": "2026-09-16T12:35:04.000000Z"
-    },
-    {
-      "title": "Alphabet (GOOG) Surges 24% as Revenue Growth Soars — But Is $190 Billion in Capex Too Much?",
-      "title_ko": "알파벳(GOOG), 매출 성장세 급증에 주가가 24% 급등 — 하지만 1,900억 달러 규모의 자본지출은 과한 것일까?",
-      "snippet": "Alluvium Asset Management, an asset management company, released its “Conventum – Alluvium Global Fund” second-quarter 2026 investor letter. The letter can be downloaded here. The second quarter reflected a sharp shift from geopolitical uncertainty and oil market volatility to a powerful equity rally led by semiconductor companies. Despite the broader market strength, the Fund declined […]",
-      "snippet_ko": "자산운용사 알루비움 애셋 매니지먼트(Alluvium Asset Management)가 “Conventum – Alluvium Global Fund”의 2026년 2분기 투자자 서한을 발표했습니다. 해당 서한은 여기에서 다운로드할 수 있습니다. 2분기에는 지정학적 불확실성과 원유 시장의 변동성에서 반도체 기업을 중심으로 한 강력한 주식 랠리로 급격한 전환이 나타났습니다. 전반적인 시장 강세에도 불구하고, 본 펀드는 […] 하락했습니다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.5727,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-goog-surges-24-revenue-123012360.html",
-      "cross_verified": true,
-      "published_at": "2026-09-16T12:30:12.000000Z"
-    },
-    {
-      "title": "Elon Musk Is Worth $900 Billion, But That Could Change In A Day",
-      "title_ko": "일론 머스크의 순자산은 9,000억 달러에 달하지만, 이는 하루 만에 바뀔 수도 있다",
-      "snippet": "Elon Musk has crossed the trillion-dollar threshold before and watched it vanish in weeks. What keeps his fortune swinging by hundreds of billions at a time says a lot about how fragile that number really is.",
-      "snippet_ko": "일론 머스크는 과거에도 1조 달러의 문턱을 넘었다가 불과 몇 주 만에 그 기록이 사라지는 것을 지켜본 적이 있다. 그의 재산이 한 번에 수천억 단위로 요동치는 현상은 그 수치가 실제로 얼마나 취약한지를 여실히 보여준다.",
-      "symbol": "TSLA",
-      "sentiment_score": -0.0772,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-worth-900-billion-123938238.html",
-      "cross_verified": true,
-      "published_at": "2026-09-16T12:39:38.000000Z"
-    },
-    {
-      "title": "Former Google DeepMind researcher raises a new warning about AI risk",
-      "title_ko": "구글 딥마인드 전 연구원이 AI 위험에 대해 새로운 경고를 제기했다",
-      "snippet": "Alphabet Inc. (GOOGL, Financials), the parent of Google and DeepMind, is being pulled deeper into a growing debate over how quickly advanced AI should move.Bila",
-      "snippet_ko": "구글과 딥마인드의 모회사인 알파벳(Alphabet Inc., GOOGL, 금융)은 첨단 AI의 발전 속도가 어느 정도여야 하는지에 대한 논란에 점점 더 깊이 휘말리고 있다. 빌라",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3498,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9082407/former-google-deepmind-researcher-raises-a-new-warning-about-ai-risk",
-      "cross_verified": true,
-      "published_at": "2026-09-15T20:12:04.000000Z"
     }
   ]
 }
