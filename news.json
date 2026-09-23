@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-23T00:13:18.821519+00:00",
+  "updated_at": "2026-09-23T07:37:10.428919+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Binance Invests $100 Million in Circle (USDC) to Strengthen Partnership",
+      "title_ko": "바이낸스, 서클(USDC)에 1억 달러 투자해 파트너십 강화",
+      "snippet": "On September 23, 2026, Binance, the world's largest cryptocurrency exchange, announced a significant investment of $100 million in Circle Internet Group, a lead",
+      "snippet_ko": "2026년 9월 23일, 세계 최대의 암호화폐 거래소인 바이낸스(Binance)는 선도적인 기업인 서클 인터넷 그룹(Circle Internet Group)에 1억 달러를 투자한다고 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.7717,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9093006/binance-invests-100-million-in-circle-usdc-to-strengthen-partnership",
+      "cross_verified": true,
+      "published_at": "2026-09-23T07:10:28.000000Z"
+    },
+    {
+      "title": "VIXY: A High-Conviction Tactical October Hedge, Not A Long Term Buy (Upgrade) (BATS:VIXY)",
+      "title_ko": "VIXY: 확신이 높은 전술적 10월 헤지 상품, 장기 매수 대상은 아님 (등급 상향) (BATS:VIXY)",
+      "snippet": "VIXY is best used as a short-term trading and hedging tool, not for buy-and-hold strategies due to roll decay. Read why the VIXY ETF is upgraded to a buy.",
+      "snippet_ko": "VIXY는 롤 디케이(roll decay)로 인해 매수 후 보유 전략보다는 단기 매매 및 헤지 수단으로 활용하는 것이 가장 적합합니다. VIXY ETF의 투자 등급이 ‘매수’로 상향 조정된 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.6705,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4948870-vixy-a-high-conviction-tactical-october-hedge-not-a-long-term-buy-upgrade",
+      "cross_verified": true,
+      "published_at": "2026-09-23T07:03:10.000000Z"
+    },
+    {
+      "title": "DAVIDsTEA Inc. (DTEAF) Q2 2027 Earnings Call Prepared Remarks Transcript",
+      "title_ko": "DAVIDsTEA Inc. (DTEAF) 2027년 2분기 실적 발표 전화회의 사전 준비된 발언 전문",
+      "snippet": "DAVIDsTEA Inc. (DTEAF) Q2 2027 Earnings Call September 22, 2026 8:30 AM EDTCompany ParticipantsSarah Segal - CEO, Chief Brand Officer & DirectorFrank...",
+      "snippet_ko": "DAVIDsTEA Inc. (DTEAF) 2027년 2분기 실적 발표 컨퍼런스 콜, 2026년 9월 22일 오전 8시 30분(EDT) 회사 참석자: 사라 시걸 - CEO, 최고 브랜드 책임자 및 이사, 프랭크...",
+      "symbol": "",
+      "sentiment_score": 0.2938,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4948883-davidstea-inc-dteaf-q2-2027-earnings-call-prepared-remarks-transcript",
+      "cross_verified": true,
+      "published_at": "2026-09-23T06:59:49.000000Z"
+    },
     {
       "title": "Sirius XM Holdings Inc (SIRI) Shares Fall 3.3% -- What GF Score of 71 Tells Investors",
       "title_ko": "시리우스 XM 홀딩스(SIRI) 주가 3.3% 하락… ‘GF 점수 71’이 투자자들에게 시사하는 바는?",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4946102-cabaletta-bio-inc-caba-presents-at-morgan-stanley-24th-annual-global-healthcare-conference",
       "cross_verified": true,
       "published_at": "2026-09-14T18:31:42.000000Z"
-    },
-    {
-      "title": "State Street Corporation (STT) Presents at Barclays 24th Annual Global Financial Services Conference Transcript",
-      "title_ko": "스테이트 스트리트 코퍼레이션(STT), 바클레이즈 제24회 연례 글로벌 금융 서비스 컨퍼런스에서 발표: 회의록",
-      "snippet": "State Street Corporation (STT) Barclays 24th Annual Global Financial Services Conference September 14, 2026 11:15 AM EDTCompany ParticipantsJohn Woods -...",
-      "snippet_ko": "스테이트 스트리트 코퍼레이션(STT) 바클레이즈 제24회 연례 글로벌 금융 서비스 컨퍼런스 2026년 9월 14일 오전 11시 15분(EDT) 참가 기업 존 우즈 -...",
-      "symbol": "",
-      "sentiment_score": 0.5767,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4946121-state-street-corporation-stt-presents-at-barclays-24th-annual-global-financial-services",
-      "cross_verified": true,
-      "published_at": "2026-09-14T18:31:39.000000Z"
-    },
-    {
-      "title": "SL Green’s 2026 Office Leasing Reaches Nearly 1.8 Million Square Feet",
-      "title_ko": "SL 그린의 2026년 사무실 임대 계약 규모가 약 180만 제곱피트에 달했다",
-      "snippet": "245 Park Avenue 100% Leased",
-      "snippet_ko": "245 파크 애비뉴, 100% 임차 완료",
-      "symbol": "",
-      "sentiment_score": 0.1472,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/14/tmt-newswire/globenewswire/sl-greens-2026-office-leasing-reaches-nearly-18-million-square-feet/2424463",
-      "cross_verified": true,
-      "published_at": "2026-09-14T11:37:42.000000Z"
-    },
-    {
-      "title": "Glass House Brands Releases Mama Sue Professional Athlete Balm for Sale in California",
-      "title_ko": "글라스 하우스 브랜즈, 캘리포니아에서 ‘마마 수 프로페셔널 애슬리트 밤’ 판매 개시",
-      "snippet": "New high-potency transdermal balm was created with professional athletes in mind and is suitable for both high-performance recovery and everyday use",
-      "snippet_ko": "새로운 고효능 경피 흡수 밤은 프로 운동선수들을 염두에 두고 개발되었으며, 고강도 운동 후 회복은 물론 일상적인 사용에도 적합합니다.",
-      "symbol": "",
-      "sentiment_score": 0.2567,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/14/tmt-newswire/globenewswire/glass-house-brands-releases-mama-sue-professional-athlete-balm-for-sale-in-california/2424462",
-      "cross_verified": true,
-      "published_at": "2026-09-14T11:37:38.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
+      "title_ko": "SK하이닉스, 인텔(INTC)의 오하이오 부지에 눈독 들이고 있다. 마이크론(MU)이 주목해야 하는 이유",
+      "snippet": "SK Hynix is exploring something it has never done before: manufacturing memory chips in the United States.",
+      "snippet_ko": "SK하이닉스는 미국에서 메모리 칩을 생산하는, 그간 한 번도 시도해 본 적 없는 새로운 방안을 모색하고 있다.",
+      "symbol": "INTC",
+      "sentiment_score": 0.2471,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/sk-hynix-is-eyeing-intels-intc-ohio-site-why-micron-mu-should-pay-attention-1841636/",
+      "cross_verified": true,
+      "published_at": "2026-09-23T04:33:16.000000Z"
+    },
+    {
+      "title": "Intel (INTC) Could Get a Fresh Valuation for Altera. AMD (AMD) Is the Rival to Watch",
+      "title_ko": "인텔(INTC), 알테라 인수로 새로운 기업 가치 평가받을 전망. AMD(AMD)는 주목해야 할 경쟁사다",
+      "snippet": "Intel sold control of Altera last year. Now the programmable-chip company is heading back toward the public market just as AI gives investors a new reason to care about FPGAs.",
+      "snippet_ko": "인텔은 작년에 알테라의 지배권을 매각했다. 이제 이 프로그래머블 칩 전문 기업은 AI가 투자자들에게 FPGA에 관심을 가질 새로운 이유를 제시하는 가운데, 다시 공개 시장으로 돌아가고 있다.",
+      "symbol": "INTC",
+      "sentiment_score": 0.5483,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/intel-intc-could-get-a-fresh-valuation-for-altera-amd-amd-is-the-rival-to-watch-1841644/",
+      "cross_verified": true,
+      "published_at": "2026-09-23T04:17:10.000000Z"
+    },
+    {
+      "title": "Dixon Technologies eyes growth beyond smartphones to add global clout",
+      "title_ko": "딕슨 테크놀로지스, 스마트폰을 넘어 성장을 모색하며 글로벌 영향력 확대에 나서",
+      "snippet": "The contract manufacturer is seeking higher margins by making electronics components like camera modules, while deepening its smartphone and laptop production",
+      "snippet_ko": "이 계약 제조업체는 카메라 모듈과 같은 전자 부품을 생산함으로써 수익성을 높이는 한편, 스마트폰 및 노트북 생산을 확대하고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5267,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/companies/news/dixon-technologies-eyes-growth-beyond-smartphones-to-add-global-clout-126092300152_1.html",
+      "cross_verified": true,
+      "published_at": "2026-09-23T03:27:48.000000Z"
+    },
     {
       "title": "Semiconductor Rally Faces Crosscurrents From FX and Credit",
       "title_ko": "반도체 강세, 외환 및 신용 시장의 상반된 흐름에 직면",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9081330/amzn-looks-20-overvalued-on-gf-value-heading-into-prime-big-deal-days",
       "cross_verified": true,
       "published_at": "2026-09-15T10:51:05.000000Z"
-    },
-    {
-      "title": "Google’s Traffic Numbers Look Fine, Its Search Economics Tell Another Story",
-      "title_ko": "구글의 트래픽 수치는 괜찮아 보이지만, 검색 시장의 경제학적 현실은 다른 이야기를 말해주고 있다",
-      "snippet": "According to Bank of America’s traffic data, Alphabet Inc. (NASDAQ:GOOG) is holding its position despite growing competition from a range of AI challengers. Visits have increased, mobile users are growing, and the company’s share remains stable even as Claude and Gemini have recorded triple-digit growth. That stability may initially look like a positive sign for […]",
-      "snippet_ko": "뱅크 오브 아메리카의 트래픽 데이터에 따르면, 알파벳(Alphabet Inc., 나스닥:GOOG)은 다양한 AI 신생 기업들의 경쟁이 거세지고 있음에도 불구하고 입지를 굳건히 지키고 있다. 클로드(Claude)와 제미니(Gemini)가 세 자릿수 성장률을 기록했음에도 불구하고, 알파벳의 방문자 수는 증가했고 모바일 사용자도 늘어나며 시장 점유율은 안정적인 모습을 유지하고 있다. 이러한 안정성은 언뜻 보기에 […]에 대한 긍정적인 신호로 보일 수 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.84,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/google-traffic-numbers-look-fine-102257813.html",
-      "cross_verified": true,
-      "published_at": "2026-09-15T10:22:57.000000Z"
-    },
-    {
-      "title": "Intel's Turnaround Is Running Out Of Excuses (NASDAQ:INTC)",
-      "title_ko": "인텔의 실적 회복에 더 이상 핑계를 댈 수 없는 상황 (NASDAQ:INTC)",
-      "snippet": "Intel’s 14A discussions are shifting toward capacity requirements, making external customer commitments the next major proof point for foundry.",
-      "snippet_ko": "인텔의 14A 관련 논의가 생산 능력 요건으로 초점을 옮기면서, 외부 고객에 대한 약속 이행 여부가 파운드리 사업의 다음 주요 검증 기준이 되고 있다.",
-      "symbol": "INTC",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4946374-intels-turnaround-is-running-out-of-excuses",
-      "cross_verified": true,
-      "published_at": "2026-09-15T10:16:09.000000Z"
-    },
-    {
-      "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
-      "title_ko": "중국의 8월 소매판매가 예상치를 하회한 가운데 투자 부진이 심화되면서 중국 정부에 대한 압박이 가중되고 있다",
-      "snippet": "China's investment slump deepened, retail sales growth slowed further in August while industrial output blew past estimates as Beijing warns of supply-demand imbalance.",
-      "snippet_ko": "8월 중국 투자 부진이 심화되고 소매판매 증가세가 더욱 둔화된 반면, 산업생산은 예상치를 크게 상회했으며, 중국 정부는 수급 불균형에 대한 경고를 내렸다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.0,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
-      "cross_verified": true,
-      "published_at": "2026-09-15T02:01:22.000000Z"
     }
   ]
 }
