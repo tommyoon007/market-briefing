@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-23T13:32:04.710327+00:00",
+  "updated_at": "2026-09-23T18:20:34.254186+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "VEEV Looks 7.2% Undervalued on GF Value™",
+      "title_ko": "GF Value™에 따르면 VEEV는 7.2% 저평가된 것으로 나타났습니다.",
+      "snippet": "On September 23, 2026, Veeva Systems Inc (NYSE: VEEV) announced a major new commitment from a leading biopharmaceutical company, expanding its Vault CRM platfor",
+      "snippet_ko": "2026년 9월 23일, Veeva Systems Inc(NYSE: VEEV)는 선도적인 바이오제약 기업으로부터 대규모 신규 계약을 수주했다고 발표하며, 자사의 Vault CRM 플랫폼을 확장한다고 밝혔다.",
+      "symbol": "",
+      "sentiment_score": 0.6603,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9093975/veev-looks-72-undervalued-on-gf-value",
+      "cross_verified": true,
+      "published_at": "2026-09-23T17:27:56.000000Z"
+    },
+    {
+      "title": "NCRA Looks 67.1% Undervalued on GF Value™",
+      "title_ko": "GF Value™에 따르면 NCRA는 67.1% 저평가된 것으로 나타났습니다.",
+      "snippet": "On September 23, 2026, Nocera Inc (ticker: NCRA) announced a strategic partnership and joint distribution agreement with E-PRO DISPLAY, designating Nocera as a",
+      "snippet_ko": "2026년 9월 23일, Nocera Inc(티커: NCRA)는 E-PRO DISPLAY와 전략적 파트너십 및 공동 유통 계약을 체결했다고 발표했으며, 이를 통해 Nocera를",
+      "symbol": "",
+      "sentiment_score": 0.2541,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9093972/ncra-looks-671-undervalued-on-gf-value",
+      "cross_verified": true,
+      "published_at": "2026-09-23T17:26:37.000000Z"
+    },
+    {
+      "title": "HTZ Looks 61.7% Undervalued on GF Value™ Despite Unprofitable Status",
+      "title_ko": "HTZ, 적자 상태임에도 불구하고 GF Value™ 기준 61.7% 저평가된 것으로 나타남",
+      "snippet": "On September 23, 2026, Hertz Global Holdings Inc (NASDAQ: HTZ) experienced a slight decline in its share price, dipping 8 cents to approximately $1.77 amid mode",
+      "snippet_ko": "2026년 9월 23일, 허츠 글로벌 홀딩스(Hertz Global Holdings Inc, 나스닥: HTZ)의 주가는 소폭 하락하여 8센트 떨어진 약 1.77달러를 기록했으며, 이는 모드의",
+      "symbol": "",
+      "sentiment_score": 0.0853,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9093970/htz-looks-617-undervalued-on-gf-value-despite-unprofitable-status",
+      "cross_verified": true,
+      "published_at": "2026-09-23T17:25:42.000000Z"
+    },
     {
       "title": "BFAM Maintained by Morgan Stanley -- Price Target Lowered to $66.00",
       "title_ko": "모건 스탠리, BFAM에 대해 ‘보유’ 등급 유지 -- 목표주가 66.00달러로 하향 조정",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9080565/parkerhannifin-ph-completes-24-billion-us-and-2025-billion-euro-senior-notes-offerings",
       "cross_verified": true,
       "published_at": "2026-09-15T03:30:11.000000Z"
-    },
-    {
-      "title": "lululemon athletica inc. (LULU) Appoints Heidi O'Neill to Board as She Begins CEO Role",
-      "title_ko": "룰루레몬 애슬레티카(LULU)가 하이디 오닐을 이사회 이사로 선임했으며, 그녀는 CEO 직무를 시작하게 된다",
-      "snippet": "lululemon athletica inc. (LULU) announced that its board of directors appointed Heidi O'Neill as a member of the board, effective September 8, 2026. In connect",
-      "snippet_ko": "룰루레몬 애슬레티카(LULU)는 이사회가 하이디 오닐을 이사로 선임했으며, 이는 2026년 9월 8일부터 효력이 발생한다고 발표했다. 이와 관련하여",
-      "symbol": "",
-      "sentiment_score": 0.2123,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9080564/lululemon-athletica-inc-lulu-appoints-heidi-oneill-to-board-as-she-begins-ceo-role",
-      "cross_verified": true,
-      "published_at": "2026-09-15T03:30:10.000000Z"
-    },
-    {
-      "title": "TransMedics Group, Inc. (TMDX) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
-      "title_ko": "트랜스메딕스 그룹(TransMedics Group, Inc., TMDX), 모건 스탠리 제24회 연례 글로벌 헬스케어 컨퍼런스에서 발표: 발표록",
-      "snippet": "TransMedics Group, Inc. (TMDX) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 3:20 PM EDTCompany ParticipantsWaleed Hassanein -...",
-      "snippet_ko": "TransMedics Group, Inc. (TMDX) 모건 스탠리 제24회 연례 글로벌 헬스케어 컨퍼런스 2026년 9월 14일 오후 3시 20분 (EDT) 참가 기업 대표: 왈리드 하사네인 -...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4946220-transmedics-group-inc-tmdx-presents-at-morgan-stanley-24th-annual-global-healthcare",
-      "cross_verified": true,
-      "published_at": "2026-09-14T22:31:38.000000Z"
-    },
-    {
-      "title": "Phillips Edison & Company, Inc. (PECO) Presents at Barclays 24th Annual Global Financial Services Conference Transcript",
-      "title_ko": "필립스 에디슨 앤 컴퍼니(PECO)의 바클레이즈 제24회 연례 글로벌 금융 서비스 컨퍼런스 발표 전문",
-      "snippet": "Phillips Edison & Company, Inc. (PECO) Barclays 24th Annual Global Financial Services Conference September 14, 2026 2:00 PM EDTCompany ParticipantsJohn...",
-      "snippet_ko": "필립스 에디슨 앤 컴퍼니(PECO) 바클레이즈 제24회 연례 글로벌 금융 서비스 컨퍼런스 2026년 9월 14일 오후 2:00 (EDT) 참가 기업 대표 존...",
-      "symbol": "",
-      "sentiment_score": 0.2261,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4946203-phillips-edison-and-company-inc-peco-presents-at-barclays-24th-annual-global-financial",
-      "cross_verified": true,
-      "published_at": "2026-09-14T22:31:37.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "MP Materials: Growth Is Strong But Much Has Already Been Priced In (NYSE:MP)",
+      "title_ko": "MP 머티리얼스: 성장세는 견실하지만, 이미 상당 부분이 주가에 반영된 상태 (NYSE:MP)",
+      "snippet": "MP Materials is shifting from rare-earth mining to magnet production. Click for more on MP stock prospects.",
+      "snippet_ko": "MP 머티리얼즈는 희토류 채굴에서 자석 생산으로 사업 영역을 전환하고 있습니다. MP 주식의 전망에 대해 더 알아보려면 여기를 클릭하세요.",
+      "symbol": "MP",
+      "sentiment_score": 0.6181,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4949073-mp-materials-growth-is-strong-but-much-has-already-been-priced-in",
+      "cross_verified": true,
+      "published_at": "2026-09-23T16:52:38.000000Z"
+    },
+    {
+      "title": "Meta: Muse Could Become The Middleman For The Entire Internet Economy (NASDAQ:META)",
+      "title_ko": "메타: 뮤즈, 인터넷 경제 전반의 중개자 역할 맡을 수 있어 (나스닥: META)",
+      "snippet": "Meta Platforms’ Muse could shift Meta to agentic commerce and transaction-based revenue. Click for this updated look at META.",
+      "snippet_ko": "메타 플랫폼스의 ‘뮤즈’는 메타를 에이전트 기반 상거래와 거래 기반 수익 모델로 전환시킬 수 있습니다. META에 대한 최신 분석을 보려면 여기를 클릭하세요.",
+      "symbol": "META",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4949072-meta-muse-could-become-the-middleman-for-the-entire-internet-economy",
+      "cross_verified": true,
+      "published_at": "2026-09-23T16:49:31.000000Z"
+    },
+    {
+      "title": "Meta is having a ChatGPT moment with Muse. What is it and what makes it so special",
+      "title_ko": "메타는 ‘뮤즈(Muse)’를 통해 ChatGPT와 같은 열풍을 일으키고 있습니다. 이것이 무엇이며, 무엇이 이 서비스를 그토록 특별하게 만드는 것일까요?",
+      "snippet": "The tech world and Wall Street are abuzz with Meta's new AI agent ahead of CEO Mark Zuckerberg's developers conference keynote.",
+      "snippet_ko": "마크 저커버그 CEO의 개발자 컨퍼런스 기조연설을 앞두고, 메타의 새로운 AI 에이전트에 대해 기술계와 월스트리트에서 화제가 되고 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3007,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/23/meta-is-having-a-chatgpt-moment-with-muse-what-is-it-and-what-makes-it-so-special.html",
+      "cross_verified": true,
+      "published_at": "2026-09-23T16:22:24.000000Z"
+    },
     {
       "title": "META Maintained by Keybanc -- Price Target Raised to $900",
       "title_ko": "META, 키뱅크가 담당 — 목표 주가 900달러로 상향 조정",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9082407/former-google-deepmind-researcher-raises-a-new-warning-about-ai-risk",
       "cross_verified": true,
       "published_at": "2026-09-15T20:12:04.000000Z"
-    },
-    {
-      "title": "AMZN Looks 0.2% Overvalued on GF Value™ as Price-to-Sales Signals Caution",
-      "title_ko": "GF Value™에 따르면 AMZN은 매출 대비 주가 비율이 경계 신호를 보내고 있어 0.2% 과대평가된 것으로 보인다",
-      "snippet": "On September 15, 2026, Amazon.com Inc (NASDAQ: AMZN) disclosed ongoing challenges related to a disruption in its Middle East AWS infrastructure, impacting multi",
-      "snippet_ko": "2026년 9월 15일, Amazon.com Inc(나스닥: AMZN)는 중동 지역 AWS 인프라 장애와 관련된 지속적인 문제를 공개했으며, 이로 인해 다수의",
-      "symbol": "AMZN",
-      "sentiment_score": 0.089,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9082429/amzn-looks-02-overvalued-on-gf-value-as-pricetosales-signals-caution",
-      "cross_verified": true,
-      "published_at": "2026-09-15T18:50:39.000000Z"
-    },
-    {
-      "title": "3 Smart Growth Stocks For A Higher-Yield Market",
-      "title_ko": "고수익 시장을 위한 3가지 스마트 성장주",
-      "snippet": "Discover 3 Quant-backed growth stocks built for a higher-yield market. Join Steven Cress as he breaks down top data-driven stock picks for elevated interest rates.",
-      "snippet_ko": "높은 수익률 시장을 대비해 퀀트 분석에 기반한 성장주 3종을 만나보세요. 스티븐 크레스가 금리 상승기에 주목할 만한 데이터 기반 추천 종목을 상세히 분석해 드립니다.",
-      "symbol": "INTC",
-      "sentiment_score": 0.4495,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4946682-3-smart-growth-stocks-for-a-higher-yield-market",
-      "cross_verified": true,
-      "published_at": "2026-09-15T18:37:00.000000Z"
-    },
-    {
-      "title": "INTC Looks 209.3% Overvalued on GF Value™",
-      "title_ko": "GF Value™에 따르면 INTC는 209.3% 과대평가된 것으로 나타났습니다.",
-      "snippet": "On September 15, 2026, Altera, a chipmaker backed by Silver Lake and Intel, filed confidentially for an initial public offering (IPO), signaling a major develop",
-      "snippet_ko": "2026년 9월 15일, 실버 레이크와 인텔의 투자를 받은 반도체 제조사 알테라(Altera)가 비공개로 기업공개(IPO)를 신청하며, 이는 중대한 전개를 예고하는 신호로 해석된다.",
-      "symbol": "INTC",
-      "sentiment_score": 0.0258,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9082134/intc-looks-2093-overvalued-on-gf-value",
-      "cross_verified": true,
-      "published_at": "2026-09-15T15:57:24.000000Z"
     }
   ]
 }
