@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-23T22:51:32.336901+00:00",
+  "updated_at": "2026-09-24T04:14:56.074357+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Bio-Techne (TECH) Shareholders Approve $Merger Agreement With Merck KGaA",
+      "title_ko": "바이오테크네(TECH) 주주들, 머크 KGaA와의 합병 계약 승인",
+      "snippet": "Bio-Techne Corporation (TECH) announced that its shareholders have voted to approve and adopt the previously disclosed Agreement and Plan of Merger with Merck",
+      "snippet_ko": "바이오테크네 코퍼레이션(TECH)은 주주들이 앞서 공개된 머크(Merck)와의 합병 계약 및 계획안을 승인하고 채택하기로 의결했다고 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.5781,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9094663/biotechne-tech-shareholders-approve-merger-agreement-with-merck-kgaa",
+      "cross_verified": true,
+      "published_at": "2026-09-24T03:30:08.000000Z"
+    },
+    {
+      "title": "IQVIA Holdings (IQV) Completes $2 Billion Senior Notes Offering to Refinance Debt",
+      "title_ko": "IQVIA 홀딩스(IQV), 부채 재융자를 위해 20억 달러 규모의 선순위 채권 발행 완료",
+      "snippet": "IQVIA Holdings Inc. (IQV) announced that its wholly owned subsidiary, IQVIA Inc., has completed the issuance and sale of $2 billion in gross proceeds of 6.375%",
+      "snippet_ko": "IQVIA Holdings Inc. (IQV)는 자사의 100% 자회사인 IQVIA Inc.가 총 조달액 20억 달러 규모의 연 6.375% 채권 발행 및 판매를 완료했다고 발표했다.",
+      "symbol": "",
+      "sentiment_score": -0.2793,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9094662/iqvia-holdings-iqv-completes-2-billion-senior-notes-offering-to-refinance-debt",
+      "cross_verified": true,
+      "published_at": "2026-09-24T03:30:07.000000Z"
+    },
+    {
+      "title": "NN Stock: Repeated Guidance Raises Are Hard To Ignore (Ratings Upgrade) (NASDAQ:NNBR)",
+      "title_ko": "NN 주식: 잇따른 실적 전망 상향 조정은 무시하기 어렵다 (투자의견 상향) (나스닥:NNBR)",
+      "snippet": "NN, Inc. (NNBR) upgraded to Buy: strong sales growth, diversified end markets, and AI data center liquid cooling tailwinds. See more details here.",
+      "snippet_ko": "NN, Inc. (NNBR)가 ‘매수’로 상향 조정되었습니다: 강력한 매출 성장, 다각화된 최종 시장, 그리고 AI 데이터센터 수냉식 냉각 시장의 호재 때문입니다. 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": -0.1562,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4949229-nn-inc-repeated-guidance-raises-are-hard-to-ignore-ratings-upgrade",
+      "cross_verified": true,
+      "published_at": "2026-09-24T03:21:55.000000Z"
+    },
     {
       "title": "MO Looks 19.3% Overvalued on GF Value™ Amid Dividend Sustainability Concerns",
       "title_ko": "배당금 지속 가능성에 대한 우려가 제기되는 가운데, GF Value™ 기준 MO는 19.3% 과대평가된 것으로 나타남",
@@ -1165,45 +1201,45 @@
       "url": "https://www.insurancejournal.com/news/southcentral/2026/09/15/885190.htm",
       "cross_verified": true,
       "published_at": "2026-09-15T16:03:57.000000Z"
-    },
-    {
-      "title": "SPY Looks 12.0% Overvalued on GF Value™ as of September 15, 2026",
-      "title_ko": "2026년 9월 15일 기준, GF Value™에 따르면 SPY는 12.0% 과대평가된 것으로 나타났습니다.",
-      "snippet": "On September 15, 2026, BlackRock highlighted that despite rising borrowing costs and elevated energy prices, corporate fundamentals remain resilient, supporting",
-      "snippet_ko": "2026년 9월 15일, 블랙록은 차입 비용 상승과 높은 에너지 가격에도 불구하고 기업의 펀더멘털이 여전히 견고하여, 이를 뒷받침하고 있다고 강조했습니다.",
-      "symbol": "",
-      "sentiment_score": 0.444,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9082136/spy-looks-120-overvalued-on-gf-value-as-of-september-15-2026",
-      "cross_verified": true,
-      "published_at": "2026-09-15T15:57:45.000000Z"
-    },
-    {
-      "title": "INGM Projects Strong Growth but Faces Valuation Challenges Amid Insider Selling",
-      "title_ko": "INGM, 강력한 성장 전망을 내놓고 있으나 내부자 매도로 인해 기업 가치 평가에 어려움을 겪고 있다",
-      "snippet": "On September 15, 2026, Ingram Micro Holding Corp (NYSE: INGM) announced optimistic growth forecasts for the 2026-2029 period, projecting double-digit net income",
-      "snippet_ko": "2026년 9월 15일, 잉그램 마이크로 홀딩스(Ingram Micro Holding Corp, NYSE: INGM)는 2026~2029년 기간에 대한 낙관적인 성장 전망을 발표하며, 두 자릿수 순이익을 예상했다.",
-      "symbol": "",
-      "sentiment_score": 0.5588,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9081402/ingm-projects-strong-growth-but-faces-valuation-challenges-amid-insider-selling",
-      "cross_verified": true,
-      "published_at": "2026-09-15T11:29:02.000000Z"
-    },
-    {
-      "title": "ABT Looks 22.9% Undervalued on GF Value™",
-      "title_ko": "GF Value™에 따르면 ABT는 22.9% 저평가된 것으로 나타남",
-      "snippet": "On September 15, 2026, Abbott Laboratories (NYSE: ABT) announced the successful launch of its innovative Volt Pulsed Field Ablation System in Canada, a breakthr",
-      "snippet_ko": "2026년 9월 15일, 애보트 래버러토리스(NYSE: ABT)는 획기적인 혁신적인 ‘볼트 펄스 필드 절제 시스템(Volt Pulsed Field Ablation System)’을 캐나다에서 성공적으로 출시했다고 발표했습니다.",
-      "symbol": "",
-      "sentiment_score": 0.7019,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9081397/abt-looks-229-undervalued-on-gf-value",
-      "cross_verified": true,
-      "published_at": "2026-09-15T11:26:39.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Meta launches $1,299 VR glasses-style headset to take on Apple's Vision Pro",
+      "title_ko": "메타, 애플의 ‘비전 프로’에 맞서 1,299달러짜리 안경형 VR 헤드셋 출시",
+      "snippet": "Meta's new headset weighs about 100 grams after shifting its processor, battery and cooling system to an external pack, targeting a lighter and cheaper alternative to Apple's Vision Pro",
+      "snippet_ko": "메타의 새로운 헤드셋은 프로세서, 배터리, 냉각 시스템을 외부 팩으로 분리함으로써 무게를 약 100그램으로 줄였으며, 애플의 ‘비전 프로’에 비해 더 가볍고 저렴한 대안을 목표로 하고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4361,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/technology/tech-news/meta-launches-1-299-vr-glasses-style-headset-to-take-on-apple-s-vision-pro-126092400125_1.html",
+      "cross_verified": true,
+      "published_at": "2026-09-24T02:15:15.000000Z"
+    },
+    {
+      "title": "Meta Launches Muse Charm: A New AI Device for 2026",
+      "title_ko": "메타, 2026년을 위한 새로운 AI 기기 ‘뮤즈 참(Muse Charm)’ 출시",
+      "snippet": "On September 23, 2026, Meta Platforms Inc. (META) announced the launch of its new device, the Muse Charm, a compact gadget designed to enhance user interaction",
+      "snippet_ko": "2026년 9월 23일, 메타 플랫폼스(META)는 사용자 상호작용을 강화하기 위해 설계된 소형 기기인 ‘뮤즈 참(Muse Charm)’이라는 신제품의 출시를 발표했다.",
+      "symbol": "META",
+      "sentiment_score": 0.5662,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9094625/meta-launches-muse-charm-a-new-ai-device-for-2026",
+      "cross_verified": true,
+      "published_at": "2026-09-24T01:50:36.000000Z"
+    },
+    {
+      "title": "META Looks 13.0% Undervalued on GF Value™",
+      "title_ko": "GF Value™에 따르면 META는 13.0% 저평가된 것으로 나타났습니다.",
+      "snippet": "On September 23, 2026, Meta Platforms Inc (NASDAQ: META) unveiled a new device featuring a vibrant OLED touchscreen and integrated 5G modem, designed to enhance",
+      "snippet_ko": "2026년 9월 23일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)는 생생한 OLED 터치스크린과 내장형 5G 모뎀을 탑재한 새로운 기기를 공개했으며, 이 기기는",
+      "symbol": "META",
+      "sentiment_score": 0.3645,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9094618/meta-looks-130-undervalued-on-gf-value",
+      "cross_verified": true,
+      "published_at": "2026-09-24T01:25:23.000000Z"
+    },
     {
       "title": "GOOG Looks 33.3% Overvalued on GF Value™ Amid Strong Fundamentals",
       "title_ko": "GOOG, 견실한 펀더멘털 속에서도 GF Value™ 기준 33.3% 과대평가된 것으로 나타남",
@@ -2367,42 +2403,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/31-berkshire-hathaways-portfolio-riding-165000300.html",
       "cross_verified": true,
       "published_at": "2026-09-16T16:50:00.000000Z"
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-      "title_ko": "장 개장 전: 목요일 주식 시장 흐름을 좌우할 10가지 요인",
-      "snippet": "Indian equities rebounded on September 16 after Tuesdays sharp sell-off, with Sensex gaining 333 points and Nifty rising 99 points. Large caps led gains, while broader markets declined. Groww, Paytm and Pine Labs featured among the most active stocks.",
-      "snippet_ko": "인도 증시는 화요일의 급격한 매도세 이후 9월 16일 반등세를 보였으며, 센섹스 지수는 333포인트, 니프티 지수는 99포인트 각각 상승했다. 대형주가 상승세를 주도한 반면, 전반적인 시장은 하락세를 보였다. 그로우(Groww), 페이텀(Paytm), 파인 랩스(Pine Labs)가 거래량이 가장 많은 종목에 이름을 올렸다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4959,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/134291836.cms",
-      "cross_verified": true,
-      "published_at": "2026-09-16T15:57:53.000000Z"
-    },
-    {
-      "title": "Intel Rises 4%, SK Hynix Climbs 3% on Reports of Talks to Make Memory Chips at Ohio Campus; Micron Holds Flat",
-      "title_ko": "오하이오 캠퍼스에서 메모리 칩 생산을 위한 협의 중이라는 보도에 인텔은 4%, SK하이닉스는 3% 상승한 반면, 마이크론은 보합세를 보임",
-      "snippet": "A Reuters report about SK Hynix possibly producing memory chips on Intel's Ohio campus sent shares of both companies surging, but the real story is what the deal's structure could mean for Micron and the future of U.S. chip manufacturing.",
-      "snippet_ko": "SK하이닉스가 인텔의 오하이오 캠퍼스에서 메모리 칩을 생산할 가능성이 있다는 로이터 통신의 보도로 양사 주가가 급등했으나, 진짜 핵심은 이번 거래 구조가 마이크론과 미국 반도체 제조업의 미래에 어떤 의미를 지닐지다.",
-      "symbol": "INTC",
-      "sentiment_score": 0.5103,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-rises-4-sk-hynix-123933795.html",
-      "cross_verified": true,
-      "published_at": "2026-09-16T12:39:33.000000Z"
-    },
-    {
-      "title": "Alphabet, Exelon, and Patterson-UTI Just Paid Shareholders. Here’s What They Got.",
-      "title_ko": "알파벳, 엑셀론, 패터슨-UTI가 최근 주주들에게 배당금을 지급했습니다. 주주들이 받은 금액은 다음과 같습니다.",
-      "snippet": "Three companies with nothing in common all sent checks to shareholders within the same two-day window, and the reasons behind each payment reveal something very different about where each business is headed.",
-      "snippet_ko": "서로 아무런 공통점도 없는 세 회사가 모두 이틀이라는 같은 기간 내에 주주들에게 수표를 발송했는데, 각 지급의 배경을 살펴보면 각 기업의 향후 방향에 대해 매우 다른 점을 엿볼 수 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3807,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-exelon-patterson-uti-just-123504231.html",
-      "cross_verified": true,
-      "published_at": "2026-09-16T12:35:04.000000Z"
     }
   ]
 }
