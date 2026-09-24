@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-24T11:29:34.413466+00:00",
+  "updated_at": "2026-09-24T16:55:46.514934+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Dycom Industries, Inc. (DY) Presents at 25th Annual Diversified Industrials & Services Conference Transcript",
+      "title_ko": "Dycom Industries, Inc. (DY), 제25회 연례 다각화 산업 및 서비스 컨퍼런스에서 발표 - 발표록",
+      "snippet": "Dycom Industries, Inc. (DY) 25th Annual Diversified Industrials & Services Conference September 24, 2026 9:00 AM EDTCompany ParticipantsDaniel Peyovich...",
+      "snippet_ko": "Dycom Industries, Inc. (DY) 제25회 연례 다각화 산업 및 서비스 컨퍼런스 2026년 9월 24일 오전 9:00 (EDT) 참가 기업 대표 Daniel Peyovich...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4949503-dycom-industries-inc-dy-presents-at-25th-annual-diversified-industrials-and-services",
+      "cross_verified": true,
+      "published_at": "2026-09-24T16:29:48.000000Z"
+    },
+    {
+      "title": "Mortgage Rates Average 7.03%",
+      "title_ko": "주택담보대출 금리 평균 7.03%",
+      "snippet": "Mortgage Rates Average 7.03%",
+      "snippet_ko": "주택담보대출 금리 평균 7.03%",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/25/tmt-newswire/globenewswire/mortgage-rates-average-703/2432555",
+      "cross_verified": true,
+      "published_at": "2026-09-24T16:18:37.000000Z"
+    },
+    {
+      "title": "Cricut® Launches a New Category with the All-New Cricut StickerPix™ Line, Bringing Personalized Sticker Making into Its Creativity Platform",
+      "title_ko": "Cricut®이 완전히 새로워진 Cricut StickerPix™ 라인을 통해 새로운 카테고리를 선보이며, 맞춤형 스티커 제작 기능을 자사의 창의성 플랫폼에 도입했습니다.",
+      "snippet": "With new Cricut StickerPix Print + Cut™ and Cricut StickerPix Print™, users can make custom stickers and photo prints - at home, in minutes",
+      "snippet_ko": "새로운 Cricut StickerPix Print + Cut™ 및 Cricut StickerPix Print™를 사용하면, 사용자는 집에서 단 몇 분 만에 나만의 스티커와 사진 인화물을 만들 수 있습니다.",
+      "symbol": "",
+      "sentiment_score": 0.18,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/25/tmt-newswire/globenewswire/cricut-launches-a-new-category-with-the-all-new-cricut-stickerpix-line-bringing-personalized-sticker-making-into-its-creativity-platform/2432553",
+      "cross_verified": true,
+      "published_at": "2026-09-24T16:18:26.000000Z"
+    },
     {
       "title": "H & M Hennes & Mauritz AB (publ) (HNNMY) Q3 2026 Earnings Call Transcript",
       "title_ko": "H&M Hennes & Mauritz AB (publ) (HNNMY) 2026년 3분기 실적 발표 전화 회의 기록",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4947138-co-diagnostics-inc-codx-shareholder-analyst-call-slideshow",
       "cross_verified": true,
       "published_at": "2026-09-16T17:05:19.000000Z"
-    },
-    {
-      "title": "JPMorgan Chase Stock Is Beating Nu This Year, but Only One of Them Had Positive Free Cash Flow Last Year",
-      "title_ko": "올해 JPMorgan Chase 주가는 Nu보다 더 좋은 성과를 보이고 있지만, 작년 자유현금흐름이 흑자를 기록한 곳은 단 한 곳뿐이었다",
-      "snippet": "JPMorgan trades at a cheaper valuation, but Nu's 43% revenue growth and positive free cash flow tell a starkly different profitability story.",
-      "snippet_ko": "JPMorgan의 기업 가치는 상대적으로 낮게 평가되고 있지만, Nu의 43% 매출 성장률과 흑자 자유 현금 흐름은 수익성 측면에서 완전히 다른 양상을 보여주고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.4929,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-stock-beating-nu-124101333.html",
-      "cross_verified": true,
-      "published_at": "2026-09-16T12:41:01.000000Z"
-    },
-    {
-      "title": "IBM's New AI Deal Must Handle 23 Million Transactions Daily",
-      "title_ko": "IBM의 새로운 AI 계약은 매일 2,300만 건의 거래를 처리해야 한다",
-      "snippet": "International Business Machines (IBM), the hybrid-cloud, mainframe and enterprise-AI provider, expanded its relationship with Turkey's Kredi KayÄ±t Bürosu on M",
-      "snippet_ko": "하이브리드 클라우드, 메인프레임 및 엔터프라이즈 AI 솔루션 제공업체인 인터내셔널 비즈니스 머신즈(IBM)는 M일, 터키의 크레디 카이얏 부루소(Kredi Kayıt Bürosu)와의 협력 관계를 확대했다.",
-      "symbol": "",
-      "sentiment_score": 0.4397,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9082176/ibms-new-ai-deal-must-handle-23-million-transactions-daily",
-      "cross_verified": true,
-      "published_at": "2026-09-15T21:06:01.000000Z"
-    },
-    {
-      "title": "Thatch Announces $108M Financing Round",
-      "title_ko": "Thatch, 1억 800만 달러 규모의 자금 조달 라운드 발표",
-      "snippet": "SAN FRANCISCO, CA, Thatch today announced that it has raised $108 million in new funding at a $1 billion valuation.",
-      "snippet_ko": "캘리포니아주 샌프란시스코 — Thatch는 오늘 기업 가치 10억 달러를 기준으로 1억 800만 달러의 신규 자금을 조달했다고 발표했다.",
-      "symbol": "",
-      "sentiment_score": 0.441,
-      "source": "vcnewsdaily.com",
-      "url": "https://vcnewsdaily.com/thatch/venture-capital-funding/vttlpsswrj",
-      "cross_verified": true,
-      "published_at": "2026-09-15T21:03:10.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "GOOG Looks 33.1% Overvalued on GF Value™ as AI Space Initiative Unfolds",
+      "title_ko": "AI 분야 진출이 본격화되면서 GOOG, GF Value™ 기준 33.1% 과대평가된 것으로 나타남",
+      "snippet": "On September 24, 2026, Alphabet Inc (GOOG) announced a pioneering step in deploying artificial intelligence processors in space through its Project Suncatcher.",
+      "snippet_ko": "2026년 9월 24일, 알파벳(Alphabet Inc, GOOG)은 ‘프로젝트 선캐처(Project Suncatcher)’를 통해 우주 공간에 인공지능 프로세서를 배치하는 데 있어 선구적인 조치를 발표했습니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.4086,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9095707/goog-looks-331-overvalued-on-gf-value-as-ai-space-initiative-unfolds",
+      "cross_verified": true,
+      "published_at": "2026-09-24T15:56:26.000000Z"
+    },
+    {
+      "title": "Why US stock market crashes today? 3 reasons Dow Jones, Nasdaq and S&P 500 are in deep red as tech stocks fall across the board",
+      "title_ko": "오늘 미국 증시가 폭락한 이유는 무엇일까? 기술주들이 일제히 하락하면서 다우존스, 나스닥, S&P 500 지수가 큰 폭의 하락세를 보이는 3가지 이유",
+      "snippet": "Why US Stock Market Is Falling Today? US equities stumbled across the board Thursday morning, with all three major market benchmarks sliding into negative territory. The Dow Jones Industrial Average dropped 383 points, while the tech-heavy Nasdaq Composite and the S&P 500 fell 0.8% and 0.5% respectively. Oracle fell 4.95%, taking $7.16 off its share price to trade around $137.40.",
+      "snippet_ko": "오늘 미국 증시가 하락하는 이유는 무엇일까? 목요일 오전 미국 증시는 전반적으로 부진한 모습을 보였으며, 3대 주요 지수 모두 하락세로 돌아섰다. 다우존스 산업평균지수는 383포인트 하락했고, 기술주 중심의 나스닥 종합지수와 S&P 500 지수는 각각 0.8%와 0.5% 하락했다. 오라클은 4.95% 하락하며 주가가 7.16달러 떨어져 137.40달러 선에서 거래되고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.8709,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-us-stock-market-crashes-today-3-reasons-dow-jones-nasdaq-and-sp-500-are-in-deep-red-as-tech-stocks-fall-across-the-board/articleshow/134466037.cms",
+      "cross_verified": true,
+      "published_at": "2026-09-24T15:52:13.000000Z"
+    },
+    {
+      "title": "Amazon Expands Robotics Manufacturing with $100M Investment in Indiana",
+      "title_ko": "아마존, 인디애나주에 1억 달러 투자하며 로봇 제조 사업 확대",
+      "snippet": "On September 24, 2026, Amazon.com Inc (AMZN) announced plans to enhance its robotics production capabilities with a new manufacturing facility in Greenwood, Ind",
+      "snippet_ko": "2026년 9월 24일, 아마존닷컴(Amazon.com Inc, AMZN)은 인디애나주 그린우드에 새로운 제조 시설을 설립해 로봇 생산 역량을 강화할 계획을 발표했다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.0258,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9095663/amazon-expands-robotics-manufacturing-with-100m-investment-in-indiana",
+      "cross_verified": true,
+      "published_at": "2026-09-24T15:30:33.000000Z"
+    },
     {
       "title": "OpenAI Agent Hacked Australian Government Health Website",
       "title_ko": "OpenAI 에이전트가 호주 정부 보건 웹사이트를 해킹했다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.livemint.com/news/us-news/trump-to-host-chinas-xi-jinping-what-to-expect-wholl-attend-state-dinner-in-washington-all-you-need-to-know-11789610301267.html",
       "cross_verified": true,
       "published_at": "2026-09-17T02:06:35.000000Z"
-    },
-    {
-      "title": "Global Markets Update: OpenAI Discloses Safety Incidents, Google Dodges Breakup, and Brazil Trims Rates",
-      "title_ko": "글로벌 시장 동향: 오픈AI, 안전 사고 공개… 구글, 분할 위기 모면… 브라질, 금리 인하",
-      "snippet": "OpenAI has introduced a formal framework to track and disclose incidents where its AI models behave in unexpected or \"misaligned\" ways. The company",
-      "snippet_ko": "OpenAI는 자사의 AI 모델이 예상치 못한 방식이나 “일치하지 않는” 방식으로 작동하는 사고를 추적하고 공개하기 위한 공식적인 체계를 도입했다. 이 회사는",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.3206,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/global-markets-update-openai-discloses-safety-incidents-google-dodges-breakup-and-brazil-trims-rates/71877/",
-      "cross_verified": true,
-      "published_at": "2026-09-16T22:08:16.000000Z"
-    },
-    {
-      "title": "Fed Hikes Rates by 25 Basis Points as Chairman Warsh Signals “Higher for Longer” Stance",
-      "title_ko": "워시 의장이 “더 오랫동안 더 높은 금리” 기조를 시사한 가운데, 연준이 금리를 25 베이시스 포인트 인상했다",
-      "snippet": "The Federal Open Market Committee (FOMC) concluded its September meeting by raising interest rates for the first time in three years. The 25-basis-point hike",
-      "snippet_ko": "연방공개시장위원회(FOMC)는 9월 회의를 마치고 3년 만에 처음으로 금리를 인상했다. 25베이시스포인트의 금리 인상",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.128,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/fed-hikes-rates-by-25-basis-points-as-chairman-warsh-signals-higher-for-longer-stance/71872/",
-      "cross_verified": true,
-      "published_at": "2026-09-16T20:38:12.000000Z"
-    },
-    {
-      "title": "Global Markets Update: Central Banks Signal Inflation Alarms Amid Geopolitical Tensions",
-      "title_ko": "글로벌 시장 동향: 지정학적 긴장 고조 속 중앙은행들, 인플레이션 경보 신호 보내",
-      "snippet": "The Bank of Canada released minutes today revealing deep concerns among Governing Council members that the ongoing Iran war will keep fuel prices elevated for",
-      "snippet_ko": "캐나다 중앙은행은 오늘 회의록을 공개하며, 이란과의 전쟁이 지속될 경우 유가가 장기간 높은 수준을 유지할 것이라는 점에 대해 정책위원회 위원들 사이에서 깊은 우려가 제기되었음을 밝혔다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.1236,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/global-markets-update-central-banks-signal-inflation-alarms-amid-geopolitical-tensions/71864/",
-      "cross_verified": true,
-      "published_at": "2026-09-16T17:38:20.000000Z"
     }
   ]
 }
