@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-24T21:23:03.328820+00:00",
+  "updated_at": "2026-09-25T00:23:40.758260+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "SLC Agrícola S.A. (SLCJY) Presents at J. Safra Investment Conference 2026 - Slideshow (OTCMKTS:SLCJY) 2026-09-24",
+      "title_ko": "SLC Agrícola S.A. (SLCJY), ‘J. Safra Investment Conference 2026’에서 발표 - 슬라이드 쇼 (OTCMKTS:SLCJY) 2026-09-24",
+      "snippet": "2026-09-24. The following slide deck was published by SLC Agrícola S.A.",
+      "snippet_ko": "2026년 9월 24일. 다음 슬라이드 자료는 SLC Agrícola S.A.에서 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4949621-slc-agricola-s-a-slcjy-presents-at-j-safra-investment-conference-2026-slideshow",
+      "cross_verified": true,
+      "published_at": "2026-09-24T23:16:01.000000Z"
+    },
+    {
+      "title": "Cue Biopharma, Inc. (CUE) Discusses Positive Phase II Top Line Results for CUE-221 in Chronic Spontaneous Urticaria - Slideshow (NASDAQ:CUE) 2026-09-24",
+      "title_ko": "Cue Biopharma, Inc. (CUE), 만성 자발성 두드러기 치료제 CUE-221의 긍정적인 2상 임상시험 주요 결과 발표 - 슬라이드쇼 (NASDAQ:CUE) 2026-09-24",
+      "snippet": "2026-09-24. The following slide deck was published by Cue Biopharma, Inc.",
+      "snippet_ko": "2026년 9월 24일. 다음 슬라이드 자료는 Cue Biopharma, Inc.에서 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.6597,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4949620-cue-biopharma-inc-cue-discusses-positive-phase-ii-top-line-results-for-cueminus-221-in",
+      "cross_verified": true,
+      "published_at": "2026-09-24T23:14:23.000000Z"
+    },
+    {
+      "title": "Rapid Micro Biosystems, Inc. (RPID) Presents at Small-Cap Virtual Conference - Slideshow (NASDAQ:RPID) 2026-09-24",
+      "title_ko": "Rapid Micro Biosystems, Inc. (RPID), 소형주 가상 컨퍼런스에서 발표 - 슬라이드 쇼 (NASDAQ:RPID) 2026-09-24",
+      "snippet": "2026-09-24. The following slide deck was published by Rapid Micro Biosystems, Inc.",
+      "snippet_ko": "2026년 9월 24일. 다음 슬라이드 자료는 Rapid Micro Biosystems, Inc.에서 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4949619-rapid-micro-biosystems-inc-rpid-presents-at-small-cap-virtual-conference-slideshow",
+      "cross_verified": true,
+      "published_at": "2026-09-24T23:12:56.000000Z"
+    },
     {
       "title": "Avery Dennison Corporation (AVY) Discusses Strategic Importance and Growth Initiatives in High-Value Categories Transcript",
       "title_ko": "에이버리 데니슨 코퍼레이션(AVY), 고부가가치 부문의 전략적 중요성과 성장 전략에 대해 논의한 회의록",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4947307-cisco-stock-could-soon-wake-from-its-summer-slumber",
       "cross_verified": true,
       "published_at": "2026-09-17T03:07:20.000000Z"
-    },
-    {
-      "title": "Protalix BioTherapeutics, Inc. (PLX) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
-      "title_ko": "프로탈릭스 바이오테라퓨틱스(Protalix BioTherapeutics, Inc., PLX), 모건 스탠리 제24회 연례 글로벌 헬스케어 컨퍼런스에서 발표: 발표록",
-      "snippet": "Protalix BioTherapeutics, Inc. (PLX) Morgan Stanley 24th Annual Global Healthcare Conference September 16, 2026 1:05 PM EDTCompany ParticipantsGilad Mamlok...",
-      "snippet_ko": "프로탈릭스 바이오테라퓨틱스(Protalix BioTherapeutics, Inc., PLX), 모건 스탠리 제24회 연례 글로벌 헬스케어 컨퍼런스, 2026년 9월 16일 오후 1시 05분(EDT) 참가 기업 대표: 길라드 맘록...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947177-protalix-biotherapeutics-inc-plx-presents-at-morgan-stanley-24th-annual-global-healthcare",
-      "cross_verified": true,
-      "published_at": "2026-09-16T22:11:40.000000Z"
-    },
-    {
-      "title": "NextEra Energy: A Premium Worth Paying For (NYSE:NEE)",
-      "title_ko": "넥스트에라 에너지: 그만한 가치가 있는 주식 (NYSE:NEE)",
-      "snippet": "NextEra’s strong operating margins, regulated earnings base, and exposure to rising data center power demand support long-term growth. Click for more on NEE.",
-      "snippet_ko": "넥스트에라(NextEra)의 견실한 영업 마진, 규제 대상 수익 기반, 그리고 증가하는 데이터센터 전력 수요에 대한 노출은 장기적인 성장을 뒷받침합니다. NEE에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.2263,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947235-nextera-energy-a-premium-worth-paying-for",
-      "cross_verified": true,
-      "published_at": "2026-09-16T21:44:15.000000Z"
-    },
-    {
-      "title": "Equinox Gold: Meet The New Gold Giant The Market Is Underestimating (NYSE:EQX)",
-      "title_ko": "에퀴녹스 골드: 시장이 과소평가하고 있는 새로운 금 업계의 거물을 만나보세요 (NYSE:EQX)",
-      "snippet": "Equinox Gold is rated a Strong Buy after the Orla acquisition, solidifying its position as a major North American gold producer. Click to read more on EQX.",
-      "snippet_ko": "에퀴녹스 골드(Equinox Gold)는 오를라(Orla) 인수를 통해 북미 주요 금 생산 기업으로서의 입지를 공고히 하며 ‘강력 매수(Strong Buy)’ 등급을 받았습니다. EQX에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.3298,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947231-equinox-gold-meet-the-new-gold-giant-the-market-is-underestimating",
-      "cross_verified": true,
-      "published_at": "2026-09-16T21:32:31.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Could John Ternus’ Product Strategy Reshape Apple’s (AAPL) Next Growth Phase?",
+      "title_ko": "존 테르누스의 제품 전략이 애플(AAPL)의 다음 성장 단계를 재편할 수 있을까?",
+      "snippet": "Apple Inc.",
+      "snippet_ko": "애플(Apple Inc.)",
+      "symbol": "AAPL",
+      "sentiment_score": 0.1978,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/could-john-ternus-product-strategy-reshape-apples-aapl-next-growth-phase-1841161/",
+      "cross_verified": true,
+      "published_at": "2026-09-24T23:01:17.000000Z"
+    },
+    {
+      "title": "Google is Changing Search to Avoid More EU Fines. Could Compliance Become the Bigger Risk?",
+      "title_ko": "구글, EU의 추가 과징금을 피하기 위해 검색 서비스를 변경하고 있다. 규정 준수가 더 큰 위험 요소가 될 수 있을까?",
+      "snippet": "Alphabet Inc. (NASDAQ:GOOGL) has spent years fighting European regulators over how Google Search treats competing services.",
+      "snippet_ko": "알파벳(Alphabet Inc., 나스닥: GOOGL)은 구글 검색이 경쟁 서비스를 어떻게 취급하는지를 둘러싸고 수년 동안 유럽 규제 당국과 갈등을 빚어왔다.",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.1694,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/google-is-changing-search-to-avoid-more-eu-fines-could-compliance-become-the-bigger-risk-1841248/",
+      "cross_verified": true,
+      "published_at": "2026-09-24T22:44:00.000000Z"
+    },
+    {
+      "title": "Meta: Muse AI Set To Create New Multibillion-Dollar Revenue Stream (NASDAQ:META)",
+      "title_ko": "메타: 뮤즈 AI, 수십억 달러 규모의 새로운 수익원 창출 전망 (나스닥: META)",
+      "snippet": "Meta Platforms has launched Muse AI, which quickly topped U.S. app download charts, signaling robust user adoption. Click for more on this META update.",
+      "snippet_ko": "메타 플랫폼스(Meta Platforms)가 ‘뮤즈 AI(Muse AI)’를 출시했으며, 이 앱은 미국 앱 다운로드 차트에서 단숨에 1위를 차지하며 사용자들 사이에서 큰 호응을 얻고 있음을 보여주었습니다. 이 META 관련 소식에 대해 더 자세히 알아보려면 여기를 클릭하세요.",
+      "symbol": "META",
+      "sentiment_score": 0.2732,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4949599-meta-muse-ai-set-to-create-new-multibillion-dollar-revenue-stream",
+      "cross_verified": true,
+      "published_at": "2026-09-24T22:13:44.000000Z"
+    },
     {
       "title": "Meta: Muse Completely Rewrites The Playbook (Rating Upgrade) (NASDAQ:META)",
       "title_ko": "메타: 뮤즈, 게임의 룰을 완전히 뒤바꾸다 (등급 상향) (나스닥:META)",
@@ -2367,42 +2403,6 @@
       "url": "https://seekingalpha.com/article/4947512-meta-platforms-get-in-before-september-23",
       "cross_verified": true,
       "published_at": "2026-09-17T15:09:53.000000Z"
-    },
-    {
-      "title": "India's first vertically integrated SiC semiconductor unit nears production",
-      "title_ko": "인도 최초의 수직 통합형 SiC 반도체 생산 시설, 가동 임박",
-      "snippet": "RIR Power Electronics has installed key equipment at its Rs 618 crore Bhubaneswar facility, which is expected to begin operations within the next three months.",
-      "snippet_ko": "RIR 파워 일렉트로닉스는 618 크로레 루피 규모의 부바네스와르 공장에 주요 설비를 설치했으며, 이 공장은 향후 3개월 이내에 가동을 시작할 것으로 예상된다.",
-      "symbol": "INTC",
-      "sentiment_score": -0.2023,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/industry/news/india-s-first-vertically-integrated-sic-semiconductor-unit-nears-production-126091701289_1.html",
-      "cross_verified": true,
-      "published_at": "2026-09-17T14:46:57.000000Z"
-    },
-    {
-      "title": "Intel: Too Expensive Despite The Fast Growth (NASDAQ:INTC)",
-      "title_ko": "인텔: 빠른 성장세에도 불구하고 주가가 너무 비싸다 (나스닥: INTC)",
-      "snippet": "Intel (INTC) posts fastest growth in 15 years as Q2 revenue jumps 25% and margins expand; PC price hikes lift profit.",
-      "snippet_ko": "인텔(INTC)이 2분기 매출이 25% 급증하고 마진이 확대되면서 15년 만에 가장 빠른 성장세를 기록했으며, PC 가격 인상이 이익 증가를 이끌었다.",
-      "symbol": "INTC",
-      "sentiment_score": -0.1202,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947500-intel-too-expensive-despite-fast-growth",
-      "cross_verified": true,
-      "published_at": "2026-09-17T14:42:49.000000Z"
-    },
-    {
-      "title": "Wall Street Breakfast Podcast: Amazon Supercharges Generac",
-      "title_ko": "월스트리트 브렉퍼스트 팟캐스트: 아마존, 제너랙에 강력한 추진력을 더하다",
-      "snippet": "Generac lands an $8B opportunity with Amazon. One food safety issue cost Kroger $100M. The Fed raised rates. Trump responded.",
-      "snippet_ko": "제너랙(Generac)이 아마존과 80억 달러 규모의 계약을 체결했다. 크로거(Kroger)는 한 건의 식품 안전 문제로 1억 달러의 손실을 입었다. 연방준비제도(Fed)가 금리를 인상했다. 트럼프가 이에 대응했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2811,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947425-wall-street-breakfast-podcast-amazon-supercharges-generac",
-      "cross_verified": true,
-      "published_at": "2026-09-17T10:30:00.000000Z"
     }
   ]
 }
