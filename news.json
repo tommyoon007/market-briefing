@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-25T00:23:40.758260+00:00",
+  "updated_at": "2026-09-25T07:29:35.581344+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "SBI ATM charges waived during proposed bank strike of September 28-30: What customers need to know",
+      "title_ko": "9월 28일부터 30일까지 예정된 은행 파업 기간 중 SBI ATM 수수료 면제: 고객이 알아야 할 사항",
+      "snippet": "As the nation prepares for a bank strike from September 28 to September 30, 2026, the State Bank of India has decided to eliminate ATM charges for transactions during this time. Although branches will continue to operate, customers should prioritize completing necessary transactions beforehand and consider using digital banking options.",
+      "snippet_ko": "2026년 9월 28일부터 9월 30일까지 전국적으로 은행 파업이 예정됨에 따라, 인도 중앙은행(State Bank of India)은 이 기간 동안 ATM 이용 수수료를 면제하기로 결정했습니다. 지점은 정상 운영되지만, 고객 여러분께서는 필요한 거래를 미리 처리하는 것을 우선으로 하시고 디지털 뱅킹 서비스를 이용하는 것을 고려해 주시기 바랍니다.",
+      "symbol": "",
+      "sentiment_score": -0.3818,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/wealth/save/sbi-atm-charges-waived-during-proposed-bank-strike-of-september-28-30-what-customers-need-to-know/articleshow/134477591.cms",
+      "cross_verified": true,
+      "published_at": "2026-09-25T06:41:05.000000Z"
+    },
+    {
+      "title": "Scholastic Q1 Loss Widens, Revenues Down; Backs FY27 Outlook; Shares Drop 11%",
+      "title_ko": "스콜라스틱, 1분기 적자 폭 확대·매출 감소…27 회계연도 전망 유지…주가 11% 하락",
+      "snippet": "Shares of Scholastic Corp. (SCHL) were losing around 11 percent in the overnight activity on the Nasdaq after the children's publishing, education and media company reported slightly wider net loss in the first quarter of fiscal 2027 with lower revenues.",
+      "snippet_ko": "아동 출판·교육·미디어 기업인 스콜라스틱(Scholastic Corp., SCHL)이 2027 회계연도 1분기 매출 감소와 함께 순손실 규모가 소폭 확대되었다고 발표한 후, 나스닥 시장에서 장외 거래에서 주가가 약 11% 하락했다.",
+      "symbol": "",
+      "sentiment_score": 0.074,
+      "source": "rttnews.com",
+      "url": "https://www.rttnews.com/story.aspx?Id=3693885",
+      "cross_verified": true,
+      "published_at": "2026-09-25T06:37:48.000000Z"
+    },
     {
       "title": "SLC Agrícola S.A. (SLCJY) Presents at J. Safra Investment Conference 2026 - Slideshow (OTCMKTS:SLCJY) 2026-09-24",
       "title_ko": "SLC Agrícola S.A. (SLCJY), ‘J. Safra Investment Conference 2026’에서 발표 - 슬라이드 쇼 (OTCMKTS:SLCJY) 2026-09-24",
@@ -1177,33 +1201,57 @@
       "url": "https://seekingalpha.com/article/4947094-anavex-life-sciences-corp-avxl-discusses-board-misalignment-leadership-concerns-and-strategic",
       "cross_verified": true,
       "published_at": "2026-09-17T03:51:37.000000Z"
-    },
-    {
-      "title": "Cal-Maine Foods Stock: A Brutal Reset, But An Interesting Opportunity (NASDAQ:CALM)",
-      "title_ko": "Cal-Maine Foods 주가: 가혹한 조정, 그러나 흥미로운 기회 (NASDAQ:CALM)",
-      "snippet": "Cal-Maine Foods (CALM) rated Buy: diversification into specialty eggs & prepared foods, reasonable valuation (11.2x P/E) despite FY2026 dip. See more here.",
-      "snippet_ko": "Cal-Maine Foods (CALM) 매수 추천: 특산 계란 및 조리 식품 분야로의 사업 다각화, 2026 회계연도 실적 부진에도 불구하고 합리적인 밸류에이션(주가수익비율 11.2배). 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.1525,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947309-cal-maine-foods-a-brutal-reset-but-an-interesting-opportunity",
-      "cross_verified": true,
-      "published_at": "2026-09-17T03:14:59.000000Z"
-    },
-    {
-      "title": "Cisco Stock Could Soon Wake From Its Summer Slumber (NASDAQ:CSCO)",
-      "title_ko": "시스코 주가, 곧 여름 침체에서 깨어날 전망 (나스닥:CSCO)",
-      "snippet": "Cisco Q4 FY2026: revenue is +18% YoY, AI networking demand surges as hyperscaler orders jump 4.5x. Read here for a detailed investment analysis.",
-      "snippet_ko": "시스코 2026 회계연도 4분기: 매출이 전년 동기 대비 18% 증가했으며, 하이퍼스케일러의 주문량이 4.5배 급증함에 따라 AI 네트워킹 수요가 급증했습니다. 자세한 투자 분석은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.3891,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947307-cisco-stock-could-soon-wake-from-its-summer-slumber",
-      "cross_verified": true,
-      "published_at": "2026-09-17T03:07:20.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Oracle Cites ‘Force Majeure’ on Controversial New Mexico Data Center",
+      "title_ko": "오라클, 논란이 되고 있는 뉴멕시코 데이터센터와 관련해 ‘불가항력’을 주장",
+      "snippet": "Oracle Corp. is moving to shield itself from racking up expenses on a massive data center being built in New Mexico, adding a fresh wrinkle to a project",
+      "snippet_ko": "오라클은 뉴멕시코주에 건설 중인 초대형 데이터센터로 인해 비용이 급증하는 것을 막기 위해 조치를 취하고 있으며, 이로 인해 해당 프로젝트에 새로운 변수가 생겼다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.6075,
+      "source": "insurancejournal.com",
+      "url": "https://www.insurancejournal.com/news/west/2026/09/25/886812.htm",
+      "cross_verified": true,
+      "published_at": "2026-09-25T05:00:54.000000Z"
+    },
+    {
+      "title": "Anthropic signs $11.6 billion, seven-year AI computing deal with Akamai",
+      "title_ko": "앤트로픽, 아카마이와 116억 달러 규모의 7년짜리 AI 컴퓨팅 계약 체결",
+      "snippet": "Akamai will supply Anthropic access to central processing units, or CPUs, a type of generalist chip that's seen renewed demand in data centers where it's helping support AI services",
+      "snippet_ko": "아카마이는 앤트로픽에 중앙처리장치(CPU)를 공급할 예정이다. CPU는 범용 칩의 일종으로, AI 서비스 지원을 돕는 데이터 센터에서 수요가 다시 증가하고 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.071,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/anthropic-signs-11-6-billion-seven-year-ai-computing-deal-with-akamai-126092500134_1.html",
+      "cross_verified": true,
+      "published_at": "2026-09-25T03:32:28.000000Z"
+    },
+    {
+      "title": "Meta shares surge 36% as Muse AI fuels stock market rally",
+      "title_ko": "뮤즈 AI가 주식 시장 상승세를 이끈 가운데 메타 주가가 36% 급등했다",
+      "snippet": "Meta shares have surged 36% in September as its Muse AI assistant boosts investor optimism and eases concerns over the company’s heavy AI spending.",
+      "snippet_ko": "메타의 주가는 9월 한 달 동안 36% 급등했는데, 이는 자사의 AI 비서 ‘뮤즈(Muse)’가 투자자들의 낙관론을 고조시키고 회사의 막대한 AI 투자에 대한 우려를 완화했기 때문이다.",
+      "symbol": "META",
+      "sentiment_score": 0.5767,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/meta-stock-jumps-36-in-september-as-muse-ai-fuels-rally/article71506953.ece",
+      "cross_verified": true,
+      "published_at": "2026-09-25T03:24:54.000000Z"
+    },
+    {
+      "title": "LSEG – a model case of what’s possible in Britain today",
+      "title_ko": "LSEG – 오늘날 영국에서 무엇이 가능한지를 보여주는 모범 사례",
+      "snippet": "The London Stock Exchange has its issues, but the company that owns it has become a global juggernaut. Its stock is trading at a ten-year low valuation.",
+      "snippet_ko": "런던 증권거래소에는 몇 가지 문제가 있지만, 이 거래소를 소유한 회사는 세계적인 거대 기업으로 성장했다. 이 회사의 주가는 10년 만에 최저 수준에서 거래되고 있다.",
+      "symbol": "MSFT",
+      "sentiment_score": 0.2852,
+      "source": "undervalued-shares.com",
+      "url": "https://www.undervalued-shares.com/weekly-dispatches/lseg-a-model-case-of-whats-possible-in-britain-today/",
+      "cross_verified": true,
+      "published_at": "2026-09-25T06:32:27.000000Z"
+    },
     {
       "title": "Could John Ternus’ Product Strategy Reshape Apple’s (AAPL) Next Growth Phase?",
       "title_ko": "존 테르누스의 제품 전략이 애플(AAPL)의 다음 성장 단계를 재편할 수 있을까?",
@@ -2355,54 +2403,6 @@
       "url": "https://seekingalpha.com/article/4947656-wall-street-breakfast-with-steven-cress-generac-amazon-powell-kroger",
       "cross_verified": true,
       "published_at": "2026-09-17T21:50:00.000000Z"
-    },
-    {
-      "title": "Tech power players land seat at table for high-stakes dinner with Trump, Xi",
-      "title_ko": "기술 업계 거물들, 트럼프·시진핑과 함께한 중대한 만찬 자리에 합류",
-      "snippet": "Donald Trump is planning a state dinner for Chinese President Xi Jinping, with OpenAI CEO Sam Altman and Apple's Tim Cook reportedly planning to attend.",
-      "snippet_ko": "도널드 트럼프 대통령은 시진핑 중국 국가주석을 위한 국빈 만찬을 계획 중이며, 보도에 따르면 오픈AI의 샘 알트만 CEO와 애플의 팀 쿡도 참석할 예정이라고 한다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.084,
-      "source": "foxbusiness.com",
-      "url": "https://www.foxbusiness.com/markets/tech-power-players-land-seat-table-high-stakes-dinner-trump-xi",
-      "cross_verified": true,
-      "published_at": "2026-09-17T20:18:40.000000Z"
-    },
-    {
-      "title": "SK hynix Could Be The Catalyst Intel Foundry Needs (Rating Upgrade) (NASDAQ:INTC)",
-      "title_ko": "SK하이닉스, 인텔 파운드리 사업에 필요한 촉매제가 될 수 있다 (투자의견 상향) (나스닥:INTC)",
-      "snippet": "Intel Corporation is rated a Speculative Buy, and the rumored SK hynix Inc. deal could support the Ohio foundry. Read more on INTC stock here.",
-      "snippet_ko": "인텔(Intel Corporation)은 ‘투기적 매수(Speculative Buy)’ 등급을 받았으며, 소문으로 돌고 있는 SK하이닉스와의 거래가 오하이오 파운드리 사업에 긍정적 영향을 미칠 수 있습니다. INTC 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "INTC",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947604-sk-hynix-could-be-catalyst-intel-foundry-needs-rating-upgrade",
-      "cross_verified": true,
-      "published_at": "2026-09-17T19:10:31.000000Z"
-    },
-    {
-      "title": "Oracle vs. Broadcom: Which \"Picks and Shovels\" AI Stock Has the Bigger Growth Runway From Here?",
-      "title_ko": "오라클 대 브로드컴: 앞으로 더 큰 성장 잠재력을 가진 ‘픽 앤 쇼벨’ AI 주식은 어느 쪽일까?",
-      "snippet": "Broadcom and Oracle have underperformed over the past year, but they could jump significantly given their impressive growth and bright prospects.",
-      "snippet_ko": "브로드컴과 오라클은 지난 1년간 주가가 부진했으나, 인상적인 성장세와 밝은 전망을 고려할 때 주가가 크게 반등할 가능성이 있다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.3019,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-vs-broadcom-picks-shovels-174300358.html",
-      "cross_verified": true,
-      "published_at": "2026-09-17T17:43:00.000000Z"
-    },
-    {
-      "title": "Meta Platforms: Get In Before September 23 (NASDAQ:META)",
-      "title_ko": "메타 플랫폼스: 9월 23일 이전에 매수하세요 (나스닥: META)",
-      "snippet": "Meta Platforms is evolving beyond advertising, with AI agents and cloud computing emerging as new growth engines. Click for more on META's Buy case.",
-      "snippet_ko": "메타 플랫폼스는 광고를 넘어 진화하고 있으며, AI 에이전트와 클라우드 컴퓨팅이 새로운 성장 동력으로 부상하고 있습니다. META의 매수 근거에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "META",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947512-meta-platforms-get-in-before-september-23",
-      "cross_verified": true,
-      "published_at": "2026-09-17T15:09:53.000000Z"
     }
   ]
 }
