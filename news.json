@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-25T18:24:38.989844+00:00",
+  "updated_at": "2026-09-25T23:12:35.817894+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Canopy Growth Corp Annual Shareholders Meeting Transcript",
+      "title_ko": "캐노피 그로스(Canopy Growth Corp) 연례 주주총회 회의록",
+      "snippet": "Sep 25, 2026 / 05:00PM GMTOperator Hello, and welcome to the 2026 Canopy Growth Corporation Annual General and Special Meeting of Shareholders. Registered share",
+      "snippet_ko": "2026년 9월 25일 / 오후 5:00 GMT 운영자 안녕하십니까. 2026년 캐노피 그로스 코퍼레이션(Canopy Growth Corporation) 정기 및 임시 주주총회에 오신 것을 환영합니다. 등록된 주주",
+      "symbol": "",
+      "sentiment_score": 0.3922,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9098040/canopy-growth-corp-annual-shareholders-meeting-transcript",
+      "cross_verified": true,
+      "published_at": "2026-09-25T23:00:05.000000Z"
+    },
+    {
+      "title": "A Look at StoneX Group Inc (SNEX) After 3.9% Decline -- GF Value $42.37 vs Price $66.81",
+      "title_ko": "3.9% 하락한 StoneX Group Inc(SNEX) 현황 분석 — GF 목표주가 42.37달러 vs 현재 주가 66.81달러",
+      "snippet": "On September 25, 2026, StoneX Group Inc (SNEX) shares fell 3.9% to $66.81, continuing a downward trend over the past month where the stock has experienced a dec",
+      "snippet_ko": "2026년 9월 25일, StoneX Group Inc(SNEX)의 주가는 3.9% 하락한 66.81달러를 기록하며, 지난 한 달 동안 이어져 온 하락세를 이어갔는데, 이 기간 동안 주가는 하락세를 보였었다.",
+      "symbol": "",
+      "sentiment_score": 0.5511,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9098034/a-look-at-stonex-group-inc-snex-after-39-decline-gf-value-4237-vs-price-6681",
+      "cross_verified": true,
+      "published_at": "2026-09-25T22:59:15.000000Z"
+    },
+    {
+      "title": "Trimble Inc. (TRMB) Explores Sale of Transportation Segment Amid Strategic Review",
+      "title_ko": "트림블(Trimble Inc., TRMB), 전략적 검토 과정에서 운송 사업부 매각 검토",
+      "snippet": "On September 25, 2026, Trimble Inc. (NASDAQ: TRMB) announced it is considering divesting its transportation and logistics segment, working with Goldman Sachs to",
+      "snippet_ko": "2026년 9월 25일, 트림블(Trimble Inc., 나스닥: TRMB)은 골드만삭스와 협력하여 자사의 운송 및 물류 사업 부문 매각을 검토 중이라고 발표했으며,",
+      "symbol": "",
+      "sentiment_score": 0.2047,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9098029/trimble-inc-trmb-explores-sale-of-transportation-segment-amid-strategic-review",
+      "cross_verified": true,
+      "published_at": "2026-09-25T22:57:28.000000Z"
+    },
     {
       "title": "China's manufacturing scale shows the path to first-world status",
       "title_ko": "중국의 제조업 규모는 선진국으로 가는 길을 보여준다",
@@ -1165,45 +1201,45 @@
       "url": "https://www.manilatimes.net/2026/09/18/tmt-newswire/globenewswire/star-equity-holdings-to-present-at-upcoming-conferences/2427929",
       "cross_verified": true,
       "published_at": "2026-09-17T20:19:39.000000Z"
-    },
-    {
-      "title": "LiqTech to Participate in the Lytham Partners Fall 2026 Investor Conference",
-      "title_ko": "리크테크, 2026년 가을 라이섬 파트너스 투자자 컨퍼런스에 참가 예정",
-      "snippet": "BALLERUP, Denmark, Sept. 17, 2026 (GLOBE NEWSWIRE) -- LiqTech International, Inc. (Nasdaq: LIQT), a clean technology company specializing in advanced ceramic filtration solutions, will participate in a webcast presentation and host one-on-one meetings with investors at the Lytham Partners Fall 2026 Investor Conference, taking place virtually on September 29-30, 2026.",
-      "snippet_ko": "덴마크 발레루프, 2026년 9월 17일 (GLOBE NEWSWIRE) -- 첨단 세라믹 여과 솔루션을 전문으로 하는 청정 기술 기업인 LiqTech International, Inc. (나스닥: LIQT)는 첨단 세라믹 여과 솔루션을 전문으로 하는 청정 기술 기업으로, 2026년 9월 29일부터 30일까지 온라인으로 개최되는 ‘Lytham Partners 2026년 가을 투자자 컨퍼런스’에 참가하여 웹캐스트 프레젠테이션을 진행하고 투자자들과의 1:1 미팅을 가질 예정이다.",
-      "symbol": "",
-      "sentiment_score": 0.36,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/18/tmt-newswire/globenewswire/liqtech-to-participate-in-the-lytham-partners-fall-2026-investor-conference/2427927",
-      "cross_verified": true,
-      "published_at": "2026-09-17T20:19:31.000000Z"
-    },
-    {
-      "title": "First Mining Announces $50 Million Bought-Deal Offering of Common Shares",
-      "title_ko": "퍼스트 마이닝, 5,000만 달러 규모의 보통주 매입 약정 방식 공모 실시 발표",
-      "snippet": "NOT FOR DISTRIBUTION TO UNITED STATES NEWS WIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES",
-      "snippet_ko": "미국 뉴스 통신사에 배포하거나 미국 내에서 유포해서는 안 됨",
-      "symbol": "",
-      "sentiment_score": 0.1324,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/18/tmt-newswire/globenewswire/first-mining-announces-50-million-bought-deal-offering-of-common-shares/2427925",
-      "cross_verified": true,
-      "published_at": "2026-09-17T20:19:24.000000Z"
-    },
-    {
-      "title": "Janus Henderson Mortgage-Backed Securities ETF Q2 2026 Commentary (NYSEARCA:JMBS)",
-      "title_ko": "자누스 헨더슨 모기지 담보 증권 ETF 2026년 2분기 분석 보고서 (NYSEARCA:JMBS)",
-      "snippet": "Janus Henderson Mortgage-Backed Securities ETF returned 0.79% and the Bloomberg U.S. Mortgage Backed Securities Index returned 0.58%.",
-      "snippet_ko": "야누스 헨더슨 모기지 담보 증권 ETF는 0.79%의 수익률을 기록했고, 블룸버그 미국 모기지 담보 증권 지수는 0.58%의 수익률을 기록했다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947528-janus-henderson-mortgage-backed-securities-etf-q2-2026-commentary",
-      "cross_verified": true,
-      "published_at": "2026-09-17T15:53:00.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Merck (MRK) Withdraws I-DXd Biologics License Application for ES-SCLC",
+      "title_ko": "머크(MRK), ES-SCLC에 대한 I-DXd 생물학적 제제 허가 신청 철회",
+      "snippet": "On September 25, 2026, Merck & Co Inc (NYSE: MRK) announced it has withdrawn its Biologics License Application (BLA) for the antibody-drug conjugate I-DXd aimed",
+      "snippet_ko": "2026년 9월 25일, 머크 앤 컴퍼니(Merck & Co Inc, NYSE: MRK)는 항체-약물 접합체(ADC)인 I-DXd에 대한 생물학적 제제 허가 신청(BLA)을 철회했다고 발표했습니다. 이 약물은",
+      "symbol": "MRK",
+      "sentiment_score": 0.2524,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9098025/merck-mrk-withdraws-idxd-biologics-license-application-for-essclc",
+      "cross_verified": true,
+      "published_at": "2026-09-25T22:56:34.000000Z"
+    },
+    {
+      "title": "New Mexico Jury Rules Against Meta Platforms (META) Over Privacy Misleading Claims",
+      "title_ko": "뉴멕시코주 배심원단, 개인정보 보호 관련 오해의 소지가 있는 주장으로 메타 플랫폼스(META)에 불리한 판결을 내렸다",
+      "snippet": "On September 25, 2026, a New Mexico jury found Meta Platforms Inc (NASDAQ: META) liable for misleading users about its privacy protections, marking the second a",
+      "snippet_ko": "2026년 9월 25일, 뉴멕시코주 배심원단은 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)가 개인정보 보호 정책에 대해 사용자를 오도한 책임이 있다고 판결했으며, 이는 두 번째로...",
+      "symbol": "META",
+      "sentiment_score": -0.2787,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9098022/new-mexico-jury-rules-against-meta-platforms-meta-over-privacy-misleading-claims",
+      "cross_verified": true,
+      "published_at": "2026-09-25T22:55:56.000000Z"
+    },
+    {
+      "title": "Is It Too Late to Buy DraftKings Inc (DKNG) After 3.5% Rally? GF Value Says Undervalued",
+      "title_ko": "3.5% 상승세 이후 드래프트킹스(DKNG) 매수는 너무 늦은 걸까? GF 밸류, “저평가됐다”고 분석",
+      "snippet": "On September 25, 2026, DraftKings Inc (DKNG) shares rose 3.5% to a current price of $22.02, although the stock has experienced significant declines over the pas",
+      "snippet_ko": "2026년 9월 25일, DraftKings Inc(DKNG)의 주가는 3.5% 상승하여 현재 22.02달러를 기록했으나, 이 주식은 지난 기간 동안 상당한 하락세를 보였음에도 불구하고",
+      "symbol": "DKNG",
+      "sentiment_score": 0.3116,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9098008/is-it-too-late-to-buy-draftkings-inc-dkng-after-35-rally-gf-value-says-undervalued",
+      "cross_verified": true,
+      "published_at": "2026-09-25T22:47:40.000000Z"
+    },
     {
       "title": "Anandana – The Coca-Cola India Foundation and Hindustan Coca-Cola Beverages Strengthen Responsible PET Collection During Ganesh Chaturthi Celebrations Across Mumbai and Thane",
       "title_ko": "아난다나 – 코카콜라 인도 재단과 힌두스탄 코카콜라 베버리지, 뭄바이와 타네 전역에서 열리는 가네쉬 차투르티 축제 기간 동안 책임감 있는 PET 수거 활동을 강화",
@@ -2367,42 +2403,6 @@
       "url": "https://finance.yahoo.com/technology/articles/ai-memory-costs-continue-explode-160254071.html",
       "cross_verified": true,
       "published_at": "2026-09-18T16:02:54.000000Z"
-    },
-    {
-      "title": "Why Alphabet Stock Popped This Morning",
-      "title_ko": "오늘 아침 알파벳 주가가 급등한 이유",
-      "snippet": "Free cash flow is Alphabet's biggest problem, but this analyst isn't worried at all.",
-      "snippet_ko": "자유 현금 흐름은 알파벳의 가장 큰 문제이지만, 이 애널리스트는 전혀 걱정하지 않는다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.0778,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-alphabet-stock-popped-morning-153653750.html",
-      "cross_verified": true,
-      "published_at": "2026-09-18T15:36:53.000000Z"
-    },
-    {
-      "title": "Who is Howard G Buffett? Warren Buffett's son to be Berkshire Hathaway Chair as father vacates position after 50+ years",
-      "title_ko": "하워드 G. 버핏은 누구인가? 워런 버핏의 아들이, 50년 넘게 재임해 온 아버지가 자리를 물러남에 따라 버크셔 해서웨이 회장에 취임할 예정이다.",
-      "snippet": "Howard G Buffett will succeed Warren Buffett as chairman of Berkshire Hathaway. Warren, 96, becomes chairman emeritus after leading since 1970. Howard, born in 1954, has been on the board since 1993 and is involved in agriculture, conservation, and philanthropy.",
-      "snippet_ko": "하워드 G. 버핏이 워런 버핏의 뒤를 이어 버크셔 해서웨이의 회장으로 취임할 예정이다. 96세인 워런 버핏은 1970년부터 회사를 이끌어 온 뒤 명예 회장으로 물러난다. 1954년생인 하워드 버핏은 1993년부터 이사회에 재직해 왔으며, 농업, 환경 보전, 자선 활동에 적극적으로 참여해 왔다.",
-      "symbol": "KO",
-      "sentiment_score": 0.1612,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/people/who-is-howard-g-buffett-warren-buffetts-son-to-be-berkshire-hathaway-chair-as-father-vacates-position-after-50-years-11789728538087.html",
-      "cross_verified": true,
-      "published_at": "2026-09-18T11:48:42.000000Z"
-    },
-    {
-      "title": "The U.S. Foreclosure Map Is Shifting",
-      "title_ko": "미국의 주택 압류 현황이 변화하고 있다",
-      "snippet": "Weekly investing news quiz + Wall Street Breakfast highlights: Fed watch, housing foreclosures shift to South Carolina, Nvidia outlook & markets.",
-      "snippet_ko": "주간 투자 뉴스 퀴즈 + ‘월스트리트 브렉퍼스트’ 주요 내용: 연준 동향, 사우스캐롤라이나주로 옮겨가는 주택 압류 사태, 엔비디아 전망 및 시장 동향.",
-      "symbol": "AVGO",
-      "sentiment_score": -0.2166,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947803-the-u-s-foreclosure-map-is-shifting",
-      "cross_verified": true,
-      "published_at": "2026-09-18T11:30:23.000000Z"
     }
   ]
 }
