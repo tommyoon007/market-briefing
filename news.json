@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-25T07:29:35.581344+00:00",
+  "updated_at": "2026-09-25T13:31:22.386786+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "NOMAD Power Solutions Expands Its Canadian Commercial Presence with Appointment of Global Environmental Liquid Ltd. as Sales Representative",
+      "title_ko": "NOMAD Power Solutions, Global Environmental Liquid Ltd.를 판매 대리점으로 지정하며 캐나다 내 상업적 입지 확대",
+      "snippet": "GEL brings established relationships across Canada’s mining, utility and industrial sectors",
+      "snippet_ko": "GEL은 캐나다 전역의 광업, 공공사업 및 산업 부문에서 구축된 탄탄한 협력 관계를 바탕으로 하고 있습니다.",
+      "symbol": "",
+      "sentiment_score": 0.296,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/25/tmt-newswire/globenewswire/nomad-power-solutions-expands-its-canadian-commercial-presence-with-appointment-of-global-environmental-liquid-ltd-as-sales-representative/2433066",
+      "cross_verified": true,
+      "published_at": "2026-09-25T12:50:29.000000Z"
+    },
+    {
+      "title": "Karat Packaging: After 100% Rally, Expectations Look Much Higher (Rating Downgrade) (KRT)",
+      "title_ko": "카라트 패키징: 100% 급등 이후, 기대치는 훨씬 더 높아진 모습 (투자의견 하향 조정) (KRT)",
+      "snippet": "Karat Packaging's core operations show strong revenue growth, margin expansion, and supply chain diversification. Read why KRT stock is downgraded to a hold.",
+      "snippet_ko": "카라트 패키징의 핵심 사업 부문은 강력한 매출 성장, 마진 확대, 공급망 다각화를 보이고 있습니다. KRT 주식이 ‘보유(Hold)’로 하향 조정된 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.148,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4949739-karat-packaging-after-a-100-percent-rally-expectations-look-much-higher-rating-downgrade",
+      "cross_verified": true,
+      "published_at": "2026-09-25T12:39:29.000000Z"
+    },
+    {
+      "title": "A major women’s fashion retailer is closing 120 stores this year as shoppers feel the sting of higher prices",
+      "title_ko": "주요 여성 패션 소매업체가 가격 인상으로 인해 소비자들의 부담이 커지면서 올해 120개 매장을 폐쇄할 예정이다",
+      "snippet": "Cato Fashions, a competitor to TJ Maxx and Ross, said it plans to close more locations than expected: \"We do not expect these marginal stores to improve.\"",
+      "snippet_ko": "TJ Maxx 및 Ross의 경쟁사인 Cato Fashions는 당초 예상보다 더 많은 매장을 폐쇄할 계획이라고 밝혔으며, “이 같은 수익성이 낮은 매장들의 실적이 개선될 것으로 기대하지 않는다”고 전했다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "fastcompany.com",
+      "url": "https://www.fastcompany.com/91613191/cato-fashions-closing-stores-2026-list-shuttered-locations-grows?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "cross_verified": true,
+      "published_at": "2026-09-25T12:31:00.000000Z"
+    },
     {
       "title": "SBI ATM charges waived during proposed bank strike of September 28-30: What customers need to know",
       "title_ko": "9월 28일부터 30일까지 예정된 은행 파업 기간 중 SBI ATM 수수료 면제: 고객이 알아야 할 사항",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/news/4643700-111-inc-gains-12-on-preliminary-go-private-proposal-from-buyer-group",
       "cross_verified": true,
       "published_at": "2026-09-17T10:44:25.000000Z"
-    },
-    {
-      "title": "DiamondRock Hospitality Company: Still A Buy, Though Not As Cheap (NASDAQ:DRH)",
-      "title_ko": "다이아몬드로크 호스피탈리티 컴퍼니: 여전히 매수 추천, 다만 이전만큼 저렴하지는 않다 (나스닥:DRH)",
-      "snippet": "DiamondRock Hospitality Company has delivered strong Q2 2026 results, prompting a raised price target to $15/share and a maintained Buy rating. Learn more about DRH stock here.",
-      "snippet_ko": "다이아몬드록 호스피탈리티 컴퍼니(DiamondRock Hospitality Company)가 2026년 2분기 호실적을 발표함에 따라, 목표 주가가 주당 15달러로 상향 조정되었으며 ‘매수(Buy)’ 투자의견은 유지되었습니다. DRH 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947413-diamondrock-hospitality-company-stock-still-buy-though-not-cheap",
-      "cross_verified": true,
-      "published_at": "2026-09-17T10:30:53.000000Z"
-    },
-    {
-      "title": "Payment giants battle the fear factor in agentic commerce",
-      "title_ko": "결제 업계 거물들, 에이전트 기반 상거래의 ‘불안 요인’에 맞서다",
-      "snippet": "Visa and Mastercard have released products designed to manage AI agent risk, and are also working with Ant International on a shared know-your-agent protocol.",
-      "snippet_ko": "비자와 마스터카드는 AI 에이전트 관련 위험을 관리하기 위해 고안된 상품을 출시했으며, 앤트 인터내셔널과 협력하여 ‘에이전트 신원 확인(Know-Your-Agent)’ 공동 프로토콜을 마련하고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.7346,
-      "source": "americanbanker.com",
-      "url": "https://www.americanbanker.com/payments/news/mastercard-visa-launch-agentic-ai-risk-tools",
-      "cross_verified": true,
-      "published_at": "2026-09-17T10:30:00.000000Z"
-    },
-    {
-      "title": "Anavex Life Sciences Corp. (AVXL) Discusses Board Misalignment, Leadership Concerns, and Strategic Changes for Company Turnaround Transcript",
-      "title_ko": "아나벡스 라이프 사이언스(Anavex Life Sciences Corp., AVXL), 이사회 간 의견 불일치, 경영진 관련 우려, 그리고 기업 회생을 위한 전략적 변화에 대해 논의한 회의록",
-      "snippet": "Anavex Life Sciences Corp. (AVXL) Discusses Board Misalignment, Leadership Concerns, and Strategic Changes for Company Turnaround September 16, 2026 10:00...",
-      "snippet_ko": "아나벡스 라이프 사이언스(Anavex Life Sciences Corp., AVXL), 기업 회생을 위한 이사회 의견 불일치, 리더십 문제 및 전략적 변화에 대해 논의 2026년 9월 16일 10:00...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947094-anavex-life-sciences-corp-avxl-discusses-board-misalignment-leadership-concerns-and-strategic",
-      "cross_verified": true,
-      "published_at": "2026-09-17T03:51:37.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "I'm Riding Meta Stock Through This Run (NASDAQ:META)",
+      "title_ko": "이번 상승세 동안 메타 주식을 계속 보유할 예정입니다 (NASDAQ:META)",
+      "snippet": "Meta (META) stock update: maintain Buy after 47% run, but stop adding at highs. Read here for a detailed investment analysis.",
+      "snippet_ko": "메타(META) 주가 동향: 47% 상승세 이후 ‘매수’ 추천을 유지하되, 고점에서는 추가 매수를 자제해야 합니다. 자세한 투자 분석은 여기에서 확인하세요.",
+      "symbol": "META",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4949726-i-am-riding-meta-through-this-run",
+      "cross_verified": true,
+      "published_at": "2026-09-25T12:25:00.000000Z"
+    },
+    {
+      "title": "Alphabet's $30 Billion SpaceX Bill Isn't What It Looks Like (NASDAQ:GOOG)",
+      "title_ko": "알파벳의 300억 달러 규모 스페이스X 비용, 겉보기와는 다르다 (NASDAQ:GOOG)",
+      "snippet": "Alphabet signed a deal to rent a large chunk of computing power from SpaceX's data centers, paying a discounted rate. Read why GOOG stock is a strong buy.",
+      "snippet_ko": "알파벳은 스페이스X의 데이터 센터에서 상당한 규모의 컴퓨팅 성능을 할인된 요금으로 임대하는 계약을 체결했습니다. GOOG 주식을 강력 매수해야 하는 이유를 확인해 보세요.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.5183,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4949730-alphabets-30-billion-spacex-bill-isnt-what-it-looks-like",
+      "cross_verified": true,
+      "published_at": "2026-09-25T12:11:01.000000Z"
+    },
+    {
+      "title": "Tech and AI Momentum Drive Gains as Markets Eye Key Economic Data",
+      "title_ko": "시장이 주요 경제 지표를 주시하는 가운데, 기술주와 AI 관련주가 상승세를 주도하고 있다",
+      "snippet": "U.S. equity markets are showing resilience during Friday's trading session, September 25th, 2026, as investors lean into technology and artificial",
+      "snippet_ko": "2026년 9월 25일 금요일 장중, 투자자들이 기술주와 인공지능 관련 종목에 집중하면서 미국 주식 시장은 탄력적인 모습을 보이고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4485,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-ai-momentum-drive-gains-as-markets-eye-key-economic-data/72220/",
+      "cross_verified": true,
+      "published_at": "2026-09-25T10:07:12.000000Z"
+    },
     {
       "title": "Oracle Cites ‘Force Majeure’ on Controversial New Mexico Data Center",
       "title_ko": "오라클, 논란이 되고 있는 뉴멕시코 데이터센터와 관련해 ‘불가항력’을 주장",
@@ -2367,42 +2403,6 @@
       "url": "https://www.business-standard.com/finance/news/nabfid-sanctions-over-3-000-crore-loans-for-data-centres-amid-ai-push-126091800136_1.html",
       "cross_verified": true,
       "published_at": "2026-09-18T03:30:51.000000Z"
-    },
-    {
-      "title": "Open-source AI fuels 440% surge in hackers using blockchains in attacks",
-      "title_ko": "오픈소스 AI로 인해 공격에 블록체인을 활용하는 해커가 440% 급증했다",
-      "snippet": "A malware attack uses malicious software planted on a computer or network to steal information, passwords or funds",
-      "snippet_ko": "악성코드 공격은 컴퓨터나 네트워크에 심어진 악성 소프트웨어를 이용해 정보, 비밀번호 또는 자금을 탈취하는 것을 말합니다.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.8519,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/markets/news/open-source-ai-fuels-440-surge-in-hackers-using-blockchains-in-attacks-126091800137_1.html",
-      "cross_verified": true,
-      "published_at": "2026-09-18T03:30:09.000000Z"
-    },
-    {
-      "title": "Apple's Quality Is Tempting, But I'm Put Off By The Valuation (NASDAQ:AAPL)",
-      "title_ko": "애플의 품질은 매력적이지만, 기업 가치 평가가 부담스럽다 (NASDAQ:AAPL)",
-      "snippet": "Apple Inc. is overvalued at 36x forward EPS, with risk elevated near the top of its long-term price channel. Read more on AAPL stock here.",
-      "snippet_ko": "애플(Apple Inc.)은 향후 주당순이익(EPS) 대비 주가 배수가 36배로 과대평가되어 있으며, 장기 주가 채널의 상단 부근에서 위험이 높아진 상태입니다. AAPL 주가에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3579,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947652-apple-stock-quality-is-tempting-but-put-off-by-valuation",
-      "cross_verified": true,
-      "published_at": "2026-09-17T22:05:33.000000Z"
-    },
-    {
-      "title": "Wall Street Breakfast With Steven Cress (undefined:GNRC)",
-      "title_ko": "스티븐 크레스(undefined:GNRC)와 함께하는 월스트리트 조찬 모임",
-      "snippet": "Steven Cress highlights the day's top stocks from a Quant perspective.",
-      "snippet_ko": "스티븐 크레스는 퀀트 관점에서 오늘의 주목할 만한 종목들을 소개합니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.8955,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947656-wall-street-breakfast-with-steven-cress-generac-amazon-powell-kroger",
-      "cross_verified": true,
-      "published_at": "2026-09-17T21:50:00.000000Z"
     }
   ]
 }
