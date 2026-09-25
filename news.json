@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-25T13:31:22.386786+00:00",
+  "updated_at": "2026-09-25T18:24:38.989844+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "China's manufacturing scale shows the path to first-world status",
+      "title_ko": "중국의 제조업 규모는 선진국으로 가는 길을 보여준다",
+      "snippet": "Insights from a Chinese factory reveal striking contrasts in wages and car ownership between India and China. China's triumph in manufacturing shines through its extensive production capacities across diverse industries. The article underscores the necessity of cultivating core sectors like steel and machinery for robust economic development. Additionally, local tech firms have flourished in the absence of foreign rivalry, offering distinctive products.",
+      "snippet_ko": "중국 한 공장에서 얻은 통찰을 통해 인도와 중국 간의 임금 및 자동차 소유 현황에 현저한 차이가 드러났다. 중국의 제조업 분야에서의 성공은 다양한 산업에 걸친 방대한 생산 능력을 통해 여실히 드러난다. 이 기사는 견고한 경제 발전을 위해 철강 및 기계와 같은 핵심 산업을 육성할 필요성을 강조한다. 또한, 외국 기업의 경쟁이 없는 상황에서 현지 기술 기업들이 독창적인 제품을 선보이며 번창하고 있다.",
+      "symbol": "",
+      "sentiment_score": -0.1779,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/chinas-manufacturing-scale-shows-the-path-to-first-world-status/articleshow/134490091.cms",
+      "cross_verified": true,
+      "published_at": "2026-09-25T17:21:14.000000Z"
+    },
+    {
+      "title": "Invesco Balanced-Risk Allocation Fund Q2 2026 Commentary (ABRZX)",
+      "title_ko": "인베스코 균형 위험 분산 펀드 2026년 2분기 운용 보고 (ABRZX)",
+      "snippet": "The Invesco Balanced-Risk Allocation Fund underperformed its benchmark in Q2 2026 despite gains in growth factors. Read the full analysis for more details.",
+      "snippet_ko": "인베스코 균형 위험 배분 펀드는 2026년 2분기 성장 요인에서 상승세를 보였음에도 불구하고 벤치마크 수익률을 하회했습니다. 자세한 내용은 전체 분석을 참조하십시오.",
+      "symbol": "",
+      "sentiment_score": 0.2247,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4949828-invesco-balanced-risk-allocation-fund-q2-2026-commentary",
+      "cross_verified": true,
+      "published_at": "2026-09-25T17:20:00.000000Z"
+    },
+    {
+      "title": "Akamai Technologies: Anthropic's Multibillion-Dollar Infrastructure Partner (NASDAQ:AKAM)",
+      "title_ko": "아카마이 테크놀로지스: 앤트로픽의 수십억 달러 규모 인프라 파트너 (나스닥: AKAM)",
+      "snippet": "Akamai Technologies secured a transformative $11.6B, 7-yr contract with Anthropic, potentially reaching $20B & accelerating revenue growth. More on AKAM stock.",
+      "snippet_ko": "아카마이 테크놀로지스(Akamai Technologies)는 앤트로픽(Anthropic)과 7년 기간, 116억 달러 규모의 획기적인 계약을 체결했으며, 이 계약 규모는 최대 200억 달러에 달할 전망이며 매출 성장을 가속화할 것으로 보인다. AKAM 주식에 대한 자세한 내용.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4949822-akamai-technologies-anthropic-multibillion-dollar-infrastructure-partner",
+      "cross_verified": true,
+      "published_at": "2026-09-25T17:15:26.000000Z"
+    },
     {
       "title": "NOMAD Power Solutions Expands Its Canadian Commercial Presence with Appointment of Global Environmental Liquid Ltd. as Sales Representative",
       "title_ko": "NOMAD Power Solutions, Global Environmental Liquid Ltd.를 판매 대리점으로 지정하며 캐나다 내 상업적 입지 확대",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4947528-janus-henderson-mortgage-backed-securities-etf-q2-2026-commentary",
       "cross_verified": true,
       "published_at": "2026-09-17T15:53:00.000000Z"
-    },
-    {
-      "title": "Applied Materials’ $5 billion India plan to build chip R&D lab, supply chain",
-      "title_ko": "애플라이드 머티리얼즈, 50억 달러 규모의 인도 투자 계획… 반도체 연구개발(R&D) 센터 및 공급망 구축",
-      "snippet": "The event saw Tata Electronics, which is developing India’s first commercial chip fabrication plant, sign seven memorandums of understanding with semiconductor supply-chain companies.",
-      "snippet_ko": "이번 행사에서 인도 최초의 상업용 칩 제조 공장을 건설 중인 타타 일렉트로닉스(Tata Electronics)가 반도체 공급망 기업들과 7건의 양해각서(MOU)를 체결했다.",
-      "symbol": "",
-      "sentiment_score": 0.3379,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/industry/applied-materials-5-billion-india-plan-to-build-chip-r-d-lab-supply-chain-11789655951975.html",
-      "cross_verified": true,
-      "published_at": "2026-09-17T15:52:36.000000Z"
-    },
-    {
-      "title": "Progyny: Best-In-Class And Likely To Exceed Analyst Estimates In 2027 (NASDAQ:PGNY)",
-      "title_ko": "Progyny: 동종 업계 최고 수준이며 2027년 애널리스트 예상치를 상회할 전망 (NASDAQ:PGNY)",
-      "snippet": "Progyny (PGNY) remains a top fertility benefits leader with strong growth, margin expansion, and catalysts ahead—explore the outlook and decide if it’s a...",
-      "snippet_ko": "Progyny(PGNY)는 강력한 성장세와 마진 확대, 향후 기대되는 긍정적 요인들을 바탕으로 여전히 불임 치료 혜택 분야의 선두주자로 자리매김하고 있습니다. 전망을 살펴보고 이 종목이 투자할 만한지 판단해 보세요...",
-      "symbol": "",
-      "sentiment_score": 0.1909,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947525-progyny-best-in-class-and-likely-to-exceed-analyst-estimates-in-2027",
-      "cross_verified": true,
-      "published_at": "2026-09-17T15:45:28.000000Z"
-    },
-    {
-      "title": "111 Inc. gains 12% on preliminary go-private proposal from buyer group (YI:NASDAQ)",
-      "title_ko": "111 Inc., 인수자 그룹의 예비 비공개화 제안에 주가가 12% 상승 (YI:NASDAQ)",
-      "snippet": "111 Inc. (YI) stock jumps on a $4.52/ADS going-private proposal from co-founders.",
-      "snippet_ko": "111 Inc. (YI) 주가가 공동 창업자들이 제시한 ADS당 4.52달러 규모의 비상장화 제안에 힘입어 급등했다.",
-      "symbol": "",
-      "sentiment_score": 0.34,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4643700-111-inc-gains-12-on-preliminary-go-private-proposal-from-buyer-group",
-      "cross_verified": true,
-      "published_at": "2026-09-17T10:44:25.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Anandana – The Coca-Cola India Foundation and Hindustan Coca-Cola Beverages Strengthen Responsible PET Collection During Ganesh Chaturthi Celebrations Across Mumbai and Thane",
+      "title_ko": "아난다나 – 코카콜라 인도 재단과 힌두스탄 코카콜라 베버리지, 뭄바이와 타네 전역에서 열리는 가네쉬 차투르티 축제 기간 동안 책임감 있는 PET 수거 활동을 강화",
+      "snippet": "Anandana – The Coca-Cola India Foundation and Hindustan Coca-Cola Beverages Strengthen Responsible PET Collection During Ganesh Chaturthi Celebrations Across Mumbai and Thane",
+      "snippet_ko": "아난다나 – 코카콜라 인도 재단과 힌두스탄 코카콜라 베버리지, 뭄바이와 타네 전역에서 열리는 가네쉬 차투르티 축제 기간 동안 책임 있는 PET 수거 활동을 강화",
+      "symbol": "KO",
+      "sentiment_score": 0.4527,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/anandana-the-coca-cola-india-foundation-and-hindustan-coca-cola-beverages-strengthen-responsible-pet-collection-during-ganesh-chaturthi-celebrations-across-mumbai-and-thane/article71508369.ece",
+      "cross_verified": true,
+      "published_at": "2026-09-25T14:39:36.000000Z"
+    },
+    {
+      "title": "Fed’s Schmid Warns of ‘Too Big to Fail’ AI Risks as US-China Trade Truce Extends",
+      "title_ko": "미-중 무역 휴전이 연장되는 가운데, 연준의 슈미드, ‘파산할 수 없는’ AI 위험에 경고",
+      "snippet": "Kansas City Fed President Jeff Schmid issued a stark warning on Friday, questioning whether the rapid buildout of the artificial intelligence sector is",
+      "snippet_ko": "캔자스시티 연방준비은행의 제프 슈미드 총재는 금요일, 인공지능 분야의 급속한 확장이 과연",
+      "symbol": "AAPL",
+      "sentiment_score": 0.1238,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/feds-schmid-warns-of-too-big-to-fail-ai-risks-as-us-china-trade-truce-extends/72232/",
+      "cross_verified": true,
+      "published_at": "2026-09-25T14:38:20.000000Z"
+    },
+    {
+      "title": "Walmart and Sam's Club Partnership Helps Strengthen Food Access Across North Texas",
+      "title_ko": "월마트와 샘스클럽의 제휴로 북부 텍사스 전역의 식량 접근성이 강화되고 있다",
+      "snippet": "Fight Hunger. Spark Change. campaign raises $235,029 to help North Texas Food Bank provide more food to neighbors facing hunger.",
+      "snippet_ko": "‘기아 퇴치. 변화를 이끌어내자.’ 캠페인을 통해 235,029달러가 모금되어, 노스 텍사스 푸드 뱅크가 기아에 시달리는 이웃들에게 더 많은 식량을 제공할 수 있게 되었습니다.",
+      "symbol": "KO",
+      "sentiment_score": -0.5574,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/25/tmt-newswire/globenewswire/walmart-and-sams-club-partnership-helps-strengthen-food-access-across-north-texas/2433152",
+      "cross_verified": true,
+      "published_at": "2026-09-25T14:33:47.000000Z"
+    },
     {
       "title": "I'm Riding Meta Stock Through This Run (NASDAQ:META)",
       "title_ko": "이번 상승세 동안 메타 주식을 계속 보유할 예정입니다 (NASDAQ:META)",
@@ -2367,42 +2403,6 @@
       "url": "https://seekingalpha.com/article/4947803-the-u-s-foreclosure-map-is-shifting",
       "cross_verified": true,
       "published_at": "2026-09-18T11:30:23.000000Z"
-    },
-    {
-      "title": "US Market: Nike’s position in Dow Jones index comes under pressure",
-      "title_ko": "미국 시장: 다우존스 지수 내 나이키의 위상이 압박을 받고 있다",
-      "snippet": "Nike faces growing speculation over its future in the Dow after being removed from the S&P 100. Its weak share performance, low price and declining market value have raised questions about whether the sportswear giant could eventually exit the blue-chip index.",
-      "snippet_ko": "나이키는 S&P 100 지수에서 제외된 이후 다우 지수 내 잔류 여부에 대한 추측이 점점 더 커지고 있다. 부진한 주가 실적, 낮은 주가, 그리고 시가총액 감소로 인해 이 스포츠웨어 거대 기업이 결국 우량주 지수에서 제외될 수 있을지에 대한 의문이 제기되고 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2966,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-nikes-position-in-dow-jones-index-comes-under-pressure/articleshow/134329444.cms",
-      "cross_verified": true,
-      "published_at": "2026-09-18T07:48:31.000000Z"
-    },
-    {
-      "title": "Anthropic says Claude drives over 25% of its research and development",
-      "title_ko": "앤트로픽은 클로드가 자사의 연구개발의 25% 이상을 주도하고 있다고 밝혔습니다.",
-      "snippet": "Anthropic found Claude leads 26% of Anthropic's R&D, up from effectively nothing at the start of the year, according to a report",
-      "snippet_ko": "한 보고서에 따르면, 앤트로픽(Anthropic)은 클로드(Claude)가 앤트로픽 연구개발(R&D) 업무의 26%를 주도하고 있는 것으로 나타났으며, 이는 연초에 사실상 전무하던 수준에서 증가한 수치라고 한다.",
-      "symbol": "META",
-      "sentiment_score": 0.6908,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/technology/artificial-intelligence/anthropic-says-claude-drives-over-25-of-its-research-and-development-126091800158_1.html",
-      "cross_verified": true,
-      "published_at": "2026-09-18T03:40:23.000000Z"
-    },
-    {
-      "title": "Nabfid sanctions over ₹3,000 crore loans for data centres amid AI push",
-      "title_ko": "AI 확대 추진 속에 나브피드, 데이터 센터에 3,000 크로어 루피 이상의 대출 승인",
-      "snippet": "The facilities from the National Bank for Financing Infrastructure and Development, or Nabfid, have a moratorium of as much as five years, with repayment over the following 10 years",
-      "snippet_ko": "국립 인프라 및 개발 금융 은행(Nabfid)이 제공하는 대출 상품은 최대 5년의 상환 유예 기간이 주어지며, 이후 10년에 걸쳐 상환하게 됩니다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.5574,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/finance/news/nabfid-sanctions-over-3-000-crore-loans-for-data-centres-amid-ai-push-126091800136_1.html",
-      "cross_verified": true,
-      "published_at": "2026-09-18T03:30:51.000000Z"
     }
   ]
 }
