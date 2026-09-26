@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-26T16:10:40.117686+00:00",
+  "updated_at": "2026-09-26T20:54:54.891504+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Foreign Investors Boost US Stock Purchases, Impacting SPY Valuation Dynamics",
+      "title_ko": "외국인 투자자들의 미국 주식 매수 증가가 SPY의 가치 평가 동향에 영향을 미치고 있다",
+      "snippet": "On September 26, 2026, foreign investors significantly increased their net purchases of US stocks and investment fund shares, reaching $426 billion in the secon",
+      "snippet_ko": "2026년 9월 26일, 외국인 투자자들은 미국 주식과 투자 펀드 지분에 대한 순매수 규모를 대폭 늘려, 그 달 두 번째 주에 4,260억 달러에 달했다.",
+      "symbol": "",
+      "sentiment_score": 0.3298,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9099118/foreign-investors-boost-us-stock-purchases-impacting-spy-valuation-dynamics",
+      "cross_verified": true,
+      "published_at": "2026-09-26T19:55:41.000000Z"
+    },
+    {
+      "title": "CVS Group PLC (CVSGF) (FY 2026) Earnings Call Highlights: Revenue Climbs 5.9% as CVS Group PLC (CVSGF) Eyes UK Acquisition Return and FY27 Growth",
+      "title_ko": "CVS 그룹 PLC (CVSGF) (2026 회계연도) 실적 발표 하이라이트: 매출 5.9% 증가… CVS 그룹 PLC (CVSGF), 영국 기업 인수 효과와 2027 회계연도 성장 전망",
+      "snippet": "Revenue: Increased 5.9% to $712.8 million, with growth across all three divisions.Like-for-Like Revenue Growth: Improved versus the prior year.Adjusted EBITDA:",
+      "snippet_ko": "매출: 5.9% 증가한 7억 1,280만 달러를 기록했으며, 3개 사업부 모두에서 성장세를 보였습니다. 동일 매장 기준 매출 성장률: 전년 대비 개선되었습니다. 조정 EBITDA:",
+      "symbol": "",
+      "sentiment_score": 0.6058,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9099116/cvs-group-plc-cvsgf-fy-2026-earnings-call-highlights-revenue-climbs-59-as-cvs-group-plc-cvsgf-eyes-uk-acquisition-return-and-fy27-growth",
+      "cross_verified": true,
+      "published_at": "2026-09-26T19:00:21.000000Z"
+    },
+    {
+      "title": "Iraq Secures US Dollar Shipments; Analysts Forecast Chinese EV Entry Despite Summit Deadlock",
+      "title_ko": "이라크, 미국 달러 수송 확보… 정상회담 교착 상태에도 불구하고 분석가들은 중국의 전기차 시장 진출 전망",
+      "snippet": "The Iraqi government has officially reached an \"understanding\" with the United States to ensure the continued shipment of physical U.S. dollars to",
+      "snippet_ko": "이라크 정부는 미국 달러 현물의 지속적인 공급을 보장하기 위해 미국과 공식적으로 “합의”를 도출했으며,",
+      "symbol": "",
+      "sentiment_score": 0.3612,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/iraq-secures-us-dollar-shipments-analysts-forecast-chinese-ev-entry-despite-summit-deadlock/72271/",
+      "cross_verified": true,
+      "published_at": "2026-09-26T18:38:14.000000Z"
+    },
     {
       "title": "Allstate Offers A 7% Yielding Preferred Stock To Ride Out Earnings Decrease (NYSE:ALL)",
       "title_ko": "올스테이트, 실적 감소 국면을 극복하기 위해 수익률 7%의 우선주를 발행 (NYSE:ALL)",
@@ -1165,45 +1201,45 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/markets-edge-higher-as-utilities-and-tech-lead-focus-shifts-to-next-weeks-earnings/71967/",
       "cross_verified": true,
       "published_at": "2026-09-18T20:07:14.000000Z"
-    },
-    {
-      "title": "Radcom: A Setback, Not A Broken Thesis (Rating Downgrade) (NASDAQ:RDCM)",
-      "title_ko": "Radcom: 일시적인 차질일 뿐, 투자 논리가 무너진 것은 아니다 (투자의견 하향 조정) (NASDAQ:RDCM)",
-      "snippet": "RADCOM is downgraded to Buy after revenue drop and guidance cut. Click to read more on its valuation, buyback, cash strength and 2026–27 rebound risks.",
-      "snippet_ko": "RADCOM은 매출 감소와 실적 전망 하향 조정에 따라 투자 등급이 ‘매수’로 하향 조정되었습니다. 기업 가치 평가, 자사주 매입, 현금 유동성 및 2026~27년 반등 위험에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.4239,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947951-radcom-a-setback-not-a-broken-thesis-rating-downgrade",
-      "cross_verified": true,
-      "published_at": "2026-09-18T19:58:40.000000Z"
-    },
-    {
-      "title": "Kinross Gold: The Re-Rating Setup Is Becoming Increasingly Attractive (NYSE:KGC)",
-      "title_ko": "킨로스 골드: 재평가 가능성이 점점 더 매력적으로 다가오고 있다 (NYSE:KGC)",
-      "snippet": "Kinross Gold is rated a Strong Buy, supported by robust free cash flow, a healthy balance sheet, and a deep project pipeline. Read more on KGC stock here.",
-      "snippet_ko": "킨로스 골드(Kinross Gold)는 탄탄한 자유 현금 흐름, 건실한 재무 구조, 그리고 풍부한 프로젝트 파이프라인을 바탕으로 ‘강력 매수(Strong Buy)’ 등급을 받았습니다. KGC 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.4404,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947937-kinross-gold-the-re-rating-setup-is-becoming-increasingly-attractive",
-      "cross_verified": true,
-      "published_at": "2026-09-18T19:09:04.000000Z"
-    },
-    {
-      "title": "Janux Therapeutics: It's Too Early To Tell If Prostate Cancer Program Can Succeed (JANX)",
-      "title_ko": "자녹스 테라퓨틱스: 전립선암 치료 프로그램의 성공 여부를 판단하기에는 아직 이르다 (JANX)",
-      "snippet": "Janux Therapeutics surged on promising early data and M&A rumors in 2024, but recent clinical updates led to a sharp stock decline. Click for more on JANX.",
-      "snippet_ko": "Janux Therapeutics는 2024년 유망한 초기 데이터와 인수합병(M&A) 소문에 힘입어 주가가 급등했으나, 최근 발표된 임상 결과로 인해 주가가 급락했습니다. JANX에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": -0.296,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947908-janux-therapeutics-its-too-early-to-tell-if-prostate-cancer-program-can-succeed",
-      "cross_verified": true,
-      "published_at": "2026-09-18T16:46:52.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "QQQ and QQQI: Similar Tickers but Very Different ETFs",
+      "title_ko": "QQQ와 QQQI: 티커는 비슷하지만 성격이 매우 다른 ETF",
+      "snippet": "QQQ and QQQI: Similar Tickers but Very Different ETFs click ↑ 4 Featured Option sellers are often enticed by ETFs (exchange-traded funds) that use the cov...",
+      "snippet_ko": "QQQ와 QQQI: 티커는 비슷하지만 성격은 완전히 다른 ETF들 ↑ 클릭 4. 주목할 만한 옵션 매도자들은 종종 상관관계를 활용하는 ETF(상장지수펀드)에 매력을 느끼곤 합니다...",
+      "symbol": "AAPL",
+      "sentiment_score": 0.6813,
+      "source": "thebluecollarinvestor.com",
+      "url": "https://www.thebluecollarinvestor.com/qqq-and-qqqi-similar-tickers-but-very-different-etfs/",
+      "cross_verified": true,
+      "published_at": "2026-09-26T16:52:18.000000Z"
+    },
+    {
+      "title": "Coinbase (COIN) Gets a Path to Tokenized Stocks in the US. But Can It Turn That Into Revenue?",
+      "title_ko": "코인베이스(COIN), 미국에서 토큰화된 주식 진출의 길을 열었다. 하지만 이를 수익으로 연결할 수 있을까?",
+      "snippet": "On September 17, the SEC approved a temporary framework for trading tokenized US equities. Called the Innovation Exemption, this framework could give Coinbase Global, Inc.",
+      "snippet_ko": "9월 17일, 미국 증권거래위원회(SEC)는 토큰화된 미국 주식 거래를 위한 임시 체계를 승인했다. ‘혁신 면제(Innovation Exemption)’로 불리는 이 체계는 코인베이스 글로벌(Coinbase Global, Inc.)에",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3922,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/coinbase-coin-gets-a-path-to-tokenized-stocks-in-the-us-but-can-it-turn-that-into-revenue-1841539/",
+      "cross_verified": true,
+      "published_at": "2026-09-26T16:47:29.000000Z"
+    },
+    {
+      "title": "Oracle vs. Alphabet: Which AI Cloud Stock Is the Better Buy?",
+      "title_ko": "오라클 대 알파벳: 어떤 AI 클라우드 주식을 매수하는 것이 더 나을까?",
+      "snippet": "Oracle Corporation (NYSE:ORCL) and Alphabet Inc. (NASDAQ:GOOGL) are both trying to turn AI infrastructure into a larger cloud business, but they are asking investors to fund very different models.",
+      "snippet_ko": "오라클(Oracle Corporation, NYSE:ORCL)과 알파벳(Alphabet Inc., NASDAQ:GOOGL)은 모두 AI 인프라를 더 큰 규모의 클라우드 사업으로 확장하려 하고 있지만, 투자자들에게는 서로 매우 다른 비즈니스 모델에 자금을 지원해 줄 것을 요청하고 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2639,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/oracle-vs-alphabet-which-ai-cloud-stock-is-the-better-buy-1843698/",
+      "cross_verified": true,
+      "published_at": "2026-09-26T14:05:52.000000Z"
+    },
     {
       "title": "Monster Beverage (MNST) CEO Americas Rob Gehring to Resign, Emelie Tirre to Assume Interim Leadership",
       "title_ko": "몬스터 베버리지(MNST) 미주 지역 CEO 롭 게링이 사임하고, 에멜리 티레가 임시 대표직을 맡게 된다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/ferrari-race-signs-rakuten-while-2027-is-already-spoken-for-1840147/",
       "cross_verified": true,
       "published_at": "2026-09-19T11:01:00.000000Z"
-    },
-    {
-      "title": "Trump Enacts Sweeping Russia Sanctions; Google’s Gemini Breaches Corporate Systems in Security Test",
-      "title_ko": "트럼프, 러시아에 대한 대대적인 제재 발동; 구글의 ‘제미니’, 보안 테스트 중 기업 시스템 침투",
-      "snippet": "President Donald Trump enacted a major sanctions package on Friday, aimed at crippling Russia's ability to fund its ongoing war in Ukraine. The Lindsey",
-      "snippet_ko": "도널드 트럼프 대통령은 금요일, 러시아가 우크라이나에서 진행 중인 전쟁에 자금을 조달하는 능력을 무력화하기 위한 대규모 제재 패키지를 발효했다. 린지",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.1325,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/trump-enacts-sweeping-russia-sanctions-googles-gemini-breaches-corporate-systems-in-security-test/71975/",
-      "cross_verified": true,
-      "published_at": "2026-09-19T02:38:18.000000Z"
-    },
-    {
-      "title": "GOOG Looks 35.4% Overvalued on GF Value™ Amid AI Security Breach Concerns",
-      "title_ko": "AI 보안 침해 우려 속에서 GOOG, GF Value™ 기준 35.4% 과대평가된 것으로 나타남",
-      "snippet": "On September 18, 2026, Alphabet Inc (GOOG) confirmed that its Gemini artificial intelligence model autonomously accessed other companies' systems without author",
-      "snippet_ko": "2026년 9월 18일, 알파벳(Alphabet Inc, GOOG)은 자사의 제미니(Gemini) 인공지능 모델이 승인 없이 타사 시스템에 자율적으로 접근했음을 확인했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2085,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9088740/goog-looks-354-overvalued-on-gf-value-amid-ai-security-breach-concerns",
-      "cross_verified": true,
-      "published_at": "2026-09-18T23:50:24.000000Z"
-    },
-    {
-      "title": "MP Materials Corp (MP) Shares Fall 4.3% -- GF Value Says Still Overvalued",
-      "title_ko": "MP 머티리얼스(MP) 주가 4.3% 하락… GF 밸류, 여전히 고평가됐다고 지적",
-      "snippet": "On September 18, 2026, MP Materials Corp (MP) shares fell 4.3%, closing at $47.26. This decline is notable in the context of its 52-week trading range of $37.81",
-      "snippet_ko": "2026년 9월 18일, MP 머티리얼스(MP)의 주가는 4.3% 하락해 47.26달러에 장을 마감했다. 이 하락폭은 52주 거래 범위인 37.81달러를 고려할 때 주목할 만하다.",
-      "symbol": "MP",
-      "sentiment_score": 0.3295,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9088730/mp-materials-corp-mp-shares-fall-43-gf-value-says-still-overvalued",
-      "cross_verified": true,
-      "published_at": "2026-09-18T23:40:34.000000Z"
     }
   ]
 }
