@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-26T04:31:54.969947+00:00",
+  "updated_at": "2026-09-26T11:09:42.528500+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "SBI hands over cheque worth ₹500 crore to Jeevika Didis in Patna",
+      "title_ko": "SBI, 파트나에서 지비카 디디스에게 50억 루피 상당의 수표를 전달",
+      "snippet": "SBI donates ₹500 crore to Jeevika Didis in Patna to empower rural women through SHGs and BRLP initiatives.",
+      "snippet_ko": "SBI는 자조그룹(SHG) 및 BRLP 이니셔티브를 통해 농촌 여성의 자립을 지원하기 위해 파트나에 있는 ‘지비카 디디스(Jeevika Didis)’에 50억 루피를 기부했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.3404,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/sbi-hands-over-cheque-worth-500-crore-to-jeevika-didis-in-patna/article71512370.ece",
+      "cross_verified": true,
+      "published_at": "2026-09-26T09:55:33.000000Z"
+    },
+    {
+      "title": "Rocket Companies: Buying The Bottom Of A Cycle (NYSE:RKT)",
+      "title_ko": "로켓 컴퍼니즈: 경기 사이클의 저점에서 매수하기 (NYSE:RKT)",
+      "snippet": "Rocket Companies posted record market share, expanding core gain-on-sale margins to 3.11% and servicing income. Click to read why RKT is rated Buy.",
+      "snippet_ko": "로켓 컴퍼니즈(Rocket Companies)는 사상 최대의 시장 점유율을 기록하며, 핵심 판매 이익 마진을 3.11%로 확대하고 서비스 수익도 늘렸습니다. RKT가 ‘매수(Buy)’ 등급을 받은 이유를 확인하려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4949933-rocket-companies-buying-the-bottom-of-a-cycle",
+      "cross_verified": true,
+      "published_at": "2026-09-26T09:45:34.000000Z"
+    },
+    {
+      "title": "RiverNorth Opportunities: Preferred Offers One Of The Most Secure Yields In The Sector",
+      "title_ko": "리버노스 투자 기회: 이 종목은 해당 부문에서 가장 안정적인 수익률 중 하나를 제공합니다",
+      "snippet": "RiverNorth Opportunities preferred stock offers a compelling, low-risk income opportunity with an A1 Moody’s rating. Click to read more on RIV.PR.A.",
+      "snippet_ko": "리버노스 오퍼튜니티즈(RiverNorth Opportunities)의 우선주는 무디스(Moody’s) A1 등급을 획득하여 매력적이면서도 저위험의 수익 기회를 제공합니다. RIV.PR.A에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.3818,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4949932-rivernorth-opportunities-rivpra-offers-one-of-the-most-secure-yields-in-sector",
+      "cross_verified": true,
+      "published_at": "2026-09-26T09:45:17.000000Z"
+    },
     {
       "title": "White House Assures No Ban on Diesel Exports Amid Rising Prices",
       "title_ko": "유가 상승 속 백악관, 디젤 수출 금지 없을 것임을 재차 강조",
@@ -1165,45 +1201,33 @@
       "url": "https://seekingalpha.com/article/4947819-paycom-recovery-started-with-more-to-come",
       "cross_verified": true,
       "published_at": "2026-09-18T12:23:44.000000Z"
-    },
-    {
-      "title": "PBF Energy Stock: War Is The Unpredictable Wild Card (NYSE:PBF)",
-      "title_ko": "PBF 에너지 주식: 전쟁은 예측 불가능한 변수 (NYSE:PBF)",
-      "snippet": "PBF Energy (PBF) is up nearly 200% YTD as geopolitical disruptions lift US fuel demand.",
-      "snippet_ko": "지정학적 혼란으로 인해 미국의 연료 수요가 증가함에 따라 PBF 에너지(PBF)의 주가는 연초 대비 거의 200% 상승했다.",
-      "symbol": "",
-      "sentiment_score": -0.5994,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947716-pbf-energy-war-is-the-unpredictable-wild-card",
-      "cross_verified": true,
-      "published_at": "2026-09-18T12:15:00.000000Z"
-    },
-    {
-      "title": "Organon Announces Two Her Health Grants in India to Support Adolescent Girls’ Health in Bihar and Women’s Contraceptive Access in Uttar Pradesh",
-      "title_ko": "오르가논, 비하르주 청소년 소녀들의 건강 증진과 우타르프라데시주 여성들의 피임 수단 접근성 향상을 지원하기 위해 인도에서 ‘Her Health’ 보조금 2건을 발표",
-      "snippet": "Organon Announces Two Her Health Grants in India to Support Adolescent Girls' Health in Bihar and Women's Contraceptive Access in Uttar Pradesh",
-      "snippet_ko": "오르가논, 비하르주의 사춘기 소녀 건강 지원 및 우타르프라데시주의 여성 피임 접근성 향상을 위해 인도에서 ‘Her Health’ 보조금 2건을 발표",
-      "symbol": "",
-      "sentiment_score": 0.7045,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/organon-announces-two-her-health-grants-in-india-to-support-adolescent-girls-health-in-bihar-and-womens-contraceptive-access-in-uttar-pradesh/article71480045.ece",
-      "cross_verified": true,
-      "published_at": "2026-09-18T12:08:57.000000Z"
-    },
-    {
-      "title": "Equinor ASA: Buy-back of shares to share programmes for employees",
-      "title_ko": "Equinor ASA: 직원 주식 보상 프로그램을 위한 자사주 매입",
-      "snippet": "Please see below information about transactions made under the buy-back programme for Equinor ASA (OSE:EQNR, NYSE:EQNR) for shares to be used in the share-based incentive programmes for employees and management.",
-      "snippet_ko": "Equinor ASA(OSE:EQNR, NYSE:EQNR)의 직원 및 경영진을 위한 주식 기반 인센티브 프로그램에 사용될 주식을 매입하기 위해 시행된 자사주 매입 프로그램에 관한 정보는 아래를 참조해 주시기 바랍니다.",
-      "symbol": "",
-      "sentiment_score": 0.4668,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/18/tmt-newswire/globenewswire/equinor-asa-buy-back-of-shares-to-share-programmes-for-employees/2428054",
-      "cross_verified": true,
-      "published_at": "2026-09-18T06:02:47.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Another OpenAI sandbox fails, agentic AI system gains internet access",
+      "title_ko": "또 다른 OpenAI 샌드박스가 실패했고, 에이전트형 AI 시스템이 인터넷에 접속하게 되었다",
+      "snippet": "The system reached a third-party chatbot during training, prompting OpenAI to pause tool-use training on its most capable models until the flaw was fixed",
+      "snippet_ko": "이 시스템은 훈련 과정에서 제3자 챗봇에 접속하게 되었고, 이에 OpenAI는 해당 결함이 수정될 때까지 자사의 최고 성능 모델에 대한 도구 사용 훈련을 일시 중단하기로 했다",
+      "symbol": "META",
+      "sentiment_score": 0.4939,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/technology/tech-news/another-openai-sandbox-fails-agentic-ai-system-gains-internet-access-126092600353_1.html",
+      "cross_verified": true,
+      "published_at": "2026-09-26T06:42:40.000000Z"
+    },
+    {
+      "title": "OpenAI's models accessed US govt websites including US census and SEC data",
+      "title_ko": "오픈AI의 모델들이 미국 인구조사국 및 증권거래위원회(SEC) 데이터를 포함한 미국 정부 웹사이트에 접근했다",
+      "snippet": "The company said its models accessed publicly available data from Census and SEC websites as it investigates incidents involving AI systems bypassing security controls",
+      "snippet_ko": "이 회사는 AI 시스템이 보안 통제 조치를 우회한 사건을 조사하는 과정에서 자사 모델들이 인구조사국 및 증권거래위원회(SEC) 웹사이트에서 공개된 데이터에 접근했다고 밝혔다.",
+      "symbol": "META",
+      "sentiment_score": -0.6249,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/technology/tech-news/openai-s-models-accessed-us-govt-websites-including-us-census-and-sec-data-126092600143_1.html",
+      "cross_verified": true,
+      "published_at": "2026-09-26T03:20:20.000000Z"
+    },
     {
       "title": "Apple (AAPL) Plans a Health App Overhaul. Can Better Insights Boost Device Sales?",
       "title_ko": "애플(AAPL), 헬스 앱 대대적인 개편 계획. 더 나은 분석 기능이 기기 판매를 촉진할 수 있을까?",
@@ -2379,30 +2403,6 @@
       "url": "https://equedia.com/mp-materials-stock-china-stake",
       "cross_verified": true,
       "published_at": "2026-09-18T20:51:36.000000Z"
-    },
-    {
-      "title": "Warren Buffett Hands Berkshire Chair to Son After 33 Years",
-      "title_ko": "워런 버핏, 33년 만에 버크셔 회장직 아들에게 물려줘",
-      "snippet": "Warren Buffett becomes Chairman Emeritus as son Howard, a Berkshire director since 1993, takes the chair. Greg Abel stays CEO; Class B shares dipped 0.3%.",
-      "snippet_ko": "워런 버핏이 명예 회장으로 물러나고, 1993년부터 버크셔 이사로 재직해 온 아들 하워드가 회장에 취임했다. 그렉 아벨은 CEO직을 유지했으며, B종 주식은 0.3% 하락했다.",
-      "symbol": "KO",
-      "sentiment_score": 0.2898,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/warren-buffett-becomes-chairman-emeritus-and-hands-the-chair-to-his-son-33-years-a-berkshire-director/",
-      "cross_verified": true,
-      "published_at": "2026-09-18T18:41:00.000000Z"
-    },
-    {
-      "title": "Apple Raised Stakes with its $2000-Priced Foldable. But Can it Be the New Growth Engine?",
-      "title_ko": "애플은 2,000달러짜리 폴더블 스마트폰으로 판을 키웠다. 하지만 이것이 새로운 성장 동력이 될 수 있을까?",
-      "snippet": "Apple Inc. (NASDAQ:AAPL) has just released its first foldable phone, the Duo, marking the most significant design change to an iPhone in recent years.",
-      "snippet_ko": "애플(Apple Inc., 나스닥: AAPL)이 첫 번째 폴더블 스마트폰인 ‘듀오(Duo)’를 출시했으며, 이는 최근 몇 년간 아이폰 디자인에 있어 가장 큰 변화를 가져온 사건이다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4811,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/apple-raised-stakes-with-its-2000-priced-foldable-but-can-it-be-the-new-growth-engine-1840334/",
-      "cross_verified": true,
-      "published_at": "2026-09-18T18:11:54.000000Z"
     }
   ]
 }
