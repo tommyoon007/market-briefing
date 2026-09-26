@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-25T23:12:35.817894+00:00",
+  "updated_at": "2026-09-26T04:31:54.969947+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "White House Assures No Ban on Diesel Exports Amid Rising Prices",
+      "title_ko": "유가 상승 속 백악관, 디젤 수출 금지 없을 것임을 재차 강조",
+      "snippet": "On September 25, 2026, Senator Ted Cruz conveyed to leaders in the refining industry that the White House has committed to not banning diesel exports. This assu",
+      "snippet_ko": "2026년 9월 25일, 테드 크루즈 상원의원은 정유 업계 지도자들에게 백악관이 디젤 수출을 금지하지 않기로 약속했다고 전했다. 이러한 안심",
+      "symbol": "",
+      "sentiment_score": 0.3934,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9098271/white-house-assures-no-ban-on-diesel-exports-amid-rising-prices",
+      "cross_verified": true,
+      "published_at": "2026-09-26T03:50:27.000000Z"
+    },
+    {
+      "title": "Infineon Technologies Boosts Thailand's Chip Industry with New Semiconductor Plant",
+      "title_ko": "인피니언 테크놀로지스, 신규 반도체 공장 설립으로 태국 반도체 산업 활성화",
+      "snippet": "On September 25, 2026, Infineon Technologies AG (IFNNY) announced the upcoming launch of its semiconductor factory in Thailand, scheduled for October 1. This si",
+      "snippet_ko": "2026년 9월 25일, 인피니언 테크놀로지스 AG(IFNNY)는 10월 1일로 예정된 태국 내 반도체 공장 가동을 앞두고 이를 발표했다. 이 공장은",
+      "symbol": "",
+      "sentiment_score": 0.4658,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9098270/infineon-technologies-boosts-thailands-chip-industry-with-new-semiconductor-plant",
+      "cross_verified": true,
+      "published_at": "2026-09-26T03:30:27.000000Z"
+    },
+    {
+      "title": "Dollar Tree (DLTR) Amends By-Laws to Align with Virginia Law and Update Shareholder Meeting Procedures",
+      "title_ko": "달러 트리(DLTR), 버지니아주 법률에 부합하고 주주총회 절차를 개정하기 위해 정관을 개정",
+      "snippet": "Dollar Tree, Inc. (DLTR) announced that its Board of Directors approved amendments to the company's By-Laws, effective September 24, 2026. The changes are desi",
+      "snippet_ko": "달러 트리(Dollar Tree, Inc., DLTR)는 이사회가 2026년 9월 24일부터 발효되는 회사 정관 개정안을 승인했다고 발표했다. 이번 개정안은...",
+      "symbol": "",
+      "sentiment_score": 0.2717,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9098269/dollar-tree-dltr-amends-bylaws-to-align-with-virginia-law-and-update-shareholder-meeting-procedures",
+      "cross_verified": true,
+      "published_at": "2026-09-26T03:30:12.000000Z"
+    },
     {
       "title": "Canopy Growth Corp Annual Shareholders Meeting Transcript",
       "title_ko": "캐노피 그로스(Canopy Growth Corp) 연례 주주총회 회의록",
@@ -1165,45 +1201,45 @@
       "url": "https://www.manilatimes.net/2026/09/18/tmt-newswire/globenewswire/equinor-asa-buy-back-of-shares-to-share-programmes-for-employees/2428054",
       "cross_verified": true,
       "published_at": "2026-09-18T06:02:47.000000Z"
-    },
-    {
-      "title": "White House Weighs Incubator for Cyber Research, Startups",
-      "title_ko": "백악관, 사이버 연구 및 스타트업 지원을 위한 인큐베이터 설립 검토 중",
-      "snippet": "The Trump administration is weighing a plan to establish a government-led incubator aimed at investing in cybersecurity research and spinning out startups",
-      "snippet_ko": "트럼프 행정부는 사이버 보안 연구에 투자하고 스타트업을 분사시키는 것을 목표로 하는 정부 주도의 인큐베이터를 설립하는 방안을 검토하고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.5267,
-      "source": "insurancejournal.com",
-      "url": "https://www.insurancejournal.com/news/national/2026/09/18/885557.htm",
-      "cross_verified": true,
-      "published_at": "2026-09-18T05:28:43.000000Z"
-    },
-    {
-      "title": "Up to 7% savings account interest rate: Check latest rates offered by Canara Bank, Bank of India and IDFC FIRST Bank - Savings account interest rates",
-      "title_ko": "최대 7%의 예금 금리: 카나라 은행, 인도 은행, IDFC FIRST 은행의 최신 금리 확인하기 - 예금 금리",
-      "snippet": "Many banks such as Canara Bank, Bank of India and IDFC FIRST Bank revised their savings account interest rates in September 2026. Here is a look at the latest savings account interest rates offered by Canara Bank, Bank of India and IDFC FIRST Bank. Savings account interest rates",
-      "snippet_ko": "카나라 은행, 인도 은행, IDFC FIRST 은행 등 많은 은행들이 2026년 9월에 저축예금 금리를 조정했습니다. 다음은 카나라 은행, 인도 은행, IDFC FIRST 은행이 제공하는 최신 저축예금 금리 현황입니다. 저축예금 금리",
-      "symbol": "",
-      "sentiment_score": 0.7184,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/wealth/save/up-to-7-savings-account-interest-rate-check-latest-rates-offered-by-canara-bank-bank-of-india-and-idfc-first-bank/slideshow/134326641.cms",
-      "cross_verified": true,
-      "published_at": "2026-09-18T05:15:06.000000Z"
-    },
-    {
-      "title": "Star Equity Holdings to Present at Upcoming Conferences",
-      "title_ko": "스타 에쿼티 홀딩스, 다가오는 컨퍼런스에서 발표 예정",
-      "snippet": "OLD GREENWICH, Conn., Sept. 17, 2026 (GLOBE NEWSWIRE) -- Star Equity Holdings, Inc. (Nasdaq: STRR and STRRP) ('Star' or the 'Company'), a diversified holding company, announced today that its management team will present and host one-on-one meetings with investors at two upcoming conferences.",
-      "snippet_ko": "코네티컷주 올드 그리니치, 2026년 9월 17일 (GLOBE NEWSWIRE) -- 다각화된 지주회사인 Star Equity Holdings, Inc. (나스닥: STRR 및 STRRP)(이하 ‘Star’ 또는 ‘회사’)는 오늘, 경영진이 다가오는 두 차례의 컨퍼런스에서 발표를 진행하고 투자자들과의 일대일 미팅을 주관할 것이라고 발표했다.",
-      "symbol": "",
-      "sentiment_score": 0.2801,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/18/tmt-newswire/globenewswire/star-equity-holdings-to-present-at-upcoming-conferences/2427929",
-      "cross_verified": true,
-      "published_at": "2026-09-17T20:19:39.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Apple (AAPL) Plans a Health App Overhaul. Can Better Insights Boost Device Sales?",
+      "title_ko": "애플(AAPL), 헬스 앱 대대적인 개편 계획. 더 나은 분석 기능이 기기 판매를 촉진할 수 있을까?",
+      "snippet": "On September 9, 2026, the Wall Street Journal reported that Apple Inc. (NASDAQ:AAPL) is undertaking a major overhaul of its Health app and Apple Watch strategy.",
+      "snippet_ko": "2026년 9월 9일, 월스트리트저널은 애플(NASDAQ:AAPL)이 ‘헬스’ 앱과 애플워치 전략을 대대적으로 개편하고 있다고 보도했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3416,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/apple-aapl-plans-a-health-app-overhaul-can-better-insights-boost-device-sales-1840426/",
+      "cross_verified": true,
+      "published_at": "2026-09-26T01:35:25.000000Z"
+    },
+    {
+      "title": "Alphabet (GOOGL) Faces Gemini Security Questions. Could AI Agents Raise its Risks?",
+      "title_ko": "알파벳(GOOGL), ‘제미니’ 보안 논란에 직면. AI 에이전트가 위험성을 높일 수 있을까?",
+      "snippet": "On September 18, 2026, Reuters reported that Alphabet Inc.",
+      "snippet_ko": "2026년 9월 18일, 로이터 통신은 알파벳(Alphabet Inc.)이",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.0099,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/alphabet-googl-faces-gemini-security-questions-could-ai-agents-raise-its-risks-1842562/",
+      "cross_verified": true,
+      "published_at": "2026-09-26T01:27:32.000000Z"
+    },
+    {
+      "title": "Apple (AAPL) Took a Different Pricing Approach with its New iPhones in China",
+      "title_ko": "애플(AAPL), 중국에서 신형 아이폰 출시하며 색다른 가격 전략을 펼쳤다",
+      "snippet": "On September 10, 2026, CNBC reported that Apple Inc.",
+      "snippet_ko": "2026년 9월 10일, CNBC는 애플(Apple Inc.)이",
+      "symbol": "AAPL",
+      "sentiment_score": 0.1546,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/apple-aapl-took-a-different-pricing-approach-with-its-new-iphones-in-china-1840384/",
+      "cross_verified": true,
+      "published_at": "2026-09-26T01:22:29.000000Z"
+    },
     {
       "title": "Merck (MRK) Withdraws I-DXd Biologics License Application for ES-SCLC",
       "title_ko": "머크(MRK), ES-SCLC에 대한 I-DXd 생물학적 제제 허가 신청 철회",
@@ -2367,42 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/apple-raised-stakes-with-its-2000-priced-foldable-but-can-it-be-the-new-growth-engine-1840334/",
       "cross_verified": true,
       "published_at": "2026-09-18T18:11:54.000000Z"
-    },
-    {
-      "title": "Day 1 sales of iPhone 18 Pro 15-28% higher than 17 Pro, shows data",
-      "title_ko": "데이터에 따르면 아이폰 18 프로의 출시 첫날 판매량이 17 프로보다 15~28% 더 높은 것으로 나타났다",
-      "snippet": "Preliminary market estimates show day-one demand for the iPhone 18 Pro series up 15-28% in India, with the new burgundy shade replacing last year's orange as the top choice",
-      "snippet_ko": "시장 초기 추산에 따르면, 인도에서 아이폰 18 프로 시리즈의 출시 첫날 수요가 15~28% 증가한 것으로 나타났으며, 새로운 버건디 색상이 작년 오렌지 색상을 제치고 가장 인기 있는 색상으로 떠올랐다.",
-      "symbol": "AAPL",
-      "sentiment_score": -0.1649,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/companies/news/day-1-sales-of-iphone-18-pro-15-28-higher-than-17-pro-shows-data-126091801453_1.html",
-      "cross_verified": true,
-      "published_at": "2026-09-18T17:46:55.000000Z"
-    },
-    {
-      "title": "Wall Street Breakfast With Steven Cress (undefined:INTA)",
-      "title_ko": "스티븐 크레스와 함께하는 월스트리트 조찬 모임 (undefined:INTA)",
-      "snippet": "It's a witching day! Steven Cress says as a long-term investor, don't make any investment decisions on it. Obviously if you're a short-term trader, it can impact your holdings.",
-      "snippet_ko": "오늘은 정말 요술 같은 날입니다! 스티븐 크레스는 장기 투자자라면 이날 어떤 투자 결정도 내리지 말라고 조언합니다. 물론 단기 트레이더라면 보유 종목에 영향을 미칠 수 있습니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3348,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947912-wall-street-breakfast-with-steven-cress-intapp-boot-barn-costco-doordash",
-      "cross_verified": true,
-      "published_at": "2026-09-18T16:16:00.000000Z"
-    },
-    {
-      "title": "AI Memory Costs Continue to Explode — And It’s About to Get a Lot Worse",
-      "title_ko": "AI 메모리 비용은 계속해서 급증하고 있으며, 앞으로 상황은 훨씬 더 악화될 전망이다",
-      "snippet": "Intel's CEO just warned that memory prices have surged to levels that could reshape the economics of everything from budget smartphones to AI servers, and the worst may still be two years away.",
-      "snippet_ko": "인텔 CEO는 방금 메모리 가격이 저가형 스마트폰부터 AI 서버에 이르기까지 모든 분야의 경제 구조를 뒤바꿀 수 있는 수준까지 치솟았다고 경고했으며, 최악의 상황은 아직 2년 뒤에나 닥칠 수도 있다고 밝혔다.",
-      "symbol": "INTC",
-      "sentiment_score": -0.3125,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/technology/articles/ai-memory-costs-continue-explode-160254071.html",
-      "cross_verified": true,
-      "published_at": "2026-09-18T16:02:54.000000Z"
     }
   ]
 }
