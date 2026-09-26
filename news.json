@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-26T11:09:42.528500+00:00",
+  "updated_at": "2026-09-26T16:10:40.117686+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Allstate Offers A 7% Yielding Preferred Stock To Ride Out Earnings Decrease (NYSE:ALL)",
+      "title_ko": "올스테이트, 실적 감소 국면을 극복하기 위해 수익률 7%의 우선주를 발행 (NYSE:ALL)",
+      "snippet": "Allstate's common and preferred stocks appear attractive and offer a great risk/reward ratio. Click for this update on ALL and ALL.PR.I.",
+      "snippet_ko": "올스테이트(Allstate)의 보통주와 우선주는 매력적으로 보이며, 뛰어난 위험 대비 수익률을 제공합니다. ALL 및 ALL.PR.I에 대한 최신 정보를 보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4949855-allstate-offers-7-percent-preferred-stock-to-ride-out-earnings-decrease",
+      "cross_verified": true,
+      "published_at": "2026-09-26T15:40:00.000000Z"
+    },
+    {
+      "title": "Realty Income 3.0: The REIT You Know Is Rebuilding It's Growth Engine (NYSE:O)",
+      "title_ko": "리얼티 인컴 3.0: 여러분이 잘 아는 이 REIT가 성장 동력을 재구축하고 있다 (NYSE:O)",
+      "snippet": "Realty Income (O) Buy case: Realty 3.0 drives AFFO via capital-light partnerships like GIC; 5.86% yield, 31 years growth, DDM $60.73—read now.",
+      "snippet_ko": "리얼티 인컴(O) 매수 근거: ‘리얼티 3.0’ 전략이 GIC와 같은 자본 효율이 높은 파트너십을 통해 AFFO를 견인하고 있음; 5.86% 배당수익률, 31년 연속 성장, DDM 기준 주가 $60.73—지금 읽어보세요.",
+      "symbol": "",
+      "sentiment_score": 0.3818,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4949978-realty-income-3-0-the-reit-you-know-is-rebuilding-its-growth-engine",
+      "cross_verified": true,
+      "published_at": "2026-09-26T15:09:08.000000Z"
+    },
+    {
+      "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
+      "title_ko": "이는 AI 투자 비중을 늘리고자 하는 투자자들에게 ‘결정적인 요소’가 될 수 있다",
+      "snippet": "Matthews Asia portfolio manager Andrew Mattock delivers a strategy that revolves around the world's second largest economy.",
+      "snippet_ko": "매튜스 아시아의 포트폴리오 매니저 앤드류 매톡은 세계 2위 경제 대국을 중심으로 한 투자 전략을 제시합니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
+      "cross_verified": true,
+      "published_at": "2026-09-26T15:00:01.000000Z"
+    },
     {
       "title": "SBI hands over cheque worth ₹500 crore to Jeevika Didis in Patna",
       "title_ko": "SBI, 파트나에서 지비카 디디스에게 50억 루피 상당의 수표를 전달",
@@ -1165,45 +1201,33 @@
       "url": "https://seekingalpha.com/article/4947908-janux-therapeutics-its-too-early-to-tell-if-prostate-cancer-program-can-succeed",
       "cross_verified": true,
       "published_at": "2026-09-18T16:46:52.000000Z"
-    },
-    {
-      "title": "Applied Optoelectronics Is Entering Its Most Important Growth Phase (NASDAQ:AAOI)",
-      "title_ko": "응용 광전자공학이 가장 중요한 성장 국면에 접어들고 있다 (나스닥:AAOI)",
-      "snippet": "Applied Optoelectronics forecasts 800G/1.6T optical demand outpacing capacity through 2027. Click for read more on the AAOI stock.",
-      "snippet_ko": "Applied Optoelectronics는 2027년까지 800G/1.6T 광통신 수요가 생산 능력을 앞지를 것으로 전망하고 있습니다. AAOI 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.5097,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947903-applied-optoelectronics-is-entering-its-most-important-growth-phase",
-      "cross_verified": true,
-      "published_at": "2026-09-18T16:26:16.000000Z"
-    },
-    {
-      "title": "Jim Cramer Says to Wait For Corning (GLW) to Fall Further",
-      "title_ko": "짐 크레이머, 코닝(GLW) 주가가 더 떨어질 때까지 기다리라고 조언",
-      "snippet": "During the September 14 episode of Mad Money, a caller asked whether it is a good time to trim profits on Corning Incorporated (NYSE:GLW) or hold the current position. Jim Cramer commented: I don’t want you to do that. Remember, in the club, I said sell it? Then I was despondent because it went up […]",
-      "snippet_ko": "9월 14일 방송된 ‘매드 머니’에서 한 시청자가 코닝(Corning Incorporated, NYSE:GLW)에 대한 투자에서 이익을 실현할 시점인지, 아니면 현재 포지션을 유지해야 할지 물었습니다. 짐 크레이머는 다음과 같이 말했습니다. “그렇게 하지 마세요.” 기억하시나요? 클럽에서 제가 매도하라고 말했던 거요? 그런데 주가가 오르자 저는 낙담했었죠 […]",
-      "symbol": "",
-      "sentiment_score": 0.5651,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-wait-corning-162201204.html",
-      "cross_verified": true,
-      "published_at": "2026-09-18T16:22:01.000000Z"
-    },
-    {
-      "title": "Paycom: Recovery Started With More To Come (NYSE:PAYC)",
-      "title_ko": "Paycom: 회복세가 시작되었으며, 앞으로도 더 이어질 전망 (NYSE:PAYC)",
-      "snippet": "Paycom (PAYC) Q2 2026 earnings: revenue +10%, EPS +48%, raised guidance and aggressive buybacks.",
-      "snippet_ko": "Paycom(PAYC) 2026년 2분기 실적: 매출 10% 증가, 주당순이익(EPS) 48% 증가, 실적 전망 상향 조정 및 적극적인 자사주 매입.",
-      "symbol": "",
-      "sentiment_score": 0.1366,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947819-paycom-recovery-started-with-more-to-come",
-      "cross_verified": true,
-      "published_at": "2026-09-18T12:23:44.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Monster Beverage (MNST) CEO Americas Rob Gehring to Resign, Emelie Tirre to Assume Interim Leadership",
+      "title_ko": "몬스터 베버리지(MNST) 미주 지역 CEO 롭 게링이 사임하고, 에멜리 티레가 임시 대표직을 맡게 된다",
+      "snippet": "Monster Beverage Corporation (MNST) disclosed in a Form 8-K filing with the U.S. Securities and Exchange Commission that Rob Gehring, currently Chief Executive",
+      "snippet_ko": "몬스터 베버리지 코퍼레이션(MNST)은 미국 증권거래위원회(SEC)에 제출한 8-K 양식에서, 현재 최고경영자(CEO)인 롭 게링이",
+      "symbol": "KO",
+      "sentiment_score": 0.413,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9099057/monster-beverage-mnst-ceo-americas-rob-gehring-to-resign-emelie-tirre-to-assume-interim-leadership",
+      "cross_verified": true,
+      "published_at": "2026-09-26T12:30:08.000000Z"
+    },
+    {
+      "title": "NVIDIA (NVDA) vs. Broadcom (AVGO): Which AI Chip Stock Has the Stronger Moat?",
+      "title_ko": "엔비디아(NVDA) 대 브로드컴(AVGO): 어느 AI 칩 종목이 더 강력한 경쟁 우위를 가지고 있을까?",
+      "snippet": "NVIDIA Corporation (NASDAQ:NVDA) and Broadcom Inc. (NASDAQ:AVGO) have both been beneficiaries of the AI boom. However, their competitive advantages come from very different places.",
+      "snippet_ko": "엔비디아(NVIDIA Corporation, 나스닥: NVDA)와 브로드컴(Broadcom Inc., 나스닥: AVGO)은 모두 AI 붐의 수혜를 입었습니다. 그러나 두 기업의 경쟁 우위는 전혀 다른 기반에서 비롯됩니다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.4365,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/nvidia-nvda-vs-broadcom-avgo-which-ai-chip-stock-has-the-stronger-moat-1844129/",
+      "cross_verified": true,
+      "published_at": "2026-09-26T04:51:01.000000Z"
+    },
     {
       "title": "Another OpenAI sandbox fails, agentic AI system gains internet access",
       "title_ko": "또 다른 OpenAI 샌드박스가 실패했고, 에이전트형 AI 시스템이 인터넷에 접속하게 되었다",
@@ -2379,30 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9088730/mp-materials-corp-mp-shares-fall-43-gf-value-says-still-overvalued",
       "cross_verified": true,
       "published_at": "2026-09-18T23:40:34.000000Z"
-    },
-    {
-      "title": "Market Mixed as Morningstar DBRS Flags France; Anthropic and Accenture Ink $2 Billion AI Safety Deal",
-      "title_ko": "모닝스타와 DBRS가 프랑스에 경고를 발령하며 시장이 혼조세를 보임; 앤트로픽과 액센츄어, 20억 달러 규모의 AI 안전 협약 체결",
-      "snippet": "Wall Street navigated a volatile session on Friday as the 10-year Treasury yield hovered near the critical 5.00% threshold. While the S&P 500 (^GSPC)",
-      "snippet_ko": "금요일 월스트리트는 10년물 국채 수익률이 중요한 5.00% 선 근처에서 등락을 거듭하는 가운데 변동성이 큰 장세를 보였습니다. 한편 S&P 500 지수(^GSPC)는",
-      "symbol": "AVGO",
-      "sentiment_score": 0.5574,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/market-mixed-as-morningstar-dbrs-flags-france-anthropic-and-accenture-ink-2-billion-ai-safety-deal/71970/",
-      "cross_verified": true,
-      "published_at": "2026-09-18T21:08:12.000000Z"
-    },
-    {
-      "title": "MP Materials Stock: Beijing Is Buying Its 3% Holder",
-      "title_ko": "MP 머티리얼스 주식: 베이징이 지분 3%를 보유한 주주를 인수 중",
-      "snippet": "China Rare Earth Group is in talks to buy Shenghe Resources, owner of 3% of MP Materials stock, putting Beijing on the Pentagon's share register.",
-      "snippet_ko": "중국 희토류 그룹은 MP 머티리얼스 지분의 3%를 보유한 셩허 리소스를 인수하기 위한 협상을 진행 중이며, 이로 인해 중국 정부가 미 국방부의 주주 명부에 이름을 올리게 될 전망이다.",
-      "symbol": "MP",
-      "sentiment_score": 0.3093,
-      "source": "equedia.com",
-      "url": "https://equedia.com/mp-materials-stock-china-stake",
-      "cross_verified": true,
-      "published_at": "2026-09-18T20:51:36.000000Z"
     }
   ]
 }
