@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-26T20:54:54.891504+00:00",
+  "updated_at": "2026-09-27T00:23:37.443856+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Trump Administration Revises Fuel Economy Rules Impacting GM (NYSE: GM)",
+      "title_ko": "트럼프 행정부, GM(NYSE: GM)에 영향을 미치는 연비 규정을 개정",
+      "snippet": "On September 26, 2026, former President Trump announced new fuel economy standards for vehicles, rescinding the previous administration's electric vehicle manda",
+      "snippet_ko": "2026년 9월 26일, 트럼프 전 대통령은 자동차에 대한 새로운 연비 기준을 발표하며, 전 행정부가 도입한 전기차 의무화 조치를 철회했다.",
+      "symbol": "",
+      "sentiment_score": 0.4044,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9099121/trump-administration-revises-fuel-economy-rules-impacting-gm-nyse-gm",
+      "cross_verified": true,
+      "published_at": "2026-09-26T21:55:45.000000Z"
+    },
+    {
+      "title": "Value the CBA share price using its dividend yield",
+      "title_ko": "배당 수익률을 바탕으로 CBA 주가를 평가한다",
+      "snippet": "Is the Commonwealth Bank of Australia (ASX: CBA) share price good value? Here are 2 ways you can put a number on it.",
+      "snippet_ko": "호주 커먼웰스 은행(ASX: CBA)의 주가는 매수할 만한 가치가 있을까요? 이를 수치적으로 평가할 수 있는 두 가지 방법을 소개합니다.",
+      "symbol": "",
+      "sentiment_score": 0.9055,
+      "source": "raskmedia.com.au",
+      "url": "https://www.raskmedia.com.au/2026/09/27/value-the-cba-share-price-using-its-dividend-yield-47/",
+      "cross_verified": true,
+      "published_at": "2026-09-26T20:40:02.000000Z"
+    },
     {
       "title": "Foreign Investors Boost US Stock Purchases, Impacting SPY Valuation Dynamics",
       "title_ko": "외국인 투자자들의 미국 주식 매수 증가가 SPY의 가치 평가 동향에 영향을 미치고 있다",
@@ -1177,33 +1201,21 @@
       "url": "https://seekingalpha.com/article/4947987-axa-sa-axa-ca-analyst-investor-day-slideshow",
       "cross_verified": true,
       "published_at": "2026-09-18T23:17:57.000000Z"
-    },
-    {
-      "title": "AMD: Gambling With Limited Upside (Downgrade) (NASDAQ:AMD)",
-      "title_ko": "AMD: 상승 여력이 제한적인 투기성 종목 (매도 등급 하향) (나스닥: AMD)",
-      "snippet": "Advanced Micro Devices is downgraded to a Sell due to an unattractive risk/reward profile despite robust short-term growth. Click for this AMD update.",
-      "snippet_ko": "어드밴스드 마이크로 디바이스(AMD)는 단기적으로 견조한 성장세를 보이고 있음에도 불구하고 위험 대비 수익성이 매력적이지 않다는 이유로 투자 등급이 ‘매도’로 하향 조정되었습니다. AMD 관련 최신 소식을 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.1837,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947979-amd-gambling-with-limited-upside-downgrade",
-      "cross_verified": true,
-      "published_at": "2026-09-18T23:14:01.000000Z"
-    },
-    {
-      "title": "Markets Edge Higher as Utilities and Tech Lead; Focus Shifts to Next Week’s Earnings",
-      "title_ko": "유틸리티와 기술주가 주도하며 증시 소폭 상승… 관심은 다음 주 실적 발표로 쏠려",
-      "snippet": "U.S. equity markets maintained a positive trajectory on Friday, September 18th, 2026, as investors navigated a landscape of stabilizing interest rates and",
-      "snippet_ko": "2026년 9월 18일 금요일, 미국 주식 시장은 투자자들이 금리 안정화 추세 속에서 시장 상황을 헤쳐 나가는 가운데 상승세를 이어갔으며,",
-      "symbol": "",
-      "sentiment_score": 0.4953,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/markets-edge-higher-as-utilities-and-tech-lead-focus-shifts-to-next-weeks-earnings/71967/",
-      "cross_verified": true,
-      "published_at": "2026-09-18T20:07:14.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Apple (AAPL) Ordered to Pay $5.7 Billion in Patent Case Over Haptic Technology",
+      "title_ko": "애플(AAPL), 햅틱 기술 관련 특허 소송에서 57억 달러 배상 명령 받아",
+      "snippet": "On September 26, 2026, a federal jury in California ruled that Apple Inc. (NASDAQ: AAPL) must pay over $5.7 billion to Taction Technology for patent infringemen",
+      "snippet_ko": "2026년 9월 26일, 캘리포니아의 연방 배심원단은 애플(Apple Inc., 나스닥: AAPL)이 특허 침해로 인해 택션 테크놀로지(Taction Technology)에 57억 달러 이상을 배상해야 한다고 판결했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.1722,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9099124/apple-aapl-ordered-to-pay-57-billion-in-patent-case-over-haptic-technology",
+      "cross_verified": true,
+      "published_at": "2026-09-26T22:55:20.000000Z"
+    },
     {
       "title": "QQQ and QQQI: Similar Tickers but Very Different ETFs",
       "title_ko": "QQQ와 QQQI: 티커는 비슷하지만 성격이 매우 다른 ETF",
@@ -2391,18 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/meta-metas-stilla-ai-deal-could-turn-business-agent-into-a-new-monetization-engine-1837535/",
       "cross_verified": true,
       "published_at": "2026-09-19T07:57:56.000000Z"
-    },
-    {
-      "title": "Ferrari (RACE) Signs Rakuten While 2027 Is Already Spoken For",
-      "title_ko": "페라리(RACE), 라쿠텐과 계약 체결… 2027년 스폰서십은 이미 확정된 상태",
-      "snippet": "On September 17, Ferrari N.V. (NYSE:RACE) announced a partnership with the technology company Rakuten Group, Inc., effective January 1, 2027.",
-      "snippet_ko": "9월 17일, 페라리 N.V. (NYSE:RACE)는 기술 기업인 라쿠텐 그룹(Rakuten Group, Inc.)과 2027년 1월 1일부터 효력이 발생하는 파트너십을 체결했다고 발표했다.",
-      "symbol": "V",
-      "sentiment_score": 0.4927,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/ferrari-race-signs-rakuten-while-2027-is-already-spoken-for-1840147/",
-      "cross_verified": true,
-      "published_at": "2026-09-19T11:01:00.000000Z"
     }
   ]
 }
