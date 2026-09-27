@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-27T18:12:57.039452+00:00",
+  "updated_at": "2026-09-27T22:54:55.809545+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Vail Resorts Q4 2026 Earnings Preview (NYSE:MTN)",
+      "title_ko": "베일 리조트 2026년 4분기 실적 전망 (NYSE:MTN)",
+      "snippet": "Preview Vail Resorts (MTN) Q4 earnings on Sept. 28: EPS -$5.37, revenue $269.3M, estimate revisions and beat rates.",
+      "snippet_ko": "9월 28일 발표 예정인 베일 리조츠(MTN) 4분기 실적 미리보기: 주당순이익(EPS) -5.37달러, 매출 2억 6,930만 달러, 실적 전망치 수정 및 예상치 상회율.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4647264-vail-resorts-q4-2026-earnings-preview",
+      "cross_verified": true,
+      "published_at": "2026-09-27T21:35:00.000000Z"
+    },
+    {
+      "title": "IDT Corporation Q4 2026 Earnings Preview (NYSE:IDT)",
+      "title_ko": "IDT Corporation 2026년 4분기 실적 전망 (NYSE:IDT)",
+      "snippet": "IDT (IDT) reports Q4 earnings Sept 28 after the close.",
+      "snippet_ko": "IDT(IDT)는 9월 28일 장 마감 후 4분기 실적을 발표할 예정이다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4647262-idt-corporation-q4-2026-earnings-preview",
+      "cross_verified": true,
+      "published_at": "2026-09-27T21:35:00.000000Z"
+    },
+    {
+      "title": "Jefferies Financial Group Q3 2026 Earnings Preview (NYSE:JEF)",
+      "title_ko": "제프리스 파이낸셜 그룹 2026년 3분기 실적 전망 (NYSE:JEF)",
+      "snippet": "Preview Jefferies (JEF) Q3 earnings Sept 28 after close: EPS $1.00, revenue $2.2B, beat history & estimate revisions.",
+      "snippet_ko": "제프리스(JEF) 3분기 실적 미리보기: 9월 28일 장 마감 후 발표 예정, 주당순이익(EPS) 1.00달러, 매출 22억 달러로, 과거 실적 및 예상치 상향을 상회할 전망.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4647263-jefferies-financial-group-q3-2026-earnings-preview",
+      "cross_verified": true,
+      "published_at": "2026-09-27T21:35:00.000000Z"
+    },
     {
       "title": "Agnico Eagle Mines Limited (NYSE:AEM) -- Resilient Mining Operations | ROCKLINC Partners Fund Q3 2026",
       "title_ko": "Agnico Eagle Mines Limited (NYSE:AEM) -- 탄탄한 광산 운영 | ROCKLINC Partners Fund 2026년 3분기",
@@ -1165,45 +1201,33 @@
       "url": "https://seekingalpha.com/article/4948101-oscar-health-inc-oscr-analyst-investor-day-slideshow",
       "cross_verified": true,
       "published_at": "2026-09-19T23:16:56.000000Z"
-    },
-    {
-      "title": "North Carolina University Fund Achieves 37.8% Return with SpaceX Investment",
-      "title_ko": "노스캐롤라이나 대학교 기금, 스페이스X 투자로 37.8% 수익률 달성",
-      "snippet": "On September 19, 2026, Super Micro Computer Inc (SMCI) continues to attract attention as its valuation metrics and insider activity raise questions about its fu",
-      "snippet_ko": "2026년 9월 19일, 슈퍼 마이크로 컴퓨터(SMCI)는 기업 가치 평가 지표와 내부자 거래 동향이 향후 전망에 대한 의문을 제기하면서 계속해서 주목을 받고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.4697,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9089215/north-carolina-university-fund-achieves-378-return-with-spacex-investment",
-      "cross_verified": true,
-      "published_at": "2026-09-19T23:10:28.000000Z"
-    },
-    {
-      "title": "AbbVie's Migraine Franchise Scored a Big Win. Is This Dividend King a No-Brainer Buy Right Now?",
-      "title_ko": "애브비(AbbVie)의 편두통 사업 부문이 큰 성과를 거뒀다. 이 ‘배당왕’ 주식을 지금 당장 매수하는 것이 현명한 선택일까?",
-      "snippet": "AbbVie's market-beating days don't seem to be over yet.",
-      "snippet_ko": "애브비의 시장 평균을 상회하는 행보는 아직 끝나지 않은 듯하다.",
-      "symbol": "",
-      "sentiment_score": 0.4165,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/healthcare/articles/abbvies-migraine-franchise-scored-big-192000630.html",
-      "cross_verified": true,
-      "published_at": "2026-09-19T19:20:00.000000Z"
-    },
-    {
-      "title": "Fifth Third’s (FITB) Comerica Merger Is Done, Now Comes The Payoff",
-      "title_ko": "피프스 써드(FITB)와 코메리카의 합병이 마무리되었으며, 이제 그 결실을 거둘 차례다",
-      "snippet": "On September 8, Fifth Third Bancorp (NASDAQ:FITB) said it had finished moving close to 600,000 former Comerica customers and 293 branches across Arizona, California, Florida, Michigan and Texas onto its own systems, a conversion carried out over Labor Day weekend. The move caps the integration that began when the two banks joined forces on February […]",
-      "snippet_ko": "9월 8일, 피프스 써드 뱅코프(Fifth Third Bancorp, 나스닥: FITB)는 애리조나, 캘리포니아, 플로리다, 미시간, 텍사스 전역에 분포된 코메리카(Comerica)의 기존 고객 약 60만 명과 293개 지점을 자사 시스템으로 이전하는 작업을 완료했다고 밝혔다. 이 전환 작업은 노동절 주말 동안 진행되었다. 이번 조치는 두 은행이 지난 2월 […]에 합병을 시작하면서 진행된 통합 과정을 마무리하는 것이다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fifth-third-fitb-comerica-merger-190743312.html",
-      "cross_verified": true,
-      "published_at": "2026-09-19T19:07:43.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Disney's Avengers: Endgame Encore Spurs Box Office Surge, DIS Stock Modestly Undervalued",
+      "title_ko": "디즈니의 ‘어벤져스: 엔드게임’ 재상영이 박스오피스 급증을 이끌며, DIS 주가는 소폭 저평가된 상태",
+      "snippet": "On September 27, 2026, the North American box office saw a notable uplift thanks to the re-release of Disney's Avengers: Endgame: Encore, which generated approx",
+      "snippet_ko": "2026년 9월 27일, 디즈니의 《어벤져스: 엔드게임: 앙코르》가 재개봉되면서 북미 박스오피스 매출이 눈에 띄게 증가했으며, 이 영화는 약",
+      "symbol": "DIS",
+      "sentiment_score": 0.6288,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9099227/disneys-avengers-endgame-encore-spurs-box-office-surge-dis-stock-modestly-undervalued",
+      "cross_verified": true,
+      "published_at": "2026-09-27T18:56:20.000000Z"
+    },
+    {
+      "title": "Apple (AAPL) Faces $5.7 Billion Patent Verdict Over Taptic Engine",
+      "title_ko": "애플(AAPL), ‘탭틱 엔진’ 관련 57억 달러 특허 배상 판결 받아",
+      "snippet": "On September 27, 2026, a U.S. jury ruled that Apple Inc.'s (NASDAQ: AAPL) Taptic Engine infringes on two patents held by Taction, imposing a $5.7 billion penalt",
+      "snippet_ko": "2026년 9월 27일, 미국 배심원단은 애플(NASDAQ: AAPL)의 ‘타픽 엔진(Taptic Engine)’이 Taction이 보유한 두 건의 특허를 침해했다고 판결하고, 57억 달러의 벌금을 부과했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3743,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9099221/apple-aapl-faces-57-billion-patent-verdict-over-taptic-engine",
+      "cross_verified": true,
+      "published_at": "2026-09-27T17:50:21.000000Z"
+    },
     {
       "title": "Institutional Investors Dominate US Market Amid Retail Traders' Retreat",
       "title_ko": "개인 투자자들의 발길이 뜸해진 가운데 기관 투자자들이 미국 시장을 주도하고 있다",
@@ -2379,30 +2403,6 @@
       "url": "https://www.business-standard.com/world-news/companies-avoid-selling-long-term-bonds-investors-are-clamoring-for-126092000063_1.html",
       "cross_verified": true,
       "published_at": "2026-09-20T02:25:40.000000Z"
-    },
-    {
-      "title": "UBS Highlights AI Investment Opportunities; Amazon (AMZN) and Texas Instruments (TXN) Lead",
-      "title_ko": "UBS, AI 투자 기회 강조… 아마존(AMZN)과 텍사스 인스트루먼트(TXN)가 주도",
-      "snippet": "On September 19, 2026, UBS analysts highlighted a burgeoning cycle in artificial intelligence (AI) spending, revealing multiple investment opportunities within",
-      "snippet_ko": "2026년 9월 19일, UBS 애널리스트들은 인공지능(AI) 투자 지출이 급증하는 추세를 강조하며, 이 분야에서 다양한 투자 기회를 제시했습니다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.247,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9089206/ubs-highlights-ai-investment-opportunities-amazon-amzn-and-texas-instruments-txn-lead",
-      "cross_verified": true,
-      "published_at": "2026-09-19T19:30:27.000000Z"
-    },
-    {
-      "title": "Forget Buying All Seven: The \"Magnificent Seven\" Stock Most Likely to Double by 2028",
-      "title_ko": "7종 모두 매수할 필요는 없다: 2028년까지 주가가 두 배로 오를 가능성이 가장 높은 ‘위대한 7인’ 주식",
-      "snippet": "I believe investors are underrating the potential of this compounding machine.",
-      "snippet_ko": "저는 투자자들이 이 ‘복리 효과의 기계’가 지닌 잠재력을 과소평가하고 있다고 생각합니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.7765,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/forget-buying-seven-magnificent-seven-185000912.html",
-      "cross_verified": true,
-      "published_at": "2026-09-19T18:50:00.000000Z"
     }
   ]
 }
