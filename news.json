@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-27T00:23:37.443856+00:00",
+  "updated_at": "2026-09-27T07:55:30.141326+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "VLCC Market Surge: Record Prices for Super Tankers Amid High Freight Rates",
+      "title_ko": "VLCC 시장 급등: 높은 운임 속에 초대형 유조선 가격 사상 최고치 기록",
+      "snippet": "On September 27, 2026, the large crude oil tanker market is witnessing unprecedented demand, particularly for Very Large Crude Carriers (VLCCs). This surge in d",
+      "snippet_ko": "2026년 9월 27일, 대형 원유 운반선 시장, 특히 초대형 원유 운반선(VLCC) 부문에서 전례 없는 수요가 나타나고 있다. 이러한 수요 급증은...",
+      "symbol": "",
+      "sentiment_score": 0.2502,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9099172/vlcc-market-surge-record-prices-for-super-tankers-amid-high-freight-rates",
+      "cross_verified": true,
+      "published_at": "2026-09-27T07:50:26.000000Z"
+    },
+    {
+      "title": "Simon Property Group: Redemption Risk For SPG.PR.J (NYSE:SPG)",
+      "title_ko": "사이먼 프로퍼티 그룹: SPG.PR.J(NYSE:SPG)의 상환 위험",
+      "snippet": "Simon Property Group's financials remain robust, but SPG.PR.J's price appreciation potential is exhausted. Read why SPG.PR.J stock is a Strong Sell.",
+      "snippet_ko": "사이먼 프로퍼티 그룹(Simon Property Group)의 재무 건전성은 여전히 탄탄하지만, SPG.PR.J의 주가 상승 여력은 소진되었습니다. SPG.PR.J 주식을 ‘강력 매도’로 평가하는 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.0741,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4950005-simon-property-group-redemption-risk-for-spgprj",
+      "cross_verified": true,
+      "published_at": "2026-09-27T06:19:28.000000Z"
+    },
+    {
+      "title": "Rare Sunday for public- and rural sector-banks: Check if your bank is open or closed today",
+      "title_ko": "민간 및 농촌 은행에 있어 드문 일요일: 오늘 이용하시는 은행이 영업하는지 휴무인지 확인해 보세요",
+      "snippet": "Public-sector and regional rural banks across the country will open on Sunday, September 27, ahead of a three-day nationwide strike by bank unions. Details here.",
+      "snippet_ko": "은행 노조들의 3일간의 전국 총파업을 앞두고, 전국의 공적 부문 및 지역 농촌 은행들이 9월 27일 일요일에 영업을 할 예정입니다. 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": -0.2732,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/money/rare-sunday-for-public-and-rural-sector-banks-check-if-your-bank-is-open-or-closed-today-11790482706270.html",
+      "cross_verified": true,
+      "published_at": "2026-09-27T05:11:43.000000Z"
+    },
     {
       "title": "Trump Administration Revises Fuel Economy Rules Impacting GM (NYSE: GM)",
       "title_ko": "트럼프 행정부, GM(NYSE: GM)에 영향을 미치는 연비 규정을 개정",
@@ -1165,45 +1201,33 @@
       "url": "https://www.gurufocus.com/news/9088909/california-governor-signs-ai-safety-executive-order-amid-growing-concerns",
       "cross_verified": true,
       "published_at": "2026-09-19T05:30:28.000000Z"
-    },
-    {
-      "title": "Accenture Stock: AI Opportunity Is Strong, But Growth Remains Slow (NYSE:ACN)",
-      "title_ko": "액센츄어 주가: AI 관련 기회는 크지만, 성장세는 여전히 더딘 편 (NYSE:ACN)",
-      "snippet": "Accenture (ACN) Q3 FY2026 update: 6% revenue growth, softer bookings, tighter outlook. Read here for a detailed investment analysis.",
-      "snippet_ko": "액센츄어(ACN) 2026 회계연도 3분기 실적 업데이트: 매출 6% 성장, 수주 실적 부진, 전망 하향 조정. 자세한 투자 분석은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.7065,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4948010-accenture-ai-opportunity-is-strong-but-growth-remains-slow",
-      "cross_verified": true,
-      "published_at": "2026-09-19T05:26:52.000000Z"
-    },
-    {
-      "title": "Harmonic Inc. (HLIT) Analyst/Investor Day - Slideshow (NASDAQ:HLIT) 2026-09-18",
-      "title_ko": "하모닉(Harmonic Inc., HLIT) 애널리스트·투자자 설명회 - 슬라이드 쇼 (나스닥:HLIT) 2026년 9월 18일",
-      "snippet": "2026-09-18. The following slide deck was published by Harmonic Inc.",
-      "snippet_ko": "2026년 9월 18일. 다음 슬라이드 자료는 Harmonic Inc.에서 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947988-harmonic-inc-hlit-analyst-investor-day-slideshow",
-      "cross_verified": true,
-      "published_at": "2026-09-18T23:18:38.000000Z"
-    },
-    {
-      "title": "AXA SA (AXA:CA) Analyst/Investor Day - Slideshow (NEOE:AXA:CA) 2026-09-18",
-      "title_ko": "AXA SA (AXA:CA) 애널리스트/투자자 설명회 - 슬라이드쇼 (NEOE:AXA:CA) 2026-09-18",
-      "snippet": "2026-09-18. The following slide deck was published by AXA SA in conjunction with this event.",
-      "snippet_ko": "2026년 9월 18일. 다음 슬라이드 자료는 AXA SA가 이번 행사와 관련하여 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4947987-axa-sa-axa-ca-analyst-investor-day-slideshow",
-      "cross_verified": true,
-      "published_at": "2026-09-18T23:17:57.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Trump-Xi Summit Yields Eight Key Agreements; U.S. Moves to Slash Fuel Standards and Rebrand AI",
+      "title_ko": "트럼프-시진핑 정상회담에서 8가지 주요 합의 도출… 미국, 연비 기준 대폭 완화 및 AI 재정의 추진",
+      "snippet": "President Donald Trump and Chinese President Xi Jinping have concluded a high-stakes summit in Washington, reaching eight major agreements aimed at",
+      "snippet_ko": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석은 워싱턴에서 열린 중대한 의미를 지닌 정상회담을 마무리하며, 다음을 목표로 하는 8가지 주요 합의에 도달했습니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.4019,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/trump-xi-summit-yields-eight-key-agreements-u-s-moves-to-slash-fuel-standards-and-rebrand-ai/72277/",
+      "cross_verified": true,
+      "published_at": "2026-09-27T03:38:25.000000Z"
+    },
+    {
+      "title": "OpenAI AI system breaches sandbox and gains internet access",
+      "title_ko": "OpenAI의 AI 시스템이 샌드박스를 탈출해 인터넷에 접속했다",
+      "snippet": "OpenAI said an agentic AI system exploited a sandbox gap to access the public internet, prompting the company to pause training with tool use.",
+      "snippet_ko": "오픈AI는 자율적 AI 시스템이 샌드박스 취약점을 악용해 공개 인터넷에 접속한 것으로 밝혀져, 이에 따라 회사는 도구 사용에 따른 훈련을 일시 중단했다고 밝혔다.",
+      "symbol": "META",
+      "sentiment_score": 0.4939,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-agentic-ai-system-breaches-sandbox-gains-unauthorised-access-to-public-internet/article71515078.ece",
+      "cross_verified": true,
+      "published_at": "2026-09-27T00:44:30.000000Z"
+    },
     {
       "title": "Apple (AAPL) Ordered to Pay $5.7 Billion in Patent Case Over Haptic Technology",
       "title_ko": "애플(AAPL), 햅틱 기술 관련 특허 소송에서 57억 달러 배상 명령 받아",
@@ -2379,30 +2403,6 @@
       "url": "https://financefeeds.com/broadcom-avgo-stock-price-prediction-465-bull-280-bear/",
       "cross_verified": true,
       "published_at": "2026-09-19T10:00:00.000000Z"
-    },
-    {
-      "title": "Intel Corporation (INTC)’s Terafab Partnership Could Give Its AI Foundry Ambitions a Major Boost",
-      "title_ko": "인텔(INTC)의 ‘테라팹(Terafab)’ 파트너십이 자사의 AI 파운드리 사업 계획에 큰 탄력을 줄 수 있다",
-      "snippet": "Intel Corporation (NASDAQ:INTC) is targeting a potentially significant opportunity through its strategic Terafab partnership with companies associated with Elon Musk, including SpaceX, Tesla, and xAI.",
-      "snippet_ko": "인텔(Intel Corporation, 나스닥: INTC)은 스페이스X(SpaceX), 테슬라(Tesla), xAI 등 일론 머스크와 관련된 기업들과의 전략적 ‘테라팹(Terafab)’ 파트너십을 통해 잠재적으로 상당한 사업 기회를 노리고 있다.",
-      "symbol": "INTC",
-      "sentiment_score": 0.6094,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/intel-corporation-intcs-terafab-partnership-could-give-its-ai-foundry-ambitions-a-major-boost-1839271/",
-      "cross_verified": true,
-      "published_at": "2026-09-19T08:13:41.000000Z"
-    },
-    {
-      "title": "Meta (META)’s Stilla.ai Deal Could Turn Business Agent Into a New Monetization Engine",
-      "title_ko": "메타(META)의 스틸라.ai 인수, ‘비즈니스 에이전트’를 새로운 수익 창출 동력으로 탈바꿈시킬 전망",
-      "snippet": "Meta Platforms, Inc. (NASDAQ:META) is taking another step toward monetizing artificial intelligence beyond its core advertising business. On September 9, the company acquired AI startup Stilla.ai.",
-      "snippet_ko": "메타 플랫폼스(Meta Platforms, Inc., 나스닥: META)가 핵심 사업인 광고 사업을 넘어 인공지능(AI)을 통한 수익 창출을 위해 또 한 걸음을 내디뎠다. 지난 9월 9일, 이 회사는 AI 스타트업 스틸라.ai(Stilla.ai)를 인수했다.",
-      "symbol": "META",
-      "sentiment_score": 0.3098,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/meta-metas-stilla-ai-deal-could-turn-business-agent-into-a-new-monetization-engine-1837535/",
-      "cross_verified": true,
-      "published_at": "2026-09-19T07:57:56.000000Z"
     }
   ]
 }
