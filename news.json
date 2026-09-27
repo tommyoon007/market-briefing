@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-27T13:47:11.424376+00:00",
+  "updated_at": "2026-09-27T18:12:57.039452+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Agnico Eagle Mines Limited (NYSE:AEM) -- Resilient Mining Operations | ROCKLINC Partners Fund Q3 2026",
+      "title_ko": "Agnico Eagle Mines Limited (NYSE:AEM) -- 탄탄한 광산 운영 | ROCKLINC Partners Fund 2026년 3분기",
+      "snippet": "Agnico Eagle's diversified asset base provides stability and growth potential in gold production.Effective cost management strategies enhance profitability even",
+      "snippet_ko": "Agnico Eagle의 다각화된 자산 기반은 금 생산에 있어 안정성과 성장 잠재력을 제공합니다. 효과적인 비용 관리 전략은 수익성을 더욱 높여주며",
+      "symbol": "",
+      "sentiment_score": 0.3634,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9099213/agnico-eagle-mines-limited-nyseaem-resilient-mining-operations-rocklinc-partners-fund-q3-2026",
+      "cross_verified": true,
+      "published_at": "2026-09-27T17:00:21.000000Z"
+    },
+    {
+      "title": "Wheaton Precious Metals Corp (NYSE:WPM) -- Strategic Gold Exposure | ROCKLINC Partners Fund Q3 2026",
+      "title_ko": "Wheaton Precious Metals Corp (NYSE:WPM) -- 전략적 금 투자 | ROCKLINC Partners 펀드 2026년 3분기",
+      "snippet": "Wheaton's streaming agreements provide a low-cost way to gain exposure to precious metals.Strong financial position allows for continued investment in new strea",
+      "snippet_ko": "위튼의 스트리밍 계약은 귀금속에 투자할 수 있는 저비용의 방법을 제공합니다. 견실한 재무 상태를 바탕으로 새로운 스트리밍 사업에 대한 지속적인 투자가 가능합니다.",
+      "symbol": "",
+      "sentiment_score": 0.3548,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9099212/wheaton-precious-metals-corp-nysewpm-strategic-gold-exposure-rocklinc-partners-fund-q3-2026",
+      "cross_verified": true,
+      "published_at": "2026-09-27T17:00:21.000000Z"
+    },
+    {
+      "title": "Franco-Nevada Corporation (NYSE:FNV) -- Gold Investment Strategy | ROCKLINC Partners Fund Q3 2026",
+      "title_ko": "프랑코-네바다 코퍼레이션 (NYSE:FNV) -- 금 투자 전략 | ROCKLINC 파트너스 펀드 2026년 3분기",
+      "snippet": "Franco-Nevada's royalty model provides exposure to gold prices without operational risks.Strong cash flow generation supports dividend growth and reinvestment i",
+      "snippet_ko": "프랑코-네바다의 로열티 모델은 운영 위험 없이 금 가격 변동으로부터 수익을 얻을 수 있게 해줍니다. 탄탄한 현금 흐름 창출은 배당금 증가와 재투자를 뒷받침하며",
+      "symbol": "",
+      "sentiment_score": -0.1591,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9099211/franconevada-corporation-nysefnv-gold-investment-strategy-rocklinc-partners-fund-q3-2026",
+      "cross_verified": true,
+      "published_at": "2026-09-27T17:00:20.000000Z"
+    },
     {
       "title": "Nike: The Catalyst We’ve Been Waiting For (NYSE:NKE)",
       "title_ko": "나이키: 우리가 기다려온 촉매제 (NYSE:NKE)",
@@ -1165,45 +1201,45 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/fifth-third-fitb-comerica-merger-190743312.html",
       "cross_verified": true,
       "published_at": "2026-09-19T19:07:43.000000Z"
-    },
-    {
-      "title": "Better Artificial Intelligence Stock: Aehr Test Systems vs. KLA Corporation",
-      "title_ko": "더 나은 인공지능 관련 주식: Aehr Test Systems 대 KLA Corporation",
-      "snippet": "One niche player burned cash and posted a net loss; the other generated $3.8 billion in free cash flow.",
-      "snippet_ko": "한 틈새 시장 기업은 현금을 낭비하며 순손실을 기록한 반면, 다른 기업은 38억 달러의 자유 현금 흐름을 창출했다.",
-      "symbol": "",
-      "sentiment_score": 0.2988,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/better-artificial-intelligence-stock-aehr-162316240.html",
-      "cross_verified": true,
-      "published_at": "2026-09-19T16:23:16.000000Z"
-    },
-    {
-      "title": "Celsius Executives Have Been Buying the Stock. Should Investors Join Them?",
-      "title_ko": "셀시우스 경영진이 자사주를 매수하고 있다. 투자자들도 그들과 함께해야 할까?",
-      "snippet": "Insider buying is a good sign for Celsius, but that's not the only thing to consider before buying the stock.",
-      "snippet_ko": "내부자의 매수는 셀시우스(Celsius)에 있어 긍정적인 신호이지만, 주식을 매수하기 전에 고려해야 할 점은 그뿐만이 아닙니다.",
-      "symbol": "",
-      "sentiment_score": 0.7141,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/celsius-executives-buying-stock-investors-162000571.html",
-      "cross_verified": true,
-      "published_at": "2026-09-19T16:20:00.000000Z"
-    },
-    {
-      "title": "PagerDuty Stock: Dirt Cheap And AI Is Creating A Great New Opportunity (NYSE:PD)",
-      "title_ko": "PagerDuty 주가: 엄청나게 저렴하며, AI가 새로운 큰 기회를 창출하고 있다 (NYSE:PD)",
-      "snippet": "PagerDuty (PD) turnaround: AI-driven incident response, profitability, and operational gains. Read here for a detailed investment analysis.",
-      "snippet_ko": "PagerDuty(PD)의 반전: AI 기반 사고 대응, 수익성 및 운영 효율성 향상. 자세한 투자 분석은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.5868,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4948048-pagerduty-dirt-cheap-and-ai-is-creating-a-great-new-opportunity",
-      "cross_verified": true,
-      "published_at": "2026-09-19T11:30:57.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Institutional Investors Dominate US Market Amid Retail Traders' Retreat",
+      "title_ko": "개인 투자자들의 발길이 뜸해진 가운데 기관 투자자들이 미국 시장을 주도하고 있다",
+      "snippet": "On September 27, 2026, institutional investors are increasingly dominating the US stock market as retail traders adopt a more cautious stance. This shift is par",
+      "snippet_ko": "2026년 9월 27일, 개인 투자자들이 더욱 신중한 태도를 취하는 가운데 기관 투자자들이 미국 주식 시장을 점점 더 주도하고 있다. 이러한 변화는…",
+      "symbol": "META",
+      "sentiment_score": 0.4467,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9099186/institutional-investors-dominate-us-market-amid-retail-traders-retreat",
+      "cross_verified": true,
+      "published_at": "2026-09-27T16:10:29.000000Z"
+    },
+    {
+      "title": "Meta’s Muse-fuelled rally: Stock jumps 36% in September as investors warm to its $140 billion AI bet",
+      "title_ko": "메타의 ‘뮤즈’에 힘입은 주가 급등: 투자자들이 1,400억 달러 규모의 AI 투자에 호감을 보이면서 9월 주가가 36% 급등",
+      "snippet": "Meta shares are up 36% in September as its Muse AI assistant fuels investor optimism, despite soaring AI spending and rising cash-flow pressure.",
+      "snippet_ko": "AI 관련 지출이 급증하고 현금 흐름 압박이 커지고 있음에도 불구하고, 메타의 AI 비서 ‘뮤즈(Muse)’가 투자자들의 낙관론을 부추기면서 9월 메타 주가는 36% 상승했다.",
+      "symbol": "META",
+      "sentiment_score": 0.3859,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/news/metas-muse-fuelled-rally-stock-jumps-36-per-cent-in-september-as-investors-warm-to-its-140-billion-ai-bet-11790522579927.html",
+      "cross_verified": true,
+      "published_at": "2026-09-27T15:34:30.000000Z"
+    },
+    {
+      "title": "AMD Joins $1 Trillion Valuation Club Amid Semiconductor and AI Surge (Ticker: AMD)",
+      "title_ko": "반도체 및 AI 붐 속에 AMD, 시가총액 1조 달러 클럽에 합류 (티커: AMD)",
+      "snippet": "On September 27, 2026, Advanced Micro Devices Inc (NASDAQ: AMD) reached a landmark valuation milestone, becoming the latest chipmaker to surpass a $1 trillion m",
+      "snippet_ko": "2026년 9월 27일, 어드밴스드 마이크로 디바이스(Advanced Micro Devices Inc, 나스닥: AMD)는 시가총액에서 획기적인 이정표를 달성하며, 1조 달러를 돌파한 최신 반도체 제조사로 이름을 올렸습니다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.603,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9099177/amd-joins-1-trillion-valuation-club-amid-semiconductor-and-ai-surge-ticker-amd",
+      "cross_verified": true,
+      "published_at": "2026-09-27T14:55:21.000000Z"
+    },
     {
       "title": "Debt-hungry AI companies face increased risk as bond yields spike",
       "title_ko": "채권을 탐내는 AI 기업들, 채권 수익률 급등으로 위험에 직면",
@@ -2367,42 +2403,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/forget-buying-seven-magnificent-seven-185000912.html",
       "cross_verified": true,
       "published_at": "2026-09-19T18:50:00.000000Z"
-    },
-    {
-      "title": "Trump Proposes AI Rebranding Amid Escalating Global Conflicts",
-      "title_ko": "전 세계적 갈등이 고조되는 가운데 트럼프, AI 이미지 쇄신 방안 제시",
-      "snippet": "President Donald Trump sparked a new debate in the tech sector on Saturday by questioning the terminology used for Artificial Intelligence. In a post on Truth",
-      "snippet_ko": "도널드 트럼프 대통령은 토요일, 인공지능에 사용되는 용어에 의문을 제기하며 기술 업계에서 새로운 논쟁을 불러일으켰다. ‘트루스’에 올린 게시물에서",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.7003,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/trump-proposes-ai-rebranding-amid-escalating-global-conflicts/71991/",
-      "cross_verified": true,
-      "published_at": "2026-09-19T17:08:16.000000Z"
-    },
-    {
-      "title": "GOOG Looks 35.4% Overvalued on GF Value™ Amid AI Security Concerns",
-      "title_ko": "AI 보안 우려 속에서 GOOG, GF Value™ 기준 35.4% 과대평가된 것으로 나타남",
-      "snippet": "On September 19, 2026, Alphabet Inc (GOOG) disclosed that its Gemini AI model gained unauthorized access to three external companies in May during a cybersecuri",
-      "snippet_ko": "2026년 9월 19일, 알파벳(Alphabet Inc, GOOG)은 자사의 제미니(Gemini) AI 모델이 지난 5월 사이버 보안 사고 발생 당시 외부 기업 3곳에 무단으로 접근했다고 밝혔다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.5067,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9089167/goog-looks-354-overvalued-on-gf-value-amid-ai-security-concerns",
-      "cross_verified": true,
-      "published_at": "2026-09-19T15:55:24.000000Z"
-    },
-    {
-      "title": "Warren Buffett Watched Alphabet's Stock Price Climb 9,000% Before He Decided to Invest. Here's Why He and Greg Abel Are Making It One of Berkshire Hathaway's Biggest Investments Now.",
-      "title_ko": "워런 버핏은 알파벳의 주가가 9,000%나 치솟는 것을 지켜본 뒤에야 투자하기로 결정했다. 지금 그와 그렉 에이벨이 알파벳을 버크셔 해서웨이의 최대 투자처 중 하나로 삼고 있는 이유는 다음과 같다.",
-      "snippet": "Here's why Berkshire could be buying more Alphabet shares this quarter.",
-      "snippet_ko": "버크셔가 이번 분기에 알파벳 주식을 더 매입할 가능성이 있는 이유는 다음과 같습니다.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.2408,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-watched-alphabets-stock-145000584.html",
-      "cross_verified": true,
-      "published_at": "2026-09-19T14:50:00.000000Z"
     }
   ]
 }
