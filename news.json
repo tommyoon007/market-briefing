@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T04:52:10.603126+00:00",
+  "updated_at": "2026-09-28T13:30:52.503115+00:00",
   "status": "ok",
   "market_news": [
     {
@@ -1205,6 +1205,42 @@
   ],
   "portfolio_news": [
     {
+      "title": "Apple (AAPL) Faces UK Consumer Lawsuit Over Amazon Marketplace Pricing Practices",
+      "title_ko": "애플(AAPL), 아마존 마켓플레이스 가격 책정 관행과 관련해 영국 소비자들로부터 소송 당해",
+      "snippet": "On September 28, 2026, Apple Inc. (AAPL) and Amazon.com Inc. (AMZN) became the focus of renewed legal scrutiny in the UK as a consumer lawsuit alleging anti-com",
+      "snippet_ko": "2026년 9월 28일, 애플(Apple Inc., AAPL)과 아마존(Amazon.com Inc., AMZN)은 반경쟁 행위를 주장하는 소비자 소송으로 인해 영국에서 다시 한 번 법적 조사의 초점이 되었습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.0878,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9099612/apple-aapl-faces-uk-consumer-lawsuit-over-amazon-marketplace-pricing-practices",
+      "cross_verified": true,
+      "published_at": "2026-09-28T12:58:46.000000Z"
+    },
+    {
+      "title": "Ark Invest Boosts Meta Platforms (META) Stake Amid Strong GF Value™ and Mixed Guru Activity",
+      "title_ko": "아크 인베스트, GF Value™ 지표 호조와 전문가들의 엇갈린 움직임 속 메타 플랫폼스(META) 지분 확대",
+      "snippet": "On September 28, 2026, Cathie Wood's Ark Invest expanded its holdings in technology and space sectors by acquiring over 51,000 shares of Meta Platforms Inc (NAS",
+      "snippet_ko": "2026년 9월 28일, 캐시 우드가 이끄는 아크 인베스트(Ark Invest)는 메타 플랫폼스(Meta Platforms Inc, NAS) 주식 51,000주 이상을 매수함으로써 기술 및 우주 부문에 대한 보유 지분을 확대했다.",
+      "symbol": "META",
+      "sentiment_score": 0.4063,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9099607/ark-invest-boosts-meta-platforms-meta-stake-amid-strong-gf-value-and-mixed-guru-activity",
+      "cross_verified": true,
+      "published_at": "2026-09-28T12:56:52.000000Z"
+    },
+    {
+      "title": "Apple: I Was Wrong, Margin Math Is Now In Its Favor (Rating Upgrade) (NASDAQ:AAPL)",
+      "title_ko": "애플: “제가 틀렸습니다”, 이제 마진 구조가 회사에 유리하게 작용하고 있다 (투자의견 상향) (나스닥:AAPL)",
+      "snippet": "Apple Inc. upgraded to Buy: pricing power offsets memory costs, Services monetize AI via iCloud+, Klarna leasing boosts upgrades. Click for this AAPL stock update.",
+      "snippet_ko": "애플(Apple Inc.)이 ‘매수(Buy)’로 상향 조정되었습니다: 가격 결정력이 메모리 비용 상승을 상쇄하고, 서비스 부문은 iCloud+를 통해 AI로 수익을 창출하며, 클라르나(Klarna)의 할부 구매 서비스가 기기 교체 수요를 촉진하고 있습니다. AAPL 주식 관련 최신 소식을 보려면 여기를 클릭하세요.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.0513,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4950235-apple-i-was-wrong-margin-math-is-now-in-its-favor-rating-upgrade",
+      "cross_verified": true,
+      "published_at": "2026-09-28T12:56:13.000000Z"
+    },
+    {
       "title": "Indian executives strengthening presence in US corporate boardrooms",
       "title_ko": "인도 기업 임원들, 미국 기업 이사회 내 입지 강화 중",
       "snippet": "A record 16 Indian men joined S&P 500 boards this year, taking directorships at companies including Walmart Inc., Southwest Airlines Co. and Western Digital Corp., according to data",
@@ -2367,42 +2403,6 @@
       "url": "https://seekingalpha.com/article/4948147-wall-street-brunch-us-china-summit-in-spotlight",
       "cross_verified": true,
       "published_at": "2026-09-20T17:05:00.000000Z"
-    },
-    {
-      "title": "Prediction: Even With the $1,999 Price Tag, Apple's Foldable iPhone Duo Will Be a Hit and Apple Will Join Nvidia in the $5 Trillion Club.",
-      "title_ko": "전망: 1,999달러라는 가격에도 불구하고, 애플의 폴더블 아이폰 두 모델은 대히트를 기록할 것이며, 애플은 엔비디아와 함께 ‘5조 달러 클럽’에 합류할 것이다.",
-      "snippet": "Apple is on track to do something great that it hasn't done since 2012.",
-      "snippet_ko": "애플은 2012년 이후로 한 번도 해내지 못했던 대단한 일을 이뤄낼 전망입니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2673,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-even-1-999-price-163700612.html",
-      "cross_verified": true,
-      "published_at": "2026-09-20T16:37:00.000000Z"
-    },
-    {
-      "title": "AVGO Looks 12.4% Undervalued on GF Value™ as Insider Selling Weighs on Sentiment",
-      "title_ko": "내부자 매물이 시장 심리에 부정적인 영향을 미치면서, GF Value™ 기준 AVGO는 12.4% 저평가된 것으로 나타났습니다.",
-      "snippet": "On September 20, 2026, Broadcom Inc (ticker: AVGO) announced a significant commitment of approximately $29 billion in guarantees to a special-purpose vehicle de",
-      "snippet_ko": "2026년 9월 20일, 브로드컴(Broadcom Inc, 종목코드: AVGO)은 특수목적법인(SPV)에 약 290억 달러 규모의 보증을 제공하겠다는 중대한 계획을 발표했습니다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.4161,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9089240/avgo-looks-124-undervalued-on-gf-value-as-insider-selling-weighs-on-sentiment",
-      "cross_verified": true,
-      "published_at": "2026-09-20T14:55:24.000000Z"
-    },
-    {
-      "title": "Broadcom: 5 Reasons To Buy This Dip (NASDAQ:AVGO)",
-      "title_ko": "브로드컴: 주가가 하락했을 때 매수해야 할 5가지 이유 (NASDAQ:AVGO)",
-      "snippet": "Broadcom AI chip growth is accelerating, but TPU competition and margin pressures loom. Click for more on AVGO stock.",
-      "snippet_ko": "브로드컴의 AI 칩 성장세가 가속화되고 있지만, TPU 경쟁과 마진 압박이 다가오고 있다. AVGO 주식에 대한 자세한 내용을 보려면 클릭하세요.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4948137-broadcom-5-reasons-to-buy-this-dip",
-      "cross_verified": true,
-      "published_at": "2026-09-20T12:53:12.000000Z"
     }
   ]
 }
