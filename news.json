@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-27T22:54:55.809545+00:00",
+  "updated_at": "2026-09-28T04:52:10.603126+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "NIO (NIO) Forms Strategic Battery Swapping Partnership with Zhejiang Geely Holding Group Subsidiaries",
+      "title_ko": "NIO(NIO), 저장 지리 홀딩 그룹 계열사와 배터리 교환 분야 전략적 파트너십 체결",
+      "snippet": "On September 27, 2026, NIO Inc (NYSE: NIO) announced a strategic partnership agreement with subsidiaries of Zhejiang Geely Holding Group focused on battery swap",
+      "snippet_ko": "2026년 9월 27일, NIO Inc(NYSE: NIO)는 배터리 교환을 중심으로 한 전략적 파트너십 협약을 저장 지리 홀딩 그룹(Zhejiang Geely Holding Group)의 자회사들과 체결했다고 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.2376,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9099269/nio-nio-forms-strategic-battery-swapping-partnership-with-zhejiang-geely-holding-group-subsidiaries",
+      "cross_verified": true,
+      "published_at": "2026-09-28T04:25:24.000000Z"
+    },
+    {
+      "title": "Northern Star Resources (NESRF) Rejects A$38.7 Billion Takeover Bid from Gold Fields",
+      "title_ko": "노던 스타 리소시스(NESRF), 골드 필즈의 387억 호주 달러 인수 제안을 거부",
+      "snippet": "On September 27, 2026, Northern Star Resources Ltd (OTCPK:NESRF) declined a takeover offer from Gold Fields (GFI) valued at approximately A$38.7 billion (US$27.",
+      "snippet_ko": "2026년 9월 27일, 노던 스타 리소시스(Northern Star Resources Ltd, OTCPK:NESRF)는 골드 필즈(Gold Fields, GFI)가 제시한 약 387억 호주 달러(27.",
+      "symbol": "",
+      "sentiment_score": 0.4857,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9099266/northern-star-resources-nesrf-rejects-a387-billion-takeover-bid-from-gold-fields",
+      "cross_verified": true,
+      "published_at": "2026-09-28T03:55:21.000000Z"
+    },
+    {
+      "title": "Northern Star jumps +7% on confirmed takeover rumour from Gold Fields Ltd",
+      "title_ko": "골드 필즈(Gold Fields Ltd)의 인수설이 사실로 확인되면서 노던 스타(Northern Star) 주가가 7% 급등했다",
+      "snippet": "ASX-listed Northern Star Resources (ASX:NST) has confirmed reports in Bloomberg that it’s…",
+      "snippet_ko": "ASX에 상장된 노던 스타 리소시스(ASX:NST)는 블룸버그의 보도 내용을 확인하며, 자사가…",
+      "symbol": "",
+      "sentiment_score": -0.0985,
+      "source": "themarketherald.com.au",
+      "url": "https://themarketonline.com.au/northern-star-jumps-7-on-confirmed-takeover-rumour-from-gold-fields-ltd-2026-09-28/",
+      "cross_verified": true,
+      "published_at": "2026-09-28T03:49:41.000000Z"
+    },
     {
       "title": "Vail Resorts Q4 2026 Earnings Preview (NYSE:MTN)",
       "title_ko": "베일 리조트 2026년 4분기 실적 전망 (NYSE:MTN)",
@@ -1165,45 +1201,45 @@
       "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/the-winning-brands-and-audiences-are-hungry-for-celebrities-with-distinct-dependable-style/articleshow/134362943.cms",
       "cross_verified": true,
       "published_at": "2026-09-20T03:13:11.000000Z"
-    },
-    {
-      "title": "SentinelOne: Land-And-Expand Strategy Is Driving Growth Across Every Product Line (NYSE:S)",
-      "title_ko": "SentinelOne: ‘진출 및 확장’ 전략이 모든 제품 라인의 성장을 견인하고 있다 (NYSE:S)",
-      "snippet": "SentinelOne continues to gain market share, expand multiproduct adoption, and grow ARR above 20% YoY. Read why S stock is a Buy.",
-      "snippet_ko": "SentinelOne은 시장 점유율을 지속적으로 확대하고, 다중 제품 채택을 늘리며, 연간 반복 매출(ARR)을 전년 대비 20% 이상 성장시키고 있습니다. S 주식을 ‘매수’로 추천하는 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.6152,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4948105-sentinelone-land-and-expand-strategy-is-driving-growth-across-every-product-line",
-      "cross_verified": true,
-      "published_at": "2026-09-20T03:03:52.000000Z"
-    },
-    {
-      "title": "Korn Ferry (KFY) Presents at William Blair Human Capital Services Virtual Conference - Slideshow (NYSE:KFY) 2026-09-19",
-      "title_ko": "Korn Ferry (KFY), 윌리엄 블레어 인적자원 서비스 가상 컨퍼런스에서 발표 - 슬라이드쇼 (NYSE:KFY) 2026-09-19",
-      "snippet": "2026-09-19. The following slide deck was published by Korn Ferry in conjunction with this event.",
-      "snippet_ko": "2026년 9월 19일. 다음 슬라이드 자료는 이번 행사와 관련하여 Korn Ferry에서 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4948103-korn-ferry-kfy-presents-at-william-blair-human-capital-services-virtual-conference-slideshow",
-      "cross_verified": true,
-      "published_at": "2026-09-19T23:17:59.000000Z"
-    },
-    {
-      "title": "Oscar Health, Inc. (OSCR) Analyst/Investor Day - Slideshow (NYSE:OSCR) 2026-09-19",
-      "title_ko": "Oscar Health, Inc. (OSCR) 애널리스트·투자자 설명회 - 슬라이드쇼 (NYSE:OSCR) 2026년 9월 19일",
-      "snippet": "2026-09-19. The following slide deck was published by Oscar Health, Inc.",
-      "snippet_ko": "2026년 9월 19일. 다음 슬라이드 자료는 Oscar Health, Inc.에서 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4948101-oscar-health-inc-oscr-analyst-investor-day-slideshow",
-      "cross_verified": true,
-      "published_at": "2026-09-19T23:16:56.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Indian executives strengthening presence in US corporate boardrooms",
+      "title_ko": "인도 기업 임원들, 미국 기업 이사회 내 입지 강화 중",
+      "snippet": "A record 16 Indian men joined S&P 500 boards this year, taking directorships at companies including Walmart Inc., Southwest Airlines Co. and Western Digital Corp., according to data",
+      "snippet_ko": "자료에 따르면, 올해 역대 최다인 16명의 인도인 남성이 S&P 500 지수 구성 기업의 이사회에 합류해 월마트(Walmart Inc.), 사우스웨스트 항공(Southwest Airlines Co.), 웨스턴 디지털(Western Digital Corp.) 등의 기업에서 이사직을 맡았다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2316,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/indian-executives-strengthening-presence-in-us-corporate-boardrooms-126092800090_1.html",
+      "cross_verified": true,
+      "published_at": "2026-09-28T03:05:48.000000Z"
+    },
+    {
+      "title": "Institutional Investors Take Charge as Retail Traders Retreat",
+      "title_ko": "개인 투자자들이 물러나는 가운데 기관 투자자들이 주도권을 잡다",
+      "snippet": "On September 27, 2026, recent data reveals that institutional investors are gaining dominance in the U.S. stock market, as retail traders gradually step back. T",
+      "snippet_ko": "2026년 9월 27일, 최근 데이터에 따르면 개인 투자자들이 점차 물러나면서 기관 투자자들이 미국 주식 시장에서 주도권을 장악하고 있는 것으로 나타났다. T",
+      "symbol": "META",
+      "sentiment_score": 0.424,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9099261/institutional-investors-take-charge-as-retail-traders-retreat",
+      "cross_verified": true,
+      "published_at": "2026-09-28T02:30:37.000000Z"
+    },
+    {
+      "title": "Does Meta (META)’s Advertising Scale Make Brief Outages Financially Irrelevant?",
+      "title_ko": "메타(META)의 광고 사업 규모가 작게 발생하는 서비스 중단 사태를 재정적으로 무의미하게 만들까?",
+      "snippet": "Outages at Meta Platforms, Inc. (NASDAQ:META)'s platforms don't usually move the stock, but they do tend to raise the same question each time they recur.",
+      "snippet_ko": "메타 플랫폼스(Meta Platforms, Inc., 나스닥: META)의 플랫폼에서 발생하는 서비스 중단은 대개 주가에 큰 영향을 미치지 않지만, 매번 같은 의문을 불러일으키는 경향이 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2145,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/does-meta-metas-advertising-scale-make-brief-outages-financially-irrelevant-1844938/",
+      "cross_verified": true,
+      "published_at": "2026-09-28T01:58:12.000000Z"
+    },
     {
       "title": "Disney's Avengers: Endgame Encore Spurs Box Office Surge, DIS Stock Modestly Undervalued",
       "title_ko": "디즈니의 ‘어벤져스: 엔드게임’ 재상영이 박스오피스 급증을 이끌며, DIS 주가는 소폭 저평가된 상태",
@@ -2367,42 +2403,6 @@
       "url": "https://seekingalpha.com/article/4948137-broadcom-5-reasons-to-buy-this-dip",
       "cross_verified": true,
       "published_at": "2026-09-20T12:53:12.000000Z"
-    },
-    {
-      "title": "Google Ad Tech Remedy Spares AdX but Targets Its 20% Fee",
-      "title_ko": "구글 광고 기술 관련 구제 조치, AdX는 제외하되 20% 수수료는 규제 대상으로 지정",
-      "snippet": "Google ad tech remedy: Brinkema refused an AdX divestiture on 2 Sep 2026, but the unsealed opinion puts AdX's 20% take rate in play. GOOGL spot $349.54.",
-      "snippet_ko": "구글 광고 기술 관련 조치: 브링케마 판사는 2026년 9월 2일 AdX 매각 요청을 기각했으나, 공개된 판결문에서 AdX의 20% 수수료율이 쟁점으로 떠올랐다. GOOGL 종가 349.54달러.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.0902,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/google-ad-tech-remedy-adx-spared-20-percent-take-rate/",
-      "cross_verified": true,
-      "published_at": "2026-09-20T12:47:00.000000Z"
-    },
-    {
-      "title": "Wall Street Week Ahead",
-      "title_ko": "월스트리트 주간 전망",
-      "snippet": "Wall Street week ahead: Trump-Xi talks, key earnings (Costco, Meta) and Oracle AI outlook.",
-      "snippet_ko": "월스트리트 이번 주 전망: 트럼프-시진핑 회담, 주요 기업 실적(코스트코, 메타) 및 오라클 AI 전망.",
-      "symbol": "META",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4948126-wall-street-week-ahead",
-      "cross_verified": true,
-      "published_at": "2026-09-20T09:38:09.000000Z"
-    },
-    {
-      "title": "Companies avoid selling long-term bonds investors are clamoring for",
-      "title_ko": "기업들은 투자자들이 열망하는 장기 채권 발행을 꺼리고 있다",
-      "snippet": "That demand is higher than most of the market has seen this year",
-      "snippet_ko": "그 수요는 올해 시장 전반에서 관찰된 수준보다 더 높다",
-      "symbol": "AMZN",
-      "sentiment_score": -0.1891,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/companies-avoid-selling-long-term-bonds-investors-are-clamoring-for-126092000063_1.html",
-      "cross_verified": true,
-      "published_at": "2026-09-20T02:25:40.000000Z"
     }
   ]
 }
