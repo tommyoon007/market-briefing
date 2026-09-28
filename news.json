@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-28T13:30:52.503115+00:00",
+  "updated_at": "2026-09-28T20:27:57.501806+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Q2 2026 Addex Therapeutics Ltd Earnings Call Transcript",
+      "title_ko": "2026년 2분기 Addex Therapeutics Ltd 실적 발표 전화 회의 기록",
+      "snippet": "Sep 28, 2026 / 02:00PM GMTTim Dyer - Addex Therapeutics Ltd - Chief Executive Officer, Co-Founder, Member of the Executive Management, Director Thank you. Hello",
+      "snippet_ko": "2026년 9월 28일 / 오후 2:00 GMT 팀 다이어 - 애덱스 테라퓨틱스(Addex Therapeutics Ltd) - 최고경영자(CEO), 공동 창업자, 경영진, 이사 감사합니다. 안녕하세요.",
+      "symbol": "",
+      "sentiment_score": 0.3789,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9100328/q2-2026-addex-therapeutics-ltd-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-09-28T20:00:05.000000Z"
+    },
+    {
+      "title": "Fed Governor Lisa Cook Flags Inflation Risks Amid AI-Driven Data Center Investments; SPY Valuation Insight",
+      "title_ko": "리사 쿡 연준 이사, AI 주도 데이터센터 투자 속 인플레이션 위험 경고… SPY 평가 분석",
+      "snippet": "On September 28, 2026, Federal Reserve Governor Lisa Cook addressed inflationary concerns tied to surging investments in data centers fueled by artificial intel",
+      "snippet_ko": "2026년 9월 28일, 리사 쿡 연방준비제도 이사는 인공지능(AI)으로 인해 급증하는 데이터센터 투자와 관련된 인플레이션 우려에 대해 언급했다.",
+      "symbol": "",
+      "sentiment_score": 0.3298,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9100318/fed-governor-lisa-cook-flags-inflation-risks-amid-aidriven-data-center-investments-spy-valuation-insight",
+      "cross_verified": true,
+      "published_at": "2026-09-28T19:56:02.000000Z"
+    },
     {
       "title": "NIO (NIO) Forms Strategic Battery Swapping Partnership with Zhejiang Geely Holding Group Subsidiaries",
       "title_ko": "NIO(NIO), 저장 지리 홀딩 그룹 계열사와 배터리 교환 분야 전략적 파트너십 체결",
@@ -1177,33 +1201,45 @@
       "url": "https://www.businessinsider.com/housing-market-sellers-concessions-home-price-cuts-mortgage-rates-2026-9",
       "cross_verified": true,
       "published_at": "2026-09-20T09:20:01.000000Z"
-    },
-    {
-      "title": "IDEX Corporation Stock: A Stronger Franchise Already Carries A Recovery Price (NYSE:IEX)",
-      "title_ko": "IDEX Corporation 주식: 이미 회복 국면에 진입한 견고한 사업 기반을 바탕으로 (NYSE:IEX)",
-      "snippet": "IDEX Corporation benefits from strong customer loyalty due to its critical, engineered components. Read why IEX stock is a Hold.",
-      "snippet_ko": "IDEX Corporation은 핵심 공학 부품 덕분에 고객 충성도가 매우 높습니다. IEX 주식을 ‘보유(Hold)’로 평가하는 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.3818,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4948106-idex-corporation-stronger-franchise-already-carries-a-recovery-price",
-      "cross_verified": true,
-      "published_at": "2026-09-20T03:17:45.000000Z"
-    },
-    {
-      "title": "The winning: Brands and audiences are hungry for celebrities with distinct, dependable style",
-      "title_ko": "성공의 비결: 브랜드와 대중은 독창적이고 믿음직한 스타일을 지닌 유명인을 갈망하고 있다",
-      "snippet": "In the social-media era, personal style has become a valuable business asset for celebrities and influencers. Authentic, recognisable fashion identities can generate massive media value, attract brand partnerships and help luxury labels enter Indias market.",
-      "snippet_ko": "소셜 미디어 시대에 개인적 스타일은 유명인과 인플루언서들에게 귀중한 비즈니스 자산이 되었습니다. 진정성 있고 독창적인 패션 정체성은 막대한 미디어 가치를 창출하고, 브랜드와의 파트너십을 유치하며, 명품 브랜드가 인도 시장에 진출하는 데 도움을 줄 수 있습니다.",
-      "symbol": "",
-      "sentiment_score": 0.7269,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/the-winning-brands-and-audiences-are-hungry-for-celebrities-with-distinct-dependable-style/articleshow/134362943.cms",
-      "cross_verified": true,
-      "published_at": "2026-09-20T03:13:11.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Zuckerberg, Amodei among tech executives set to meet Trump Tuesday",
+      "title_ko": "화요일 트럼프 대통령과 만날 예정인 기술 업계 최고경영자 중에는 주커버그와 아모데이 등이 포함되어 있다",
+      "snippet": "The AI safety debate has raged in recent weeks, with Amodei, Musk and OpenAI CEO Sam Altman calling to pace the development of frontier models.",
+      "snippet_ko": "최근 몇 주 동안 AI 안전성에 대한 논쟁이 거세게 일고 있는 가운데, 아모데이, 머스크, 그리고 오픈AI의 샘 알트만 CEO는 최첨단 모델의 개발 속도를 조절해야 한다고 촉구했다.",
+      "symbol": "META",
+      "sentiment_score": 0.0,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/28/trump-ai-tech-lunch.html",
+      "cross_verified": true,
+      "published_at": "2026-09-28T20:00:45.000000Z"
+    },
+    {
+      "title": "Meta: More Cautious Than Before, More Bullish Than Ever (NASDAQ:META)",
+      "title_ko": "메타: 예전보다 신중해졌지만, 그 어느 때보다 낙관적 (나스닥:META)",
+      "snippet": "Meta Platforms is a Buy because AI agents unlock massive revenue opportunities, and enterprise solutions target a $155B market. Read more on META stock here.",
+      "snippet_ko": "메타 플랫폼스는 AI 에이전트가 막대한 수익 기회를 열어주고, 기업용 솔루션이 1,550억 달러 규모의 시장을 겨냥하고 있기 때문에 ‘매수’ 추천입니다. META 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "META",
+      "sentiment_score": -0.1689,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4950369-meta-more-cautious-than-before-more-bullish-than-ever",
+      "cross_verified": true,
+      "published_at": "2026-09-28T19:44:47.000000Z"
+    },
+    {
+      "title": "Meta Platforms: Muse Could Become The Next Metaverse (NASDAQ:META)",
+      "title_ko": "메타 플랫폼스: ‘뮤즈’가 차세대 메타버스가 될 수 있다 (나스닥: META)",
+      "snippet": "Meta Platforms, Inc. gets a Sell rating as AI rally risks outweigh upside. Click for this updated look at META stock following its Muse app release.",
+      "snippet_ko": "메타 플랫폼스(Meta Platforms, Inc.)는 AI 관련 주가 상승세가 가져올 상승 여력을 상쇄할 만큼의 리스크가 더 크다는 이유로 ‘매도’ 등급을 받았다. ‘뮤즈(Muse)’ 앱 출시 이후 업데이트된 META 주식 분석 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "META",
+      "sentiment_score": 0.2202,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4950357-meta-platforms-muse-could-become-the-next-metaverse",
+      "cross_verified": true,
+      "published_at": "2026-09-28T19:14:36.000000Z"
+    },
     {
       "title": "Apple (AAPL) Faces UK Consumer Lawsuit Over Amazon Marketplace Pricing Practices",
       "title_ko": "애플(AAPL), 아마존 마켓플레이스 가격 책정 관행과 관련해 영국 소비자들로부터 소송 당해",
@@ -2367,42 +2403,6 @@
       "url": "https://finance.yahoo.com/healthcare/articles/amazon-amzn-sued-again-time-212413687.html",
       "cross_verified": true,
       "published_at": "2026-09-20T21:24:13.000000Z"
-    },
-    {
-      "title": "Investigators Dig into Landing Speed and Runway Safety After Amazon (AMZN)’s Fatal Miami Crash",
-      "title_ko": "아마존(AMZN)의 마이애미 치명적 추락 사고 이후, 수사관들이 착륙 속도와 활주로 안전 문제를 집중 조사 중",
-      "snippet": "On September 7, 2026, the Wall Street Journal reported that federal investigators are examining the landing speed, braking systems, and weather conditions of a fatal Amazon.com, Inc.",
-      "snippet_ko": "2026년 9월 7일, 월스트리트저널은 연방 수사 당국이 사망 사고가 발생한 아마존닷컴(Amazon.com, Inc.)의 착륙 속도, 제동 시스템 및 기상 조건을 조사하고 있다고 보도했다.",
-      "symbol": "AMZN",
-      "sentiment_score": -0.0043,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/investigators-dig-into-landing-speed-and-runway-safety-after-amazon-amzns-fatal-miami-crash-1837755/",
-      "cross_verified": true,
-      "published_at": "2026-09-20T21:18:29.000000Z"
-    },
-    {
-      "title": "Billionaire Bill Ackman Dumps Alphabet and Loads Up On a Mega-Cap Stock Down 15% From Its Peak",
-      "title_ko": "억만장자 빌 애크먼, 알파벳 매도하고 최고치 대비 15% 하락한 초대형주 대량 매수",
-      "snippet": "Bill Ackman sold Alphabet and bought Meta Platforms during Q2.",
-      "snippet_ko": "빌 애크먼은 2분기 동안 알파벳을 매도하고 메타 플랫폼스를 매수했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.0387,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-dumps-alphabet-172300077.html",
-      "cross_verified": true,
-      "published_at": "2026-09-20T17:23:00.000000Z"
-    },
-    {
-      "title": "Wall Street Brunch: U.S.-China Summit In Spotlight (NYSEARCA:SPY)",
-      "title_ko": "월스트리트 브런치: 주목받는 미·중 정상회담 (NYSEARCA:SPY)",
-      "snippet": "Trump and Xi meet with trade, tariffs and AI on deck. Trump pitches an AI Force while Google reveals a Gemini breach. Costco earnings put its sky-high valuation back in focus.",
-      "snippet_ko": "트럼프와 시진핑이 만나 무역, 관세, 인공지능(AI) 문제를 논의할 예정이다. 트럼프는 ‘AI 태스크포스’ 구성을 제안한 반면, 구글은 제미니 해킹 사고를 공개했다. 코스트코의 실적 발표로 천정부지에 달했던 기업 가치에 다시 관심이 쏠리고 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4948147-wall-street-brunch-us-china-summit-in-spotlight",
-      "cross_verified": true,
-      "published_at": "2026-09-20T17:05:00.000000Z"
     }
   ]
 }
