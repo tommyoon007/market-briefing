@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-29T01:42:21.540694+00:00",
+  "updated_at": "2026-09-29T08:14:32.920372+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Brady Corporation: From A Balance Sheet With No Debt, To A $1.4B Bet At 8x EBITDA",
+      "title_ko": "브래디 코퍼레이션: 부채가 전혀 없는 대차대조표에서 EBITDA의 8배에 달하는 14억 달러 규모의 투자로",
+      "snippet": "Brady Corporation is a global manufacturer of identification solutions and workplace safety products. Check out why BRC stock is a buy.",
+      "snippet_ko": "브래디 코퍼레이션은 식별 솔루션 및 작업장 안전 제품을 제조하는 글로벌 기업입니다. BRC 주식을 매수해야 하는 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": -0.5719,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4950551-brady-corporation-from-a-balance-sheet-with-no-debt-to-a-1-4b-bet-at-8x-ebitda",
+      "cross_verified": true,
+      "published_at": "2026-09-29T07:39:16.000000Z"
+    },
+    {
+      "title": "Clean Harbors: A Much Cleaner Picture Here (NYSE:CLH)",
+      "title_ko": "클린 하버스: 훨씬 더 밝은 전망 (NYSE:CLH)",
+      "snippet": "Clean Harbors accelerates M&A activity, acquiring EnviroServe for $470M and ES&H for $305M. Read why CLH stock is a Hold.",
+      "snippet_ko": "클린 하버스는 인수합병(M&A) 활동을 가속화하며, 엔비로서브를 4억 7천만 달러에, ES&H를 3억 500만 달러에 인수했습니다. CLH 주식을 ‘보유’로 평가하는 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.2369,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4950547-clean-harbors-a-much-cleaner-picture-here",
+      "cross_verified": true,
+      "published_at": "2026-09-29T07:24:40.000000Z"
+    },
+    {
+      "title": "SCHD Has A Hidden Buy-The-Dip Strategy Most Investors Don't Know Exists (NYSEARCA:SCHD)",
+      "title_ko": "SCHD에는 대다수의 투자자들이 그 존재조차 모르는 ‘저점 매수’ 전략이 숨겨져 있다 (NYSEARCA:SCHD)",
+      "snippet": "SCHD doesn't intentionally look to buy low and sell high, but its dividend yield screen could bring that into play. Read why SCHD ETF remains a Buy.",
+      "snippet_ko": "SCHD는 의도적으로 저가에 매수하고 고가에 매도하려는 것은 아니지만, 배당수익률 필터링을 통해 그러한 효과가 나타날 수 있습니다. SCHD ETF가 여전히 ‘매수’ 추천을 받는 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4950544-schd-has-a-hidden-buy-the-dip-strategy-most-investors-dont-know-exists",
+      "cross_verified": true,
+      "published_at": "2026-09-29T07:19:55.000000Z"
+    },
     {
       "title": "Is Supernus Pharmaceuticals Inc (SUPN) Overvalued After 4.5% Rally? GF Value Says Overvalued",
       "title_ko": "4.5% 상승세를 보인 슈퍼누스 파마슈티컬스(SUPN)의 주가는 과대평가된 것일까? GF 밸류는 과대평가되었다고 분석한다",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9089285/spy-looks-120-overvalued-on-gf-value-as-inflation-concerns-mount",
       "cross_verified": true,
       "published_at": "2026-09-20T17:55:42.000000Z"
-    },
-    {
-      "title": "RF Industries (RFIL) Reports Stronger Profits. Can New Orders Sustain the Improved Product Mix?",
-      "title_ko": "RF 인더스트리즈(RFIL), 실적 호조 발표. 신규 수주가 개선된 제품 구성 추세를 지속시킬 수 있을까?",
-      "snippet": "RF Industries, Ltd. (NASDAQ:RFIL) reported stronger fiscal third-quarter results on September 14. Revenue increased 21% to $23.96 million for the quarter ended July 31, 2026, while operating income reached approximately $1.8 million, compared with $720,000 a year earlier. The next question is whether new orders can sustain that performance. Quarterly bookings totaled $22.5 million, below […]",
-      "snippet_ko": "RF Industries, Ltd. (나스닥: RFIL)는 9월 14일 회계연도 3분기 실적이 호조를 보였다고 발표했다. 2026년 7월 31일로 종료된 해당 분기의 매출은 21% 증가한 2,396만 달러를 기록했으며, 영업이익은 전년 동기 72만 달러 대비 약 180만 달러를 달성했다. 다음으로 주목할 점은 신규 수주가 이러한 실적을 지속할 수 있을지 여부다. 분기 수주액은 총 2,250만 달러로, […]보다 낮은 수준이었다.",
-      "symbol": "",
-      "sentiment_score": 0.5633,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rf-industries-rfil-reports-stronger-174049668.html",
-      "cross_verified": true,
-      "published_at": "2026-09-20T17:40:49.000000Z"
-    },
-    {
-      "title": "Sempra (SRE) Adds a 20-Year LNG Agreement. How Much Commercial Risk Does it Remove?",
-      "title_ko": "셈프라(SRE), 20년짜리 LNG 계약 체결. 이로 인해 상업적 위험이 얼마나 줄어들까?",
-      "snippet": "Sempra (NYSE:SRE) added a long-term customer commitment on September 14, when its infrastructure subsidiary announced a 20-year sales and purchase agreement with Petróleo Brasileiro S.A. – Petrobras (NYSE:PBR). The agreement covers approximately 0.8 million tonnes annually of liquefied natural gas, or LNG. Supply will come from the subsidiary’s contracted liquefaction capacity at Port Arthur LNG […]",
-      "snippet_ko": "셈프라(Sempra, NYSE:SRE)는 9월 14일, 자사의 인프라 자회사가 페트로브라스(Petróleo Brasileiro S.A. – Petrobras, NYSE:PBR)와 20년 간의 매매 계약을 체결했다고 발표하며 장기 고객 확보에 성공했다. 이 계약은 연간 약 80만 톤의 액화천연가스(LNG)를 대상으로 한다. 공급은 자회사가 포트 아서 LNG(Port Arthur LNG)에서 계약한 액화 설비 용량을 통해 이루어질 예정이다 […]",
-      "symbol": "",
-      "sentiment_score": 0.4442,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/energy/articles/sempra-sre-adds-20-lng-173718056.html",
-      "cross_verified": true,
-      "published_at": "2026-09-20T17:37:18.000000Z"
-    },
-    {
-      "title": "Cue Biopharma (CUE) Reports Positive Phase 2 Data, Market Pricing Reflects High Growth Expectations",
-      "title_ko": "큐 바이오파마(CUE), 긍정적인 2상 임상 데이터 발표… 시장 주가는 높은 성장 기대감을 반영",
-      "snippet": "On September 20, 2026, Cue Biopharma Inc (NASDAQ: CUE) announced encouraging topline results from its Phase 2 clinical trial of CUE-221 in China, targeting mode",
-      "snippet_ko": "2026년 9월 20일, Cue Biopharma Inc(나스닥: CUE)는 중국에서 진행 중인 CUE-221의 2상 임상시험에 대한 고무적인 주요 결과를 발표했는데, 이 임상시험은 …을 대상으로 한 것이다.",
-      "symbol": "",
-      "sentiment_score": 0.3145,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9089244/cue-biopharma-cue-reports-positive-phase-2-data-market-pricing-reflects-high-growth-expectations",
-      "cross_verified": true,
-      "published_at": "2026-09-20T15:25:23.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Google Appeals EU Directives on AI Access and Search Data Sharing",
+      "title_ko": "구글, AI 접근 및 검색 데이터 공유에 관한 EU 지침에 항소",
+      "snippet": "On September 29, 2026, Google, a subsidiary of Alphabet Inc. (GOOGL), announced its decision to appeal two directives issued by the European Union. These direct",
+      "snippet_ko": "2026년 9월 29일, 알파벳(Alphabet Inc., GOOGL)의 자회사인 구글은 유럽연합이 내린 두 건의 지침에 대해 항소하기로 결정했다고 발표했다. 이 지침들은",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.1478,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9101060/google-appeals-eu-directives-on-ai-access-and-search-data-sharing",
+      "cross_verified": true,
+      "published_at": "2026-09-29T06:31:32.000000Z"
+    },
+    {
+      "title": "Google Fights EU Demand to Share Android Data with Competitors",
+      "title_ko": "구글, 경쟁사들과 안드로이드 데이터 공유를 요구하는 EU의 요구에 맞서다",
+      "snippet": "On September 29, 2026, Google, a subsidiary of Alphabet Inc. (GOOGL), announced its decision to contest an EU requirement that mandates the opening of its Andro",
+      "snippet_ko": "2026년 9월 29일, 알파벳(Alphabet Inc., GOOGL)의 자회사인 구글은 자사의 안드로이드 운영체제 개방화를 의무화하는 EU의 요구 사항에 이의를 제기하기로 결정했다고 발표했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2392,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9101058/google-fights-eu-demand-to-share-android-data-with-competitors",
+      "cross_verified": true,
+      "published_at": "2026-09-29T06:30:36.000000Z"
+    },
+    {
+      "title": "Google fights EU attempt to prise open Android to rival AI bots",
+      "title_ko": "구글, 경쟁 AI 봇을 위해 안드로이드를 개방하려는 EU의 시도에 맞서고 있다",
+      "snippet": "Google fights EU DMA bid to open Android to rival AI, citing user privacy and security concerns.",
+      "snippet_ko": "구글은 사용자 개인정보 보호 및 보안 문제를 이유로, 경쟁 AI 업체들이 안드로이드를 활용할 수 있도록 하려는 EU의 디지털 시장법(DMA) 적용 시도에 맞서고 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.34,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/info-tech/google-fights-eu-attempt-to-prise-open-android-to-rival-ai-bots/article71522693.ece",
+      "cross_verified": true,
+      "published_at": "2026-09-29T06:01:56.000000Z"
+    },
     {
       "title": "Is MP Materials Corp (MP) a Bargain After 4.9% Drop? GF Value Says Undervalued",
       "title_ko": "MP 머티리얼스(MP)가 4.9% 하락한 지금, 매수 기회일까? GF 밸류는 저평가되었다고 분석한다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9089522/apple-aapl-neutral-rating-maintained-by-ubs-with-296-price-target",
       "cross_verified": true,
       "published_at": "2026-09-21T11:31:37.000000Z"
-    },
-    {
-      "title": "Merck: Time To Trim, Overvalued And Overbought (Rating Downgrade) (NYSE:MRK)",
-      "title_ko": "머크: 매도 시점, 과대평가 및 과매수 상태 (투자의견 하향 조정) (NYSE:MRK)",
-      "snippet": "Merck (MRK) outlook turns bearish after a 92% run: valuation now rich and overbought on mRNA vaccine hype.",
-      "snippet_ko": "머크(MRK) 주가, 92% 급등 후 전망이 약세로 돌아섰다: mRNA 백신 열풍으로 인해 현재 주가가 고평가되었으며 과매수 상태다.",
-      "symbol": "MRK",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4948262-merck-time-to-trim-overvalued-and-overbought-rating-downgrade",
-      "cross_verified": true,
-      "published_at": "2026-09-21T11:27:12.000000Z"
-    },
-    {
-      "title": "Meta Stock: Poised For Strong Long-Term Growth (NASDAQ:META)",
-      "title_ko": "메타 주식: 강력한 장기 성장 전망 (나스닥: META)",
-      "snippet": "Meta Platforms (META) outlook: AI tools, custom chips & subscriptions fuel growth.",
-      "snippet_ko": "메타 플랫폼스(META) 전망: AI 도구, 맞춤형 칩 및 구독 서비스가 성장을 견인한다.",
-      "symbol": "META",
-      "sentiment_score": 0.7845,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4948177-meta-poised-for-strong-long-term-growth",
-      "cross_verified": true,
-      "published_at": "2026-09-21T02:51:58.000000Z"
-    },
-    {
-      "title": "Investment Caution: Fidelity's Durance Avoids AI Bonds Amid Market Surge",
-      "title_ko": "투자 주의: 피델리티의 ‘듀런스’, 시장 급등 속 AI 관련 채권 투자 회피",
-      "snippet": "On September 20, 2026, James Durance of Fidelity International expressed caution regarding investments in AI-related bonds, maintaining his exposure in the tech",
-      "snippet_ko": "2026년 9월 20일, 피델리티 인터내셔널의 제임스 듀랜스는 AI 관련 채권 투자에 대해 신중한 입장을 밝히며, 기술 분야에 대한 투자 비중을 유지했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2851,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9089345/investment-caution-fidelitys-durance-avoids-ai-bonds-amid-market-surge",
-      "cross_verified": true,
-      "published_at": "2026-09-21T02:30:57.000000Z"
     }
   ]
 }
