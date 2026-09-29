@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-29T08:14:32.920372+00:00",
+  "updated_at": "2026-09-29T16:26:06.154551+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Sun Pharma plans ₹10,000 crore bond sale to refinance Organon acquisition loan: Report",
+      "title_ko": "선 파마, 오르가논 인수 대출 재융자를 위해 1,000억 루피 규모 채권 발행 계획: 보도에 따르면",
+      "snippet": "The country's largest drugmaker by market capitalisation closed a syndication of a near-$12 billion, 18-month bridge loan earlier this year for Organon's acquisition. The syndication also included State Bank of India, the country's largest lender by assets.",
+      "snippet_ko": "시가총액 기준 국내 최대 제약사는 올해 초 오르가논(Organon) 인수를 위해 약 120억 달러 규모의 18개월 만기 브리지 론 신디케이션을 완료했다. 이번 신디케이션에는 자산 규모 기준 국내 최대 은행인 인도국립은행(State Bank of India)도 참여했다.",
+      "symbol": "",
+      "sentiment_score": -0.1806,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/news/sun-pharma-plans-rs-10-000-crore-bond-sale-to-refinance-organon-acquisition-loan-report-11790695336859.html",
+      "cross_verified": true,
+      "published_at": "2026-09-29T15:45:10.000000Z"
+    },
+    {
+      "title": "BMS Group appoints Paul Sheriff as Group CFO and Executive Director",
+      "title_ko": "BMS 그룹, 폴 셰리프를 그룹 최고재무책임자(CFO) 겸 상임이사로 선임",
+      "snippet": "BMS Group, an independent global insurance and reinsurance broker, has announced the appointment of Paul Sheriff as Group Chief Financial Officer (CFO)",
+      "snippet_ko": "독립적인 글로벌 보험 및 재보험 중개사인 BMS 그룹은 폴 셰리프를 그룹 최고재무책임자(CFO)로 임명했다고 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.6486,
+      "source": "reinsurancene.ws",
+      "url": "https://www.reinsurancene.ws/bms-group-appoints-paul-sheriff-as-group-cfo-and-executive-director/",
+      "cross_verified": true,
+      "published_at": "2026-09-29T15:30:45.000000Z"
+    },
+    {
+      "title": "Sherwin-Williams (SHW) Refinances Debt with New $750 Million Term Loan and €100 Million EUR Facility",
+      "title_ko": "셔윈-윌리엄스(SHW), 7억 5천만 달러 규모의 신규 기간 대출 및 1억 유로 규모의 대출 한도를 통해 부채 재융자 실시",
+      "snippet": "The Sherwin-Williams Company (SHW) announced on September 24, 2026, that it has entered into a new 364-day senior unsecured Term Loan Credit Agreement, replaci",
+      "snippet_ko": "셔윈-윌리엄스(SHW)는 2026년 9월 24일, 기존 계약을 대체하는 새로운 364일 만기의 선순위 무담보 기간 대출 신용 계약을 체결했다고 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.7964,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9101755/sherwinwilliams-shw-refinances-debt-with-new-750-million-term-loan-and-100-million-eur-facility",
+      "cross_verified": true,
+      "published_at": "2026-09-29T15:30:08.000000Z"
+    },
     {
       "title": "Brady Corporation: From A Balance Sheet With No Debt, To A $1.4B Bet At 8x EBITDA",
       "title_ko": "브래디 코퍼레이션: 부채가 전혀 없는 대차대조표에서 EBITDA의 8배에 달하는 14억 달러 규모의 투자로",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9089351/oil-prices-drop-as-brent-brn-and-wti-cl-face-longest-decline-since-june",
       "cross_verified": true,
       "published_at": "2026-09-21T03:02:46.000000Z"
-    },
-    {
-      "title": "UBS Looks 29.8% Overvalued on GF Value™ Amid Capital Requirement Concerns (NYSE: UBS)",
-      "title_ko": "자본 요건 우려 속에서 GF Value™ 기준 UBS 주가, 29.8% 과대평가된 것으로 나타나 (NYSE: UBS)",
-      "snippet": "On September 20, 2026, UBS Group AG (NYSE: UBS) CEO Sergio Ermotti urged Swiss lawmakers to reconsider proposed capital regulations that could force the bank to",
-      "snippet_ko": "2026년 9월 20일, UBS 그룹 AG(NYSE: UBS)의 세르지오 에르모티 최고경영자(CEO)는 스위스 의원들에게 은행이 어쩔 수 없이 ~하게 될 수도 있는 제안된 자본 규제안을 재고해 줄 것을 촉구했다.",
-      "symbol": "",
-      "sentiment_score": 0.4128,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9089303/ubs-looks-298-overvalued-on-gf-value-amid-capital-requirement-concerns-nyse-ubs",
-      "cross_verified": true,
-      "published_at": "2026-09-20T21:55:44.000000Z"
-    },
-    {
-      "title": "Nordson’s (NDSN) New Vantage XL Addresses Increasing Advanced Semiconductor Packaging Demand",
-      "title_ko": "노드슨(NDSN)의 신제품 ‘밴티지 XL(Vantage XL)’, 증가하는 첨단 반도체 패키징 수요에 대응",
-      "snippet": "The launch of ASYMTEK Vantage XL comes at a time when demand for advanced semiconductor packaging solutions is accelerating. For that reason, such fluid dispensing system carries a lot of strategic significance for Nordson (NASDAQ:NDSN). It reflects on the company’s push to cater to the intricate packaging requirements that are fueled by high-performance computing, artificial […]",
-      "snippet_ko": "ASYMTEK Vantage XL의 출시 시기는 첨단 반도체 패키징 솔루션에 대한 수요가 급증하고 있는 시점과 맞물립니다. 이러한 이유로, 해당 유체 디스펜싱 시스템은 Nordson(NASDAQ:NDSN)에게 전략적으로 매우 중요한 의미를 지닙니다. 이는 고성능 컴퓨팅과 인공지능(AI) […]에 힘입어 더욱 복잡해지고 있는 패키징 요구 사항을 충족하기 위한 회사의 노력을 반영합니다.",
-      "symbol": "",
-      "sentiment_score": 0.3502,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nordson-ndsn-vantage-xl-addresses-212740323.html",
-      "cross_verified": true,
-      "published_at": "2026-09-20T21:27:40.000000Z"
-    },
-    {
-      "title": "SPY Looks 12.0% Overvalued on GF Value™ as Inflation Concerns Mount",
-      "title_ko": "인플레이션 우려가 고조되는 가운데, GF Value™ 기준 SPY는 12.0% 과대평가된 것으로 나타남",
-      "snippet": "On September 20, 2026, Minneapolis Federal Reserve President Neel Kashkari highlighted persistent inflationary pressures and the potential for further interest",
-      "snippet_ko": "2026년 9월 20일, 미니애폴리스 연방준비은행 총재인 닐 카슈카리는 지속되는 인플레이션 압력과 추가 금리 인상 가능성을 강조했으며",
-      "symbol": "",
-      "sentiment_score": 0.449,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9089285/spy-looks-120-overvalued-on-gf-value-as-inflation-concerns-mount",
-      "cross_verified": true,
-      "published_at": "2026-09-20T17:55:42.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "US stock market today: Why Dow Jones falls while S&P 500 and Nasdaq climb as Nvidia, Oracle and Intel gain on oil retreat",
+      "title_ko": "오늘 미국 증시: 유가 하락에 힘입어 엔비디아, 오라클, 인텔이 상승한 가운데 다우존스는 하락하고 S&P 500과 나스닥은 상승한 이유",
+      "snippet": "US stock market today: The Dow Jones pulled back slightly, while the S&P 500 and Nasdaq hovered near the flatline. Major tech and retail stocks showed mixed performance, with Nvidia gaining (+1.11%) and Boeing up (+2.61%), while Apple (-1.72%) and Walmart (-2.79%) faced declines. XPeng also hit a 52-week low following a downgrade from JPMorgan citing weak demand and structural challenges in the Chinese auto sector.",
+      "snippet_ko": "오늘 미국 증시: 다우존스 지수는 소폭 하락한 반면, S&P 500 지수와 나스닥 지수는 보합권에서 등락을 거듭했다. 주요 기술주와 소매주들은 혼조세를 보였는데, 엔비디아(+1.11%)와 보잉(+2.61%)은 상승한 반면, 애플(-1.72%)과 월마트(-2.79%)는 하락세를 기록했다. 또한 엑스펭(XPeng)은 JP모건이 중국 자동차 업계의 수요 부진과 구조적 문제를 이유로 신용등급을 하향 조정함에 따라 52주 최저가를 기록했습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4429,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-why-dow-jones-falls-while-sp-500-and-nasdaq-climb-as-nvidia-oracle-and-intel-gain-on-oil-retreat/articleshow/134569482.cms",
+      "cross_verified": true,
+      "published_at": "2026-09-29T15:08:51.000000Z"
+    },
+    {
+      "title": "McDonald's (MCD) Shares Drop Amid Rising Treasury Yields and Dividend Yield Pressure",
+      "title_ko": "국채 수익률 상승과 배당수익률 압박 속에 맥도날드(MCD) 주가 하락",
+      "snippet": "On September 29, 2026, McDonald's Corp (NYSE: MCD) has seen its stock price decline sharply by 32% over the past seven months, a period that coincides with a 32",
+      "snippet_ko": "2026년 9월 29일, 맥도날드(NYSE: MCD)의 주가는 지난 7개월 동안 32%나 급락했는데, 이 기간은 32%의",
+      "symbol": "MCD",
+      "sentiment_score": 0.5032,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9101643/mcdonalds-mcd-shares-drop-amid-rising-treasury-yields-and-dividend-yield-pressure",
+      "cross_verified": true,
+      "published_at": "2026-09-29T14:56:08.000000Z"
+    },
+    {
+      "title": "Nancy Pelosi And Bill Ackman Are Betting On The Same Two Stocks",
+      "title_ko": "낸시 펠로시와 빌 애크먼이 똑같은 두 종목에 투자하고 있다",
+      "snippet": "Uber (NYSE:UBER) and Amazon (NASDAQ:AMZN) are showing up in both Nancy Pelosi's trading disclosures and Bill Ackman's Pershing Square portfolio.",
+      "snippet_ko": "우버(NYSE:UBER)와 아마존(NASDAQ:AMZN)은 낸시 펠로시 의원의 거래 공개 내역과 빌 애크먼의 퍼싱 스퀘어 포트폴리오 모두에 등장하고 있다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.3852,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/nancy-pelosi-and-bill-ackman-are-betting-on-the-same-two-stocks-1845689/",
+      "cross_verified": true,
+      "published_at": "2026-09-29T13:27:17.000000Z"
+    },
     {
       "title": "Google Appeals EU Directives on AI Access and Search Data Sharing",
       "title_ko": "구글, AI 접근 및 검색 데이터 공유에 관한 EU 지침에 항소",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9090243/aapl-looks-182-overvalued-on-gf-value-as-delivery-delays-spark-market-attention",
       "cross_verified": true,
       "published_at": "2026-09-21T17:56:23.000000Z"
-    },
-    {
-      "title": "AMZN Looks 3.6% Overvalued on GF Value™ as Market Prices in Strong Growth",
-      "title_ko": "시장이 강력한 성장세를 반영함에 따라 GF Value™ 기준 AMZN은 3.6% 과대평가된 것으로 나타남",
-      "snippet": "On September 21, 2026, Amazon.com Inc (NASDAQ: AMZN) expanded its ban on third-party AI shopping bots by prohibiting Meta's AI tool, Muse, from its platform. Th",
-      "snippet_ko": "2026년 9월 21일, Amazon.com Inc(나스닥: AMZN)는 자사 플랫폼에서 메타의 AI 도구인 ‘뮤즈(Muse)’의 사용을 금지함으로써, 제3자 AI 쇼핑 봇에 대한 금지 조치를 확대했다. 이",
-      "symbol": "AMZN",
-      "sentiment_score": -0.2401,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9090242/amzn-looks-36-overvalued-on-gf-value-as-market-prices-in-strong-growth",
-      "cross_verified": true,
-      "published_at": "2026-09-21T17:55:58.000000Z"
-    },
-    {
-      "title": "iPhone 18 Pro Series Demand Surges, Wait Times Extend",
-      "title_ko": "아이폰 18 프로 시리즈 수요 급증, 대기 시간 길어지다",
-      "snippet": "On September 21, 2026, JPMorgan reported a significant increase in delivery wait times for Apple's iPhone 18 Pro series, indicating a strong demand for the late",
-      "snippet_ko": "2026년 9월 21일, JP모건은 애플의 아이폰 18 프로 시리즈 배송 대기 시간이 크게 늘어났다고 보고했으며, 이는 출시를 앞둔 해당 제품에 대한 수요가 강하다는 것을 시사한다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4136,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9089537/iphone-18-pro-series-demand-surges-wait-times-extend",
-      "cross_verified": true,
-      "published_at": "2026-09-21T11:52:21.000000Z"
-    },
-    {
-      "title": "Apple (AAPL) Neutral Rating Maintained by UBS with $296 Price Target",
-      "title_ko": "UBS, 애플(AAPL)에 대해 ‘중립’ 투자의견 유지… 목표주가 296달러 제시",
-      "snippet": "On September 21, 2026, UBS reaffirmed its \"neutral\" rating on Apple Inc. (AAPL) and maintained a price target of $296. Recent tracking data indicates that initi",
-      "snippet_ko": "2026년 9월 21일, UBS는 애플(AAPL)에 대한 ‘중립(Neutral)’ 투자의견을 재확인하고 목표주가를 296달러로 유지했다. 최근 추적 데이터에 따르면, 초기",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2433,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9089522/apple-aapl-neutral-rating-maintained-by-ubs-with-296-price-target",
-      "cross_verified": true,
-      "published_at": "2026-09-21T11:31:37.000000Z"
     }
   ]
 }
