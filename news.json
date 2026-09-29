@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-29T16:26:06.154551+00:00",
+  "updated_at": "2026-09-29T22:06:23.024599+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Chinese Stocks Decline: Key Movers on September 30",
+      "title_ko": "중국 증시 하락: 9월 30일 주요 등락 종목",
+      "snippet": "On September 30, most popular Chinese stocks experienced declines, with the Nasdaq China Golden Dragon Index (HXC) falling by 1.55%. Among the few gainers, Taiw",
+      "snippet_ko": "9월 30일, 대부분의 인기 중국주들이 하락세를 보였으며, 나스닥 차이나 골든 드래곤 지수(HXC)는 1.55% 하락했다. 소수의 상승 종목 중에는 타이완...",
+      "symbol": "",
+      "sentiment_score": -0.2263,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9102118/chinese-stocks-decline-key-movers-on-september-30",
+      "cross_verified": true,
+      "published_at": "2026-09-29T21:50:12.000000Z"
+    },
+    {
+      "title": "Progress Software Q3 2026 Earnings Preview (NASDAQ:PRGS)",
+      "title_ko": "프로그레스 소프트웨어 2026년 3분기 실적 전망 (나스닥:PRGS)",
+      "snippet": "Progress Software (PRGS) reports Q3 earnings Sept 30 after close.",
+      "snippet_ko": "프로그레스 소프트웨어(PRGS)는 9월 30일 장 마감 후 3분기 실적을 발표한다.",
+      "symbol": "",
+      "sentiment_score": 0.4215,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4648186-progress-software-q3-2026-earnings-preview",
+      "cross_verified": true,
+      "published_at": "2026-09-29T21:35:00.000000Z"
+    },
+    {
+      "title": "Alaska Airlines goes all-in on luxury with sweeping premium cabin overhaul",
+      "title_ko": "알래스카 항공, 프리미엄 객실을 대대적으로 개편하며 럭셔리 서비스에 전력을 다하고 있다",
+      "snippet": "Aurora and Leihōkū will bring luxury suites and elevated service to Alaska and Hawaiian Airlines as the carrier expands its premium cabins and lounge network.",
+      "snippet_ko": "알래스카 항공과 하와이안 항공이 프리미엄 객실 및 라운지 네트워크를 확대함에 따라, ‘오로라’와 ‘레이호쿠’는 두 항공사에 럭셔리 스위트 객실과 한 차원 높은 서비스를 제공할 예정이다.",
+      "symbol": "",
+      "sentiment_score": 0.2848,
+      "source": "video.foxbusiness.com",
+      "url": "https://www.foxbusiness.com/lifestyle/alaska-airlines-goes-all-in-luxury-sweeping-premium-cabin-overhaul",
+      "cross_verified": true,
+      "published_at": "2026-09-29T21:26:51.000000Z"
+    },
     {
       "title": "Sun Pharma plans ₹10,000 crore bond sale to refinance Organon acquisition loan: Report",
       "title_ko": "선 파마, 오르가논 인수 대출 재융자를 위해 1,000억 루피 규모 채권 발행 계획: 보도에 따르면",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9089551/ebf-looks-70-overvalued-on-gf-value-amid-dividend-increase",
       "cross_verified": true,
       "published_at": "2026-09-21T11:58:23.000000Z"
-    },
-    {
-      "title": "GE Looks 16.7% Overvalued on GF Value™ as Insider Selling Persists",
-      "title_ko": "내부자 매도세가 지속되는 가운데, GF Value™ 기준 GE 주가가 16.7% 과대평가된 것으로 나타남",
-      "snippet": "On September 21, 2026, GE Aerospace (NYSE: GE) announced a $225 million upgrade to its Research Center in Niskayuna, NY, supported by $8.4 million in New York S",
-      "snippet_ko": "2026년 9월 21일, GE 에어로스페이스(NYSE: GE)는 뉴욕주 니스카유나에 위치한 자사 연구 센터에 2억 2,500만 달러 규모의 시설 개선 계획을 발표했으며, 이 계획은 뉴욕주 정부로부터 840만 달러의 지원을 받게 되었다.",
-      "symbol": "",
-      "sentiment_score": 0.5,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9089550/ge-looks-167-overvalued-on-gf-value-as-insider-selling-persists",
-      "cross_verified": true,
-      "published_at": "2026-09-21T11:57:59.000000Z"
-    },
-    {
-      "title": "JB–Singapore RTS Link: These 3 Singapore Stocks Could See Growth Derailed",
-      "title_ko": "JB–싱가포르 RTS 링크: 이 3개 싱가포르 종목의 성장세가 주춤할 수 있다",
-      "snippet": "Explore how the JB–Singapore RTS Link could derail growth for these three Singapore stocks amidst increased consumer spending.",
-      "snippet_ko": "소비 지출이 증가하는 가운데, JB–싱가포르 RTS 연계가 이 세 가지 싱가포르 주식의 성장에 어떤 차질을 빚을 수 있는지 살펴보세요.",
-      "symbol": "",
-      "sentiment_score": 0.0258,
-      "source": "thesmartinvestor.com.sg",
-      "url": "https://thesmartinvestor.com.sg/jb-singapore-rts-link-these-3-singapore-stocks-could-see-growth-derailed/",
-      "cross_verified": true,
-      "published_at": "2026-09-21T03:30:00.000000Z"
-    },
-    {
-      "title": "Oil Prices Drop as Brent (BRN) and WTI (CL) Face Longest Decline Since June",
-      "title_ko": "브렌트(BRN)와 WTI(CL)가 6월 이후 가장 긴 하락세를 기록하며 유가가 하락했다",
-      "snippet": "On September 20, 2026, oil prices have fallen for the fourth consecutive day, raising concerns among traders and analysts alike. The stock in focus today is Bar",
-      "snippet_ko": "2026년 9월 20일, 유가가 4일 연속 하락하면서 트레이더와 애널리스트 모두에게 우려를 불러일으키고 있습니다. 오늘 주목할 종목은 Bar입니다.",
-      "symbol": "",
-      "sentiment_score": 0.1637,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9089351/oil-prices-drop-as-brent-brn-and-wti-cl-face-longest-decline-since-june",
-      "cross_verified": true,
-      "published_at": "2026-09-21T03:02:46.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Pyxis Oncology Announces Proposed Public Offering",
+      "title_ko": "파이시스 온콜로지, 공모 계획 발표",
+      "snippet": "BOSTON, Sept. 29, 2026 (GLOBE NEWSWIRE) -- Pyxis Oncology, Inc. (Nasdaq: PYXS), a clinical-stage company developing next-generation therapeutics for difficult-to-treat cancers, today announced that it has commenced a registered public offering (the 'Offering') of (i) shares of its common stock, or in lieu of common stock to certain investors, pre-funded warrants to purchase shares of common stock, and (ii) accompanying common warrants to purchase shares of common stock. Each share of common stock and each pre-funded warrant will be sold together with a common warrant to purchase one share of common stock.",
+      "snippet_ko": "보스턴, 2026년 9월 29일 (GLOBE NEWSWIRE) -- 치료가 어려운 암에 대한 차세대 치료제를 개발 중인 임상 단계 기업인 Pyxis Oncology, Inc. (나스닥: PYXS)는 오늘 (i) 자사 보통주 또는 특정 투자자에게는 보통주 대신 미리 자금이 조달된 보통주 매수권, 그리고 (ii) 이에 수반되는 보통주 매수권을 대상으로 한 등록 공모(이하 ‘본 공모’)를 개시했다고 발표했다. 각 보통주 1주는",
+      "symbol": "MRK",
+      "sentiment_score": 0.6705,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/30/tmt-newswire/globenewswire/pyxis-oncology-announces-proposed-public-offering/2435606",
+      "cross_verified": true,
+      "published_at": "2026-09-29T20:29:40.000000Z"
+    },
+    {
+      "title": "Inseego Names Nick Lambourne Chief Technology Officer to Lead Global Engineering Organization",
+      "title_ko": "인시고, 닉 램본을 최고기술책임자(CTO)로 임명해 글로벌 엔지니어링 조직을 이끌게 해",
+      "snippet": "Former Particle CTO brings deep cellular and IoT leadership to drive Inseego's global engineering operations and execution, including those from the acquisition of Nokia's Fixed Wireless Access business",
+      "snippet_ko": "Particle의 전 CTO는 셀룰러 및 IoT 분야에서 쌓아온 풍부한 리더십을 바탕으로, 노키아의 고정 무선 액세스(FWA) 사업부 인수를 포함한 Inseego의 글로벌 엔지니어링 운영 및 실행을 주도할 예정이다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.1464,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/30/tmt-newswire/globenewswire/inseego-names-nick-lambourne-chief-technology-officer-to-lead-global-engineering-organization/2435596",
+      "cross_verified": true,
+      "published_at": "2026-09-29T20:10:13.000000Z"
+    },
+    {
+      "title": "Chicago Fed's Goolsbee Warns on AI-Driven Growth Amid Inflation Concerns; What It Means for GOOGL",
+      "title_ko": "인플레이션 우려 속에서 시카고 연방준비은행의 굴스비, AI 주도 성장에 경고… GOOGL에 미치는 영향은?",
+      "snippet": "On September 29, 2026, Chicago Fed President Austan Goolsbee voiced concerns that the expected productivity surge from artificial intelligence (AI) might fuel e",
+      "snippet_ko": "2026년 9월 29일, 시카고 연방준비은행 총재인 오스틴 굴스비는 인공지능(AI)으로 인해 예상되는 생산성 급증이 실업률을 높일 수도 있다는 우려를 표명했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.5441,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9102075/chicago-feds-goolsbee-warns-on-aidriven-growth-amid-inflation-concerns-what-it-means-for-googl",
+      "cross_verified": true,
+      "published_at": "2026-09-29T19:57:30.000000Z"
+    },
     {
       "title": "US stock market today: Why Dow Jones falls while S&P 500 and Nasdaq climb as Nvidia, Oracle and Intel gain on oil retreat",
       "title_ko": "오늘 미국 증시: 유가 하락에 힘입어 엔비디아, 오라클, 인텔이 상승한 가운데 다우존스는 하락하고 S&P 500과 나스닥은 상승한 이유",
@@ -2367,42 +2403,6 @@
       "url": "https://www.foxbusiness.com/technology/apple-settlement-could-mean-payout-some-iphone-owners",
       "cross_verified": true,
       "published_at": "2026-09-21T21:03:02.000000Z"
-    },
-    {
-      "title": "Novo Nordisk Stock Slides Nearly 8% in New York After $23 Billion Pipeline Plan Disappoints Investors",
-      "title_ko": "230억 달러 규모의 신약 파이프라인 계획이 투자자들의 기대를 저버리자, 뉴욕 증시에서 노보 노르디스크 주가가 8% 가까이 하락했다.",
-      "snippet": "Novo Nordisk stock fell nearly 8% in New York trading on Monday after the drugmaker's Capital Markets Day failed to convince investors that its pipeline can",
-      "snippet_ko": "월요일 뉴욕 증시에서 노보 노르디스크 주가는 이 제약사의 ‘자본시장 설명회’가 자사의 신약 파이프라인이",
-      "symbol": "MRK",
-      "sentiment_score": 0.3818,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/novo-nordisk-stock-slides-nearly-8-in-new-york-after-23-billion-pipeline-plan-disappoints-investors/",
-      "cross_verified": true,
-      "published_at": "2026-09-21T20:11:19.000000Z"
-    },
-    {
-      "title": "Intel surges 12% as CPU stocks rally. Here's what's driving the move",
-      "title_ko": "CPU 관련주 급등에 힘입어 인텔 주가가 12% 급등했다. 이번 주가 상승의 원인은 다음과 같다.",
-      "snippet": "Every weekday, the Investing Club releases the Homestretch, an actionable afternoon update just in time for the last hour of trading.",
-      "snippet_ko": "투자 클럽은 평일마다 장 마감 1시간 전에 맞춰 실질적인 투자 정보를 제공하는 오후 업데이트인 ‘Homestretch’를 발행합니다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.286,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/21/intel-surges-12percent-as-cpu-stocks-rally-heres-whats-driving-the-move.html",
-      "cross_verified": true,
-      "published_at": "2026-09-21T18:37:57.000000Z"
-    },
-    {
-      "title": "AAPL Looks 18.2% Overvalued on GF Value™ as Delivery Delays Spark Market Attention",
-      "title_ko": "배송 지연으로 시장의 관심이 쏠리면서 GF Value™ 기준 AAPL은 18.2% 과대평가된 것으로 나타남",
-      "snippet": "On September 21, 2026, Apple Inc (NASDAQ: AAPL) attracted investor focus following Citi's report highlighting longer delivery times for the iPhone 18 Pro and Pr",
-      "snippet_ko": "2026년 9월 21일, 시티그룹이 아이폰 18 프로와 프로의 배송 지연 문제를 지적한 보고서를 발표하면서 애플(NASDAQ: AAPL)이 투자자들의 주목을 받았습니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2278,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9090243/aapl-looks-182-overvalued-on-gf-value-as-delivery-delays-spark-market-attention",
-      "cross_verified": true,
-      "published_at": "2026-09-21T17:56:23.000000Z"
     }
   ]
 }
