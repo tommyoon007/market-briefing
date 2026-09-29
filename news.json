@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-28T20:27:57.501806+00:00",
+  "updated_at": "2026-09-29T01:42:21.540694+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Is Supernus Pharmaceuticals Inc (SUPN) Overvalued After 4.5% Rally? GF Value Says Overvalued",
+      "title_ko": "4.5% 상승세를 보인 슈퍼누스 파마슈티컬스(SUPN)의 주가는 과대평가된 것일까? GF 밸류는 과대평가되었다고 분석한다",
+      "snippet": "On September 28, 2026, Supernus Pharmaceuticals Inc (SUPN) shares rose 4.5% to a current price of $44.60, moving within a 52-week range of $40.51 to $59.68. The",
+      "snippet_ko": "2026년 9월 28일, 슈퍼너스 파마슈티컬스(SUPN)의 주가는 4.5% 상승하여 현재 44.60달러를 기록했으며, 52주 동안의 등락폭인 40.51달러에서 59.68달러 사이에서 움직였다. 이",
+      "symbol": "",
+      "sentiment_score": 0.4146,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9100788/is-supernus-pharmaceuticals-inc-supn-overvalued-after-45-rally-gf-value-says-overvalued",
+      "cross_verified": true,
+      "published_at": "2026-09-29T01:13:27.000000Z"
+    },
+    {
+      "title": "Redwire Corp (RDW) Stock Down 3.6% but Still Overvalued -- GF Score: 71/100",
+      "title_ko": "레드와이어(RDW) 주가 3.6% 하락했으나 여전히 고평가 상태 -- GF 점수: 71/100",
+      "snippet": "Valuation Assessment of Redwire Corp (RDW)On September 28, 2026, Redwire Corp (RDW) shares fell 3.6%, bringing the current price to $11.20. The stock has experi",
+      "snippet_ko": "레드와이어 코퍼레이션(RDW)의 기업가치 평가 2026년 9월 28일, 레드와이어 코퍼레이션(RDW) 주가는 3.6% 하락하여 현재 주가는 11.20달러를 기록했습니다. 이 주식은",
+      "symbol": "",
+      "sentiment_score": 0.3109,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9100783/redwire-corp-rdw-stock-down-36-but-still-overvalued-gf-score-71100",
+      "cross_verified": true,
+      "published_at": "2026-09-29T01:10:33.000000Z"
+    },
+    {
+      "title": "A Look at TransMedics Group Inc (TMDX) After 3.0% Decline -- GF Value $159.18 vs Price $82.73",
+      "title_ko": "3.0% 하락 후 TransMedics Group Inc (TMDX) 분석 — GF 가치 $159.18 대 시가 $82.73",
+      "snippet": "On September 28, 2026, TransMedics Group Inc (TMDX) shares fell 3.0% to a current price of $82.73, within a 52-week range of $60.11 to $156.00. This decline add",
+      "snippet_ko": "2026년 9월 28일, 트랜스메딕스 그룹(TransMedics Group Inc, TMDX)의 주가는 3.0% 하락하여 현재 82.73달러를 기록했으며, 이는 52주 동안의 등락폭인 60.11달러에서 156.00달러 범위 내에 있습니다. 이러한 하락으로 인해",
+      "symbol": "",
+      "sentiment_score": 0.4126,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9100781/a-look-at-transmedics-group-inc-tmdx-after-30-decline-gf-value-15918-vs-price-8273",
+      "cross_verified": true,
+      "published_at": "2026-09-29T01:08:36.000000Z"
+    },
     {
       "title": "Q2 2026 Addex Therapeutics Ltd Earnings Call Transcript",
       "title_ko": "2026년 2분기 Addex Therapeutics Ltd 실적 발표 전화 회의 기록",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9089244/cue-biopharma-cue-reports-positive-phase-2-data-market-pricing-reflects-high-growth-expectations",
       "cross_verified": true,
       "published_at": "2026-09-20T15:25:23.000000Z"
-    },
-    {
-      "title": "Summit Therapeutics (SMMT) Shows Promise in Lung Cancer Trial but Faces Valuation Challenges",
-      "title_ko": "서밋 테라퓨틱스(SMMT), 폐암 임상시험에서 유망한 결과 보여줬으나 기업 가치 평가에 어려움 직면",
-      "snippet": "On September 20, 2026, Summit Therapeutics Inc (NASDAQ: SMMT) announced that its investigational drug ivonescimab demonstrated a 27% reduction in death risk com",
-      "snippet_ko": "2026년 9월 20일, 서밋 테라퓨틱스(Summit Therapeutics Inc, 나스닥: SMMT)는 자사의 임상 시험용 신약인 이보네스시맙(ivonescimab)이 사망 위험을 27% 감소시킨 것으로 나타났다고 발표했다.",
-      "symbol": "",
-      "sentiment_score": 0.039,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9089241/summit-therapeutics-smmt-shows-promise-in-lung-cancer-trial-but-faces-valuation-challenges",
-      "cross_verified": true,
-      "published_at": "2026-09-20T14:55:44.000000Z"
-    },
-    {
-      "title": "Natera, Inc. (NTRA) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
-      "title_ko": "Natera, Inc. (NTRA), 모건 스탠리 제24회 연례 글로벌 헬스케어 컨퍼런스에서 발표: 발표록",
-      "snippet": "Natera, Inc. (NTRA) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 7:45 AM EDTCompany ParticipantsSteve Chapman - CEO &...",
-      "snippet_ko": "Natera, Inc. (NTRA) 모건 스탠리 제24회 연례 글로벌 헬스케어 컨퍼런스 2026년 9월 14일 오전 7시 45분 (EDT) 참가 기업 대표 스티브 채프먼 - CEO 겸...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4948127-natera-inc-ntra-presents-at-morgan-stanley-24th-annual-global-healthcare-conference",
-      "cross_verified": true,
-      "published_at": "2026-09-20T10:18:47.000000Z"
-    },
-    {
-      "title": "Housing Market Shifts in Buyers' Favor As More Sellers Offer Concessions",
-      "title_ko": "더 많은 매도자들이 양보안을 제시함에 따라 주택 시장이 매수자 중심으로 변화하고 있다",
-      "snippet": "More sellers are offering concessions and cutting prices to entice buyers who have been sidelined by high mortgage rates and record-high prices.",
-      "snippet_ko": "높은 모기지 금리와 사상 최고치를 기록한 주택 가격으로 인해 주택 구매를 미루고 있는 구매자들을 유인하기 위해, 점점 더 많은 판매자들이 양보를 하거나 가격을 인하하고 있다.",
-      "symbol": "",
-      "sentiment_score": -0.1779,
-      "source": "businessinsider.com",
-      "url": "https://www.businessinsider.com/housing-market-sellers-concessions-home-price-cuts-mortgage-rates-2026-9",
-      "cross_verified": true,
-      "published_at": "2026-09-20T09:20:01.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Is MP Materials Corp (MP) a Bargain After 4.9% Drop? GF Value Says Undervalued",
+      "title_ko": "MP 머티리얼스(MP)가 4.9% 하락한 지금, 매수 기회일까? GF 밸류는 저평가되었다고 분석한다",
+      "snippet": "On September 28, 2026, MP Materials Corp (MP) shares fell 4.9%, closing at $46.45. The stock has seen considerable volatility, trading within a 52-week range of",
+      "snippet_ko": "2026년 9월 28일, MP 머티리얼스(MP)의 주가는 4.9% 하락하여 46.45달러에 장을 마감했다. 이 종목은 상당한 변동성을 보였으며, 52주 동안의 등락폭은",
+      "symbol": "MP",
+      "sentiment_score": 0.2288,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9100632/is-mp-materials-corp-mp-a-bargain-after-49-drop-gf-value-says-undervalued",
+      "cross_verified": true,
+      "published_at": "2026-09-28T23:30:33.000000Z"
+    },
+    {
+      "title": "A Look at DraftKings Inc (DKNG) After 3.9% Decline -- GF Value $52.11 vs Price $21.16",
+      "title_ko": "3.9% 하락한 드래프트킹스(DKNG) 현황 분석 — GF 가치 $52.11 vs 시가 $21.16",
+      "snippet": "On September 28, 2026, DraftKings Inc (DKNG) shares fell 3.9% to $21.16, continuing a downward trend that has seen the stock decline by 50.0% over the past year",
+      "snippet_ko": "2026년 9월 28일, 드래프트킹스(DraftKings Inc, DKNG) 주가는 3.9% 하락한 21.16달러를 기록하며, 지난 1년간 50.0% 하락한 하락세를 이어갔다.",
+      "symbol": "DKNG",
+      "sentiment_score": 0.418,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9100613/a-look-at-draftkings-inc-dkng-after-39-decline-gf-value-5211-vs-price-2116",
+      "cross_verified": true,
+      "published_at": "2026-09-28T23:21:00.000000Z"
+    },
+    {
+      "title": "Merck & Co (MRK) Has Billions in Revenue to Defend. Can its Pipeline Do the Job?",
+      "title_ko": "머크 앤 컴퍼니(MRK)는 수십억 규모의 매출을 지켜내야 한다. 이 회사의 신약 파이프라인이 그 임무를 해낼 수 있을까?",
+      "snippet": "On September 24, Merck & Co., Inc.",
+      "snippet_ko": "9월 24일, 머크 앤 컴퍼니(Merck & Co., Inc.)는",
+      "symbol": "MRK",
+      "sentiment_score": 0.2095,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/merck-co-mrk-has-billions-in-revenue-to-defend-can-its-pipeline-do-the-job-1845469/",
+      "cross_verified": true,
+      "published_at": "2026-09-28T23:12:49.000000Z"
+    },
     {
       "title": "Zuckerberg, Amodei among tech executives set to meet Trump Tuesday",
       "title_ko": "화요일 트럼프 대통령과 만날 예정인 기술 업계 최고경영자 중에는 주커버그와 아모데이 등이 포함되어 있다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9089345/investment-caution-fidelitys-durance-avoids-ai-bonds-amid-market-surge",
       "cross_verified": true,
       "published_at": "2026-09-21T02:30:57.000000Z"
-    },
-    {
-      "title": "Diesel Prices Surge to Record High, Impacting Logistics and Inflation",
-      "title_ko": "디젤 가격, 사상 최고치로 치솟아… 물류 및 물가에 타격",
-      "snippet": "On September 20, 2026, the American Automobile Association (AAA) reported that the average retail price of diesel fuel in the U.S. has reached a new peak of $6.",
-      "snippet_ko": "2026년 9월 20일, 미국자동차협회(AAA)는 미국 내 디젤 연료의 평균 소매 가격이 6달러로 사상 최고치를 기록했다고 발표했다.",
-      "symbol": "AMZN",
-      "sentiment_score": -0.0122,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9089343/diesel-prices-surge-to-record-high-impacting-logistics-and-inflation",
-      "cross_verified": true,
-      "published_at": "2026-09-21T02:10:31.000000Z"
-    },
-    {
-      "title": "Amazon (AMZN) Taps the UK Bond Market for the First Time to Help Fund its AI Buildout",
-      "title_ko": "아마존(AMZN), AI 인프라 확충 자금 조달을 위해 처음으로 영국 채권 시장에 진출",
-      "snippet": "On September 8, 2026, Reuters reported that Amazon.com, Inc. (NASDAQ:AMZN) hired JPMorgan Chase, Barclays, HSBC and NatWest to arrange its first-ever sterling-denominated bond sale, with four tranches spanning 3 to 19 years. It is part of a broader push by technology hyperscalers to diversify their funding sources for artificial intelligence infrastructure. The deal priced the […]",
-      "snippet_ko": "2026년 9월 8일, 로이터 통신은 아마존닷컴(Amazon.com, Inc., 나스닥: AMZN)이 JPMorgan Chase, Barclays, HSBC, NatWest를 주관사로 선정해 사상 첫 파운드화 표시 채권 발행을 추진 중이며, 이 채권은 3년에서 19년에 이르는 4개 트랜치로 구성될 것이라고 보도했다. 이는 기술 하이퍼스케일러들이 인공지능 인프라를 위한 자금 조달원을 다각화하려는 광범위한 노력의 일환이다. 이번 거래에서 […]의 가격을 책정했다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.0324,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-amzn-taps-uk-bond-212711015.html",
-      "cross_verified": true,
-      "published_at": "2026-09-20T21:27:11.000000Z"
-    },
-    {
-      "title": "Amazon (AMZN) Sued Again, This Time over How it Treats Pregnant Warehouse Workers",
-      "title_ko": "아마존(AMZN), 이번에는 임신한 물류센터 근로자 대우 문제로 또다시 소송 당해",
-      "snippet": "On September 8, 2026, Reuters reported that Amazon.com, Inc. (NASDAQ:AMZN) was sued in a proposed nationwide class action accusing the company of systematically discriminating against thousands of pregnant employees, including by denying basic accommodations like chairs and bathroom breaks and firing workers who missed too much time for pregnancy-related medical needs. The lawsuit was filed […]",
-      "snippet_ko": "2026년 9월 8일, 로이터 통신은 아마존닷컴(Amazon.com, Inc., 나스닥: AMZN)이 수천 명의 임산부 직원을 체계적으로 차별했다는 혐의로 전국적 집단소송을 당했다고 보도했다. 이 소송에서는 회사가 의자 제공이나 화장실 이용 시간 보장 같은 기본적인 편의 조치를 거부하고, 임신 관련 의료적 필요로 인해 결근이 잦은 직원을 해고하는 등의 행위를 저지른 것으로 지적되었다. 이 소송은 […]에 제기되었다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.0404,
-      "source": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/healthcare/articles/amazon-amzn-sued-again-time-212413687.html",
-      "cross_verified": true,
-      "published_at": "2026-09-20T21:24:13.000000Z"
     }
   ]
 }
