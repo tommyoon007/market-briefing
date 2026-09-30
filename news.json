@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-29T22:06:23.024599+00:00",
+  "updated_at": "2026-09-30T05:05:24.962132+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "MongoDB, Inc. (MDB) Analyst/Investor Day - Slideshow (NASDAQ:MDB) 2026-09-30",
+      "title_ko": "MongoDB, Inc. (MDB) 애널리스트/투자자 설명회 - 슬라이드쇼 (NASDAQ:MDB) 2026-09-30",
+      "snippet": "2026-09-30. The following slide deck was published by MongoDB, Inc.",
+      "snippet_ko": "2026년 9월 30일. 다음 슬라이드 자료는 MongoDB, Inc.에서 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4950865-mongodb-inc-mdb-analyst-investor-day-slideshow",
+      "cross_verified": true,
+      "published_at": "2026-09-30T04:32:24.000000Z"
+    },
+    {
+      "title": "Monument Reports Fourth Quarter and Fiscal 2026 Results",
+      "title_ko": "모뉴먼트, 4분기 및 2026 회계연도 실적 발표",
+      "snippet": "Gross Revenue of US$165.72 Million and Cash Cost of US$1,243/Oz",
+      "snippet_ko": "총 매출 1억 6,572만 달러, 현금 원가 온스당 1,243달러",
+      "symbol": "",
+      "sentiment_score": -0.1589,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/30/tmt-newswire/globenewswire/monument-reports-fourth-quarter-and-fiscal-2026-results/2435706",
+      "cross_verified": true,
+      "published_at": "2026-09-30T04:12:03.000000Z"
+    },
+    {
+      "title": "SM Investments makes case for long-term thinking amid rapid change",
+      "title_ko": "SM 인베스트먼트, 급변하는 환경 속에서 장기적 사고의 필요성 강조",
+      "snippet": "**media[1239363]**PASAY CITY, Philippines, Sept. 30, 2026 /PRNewswire/ -- SM Investments Corporation, the parent company of the SM Group, underscored the need for businesses to look beyond short-term economic cycles and identify the changes that matter at the 24th MAP International CEO Conference, held under the theme 'In the Age of Flux: Scaling the Next Inflection Points.' The conference examined how companies are responding to rapid change, from artificial intelligence to shifting consumer demand, and how leaders can distinguish lasting shifts from market noise.",
+      "snippet_ko": "**media[1239363]**필리핀 파사이시, 2026년 9월 30일 /PRNewswire/ -- SM 그룹의 모회사인 SM 인베스트먼트 코퍼레이션(SM Investments Corporation)은 ‘변화의 시대: 다음 전환점을 넘어(In the Age of Flux: Scaling the Next Inflection Points)’라는 주제로 개최된 제24회 MAP 국제 CEO 컨퍼런스에서, 기업들이 단기적인 경제 주기를 넘어 중요한 변화를 파악해야 할 필요성을 강조했다. 이번 컨퍼런스에서는 인공지능부터 변화하는 소비자 선호도에 이르기까지, 기업들이 급격한 변화에 어떻게 대응하고 있는지를 심도 있게 검토했다.",
+      "symbol": "",
+      "sentiment_score": 0.4505,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/09/30/tmt-newswire/pr-newswire/sm-investments-makes-case-for-long-term-thinking-amid-rapid-change/2435694",
+      "cross_verified": true,
+      "published_at": "2026-09-30T04:08:17.000000Z"
+    },
     {
       "title": "Chinese Stocks Decline: Key Movers on September 30",
       "title_ko": "중국 증시 하락: 9월 30일 주요 등락 종목",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4948388-vista-gold-corp-vgz-m-and-a-call-prepared-remarks-transcript",
       "cross_verified": true,
       "published_at": "2026-09-21T18:28:48.000000Z"
-    },
-    {
-      "title": "LLY Looks 25.1% Undervalued on GF Value™ as Oral GLP-1 Gains Traction",
-      "title_ko": "경구용 GLP-1 제제의 시장 입지가 확대됨에 따라 GF Value™ 기준 LLY의 주가가 25.1% 저평가된 것으로 나타남",
-      "snippet": "On September 21, 2026, Eli Lilly and Co (NYSE: LLY) CEO Dave Ricks disclosed on CNBC that about one-third of patients starting treatment with their new GLP-1 or",
-      "snippet_ko": "2026년 9월 21일, 일라이 릴리(Eli Lilly and Co, NYSE: LLY)의 데이브 릭스(Dave Ricks) 최고경영자(CEO)는 CNBC를 통해 자사의 새로운 GLP-1 제제나",
-      "symbol": "",
-      "sentiment_score": 0.17,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9090305/lly-looks-251-undervalued-on-gf-value-as-oral-glp1-gains-traction",
-      "cross_verified": true,
-      "published_at": "2026-09-21T18:27:31.000000Z"
-    },
-    {
-      "title": "EBF Looks 7.0% Overvalued on GF Value™ as Dividend Growth Signals Stability",
-      "title_ko": "배당금 증가세가 안정성을 시사함에 따라 EBF는 GF Value™ 기준 7.0% 과대평가된 것으로 나타남",
-      "snippet": "On September 21, 2026, Ennis Inc (NYSE: EBF) released its second-quarter earnings report, highlighting steady revenue growth and a modest dividend increase. The",
-      "snippet_ko": "2026년 9월 21일, 에니스(Ennis Inc, NYSE: EBF)는 2분기 실적 보고서를 발표하며 꾸준한 매출 성장과 소폭의 배당금 인상을 강조했습니다. 이",
-      "symbol": "",
-      "sentiment_score": 0.7866,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9089552/ebf-looks-70-overvalued-on-gf-value-as-dividend-growth-signals-stability",
-      "cross_verified": true,
-      "published_at": "2026-09-21T11:58:45.000000Z"
-    },
-    {
-      "title": "EBF Looks 7.0% Overvalued on GF Value™ Amid Dividend Increase",
-      "title_ko": "배당금 증액 속에 EBF, GF Value™ 기준 7.0% 고평가된 것으로 나타남",
-      "snippet": "On September 21, 2026, Ennis Inc (NYSE: EBF) announced a quarterly dividend increase to $0.2625 per share, a 5% rise from the previous $0.25 dividend. This mark",
-      "snippet_ko": "2026년 9월 21일, Ennis Inc(NYSE: EBF)는 분기 배당금을 주당 0.2625달러로 인상한다고 발표했는데, 이는 기존 배당금인 0.25달러보다 5% 상승한 수준이다. 이번 조치는",
-      "symbol": "",
-      "sentiment_score": 0.7314,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9089551/ebf-looks-70-overvalued-on-gf-value-amid-dividend-increase",
-      "cross_verified": true,
-      "published_at": "2026-09-21T11:58:23.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Apple set to sell 6 million iPhone Duos in 2026: Counterpoint Research",
+      "title_ko": "카운터포인트 리서치, “애플, 2026년에 아이폰 듀오 600만 대 판매할 전망”",
+      "snippet": "The figure, more typical of niche foldable segment than Apple's usual smartphone sales, is contingent on how well the company ramps up production of the new hardware, Counterpoint senior analyst said",
+      "snippet_ko": "카운터포인트의 수석 애널리스트는 “이 수치는 애플의 일반적인 스마트폰 판매량보다는 틈새 시장인 폴더블 스마트폰 부문에 더 전형적인 것으로, 애플이 신제품 하드웨어의 생산량을 얼마나 원활하게 확대하느냐에 달려 있다”고 말했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3906,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/technology/tech-news/apple-set-to-sell-6-million-iphone-duos-in-2026-counterpoint-research-126093000151_1.html",
+      "cross_verified": true,
+      "published_at": "2026-09-30T03:39:24.000000Z"
+    },
+    {
+      "title": "OpenAI eyes raising $30 billion in funding at $1.4 trillion valuation",
+      "title_ko": "오픈AI, 기업 가치 1.4조 달러 기준으로 300억 달러 자금 조달을 목표로 하고 있다",
+      "snippet": "The firm is seeking a valuation of around $1.4 trn, not including the money raised, said the people, potentially vaulting it back above longtime rival Anthropic's most recent private market valuation",
+      "snippet_ko": "이 소식통들에 따르면, 이 회사는 조달한 자금을 제외하고 약 1.4조 달러의 기업 가치를 목표로 하고 있으며, 이로 인해 오랜 경쟁사인 앤트로픽(Anthropic)의 최근 비상장 시장 기업 가치를 다시 넘어설 가능성이 있다고 전했다.",
+      "symbol": "META",
+      "sentiment_score": 0.5423,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/openai-eyes-raising-30-billion-in-funding-at-1-4-trillion-valuation-126093000147_1.html",
+      "cross_verified": true,
+      "published_at": "2026-09-30T03:34:23.000000Z"
+    },
+    {
+      "title": "Apple Pay Fee Fight Expands After Court Certifies Issuer Class Action",
+      "title_ko": "법원이 카드 발급사 집단소송을 인가함에 따라 애플 페이 수수료 논란 확대",
+      "snippet": "A federal court in California has cleared the way for a large group of U.S. card issuers to pursue antitrust claims against Apple (NASDAQ: AAPL) over fees",
+      "snippet_ko": "캘리포니아의 한 연방 법원이 다수의 미국 신용카드 발급사들이 수수료 문제를 놓고 애플(NASDAQ: AAPL)을 상대로 반독점 소송을 제기할 수 있는 길을 열어주었다.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.1655,
+      "source": "crowdfundinsider.com",
+      "url": "https://www.crowdfundinsider.com/2026/09/314042-apple-pay-fee-fight-expands-after-court-certifies-issuer-class-action/",
+      "cross_verified": true,
+      "published_at": "2026-09-30T03:28:25.000000Z"
+    },
     {
       "title": "Pyxis Oncology Announces Proposed Public Offering",
       "title_ko": "파이시스 온콜로지, 공모 계획 발표",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9090854/thrivent-financial-for-lutherans-trims-gloo-holdings-inc-gloo-stake-by-140",
       "cross_verified": true,
       "published_at": "2026-09-22T03:35:13.000000Z"
-    },
-    {
-      "title": "HRT Financial LP Trims Generation Income Properties Inc (GIPR) Stake -- Shares Trade 91% Below GF Value",
-      "title_ko": "HRT Financial LP, Generation Income Properties Inc(GIPR) 지분 축소 -- 주가, GF 가치 대비 91% 하락",
-      "snippet": "A Strategic Reduction in a Deep-Value REIT Position On Sept. 11, 2026, HRT Financial LP executed a reduction in its position in Generation Income Properties Inc",
-      "snippet_ko": "저평가된 REIT 포지션의 전략적 축소: 2026년 9월 11일, HRT Financial LP는 Generation Income Properties Inc에 대한 포지션을 축소했습니다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.8178,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9090851/hrt-financial-lp-trims-generation-income-properties-inc-gipr-stake-shares-trade-91-below-gf-value",
-      "cross_verified": true,
-      "published_at": "2026-09-22T03:33:31.000000Z"
-    },
-    {
-      "title": "META Looks 12.9% Undervalued on GF Value™ as Options Surge Signals Bullish Sentiment",
-      "title_ko": "GF Value™에 따르면 META는 12.9% 저평가된 것으로 나타나며, 옵션 거래량 급증은 강세 심리를 시사한다",
-      "snippet": "On September 21, 2026, Meta Platforms Inc (NASDAQ: META) experienced a notable surge in its share price, rising $83.20 or 12.51% to trade around $748.43. This s",
-      "snippet_ko": "2026년 9월 21일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)의 주가가 83.20달러(12.51%) 급등하며 748.43달러 선에서 거래되었습니다. 이 상승은",
-      "symbol": "META",
-      "sentiment_score": 0.5252,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9090433/meta-looks-129-undervalued-on-gf-value-as-options-surge-signals-bullish-sentiment",
-      "cross_verified": true,
-      "published_at": "2026-09-21T21:25:28.000000Z"
-    },
-    {
-      "title": "Apple settlement could mean a payout for some iPhone owners",
-      "title_ko": "애플과의 합의로 일부 아이폰 소유자들에게 보상금이 지급될 수 있다",
-      "snippet": "Apple customers who bought an iPhone 16 or iPhone 15 Pro may collect up to $95 per device from a $250 million class action settlement over Siri AI feature delays.",
-      "snippet_ko": "아이폰 16 또는 아이폰 15 프로를 구매한 애플 고객들은 시리(Siri) AI 기능 출시 지연과 관련해 2억 5천만 달러 규모의 집단소송 합의금에서 기기당 최대 95달러를 받을 수 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3483,
-      "source": "foxbusiness.com",
-      "url": "https://www.foxbusiness.com/technology/apple-settlement-could-mean-payout-some-iphone-owners",
-      "cross_verified": true,
-      "published_at": "2026-09-21T21:03:02.000000Z"
     }
   ]
 }
