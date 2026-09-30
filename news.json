@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-30T19:01:57.350280+00:00",
+  "updated_at": "2026-09-30T23:36:57.949041+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "A Look at Par Pacific Holdings Inc (PARR) After 4.2% Gain -- GF Value $43.60 vs Price $81.62",
+      "title_ko": "4.2% 상승한 파 파시픽 홀딩스(PARR) 분석 — GF 목표가 43.60달러 vs 현재 주가 81.62달러",
+      "snippet": "On September 30, 2026, Par Pacific Holdings Inc (PARR) shares rose 4.2% today, closing at $81.62. The stock has experienced significant volatility over the past",
+      "snippet_ko": "2026년 9월 30일, Par Pacific Holdings Inc(PARR)의 주가는 이날 4.2% 상승하여 81.62달러에 장을 마감했습니다. 이 주식은 지난",
+      "symbol": "",
+      "sentiment_score": 0.6748,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9104416/a-look-at-par-pacific-holdings-inc-parr-after-42-gain-gf-value-4360-vs-price-8162",
+      "cross_verified": true,
+      "published_at": "2026-09-30T23:29:22.000000Z"
+    },
+    {
+      "title": "Patterson-UTI Energy Inc (PTEN) Shares Surge 3.5% -- What GF Score of 64 Tells Investors",
+      "title_ko": "패터슨-UTI 에너지(PTEN) 주가 3.5% 급등 -- GF 점수 64점이 투자자들에게 시사하는 바",
+      "snippet": "On September 30, 2026, Patterson-UTI Energy Inc (PTEN) shares rose 3.5% to a current price of $10.92. The stock has experienced a 52-week range from $5.15 to $1",
+      "snippet_ko": "2026년 9월 30일, 패터슨-UTI 에너지(Patterson-UTI Energy Inc, PTEN)의 주가는 3.5% 상승하여 현재 10.92달러를 기록했습니다. 이 주식의 52주 등락폭은 5.15달러에서 1달러 사이였습니다.",
+      "symbol": "",
+      "sentiment_score": 0.5997,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9104415/pattersonuti-energy-inc-pten-shares-surge-35-what-gf-score-of-64-tells-investors",
+      "cross_verified": true,
+      "published_at": "2026-09-30T23:28:26.000000Z"
+    },
+    {
+      "title": "Alaska Air Group Inc (ALK) Stock Down 3.1% -- Now Undervalued? GF Score: 79/100",
+      "title_ko": "알래스카 에어 그룹(ALK) 주가 3.1% 하락… 현재 저평가된 상태인가? GF 점수: 79/100",
+      "snippet": "On September 30, 2026, Alaska Air Group Inc (ALK) shares fell by 3.1% to a current price of $38.70, continuing a downward trend over the past month with a decli",
+      "snippet_ko": "2026년 9월 30일, 알래스카 에어 그룹(ALK)의 주가는 3.1% 하락하여 현재 주가는 38.70달러를 기록했으며, 이는 지난 한 달 동안 이어져 온 하락세를 지속한 것으로, 하락폭은...",
+      "symbol": "",
+      "sentiment_score": 0.4365,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9104414/alaska-air-group-inc-alk-stock-down-31-now-undervalued-gf-score-79100",
+      "cross_verified": true,
+      "published_at": "2026-09-30T23:27:30.000000Z"
+    },
     {
       "title": "CEO Richard Moore Sells 23,343 Shares of First Bancorp (FBNC)",
       "title_ko": "리처드 무어 CEO, 퍼스트 뱅크코프(FBNC) 주식 23,343주 매도",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9092022/crh-maintained-at-buy-by-ubs-price-target-lowered-to-135",
       "cross_verified": true,
       "published_at": "2026-09-22T16:01:25.000000Z"
-    },
-    {
-      "title": "AI Needs More Electricity, And NextEra Is Building Ahead Of Demand (NYSE:NEE)",
-      "title_ko": "AI에는 더 많은 전력이 필요하며, 넥스트에라(NextEra)는 수요 증가에 대비해 발전 설비를 확충하고 있다 (NYSE:NEE)",
-      "snippet": "NextEra Energy remains a strong buy as surging AI power demand and solid execution expand its upside potential to a $150 target. Learn more about NEE stock here.",
-      "snippet_ko": "인공지능(AI) 관련 전력 수요의 급증과 탄탄한 실적 수행으로 넥스트에라 에너지(NextEra Energy)의 상승 여력이 150달러 목표가까지 확대됨에 따라, 이 종목은 여전히 강력한 매수 추천 대상입니다. NEE 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.7503,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4948566-ai-needs-more-electricity-and-nextera-stock-building-ahead-of-demand",
-      "cross_verified": true,
-      "published_at": "2026-09-22T11:00:36.000000Z"
-    },
-    {
-      "title": "J Looks 31.0% Overvalued on GF Value™",
-      "title_ko": "GF Value™에 따르면 J는 31.0% 과대평가된 것으로 나타났습니다.",
-      "snippet": "On September 22, 2026, Jacobs Solutions Inc (NYSE: J) announced it has secured a major contract with Germany's federal radioactive waste disposal entity to prov",
-      "snippet_ko": "2026년 9월 22일, 제이콥스 솔루션스(Jacobs Solutions Inc, NYSE: J)는 독일 연방 방사성 폐기물 처리 기관과 주요 계약을 체결했다고 발표하며, 이를 통해...",
-      "symbol": "",
-      "sentiment_score": 0.34,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9091243/j-looks-310-overvalued-on-gf-value",
-      "cross_verified": true,
-      "published_at": "2026-09-22T10:56:36.000000Z"
-    },
-    {
-      "title": "VICR Looks 228.1% Overvalued on GF Value™",
-      "title_ko": "GF Value™에 따르면 VICR은 228.1% 과대평가된 것으로 나타났습니다.",
-      "snippet": "On September 22, 2026, Vicor Corp (NASDAQ: VICR) shares surged 10% after the company raised its Q3 revenue forecast, now expecting more than 20% sequential grow",
-      "snippet_ko": "2026년 9월 22일, Vicor Corp(나스닥: VICR)은 3분기 매출 전망치를 상향 조정하고 전분기 대비 20% 이상의 성장을 예상함에 따라 주가가 10% 급등했다.",
-      "symbol": "",
-      "sentiment_score": 0.3508,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9091241/vicr-looks-2281-overvalued-on-gf-value",
-      "cross_verified": true,
-      "published_at": "2026-09-22T10:55:46.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Levi Strauss Names John Vandemore as CFO, LEVI Stock Shows Dividend Strength",
+      "title_ko": "리바이 스트라우스, 존 밴더모어를 최고재무책임자(CFO)로 임명… LEVI 주가, 배당 강세 보여",
+      "snippet": "On September 30, 2026, Levi Strauss & Co. (NYSE: LEVI) announced the appointment of John Vandemore as its new executive vice president and chief financial offic",
+      "snippet_ko": "2026년 9월 30일, Levi Strauss & Co. (NYSE: LEVI)는 존 밴더모어를 신임 부사장 겸 최고재무책임자(CFO)로 임명했다고 발표했다.",
+      "symbol": "DIS",
+      "sentiment_score": 0.3564,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9104370/levi-strauss-names-john-vandemore-as-cfo-levi-stock-shows-dividend-strength",
+      "cross_verified": true,
+      "published_at": "2026-09-30T23:01:55.000000Z"
+    },
+    {
+      "title": "Is MP Materials Corp (MP) Overvalued After 4.1% Rally? GF Value Says Overvalued",
+      "title_ko": "MP 머티리얼스(MP) 주가가 4.1% 급등한 후 과대평가된 것일까? GF 밸류는 과대평가됐다고 분석한다",
+      "snippet": "On September 30, 2026, MP Materials Corp (MP) shares rose 4.1% today, trading at $47.29. The stock has seen significant volatility over the past year, with a 52",
+      "snippet_ko": "2026년 9월 30일, MP 머티리얼스(MP)의 주가는 이날 4.1% 상승하여 47.29달러에 거래되었습니다. 이 주식은 지난 1년 동안 상당한 변동성을 보였으며, 52",
+      "symbol": "MP",
+      "sentiment_score": 0.3888,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9104310/is-mp-materials-corp-mp-overvalued-after-41-rally-gf-value-says-overvalued",
+      "cross_verified": true,
+      "published_at": "2026-09-30T22:51:13.000000Z"
+    },
+    {
+      "title": "Is DraftKings Inc (DKNG) a Bargain After 3.0% Drop? GF Value Says Undervalued",
+      "title_ko": "DraftKings Inc(DKNG)가 3.0% 하락한 지금 매수 기회일까? GF Value는 저평가되었다고 분석한다",
+      "snippet": "On September 30, 2026, DraftKings Inc (DKNG) shares fell 3.0% to a current price of $19.00. The stock has experienced significant volatility, with a 52-week ran",
+      "snippet_ko": "2026년 9월 30일, 드래프트킹스(DraftKings Inc, DKNG) 주가는 3.0% 하락하여 현재 주가는 19.00달러를 기록했습니다. 이 주식은 상당한 변동성을 보였으며, 52주 동안의 등락폭은",
+      "symbol": "DKNG",
+      "sentiment_score": 0.377,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9104306/is-draftkings-inc-dkng-a-bargain-after-30-drop-gf-value-says-undervalued",
+      "cross_verified": true,
+      "published_at": "2026-09-30T22:50:14.000000Z"
+    },
     {
       "title": "OpenAI Faces Stunning Lawsuit Over Rogue AI Agent",
       "title_ko": "OpenAI, 악성 AI 에이전트 문제로 충격적인 소송에 직면",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9092188/aapl-looks-191-overvalued-on-gf-value-as-insider-selling-persists",
       "cross_verified": true,
       "published_at": "2026-09-22T18:59:07.000000Z"
-    },
-    {
-      "title": "Meta Platforms Inc (META): GF Score of 97 Signals Strong Outperformance Potential",
-      "title_ko": "메타 플랫폼스(META): GF 점수 97점으로 강력한 초과수익 달성 가능성 시사",
-      "snippet": "Meta Platforms Inc (META) has recently drawn heightened interest from investors and financial analysts thanks to its robust financial stance. With shares curren",
-      "snippet_ko": "메타 플랫폼스(META)는 견실한 재무 건전성 덕분에 최근 투자자와 금융 애널리스트들의 관심을 더욱 끌고 있다. 현재 주가는",
-      "symbol": "META",
-      "sentiment_score": 0.6452,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9092014/meta-platforms-inc-meta-gf-score-of-97-signals-strong-outperformance-potential",
-      "cross_verified": true,
-      "published_at": "2026-09-22T16:00:26.000000Z"
-    },
-    {
-      "title": "AAPL Looks 18.6% Overvalued on GF Value™ as Insider Selling Persists",
-      "title_ko": "내부자 매도가 지속되는 가운데, GF Value™ 기준 AAPL은 18.6% 과대평가된 것으로 보인다",
-      "snippet": "On September 22, 2026, Andreessen Horowitz announced the launch of the Horowitz Andreessen Academy in San Francisco, a pioneering educational initiative focused",
-      "snippet_ko": "2026년 9월 22일, 안드레센 호로위츠는 샌프란시스코에 ‘호로위츠 안드레센 아카데미’를 설립한다고 발표했는데, 이는 다음과 같은 분야에 초점을 맞춘 선구적인 교육 프로젝트입니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.5675,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9091994/aapl-looks-186-overvalued-on-gf-value-as-insider-selling-persists",
-      "cross_verified": true,
-      "published_at": "2026-09-22T15:58:51.000000Z"
-    },
-    {
-      "title": "Meta (META) Maintains Buy Rating with $820 Target Amid Muse Growth",
-      "title_ko": "메타(META), ‘뮤즈’ 성장세에 힘입어 ‘매수’ 등급 유지…목표주가 820달러",
-      "snippet": "On September 22, 2026, JPMorgan reiterated its \"Overweight\" rating on Meta Platforms Inc (META), setting a target price of $820. The firm believes that the laun",
-      "snippet_ko": "2026년 9월 22일, JPMorgan은 Meta Platforms Inc(META)에 대한 ‘Overweight’ 투자의견을 재확인하며 목표주가를 820달러로 제시했다. 이 기관은 이번 출시가",
-      "symbol": "META",
-      "sentiment_score": 0.3696,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9091970/meta-meta-maintains-buy-rating-with-820-target-amid-muse-growth",
-      "cross_verified": true,
-      "published_at": "2026-09-22T15:30:46.000000Z"
     }
   ]
 }
