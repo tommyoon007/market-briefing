@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-30T12:20:23.137632+00:00",
+  "updated_at": "2026-09-30T19:01:57.350280+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "CEO Richard Moore Sells 23,343 Shares of First Bancorp (FBNC)",
+      "title_ko": "리처드 무어 CEO, 퍼스트 뱅크코프(FBNC) 주식 23,343주 매도",
+      "snippet": "In a recent regulatory disclosure, Richard Moore, Chief Executive Officer of First Bancorp (FBNC), reported the sale of 23,343 shares of the company's common st",
+      "snippet_ko": "최근 규제 당국에 제출한 공시에서 퍼스트 뱅크코프(FBNC)의 리처드 무어 최고경영자(CEO)는 자사 보통주 23,343주를 매도했다고 보고했다.",
+      "symbol": "",
+      "sentiment_score": 0.3182,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9103984/ceo-richard-moore-sells-23343-shares-of-first-bancorp-fbnc",
+      "cross_verified": true,
+      "published_at": "2026-09-30T19:00:19.000000Z"
+    },
+    {
+      "title": "Delaware Court Ruling Boosts MannKind (MNKD) Outlook Amid Liquidia Patent Dispute",
+      "title_ko": "리퀴디아와의 특허 분쟁 속, 델라웨어 법원 판결로 맨킨드(MNKD)의 전망이 밝아졌다",
+      "snippet": "On September 30, 2026, a Delaware court ruled that Liquidia's Yutrepia infringes on United Therapeutics' patent, a decision that negatively impacted Liquidia's",
+      "snippet_ko": "2026년 9월 30일, 델라웨어 주 법원은 리퀴디아(Liquidia)의 ‘유트레피아(Yutrepia)’가 유나이티드 테라퓨틱스(United Therapeutics)의 특허를 침해한다고 판결했으며, 이 판결은 리퀴디아에 부정적인 영향을 미쳤다.",
+      "symbol": "",
+      "sentiment_score": 0.2823,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9103957/delaware-court-ruling-boosts-mannkind-mnkd-outlook-amid-liquidia-patent-dispute",
+      "cross_verified": true,
+      "published_at": "2026-09-30T18:25:48.000000Z"
+    },
+    {
+      "title": "SEC Settlement with Travel+Leisure Co (TNL) Highlights Regulatory Challenges Amid Dividend Strength",
+      "title_ko": "SEC와 트래블+레저(TNL) 간의 합의, 배당 실적 호조 속 규제 과제를 부각시키다",
+      "snippet": "On September 30, 2026, the Securities and Exchange Commission (SEC) announced a settlement with Travel+Leisure Co (NYSE: TNL) concerning allegations of misstate",
+      "snippet_ko": "2026년 9월 30일, 미국 증권거래위원회(SEC)는 Travel+Leisure Co(NYSE: TNL)가 재무제표를 허위로 기재했다는 혐의와 관련해 해당 기업과 합의에 도달했다고 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.3758,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9103956/sec-settlement-with-travelleisure-co-tnl-highlights-regulatory-challenges-amid-dividend-strength",
+      "cross_verified": true,
+      "published_at": "2026-09-30T18:25:27.000000Z"
+    },
     {
       "title": "AI is giving CFOs a bigger slice of the C-suite, new IBM data shows",
       "title_ko": "IBM의 새로운 데이터에 따르면, AI 덕분에 CFO들이 최고경영진 내에서 차지하는 비중이 커지고 있다",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9091241/vicr-looks-2281-overvalued-on-gf-value",
       "cross_verified": true,
       "published_at": "2026-09-22T10:55:46.000000Z"
-    },
-    {
-      "title": "US Explores Potash Supply from Belarus Amid Canada Trade Tensions (NTR)",
-      "title_ko": "캐나다와의 무역 긴장 속에서 미국, 벨라루스산 칼륨 공급 모색 (NTR)",
-      "snippet": "On September 21, 2026, amid escalating trade disputes with Canada, U.S. President Donald Trump announced that the U.S. is negotiating a significant agreement wi",
-      "snippet_ko": "2026년 9월 21일, 캐나다와의 무역 분쟁이 격화되는 가운데, 도널드 트럼프 미국 대통령은 미국이 캐나다와 중대한 협정을 협상 중이라고 발표했으며,",
-      "symbol": "",
-      "sentiment_score": 0.5048,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9090857/us-explores-potash-supply-from-belarus-amid-canada-trade-tensions-ntr",
-      "cross_verified": true,
-      "published_at": "2026-09-22T03:50:34.000000Z"
-    },
-    {
-      "title": "MEITAV INVESTMENT HOUSE LTD Trims Nayax Ltd (NYAX) Stake -- Shares Look 18% Undervalued on GF Value",
-      "title_ko": "MEITAV INVESTMENT HOUSE LTD, Nayax Ltd(NYAX) 지분 축소 -- GF Value 기준 주가, 18% 저평가된 것으로 분석",
-      "snippet": "A Minor Portfolio Adjustment in Nayax Ltd MEITAV INVESTMENT HOUSE LTD (Trades, Portfolio) disclosed a modest reduction in its position in Nayax Ltd (NYAX) on 20",
-      "snippet_ko": "Nayax Ltd에 대한 소폭의 포트폴리오 조정 MEITAV INVESTMENT HOUSE LTD (거래 내역, 포트폴리오)는 20일 Nayax Ltd(NYAX)에 대한 보유 지분을 소폭 줄였다고 밝혔다.",
-      "symbol": "",
-      "sentiment_score": 0.7375,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9090856/meitav-investment-house-ltd-trims-nayax-ltd-nyax-stake-shares-look-18-undervalued-on-gf-value",
-      "cross_verified": true,
-      "published_at": "2026-09-22T03:36:07.000000Z"
-    },
-    {
-      "title": "TOMZ Looks 80.1% Undervalued on GF Value™ Despite Financial Struggles",
-      "title_ko": "TOMZ, 재정적 어려움에도 불구하고 GF Value™ 기준 80.1% 저평가된 것으로 분석",
-      "snippet": "On September 21, 2026, TOMI Environmental Solutions Inc (NASDAQ: TOMZ) announced the cancellation of its merger agreement with Carbonium Core, a deal initially",
-      "snippet_ko": "2026년 9월 21일, TOMI Environmental Solutions Inc(나스닥: TOMZ)는 Carbonium Core와의 합병 계약 취소를 발표했는데, 이 거래는 당초",
-      "symbol": "",
-      "sentiment_score": 0.3688,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9090541/tomz-looks-801-undervalued-on-gf-value-despite-financial-struggles",
-      "cross_verified": true,
-      "published_at": "2026-09-21T22:26:46.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "OpenAI Faces Stunning Lawsuit Over Rogue AI Agent",
+      "title_ko": "OpenAI, 악성 AI 에이전트 문제로 충격적인 소송에 직면",
+      "snippet": "Microsoft-backed (MSFT) OpenAI is facing fresh legal scrutiny after a California nonprofit sued the ChatGPT maker over allegations that hundreds of its autonomo",
+      "snippet_ko": "마이크로소프트(MSFT)가 지원하는 오픈AI(OpenAI)가 캘리포니아의 한 비영리 단체로부터 소송을 당하며 새로운 법적 조사에 직면했다. 이 단체는 오픈AI가 수백 명의 자율...",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3716,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9103211/openai-faces-stunning-lawsuit-over-rogue-ai-agent",
+      "cross_verified": true,
+      "published_at": "2026-09-30T18:05:43.000000Z"
+    },
+    {
+      "title": "Anthropic IPO Reveals Unexpected AI Industry Problem",
+      "title_ko": "앤트로픽의 기업공개(IPO), AI 업계의 예상치 못한 문제점 드러내",
+      "snippet": "Anthropic's (ANTHRO) planned initial public offering is exposing a major vulnerability in its rapidly expanding AI business: nearly half its revenue depends on",
+      "snippet_ko": "앤트로픽(ANTHRO)의 예정된 기업공개(IPO)는 급속히 확장 중인 이 회사의 AI 사업에서 중대한 취약점을 드러내고 있다. 매출의 거의 절반이",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.1268,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9103044/anthropic-ipo-reveals-unexpected-ai-industry-problem",
+      "cross_verified": true,
+      "published_at": "2026-09-30T18:01:56.000000Z"
+    },
+    {
+      "title": "Bill Gates Sends Stark AI Warning to All Americans",
+      "title_ko": "빌 게이츠, 모든 미국인에게 AI에 대한 강력한 경고를 보내다",
+      "snippet": "Microsoft (MSFT) co-founder Bill Gates has issued a stark warning about artificial intelligence, arguing that governments urgently need to establish an oversigh",
+      "snippet_ko": "마이크로소프트(MSFT)의 공동 창업자 빌 게이츠는 인공지능에 대해 엄중한 경고를 내리며, 각국 정부가 시급히 감독 체계를 마련해야 한다고 주장했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.0,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9103033/bill-gates-sends-stark-ai-warning-to-all-americans",
+      "cross_verified": true,
+      "published_at": "2026-09-30T17:59:10.000000Z"
+    },
     {
       "title": "First Trust NASDAQ-100 Tech (QTEC) Sells $4.9 Million More Intel on Sept. 28",
       "title_ko": "퍼스트 트러스트 나스닥-100 테크(QTEC), 9월 28일 인텔 주식 490만 달러어치 추가 매도",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9091970/meta-meta-maintains-buy-rating-with-820-target-amid-muse-growth",
       "cross_verified": true,
       "published_at": "2026-09-22T15:30:46.000000Z"
-    },
-    {
-      "title": "Arch Capital Group Ltd. at Bank of America Global Research Financials CEO Conference Transcript",
-      "title_ko": "뱅크 오브 아메리카 글로벌 리서치 금융업 CEO 컨퍼런스에서 아치 캐피털 그룹(Arch Capital Group Ltd.) 발표 전문",
-      "snippet": "Refinitiv StreetEvents Event TranscriptE D I T E D V E R S I O NACGL.OQ - Arch Capital Group Ltd.Arch Capital Group Ltd. at Bank of America Global Research Fi",
-      "snippet_ko": "Refinitiv StreetEvents 행사 기록 (편집본) ACGL.OQ - 아치 캐피탈 그룹(Arch Capital Group Ltd.) 아치 캐피탈 그룹(Arch Capital Group Ltd.), 뱅크 오브 아메리카 글로벌 리서치(Bank of America Global Research)에서",
-      "symbol": "V",
-      "sentiment_score": 0.1553,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9092021/arch-capital-group-ltd-at-bank-of-america-global-research-financials-ceo-conference-transcript",
-      "cross_verified": true,
-      "published_at": "2026-09-22T16:01:23.000000Z"
-    },
-    {
-      "title": "AAPL Looks 18.2% Overvalued on GF Value™ as Insider Selling Persists",
-      "title_ko": "내부자 매도가 지속되는 가운데, GF Value™ 기준 AAPL은 18.2% 과대평가된 것으로 나타남",
-      "snippet": "On September 22, 2026, Goldman Sachs projected a 13.7% rise in the S&P 500 over the next year, setting a target of 8,700 from the current 7,651. The firm also e",
-      "snippet_ko": "2026년 9월 22일, 골드만삭스는 향후 1년 동안 S&P 500 지수가 13.7% 상승할 것으로 전망하며, 현재 7,651에서 8,700까지 오를 것으로 예상했다. 또한 이 회사는 e",
-      "symbol": "AAPL",
-      "sentiment_score": 0.5251,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9091240/aapl-looks-182-overvalued-on-gf-value-as-insider-selling-persists",
-      "cross_verified": true,
-      "published_at": "2026-09-22T10:55:25.000000Z"
-    },
-    {
-      "title": "Wall Street Breakfast Podcast: Tech Rally Takes A Breath",
-      "title_ko": "월스트리트 브렉퍼스트 팟캐스트: 기술주 상승세가 잠시 주춤",
-      "snippet": "Can Monday’s rally survive Tuesday’s quiet open? McDonald's is testing a new item on the menu: ads. CarMax cuts jobs again as the used-car market refuses to shift gears.",
-      "snippet_ko": "월요일의 상승세가 화요일의 침체된 개장 속에서도 이어질 수 있을까? 맥도날드가 메뉴에 새로운 항목을 추가해 시험 중인데, 바로 ‘광고’다. 중고차 시장이 회복 기미를 보이지 않자 카맥스가 다시 한 번 인력을 감축했다.",
-      "symbol": "AAPL",
-      "sentiment_score": -0.0071,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4948570-wall-street-breakfast-podcast-tech-rally-takes-a-breath",
-      "cross_verified": true,
-      "published_at": "2026-09-22T10:15:00.000000Z"
     }
   ]
 }
