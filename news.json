@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-30T05:05:24.962132+00:00",
+  "updated_at": "2026-09-30T12:20:23.137632+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "AI is giving CFOs a bigger slice of the C-suite, new IBM data shows",
+      "title_ko": "IBM의 새로운 데이터에 따르면, AI 덕분에 CFO들이 최고경영진 내에서 차지하는 비중이 커지고 있다",
+      "snippet": "Jim Kavanaugh, IBM’s CFO and SVP of finance and operations, says AI is shifting CFOs from “guardians of stability” to “agents of transformation.”",
+      "snippet_ko": "IBM의 최고재무책임자(CFO)이자 재무·운영 담당 수석부사장인 짐 카바노는 AI 덕분에 CFO들이 “안정성의 수호자”에서 “변혁의 주체”로 변모하고 있다고 말했다.",
+      "symbol": "",
+      "sentiment_score": 0.134,
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/09/30/ai-giving-cfo-bigger-slice-c-suite-new-ibm-data-shows/",
+      "cross_verified": true,
+      "published_at": "2026-09-30T11:35:50.000000Z"
+    },
+    {
+      "title": "Micron earnings hit Wall Street after the bell. Here's how traders are positioned into the report",
+      "title_ko": "마이크론의 실적 발표가 장 마감 후 월스트리트에 영향을 미쳤다. 트레이더들이 이번 실적 발표를 앞두고 어떤 포지션을 취하고 있는지 살펴보자.",
+      "snippet": "In the near term, the market needs to get through Micron earnings. The good news is options traders think it could be a slam dunk.",
+      "snippet_ko": "단기적으로는 시장이 마이크론의 실적 발표를 무사히 넘겨야 합니다. 다행인 점은 옵션 거래자들이 이번 실적 발표가 아주 수월할 것이라고 보고 있다는 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/30/micron-earnings-hit-wall-street-after-the-bell-heres-how-traders-are-positioned-into-the-report.html",
+      "cross_verified": true,
+      "published_at": "2026-09-30T11:34:45.000000Z"
+    },
+    {
+      "title": "DXP Enterprises Signals Sustainable 12.2% Adjusted EBITDA Margin, Case For Rerating",
+      "title_ko": "DXP 엔터프라이즈, 12.2%의 견실한 조정 EBITDA 마진 기록… 주가 재평가 근거 제시",
+      "snippet": "DXP Enterprises is executing a successful roll-up strategy, driving structural margin expansion and warranting a valuation rerating. I rate DXPE stock as Strong Buy.",
+      "snippet_ko": "DXP 엔터프라이즈는 성공적인 롤업 전략을 추진하며 구조적인 마진 확대를 이끌고 있어, 기업 가치 재평가가 정당화됩니다. 저는 DXPE 주식을 ‘강력 매수’로 평가합니다.",
+      "symbol": "",
+      "sentiment_score": 0.3891,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4950896-dxp-enterprises-stock-signals-sustainable-12-2-percent-adjusted-ebitda-margin-boosting-case-for-rerating",
+      "cross_verified": true,
+      "published_at": "2026-09-30T11:30:30.000000Z"
+    },
     {
       "title": "MongoDB, Inc. (MDB) Analyst/Investor Day - Slideshow (NASDAQ:MDB) 2026-09-30",
       "title_ko": "MongoDB, Inc. (MDB) 애널리스트/투자자 설명회 - 슬라이드쇼 (NASDAQ:MDB) 2026-09-30",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9090541/tomz-looks-801-undervalued-on-gf-value-despite-financial-struggles",
       "cross_verified": true,
       "published_at": "2026-09-21T22:26:46.000000Z"
-    },
-    {
-      "title": "DIA Looks 9.8% Overvalued on GF Value™ as Dividend Sustainability Remains Key",
-      "title_ko": "DIA, GF Value™ 기준 9.8% 과대평가된 것으로 나타나… 배당 지속 가능성이 여전히 핵심 요인으로 부각",
-      "snippet": "On September 21, 2026, U.S. markets rallied with the Dow Jones Industrial Average climbing 0.7%, buoyed by hopes for easing U.S.-China trade tensions and ongoin",
-      "snippet_ko": "2026년 9월 21일, 미-중 무역 긴장 완화 기대감과 지속적인...에 힘입어 미국 증시가 상승세를 보였으며, 다우존스 산업평균지수는 0.7% 상승했다.",
-      "symbol": "",
-      "sentiment_score": 0.7845,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9090457/dia-looks-98-overvalued-on-gf-value-as-dividend-sustainability-remains-key",
-      "cross_verified": true,
-      "published_at": "2026-09-21T21:58:13.000000Z"
-    },
-    {
-      "title": "Hitachi: Still Positive With Data Center Opportunity And Capacity Expansion Plans (HTHIY)",
-      "title_ko": "히타치: 데이터 센터 성장 기회와 용량 확장 계획에 여전히 긍정적 전망 (HTHIY)",
-      "snippet": "Hitachi, Ltd. remains a Buy as it places a greater focus on high-potential AI-driven data center and transformer markets. Read more on HTHIY stock here.",
-      "snippet_ko": "히타치(Hitachi, Ltd.)는 성장 잠재력이 높은 AI 기반 데이터 센터 및 트랜스포머 시장에 더욱 집중하고 있어 ‘매수’ 추천을 유지합니다. HTHIY 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.6924,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4948446-hitachi-still-positive-with-data-center-opportunity-and-capacity-expansion-plans",
-      "cross_verified": true,
-      "published_at": "2026-09-21T21:52:02.000000Z"
-    },
-    {
-      "title": "Vista Gold Corp. (VGZ) M&A Call Prepared Remarks Transcript",
-      "title_ko": "Vista Gold Corp. (VGZ) M&A 컨퍼런스 콜 사전 준비 발언 전문",
-      "snippet": "Vista Gold Corp. (VGZ) M&A Call September 21, 2026 12:00 PM EDTCompany ParticipantsPamela Solly - Vice President of Investor RelationsFrederick H.",
-      "snippet_ko": "Vista Gold Corp. (VGZ) M&A 설명회 2026년 9월 21일 오후 12:00 (EDT) 회사 참가자: 파멜라 솔리 - 투자자 관계 부사장, 프레더릭 H.",
-      "symbol": "",
-      "sentiment_score": 0.4633,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4948388-vista-gold-corp-vgz-m-and-a-call-prepared-remarks-transcript",
-      "cross_verified": true,
-      "published_at": "2026-09-21T18:28:48.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "First Trust NASDAQ-100 Tech (QTEC) Sells $4.9 Million More Intel on Sept. 28",
+      "title_ko": "퍼스트 트러스트 나스닥-100 테크(QTEC), 9월 28일 인텔 주식 490만 달러어치 추가 매도",
+      "snippet": "First Trust NASDAQ-100 Technology Sector Index Fd (QTEC) continued a recent trend of trimming its holdings on Monday, selling $159.6 million in stocks and makin",
+      "snippet_ko": "퍼스트 트러스트 나스닥-100 기술 부문 지수 펀드(QTEC)는 월요일에도 최근 이어져 온 보유 자산 축소 추세를 이어가며, 1억 5,960만 달러 상당의 주식을 매도하고",
+      "symbol": "META",
+      "sentiment_score": 0.2415,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9103027/first-trust-nasdaq100-tech-qtec-sells-49-million-more-intel-on-sept-28",
+      "cross_verified": true,
+      "published_at": "2026-09-30T11:04:00.000000Z"
+    },
+    {
+      "title": "JPMorgan Hedged Equity ETF (HELO) Adds Intel and Thermo Fisher on Monday",
+      "title_ko": "JPMorgan 헤지 주식 ETF(HELO), 월요일 인텔과 써모 피셔를 편입",
+      "snippet": "JPMorgan Hedged Equity Laddered Overlay ETF (HELO) was one of the ETFs buying on Monday, with 18 positions increased and 12 decreased. The fund's ETF activity r",
+      "snippet_ko": "JPMorgan 헤지 주식 래더드 오버레이 ETF(HELO)는 월요일에 매수세를 보인 ETF 중 하나로, 18개 종목의 보유 비중을 늘리고 12개 종목은 줄였습니다. 이 펀드의 ETF 거래 내역은",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2414,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9103026/jpmorgan-hedged-equity-etf-helo-adds-intel-and-thermo-fisher-on-monday",
+      "cross_verified": true,
+      "published_at": "2026-09-30T11:03:54.000000Z"
+    },
+    {
+      "title": "Technology Select Sector SPDR ETF (XLK) Sells NVIDIA and Apple on Sept. 28",
+      "title_ko": "테크놀로지 셀렉트 섹터 SPDR ETF(XLK), 9월 28일 엔비디아와 애플 지분 매도",
+      "snippet": "State Street Technology Select Sector SPDR ETF (XLK) reported a net outflow of $165.9 million on Monday, Sept. 28, with no stocks bought and 73 positions decrea",
+      "snippet_ko": "스테이트 스트리트 테크놀로지 셀렉트 섹터 SPDR ETF(XLK)는 9월 28일 월요일 1억 6,590만 달러의 순유출을 기록했으며, 신규 매수 종목은 없었고 73개 종목의 보유 비중이 감소했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3535,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9103024/technology-select-sector-spdr-etf-xlk-sells-nvidia-and-apple-on-sept-28",
+      "cross_verified": true,
+      "published_at": "2026-09-30T11:03:41.000000Z"
+    },
     {
       "title": "Apple set to sell 6 million iPhone Duos in 2026: Counterpoint Research",
       "title_ko": "카운터포인트 리서치, “애플, 2026년에 아이폰 듀오 600만 대 판매할 전망”",
@@ -2367,42 +2403,6 @@
       "url": "https://seekingalpha.com/article/4948570-wall-street-breakfast-podcast-tech-rally-takes-a-breath",
       "cross_verified": true,
       "published_at": "2026-09-22T10:15:00.000000Z"
-    },
-    {
-      "title": "Coca-Cola and Zepto Turn Spain's FIFA World Cup Victory Into a collectible Piece of History",
-      "title_ko": "코카콜라와 제프토, 스페인의 FIFA 월드컵 우승을 기념할 만한 역사적 소장품으로 탄생시키다",
-      "snippet": "Coca-Cola and Zepto Turn Spain's FIFA World Cup Victory Into a collectible Piece of History",
-      "snippet_ko": "코카콜라와 제프토, 스페인의 FIFA 월드컵 우승을 소장용 역사적 기념품으로 탄생시키다",
-      "symbol": "KO",
-      "sentiment_score": 0.0953,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/coca-cola-and-zepto-turn-spains-fifa-world-cup-victory-into-a-collectible-piece-of-history/article71495013.ece",
-      "cross_verified": true,
-      "published_at": "2026-09-22T10:07:25.000000Z"
-    },
-    {
-      "title": "AI trade roars back as Meta’s personal agent fuels optimism",
-      "title_ko": "메타의 개인 비서가 낙관론을 부추기며 AI 거래가 다시 활기를 띠고 있다",
-      "snippet": "AI stocks surge as Meta's personal agent boosts optimism, driving gains for chipmakers and revitalizing the tech sector.",
-      "snippet_ko": "메타의 개인 비서 서비스가 시장 낙관론을 부추기면서 AI 관련 주가가 급등했고, 이로 인해 반도체 업체들의 주가가 상승하며 기술주 전반에 활기를 불어넣고 있다.",
-      "symbol": "META",
-      "sentiment_score": 0.802,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/markets/ai-trade-roars-back-as-metas-personal-agent-fuels-optimism/article71494034.ece",
-      "cross_verified": true,
-      "published_at": "2026-09-22T03:38:26.000000Z"
-    },
-    {
-      "title": "Thrivent Financial for Lutherans Trims Gloo Holdings Inc (GLOO) Stake by 1.40%",
-      "title_ko": "루터교인을 위한 쓰리벤트 파이낸셜(Thrivent Financial for Lutherans), 글루 홀딩스(Gloo Holdings Inc, GLOO) 지분 1.40% 축소",
-      "snippet": "A Modest Reduction in a Recently Public Name On Sept. 15, 2026, Thrivent Financial for Lutherans (Trades, Portfolio) executed a sale of 57,000 shares of Gloo Ho",
-      "snippet_ko": "최근 주목받던 기업의 주가가 소폭 하락 2026년 9월 15일, Thrivent Financial for Lutherans(거래, 포트폴리오)는 Gloo Ho 주식 57,000주를 매각했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3612,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9090854/thrivent-financial-for-lutherans-trims-gloo-holdings-inc-gloo-stake-by-140",
-      "cross_verified": true,
-      "published_at": "2026-09-22T03:35:13.000000Z"
     }
   ]
 }
