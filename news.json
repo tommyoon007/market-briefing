@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-01T05:19:41.846503+00:00",
+  "updated_at": "2026-10-01T12:53:10.129047+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Nouveau Monde Graphite (NMG) to Settle Q3 2026 Interest via Share Issuance",
+      "title_ko": "누보 몽드 그래파이트(NMG), 2026년 3분기 이자금을 주식 발행으로 정산할 예정",
+      "snippet": "On October 01, 2026, Nouveau Monde Graphite Inc (NMG) announced it will settle accrued interest owed to Investissement Quebec by issuing 283,265 common shares p",
+      "snippet_ko": "2026년 10월 1일, 누보 몽드 그래파이트(Nouveau Monde Graphite Inc, NMG)는 인베스티스망 퀘벡(Investissement Quebec)에 지급해야 할 미지급 이자를 283,265주의 보통주를 발행하여 상환할 것이라고 발표했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.3187,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9105286/nouveau-monde-graphite-nmg-to-settle-q3-2026-interest-via-share-issuance",
+      "cross_verified": true,
+      "published_at": "2026-10-01T12:26:46.000000Z"
+    },
+    {
+      "title": "Monte Rosa Therapeutics (GLUE) Reports Promising Phase 1 Results for MRT-8102 Targeting Inflammatory Disorders",
+      "title_ko": "몬테 로사 테라퓨틱스(GLUE), 염증성 질환을 표적으로 하는 MRT-8102의 유망한 1상 임상시험 결과 발표",
+      "snippet": "On October 01, 2026, Monte Rosa Therapeutics Inc (NASDAQ: GLUE) announced encouraging data from its Phase 1 clinical trial GFORCE-1 evaluating MRT-8102, a novel",
+      "snippet_ko": "2026년 10월 1일, 몬테 로사 테라퓨틱스(Monte Rosa Therapeutics Inc, 나스닥: GLUE)는 신약 MRT-8102를 평가하는 1상 임상시험 ‘GFORCE-1’에서 고무적인 결과를 발표했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.2205,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9105285/monte-rosa-therapeutics-glue-reports-promising-phase-1-results-for-mrt8102-targeting-inflammatory-disorders",
+      "cross_verified": true,
+      "published_at": "2026-10-01T12:26:21.000000Z"
+    },
+    {
+      "title": "Chesapeake Utilities (CPK) Launches $225M At-The-Market Equity Offering Program",
+      "title_ko": "체서피크 유틸리티(CPK), 2억 2,500만 달러 규모의 ‘앳-더-마켓’ 주식 발행 프로그램 시행",
+      "snippet": "On October 01, 2026, Chesapeake Utilities Corp (NYSE: CPK) announced the initiation of an at-the-market equity offering program that could raise up to $225 mill",
+      "snippet_ko": "2026년 10월 1일, 체서피크 유틸리티스(Chesapeake Utilities Corp, NYSE: CPK)는 최대 2억 2,500만 달러를 조달할 수 있는 ‘앳-더-마켓(at-the-market)’ 주식 발행 프로그램의 개시를 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.3493,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9105283/chesapeake-utilities-cpk-launches-225m-atthemarket-equity-offering-program",
+      "cross_verified": true,
+      "published_at": "2026-10-01T12:25:26.000000Z"
+    },
     {
       "title": "KMX SWOT Analysis: Financial Strengths and Growth Opportunities Revealed in 10-Q Filing",
       "title_ko": "KMX SWOT 분석: 10-Q 제출 자료를 통해 드러난 재무적 강점과 성장 기회",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9092527/sirius-xm-holdings-inc-siri-shares-fall-33-what-gf-score-of-71-tells-investors",
       "cross_verified": true,
       "published_at": "2026-09-22T23:27:32.000000Z"
-    },
-    {
-      "title": "DLR Looks 0.6% Overvalued on GF Value™",
-      "title_ko": "GF Value™에 따르면 DLR은 0.6% 과대평가된 것으로 보인다",
-      "snippet": "On September 22, 2026, Digital Realty Trust Inc (NYSE: DLR) announced plans to build a new cable landing station at its LAX12 data center in Los Angeles, partne",
-      "snippet_ko": "2026년 9월 22일, 디지털 리얼티 트러스트(Digital Realty Trust Inc, NYSE: DLR)는 로스앤젤레스에 위치한 자사의 LAX12 데이터 센터 내에 새로운 케이블 상륙 기지를 건설할 계획을 발표했으며, 파트너...",
-      "symbol": "",
-      "sentiment_score": 0.4359,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9092525/dlr-looks-06-overvalued-on-gf-value",
-      "cross_verified": true,
-      "published_at": "2026-09-22T23:25:49.000000Z"
-    },
-    {
-      "title": "Smiths Group PLC (SMGKF) (FY 2026) Earnings Call Highlights: Margin Expansion, DRC Integration, and a Leaner Industrial Focus",
-      "title_ko": "스미스 그룹 PLC (SMGKF) (2026 회계연도) 실적 발표 주요 내용: 마진 확대, DRC 통합, 그리고 산업 부문의 효율화",
-      "snippet": "Organic Revenue Growth: 1.2% to £1.9 billion for continuing operations (Smiths).Headline Operating Profit: Up 1.9% organically to £399 million.Headline Operat",
-      "snippet_ko": "핵심 매출 성장률: 계속 사업 부문 기준 1.2% 증가하여 19억 파운드 기록 (Smiths). 핵심 영업이익: 유기적 성장률 1.9% 증가하여 3억 9,900만 파운드 기록. 핵심 영업",
-      "symbol": "",
-      "sentiment_score": 0.1903,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9092286/smiths-group-plc-smgkf-fy-2026-earnings-call-highlights-margin-expansion-drc-integration-and-a-leaner-industrial-focus",
-      "cross_verified": true,
-      "published_at": "2026-09-22T21:00:23.000000Z"
-    },
-    {
-      "title": "BCB Bancorp (BCBP) CEO Thomas Obrien Buys 160,000 Shares in Open-Market Purchase",
-      "title_ko": "BCB Bancorp(BCBP)의 토마스 오브라이언 CEO, 공개 시장에서 주식 16만 주 매입",
-      "snippet": "In a notable display of insider confidence, Thomas Obrien, Chief Executive Officer of BCB Bancorp Inc (BCBP), purchased 160,000 shares of the company's common s",
-      "snippet_ko": "내부자의 확고한 자신감을 보여주는 주목할 만한 사례로, BCB Bancorp Inc(BCBP)의 최고경영자(CEO)인 토마스 오브라이언이 자사 보통주 16만 주를 매수했다.",
-      "symbol": "",
-      "sentiment_score": 0.4564,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9092285/bcb-bancorp-bcbp-ceo-thomas-obrien-buys-160000-shares-in-openmarket-purchase",
-      "cross_verified": true,
-      "published_at": "2026-09-22T21:00:22.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Disney (DIS) Expands Cruise Fleet with Two New Ships, Boosting Capacity by 50%",
+      "title_ko": "디즈니(DIS), 신규 선박 2척을 추가해 크루즈 선단을 확장하며 수용 인원을 50% 늘렸다",
+      "snippet": "On October 01, 2026, The Walt Disney Company (NYSE: DIS) announced the launch of two new cruise ships, Disney Destiny and Disney Adventure, significantly expand",
+      "snippet_ko": "2026년 10월 1일, 월트 디즈니 컴퍼니(NYSE: DIS)는 ‘디즈니 데스티니’와 ‘디즈니 어드벤처’라는 두 척의 새로운 크루즈 선박을 취항한다고 발표하며, 이를 통해 사업 규모를 대폭 확장했다.",
+      "symbol": "DIS",
+      "sentiment_score": 0.6089,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9105229/disney-dis-expands-cruise-fleet-with-two-new-ships-boosting-capacity-by-50",
+      "cross_verified": true,
+      "published_at": "2026-10-01T11:57:10.000000Z"
+    },
+    {
+      "title": "Broadcom (AVGO) to Lend $42 Billion to Anthropic, Strengthening Its Role in AI Chip Design",
+      "title_ko": "브로드컴(AVGO), 앤트로픽에 420억 달러 대출… AI 칩 설계 분야 입지 강화",
+      "snippet": "On October 01, 2026, Broadcom Inc (NASDAQ: AVGO) announced a landmark financing arrangement to lend Anthropic up to $42 billion to support its infrastructure in",
+      "snippet_ko": "2026년 10월 1일, 브로드컴(Broadcom Inc, 나스닥: AVGO)은 앤트로픽(Anthropic)의 인프라 구축을 지원하기 위해 최대 420억 달러를 대출해 주는 획기적인 자금 조달 계약을 발표했습니다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.6254,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9105228/broadcom-avgo-to-lend-42-billion-to-anthropic-strengthening-its-role-in-ai-chip-design",
+      "cross_verified": true,
+      "published_at": "2026-10-01T11:56:46.000000Z"
+    },
+    {
+      "title": "Treasuries' Worst Quarter Since '94",
+      "title_ko": "1994년 이후 최악의 분기를 기록한 국채 시장",
+      "snippet": "Bond yields hit 20-year highs in the worst quarter for US Treasuries this century. Read more.",
+      "snippet_ko": "미국 국채 시장이 금세기 들어 최악의 분기를 기록하는 가운데, 채권 수익률이 20년 만에 최고치를 경신했다. 자세히 보기.",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.2231,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4951265-treasuries-worst-quarter-since-94",
+      "cross_verified": true,
+      "published_at": "2026-10-01T11:30:44.000000Z"
+    },
     {
       "title": "Trump’s AI lunch included every major tech company. Except Apple",
       "title_ko": "트럼프의 AI 점심 모임에는 모든 주요 기술 기업이 참석했다. 애플만 빼고 말이다.",
@@ -2367,42 +2403,6 @@
       "url": "https://www.business-standard.com/companies/news/dixon-technologies-eyes-growth-beyond-smartphones-to-add-global-clout-126092300152_1.html",
       "cross_verified": true,
       "published_at": "2026-09-23T03:27:48.000000Z"
-    },
-    {
-      "title": "Semiconductor Rally Faces Crosscurrents From FX and Credit",
-      "title_ko": "반도체 강세, 외환 및 신용 시장의 상반된 흐름에 직면",
-      "snippet": "Semiconductor stocks including Nvidia, AMD, and Broadcom are rallying, but widening CDS spreads, USD/KRW trends, and surging options activity may signal risks for the SMH.",
-      "snippet_ko": "엔비디아, AMD, 브로드컴 등 반도체주들이 강세를 보이고 있지만, CDS 스프레드 확대, 달러/원 환율 동향, 그리고 급증하는 옵션 거래량은 SMH에 대한 위험 신호일 수 있다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.0,
-      "source": "mottcapitalmanagement.com",
-      "url": "https://mottcapitalmanagement.com/semiconductor-rally-faces-crosscurrents-from-fx-and-credit/",
-      "cross_verified": true,
-      "published_at": "2026-09-22T23:41:35.000000Z"
-    },
-    {
-      "title": "Apple Develops Screenless Health Tracker Amidst AI Model Competition",
-      "title_ko": "애플, AI 모델 경쟁 속에서 화면이 없는 건강 추적기 개발 중",
-      "snippet": "On September 22, 2026, recent headlines have brought attention to significant developments in the tech sector, particularly with Apple Inc. (AAPL). The company",
-      "snippet_ko": "2026년 9월 22일, 최근 보도된 주요 뉴스들을 통해 기술 분야, 특히 애플(Apple Inc., AAPL)과 관련된 중대한 발전 사항이 주목을 받고 있습니다. 이 회사는",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4979,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9092455/apple-develops-screenless-health-tracker-amidst-ai-model-competition",
-      "cross_verified": true,
-      "published_at": "2026-09-22T22:50:41.000000Z"
-    },
-    {
-      "title": "Google Is Taking Its AI Chips Outside the Cloud. Nvidia Just Got a New Sovereign-AI Rival",
-      "title_ko": "구글이 자사의 AI 칩을 클라우드 외부로 확장하고 있다. 엔비디아에 ‘소버레인-AI’ 분야의 새로운 경쟁자가 등장했다.",
-      "snippet": "Google is testing whether its custom AI chips can become national infrastructure instead of remaining mostly a cloud advantage.",
-      "snippet_ko": "구글은 자사의 맞춤형 AI 칩이 단순히 클라우드 분야의 경쟁 우위로만 머무르는 대신 국가 인프라로 자리 잡을 수 있는지 여부를 시험하고 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2323,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/google-is-taking-its-ai-chips-outside-the-cloud-nvidia-just-got-a-new-sovereign-ai-rival-1842116/",
-      "cross_verified": true,
-      "published_at": "2026-09-22T22:05:42.000000Z"
     }
   ]
 }
