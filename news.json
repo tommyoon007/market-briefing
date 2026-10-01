@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-01T19:22:44.316040+00:00",
+  "updated_at": "2026-10-01T23:49:31.443522+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Market Open: ASX expected to bounce back after rough day yesterday",
+      "title_ko": "시장 개장: ASX, 어제의 부진한 장세 이후 반등할 것으로 예상된다",
+      "snippet": "A solid performance on Wall Street last night suggests that the ASX will open up in the positive today after a rough day yesterday.",
+      "snippet_ko": "어젯밤 월스트리트의 견조한 상승세를 고려할 때, 어제 힘든 하루를 보낸 ASX는 오늘 상승세로 장을 시작할 것으로 보인다.",
+      "symbol": "",
+      "sentiment_score": 0.8883,
+      "source": "themarketherald.com.au",
+      "url": "https://themarketonline.com.au/market-open-asx-expected-to-bounce-back-after-rough-day-yesterday-2026-10-02/",
+      "cross_verified": true,
+      "published_at": "2026-10-01T22:46:15.000000Z"
+    },
+    {
+      "title": "DICK'S Sporting Goods: This Sell-Off Is Not An Opportunity (NYSE:DKS)",
+      "title_ko": "딕스 스포츠 용품(DICK'S Sporting Goods): 이번 매도세는 매수 기회가 아니다 (NYSE:DKS)",
+      "snippet": "DICK'S Sporting Goods faces a severe market repricing after Foot Locker's acquisition and weak Q2 results, with shares down ~40%. Read more about the DKS stock.",
+      "snippet_ko": "딕스 스포츠용품(DICK'S Sporting Goods)은 풋락커(Foot Locker)의 인수와 부진한 2분기 실적 여파로 심각한 시장 재평가 국면에 직면해 있으며, 주가는 약 40% 하락했습니다. DKS 주식에 대해 더 자세히 알아보세요.",
+      "symbol": "",
+      "sentiment_score": -0.1349,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4951476-dicks-sporting-goods-sell-off-not-opportunity",
+      "cross_verified": true,
+      "published_at": "2026-10-01T22:33:30.000000Z"
+    },
+    {
+      "title": "Progress Software: AI Risk Demands A Bigger Discount (NASDAQ:PRGS)",
+      "title_ko": "프로그레스 소프트웨어: AI 관련 리스크로 인해 더 큰 할인폭 필요 (NASDAQ:PRGS)",
+      "snippet": "Progress Software Corporation's adjusted EPS rose 13% and adjusted free cash flow grew 17%, but revenue fell 2%. Click for more on PRGS stock's Hold rating.",
+      "snippet_ko": "프로그레스 소프트웨어 코퍼레이션(Progress Software Corporation)의 조정 주당순이익(EPS)은 13% 증가했고, 조정 자유현금흐름은 17% 늘었으나, 매출은 2% 감소했습니다. PRGS 주식에 대한 ‘보유(Hold)’ 등급에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.089,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4951475-progress-software-ai-risk-demands-a-bigger-discount",
+      "cross_verified": true,
+      "published_at": "2026-10-01T22:32:03.000000Z"
+    },
     {
       "title": "One day, two Anups; one Saha, one Bagchi at helm of two big banks",
       "title_ko": "어느 날, 두 명의 아누프; 두 대형 은행의 수장 자리에 사하와 바그치가 각각 자리 잡았다",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9093403/viav-maintained-by-rosenblatt-price-target-steady-at-70",
       "cross_verified": true,
       "published_at": "2026-09-23T13:31:33.000000Z"
-    },
-    {
-      "title": "IMCC Looks 82.5% Undervalued on GF Value™ Despite Profitability Challenges",
-      "title_ko": "IMCC, 수익성 문제에도 불구하고 GF Value™ 기준 82.5% 저평가된 것으로 분석",
-      "snippet": "On September 23, 2026, IM Cannabis Corp (NASDAQ: IMCC) announced a strategic move to acquire a 51% stake in Space Defense Innovations via a non-binding Letter o",
-      "snippet_ko": "2026년 9월 23일, IM Cannabis Corp(나스닥: IMCC)는 구속력 없는 의향서(Letter of Intent)를 통해 Space Defense Innovations의 지분 51%를 인수하겠다는 전략적 계획을 발표했다.",
-      "symbol": "",
-      "sentiment_score": 0.123,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9093374/imcc-looks-825-undervalued-on-gf-value-despite-profitability-challenges",
-      "cross_verified": true,
-      "published_at": "2026-09-23T13:02:17.000000Z"
-    },
-    {
-      "title": "Binance Invests $100 Million in Circle (USDC) to Strengthen Partnership",
-      "title_ko": "바이낸스, 서클(USDC)에 1억 달러 투자해 파트너십 강화",
-      "snippet": "On September 23, 2026, Binance, the world's largest cryptocurrency exchange, announced a significant investment of $100 million in Circle Internet Group, a lead",
-      "snippet_ko": "2026년 9월 23일, 세계 최대의 암호화폐 거래소인 바이낸스(Binance)는 선도적인 기업인 서클 인터넷 그룹(Circle Internet Group)에 1억 달러를 투자한다고 발표했다.",
-      "symbol": "",
-      "sentiment_score": 0.7717,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9093006/binance-invests-100-million-in-circle-usdc-to-strengthen-partnership",
-      "cross_verified": true,
-      "published_at": "2026-09-23T07:10:28.000000Z"
-    },
-    {
-      "title": "VIXY: A High-Conviction Tactical October Hedge, Not A Long Term Buy (Upgrade) (BATS:VIXY)",
-      "title_ko": "VIXY: 확신이 높은 전술적 10월 헤지 상품, 장기 매수 대상은 아님 (등급 상향) (BATS:VIXY)",
-      "snippet": "VIXY is best used as a short-term trading and hedging tool, not for buy-and-hold strategies due to roll decay. Read why the VIXY ETF is upgraded to a buy.",
-      "snippet_ko": "VIXY는 롤 디케이(roll decay)로 인해 매수 후 보유 전략보다는 단기 매매 및 헤지 수단으로 활용하는 것이 가장 적합합니다. VIXY ETF의 투자 등급이 ‘매수’로 상향 조정된 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.6705,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4948870-vixy-a-high-conviction-tactical-october-hedge-not-a-long-term-buy-upgrade",
-      "cross_verified": true,
-      "published_at": "2026-09-23T07:03:10.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Disney (DIS) Announces Major TV Division Restructuring Amid Strategic Shift",
+      "title_ko": "디즈니(DIS), 전략적 전환에 따라 TV 사업부 대대적인 구조조정 발표",
+      "snippet": "On October 01, 2026, The Walt Disney Company (NYSE: DIS) revealed a significant reorganization of its television division, spearheaded by CEO Josh D'Amaro, invo",
+      "snippet_ko": "2026년 10월 1일, 월트 디즈니 컴퍼니(NYSE: DIS)는 조쉬 다마로(Josh D'Amaro) CEO가 주도하는 TV 사업부의 대대적인 조직 개편을 발표했으며, 이에 따라",
+      "symbol": "DIS",
+      "sentiment_score": 0.486,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9106448/disney-dis-announces-major-tv-division-restructuring-amid-strategic-shift",
+      "cross_verified": true,
+      "published_at": "2026-10-01T22:00:40.000000Z"
+    },
+    {
+      "title": "Can Reality Labs Ever Earn Enough to Justify Meta’s Spending?",
+      "title_ko": "리얼리티 랩스가 메타의 투자 규모를 정당화할 만큼의 수익을 올릴 수 있을까?",
+      "snippet": "Meta Platforms, Inc. (NASDAQ:META) earns enough from its apps to fund a business that loses billions of dollars each quarter. That financial capacity gives Reality Labs time to develop.",
+      "snippet_ko": "메타 플랫폼스(Meta Platforms, Inc., 나스닥: META)는 자사 앱을 통해 매 분기 수십억 달러의 손실을 기록하는 사업 부문을 운영할 수 있을 만큼 충분한 수익을 올리고 있다. 이러한 재정적 여력 덕분에 리얼리티 랩스(Reality Labs)는 개발에 전념할 시간을 확보할 수 있다.",
+      "symbol": "META",
+      "sentiment_score": 0.4536,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/can-reality-labs-ever-earn-enough-to-justify-metas-spending-1847257/",
+      "cross_verified": true,
+      "published_at": "2026-10-01T21:39:13.000000Z"
+    },
+    {
+      "title": "How Much Must Google Cloud Be Worth to Justify Alphabet’s Valuation?",
+      "title_ko": "알파벳의 기업 가치를 정당화하려면 구글 클라우드의 가치는 어느 정도여야 할까?",
+      "snippet": "Alphabet Inc. (NASDAQ:GOOGL) now has a cloud business large enough to change the valuation discussion.",
+      "snippet_ko": "알파벳(Alphabet Inc., 나스닥: GOOGL)은 이제 기업 가치 평가에 대한 논의를 바꿀 만큼 규모가 큰 클라우드 사업을 보유하고 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.476,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/how-much-must-google-cloud-be-worth-to-justify-alphabets-valuation-1847253/",
+      "cross_verified": true,
+      "published_at": "2026-10-01T21:16:43.000000Z"
+    },
     {
       "title": "Disney’s Walden Says She Would Be Interested in Buying ‘Bluey’",
       "title_ko": "디즈니의 월든, ‘블루이’ 인수에 관심이 있다고 밝혀",
@@ -2367,42 +2403,6 @@
       "url": "https://www.cnbc.com/2026/09/23/meta-is-having-a-chatgpt-moment-with-muse-what-is-it-and-what-makes-it-so-special.html",
       "cross_verified": true,
       "published_at": "2026-09-23T16:22:24.000000Z"
-    },
-    {
-      "title": "META Maintained by Keybanc -- Price Target Raised to $900",
-      "title_ko": "META, 키뱅크가 담당 — 목표 주가 900달러로 상향 조정",
-      "snippet": "Meta Platforms (META) Analyst Rating Update On October 3, 2023, Meta Platforms (META) received a maintained Overweight rating from Keybanc analyst Justin Pat",
-      "snippet_ko": "메타 플랫폼스(META) 애널리스트 평가 업데이트: 2023년 10월 3일, 메타 플랫폼스(META)는 키뱅크의 애널리스트 저스틴 팻으로부터 ‘Overweight’ 등급을 유지받았습니다.",
-      "symbol": "META",
-      "sentiment_score": 0.0258,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9093365/meta-maintained-by-keybanc-price-target-raised-to-900",
-      "cross_verified": true,
-      "published_at": "2026-09-23T13:00:36.000000Z"
-    },
-    {
-      "title": "AAPL Looks 18.5% Overvalued on GF Value™ as Diesel Export Ban Concerns Mount",
-      "title_ko": "디젤 수출 금지 우려가 고조되는 가운데, GF Value™ 기준 AAPL 주가가 18.5% 과대평가된 것으로 나타났습니다.",
-      "snippet": "On September 23, 2026, amidst rising concerns over a potential U.S. diesel export ban supported by President Donald Trump, Apple Inc (AAPL) remains a focal poin",
-      "snippet_ko": "2026년 9월 23일, 도널드 트럼프 대통령이 지지하는 미국의 디젤 수출 금지 가능성에 대한 우려가 고조되는 가운데, 애플(AAPL)은 여전히 주목의 중심에 서 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4049,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9093318/aapl-looks-185-overvalued-on-gf-value-as-diesel-export-ban-concerns-mount",
-      "cross_verified": true,
-      "published_at": "2026-09-23T12:55:50.000000Z"
-    },
-    {
-      "title": "SciSparc: Subsidiary NeuroThera Highlights Enhancement of U.S. Patent Portfolio Through Collaboration with Clearmind Covering LSD, Ketamine and Ibogaine Combinations",
-      "title_ko": "SciSparc: 자회사 NeuroThera, LSD, 케타민 및 이보가인 병용 요법을 다루는 Clearmind와의 협력을 통해 미국 특허 포트폴리오를 강화했다고 강조",
-      "snippet": "The U.S. patent applications cover proprietary combinations of NeuroThera’s PEA technology with LSD, ketamine and ibogaine for potential therapeutic applications, including mental health disorders, such as depression and PTSD as well as substance use disorders",
-      "snippet_ko": "이 미국 특허 출원은 NeuroThera의 PEA 기술을 LSD, 케타민, 이보가인과 독창적으로 결합한 것으로, 우울증 및 외상 후 스트레스 장애(PTSD)와 같은 정신 건강 장애는 물론 약물 사용 장애를 포함한 잠재적인 치료 용도를 다룹니다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.4588,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/23/tmt-newswire/globenewswire/scisparc-subsidiary-neurothera-highlights-enhancement-of-us-patent-portfolio-through-collaboration-with-clearmind-covering-lsd-ketamine-and-ibogaine-combinations/2431308",
-      "cross_verified": true,
-      "published_at": "2026-09-23T12:51:21.000000Z"
     }
   ]
 }
