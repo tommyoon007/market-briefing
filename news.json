@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-30T23:36:57.949041+00:00",
+  "updated_at": "2026-10-01T05:19:41.846503+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "KMX SWOT Analysis: Financial Strengths and Growth Opportunities Revealed in 10-Q Filing",
+      "title_ko": "KMX SWOT 분석: 10-Q 제출 자료를 통해 드러난 재무적 강점과 성장 기회",
+      "snippet": "CarMax Inc (KMX) demonstrates strong financial performance with a GF Scoreâ„¢ of 75/100.The company is currently undervalued, with a GF Valueâ„¢ of $73.72 compa",
+      "snippet_ko": "CarMax Inc (KMX)는 GF Score™ 75/100을 기록하며 견실한 재무 실적을 보여주고 있습니다. 이 회사는 현재 저평가된 상태이며, GF Value™는 $73.72로...",
+      "symbol": "",
+      "sentiment_score": 0.5615,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9104650/kmx-swot-analysis-financial-strengths-and-growth-opportunities-revealed-in-10q-filing",
+      "cross_verified": true,
+      "published_at": "2026-10-01T05:00:48.000000Z"
+    },
+    {
+      "title": "Washington Trust Bancorp: 100-Year Track Record Of Dividends Supports A 6% Yield",
+      "title_ko": "워싱턴 트러스트 뱅코프: 100년에 걸친 배당 실적이 6%의 배당 수익률을 뒷받침한다",
+      "snippet": "Washington Trust's Q2 2026 results exceeded expectations with NIM at 2.73%, net income up 3% QoQ, and CET1 ratio at a robust 11.9%. See why WASH stock is a Buy.",
+      "snippet_ko": "워싱턴 트러스트의 2026년 2분기 실적은 순이자마진(NIM) 2.73%, 순이익 전분기 대비 3% 증가, CET1 비율 11.9%를 기록하며 기대치를 상회했습니다. WASH 주식을 ‘매수’로 추천하는 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.3397,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4951240-washington-trust-bancorp-stock-100-year-track-record-of-dividends-supports-6-percent-yield",
+      "cross_verified": true,
+      "published_at": "2026-10-01T04:47:37.000000Z"
+    },
+    {
+      "title": "DoorDash Launches DashOS, Expanding Local Commerce Role Amid POS Competition (DASH)",
+      "title_ko": "DoorDash, POS 시장 경쟁 속 지역 상거래 역할 확대 위해 ‘DashOS’ 출시 (DASH)",
+      "snippet": "On September 30, 2026, DoorDash Inc (NASDAQ: DASH) unveiled DashOS, a platform extension aimed at transforming the company from a meal delivery service into a b",
+      "snippet_ko": "2026년 9월 30일, DoorDash Inc(나스닥: DASH)는 자사를 음식 배달 서비스에서 b로 전환하기 위한 플랫폼 확장인 ‘DashOS’를 공개했다.",
+      "symbol": "",
+      "sentiment_score": 0.502,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9104641/doordash-launches-dashos-expanding-local-commerce-role-amid-pos-competition-dash",
+      "cross_verified": true,
+      "published_at": "2026-10-01T04:25:31.000000Z"
+    },
     {
       "title": "A Look at Par Pacific Holdings Inc (PARR) After 4.2% Gain -- GF Value $43.60 vs Price $81.62",
       "title_ko": "4.2% 상승한 파 파시픽 홀딩스(PARR) 분석 — GF 목표가 43.60달러 vs 현재 주가 81.62달러",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9092285/bcb-bancorp-bcbp-ceo-thomas-obrien-buys-160000-shares-in-openmarket-purchase",
       "cross_verified": true,
       "published_at": "2026-09-22T21:00:22.000000Z"
-    },
-    {
-      "title": "DAVIDsTEA Inc (DTEAF) (Q2 2026) Earnings Call Highlights: Record Gross Margin and Accelerating Store Growth Offset US Tariff Headwinds",
-      "title_ko": "DAVIDsTEA Inc (DTEAF) (2026년 2분기) 실적 발표 주요 내용: 사상 최대의 매출총이익과 가속화되는 매장 확장세가 미국 관세로 인한 역풍을 상쇄",
-      "snippet": "Release Date: September 22, 2026For the complete transcript of the earnings call, please refer to the full earnings call transcript. Positive Points Brick-and-m",
-      "snippet_ko": "발표일: 2026년 9월 22일. 실적 발표 회의의 전체 기록은 실적 발표 회의 전문을 참조하시기 바랍니다. 긍정적 요인: 오프라인 매장-m",
-      "symbol": "",
-      "sentiment_score": 0.3412,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9092283/davidstea-inc-dteaf-q2-2026-earnings-call-highlights-record-gross-margin-and-accelerating-store-growth-offset-us-tariff-headwinds",
-      "cross_verified": true,
-      "published_at": "2026-09-22T21:00:17.000000Z"
-    },
-    {
-      "title": "DAVA Maintained by Deutsche Bank -- Price Target Lowered to $2.00",
-      "title_ko": "DAVA, 도이체방크가 애널리스트 리포트를 유지하며 목표 주가를 2.00달러로 하향 조정",
-      "snippet": "On October 10, 2023, Deutsche Bank maintained a Hold rating on Endava (DAVA). The price target has been adjusted down from $3.00 to $2.00, reflecting a signific",
-      "snippet_ko": "2023년 10월 10일, 도이체방크는 엔다바(DAVA)에 대해 ‘보유(Hold)’ 투자의견을 유지했습니다. 목표 주가는 3.00달러에서 2.00달러로 하향 조정되었으며, 이는 상당한",
-      "symbol": "",
-      "sentiment_score": 0.3613,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9092025/dava-maintained-by-deutsche-bank-price-target-lowered-to-200",
-      "cross_verified": true,
-      "published_at": "2026-09-22T16:02:44.000000Z"
-    },
-    {
-      "title": "CRH Maintained at Buy by UBS -- Price Target Lowered to $135",
-      "title_ko": "UBS, CRH에 대해 ‘매수’ 추천 유지… 목표주가 135달러로 하향 조정",
-      "snippet": "CRH PLC Analyst Rating Update On October 3, 2023, UBS maintained a Buy rating on CRH PLC (CRH), adjusting the price target down from $147 to $135, reflecting",
-      "snippet_ko": "CRH PLC 애널리스트 평가 업데이트 2023년 10월 3일, UBS는 CRH PLC(CRH)에 대한 ‘매수(Buy)’ 투자의견을 유지하면서, 목표 주가를 147달러에서 135달러로 하향 조정했는데, 이는 다음을 반영한 것이다.",
-      "symbol": "",
-      "sentiment_score": 0.4829,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9092022/crh-maintained-at-buy-by-ubs-price-target-lowered-to-135",
-      "cross_verified": true,
-      "published_at": "2026-09-22T16:01:25.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Trump’s AI lunch included every major tech company. Except Apple",
+      "title_ko": "트럼프의 AI 점심 모임에는 모든 주요 기술 기업이 참석했다. 애플만 빼고 말이다.",
+      "snippet": "Apple's absence from Trump's AI lunch raised eyebrows, but the company is known to look out for its own interests.",
+      "snippet_ko": "트럼프 대통령의 AI 오찬에 애플이 참석하지 않은 것은 의아함을 자아냈지만, 이 회사는 자사의 이익을 우선시하는 것으로 알려져 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2595,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/30/trumps-ai-lunch-included-everyone-but-apple.html",
+      "cross_verified": true,
+      "published_at": "2026-10-01T02:07:06.000000Z"
+    },
+    {
+      "title": "PICTET ASSET MANAGEMENT SA Trims Dynatrace Inc (DT) Stake -- Shares Look 18% Undervalued on GF Value",
+      "title_ko": "피크테 자산운용(PICTET ASSET MANAGEMENT SA), 다이나트레이스(Dynatrace Inc, DT) 지분 축소 -- GF Value 기준 주가가 18% 저평가된 것으로 분석",
+      "snippet": "A Minor Adjustment to a Major Position PICTET ASSET MANAGEMENT SA (Trades, Portfolio) disclosed a reduction in its holdings of Dynatrace Inc (DT) on 2026-09-24.",
+      "snippet_ko": "주요 포지션에 대한 소폭 조정: PICTET ASSET MANAGEMENT SA(거래 내역, 포트폴리오)는 2026년 9월 24일, Dynatrace Inc(DT) 보유 지분을 축소했다고 밝혔다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2143,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9104613/pictet-asset-management-sa-trims-dynatrace-inc-dt-stake-shares-look-18-undervalued-on-gf-value",
+      "cross_verified": true,
+      "published_at": "2026-10-01T01:34:50.000000Z"
+    },
+    {
+      "title": "Graham Capital Management, L.P. Acquires 2,598,680 Shares of Healthy Choice Wellness Corp (HCWC)",
+      "title_ko": "그레이엄 캐피털 매니지먼트(L.P.)가 헬시 초이스 웰니스 코퍼레이션(HCWC) 주식 2,598,680주를 인수했다.",
+      "snippet": "A New Position in a Challenging Consumer Landscape On 2026-09-17, Graham Capital Management, L.P. (Trades, Portfolio) disclosed a significant new position in He",
+      "snippet_ko": "변화무쌍한 소비자 시장 환경 속의 신규 포지션 2026년 9월 17일, Graham Capital Management, L.P. (거래 내역, 포트폴리오)는 He에 대한 상당한 규모의 신규 포지션을 공시했다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.2023,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9104607/graham-capital-management-lp-acquires-2598680-shares-of-healthy-choice-wellness-corp-hcwc",
+      "cross_verified": true,
+      "published_at": "2026-10-01T01:32:34.000000Z"
+    },
     {
       "title": "Levi Strauss Names John Vandemore as CFO, LEVI Stock Shows Dividend Strength",
       "title_ko": "리바이 스트라우스, 존 밴더모어를 최고재무책임자(CFO)로 임명… LEVI 주가, 배당 강세 보여",
@@ -2367,42 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/google-is-taking-its-ai-chips-outside-the-cloud-nvidia-just-got-a-new-sovereign-ai-rival-1842116/",
       "cross_verified": true,
       "published_at": "2026-09-22T22:05:42.000000Z"
-    },
-    {
-      "title": "META Looks 13.5% Undervalued on GF Value™ as Muse App Sparks Growth Optimism",
-      "title_ko": "‘뮤즈’ 앱이 성장에 대한 낙관론을 불러일으키면서, META가 GF Value™ 기준 13.5% 저평가된 것으로 나타났습니다.",
-      "snippet": "On September 22, 2026, Meta Platforms Inc (NASDAQ: META) captured investor attention as its newly launched AI application, Muse, rapidly gained consumer tractio",
-      "snippet_ko": "2026년 9월 22일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)가 새로 출시한 AI 애플리케이션 ‘뮤즈(Muse)’가 소비자들 사이에서 빠르게 인기를 얻으면서 투자자들의 주목을 받았습니다.",
-      "symbol": "META",
-      "sentiment_score": 0.474,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9092242/meta-looks-135-undervalued-on-gf-value-as-muse-app-sparks-growth-optimism",
-      "cross_verified": true,
-      "published_at": "2026-09-22T19:56:58.000000Z"
-    },
-    {
-      "title": "Meta: AI Monetization Potential Is Finally Evident (NASDAQ:META)",
-      "title_ko": "메타: AI를 통한 수익화 가능성이 드디어 드러나고 있다 (나스닥:META)",
-      "snippet": "Meta Platforms, Inc. looks undervalued after its post-earnings dip—capex fears may be overdone as revenue jumps and new monetization grows. Click for this update.",
-      "snippet_ko": "메타 플랫폼스(Meta Platforms, Inc.)는 실적 발표 후 주가가 일시적으로 하락한 가운데 저평가된 것으로 보입니다. 매출이 급증하고 새로운 수익 창출 방안이 확대됨에 따라 자본 지출에 대한 우려는 지나친 것일 수 있습니다. 이 최신 소식을 보려면 여기를 클릭하세요.",
-      "symbol": "META",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4948763-meta-ai-monetization-potential-is-finally-evident",
-      "cross_verified": true,
-      "published_at": "2026-09-22T19:27:54.000000Z"
-    },
-    {
-      "title": "AAPL Looks 19.1% Overvalued on GF Value™ as Insider Selling Persists",
-      "title_ko": "내부자 매도세가 지속되는 가운데, GF Value™ 기준 AAPL은 19.1% 과대평가된 것으로 나타남",
-      "snippet": "On September 22, 2026, Apple Inc (AAPL) revealed it is developing a screenless fitness tracker designed to compete with Whoop and similar wearable brands. The d",
-      "snippet_ko": "2026년 9월 22일, 애플(AAPL)은 Whoop 및 유사한 웨어러블 브랜드들과 경쟁하기 위해 설계된 화면이 없는 피트니스 트래커를 개발 중이라고 밝혔다. 이 d",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3985,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9092188/aapl-looks-191-overvalued-on-gf-value-as-insider-selling-persists",
-      "cross_verified": true,
-      "published_at": "2026-09-22T18:59:07.000000Z"
     }
   ]
 }
