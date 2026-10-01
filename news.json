@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-01T12:53:10.129047+00:00",
+  "updated_at": "2026-10-01T19:22:44.316040+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "One day, two Anups; one Saha, one Bagchi at helm of two big banks",
+      "title_ko": "어느 날, 두 명의 아누프; 두 대형 은행의 수장 자리에 사하와 바그치가 각각 자리 잡았다",
+      "snippet": "Both Anup Kumar Saha and Anup Bagchi have served ICICI in the past, and are graduates of IIT and IIM.",
+      "snippet_ko": "아누프 쿠마르 사하와 아누프 바그치는 모두 과거에 ICICI에서 근무한 적이 있으며, IIT와 IIM을 졸업했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.2635,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/one-day-two-anups-one-saha-one-bagchi-at-helm-of-two-big-banks-meet-ex-icici-and-iit-iim-alumni-banks-banked-upon-11790878388600.html",
+      "cross_verified": true,
+      "published_at": "2026-10-01T18:43:21.000000Z"
+    },
+    {
+      "title": "Pinterest Offers An Ad Moat At A Ridiculously Cheap Price (NYSE:PINS)",
+      "title_ko": "Pinterest, 터무니없이 저렴한 가격에 광고 경쟁 우위를 제공한다 (NYSE:PINS)",
+      "snippet": "Pinterest looks deeply undervalued at 9.3x forward P/E, with strong ad fundamentals, AI-driven growth, and 60% upside to $30. Click for more on PINS stock.",
+      "snippet_ko": "Pinterest는 향후 주가수익비율(P/E)이 9.3배로 상당히 저평가된 것으로 보이며, 탄탄한 광고 실적 기반과 AI 주도 성장세를 바탕으로 30달러까지 60%의 상승 여력이 있습니다. PINS 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": -0.4052,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4951439-pinterest-offers-an-ad-moat-at-a-ridiculously-cheap-price",
+      "cross_verified": true,
+      "published_at": "2026-10-01T18:43:13.000000Z"
+    },
     {
       "title": "Nouveau Monde Graphite (NMG) to Settle Q3 2026 Interest via Share Issuance",
       "title_ko": "누보 몽드 그래파이트(NMG), 2026년 3분기 이자금을 주식 발행으로 정산할 예정",
@@ -1177,33 +1201,45 @@
       "url": "https://seekingalpha.com/article/4948870-vixy-a-high-conviction-tactical-october-hedge-not-a-long-term-buy-upgrade",
       "cross_verified": true,
       "published_at": "2026-09-23T07:03:10.000000Z"
-    },
-    {
-      "title": "DAVIDsTEA Inc. (DTEAF) Q2 2027 Earnings Call Prepared Remarks Transcript",
-      "title_ko": "DAVIDsTEA Inc. (DTEAF) 2027년 2분기 실적 발표 전화회의 사전 준비된 발언 전문",
-      "snippet": "DAVIDsTEA Inc. (DTEAF) Q2 2027 Earnings Call September 22, 2026 8:30 AM EDTCompany ParticipantsSarah Segal - CEO, Chief Brand Officer & DirectorFrank...",
-      "snippet_ko": "DAVIDsTEA Inc. (DTEAF) 2027년 2분기 실적 발표 컨퍼런스 콜, 2026년 9월 22일 오전 8시 30분(EDT) 회사 참석자: 사라 시걸 - CEO, 최고 브랜드 책임자 및 이사, 프랭크...",
-      "symbol": "",
-      "sentiment_score": 0.2938,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4948883-davidstea-inc-dteaf-q2-2027-earnings-call-prepared-remarks-transcript",
-      "cross_verified": true,
-      "published_at": "2026-09-23T06:59:49.000000Z"
-    },
-    {
-      "title": "Sirius XM Holdings Inc (SIRI) Shares Fall 3.3% -- What GF Score of 71 Tells Investors",
-      "title_ko": "시리우스 XM 홀딩스(SIRI) 주가 3.3% 하락… ‘GF 점수 71’이 투자자들에게 시사하는 바는?",
-      "snippet": "On September 22, 2026, Sirius XM Holdings Inc (SIRI) shares fell 3.3%, closing at $26.53. The stock has seen a 52-week range between $19.77 and $32.66, indicati",
-      "snippet_ko": "2026년 9월 22일, 시리우스 XM 홀딩스(SIRI) 주가는 3.3% 하락하여 26.53달러에 장을 마감했습니다. 이 종목의 52주 등락폭은 19.77달러에서 32.66달러 사이였으며, 이는",
-      "symbol": "",
-      "sentiment_score": 0.5119,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9092527/sirius-xm-holdings-inc-siri-shares-fall-33-what-gf-score-of-71-tells-investors",
-      "cross_verified": true,
-      "published_at": "2026-09-22T23:27:32.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Disney’s Walden Says She Would Be Interested in Buying ‘Bluey’",
+      "title_ko": "디즈니의 월든, ‘블루이’ 인수에 관심이 있다고 밝혀",
+      "snippet": "Dana Walden, the president and chief creative officer of Walt Disney Co., said she “would offer a lot of money,” to Joe Brumm, the creator of the company’s popular Bluey TV series, if the opportunity ever arose to buy the intellectual property.",
+      "snippet_ko": "월트 디즈니 컴퍼니의 사장 겸 최고 크리에이티브 책임자인 다나 월든은, 자사의 인기 TV 시리즈 ‘블루이’의 제작자인 조 브럼에게 해당 지적재산권을 매입할 기회가 생긴다면 “상당한 금액을 제시하겠다”고 말했다.",
+      "symbol": "DIS",
+      "sentiment_score": 0.5667,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/disneys-walden-says-she-would-be-interested-in-buying-bluey-11790880603411.html",
+      "cross_verified": true,
+      "published_at": "2026-10-01T18:50:02.000000Z"
+    },
+    {
+      "title": "Amazon Unveils Redesigned Kindle E-Readers with Advanced Display Tech (AMZN)",
+      "title_ko": "아마존, 첨단 디스플레이 기술을 탑재한 새롭게 디자인된 킨들 전자책 리더기 공개 (AMZN)",
+      "snippet": "On October 01, 2026, Amazon.com Inc (NASDAQ: AMZN) launched a completely reimagined series of Kindle e-readers featuring innovative design breakthroughs and sus",
+      "snippet_ko": "2026년 10월 1일, Amazon.com Inc(나스닥: AMZN)는 혁신적인 디자인과 기능을 갖춘, 완전히 새롭게 재탄생한 킨들(Kindle) 전자책 리더기 시리즈를 출시했습니다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.4481,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9106180/amazon-unveils-redesigned-kindle-ereaders-with-advanced-display-tech-amzn",
+      "cross_verified": true,
+      "published_at": "2026-10-01T18:26:14.000000Z"
+    },
+    {
+      "title": "Morgan Stanley Lowers Apple (AAPL) Price Target Amid Mixed Revenue Outlook",
+      "title_ko": "모건 스탠리, 혼재된 매출 전망 속에 애플(AAPL) 목표주가 하향 조정",
+      "snippet": "On October 01, 2026, Morgan Stanley updated its revenue projections for Apple Inc (AAPL) following the company's recent product launch, which highlighted improv",
+      "snippet_ko": "2026년 10월 1일, 모건 스탠리는 애플(AAPL)의 최근 신제품 출시를 계기로 해당 기업의 매출 전망치를 상향 조정했는데, 이번 출시를 통해 개선된 점이 부각되었기 때문이다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4031,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9106162/morgan-stanley-lowers-apple-aapl-price-target-amid-mixed-revenue-outlook",
+      "cross_verified": true,
+      "published_at": "2026-10-01T18:00:50.000000Z"
+    },
     {
       "title": "Disney (DIS) Expands Cruise Fleet with Two New Ships, Boosting Capacity by 50%",
       "title_ko": "디즈니(DIS), 신규 선박 2척을 추가해 크루즈 선단을 확장하며 수용 인원을 50% 늘렸다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.manilatimes.net/2026/09/23/tmt-newswire/globenewswire/scisparc-subsidiary-neurothera-highlights-enhancement-of-us-patent-portfolio-through-collaboration-with-clearmind-covering-lsd-ketamine-and-ibogaine-combinations/2431308",
       "cross_verified": true,
       "published_at": "2026-09-23T12:51:21.000000Z"
-    },
-    {
-      "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
-      "title_ko": "SK하이닉스, 인텔(INTC)의 오하이오 부지에 눈독 들이고 있다. 마이크론(MU)이 주목해야 하는 이유",
-      "snippet": "SK Hynix is exploring something it has never done before: manufacturing memory chips in the United States.",
-      "snippet_ko": "SK하이닉스는 미국에서 메모리 칩을 생산하는, 그간 한 번도 시도해 본 적 없는 새로운 방안을 모색하고 있다.",
-      "symbol": "INTC",
-      "sentiment_score": 0.2471,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/sk-hynix-is-eyeing-intels-intc-ohio-site-why-micron-mu-should-pay-attention-1841636/",
-      "cross_verified": true,
-      "published_at": "2026-09-23T04:33:16.000000Z"
-    },
-    {
-      "title": "Intel (INTC) Could Get a Fresh Valuation for Altera. AMD (AMD) Is the Rival to Watch",
-      "title_ko": "인텔(INTC), 알테라 인수로 새로운 기업 가치 평가받을 전망. AMD(AMD)는 주목해야 할 경쟁사다",
-      "snippet": "Intel sold control of Altera last year. Now the programmable-chip company is heading back toward the public market just as AI gives investors a new reason to care about FPGAs.",
-      "snippet_ko": "인텔은 작년에 알테라의 지배권을 매각했다. 이제 이 프로그래머블 칩 전문 기업은 AI가 투자자들에게 FPGA에 관심을 가질 새로운 이유를 제시하는 가운데, 다시 공개 시장으로 돌아가고 있다.",
-      "symbol": "INTC",
-      "sentiment_score": 0.5483,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/intel-intc-could-get-a-fresh-valuation-for-altera-amd-amd-is-the-rival-to-watch-1841644/",
-      "cross_verified": true,
-      "published_at": "2026-09-23T04:17:10.000000Z"
-    },
-    {
-      "title": "Dixon Technologies eyes growth beyond smartphones to add global clout",
-      "title_ko": "딕슨 테크놀로지스, 스마트폰을 넘어 성장을 모색하며 글로벌 영향력 확대에 나서",
-      "snippet": "The contract manufacturer is seeking higher margins by making electronics components like camera modules, while deepening its smartphone and laptop production",
-      "snippet_ko": "이 계약 제조업체는 카메라 모듈과 같은 전자 부품을 생산함으로써 수익성을 높이는 한편, 스마트폰 및 노트북 생산을 확대하고 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.5267,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/companies/news/dixon-technologies-eyes-growth-beyond-smartphones-to-add-global-clout-126092300152_1.html",
-      "cross_verified": true,
-      "published_at": "2026-09-23T03:27:48.000000Z"
     }
   ]
 }
