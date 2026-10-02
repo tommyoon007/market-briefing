@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-02T05:07:54.685649+00:00",
+  "updated_at": "2026-10-02T12:16:19.469510+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Joby Aviation: Revenue Is Growing, But So Is The Share Count (NYSE:JOBY)",
+      "title_ko": "조비 에비에이션: 매출은 증가하고 있지만, 발행 주식 수도 늘고 있다 (NYSE:JOBY)",
+      "snippet": "Joby Aviation trades at a $6B market cap, with two-thirds of value hinging on its electric vertical aircraft dream. Learn why JOBY stock is a hold.",
+      "snippet_ko": "조비 에비에이션(Joby Aviation)의 시가총액은 60억 달러이며, 이 중 3분의 2는 전기 수직 이착륙기(eVTOL) 개발이라는 비전에 달려 있습니다. JOBY 주식을 ‘보유’해야 하는 이유를 알아보세요.",
+      "symbol": "",
+      "sentiment_score": 0.4724,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4951551-joby-aviation-stock-revenue-growing-so-share-count",
+      "cross_verified": true,
+      "published_at": "2026-10-02T11:30:23.000000Z"
+    },
+    {
+      "title": "Ensign Group (ENSG) Expands Washington State Presence with Acquisition of Four Skilled Nursing Facilities",
+      "title_ko": "엔사인 그룹(ENSG), 전문 간호 시설 4곳 인수로 워싱턴주 내 입지 확대",
+      "snippet": "On October 02, 2026, Ensign Group Inc (NASDAQ: ENSG) announced the acquisition of four skilled nursing facilities in Washington State, marking a strategic expan",
+      "snippet_ko": "2026년 10월 2일, 엔사인 그룹(Ensign Group Inc, 나스닥: ENSG)은 워싱턴주에 위치한 4곳의 전문 요양 시설을 인수했다고 발표했으며, 이는 전략적 확장의 일환이다.",
+      "symbol": "",
+      "sentiment_score": 0.5082,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9107377/ensign-group-ensg-expands-washington-state-presence-with-acquisition-of-four-skilled-nursing-facilities",
+      "cross_verified": true,
+      "published_at": "2026-10-02T11:25:41.000000Z"
+    },
+    {
+      "title": "Alta Equipment Group Inc. 10% DP SHS PFD A declares $0.625 dividend (ALTG.PR.A:NYSE)",
+      "title_ko": "알타 이큅먼트 그룹(Alta Equipment Group Inc.)의 10% DP SHS PFD A가 0.625달러의 배당금을 선언했습니다 (ALTG.PR.A:NYSE)",
+      "snippet": "Alta Equipment Group (ALTG.PR.A) declares a $0.625 quarterly preferred dividend, payable Oct 30.",
+      "snippet_ko": "알타 이큅먼트 그룹(ALTG.PR.A)은 10월 30일에 지급될 분기별 우선주 배당금으로 0.625달러를 공시했다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4649775-alta-equipment-group-inc-10-percent-dp-shs-pfd-a-declares-0_625-dividend",
+      "cross_verified": true,
+      "published_at": "2026-10-02T11:14:15.000000Z"
+    },
     {
       "title": "Richemont: Specialist Watchmakers Recovery Adds Another Leg To The Equity Story (CFRHF)",
       "title_ko": "리슈몽: 전문 시계 제조사들의 회복세가 주가 상승 동력에 또 다른 탄력을 더하고 있다 (CFRHF)",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9094161/stok-looks-1632-overvalued-on-gf-value",
       "cross_verified": true,
       "published_at": "2026-09-23T21:28:52.000000Z"
-    },
-    {
-      "title": "MDXG Looks 21.5% Undervalued on GF Value™ After Favorable FDA Ruling",
-      "title_ko": "FDA의 긍정적인 결정에 따라 MDXG는 GF Value™ 기준 21.5% 저평가된 것으로 나타남",
-      "snippet": "On September 23, 2026, MiMedx Group Inc (NASDAQ: MDXG) received a significant legal victory as the U.S. District Court for the Northern District of Georgia over",
-      "snippet_ko": "2026년 9월 23일, MiMedx Group Inc(나스닥: MDXG)는 조지아 북부 연방지방법원이",
-      "symbol": "",
-      "sentiment_score": 0.4347,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9094160/mdxg-looks-215-undervalued-on-gf-value-after-favorable-fda-ruling",
-      "cross_verified": true,
-      "published_at": "2026-09-23T21:28:25.000000Z"
-    },
-    {
-      "title": "VEEV Looks 7.2% Undervalued on GF Value™",
-      "title_ko": "GF Value™에 따르면 VEEV는 7.2% 저평가된 것으로 나타났습니다.",
-      "snippet": "On September 23, 2026, Veeva Systems Inc (NYSE: VEEV) announced a major new commitment from a leading biopharmaceutical company, expanding its Vault CRM platfor",
-      "snippet_ko": "2026년 9월 23일, Veeva Systems Inc(NYSE: VEEV)는 선도적인 바이오제약 기업으로부터 대규모 신규 계약을 수주했다고 발표하며, 자사의 Vault CRM 플랫폼을 확장한다고 밝혔다.",
-      "symbol": "",
-      "sentiment_score": 0.6603,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9093975/veev-looks-72-undervalued-on-gf-value",
-      "cross_verified": true,
-      "published_at": "2026-09-23T17:27:56.000000Z"
-    },
-    {
-      "title": "NCRA Looks 67.1% Undervalued on GF Value™",
-      "title_ko": "GF Value™에 따르면 NCRA는 67.1% 저평가된 것으로 나타났습니다.",
-      "snippet": "On September 23, 2026, Nocera Inc (ticker: NCRA) announced a strategic partnership and joint distribution agreement with E-PRO DISPLAY, designating Nocera as a",
-      "snippet_ko": "2026년 9월 23일, Nocera Inc(티커: NCRA)는 E-PRO DISPLAY와 전략적 파트너십 및 공동 유통 계약을 체결했다고 발표했으며, 이를 통해 Nocera를",
-      "symbol": "",
-      "sentiment_score": 0.2541,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9093972/ncra-looks-671-undervalued-on-gf-value",
-      "cross_verified": true,
-      "published_at": "2026-09-23T17:26:37.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "iShares Russell 1000 ETF (IWB) Sells NVIDIA and Apple on Sept. 30",
+      "title_ko": "iShares 러셀 1000 ETF(IWB), 9월 30일 엔비디아와 애플 지분 매도",
+      "snippet": "ETF activity was one-sided on Wednesday, Sept. 30, with no ETFs buying and one selling. iShares Russell 1000 ETF (IWB) sold $122.9 million of stocks, its gross",
+      "snippet_ko": "9월 30일 수요일, ETF 거래는 일방적인 양상을 보였는데, 매수하는 ETF는 없었고 매도하는 ETF는 하나뿐이었다. iShares Russell 1000 ETF(IWB)는 1억 2,290만 달러 상당의 주식을 매도했으며, 이는 총",
+      "symbol": "AMZN",
+      "sentiment_score": 0.3641,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9107372/ishares-russell-1000-etf-iwb-sells-nvidia-and-apple-on-sept-30",
+      "cross_verified": true,
+      "published_at": "2026-10-02T11:05:35.000000Z"
+    },
+    {
+      "title": "iShares MSCI USA Momentum Factor ETF (MTUM) Sells AMD and Micron on Sept. 30",
+      "title_ko": "iShares MSCI USA Momentum Factor ETF(MTUM), 9월 30일 AMD와 마이크론 매도",
+      "snippet": "In Wednesday's session, ETF activity for iShares MSCI USA Momentum Factor ETF (MTUM) was entirely one-sided: no ETFs were buying while MTUM was selling. The fun",
+      "snippet_ko": "수요일 거래 세션에서 iShares MSCI USA Momentum Factor ETF(MTUM)의 거래 동향은 완전히 일방적이었습니다. MTUM이 매도되는 동안 이를 매수하는 ETF는 단 한 곳도 없었습니다. 재미있는 점은",
+      "symbol": "INTC",
+      "sentiment_score": 0.6194,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9107371/ishares-msci-usa-momentum-factor-etf-mtum-sells-amd-and-micron-on-sept-30",
+      "cross_verified": true,
+      "published_at": "2026-10-02T11:05:30.000000Z"
+    },
+    {
+      "title": "ARK Next Generation Internet (ARKW) Adds Nvidia and CoreWeave on Wednesday",
+      "title_ko": "ARK 차세대 인터넷(ARKW)이 수요일 엔비디아와 코어위브를 포트폴리오에 추가했다",
+      "snippet": "ETF activity in Wednesday's session showed ARK Next Generation Internet (ARKW) buying heavily, with 34 positions increased and one decreased. The fund bought $9",
+      "snippet_ko": "수요일 장중 ETF 거래 동향을 살펴보면, ARK Next Generation Internet(ARKW)에 대한 매수세가 강세를 보였으며, 보유 포지션은 34개 증가했고 1개 감소했다. 이 펀드는 9달러를 매수했다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.6766,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9107369/ark-next-generation-internet-arkw-adds-nvidia-and-coreweave-on-wednesday",
+      "cross_verified": true,
+      "published_at": "2026-10-02T11:05:21.000000Z"
+    },
     {
       "title": "Delta CEO chooses Amazon’s Project Leo over Starlink, Elon Musk warns Ed Bastian ‘will lose his job’",
       "title_ko": "델타 항공 CEO, 스타링크 대신 아마존의 ‘프로젝트 레오’ 선택… 일론 머스크, 에드 배스티안에게 “직장을 잃게 될 것”이라고 경고",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9094618/meta-looks-130-undervalued-on-gf-value",
       "cross_verified": true,
       "published_at": "2026-09-24T01:25:23.000000Z"
-    },
-    {
-      "title": "GOOG Looks 33.3% Overvalued on GF Value™ Amid Strong Fundamentals",
-      "title_ko": "GOOG, 견실한 펀더멘털 속에서도 GF Value™ 기준 33.3% 과대평가된 것으로 나타남",
-      "snippet": "On September 23, 2026, Alphabet Inc (GOOG) announced a significant upgrade to its video creation platform, Google Vids, now available for free to all users with",
-      "snippet_ko": "2026년 9월 23일, 알파벳(Alphabet Inc, GOOG)은 자사의 동영상 제작 플랫폼인 ‘구글 비즈(Google Vids)’를 대폭 업그레이드했다고 발표했으며, 이제 모든 사용자가 무료로 이용할 수 있게 되었습니다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.5053,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9094121/goog-looks-333-overvalued-on-gf-value-amid-strong-fundamentals",
-      "cross_verified": true,
-      "published_at": "2026-09-23T20:26:22.000000Z"
-    },
-    {
-      "title": "Intel Is Storming Back Into The AI Conversation - Reiterate Buy (NASDAQ:INTC)",
-      "title_ko": "인텔, AI 논의의 중심 무대로 다시 돌진 중 - ‘매수’ 의견 재확인 (NASDAQ:INTC)",
-      "snippet": "Intel is rated a Buy, with its turnaround gaining momentum and recent developments justifying valuation expansion. Read more on INTC stock here.",
-      "snippet_ko": "인텔은 ‘매수’ 등급을 받았으며, 실적 회복세가 탄력을 받고 있고 최근 동향으로 볼 때 주가 상승 여력이 충분합니다. INTC 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "INTC",
-      "sentiment_score": 0.6544,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4949161-intel-is-storming-back-into-the-ai-conversation-reiterate-buy",
-      "cross_verified": true,
-      "published_at": "2026-09-23T20:07:59.000000Z"
-    },
-    {
-      "title": "Market Stability Prevails as Investors Eye Upcoming Retail and Tech Earnings",
-      "title_ko": "투자자들이 다가오는 소매 및 기술 기업들의 실적 발표를 주시하는 가운데 시장 안정세가 이어지고 있다",
-      "snippet": "U.S. equity markets remained largely stable during Wednesday's trading session, September 23rd, 2026, as investors balanced optimistic economic sentiment",
-      "snippet_ko": "2026년 9월 23일 수요일 장중, 투자자들이 낙관적인 경제 전망과 신중한 태도를 조화시키면서 미국 주식 시장은 대체로 안정세를 유지했다.",
-      "symbol": "META",
-      "sentiment_score": 0.1511,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/market-stability-prevails-as-investors-eye-upcoming-retail-and-tech-earnings/72149/",
-      "cross_verified": true,
-      "published_at": "2026-09-23T20:07:15.000000Z"
     }
   ]
 }
