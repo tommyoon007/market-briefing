@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-02T19:05:53.226692+00:00",
+  "updated_at": "2026-10-02T23:39:20.959192+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "A Look at RadNet Inc (RDNT) After 3.3% Gain -- GF Value $70.03 vs Price $69.93",
+      "title_ko": "3.3% 상승한 RadNet Inc(RDNT) 분석 — GF 가치 $70.03 vs 주가 $69.93",
+      "snippet": "On October 02, 2026, RadNet Inc (RDNT) shares rose 3.3% to $69.93. The stock has experienced a 52-week trading range of $50.82 to $85.84, reflecting significant",
+      "snippet_ko": "2026년 10월 2일, RadNet Inc(RDNT) 주가는 3.3% 상승한 69.93달러를 기록했습니다. 이 종목의 52주 거래 범위는 50.82달러에서 85.84달러로, 상당한",
+      "symbol": "",
+      "sentiment_score": 0.4914,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9108224/a-look-at-radnet-inc-rdnt-after-33-gain-gf-value-7003-vs-price-6993",
+      "cross_verified": true,
+      "published_at": "2026-10-02T23:19:13.000000Z"
+    },
+    {
+      "title": "PubMatic Inc (PUBM) Chief Accounting Officer Lisa Gimbel Sells 500 Shares",
+      "title_ko": "PubMatic Inc(PUBM)의 최고회계책임자(CAO) 리사 김벨, 주식 500주 매도",
+      "snippet": "Lisa Gimbel, Chief Accounting Officer at PubMatic Inc (PUBM), sold 500 shares of the company on 2026-10-01, according to a recent SEC Filing. Following the",
+      "snippet_ko": "최근 SEC 제출 서류에 따르면, PubMatic Inc(PUBM)의 최고회계책임자(CAO)인 리사 김벨(Lisa Gimbel)은 2026년 10월 1일에 자사 주식 500주를 매도했다. 이에 따라",
+      "symbol": "",
+      "sentiment_score": 0.3688,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9108209/pubmatic-inc-pubm-chief-accounting-officer-lisa-gimbel-sells-500-shares",
+      "cross_verified": true,
+      "published_at": "2026-10-02T23:10:29.000000Z"
+    },
+    {
+      "title": "Camtek Ltd (CAMT) Stock Up 7.4% but GF Value Says Overvalued -- GF Score: 91/100",
+      "title_ko": "Camtek Ltd (CAMT) 주가 7.4% 상승했으나 GF Value는 과대평가되었다고 평가 -- GF 점수: 91/100",
+      "snippet": "On October 02, 2026, Camtek Ltd (CAMT) shares rose 7.4% to a current price of $165.19, showing a strong performance within its 52-week range of $91.91 to $215.9",
+      "snippet_ko": "2026년 10월 2일, 캠텍(Camtek Ltd, CAMT) 주가는 7.4% 상승하여 현재 주가는 165.19달러를 기록했으며, 52주 동안의 등락폭인 91.91달러에서 215.9달러 사이에서 견조한 상승세를 보였다.",
+      "symbol": "",
+      "sentiment_score": 0.5516,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9108185/camtek-ltd-camt-stock-up-74-but-gf-value-says-overvalued-gf-score-91100",
+      "cross_verified": true,
+      "published_at": "2026-10-02T23:04:57.000000Z"
+    },
     {
       "title": "General Mills (GIS) Shareholders Approve Key Charter Amendments at 2026 Annual Meeting",
       "title_ko": "제너럴 밀스(GIS) 주주들, 2026년 정기주주총회에서 주요 정관 개정안 승인",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9095052/sfix-looks-161-undervalued-on-gf-value-despite-unprofitability",
       "cross_verified": true,
       "published_at": "2026-09-24T10:57:16.000000Z"
-    },
-    {
-      "title": "XLE Looks 24.1% Overvalued on GF Value™",
-      "title_ko": "GF Value™에 따르면 XLE는 24.1% 과대평가된 것으로 나타났습니다.",
-      "snippet": "On September 24, 2026, the Energy Select Sector SPDR Fund (ticker: XLE) remains a focal point for dividend investors amid evolving market dynamics and intriguin",
-      "snippet_ko": "2026년 9월 24일, 에너지 셀렉트 섹터 SPDR 펀드(티커: XLE)는 변화하는 시장 상황과 흥미로운",
-      "symbol": "",
-      "sentiment_score": 0.2732,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9095050/xle-looks-241-overvalued-on-gf-value",
-      "cross_verified": true,
-      "published_at": "2026-09-24T10:56:29.000000Z"
-    },
-    {
-      "title": "Bio-Techne (TECH) Shareholders Approve $Merger Agreement With Merck KGaA",
-      "title_ko": "바이오테크네(TECH) 주주들, 머크 KGaA와의 합병 계약 승인",
-      "snippet": "Bio-Techne Corporation (TECH) announced that its shareholders have voted to approve and adopt the previously disclosed Agreement and Plan of Merger with Merck",
-      "snippet_ko": "바이오테크네 코퍼레이션(TECH)은 주주들이 앞서 공개된 머크(Merck)와의 합병 계약 및 계획안을 승인하고 채택하기로 의결했다고 발표했다.",
-      "symbol": "",
-      "sentiment_score": 0.5781,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9094663/biotechne-tech-shareholders-approve-merger-agreement-with-merck-kgaa",
-      "cross_verified": true,
-      "published_at": "2026-09-24T03:30:08.000000Z"
-    },
-    {
-      "title": "IQVIA Holdings (IQV) Completes $2 Billion Senior Notes Offering to Refinance Debt",
-      "title_ko": "IQVIA 홀딩스(IQV), 부채 재융자를 위해 20억 달러 규모의 선순위 채권 발행 완료",
-      "snippet": "IQVIA Holdings Inc. (IQV) announced that its wholly owned subsidiary, IQVIA Inc., has completed the issuance and sale of $2 billion in gross proceeds of 6.375%",
-      "snippet_ko": "IQVIA Holdings Inc. (IQV)는 자사의 100% 자회사인 IQVIA Inc.가 총 조달액 20억 달러 규모의 연 6.375% 채권 발행 및 판매를 완료했다고 발표했다.",
-      "symbol": "",
-      "sentiment_score": -0.2793,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9094662/iqvia-holdings-iqv-completes-2-billion-senior-notes-offering-to-refinance-debt",
-      "cross_verified": true,
-      "published_at": "2026-09-24T03:30:07.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Is It Too Late to Buy Broadcom Inc (AVGO) After 3.4% Rally? GF Value Says Undervalued",
+      "title_ko": "3.4% 상승한 지금, 브로드컴(AVGO) 매수가 너무 늦은 걸까? GF 밸류, “저평가됐다”고 분석",
+      "snippet": "On October 02, 2026, Broadcom Inc (AVGO) shares rose 3.4% today, trading at $355.14. The stock has fluctuated within a 52-week range of $289.96 to $495.00, high",
+      "snippet_ko": "2026년 10월 2일, 브로드컴(Broadcom Inc, AVGO) 주가는 이날 3.4% 상승하여 355.14달러에 거래되었습니다. 이 주식은 52주 동안 289.96달러에서 495.00달러 사이의 범위 내에서 등락을 거듭했으며, 최고가는",
+      "symbol": "AVGO",
+      "sentiment_score": 0.6838,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9108084/is-it-too-late-to-buy-broadcom-inc-avgo-after-34-rally-gf-value-says-undervalued",
+      "cross_verified": true,
+      "published_at": "2026-10-02T22:00:39.000000Z"
+    },
+    {
+      "title": "10 Stocks That Will Go to the Moon According to Reddit",
+      "title_ko": "레딧이 꼽은 ‘하늘을 찌를 듯 치솟을’ 10가지 주식",
+      "snippet": "In this article, we will discuss 10 Stocks That Will Go to the Moon According to Reddit. As per Goldman Sachs, the S&P 500 EPS saw an increase of 51% YoY in Q2 and 26% over the previous 4 quarters.",
+      "snippet_ko": "이 기사에서는 레딧(Reddit) 사용자들이 꼽은 ‘폭등할 10가지 주식’에 대해 살펴보겠습니다. 골드만삭스에 따르면, S&P 500 지수의 주당순이익(EPS)은 2분기에 전년 동기 대비 51%, 지난 4분기 대비 26% 증가했습니다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.2996,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/10-stocks-that-will-go-to-the-moon-according-to-reddit-2-1846669/",
+      "cross_verified": true,
+      "published_at": "2026-10-02T21:07:36.000000Z"
+    },
+    {
+      "title": "Apple (AAPL) Enhances macOS Privacy Controls Amid AI Data Access Concerns",
+      "title_ko": "애플(AAPL), AI 데이터 접근 우려 속에 macOS 개인정보 보호 기능 강화",
+      "snippet": "On October 02, 2026, Apple Inc. (NASDAQ: AAPL) announced plans to bolster privacy protections related to \"Full Disk Access\" permissions in macOS, aiming to prev",
+      "snippet_ko": "2026년 10월 2일, 애플(Apple Inc., 나스닥: AAPL)은 macOS의 “전체 디스크 액세스” 권한과 관련된 개인정보 보호 조치를 강화할 계획을 발표했으며, 이를 통해…",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4624,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9108020/apple-aapl-enhances-macos-privacy-controls-amid-ai-data-access-concerns",
+      "cross_verified": true,
+      "published_at": "2026-10-02T21:00:52.000000Z"
+    },
     {
       "title": "Amazon (AMZN) Plans $8 Billion Nvidia Chip Sale to Strengthen Financial Position",
       "title_ko": "아마존(AMZN), 재무 건전성 강화를 위해 엔비디아 칩 80억 달러 규모 매각 계획",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9095663/amazon-expands-robotics-manufacturing-with-100m-investment-in-indiana",
       "cross_verified": true,
       "published_at": "2026-09-24T15:30:33.000000Z"
-    },
-    {
-      "title": "OpenAI Agent Hacked Australian Government Health Website",
-      "title_ko": "OpenAI 에이전트가 호주 정부 보건 웹사이트를 해킹했다",
-      "snippet": "An OpenAI model hacked an Australian government website earlier this year, marking one of the first known cyberattacks by artificial intelligence on a",
-      "snippet_ko": "올해 초 OpenAI 모델이 호주 정부 웹사이트를 해킹했는데, 이는 인공지능이 정부 기관을 대상으로 자행한 것으로 알려진 최초의 사이버 공격 중 하나였다.",
-      "symbol": "META",
-      "sentiment_score": 0.4767,
-      "source": "insurancejournal.com",
-      "url": "https://www.insurancejournal.com/news/international/2026/09/24/886664.htm",
-      "cross_verified": true,
-      "published_at": "2026-09-24T10:18:33.000000Z"
-    },
-    {
-      "title": "Alphabet’s $205bn Capex Meets Meta’s 2.8m-Download Muse",
-      "title_ko": "알파벳의 2,050억 달러 규모 설비투자, 메타의 280만 건 다운로드 기록을 세운 ‘뮤즈’와 맞대결",
-      "snippet": "Alphabet guided 2026 capex to $195-205bn as GOOGL fell 3.4%. Meta's Muse hit 2.8m downloads in 12 days. The real exposure is the ad auction, not Google Cloud.",
-      "snippet_ko": "알파벳이 2026년 자본지출(Capex) 전망치를 1,950억~2,050억 달러로 제시한 가운데, GOOGL 주가는 3.4% 하락했다. 메타의 ‘뮤즈(Muse)’는 출시 12일 만에 280만 건의 다운로드를 기록했다. 진정한 위험 요인은 구글 클라우드가 아니라 광고 경매다.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.0205,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/alphabet-googl-205bn-capex-meta-muse-ad-auction-risk/",
-      "cross_verified": true,
-      "published_at": "2026-09-24T09:15:06.000000Z"
-    },
-    {
-      "title": "UN Chief Calls for AI Pact to Prevent Rise of Killer Robots",
-      "title_ko": "유엔 사무총장, 살인 로봇의 확산을 막기 위한 AI 협약 체결 촉구",
-      "snippet": "The secretary general of the United Nations stepped up his calls for regulation of AI to avert a dystopian future of rampant corporate power and killer",
-      "snippet_ko": "유엔 사무총장은 기업 권력이 횡행하고 살인적인 기술이 난무하는 디스토피아적 미래를 막기 위해 인공지능(AI) 규제를 촉구하는 목소리를 높였다.",
-      "symbol": "AAPL",
-      "sentiment_score": -0.1747,
-      "source": "insurancejournal.com",
-      "url": "https://www.insurancejournal.com/news/international/2026/09/24/886600.htm",
-      "cross_verified": true,
-      "published_at": "2026-09-24T08:27:11.000000Z"
     }
   ]
 }
