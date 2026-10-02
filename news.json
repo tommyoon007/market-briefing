@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-01T23:49:31.443522+00:00",
+  "updated_at": "2026-10-02T05:07:54.685649+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Richemont: Specialist Watchmakers Recovery Adds Another Leg To The Equity Story (CFRHF)",
+      "title_ko": "리슈몽: 전문 시계 제조사들의 회복세가 주가 상승 동력에 또 다른 탄력을 더하고 있다 (CFRHF)",
+      "snippet": "Richemont outlook: improving Swiss watch indicators, double-digit Q2 growth led by jewelry, attractive valuation and strong cash flow—read the analysis now.",
+      "snippet_ko": "리슈몽 전망: 스위스 시계 업계 지표 개선, 주얼리 부문이 주도한 2분기 두 자릿수 성장, 매력적인 기업 가치 및 견실한 현금 흐름 — 지금 바로 분석 보고서를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": -0.0952,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4951506-richemont-specialist-watchmakers-recovery-adds-another-leg-to-the-equity-story",
+      "cross_verified": true,
+      "published_at": "2026-10-02T04:13:59.000000Z"
+    },
+    {
+      "title": "Eaton Vance CA Muni Income Trust (CEV) Declares Monthly Dividend with 5.84% Forward Yield",
+      "title_ko": "이튼 밴스 CA 무니 인컴 트러스트(CEV), 5.84%의 예상 수익률을 적용한 월간 배당금 선언",
+      "snippet": "On October 01, 2026, Eaton Vance California Municipal Income Trust (ticker: CEV) announced a monthly dividend payment of $0.05 per share, reflecting a forward y",
+      "snippet_ko": "2026년 10월 1일, 이튼 밴스 캘리포니아 지방채 소득 트러스트(티커: CEV)는 주당 0.05달러의 월간 배당금 지급을 발표했으며, 이는 향후 y",
+      "symbol": "",
+      "sentiment_score": 0.6744,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9106827/eaton-vance-ca-muni-income-trust-cev-declares-monthly-dividend-with-584-forward-yield",
+      "cross_verified": true,
+      "published_at": "2026-10-02T03:59:37.000000Z"
+    },
+    {
+      "title": "MPC set to begin rate hike cycle with at least 25 bps repo hike: SBI Economists",
+      "title_ko": "SBI 경제학자들 “MPC, 최소 25bp의 레포 금리 인상을 통해 금리 인상 주기를 시작할 전망”",
+      "snippet": "SBI economists expect RBI to start rate hikes with at least 25 bps, alongside rising GDP/inflation forecasts amid global risks and liquidity nuances.",
+      "snippet_ko": "SBI 경제학자들은 글로벌 리스크와 유동성 상황의 미묘한 변화 속에서 GDP 및 인플레이션 전망치가 상향 조정됨에 따라, 인도 중앙은행(RBI)이 최소 25bp 규모의 금리 인상을 시작할 것으로 전망하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.0772,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/economy/mpc-set-to-begin-rate-hike-cycle-with-at-least-25-bps-repo-hike-sbi-economists/article71535727.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-02T03:58:12.000000Z"
+    },
     {
       "title": "Market Open: ASX expected to bounce back after rough day yesterday",
       "title_ko": "시장 개장: ASX, 어제의 부진한 장세 이후 반등할 것으로 예상된다",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9093972/ncra-looks-671-undervalued-on-gf-value",
       "cross_verified": true,
       "published_at": "2026-09-23T17:26:37.000000Z"
-    },
-    {
-      "title": "HTZ Looks 61.7% Undervalued on GF Value™ Despite Unprofitable Status",
-      "title_ko": "HTZ, 적자 상태임에도 불구하고 GF Value™ 기준 61.7% 저평가된 것으로 나타남",
-      "snippet": "On September 23, 2026, Hertz Global Holdings Inc (NASDAQ: HTZ) experienced a slight decline in its share price, dipping 8 cents to approximately $1.77 amid mode",
-      "snippet_ko": "2026년 9월 23일, 허츠 글로벌 홀딩스(Hertz Global Holdings Inc, 나스닥: HTZ)의 주가는 소폭 하락하여 8센트 떨어진 약 1.77달러를 기록했으며, 이는 모드의",
-      "symbol": "",
-      "sentiment_score": 0.0853,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9093970/htz-looks-617-undervalued-on-gf-value-despite-unprofitable-status",
-      "cross_verified": true,
-      "published_at": "2026-09-23T17:25:42.000000Z"
-    },
-    {
-      "title": "BFAM Maintained by Morgan Stanley -- Price Target Lowered to $66.00",
-      "title_ko": "모건 스탠리, BFAM에 대해 ‘보유’ 등급 유지 -- 목표주가 66.00달러로 하향 조정",
-      "snippet": "Bright Horizons Family Solutions Inc (BFAM) Analyst Rating Update On October 31, 2023, Bright Horizons Family Solutions Inc (BFAM) received an updated rating",
-      "snippet_ko": "브라이트 호라이즌스 패밀리 솔루션즈(Bright Horizons Family Solutions Inc, BFAM) 애널리스트 등급 업데이트: 2023년 10월 31일, 브라이트 호라이즌스 패밀리 솔루션즈(BFAM)의 등급이 갱신되었습니다.",
-      "symbol": "",
-      "sentiment_score": 0.271,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9093405/bfam-maintained-by-morgan-stanley-price-target-lowered-to-6600",
-      "cross_verified": true,
-      "published_at": "2026-09-23T13:31:57.000000Z"
-    },
-    {
-      "title": "VIAV Maintained by Rosenblatt -- Price Target Steady at $70",
-      "title_ko": "VIAV, 로젠블랫이 담당 — 목표주가는 70달러로 유지",
-      "snippet": "Viavi Solutions (VIAV) Analyst Rating Update On October 12, 2023, Rosenblatt maintained a 'Buy' rating for Viavi Solutions (VIAV). The price target remains u",
-      "snippet_ko": "Viavi Solutions (VIAV) 애널리스트 등급 업데이트 2023년 10월 12일, 로젠블랫은 Viavi Solutions (VIAV)에 대한 ‘매수’ 등급을 유지했습니다. 목표 주가는 여전히 u",
-      "symbol": "",
-      "sentiment_score": 0.4277,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9093403/viav-maintained-by-rosenblatt-price-target-steady-at-70",
-      "cross_verified": true,
-      "published_at": "2026-09-23T13:31:33.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Delta CEO chooses Amazon’s Project Leo over Starlink, Elon Musk warns Ed Bastian ‘will lose his job’",
+      "title_ko": "델타 항공 CEO, 스타링크 대신 아마존의 ‘프로젝트 레오’ 선택… 일론 머스크, 에드 배스티안에게 “직장을 잃게 될 것”이라고 경고",
+      "snippet": "Delta Chief Executive Officer Ed Bastian is in SpaceX CEO Elon Musk’s sights for choosing Amazon.com Inc.’s Leo, the new service intended to be a Starlink alternative.",
+      "snippet_ko": "델타항공의 에드 배스티안 최고경영자(CEO)가 스타링크의 대안을 목표로 하는 아마존닷컴의 신규 서비스 ‘레오(Leo)’를 선택한 탓에 스페이스X의 일론 머스크 CEO의 표적이 되고 있다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.196,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/news/delta-ceo-chooses-amazon-s-project-leo-over-starlink-elon-musk-warns-ed-bastian-will-lose-his-job-11790910585258.html",
+      "cross_verified": true,
+      "published_at": "2026-10-02T03:38:23.000000Z"
+    },
+    {
+      "title": "Disney Restructures TV Operations Amid Global Sanctions and Fed Inflation Hawkishness",
+      "title_ko": "디즈니, 전 세계적 제재와 연준의 강경한 인플레이션 대응 속에서 TV 사업 구조 조정",
+      "snippet": "The Walt Disney Company (DIS) has initiated a new round of layoffs affecting hundreds of employees within its television division. This move is part of a",
+      "snippet_ko": "월트 디즈니 컴퍼니(DIS)가 자사 텔레비전 사업부 소속 수백 명의 직원을 대상으로 한 새로운 감원 조치를 단행했습니다. 이번 조치는",
+      "symbol": "DIS",
+      "sentiment_score": -0.125,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/disney-restructures-tv-operations-amid-global-sanctions-and-fed-inflation-hawkishness/72498/",
+      "cross_verified": true,
+      "published_at": "2026-10-02T01:08:12.000000Z"
+    },
+    {
+      "title": "Apple Inc (AAPL) Insider Sale: SVP, General Counsel and Government Affairs Jennifer Newstead Sells 2,399 Shares",
+      "title_ko": "애플(AAPL) 내부자 매도: 수석 부사장 겸 법무·정부 관계 총괄 제니퍼 뉴스테드, 2,399주 매도",
+      "snippet": "Jennifer Newstead, Senior Vice President, General Counsel and Government Affairs at Apple Inc (AAPL), sold 2,399 shares of the company on 2026-09-29, accord",
+      "snippet_ko": "애플(AAPL)의 수석 부사장 겸 법무 총괄 및 정부 관계 담당자인 제니퍼 뉴스테드는 2026년 9월 29일에 자사 주식 2,399주를 매도한 것으로 밝혀졌다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3373,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9106763/apple-inc-aapl-insider-sale-svp-general-counsel-and-government-affairs-jennifer-newstead-sells-2399-shares",
+      "cross_verified": true,
+      "published_at": "2026-10-02T01:00:18.000000Z"
+    },
     {
       "title": "Disney (DIS) Announces Major TV Division Restructuring Amid Strategic Shift",
       "title_ko": "디즈니(DIS), 전략적 전환에 따라 TV 사업부 대대적인 구조조정 발표",
@@ -2367,42 +2403,6 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/market-stability-prevails-as-investors-eye-upcoming-retail-and-tech-earnings/72149/",
       "cross_verified": true,
       "published_at": "2026-09-23T20:07:15.000000Z"
-    },
-    {
-      "title": "MP Materials: Growth Is Strong But Much Has Already Been Priced In (NYSE:MP)",
-      "title_ko": "MP 머티리얼스: 성장세는 견실하지만, 이미 상당 부분이 주가에 반영된 상태 (NYSE:MP)",
-      "snippet": "MP Materials is shifting from rare-earth mining to magnet production. Click for more on MP stock prospects.",
-      "snippet_ko": "MP 머티리얼즈는 희토류 채굴에서 자석 생산으로 사업 영역을 전환하고 있습니다. MP 주식의 전망에 대해 더 알아보려면 여기를 클릭하세요.",
-      "symbol": "MP",
-      "sentiment_score": 0.6181,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4949073-mp-materials-growth-is-strong-but-much-has-already-been-priced-in",
-      "cross_verified": true,
-      "published_at": "2026-09-23T16:52:38.000000Z"
-    },
-    {
-      "title": "Meta: Muse Could Become The Middleman For The Entire Internet Economy (NASDAQ:META)",
-      "title_ko": "메타: 뮤즈, 인터넷 경제 전반의 중개자 역할 맡을 수 있어 (나스닥: META)",
-      "snippet": "Meta Platforms’ Muse could shift Meta to agentic commerce and transaction-based revenue. Click for this updated look at META.",
-      "snippet_ko": "메타 플랫폼스의 ‘뮤즈’는 메타를 에이전트 기반 상거래와 거래 기반 수익 모델로 전환시킬 수 있습니다. META에 대한 최신 분석을 보려면 여기를 클릭하세요.",
-      "symbol": "META",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4949072-meta-muse-could-become-the-middleman-for-the-entire-internet-economy",
-      "cross_verified": true,
-      "published_at": "2026-09-23T16:49:31.000000Z"
-    },
-    {
-      "title": "Meta is having a ChatGPT moment with Muse. What is it and what makes it so special",
-      "title_ko": "메타는 ‘뮤즈(Muse)’를 통해 ChatGPT와 같은 열풍을 일으키고 있습니다. 이것이 무엇이며, 무엇이 이 서비스를 그토록 특별하게 만드는 것일까요?",
-      "snippet": "The tech world and Wall Street are abuzz with Meta's new AI agent ahead of CEO Mark Zuckerberg's developers conference keynote.",
-      "snippet_ko": "마크 저커버그 CEO의 개발자 컨퍼런스 기조연설을 앞두고, 메타의 새로운 AI 에이전트에 대해 기술계와 월스트리트에서 화제가 되고 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3007,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/23/meta-is-having-a-chatgpt-moment-with-muse-what-is-it-and-what-makes-it-so-special.html",
-      "cross_verified": true,
-      "published_at": "2026-09-23T16:22:24.000000Z"
     }
   ]
 }
