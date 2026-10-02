@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-02T12:16:19.469510+00:00",
+  "updated_at": "2026-10-02T19:05:53.226692+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "General Mills (GIS) Shareholders Approve Key Charter Amendments at 2026 Annual Meeting",
+      "title_ko": "제너럴 밀스(GIS) 주주들, 2026년 정기주주총회에서 주요 정관 개정안 승인",
+      "snippet": "General Mills, Inc. (GIS) held its 2026 Annual Meeting of Shareholders on September 29, 2026, during which shareholders voted on a series of proposals, includi",
+      "snippet_ko": "제너럴 밀스(General Mills, Inc., GIS)는 2026년 9월 29일 2026년도 정기 주주총회를 개최했으며, 이 자리에서 주주들은 다음과 같은 일련의 안건에 대해 의결을 진행했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9107923/general-mills-gis-shareholders-approve-key-charter-amendments-at-2026-annual-meeting",
+      "cross_verified": true,
+      "published_at": "2026-10-02T18:30:07.000000Z"
+    },
+    {
+      "title": "Fed officials give hints on rate decision as markets cut October rate hike odds",
+      "title_ko": "시장에서는 10월 금리 인상 가능성을 낮게 보는 가운데, 연준 관계자들이 금리 결정에 대한 시사점을 내비쳤다",
+      "snippet": "Fed officials tempered expectations for an October rate hike after Philip Jefferson and John Williams stressed patience and data dependence. Markets sharply reduced hike odds, though persistent inflation and upcoming consumer price data could shape the Federal Reserves policy decision.",
+      "snippet_ko": "필립 제퍼슨과 존 윌리엄스가 인내심과 데이터에 기반한 접근을 강조한 후, 연준 관계자들은 10월 금리 인상 기대감을 누그러뜨렸다. 시장은 금리 인상 가능성을 크게 낮췄으나, 지속되는 인플레이션과 곧 발표될 소비자물가 지표가 연방준비제도의 정책 결정에 영향을 미칠 수 있다.",
+      "symbol": "",
+      "sentiment_score": 0.3818,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-officials-give-hints-on-rate-decision-as-markets-cut-october-rate-hike-odds/articleshow/134645153.cms",
+      "cross_verified": true,
+      "published_at": "2026-10-02T18:30:04.000000Z"
+    },
+    {
+      "title": "USB Maintained by JP Morgan -- Price Target Lowered to $65.00",
+      "title_ko": "JP 모건, USB에 대한 투자 등급 유지 -- 목표 주가 65.00달러로 하향 조정",
+      "snippet": "U.S. Bancorp Analyst Rating Update On October 1, 2023, JP Morgan maintained a Neutral rating on U.S. Bancorp (USB), with the price target adjusted from $69.0",
+      "snippet_ko": "U.S. Bancorp 애널리스트 평가 업데이트 2023년 10월 1일, JP 모건은 U.S. Bancorp(USB)에 대한 ‘중립(Neutral)’ 평가를 유지했으며, 목표 주가는 69.0달러에서 조정되었습니다.",
+      "symbol": "",
+      "sentiment_score": 0.2999,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9107917/usb-maintained-by-jp-morgan-price-target-lowered-to-6500",
+      "cross_verified": true,
+      "published_at": "2026-10-02T18:06:15.000000Z"
+    },
     {
       "title": "Joby Aviation: Revenue Is Growing, But So Is The Share Count (NYSE:JOBY)",
       "title_ko": "조비 에비에이션: 매출은 증가하고 있지만, 발행 주식 수도 늘고 있다 (NYSE:JOBY)",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9094662/iqvia-holdings-iqv-completes-2-billion-senior-notes-offering-to-refinance-debt",
       "cross_verified": true,
       "published_at": "2026-09-24T03:30:07.000000Z"
-    },
-    {
-      "title": "NN Stock: Repeated Guidance Raises Are Hard To Ignore (Ratings Upgrade) (NASDAQ:NNBR)",
-      "title_ko": "NN 주식: 잇따른 실적 전망 상향 조정은 무시하기 어렵다 (투자의견 상향) (나스닥:NNBR)",
-      "snippet": "NN, Inc. (NNBR) upgraded to Buy: strong sales growth, diversified end markets, and AI data center liquid cooling tailwinds. See more details here.",
-      "snippet_ko": "NN, Inc. (NNBR)가 ‘매수’로 상향 조정되었습니다: 강력한 매출 성장, 다각화된 최종 시장, 그리고 AI 데이터센터 수냉식 냉각 시장의 호재 때문입니다. 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": -0.1562,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4949229-nn-inc-repeated-guidance-raises-are-hard-to-ignore-ratings-upgrade",
-      "cross_verified": true,
-      "published_at": "2026-09-24T03:21:55.000000Z"
-    },
-    {
-      "title": "MO Looks 19.3% Overvalued on GF Value™ Amid Dividend Sustainability Concerns",
-      "title_ko": "배당금 지속 가능성에 대한 우려가 제기되는 가운데, GF Value™ 기준 MO는 19.3% 과대평가된 것으로 나타남",
-      "snippet": "On September 23, 2026, news surfaced that the Biden administration is considering regulatory changes to facilitate the introduction of more tobacco products, in",
-      "snippet_ko": "2026년 9월 23일, 바이든 행정부가 더 많은 담배 제품의 출시를 촉진하기 위해 규제 변경을 검토하고 있다는 소식이 전해졌는데,",
-      "symbol": "",
-      "sentiment_score": 0.5133,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9094162/mo-looks-193-overvalued-on-gf-value-amid-dividend-sustainability-concerns",
-      "cross_verified": true,
-      "published_at": "2026-09-23T21:29:14.000000Z"
-    },
-    {
-      "title": "STOK Looks 163.2% Overvalued on GF Value™",
-      "title_ko": "GF Value™에 따르면 STOK은 163.2% 과대평가된 것으로 나타났습니다.",
-      "snippet": "On September 23, 2026, Stoke Therapeutics Inc (NASDAQ: STOK) announced a significant change in its Board of Directors with the appointment of Bo Cumbo, coincidi",
-      "snippet_ko": "2026년 9월 23일, 스토크 테라퓨틱스(Stoke Therapeutics Inc, 나스닥: STOK)는 보 쿰보(Bo Cumbo)의 임명을 통해 이사회에 중대한 변화가 있었다고 발표했으며, 이는",
-      "symbol": "",
-      "sentiment_score": 0.3942,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9094161/stok-looks-1632-overvalued-on-gf-value",
-      "cross_verified": true,
-      "published_at": "2026-09-23T21:28:52.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Amazon (AMZN) Plans $8 Billion Nvidia Chip Sale to Strengthen Financial Position",
+      "title_ko": "아마존(AMZN), 재무 건전성 강화를 위해 엔비디아 칩 80억 달러 규모 매각 계획",
+      "snippet": "On October 02, 2026, Amazon.com Inc (NASDAQ: AMZN) announced plans to sell approximately $8 billion worth of advanced Nvidia chips to outside investors as part",
+      "snippet_ko": "2026년 10월 2일, 아마존닷컴(Amazon.com Inc, 나스닥: AMZN)은 그 일환으로 외부 투자자들에게 약 80억 달러 상당의 엔비디아(Nvidia) 첨단 칩을 판매할 계획을 발표했습니다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.5463,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9107893/amazon-amzn-plans-8-billion-nvidia-chip-sale-to-strengthen-financial-position",
+      "cross_verified": true,
+      "published_at": "2026-10-02T17:56:38.000000Z"
+    },
+    {
+      "title": "Meta's Muse Is the No. 1 App--but Wall Street Has a Big Question",
+      "title_ko": "메타의 ‘뮤즈’가 1위 앱이지만, 월가에서는 큰 의문을 제기하고 있다",
+      "snippet": "The social media and AI business Meta Platforms Inc. (META, Financials) seems to have little issue attracting customers to its new AI agent Muse. The more diffi",
+      "snippet_ko": "소셜 미디어 및 AI 기업인 메타 플랫폼스(Meta Platforms Inc., META, 재무 정보)는 자사의 새로운 AI 에이전트 ‘뮤즈(Muse)’에 고객을 유치하는 데 별다른 어려움이 없는 것으로 보인다. 더 어려운 점은...",
+      "symbol": "META",
+      "sentiment_score": 0.7147,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9107753/metas-muse-is-the-no-1-appbut-wall-street-has-a-big-question",
+      "cross_verified": true,
+      "published_at": "2026-10-02T17:15:49.000000Z"
+    },
+    {
+      "title": "MP Materials (MP) Leads Mid- to Mega-Cap Materials Sector in Short Interest at 18.85%",
+      "title_ko": "MP 머티리얼스(MP)가 18.85%의 공매도 비중으로 중형주 및 초대형주 소재 부문에서 선두를 달리고 있다.",
+      "snippet": "On October 02, 2026, MP Materials Corp (NYSE: MP) was reported to hold the highest short interest in the mid- to mega-cap materials sector at 18.85%, surpassing",
+      "snippet_ko": "2026년 10월 2일, MP Materials Corp(NYSE: MP)가 중대형 소재 부문에서 18.85%로 가장 높은 공매도 비중을 기록하며, 이를 넘어선 것으로 보도되었다.",
+      "symbol": "MP",
+      "sentiment_score": 0.5966,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9107818/mp-materials-mp-leads-mid-to-megacap-materials-sector-in-short-interest-at-1885",
+      "cross_verified": true,
+      "published_at": "2026-10-02T16:56:28.000000Z"
+    },
     {
       "title": "iShares Russell 1000 ETF (IWB) Sells NVIDIA and Apple on Sept. 30",
       "title_ko": "iShares 러셀 1000 ETF(IWB), 9월 30일 엔비디아와 애플 지분 매도",
@@ -2367,42 +2403,6 @@
       "url": "https://www.insurancejournal.com/news/international/2026/09/24/886600.htm",
       "cross_verified": true,
       "published_at": "2026-09-24T08:27:11.000000Z"
-    },
-    {
-      "title": "Meta launches $1,299 VR glasses-style headset to take on Apple's Vision Pro",
-      "title_ko": "메타, 애플의 ‘비전 프로’에 맞서 1,299달러짜리 안경형 VR 헤드셋 출시",
-      "snippet": "Meta's new headset weighs about 100 grams after shifting its processor, battery and cooling system to an external pack, targeting a lighter and cheaper alternative to Apple's Vision Pro",
-      "snippet_ko": "메타의 새로운 헤드셋은 프로세서, 배터리, 냉각 시스템을 외부 팩으로 분리함으로써 무게를 약 100그램으로 줄였으며, 애플의 ‘비전 프로’에 비해 더 가볍고 저렴한 대안을 목표로 하고 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4361,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/technology/tech-news/meta-launches-1-299-vr-glasses-style-headset-to-take-on-apple-s-vision-pro-126092400125_1.html",
-      "cross_verified": true,
-      "published_at": "2026-09-24T02:15:15.000000Z"
-    },
-    {
-      "title": "Meta Launches Muse Charm: A New AI Device for 2026",
-      "title_ko": "메타, 2026년을 위한 새로운 AI 기기 ‘뮤즈 참(Muse Charm)’ 출시",
-      "snippet": "On September 23, 2026, Meta Platforms Inc. (META) announced the launch of its new device, the Muse Charm, a compact gadget designed to enhance user interaction",
-      "snippet_ko": "2026년 9월 23일, 메타 플랫폼스(META)는 사용자 상호작용을 강화하기 위해 설계된 소형 기기인 ‘뮤즈 참(Muse Charm)’이라는 신제품의 출시를 발표했다.",
-      "symbol": "META",
-      "sentiment_score": 0.5662,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9094625/meta-launches-muse-charm-a-new-ai-device-for-2026",
-      "cross_verified": true,
-      "published_at": "2026-09-24T01:50:36.000000Z"
-    },
-    {
-      "title": "META Looks 13.0% Undervalued on GF Value™",
-      "title_ko": "GF Value™에 따르면 META는 13.0% 저평가된 것으로 나타났습니다.",
-      "snippet": "On September 23, 2026, Meta Platforms Inc (NASDAQ: META) unveiled a new device featuring a vibrant OLED touchscreen and integrated 5G modem, designed to enhance",
-      "snippet_ko": "2026년 9월 23일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)는 생생한 OLED 터치스크린과 내장형 5G 모뎀을 탑재한 새로운 기기를 공개했으며, 이 기기는",
-      "symbol": "META",
-      "sentiment_score": 0.3645,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9094618/meta-looks-130-undervalued-on-gf-value",
-      "cross_verified": true,
-      "published_at": "2026-09-24T01:25:23.000000Z"
     }
   ]
 }
