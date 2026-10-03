@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-03T16:02:56.097490+00:00",
+  "updated_at": "2026-10-03T20:53:12.687398+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Chime Q2 Results Beat as Prime Tier Drives Spending Acceleration",
+      "title_ko": "프라임 티어 부문이 지출 증가를 주도하며 Chime의 2분기 실적이 기대치를 상회했다",
+      "snippet": "Chime's premium membership tier drove card volume growth of 17% in Q2, lifting full-year revenue guidance to 25–26% and EBITDA margin to",
+      "snippet_ko": "Chime의 프리미엄 멤버십 등급 덕분에 2분기 카드 거래량이 17% 증가했으며, 이에 따라 연간 매출 전망치는 25~26%로 상향 조정되었고 EBITDA 마진은",
+      "symbol": "",
+      "sentiment_score": 0.8166,
+      "source": "thefintechtimes.com",
+      "url": "https://thefintechtimes.com/chime-q2-results-beat-as-prime-tier-drives-spending-acceleration/",
+      "cross_verified": true,
+      "published_at": "2026-10-03T18:00:08.000000Z"
+    },
+    {
+      "title": "The spice of the matter",
+      "title_ko": "이 문제의 핵심",
+      "snippet": "Orkla India's heritage brands face inflation and distribution challenges, yet offer a favorable valuation and growth avenues amid double-digit revenue potential.",
+      "snippet_ko": "오르클라 인디아의 전통 브랜드들은 인플레이션과 유통 문제에 직면해 있지만, 두 자릿수 매출 성장 잠재력을 바탕으로 유리한 기업 가치 평가와 성장 기회를 제공하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.011,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/portfolio/the-spice-of-the-matter/article71540150.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-03T16:04:43.000000Z"
+    },
     {
       "title": "Nearly 1,400 laid off at Ohio factory days before Trump rally. Former supporter will help elect Dems",
       "title_ko": "트럼프 유세 며칠 전 오하이오 주 공장에서 약 1,400명이 해고됐다. 한때 트럼프 지지자였던 이 인물이 민주당 후보 당선을 돕기로 했다.",
@@ -1177,33 +1201,21 @@
       "url": "https://seekingalpha.com/article/4949620-cue-biopharma-inc-cue-discusses-positive-phase-ii-top-line-results-for-cueminus-221-in",
       "cross_verified": true,
       "published_at": "2026-09-24T23:14:23.000000Z"
-    },
-    {
-      "title": "Rapid Micro Biosystems, Inc. (RPID) Presents at Small-Cap Virtual Conference - Slideshow (NASDAQ:RPID) 2026-09-24",
-      "title_ko": "Rapid Micro Biosystems, Inc. (RPID), 소형주 가상 컨퍼런스에서 발표 - 슬라이드 쇼 (NASDAQ:RPID) 2026-09-24",
-      "snippet": "2026-09-24. The following slide deck was published by Rapid Micro Biosystems, Inc.",
-      "snippet_ko": "2026년 9월 24일. 다음 슬라이드 자료는 Rapid Micro Biosystems, Inc.에서 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4949619-rapid-micro-biosystems-inc-rpid-presents-at-small-cap-virtual-conference-slideshow",
-      "cross_verified": true,
-      "published_at": "2026-09-24T23:12:56.000000Z"
-    },
-    {
-      "title": "Avery Dennison Corporation (AVY) Discusses Strategic Importance and Growth Initiatives in High-Value Categories Transcript",
-      "title_ko": "에이버리 데니슨 코퍼레이션(AVY), 고부가가치 부문의 전략적 중요성과 성장 전략에 대해 논의한 회의록",
-      "snippet": "Avery Dennison Corporation (AVY) Discusses Strategic Importance and Growth Initiatives in High-Value Categories September 23, 2026 9:30 AM EDTCompany...",
-      "snippet_ko": "에이버리 데니슨 코퍼레이션(AVY), 고부가가치 부문의 전략적 중요성과 성장 전략 논의 2026년 9월 23일 오전 9시 30분(EDT) 회사...",
-      "symbol": "",
-      "sentiment_score": 0.6249,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4949105-avery-dennison-corporation-avy-discusses-strategic-importance-and-growth-initiatives-in-high",
-      "cross_verified": true,
-      "published_at": "2026-09-24T20:59:52.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Market Hero or Hiroo Onoda?",
+      "title_ko": "마켓 히어로인가, 오노다 히로오인가?",
+      "snippet": "Markets may be shifting from easy-money to a new regime, demanding vigilance as valuations adjust and old paradigms reset.",
+      "snippet_ko": "시장이 완화적 통화 정책에서 새로운 국면으로 전환되고 있을 수 있으며, 이에 따라 기업 가치 평가가 조정되고 기존의 패러다임이 재편됨에 따라 각별한 주의가 요구된다.",
+      "symbol": "TSLA",
+      "sentiment_score": 0.3818,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/portfolio/market-hero-or-hiroo-onoda/article71537636.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-03T16:47:25.000000Z"
+    },
     {
       "title": "McDonald's: Newest Dividend King, At Fast Food Prices (NYSE:MCD)",
       "title_ko": "맥도날드: 패스트푸드 가격으로 누리는 최신 ‘배당왕’ (NYSE:MCD)",
@@ -2391,18 +2403,6 @@
       "url": "https://www.thehindubusinessline.com/markets/stock-markets/meta-stock-jumps-36-in-september-as-muse-ai-fuels-rally/article71506953.ece",
       "cross_verified": true,
       "published_at": "2026-09-25T03:24:54.000000Z"
-    },
-    {
-      "title": "LSEG – a model case of what’s possible in Britain today",
-      "title_ko": "LSEG – 오늘날 영국에서 무엇이 가능한지를 보여주는 모범 사례",
-      "snippet": "The London Stock Exchange has its issues, but the company that owns it has become a global juggernaut. Its stock is trading at a ten-year low valuation.",
-      "snippet_ko": "런던 증권거래소에는 몇 가지 문제가 있지만, 이 거래소를 소유한 회사는 세계적인 거대 기업으로 성장했다. 이 회사의 주가는 10년 만에 최저 수준에서 거래되고 있다.",
-      "symbol": "MSFT",
-      "sentiment_score": 0.2852,
-      "source": "undervalued-shares.com",
-      "url": "https://www.undervalued-shares.com/weekly-dispatches/lseg-a-model-case-of-whats-possible-in-britain-today/",
-      "cross_verified": true,
-      "published_at": "2026-09-25T06:32:27.000000Z"
     }
   ]
 }
