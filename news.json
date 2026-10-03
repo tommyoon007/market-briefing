@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-03T04:50:25.046143+00:00",
+  "updated_at": "2026-10-03T11:26:53.778229+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Nitin Nohria: Why it’s so hard for CEOs to stay grounded",
+      "title_ko": "니틴 노리아: CEO들이 겸손함을 유지하기가 왜 그렇게 어려운가",
+      "snippet": "Do you apologize when you're late? The perks and deference that make a CEOs job easier risk disconnecting them from other peoples' lives.",
+      "snippet_ko": "늦었을 때 사과하시나요? CEO의 업무를 수월하게 만들어 주는 특권과 예우가 오히려 다른 사람들의 삶과 단절될 위험을 초래할 수 있습니다.",
+      "symbol": "",
+      "sentiment_score": 0.0772,
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/10/03/nitin-nohria-why-its-so-hard-for-ceos-to-stay-grounded/",
+      "cross_verified": true,
+      "published_at": "2026-10-03T10:30:00.000000Z"
+    },
+    {
+      "title": "Taylor Devices Stock: Another Ugly Quarter Could Set Up A Big Rebound (NASDAQ:TAYD)",
+      "title_ko": "테일러 디바이스 주가: 또 한 번의 부진한 분기 실적이 큰 반등을 이끌 수 있다 (나스닥:TAYD)",
+      "snippet": "Taylor Devices (TAYD) hit weak earnings but holds a record $55.2M backlog and strong cash flow. Read here for a detailed investment analysis.",
+      "snippet_ko": "테일러 디바이스(TAYD)는 부진한 실적을 기록했으나, 사상 최대 규모인 5,520만 달러의 수주 잔고를 보유하고 있으며 현금 흐름도 탄탄합니다. 자세한 투자 분석은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": -0.6475,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4951755-taylor-devices-another-ugly-quarter-could-set-up-a-big-rebound",
+      "cross_verified": true,
+      "published_at": "2026-10-03T10:27:11.000000Z"
+    },
+    {
+      "title": "Gold Royalty: 6x Production Growth By 2030 (NYSE:GROY)",
+      "title_ko": "골드 로열티: 2030년까지 생산량 6배 증가 전망 (NYSE:GROY)",
+      "snippet": "Gold Royalty is rated Buy, as a high current valuation offsets massive 2030 upside, although execution, dilution, and commodity risks remain. Read more on GROY.",
+      "snippet_ko": "골드 로열티(Gold Royalty)는 ‘매수’ 등급을 받았는데, 현재 높은 주가 평가가 2030년의 막대한 상승 여력을 상쇄하고 있지만, 사업 실행, 희석화 및 원자재 관련 위험은 여전히 남아 있기 때문이다. GROY에 대한 자세한 내용을 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.5751,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4951751-gold-royalty-6x-production-growth-by-2030",
+      "cross_verified": true,
+      "published_at": "2026-10-03T09:55:35.000000Z"
+    },
     {
       "title": "Ball Corporation Stock: A Wager On Packaging Instead Of Beverages (NYSE:BALL)",
       "title_ko": "볼 코퍼레이션 주식: 음료 대신 포장 산업에 거는 내기 (NYSE:BALL)",
@@ -1165,45 +1201,33 @@
       "url": "https://seekingalpha.com/article/4949576-chevron-buy-on-long-term-signals-and-forget-about-it",
       "cross_verified": true,
       "published_at": "2026-09-24T20:41:38.000000Z"
-    },
-    {
-      "title": "Dycom Industries, Inc. (DY) Presents at 25th Annual Diversified Industrials & Services Conference Transcript",
-      "title_ko": "Dycom Industries, Inc. (DY), 제25회 연례 다각화 산업 및 서비스 컨퍼런스에서 발표 - 발표록",
-      "snippet": "Dycom Industries, Inc. (DY) 25th Annual Diversified Industrials & Services Conference September 24, 2026 9:00 AM EDTCompany ParticipantsDaniel Peyovich...",
-      "snippet_ko": "Dycom Industries, Inc. (DY) 제25회 연례 다각화 산업 및 서비스 컨퍼런스 2026년 9월 24일 오전 9:00 (EDT) 참가 기업 대표 Daniel Peyovich...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4949503-dycom-industries-inc-dy-presents-at-25th-annual-diversified-industrials-and-services",
-      "cross_verified": true,
-      "published_at": "2026-09-24T16:29:48.000000Z"
-    },
-    {
-      "title": "Mortgage Rates Average 7.03%",
-      "title_ko": "주택담보대출 금리 평균 7.03%",
-      "snippet": "Mortgage Rates Average 7.03%",
-      "snippet_ko": "주택담보대출 금리 평균 7.03%",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/25/tmt-newswire/globenewswire/mortgage-rates-average-703/2432555",
-      "cross_verified": true,
-      "published_at": "2026-09-24T16:18:37.000000Z"
-    },
-    {
-      "title": "Cricut® Launches a New Category with the All-New Cricut StickerPix™ Line, Bringing Personalized Sticker Making into Its Creativity Platform",
-      "title_ko": "Cricut®이 완전히 새로워진 Cricut StickerPix™ 라인을 통해 새로운 카테고리를 선보이며, 맞춤형 스티커 제작 기능을 자사의 창의성 플랫폼에 도입했습니다.",
-      "snippet": "With new Cricut StickerPix Print + Cut™ and Cricut StickerPix Print™, users can make custom stickers and photo prints - at home, in minutes",
-      "snippet_ko": "새로운 Cricut StickerPix Print + Cut™ 및 Cricut StickerPix Print™를 사용하면, 사용자는 집에서 단 몇 분 만에 나만의 스티커와 사진 인화물을 만들 수 있습니다.",
-      "symbol": "",
-      "sentiment_score": 0.18,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/25/tmt-newswire/globenewswire/cricut-launches-a-new-category-with-the-all-new-cricut-stickerpix-line-bringing-personalized-sticker-making-into-its-creativity-platform/2432553",
-      "cross_verified": true,
-      "published_at": "2026-09-24T16:18:26.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Comcast (CMCSA) vs. Disney (DIS): Both Stocks Are Struggling. Is There Light at the End of the Tunnel?",
+      "title_ko": "컴캐스트(CMCSA) 대 디즈니(DIS): 두 종목 모두 부진한 행보를 보이고 있다. 터널 끝에는 희망의 빛이 보일까?",
+      "snippet": "Comcast Corporation (NASDAQ:CMCSA) and The Walt Disney Company (NYSE:DIS) have both had a rough few years.",
+      "snippet_ko": "컴캐스트 코퍼레이션(나스닥: CMCSA)과 월트 디즈니 컴퍼니(뉴욕증권거래소: DIS)는 모두 지난 몇 년간 힘든 시기를 겪어왔다.",
+      "symbol": "DIS",
+      "sentiment_score": 0.4695,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/comcast-cmcsa-vs-disney-dis-both-stocks-are-struggling-is-there-light-at-the-end-of-the-tunnel-1847567/",
+      "cross_verified": true,
+      "published_at": "2026-10-03T04:18:11.000000Z"
+    },
+    {
+      "title": "Eli Lilly (LLY) and AbbVie (ABBV) Are Expanding Their Pipelines. Their Valuations Tell Two Different Stories",
+      "title_ko": "일라이 릴리(LLY)와 애브비(ABBV)가 신약 파이프라인을 확대하고 있다. 두 회사의 기업 가치는 상반된 양상을 보여주고 있다.",
+      "snippet": "Obesity drugs, pipeline investment, and manufacturing capacity are reshaping the pharmaceutical industry's growth equation.",
+      "snippet_ko": "비만 치료제, 신약 개발 파이프라인에 대한 투자, 그리고 생산 능력은 제약 산업의 성장 방정식을 재편하고 있다.",
+      "symbol": "MRK",
+      "sentiment_score": 0.4151,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/eli-lilly-lly-and-abbvie-abbv-are-expanding-their-pipelines-their-valuations-tell-two-different-stories-1847639/",
+      "cross_verified": true,
+      "published_at": "2026-10-03T03:59:26.000000Z"
+    },
     {
       "title": "Apple to tighten Mac data controls against AI agents and third-party apps",
       "title_ko": "애플, AI 에이전트 및 타사 앱에 대한 맥 데이터 관리 강화 예정",
@@ -2379,30 +2403,6 @@
       "url": "https://seekingalpha.com/article/4949569-meta-muse-completely-rewrites-the-playbook-rating-upgrade",
       "cross_verified": true,
       "published_at": "2026-09-24T20:25:18.000000Z"
-    },
-    {
-      "title": "Can You Be a Boglehead Tech Investor?",
-      "title_ko": "당신도 ‘보글헤드’ 기술주 투자자가 될 수 있을까요?",
-      "snippet": "A reader, Most of my friends work in tech and while they understand the Boglehead philosophy, the concern is that there is limited upside in public equities and most of the value is captured while companies are private these days. If the most valuable new companies increasingly create their biggest gains while private, will traditional...",
-      "snippet_ko": "한 독자분께서, “제 친구들 대부분은 IT 업계에서 일하고 있는데, 보글헤드(Boglehead) 철학을 이해하긴 하지만, 요즘은 상장 주식의 상승 여력이 제한적이며 기업의 가치 대부분이 비상장 상태에서 이미 실현된다는 점이 우려스럽습니다. 가장 가치 있는 신생 기업들이 비상장 상태에서 점점 더 큰 수익을 창출한다면, 전통적인...",
-      "symbol": "AAPL",
-      "sentiment_score": 0.6856,
-      "source": "awealthofcommonsense.com",
-      "url": "https://awealthofcommonsense.com/2026/09/can-you-be-a-boglehead-tech-investor/",
-      "cross_verified": true,
-      "published_at": "2026-09-24T18:46:08.000000Z"
-    },
-    {
-      "title": "McDonald's: Investor Day Selloff Makes NEXT A Buy (NYSE:MCD)",
-      "title_ko": "맥도날드: ‘투자자의 날’ 이후 주가 급락으로 NEXT 매수 기회 (NYSE:MCD)",
-      "snippet": "McDonald's Corporation is rated Buy after a post-Investor Day pullback, with valuation and dividend yield now more attractive. Click for more on MCD.",
-      "snippet_ko": "맥도날드 코퍼레이션은 ‘투자자의 날’ 행사 이후 주가가 조정세를 보인 가운데, 현재 기업 가치와 배당 수익률이 더욱 매력적으로 평가되어 ‘매수’ 등급을 받았습니다. MCD에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "MCD",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4949544-mcdonalds-investor-day-selloff-makes-next-a-buy",
-      "cross_verified": true,
-      "published_at": "2026-09-24T18:42:32.000000Z"
     }
   ]
 }
