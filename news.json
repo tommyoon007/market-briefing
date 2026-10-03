@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-02T23:39:20.959192+00:00",
+  "updated_at": "2026-10-03T04:50:25.046143+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Ball Corporation Stock: A Wager On Packaging Instead Of Beverages (NYSE:BALL)",
+      "title_ko": "볼 코퍼레이션 주식: 음료 대신 포장 산업에 거는 내기 (NYSE:BALL)",
+      "snippet": "Explore Ball Corp (BALL) in the segmented beverage market—South America growth, dividends & buybacks, and niche marketing insights. See more here.",
+      "snippet_ko": "세분화된 음료 시장에서 Ball Corp(BALL)을 살펴보세요—남미 시장 성장, 배당금 및 자사주 매입, 틈새 시장 마케팅에 대한 통찰력을 확인하세요. 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4951718-ball-corporation-a-wager-on-packaging-instead-of-beverages",
+      "cross_verified": true,
+      "published_at": "2026-10-03T03:51:35.000000Z"
+    },
+    {
+      "title": "FAA panel finds Boeing 737 Max software glitch poses no safety risk",
+      "title_ko": "FAA 위원회, 보잉 737 맥스 소프트웨어 결함이 안전상의 위험을 초래하지 않는다고 판단",
+      "snippet": "The FAA review found pilots retain full control and receive clear indications during a go-around, a decision that could aid Boeing's approval bid for the largest 737 Max variant",
+      "snippet_ko": "FAA의 검토 결과, 조종사들은 재이륙 과정에서 완전한 조종권을 유지하며 명확한 표시를 받는 것으로 나타났는데, 이러한 결정은 보잉이 737 맥스 시리즈 중 가장 큰 기종의 승인을 얻기 위한 노력에 도움이 될 수 있다.",
+      "symbol": "",
+      "sentiment_score": 0.0536,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/faa-panel-finds-boeing-737-max-software-glitch-poses-no-safety-risk-126100300111_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-03T03:38:09.000000Z"
+    },
     {
       "title": "A Look at RadNet Inc (RDNT) After 3.3% Gain -- GF Value $70.03 vs Price $69.93",
       "title_ko": "3.3% 상승한 RadNet Inc(RDNT) 분석 — GF 가치 $70.03 vs 주가 $69.93",
@@ -1177,33 +1201,45 @@
       "url": "https://www.manilatimes.net/2026/09/25/tmt-newswire/globenewswire/cricut-launches-a-new-category-with-the-all-new-cricut-stickerpix-line-bringing-personalized-sticker-making-into-its-creativity-platform/2432553",
       "cross_verified": true,
       "published_at": "2026-09-24T16:18:26.000000Z"
-    },
-    {
-      "title": "H & M Hennes & Mauritz AB (publ) (HNNMY) Q3 2026 Earnings Call Transcript",
-      "title_ko": "H&M Hennes & Mauritz AB (publ) (HNNMY) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "H & M Hennes & Mauritz AB (publ) (HNNMY) Q3 2026 Earnings Call September 24, 2026 3:00 AM EDTCompany ParticipantsJoseph Ahlberg - Head of Investor...",
-      "snippet_ko": "H&M Hennes & Mauritz AB (publ) (HNNMY) 2026년 3분기 실적 발표 컨퍼런스 콜, 2026년 9월 24일 오전 3:00 (EDT) 회사 참가자: Joseph Ahlberg - 투자자 관계 책임자...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4949336-h-and-m-hennes-and-mauritz-ab-publ-hnnmy-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-09-24T10:59:30.000000Z"
-    },
-    {
-      "title": "SFIX Looks 16.1% Undervalued on GF Value™ Despite Unprofitability",
-      "title_ko": "SFIX는 적자 상태임에도 불구하고 GF Value™ 기준 16.1% 저평가된 것으로 나타났습니다.",
-      "snippet": "On September 24, 2026, Stitch Fix Inc (NASDAQ: SFIX) reported a 4.2% increase in Q4 revenue, reaching $324.4 million and driving full-year revenue growth of 6.4",
-      "snippet_ko": "2026년 9월 24일, 스티치 픽스(Stitch Fix Inc, 나스닥: SFIX)는 4분기 매출이 4.2% 증가해 3억 2,440만 달러를 기록했으며, 이로 인해 연간 매출 성장률이 6.4%를 달성했다고 발표했다.",
-      "symbol": "",
-      "sentiment_score": 0.4786,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9095052/sfix-looks-161-undervalued-on-gf-value-despite-unprofitability",
-      "cross_verified": true,
-      "published_at": "2026-09-24T10:57:16.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Apple to tighten Mac data controls against AI agents and third-party apps",
+      "title_ko": "애플, AI 에이전트 및 타사 앱에 대한 맥 데이터 관리 강화 예정",
+      "snippet": "The new controls will require more explicit user action before apps can get Full Disk Access, as Apple warns of growing privacy risks from AI agents seeking broad access to personal data",
+      "snippet_ko": "애플이 개인 데이터에 대한 광범위한 접근 권한을 요구하는 AI 에이전트로 인해 개인정보 보호 위험이 커지고 있다고 경고함에 따라, 새로운 제어 기능은 앱이 ‘전체 디스크 액세스’ 권한을 얻기 전에 사용자가 보다 명확한 조치를 취하도록 요구할 예정이다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.1975,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/technology/tech-news/apple-to-tighten-mac-data-controls-against-ai-agents-and-third-party-apps-126100300109_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-03T03:37:05.000000Z"
+    },
+    {
+      "title": "Apple asks AT&T users to replace iPhone 18 Pro Max after network glitch",
+      "title_ko": "애플, 네트워크 오류 발생 후 AT&T 사용자들에게 아이폰 18 프로 맥스 교체 요청",
+      "snippet": "A software or hardware issue has left some iPhone 18 Pro Max users without cellular service, preventing calls, texts and mobile data unless their devices are connected to Wi-Fi",
+      "snippet_ko": "소프트웨어 또는 하드웨어 문제로 인해 일부 아이폰 18 프로 맥스 사용자들이 셀룰러 서비스를 이용할 수 없게 되어, 기기가 Wi-Fi에 연결되어 있지 않으면 전화, 문자, 모바일 데이터 사용이 불가능한 상태입니다.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.133,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/technology/tech-news/apple-asks-at-t-users-to-replace-iphone-18-pro-max-after-network-glitch-126100300103_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-03T03:28:23.000000Z"
+    },
+    {
+      "title": "Jensen Huang's net worth crosses $200 billion, becomes world's 7th-richest person as Nvidia shares hit record",
+      "title_ko": "엔비디아 주가가 사상 최고치를 기록하면서 젠슨 황의 순자산이 2,000억 달러를 넘어 세계 7위 부호에 올랐다",
+      "snippet": "Nvidia's CEO, Jensen Huang, has a net worth exceeding $200 billion as his company’s shares reached an all-time high of $237. Huang's fortune increased by $3.4 billion, positioning him as the seventh-richest person globally, driven by demand for AI chips and a significant buyback announcement.",
+      "snippet_ko": "엔비디아의 젠슨 황 CEO는 자사 주가가 사상 최고치인 237달러를 기록함에 따라 순자산이 2,000억 달러를 넘어섰다. AI 칩에 대한 수요와 대규모 자사주 매입 발표에 힘입어 황 CEO의 재산은 34억 달러 증가했으며, 이로 인해 그는 전 세계 부자 순위 7위에 올랐다.",
+      "symbol": "META",
+      "sentiment_score": 0.6764,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/news/jensen-huangs-net-worth-crosses-200-billion-becomes-worlds-7th-richest-person-as-nvidia-shares-hit-record-11790990983761.html",
+      "cross_verified": true,
+      "published_at": "2026-10-03T02:25:17.000000Z"
+    },
     {
       "title": "Is It Too Late to Buy Broadcom Inc (AVGO) After 3.4% Rally? GF Value Says Undervalued",
       "title_ko": "3.4% 상승한 지금, 브로드컴(AVGO) 매수가 너무 늦은 걸까? GF 밸류, “저평가됐다”고 분석",
@@ -2367,42 +2403,6 @@
       "url": "https://seekingalpha.com/article/4949544-mcdonalds-investor-day-selloff-makes-next-a-buy",
       "cross_verified": true,
       "published_at": "2026-09-24T18:42:32.000000Z"
-    },
-    {
-      "title": "GOOG Looks 33.1% Overvalued on GF Value™ as AI Space Initiative Unfolds",
-      "title_ko": "AI 분야 진출이 본격화되면서 GOOG, GF Value™ 기준 33.1% 과대평가된 것으로 나타남",
-      "snippet": "On September 24, 2026, Alphabet Inc (GOOG) announced a pioneering step in deploying artificial intelligence processors in space through its Project Suncatcher.",
-      "snippet_ko": "2026년 9월 24일, 알파벳(Alphabet Inc, GOOG)은 ‘프로젝트 선캐처(Project Suncatcher)’를 통해 우주 공간에 인공지능 프로세서를 배치하는 데 있어 선구적인 조치를 발표했습니다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.4086,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9095707/goog-looks-331-overvalued-on-gf-value-as-ai-space-initiative-unfolds",
-      "cross_verified": true,
-      "published_at": "2026-09-24T15:56:26.000000Z"
-    },
-    {
-      "title": "Why US stock market crashes today? 3 reasons Dow Jones, Nasdaq and S&P 500 are in deep red as tech stocks fall across the board",
-      "title_ko": "오늘 미국 증시가 폭락한 이유는 무엇일까? 기술주들이 일제히 하락하면서 다우존스, 나스닥, S&P 500 지수가 큰 폭의 하락세를 보이는 3가지 이유",
-      "snippet": "Why US Stock Market Is Falling Today? US equities stumbled across the board Thursday morning, with all three major market benchmarks sliding into negative territory. The Dow Jones Industrial Average dropped 383 points, while the tech-heavy Nasdaq Composite and the S&P 500 fell 0.8% and 0.5% respectively. Oracle fell 4.95%, taking $7.16 off its share price to trade around $137.40.",
-      "snippet_ko": "오늘 미국 증시가 하락하는 이유는 무엇일까? 목요일 오전 미국 증시는 전반적으로 부진한 모습을 보였으며, 3대 주요 지수 모두 하락세로 돌아섰다. 다우존스 산업평균지수는 383포인트 하락했고, 기술주 중심의 나스닥 종합지수와 S&P 500 지수는 각각 0.8%와 0.5% 하락했다. 오라클은 4.95% 하락하며 주가가 7.16달러 떨어져 137.40달러 선에서 거래되고 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.8709,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-us-stock-market-crashes-today-3-reasons-dow-jones-nasdaq-and-sp-500-are-in-deep-red-as-tech-stocks-fall-across-the-board/articleshow/134466037.cms",
-      "cross_verified": true,
-      "published_at": "2026-09-24T15:52:13.000000Z"
-    },
-    {
-      "title": "Amazon Expands Robotics Manufacturing with $100M Investment in Indiana",
-      "title_ko": "아마존, 인디애나주에 1억 달러 투자하며 로봇 제조 사업 확대",
-      "snippet": "On September 24, 2026, Amazon.com Inc (AMZN) announced plans to enhance its robotics production capabilities with a new manufacturing facility in Greenwood, Ind",
-      "snippet_ko": "2026년 9월 24일, 아마존닷컴(Amazon.com Inc, AMZN)은 인디애나주 그린우드에 새로운 제조 시설을 설립해 로봇 생산 역량을 강화할 계획을 발표했다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.0258,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9095663/amazon-expands-robotics-manufacturing-with-100m-investment-in-indiana",
-      "cross_verified": true,
-      "published_at": "2026-09-24T15:30:33.000000Z"
     }
   ]
 }
