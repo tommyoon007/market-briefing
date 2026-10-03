@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-03T11:26:53.778229+00:00",
+  "updated_at": "2026-10-03T16:02:56.097490+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Nearly 1,400 laid off at Ohio factory days before Trump rally. Former supporter will help elect Dems",
+      "title_ko": "트럼프 유세 며칠 전 오하이오 주 공장에서 약 1,400명이 해고됐다. 한때 트럼프 지지자였던 이 인물이 민주당 후보 당선을 돕기로 했다.",
+      "snippet": "The layoffs were large enough to basically erase an entire year of job growth in the greater Dayton, Ohio, area.",
+      "snippet_ko": "이번 정리해고 규모는 오하이오주 데이턴 광역권의 1년 치 일자리 증가분을 사실상 무효화할 정도로 컸다.",
+      "symbol": "",
+      "sentiment_score": 0.6124,
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/10/03/ohio-truck-factory-layoffs-trump-rally-former-supporter-democrats-midterm-elections/",
+      "cross_verified": true,
+      "published_at": "2026-10-03T14:37:36.000000Z"
+    },
+    {
+      "title": "Radhakishan Damani's firm leases luxury apartment in Mumbai’s Worli for ₹28.5 lakh a month, pays ₹1.71 crore deposit",
+      "title_ko": "라다키샨 다마니의 회사는 뭄바이 워리 지역의 고급 아파트를 월 28.5 lakh에 임대하고, 보증금으로 1.71 crore를 지불했다.",
+      "snippet": "The 6,831-square-foot apartment is located on the 19th floor of Tower B of Three Sixty West, a luxury residential project on Dr Annie Besant Road in Worli",
+      "snippet_ko": "6,831제곱피트 규모의 이 아파트는 워리(Worli)의 애니 베산트 박사 로드(Dr Annie Besant Road)에 위치한 고급 주거 단지인 ‘쓰리 식스티 웨스트(Three Sixty West)’의 B동 19층에 자리 잡고 있습니다.",
+      "symbol": "",
+      "sentiment_score": -0.2263,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/industry/real-estate/d-mart-radhakishan-damani-firm-leases-luxury-apartment-in-mumbai-worli-for-28-5-lakh-a-month-pays-1-71-crore-deposit-11791034198444.html",
+      "cross_verified": true,
+      "published_at": "2026-10-03T14:32:41.000000Z"
+    },
     {
       "title": "Nitin Nohria: Why it’s so hard for CEOs to stay grounded",
       "title_ko": "니틴 노리아: CEO들이 겸손함을 유지하기가 왜 그렇게 어려운가",
@@ -1177,33 +1201,57 @@
       "url": "https://seekingalpha.com/article/4949105-avery-dennison-corporation-avy-discusses-strategic-importance-and-growth-initiatives-in-high",
       "cross_verified": true,
       "published_at": "2026-09-24T20:59:52.000000Z"
-    },
-    {
-      "title": "Oracle's 'force majeure' notice raises questions about the company's ability to deliver on AI data centers",
-      "title_ko": "오라클의 ‘불가항력’ 통지가 해당 회사의 AI 데이터센터 구축 이행 능력에 대한 의문을 제기하고 있다",
-      "snippet": "Oracle shares were down about 4% on Thursday amid investor questions about its ability to deliver on its massive AI infrastructure expansion.",
-      "snippet_ko": "목요일, 오라클의 주가는 대규모 AI 인프라 확충 계획을 제대로 이행할 수 있을지에 대한 투자자들의 의구심이 제기되면서 약 4% 하락했다.",
-      "symbol": "",
-      "sentiment_score": 0.0126,
-      "source": "businessinsider.com",
-      "url": "https://www.businessinsider.com/oracle-force-majeure-raises-questions-delivering-ai-data-center-2026-9",
-      "cross_verified": true,
-      "published_at": "2026-09-24T20:42:08.000000Z"
-    },
-    {
-      "title": "Chevron: Buy On Long-Term Signals And Forget About It (NYSE:CVX)",
-      "title_ko": "셰브론: 장기적 신호를 보고 매수한 뒤 신경 쓰지 마세요 (NYSE:CVX)",
-      "snippet": "Chevron's stock is now approaching its fair value, but over the long run, downside risk remains limited. Read the full analysis here on CVX.",
-      "snippet_ko": "셰브론의 주가는 현재 적정 가치에 근접하고 있지만, 장기적으로 볼 때 하락 위험은 여전히 제한적입니다. CVX에 대한 전체 분석은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": -0.2263,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4949576-chevron-buy-on-long-term-signals-and-forget-about-it",
-      "cross_verified": true,
-      "published_at": "2026-09-24T20:41:38.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "McDonald's: Newest Dividend King, At Fast Food Prices (NYSE:MCD)",
+      "title_ko": "맥도날드: 패스트푸드 가격으로 누리는 최신 ‘배당왕’ (NYSE:MCD)",
+      "snippet": "McDonald's is rated Buy at a deep discount vs. $301 fair value. Click for more on MCD stock.",
+      "snippet_ko": "맥도날드는 공정가치인 301달러에 비해 크게 할인된 가격에 거래되고 있어 ‘매수’ 등급을 받았습니다. MCD 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "MCD",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4951281-mcdonalds-newest-dividend-king-at-fast-food-prices",
+      "cross_verified": true,
+      "published_at": "2026-10-03T12:00:00.000000Z"
+    },
+    {
+      "title": "Super Micro’s $65 Billion Guide, HPE’s $69.33 Close, and Google’s TPU Test",
+      "title_ko": "슈퍼마이크로의 650억 달러 실적 전망, HPE의 69.33달러 종가, 그리고 구글의 TPU 테스트",
+      "snippet": "Super Micro closed up 4.22% at $43.69 into a $65 billion guide. HPE finished Friday at $69.33. Google's four orbital TPUs are a heat test, not a data center.",
+      "snippet_ko": "슈퍼마이크로는 650억 달러 규모의 실적 전망치를 발표하며 4.22% 상승한 43.69달러로 장을 마감했다. HPE는 금요일 69.33달러로 장을 마쳤다. 구글의 4개 궤도형 TPU는 데이터 센터가 아니라 열 테스트용이다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.1746,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/super-micro-65-billion-vera-rubin-hpe-google-tpu/",
+      "cross_verified": true,
+      "published_at": "2026-10-03T11:41:13.000000Z"
+    },
+    {
+      "title": "SpaceX Stock at $159: Bull $235, Bear $145 After Orbit",
+      "title_ko": "스페이스X 주가 159달러: 궤도 진입 후 강세 전망 235달러, 약세 전망 145달러",
+      "snippet": "SpaceX closed up 7.35% at $158.96 on 2 Oct after Starship's first orbit and three launches in 13 hours. TD Cowen's $200 call, AI compute and scenarios.",
+      "snippet_ko": "스타십의 첫 궤도 진입과 13시간 동안 세 차례의 발사가 이어진 후, 스페이스X는 10월 2일 7.35% 상승한 158.96달러에 장을 마감했다. TD 코웬의 200달러 콜 옵션, AI 컴퓨팅 및 시나리오.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3004,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/spacex-spcx-stock-159-starship-orbit-three-launches-13-hours-bull-235-bear-145/",
+      "cross_verified": true,
+      "published_at": "2026-10-03T10:51:37.000000Z"
+    },
+    {
+      "title": "How Nvidia, Micron and a surprising jobs report drove last week's stock action",
+      "title_ko": "엔비디아, 마이크론, 그리고 예상 밖의 고용 보고서가 지난주 주식 시세를 어떻게 주도했는지",
+      "snippet": "Here's a closer look at the three developments that drove the action in our portfolio last week.",
+      "snippet_ko": "지난주 우리 포트폴리오의 움직임을 주도한 세 가지 주요 동향을 자세히 살펴보겠습니다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.4504,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/03/how-nvidia-micron-and-a-surprising-jobs-report-drove-last-weeks-stock-action.html",
+      "cross_verified": true,
+      "published_at": "2026-10-03T15:06:10.000000Z"
+    },
     {
       "title": "Comcast (CMCSA) vs. Disney (DIS): Both Stocks Are Struggling. Is There Light at the End of the Tunnel?",
       "title_ko": "컴캐스트(CMCSA) 대 디즈니(DIS): 두 종목 모두 부진한 행보를 보이고 있다. 터널 끝에는 희망의 빛이 보일까?",
@@ -2355,54 +2403,6 @@
       "url": "https://www.undervalued-shares.com/weekly-dispatches/lseg-a-model-case-of-whats-possible-in-britain-today/",
       "cross_verified": true,
       "published_at": "2026-09-25T06:32:27.000000Z"
-    },
-    {
-      "title": "Could John Ternus’ Product Strategy Reshape Apple’s (AAPL) Next Growth Phase?",
-      "title_ko": "존 테르누스의 제품 전략이 애플(AAPL)의 다음 성장 단계를 재편할 수 있을까?",
-      "snippet": "Apple Inc.",
-      "snippet_ko": "애플(Apple Inc.)",
-      "symbol": "AAPL",
-      "sentiment_score": 0.1978,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/could-john-ternus-product-strategy-reshape-apples-aapl-next-growth-phase-1841161/",
-      "cross_verified": true,
-      "published_at": "2026-09-24T23:01:17.000000Z"
-    },
-    {
-      "title": "Google is Changing Search to Avoid More EU Fines. Could Compliance Become the Bigger Risk?",
-      "title_ko": "구글, EU의 추가 과징금을 피하기 위해 검색 서비스를 변경하고 있다. 규정 준수가 더 큰 위험 요소가 될 수 있을까?",
-      "snippet": "Alphabet Inc. (NASDAQ:GOOGL) has spent years fighting European regulators over how Google Search treats competing services.",
-      "snippet_ko": "알파벳(Alphabet Inc., 나스닥: GOOGL)은 구글 검색이 경쟁 서비스를 어떻게 취급하는지를 둘러싸고 수년 동안 유럽 규제 당국과 갈등을 빚어왔다.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.1694,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/google-is-changing-search-to-avoid-more-eu-fines-could-compliance-become-the-bigger-risk-1841248/",
-      "cross_verified": true,
-      "published_at": "2026-09-24T22:44:00.000000Z"
-    },
-    {
-      "title": "Meta: Muse AI Set To Create New Multibillion-Dollar Revenue Stream (NASDAQ:META)",
-      "title_ko": "메타: 뮤즈 AI, 수십억 달러 규모의 새로운 수익원 창출 전망 (나스닥: META)",
-      "snippet": "Meta Platforms has launched Muse AI, which quickly topped U.S. app download charts, signaling robust user adoption. Click for more on this META update.",
-      "snippet_ko": "메타 플랫폼스(Meta Platforms)가 ‘뮤즈 AI(Muse AI)’를 출시했으며, 이 앱은 미국 앱 다운로드 차트에서 단숨에 1위를 차지하며 사용자들 사이에서 큰 호응을 얻고 있음을 보여주었습니다. 이 META 관련 소식에 대해 더 자세히 알아보려면 여기를 클릭하세요.",
-      "symbol": "META",
-      "sentiment_score": 0.2732,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4949599-meta-muse-ai-set-to-create-new-multibillion-dollar-revenue-stream",
-      "cross_verified": true,
-      "published_at": "2026-09-24T22:13:44.000000Z"
-    },
-    {
-      "title": "Meta: Muse Completely Rewrites The Playbook (Rating Upgrade) (NASDAQ:META)",
-      "title_ko": "메타: 뮤즈, 게임의 룰을 완전히 뒤바꾸다 (등급 상향) (나스닥:META)",
-      "snippet": "Meta Platforms is upgraded to a Strong Buy as the Muse AI agent transforms growth prospects and monetization potential. Read more on META stock here.",
-      "snippet_ko": "뮤즈 AI 에이전트가 성장 전망과 수익화 잠재력을 변화시키면서 메타 플랫폼스(Meta Platforms)의 투자 등급이 ‘강력 매수’로 상향 조정되었습니다. META 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "META",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4949569-meta-muse-completely-rewrites-the-playbook-rating-upgrade",
-      "cross_verified": true,
-      "published_at": "2026-09-24T20:25:18.000000Z"
     }
   ]
 }
