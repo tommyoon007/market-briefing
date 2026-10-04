@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-04T08:15:35.484451+00:00",
+  "updated_at": "2026-10-04T15:12:53.603869+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Micron's Hidden Financing Advantage (NASDAQ:MU)",
+      "title_ko": "마이크론(NASDAQ:MU)의 숨겨진 자금 조달 강점",
+      "snippet": "Micron’s blowout revenue, margins & FCF show strong AI memory demand. Click for more on MU stock.",
+      "snippet_ko": "마이크론의 폭발적인 매출, 마진 및 자유현금흐름(FCF)은 AI 메모리 수요가 강세를 보이고 있음을 보여줍니다. MU 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.125,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4951838-microns-hidden-financing-advantage",
+      "cross_verified": true,
+      "published_at": "2026-10-04T14:35:00.000000Z"
+    },
+    {
+      "title": "TSMC Q3 Earnings Preview: I’m Loading Up Before The Print, And You Should Too (NYSE:TSM)",
+      "title_ko": "TSMC 3분기 실적 전망: 실적 발표 전에 매수하고 있는데, 여러분도 그렇게 하세요 (NYSE:TSM)",
+      "snippet": "TSMC outlook: strong Q3 earnings, bullish AI demand, and capex commentary expected. Click for more on TSM stock.",
+      "snippet_ko": "TSMC 전망: 3분기 호실적, AI 수요 호조, 설비투자 관련 언급이 예상된다. TSM 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.3298,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4951851-tsmc-q3-earnings-preview-i-am-loading-up-before-print-you-should-too",
+      "cross_verified": true,
+      "published_at": "2026-10-04T14:22:51.000000Z"
+    },
+    {
+      "title": "H&R Block Stock: The Tax Business Isn't Going Away That Easily (NYSE:HRB)",
+      "title_ko": "H&R Block 주가: 세무 사업은 그렇게 쉽게 사라지지 않을 것이다 (NYSE:HRB)",
+      "snippet": "H&R Block buy case: 7x cash flow, AI-driven growth beyond tax season, focus on complex & SMB clients, and strong buybacks. Click for more on HRB stock.",
+      "snippet_ko": "H&R Block 매수 사례: 현금 흐름의 7배, 세금 신고 시즌을 넘어선 AI 주도 성장, 복잡한 세무 문제 고객 및 중소기업 고객에 대한 집중, 그리고 적극적인 자사주 매입. HRB 주식에 대한 자세한 내용을 보려면 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.17,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4951850-h-and-r-block-a-boring-business-with-an-interesting-return",
+      "cross_verified": true,
+      "published_at": "2026-10-04T14:08:48.000000Z"
+    },
     {
       "title": "Geopolitical Tensions and Market Cooling: Global Summary for October 4, 2026",
       "title_ko": "지정학적 긴장과 시장 침체: 2026년 10월 4일 글로벌 요약",
@@ -1165,45 +1201,33 @@
       "url": "https://economictimes.indiatimes.com/opinion/et-commentary/chinas-manufacturing-scale-shows-the-path-to-first-world-status/articleshow/134490091.cms",
       "cross_verified": true,
       "published_at": "2026-09-25T17:21:14.000000Z"
-    },
-    {
-      "title": "Invesco Balanced-Risk Allocation Fund Q2 2026 Commentary (ABRZX)",
-      "title_ko": "인베스코 균형 위험 분산 펀드 2026년 2분기 운용 보고 (ABRZX)",
-      "snippet": "The Invesco Balanced-Risk Allocation Fund underperformed its benchmark in Q2 2026 despite gains in growth factors. Read the full analysis for more details.",
-      "snippet_ko": "인베스코 균형 위험 배분 펀드는 2026년 2분기 성장 요인에서 상승세를 보였음에도 불구하고 벤치마크 수익률을 하회했습니다. 자세한 내용은 전체 분석을 참조하십시오.",
-      "symbol": "",
-      "sentiment_score": 0.2247,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4949828-invesco-balanced-risk-allocation-fund-q2-2026-commentary",
-      "cross_verified": true,
-      "published_at": "2026-09-25T17:20:00.000000Z"
-    },
-    {
-      "title": "Akamai Technologies: Anthropic's Multibillion-Dollar Infrastructure Partner (NASDAQ:AKAM)",
-      "title_ko": "아카마이 테크놀로지스: 앤트로픽의 수십억 달러 규모 인프라 파트너 (나스닥: AKAM)",
-      "snippet": "Akamai Technologies secured a transformative $11.6B, 7-yr contract with Anthropic, potentially reaching $20B & accelerating revenue growth. More on AKAM stock.",
-      "snippet_ko": "아카마이 테크놀로지스(Akamai Technologies)는 앤트로픽(Anthropic)과 7년 기간, 116억 달러 규모의 획기적인 계약을 체결했으며, 이 계약 규모는 최대 200억 달러에 달할 전망이며 매출 성장을 가속화할 것으로 보인다. AKAM 주식에 대한 자세한 내용.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4949822-akamai-technologies-anthropic-multibillion-dollar-infrastructure-partner",
-      "cross_verified": true,
-      "published_at": "2026-09-25T17:15:26.000000Z"
-    },
-    {
-      "title": "NOMAD Power Solutions Expands Its Canadian Commercial Presence with Appointment of Global Environmental Liquid Ltd. as Sales Representative",
-      "title_ko": "NOMAD Power Solutions, Global Environmental Liquid Ltd.를 판매 대리점으로 지정하며 캐나다 내 상업적 입지 확대",
-      "snippet": "GEL brings established relationships across Canada’s mining, utility and industrial sectors",
-      "snippet_ko": "GEL은 캐나다 전역의 광업, 공공사업 및 산업 부문에서 구축된 탄탄한 협력 관계를 바탕으로 하고 있습니다.",
-      "symbol": "",
-      "sentiment_score": 0.296,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/25/tmt-newswire/globenewswire/nomad-power-solutions-expands-its-canadian-commercial-presence-with-appointment-of-global-environmental-liquid-ltd-as-sales-representative/2433066",
-      "cross_verified": true,
-      "published_at": "2026-09-25T12:50:29.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Meta Muse: Meta Stock Rose Nearly 13% on a $28.5 Billion Checkout Bet",
+      "title_ko": "메타 뮤즈: 285억 달러 규모의 ‘체크아웃’ 투자 기대감에 메타 주가 13% 가까이 상승",
+      "snippet": "Meta stock rose nearly 13% as Muse passed ChatGPT. Shopify and PayPal took the checkout, Amazon blocked the agent, and Truist's $28.5 billion is not guidance.",
+      "snippet_ko": "뮤즈가 챗GPT를 제치자 메타 주가가 13% 가까이 상승했다. 쇼피파이와 페이팔이 결제 과정을 주도했고, 아마존은 에이전트를 차단했으며, 트루이스트의 285억 달러는 실적 전망치가 아니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.1175,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/meta-muse-meta-stock-13-percent-28-5-billion/",
+      "cross_verified": true,
+      "published_at": "2026-10-04T10:45:49.000000Z"
+    },
+    {
+      "title": "Google Prices Gemini 4 Argon at $2. Alphabet Closed at $343.50 Behind the Gate",
+      "title_ko": "구글은 제미니 4 아르곤의 가격을 2달러로 책정했다. 알파벳은 343.50달러에 장을 마감했다.",
+      "snippet": "Google priced Gemini 4 Argon at $2 per million input tokens, but most paying customers still cannot buy it. Alphabet Class A closed Friday at $343.50.",
+      "snippet_ko": "구글은 제미니 4 아르곤의 가격을 입력 토큰 100만 개당 2달러로 책정했으나, 대부분의 유료 고객은 여전히 이를 구매할 수 없다. 알파벳 A종 주식은 금요일 343.50달러에 장을 마감했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2009,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/google-gemini-4-argon-2-dollar-alphabet-stock/",
+      "cross_verified": true,
+      "published_at": "2026-10-04T09:45:49.000000Z"
+    },
     {
       "title": "Global Market Update: US Labor Slowdown, Google’s Legal Woes, and Geopolitical Shifts",
       "title_ko": "글로벌 시장 동향: 미국 고용 시장 둔화, 구글의 법적 문제, 지정학적 변화",
@@ -2379,30 +2403,6 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/feds-schmid-warns-of-too-big-to-fail-ai-risks-as-us-china-trade-truce-extends/72232/",
       "cross_verified": true,
       "published_at": "2026-09-25T14:38:20.000000Z"
-    },
-    {
-      "title": "Walmart and Sam's Club Partnership Helps Strengthen Food Access Across North Texas",
-      "title_ko": "월마트와 샘스클럽의 제휴로 북부 텍사스 전역의 식량 접근성이 강화되고 있다",
-      "snippet": "Fight Hunger. Spark Change. campaign raises $235,029 to help North Texas Food Bank provide more food to neighbors facing hunger.",
-      "snippet_ko": "‘기아 퇴치. 변화를 이끌어내자.’ 캠페인을 통해 235,029달러가 모금되어, 노스 텍사스 푸드 뱅크가 기아에 시달리는 이웃들에게 더 많은 식량을 제공할 수 있게 되었습니다.",
-      "symbol": "KO",
-      "sentiment_score": -0.5574,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/25/tmt-newswire/globenewswire/walmart-and-sams-club-partnership-helps-strengthen-food-access-across-north-texas/2433152",
-      "cross_verified": true,
-      "published_at": "2026-09-25T14:33:47.000000Z"
-    },
-    {
-      "title": "I'm Riding Meta Stock Through This Run (NASDAQ:META)",
-      "title_ko": "이번 상승세 동안 메타 주식을 계속 보유할 예정입니다 (NASDAQ:META)",
-      "snippet": "Meta (META) stock update: maintain Buy after 47% run, but stop adding at highs. Read here for a detailed investment analysis.",
-      "snippet_ko": "메타(META) 주가 동향: 47% 상승세 이후 ‘매수’ 추천을 유지하되, 고점에서는 추가 매수를 자제해야 합니다. 자세한 투자 분석은 여기에서 확인하세요.",
-      "symbol": "META",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4949726-i-am-riding-meta-through-this-run",
-      "cross_verified": true,
-      "published_at": "2026-09-25T12:25:00.000000Z"
     }
   ]
 }
