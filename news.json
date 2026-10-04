@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-04T15:12:53.603869+00:00",
+  "updated_at": "2026-10-04T19:23:37.118005+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "The CEO factory: How ICICI, SBI, Axis shaping financial services leadership",
+      "title_ko": "CEO 양성소: ICICI, SBI, Axis가 금융 서비스 분야의 리더십을 어떻게 형성하고 있는가",
+      "snippet": "HDFC Bank, ICICI Bank, SBI and Axis Bank have emerged as key training grounds for financial services leaders who later take up top industry roles",
+      "snippet_ko": "HDFC 은행, ICICI 은행, SBI, 액시스 은행은 이후 업계 최고위직을 맡게 될 금융 서비스 분야 리더들을 양성하는 주요 산실로 부상했다.",
+      "symbol": "",
+      "sentiment_score": 0.4539,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/industry/banking/the-ceo-factory-how-icici-sbi-axis-shaping-financial-services-leadership-126100400791_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-04T18:07:00.000000Z"
+    },
+    {
+      "title": "Inspire Medical (INSP): How Much Optimism Is Baked Into This Medtech Stock?",
+      "title_ko": "인스파이어 메디컬(INSP): 이 의료기술주에는 얼마나 많은 낙관론이 반영되어 있을까?",
+      "snippet": "Inspire Medical Systems (NYSE:INSP) demonstrates strong core gross economics with a 85.5% gross margin, $415.2 million in cash and investments, and a raised 2026 revenue guidance range of $835 million...",
+      "snippet_ko": "인스파이어 메디컬 시스템즈(NYSE:INSP)는 85.5%의 매출총이익률, 4억 1,520만 달러의 현금 및 투자 자산, 그리고 8억 3,500만 달러로 상향 조정된 2026년 매출 전망치를 바탕으로 견고한 핵심 매출 총이익 구조를 보여주고 있습니다...",
+      "symbol": "",
+      "sentiment_score": -0.2202,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/inspire-medical-insp-how-much-optimism-is-baked-into-this-medtech-stock-1847843/",
+      "cross_verified": true,
+      "published_at": "2026-10-04T17:44:08.000000Z"
+    },
+    {
+      "title": "Is the Market Pricing IDT Corp. (IDT) for What It Is Becoming?",
+      "title_ko": "시장은 IDT Corp. (IDT)가 앞으로 어떤 기업으로 변모해 갈지를 반영해 주가를 책정하고 있는 것일까?",
+      "snippet": "IDT Corporation's (NYSE:IDT) long-term fundamental story is defined by a transition away from legacy telecommunications toward high-margin growth drivers, backed by zero debt and $271.9 million in cash...",
+      "snippet_ko": "IDT Corporation(NYSE:IDT)의 장기적인 펀더멘털 전망은 부채가 전혀 없고 2억 7,190만 달러의 현금을 보유한 가운데, 기존 통신 사업에서 마진이 높은 성장 동력으로의 전환에 의해 결정됩니다...",
+      "symbol": "",
+      "sentiment_score": 0.2551,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/is-the-market-pricing-idt-corp-idt-for-what-it-is-becoming-1847850/",
+      "cross_verified": true,
+      "published_at": "2026-10-04T17:43:57.000000Z"
+    },
     {
       "title": "Micron's Hidden Financing Advantage (NASDAQ:MU)",
       "title_ko": "마이크론(NASDAQ:MU)의 숨겨진 자금 조달 강점",
@@ -1165,45 +1201,21 @@
       "url": "https://www.gurufocus.com/news/9098040/canopy-growth-corp-annual-shareholders-meeting-transcript",
       "cross_verified": true,
       "published_at": "2026-09-25T23:00:05.000000Z"
-    },
-    {
-      "title": "A Look at StoneX Group Inc (SNEX) After 3.9% Decline -- GF Value $42.37 vs Price $66.81",
-      "title_ko": "3.9% 하락한 StoneX Group Inc(SNEX) 현황 분석 — GF 목표주가 42.37달러 vs 현재 주가 66.81달러",
-      "snippet": "On September 25, 2026, StoneX Group Inc (SNEX) shares fell 3.9% to $66.81, continuing a downward trend over the past month where the stock has experienced a dec",
-      "snippet_ko": "2026년 9월 25일, StoneX Group Inc(SNEX)의 주가는 3.9% 하락한 66.81달러를 기록하며, 지난 한 달 동안 이어져 온 하락세를 이어갔는데, 이 기간 동안 주가는 하락세를 보였었다.",
-      "symbol": "",
-      "sentiment_score": 0.5511,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9098034/a-look-at-stonex-group-inc-snex-after-39-decline-gf-value-4237-vs-price-6681",
-      "cross_verified": true,
-      "published_at": "2026-09-25T22:59:15.000000Z"
-    },
-    {
-      "title": "Trimble Inc. (TRMB) Explores Sale of Transportation Segment Amid Strategic Review",
-      "title_ko": "트림블(Trimble Inc., TRMB), 전략적 검토 과정에서 운송 사업부 매각 검토",
-      "snippet": "On September 25, 2026, Trimble Inc. (NASDAQ: TRMB) announced it is considering divesting its transportation and logistics segment, working with Goldman Sachs to",
-      "snippet_ko": "2026년 9월 25일, 트림블(Trimble Inc., 나스닥: TRMB)은 골드만삭스와 협력하여 자사의 운송 및 물류 사업 부문 매각을 검토 중이라고 발표했으며,",
-      "symbol": "",
-      "sentiment_score": 0.2047,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9098029/trimble-inc-trmb-explores-sale-of-transportation-segment-amid-strategic-review",
-      "cross_verified": true,
-      "published_at": "2026-09-25T22:57:28.000000Z"
-    },
-    {
-      "title": "China's manufacturing scale shows the path to first-world status",
-      "title_ko": "중국의 제조업 규모는 선진국으로 가는 길을 보여준다",
-      "snippet": "Insights from a Chinese factory reveal striking contrasts in wages and car ownership between India and China. China's triumph in manufacturing shines through its extensive production capacities across diverse industries. The article underscores the necessity of cultivating core sectors like steel and machinery for robust economic development. Additionally, local tech firms have flourished in the absence of foreign rivalry, offering distinctive products.",
-      "snippet_ko": "중국 한 공장에서 얻은 통찰을 통해 인도와 중국 간의 임금 및 자동차 소유 현황에 현저한 차이가 드러났다. 중국의 제조업 분야에서의 성공은 다양한 산업에 걸친 방대한 생산 능력을 통해 여실히 드러난다. 이 기사는 견고한 경제 발전을 위해 철강 및 기계와 같은 핵심 산업을 육성할 필요성을 강조한다. 또한, 외국 기업의 경쟁이 없는 상황에서 현지 기술 기업들이 독창적인 제품을 선보이며 번창하고 있다.",
-      "symbol": "",
-      "sentiment_score": -0.1779,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/chinas-manufacturing-scale-shows-the-path-to-first-world-status/articleshow/134490091.cms",
-      "cross_verified": true,
-      "published_at": "2026-09-25T17:21:14.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Here are 3 things we're watching in the stock market in the week ahead",
+      "title_ko": "다음 주 주식 시장에서 주목해야 할 3가지 사항은 다음과 같습니다.",
+      "snippet": "The oil and bond markets will remain a critical driver of stocks.",
+      "snippet_ko": "석유 및 채권 시장은 앞으로도 주식 시장의 핵심 동력으로 작용할 것이다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.3524,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/investingclub/2026/10/04/here-are-3-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "cross_verified": true,
+      "published_at": "2026-10-04T15:33:05.000000Z"
+    },
     {
       "title": "Meta Muse: Meta Stock Rose Nearly 13% on a $28.5 Billion Checkout Bet",
       "title_ko": "메타 뮤즈: 285억 달러 규모의 ‘체크아웃’ 투자 기대감에 메타 주가 13% 가까이 상승",
@@ -2391,18 +2403,6 @@
       "url": "https://www.thehindubusinessline.com/brandhub/pr-release/anandana-the-coca-cola-india-foundation-and-hindustan-coca-cola-beverages-strengthen-responsible-pet-collection-during-ganesh-chaturthi-celebrations-across-mumbai-and-thane/article71508369.ece",
       "cross_verified": true,
       "published_at": "2026-09-25T14:39:36.000000Z"
-    },
-    {
-      "title": "Fed’s Schmid Warns of ‘Too Big to Fail’ AI Risks as US-China Trade Truce Extends",
-      "title_ko": "미-중 무역 휴전이 연장되는 가운데, 연준의 슈미드, ‘파산할 수 없는’ AI 위험에 경고",
-      "snippet": "Kansas City Fed President Jeff Schmid issued a stark warning on Friday, questioning whether the rapid buildout of the artificial intelligence sector is",
-      "snippet_ko": "캔자스시티 연방준비은행의 제프 슈미드 총재는 금요일, 인공지능 분야의 급속한 확장이 과연",
-      "symbol": "AAPL",
-      "sentiment_score": 0.1238,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/feds-schmid-warns-of-too-big-to-fail-ai-risks-as-us-china-trade-truce-extends/72232/",
-      "cross_verified": true,
-      "published_at": "2026-09-25T14:38:20.000000Z"
     }
   ]
 }
