@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-03T20:53:12.687398+00:00",
+  "updated_at": "2026-10-04T00:26:12.434033+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Nektar Therapeutics (NKTR) Shareholder/Analyst Call - Slideshow (NASDAQ:NKTR) 2026-10-03",
+      "title_ko": "넥타 테라퓨틱스(NKTR) 주주·애널리스트 컨퍼런스 콜 - 슬라이드쇼 (나스닥:NKTR) 2026-10-03",
+      "snippet": "2026-10-03. The following slide deck was published by Nektar Therapeutics in conjunction with this event.",
+      "snippet_ko": "2026년 10월 3일. 다음 슬라이드 자료는 이번 행사와 관련하여 Nektar Therapeutics에서 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4951797-nektar-therapeutics-nktr-shareholder-analyst-call-slideshow",
+      "cross_verified": true,
+      "published_at": "2026-10-03T23:12:56.000000Z"
+    },
+    {
+      "title": "Conduent Incorporated (CNDT) Analyst/Investor Day - Slideshow (NASDAQ:CNDT) 2026-10-03",
+      "title_ko": "Conduent Incorporated (CNDT) 애널리스트·투자자 설명회 - 슬라이드쇼 (NASDAQ:CNDT) 2026-10-03",
+      "snippet": "2026-10-03. The following slide deck was published by Conduent Incorporated in conjunction with this event.",
+      "snippet_ko": "2026년 10월 3일. 다음 슬라이드 자료는 이번 행사와 관련하여 Conduent Incorporated에서 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4951796-conduent-incorporated-cndt-analyst-investor-day-slideshow",
+      "cross_verified": true,
+      "published_at": "2026-10-03T23:11:59.000000Z"
+    },
+    {
+      "title": "Arcos Dorados Holdings Inc. (ARCO) Analyst/Investor Day - Slideshow (NYSE:ARCO) 2026-10-03",
+      "title_ko": "아르코스 도라도스 홀딩스(Arcos Dorados Holdings Inc., ARCO) 애널리스트·투자자 설명회 - 슬라이드쇼 (NYSE:ARCO) 2026-10-03",
+      "snippet": "2026-10-03. The following slide deck was published by Arcos Dorados Holdings Inc.",
+      "snippet_ko": "2026년 10월 3일. 다음 슬라이드 자료는 Arcos Dorados Holdings Inc.에서 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4951795-arcos-dorados-holdings-inc-arco-analyst-investor-day-slideshow",
+      "cross_verified": true,
+      "published_at": "2026-10-03T23:10:38.000000Z"
+    },
     {
       "title": "Chime Q2 Results Beat as Prime Tier Drives Spending Acceleration",
       "title_ko": "프라임 티어 부문이 지출 증가를 주도하며 Chime의 2분기 실적이 기대치를 상회했다",
@@ -1165,45 +1201,33 @@
       "url": "https://economictimes.indiatimes.com/wealth/save/sbi-atm-charges-waived-during-proposed-bank-strike-of-september-28-30-what-customers-need-to-know/articleshow/134477591.cms",
       "cross_verified": true,
       "published_at": "2026-09-25T06:41:05.000000Z"
-    },
-    {
-      "title": "Scholastic Q1 Loss Widens, Revenues Down; Backs FY27 Outlook; Shares Drop 11%",
-      "title_ko": "스콜라스틱, 1분기 적자 폭 확대·매출 감소…27 회계연도 전망 유지…주가 11% 하락",
-      "snippet": "Shares of Scholastic Corp. (SCHL) were losing around 11 percent in the overnight activity on the Nasdaq after the children's publishing, education and media company reported slightly wider net loss in the first quarter of fiscal 2027 with lower revenues.",
-      "snippet_ko": "아동 출판·교육·미디어 기업인 스콜라스틱(Scholastic Corp., SCHL)이 2027 회계연도 1분기 매출 감소와 함께 순손실 규모가 소폭 확대되었다고 발표한 후, 나스닥 시장에서 장외 거래에서 주가가 약 11% 하락했다.",
-      "symbol": "",
-      "sentiment_score": 0.074,
-      "source": "rttnews.com",
-      "url": "https://www.rttnews.com/story.aspx?Id=3693885",
-      "cross_verified": true,
-      "published_at": "2026-09-25T06:37:48.000000Z"
-    },
-    {
-      "title": "SLC Agrícola S.A. (SLCJY) Presents at J. Safra Investment Conference 2026 - Slideshow (OTCMKTS:SLCJY) 2026-09-24",
-      "title_ko": "SLC Agrícola S.A. (SLCJY), ‘J. Safra Investment Conference 2026’에서 발표 - 슬라이드 쇼 (OTCMKTS:SLCJY) 2026-09-24",
-      "snippet": "2026-09-24. The following slide deck was published by SLC Agrícola S.A.",
-      "snippet_ko": "2026년 9월 24일. 다음 슬라이드 자료는 SLC Agrícola S.A.에서 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4949621-slc-agricola-s-a-slcjy-presents-at-j-safra-investment-conference-2026-slideshow",
-      "cross_verified": true,
-      "published_at": "2026-09-24T23:16:01.000000Z"
-    },
-    {
-      "title": "Cue Biopharma, Inc. (CUE) Discusses Positive Phase II Top Line Results for CUE-221 in Chronic Spontaneous Urticaria - Slideshow (NASDAQ:CUE) 2026-09-24",
-      "title_ko": "Cue Biopharma, Inc. (CUE), 만성 자발성 두드러기 치료제 CUE-221의 긍정적인 2상 임상시험 주요 결과 발표 - 슬라이드쇼 (NASDAQ:CUE) 2026-09-24",
-      "snippet": "2026-09-24. The following slide deck was published by Cue Biopharma, Inc.",
-      "snippet_ko": "2026년 9월 24일. 다음 슬라이드 자료는 Cue Biopharma, Inc.에서 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.6597,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4949620-cue-biopharma-inc-cue-discusses-positive-phase-ii-top-line-results-for-cueminus-221-in",
-      "cross_verified": true,
-      "published_at": "2026-09-24T23:14:23.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Jim Cramer Views Intel (INTC) As A Winning Turnaround Amid CPU Demand Growth",
+      "title_ko": "짐 크레이머, CPU 수요 증가 속에 인텔(INTC)을 성공적인 회생 사례로 평가",
+      "snippet": "During the September 28 episode of Mad Money, Jim Cramer addressed Intel Corporation (NASDAQ:INTC) and its ongoing business transformation, as he said: Members of the CNBC Investing Club know I've been...",
+      "snippet_ko": "9월 28일 방송된 ‘매드 머니(Mad Money)’에서 짐 크레이머는 인텔(NASDAQ:INTC)과 현재 진행 중인 사업 구조 조정과 관련해 다음과 같이 언급했습니다. “CNBC 투자 클럽 회원분들은 제가 그동안...”",
+      "symbol": "INTC",
+      "sentiment_score": 0.2457,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/jim-cramer-views-intel-intc-as-a-winning-turnaround-amid-cpu-demand-growth-1846589/",
+      "cross_verified": true,
+      "published_at": "2026-10-03T20:10:26.000000Z"
+    },
+    {
+      "title": "Intel (INTC) Data Center Comeback: Real Recovery or Just a Supply Squeeze?",
+      "title_ko": "인텔(INTC) 데이터 센터 부문의 부활: 진정한 회복인가, 아니면 단순한 공급 차질인가?",
+      "snippet": "Intel Corp. (NASDAQ:INTC) continues executing its AI-driven turnaround, backed by strong demand across CPUs, ASICs, advanced packaging, and its foundry network.",
+      "snippet_ko": "인텔(Intel Corp., 나스닥: INTC)은 CPU, ASIC, 첨단 패키징 및 파운드리 네트워크 전반에 걸친 강력한 수요에 힘입어 AI 중심의 사업 재건 전략을 지속적으로 추진하고 있다.",
+      "symbol": "INTC",
+      "sentiment_score": 0.7512,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/intel-intc-data-center-comeback-real-recovery-or-just-a-supply-squeeze-1846307/",
+      "cross_verified": true,
+      "published_at": "2026-10-03T19:57:50.000000Z"
+    },
     {
       "title": "Market Hero or Hiroo Onoda?",
       "title_ko": "마켓 히어로인가, 오노다 히로오인가?",
@@ -2379,30 +2403,6 @@
       "url": "https://www.insurancejournal.com/news/west/2026/09/25/886812.htm",
       "cross_verified": true,
       "published_at": "2026-09-25T05:00:54.000000Z"
-    },
-    {
-      "title": "Anthropic signs $11.6 billion, seven-year AI computing deal with Akamai",
-      "title_ko": "앤트로픽, 아카마이와 116억 달러 규모의 7년짜리 AI 컴퓨팅 계약 체결",
-      "snippet": "Akamai will supply Anthropic access to central processing units, or CPUs, a type of generalist chip that's seen renewed demand in data centers where it's helping support AI services",
-      "snippet_ko": "아카마이는 앤트로픽에 중앙처리장치(CPU)를 공급할 예정이다. CPU는 범용 칩의 일종으로, AI 서비스 지원을 돕는 데이터 센터에서 수요가 다시 증가하고 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.071,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/anthropic-signs-11-6-billion-seven-year-ai-computing-deal-with-akamai-126092500134_1.html",
-      "cross_verified": true,
-      "published_at": "2026-09-25T03:32:28.000000Z"
-    },
-    {
-      "title": "Meta shares surge 36% as Muse AI fuels stock market rally",
-      "title_ko": "뮤즈 AI가 주식 시장 상승세를 이끈 가운데 메타 주가가 36% 급등했다",
-      "snippet": "Meta shares have surged 36% in September as its Muse AI assistant boosts investor optimism and eases concerns over the company’s heavy AI spending.",
-      "snippet_ko": "메타의 주가는 9월 한 달 동안 36% 급등했는데, 이는 자사의 AI 비서 ‘뮤즈(Muse)’가 투자자들의 낙관론을 고조시키고 회사의 막대한 AI 투자에 대한 우려를 완화했기 때문이다.",
-      "symbol": "META",
-      "sentiment_score": 0.5767,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/meta-stock-jumps-36-in-september-as-muse-ai-fuels-rally/article71506953.ece",
-      "cross_verified": true,
-      "published_at": "2026-09-25T03:24:54.000000Z"
     }
   ]
 }
