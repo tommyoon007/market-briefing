@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-04T19:23:37.118005+00:00",
+  "updated_at": "2026-10-04T22:56:07.342492+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "What is Morgan Stanley’s (MS) Economic Moat, and is it Widening or Narrowing?",
+      "title_ko": "모건 스탠리(MS)의 ‘경제적 해자’란 무엇이며, 이는 넓어지고 있는 것일까, 아니면 좁아지고 있는 것일까?",
+      "snippet": "Morgan Stanley (NYSE:MS) closed at $190.31 on October 2, up 20.38% over twelve months. For most of its history, the firm was a trading house, and trading houses do not have moats.",
+      "snippet_ko": "모건 스탠리(NYSE:MS)는 10월 2일 주가가 190.31달러로 마감했으며, 이는 지난 12개월 동안 20.38% 상승한 수치다. 이 회사는 설립 이후 대부분의 기간 동안 무역 회사로 운영되어 왔으며, 무역 회사에는 경쟁 우위가 없다.",
+      "symbol": "",
+      "sentiment_score": 0.0975,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/what-is-morgan-stanleys-ms-economic-moat-and-is-it-widening-or-narrowing-1848242/",
+      "cross_verified": true,
+      "published_at": "2026-10-04T21:06:50.000000Z"
+    },
+    {
+      "title": "Jim Cramer Believes Airbnb (ABNB) “Is Mostly Insulated From AI Competition”",
+      "title_ko": "짐 크레이머, 에어비앤비(ABNB)가 “AI 경쟁의 영향을 대체로 받지 않을 것”이라고 전망",
+      "snippet": "When discussing the recent sell-off across online travel equities during the September 29 episode of Mad Money, Jim Cramer highlighted Airbnb, Inc. (NASDAQ:ABNB) as a standout buying opportunity.",
+      "snippet_ko": "9월 29일 방송된 ‘매드 머니’에서 최근 온라인 여행 관련 주식 전반에 걸친 매도세를 논의하던 중, 짐 크레이머는 에어비앤비(Airbnb, Inc.)(나스닥:ABNB)를 특히 주목할 만한 매수 기회로 꼽았다.",
+      "symbol": "",
+      "sentiment_score": 0.1294,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/jim-cramer-believes-airbnb-abnb-is-mostly-insulated-from-ai-competition-1847477/",
+      "cross_verified": true,
+      "published_at": "2026-10-04T21:04:49.000000Z"
+    },
     {
       "title": "The CEO factory: How ICICI, SBI, Axis shaping financial services leadership",
       "title_ko": "CEO 양성소: ICICI, SBI, Axis가 금융 서비스 분야의 리더십을 어떻게 형성하고 있는가",
@@ -1177,33 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9098270/infineon-technologies-boosts-thailands-chip-industry-with-new-semiconductor-plant",
       "cross_verified": true,
       "published_at": "2026-09-26T03:30:27.000000Z"
-    },
-    {
-      "title": "Dollar Tree (DLTR) Amends By-Laws to Align with Virginia Law and Update Shareholder Meeting Procedures",
-      "title_ko": "달러 트리(DLTR), 버지니아주 법률에 부합하고 주주총회 절차를 개정하기 위해 정관을 개정",
-      "snippet": "Dollar Tree, Inc. (DLTR) announced that its Board of Directors approved amendments to the company's By-Laws, effective September 24, 2026. The changes are desi",
-      "snippet_ko": "달러 트리(Dollar Tree, Inc., DLTR)는 이사회가 2026년 9월 24일부터 발효되는 회사 정관 개정안을 승인했다고 발표했다. 이번 개정안은...",
-      "symbol": "",
-      "sentiment_score": 0.2717,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9098269/dollar-tree-dltr-amends-bylaws-to-align-with-virginia-law-and-update-shareholder-meeting-procedures",
-      "cross_verified": true,
-      "published_at": "2026-09-26T03:30:12.000000Z"
-    },
-    {
-      "title": "Canopy Growth Corp Annual Shareholders Meeting Transcript",
-      "title_ko": "캐노피 그로스(Canopy Growth Corp) 연례 주주총회 회의록",
-      "snippet": "Sep 25, 2026 / 05:00PM GMTOperator Hello, and welcome to the 2026 Canopy Growth Corporation Annual General and Special Meeting of Shareholders. Registered share",
-      "snippet_ko": "2026년 9월 25일 / 오후 5:00 GMT 운영자 안녕하십니까. 2026년 캐노피 그로스 코퍼레이션(Canopy Growth Corporation) 정기 및 임시 주주총회에 오신 것을 환영합니다. 등록된 주주",
-      "symbol": "",
-      "sentiment_score": 0.3922,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9098040/canopy-growth-corp-annual-shareholders-meeting-transcript",
-      "cross_verified": true,
-      "published_at": "2026-09-25T23:00:05.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Can Broadcom Keep Growing Its Dividend as AI Customers Gain Power?",
+      "title_ko": "AI 고객사의 영향력이 커지는 가운데, 브로드컴은 배당금을 계속 늘려나갈 수 있을까?",
+      "snippet": "Broadcom Inc. (NASDAQ:AVGO) has enough cash generation to cover its dividend comfortably.",
+      "snippet_ko": "브로드컴(Broadcom Inc., 나스닥: AVGO)은 배당금을 여유 있게 충당할 수 있을 만큼 충분한 현금 창출 능력을 갖추고 있다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.5348,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/can-broadcom-keep-growing-its-dividend-as-ai-customers-gain-power-1847232/",
+      "cross_verified": true,
+      "published_at": "2026-10-04T20:33:34.000000Z"
+    },
+    {
+      "title": "Here is Why Broadcom (AVGO) is a Good Investment at Today’s Price",
+      "title_ko": "브로드컴(AVGO)이 현재 주가로 볼 때 좋은 투자 대상인 이유는 다음과 같습니다.",
+      "snippet": "Broadcom Inc. (NASDAQ:AVGO) closed at $355.14 on October 2, up 5.86% over twelve months. The business underneath moved far faster than the share price did.",
+      "snippet_ko": "브로드컴(Broadcom Inc., 나스닥: AVGO)의 주가는 10월 2일 355.14달러로 장을 마감했으며, 이는 지난 12개월 동안 5.86% 상승한 수치다. 그러나 주가보다 해당 기업의 사업 성과가 훨씬 더 빠르게 성장했다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.4043,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/here-is-why-broadcom-avgo-is-a-good-investment-at-todays-price-1848228/",
+      "cross_verified": true,
+      "published_at": "2026-10-04T20:16:56.000000Z"
+    },
+    {
+      "title": "Nvidia’s AI Safety Push Could Strengthen Its Moat. But Is It a Stock Catalyst Yet?",
+      "title_ko": "엔비디아의 AI 안전성 강화 노력은 경쟁 우위를 공고히 할 수 있다. 하지만 이것이 아직 주가 상승의 촉매제가 될 수 있을까?",
+      "snippet": "Nvidia Corporation (NASDAQ:NVDA) is adding the Open Agent Safety Platform to its AI infrastructure stack, offering an open software and reference system for securing AI agents from testing to deployment...",
+      "snippet_ko": "엔비디아(NVIDIA Corporation, 나스닥: NVDA)는 자사의 AI 인프라 스택에 ‘오픈 에이전트 안전 플랫폼(Open Agent Safety Platform)’을 추가하여, 테스트 단계부터 배포에 이르기까지 AI 에이전트의 보안을 보장하기 위한 개방형 소프트웨어 및 참조 시스템을 제공하게 되었습니다...",
+      "symbol": "NVDA",
+      "sentiment_score": 0.5773,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/nvidias-ai-safety-push-could-strengthen-its-moat-but-is-it-a-stock-catalyst-yet-1847306/",
+      "cross_verified": true,
+      "published_at": "2026-10-04T21:14:00.000000Z"
+    },
     {
       "title": "Here are 3 things we're watching in the stock market in the week ahead",
       "title_ko": "다음 주 주식 시장에서 주목해야 할 3가지 사항은 다음과 같습니다.",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9098025/merck-mrk-withdraws-idxd-biologics-license-application-for-essclc",
       "cross_verified": true,
       "published_at": "2026-09-25T22:56:34.000000Z"
-    },
-    {
-      "title": "New Mexico Jury Rules Against Meta Platforms (META) Over Privacy Misleading Claims",
-      "title_ko": "뉴멕시코주 배심원단, 개인정보 보호 관련 오해의 소지가 있는 주장으로 메타 플랫폼스(META)에 불리한 판결을 내렸다",
-      "snippet": "On September 25, 2026, a New Mexico jury found Meta Platforms Inc (NASDAQ: META) liable for misleading users about its privacy protections, marking the second a",
-      "snippet_ko": "2026년 9월 25일, 뉴멕시코주 배심원단은 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)가 개인정보 보호 정책에 대해 사용자를 오도한 책임이 있다고 판결했으며, 이는 두 번째로...",
-      "symbol": "META",
-      "sentiment_score": -0.2787,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9098022/new-mexico-jury-rules-against-meta-platforms-meta-over-privacy-misleading-claims",
-      "cross_verified": true,
-      "published_at": "2026-09-25T22:55:56.000000Z"
-    },
-    {
-      "title": "Is It Too Late to Buy DraftKings Inc (DKNG) After 3.5% Rally? GF Value Says Undervalued",
-      "title_ko": "3.5% 상승세 이후 드래프트킹스(DKNG) 매수는 너무 늦은 걸까? GF 밸류, “저평가됐다”고 분석",
-      "snippet": "On September 25, 2026, DraftKings Inc (DKNG) shares rose 3.5% to a current price of $22.02, although the stock has experienced significant declines over the pas",
-      "snippet_ko": "2026년 9월 25일, DraftKings Inc(DKNG)의 주가는 3.5% 상승하여 현재 22.02달러를 기록했으나, 이 주식은 지난 기간 동안 상당한 하락세를 보였음에도 불구하고",
-      "symbol": "DKNG",
-      "sentiment_score": 0.3116,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9098008/is-it-too-late-to-buy-draftkings-inc-dkng-after-35-rally-gf-value-says-undervalued",
-      "cross_verified": true,
-      "published_at": "2026-09-25T22:47:40.000000Z"
-    },
-    {
-      "title": "Anandana – The Coca-Cola India Foundation and Hindustan Coca-Cola Beverages Strengthen Responsible PET Collection During Ganesh Chaturthi Celebrations Across Mumbai and Thane",
-      "title_ko": "아난다나 – 코카콜라 인도 재단과 힌두스탄 코카콜라 베버리지, 뭄바이와 타네 전역에서 열리는 가네쉬 차투르티 축제 기간 동안 책임감 있는 PET 수거 활동을 강화",
-      "snippet": "Anandana – The Coca-Cola India Foundation and Hindustan Coca-Cola Beverages Strengthen Responsible PET Collection During Ganesh Chaturthi Celebrations Across Mumbai and Thane",
-      "snippet_ko": "아난다나 – 코카콜라 인도 재단과 힌두스탄 코카콜라 베버리지, 뭄바이와 타네 전역에서 열리는 가네쉬 차투르티 축제 기간 동안 책임 있는 PET 수거 활동을 강화",
-      "symbol": "KO",
-      "sentiment_score": 0.4527,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/anandana-the-coca-cola-india-foundation-and-hindustan-coca-cola-beverages-strengthen-responsible-pet-collection-during-ganesh-chaturthi-celebrations-across-mumbai-and-thane/article71508369.ece",
-      "cross_verified": true,
-      "published_at": "2026-09-25T14:39:36.000000Z"
     }
   ]
 }
