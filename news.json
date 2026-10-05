@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-05T05:06:13.003775+00:00",
+  "updated_at": "2026-10-05T14:14:07.222313+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Evercore ISI Upgrades Texas Roadhouse (TXRH) to Outperform Amid Share Price Dip",
+      "title_ko": "에버코어 ISI, 주가 하락 속 텍사스 로드하우스(TXRH) 투자의견을 ‘아웃퍼폼’으로 상향 조정",
+      "snippet": "On October 05, 2026, Evercore ISI raised its rating on Texas Roadhouse Inc (NASDAQ: TXRH) to \"Outperform\" from \"In Line,\" citing the recent 25% decline in the s",
+      "snippet_ko": "2026년 10월 5일, 에버코어 ISI는 텍사스 로드하우스(Texas Roadhouse Inc, 나스닥: TXRH)에 대한 투자 등급을 ‘In Line’에서 ‘Outperform’으로 상향 조정했으며, 그 이유로 최근 주가가 25% 하락한 점을 꼽았다.",
+      "symbol": "",
+      "sentiment_score": 0.6074,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9109370/evercore-isi-upgrades-texas-roadhouse-txrh-to-outperform-amid-share-price-dip",
+      "cross_verified": true,
+      "published_at": "2026-10-05T13:59:35.000000Z"
+    },
+    {
+      "title": "GF Securities Raises Earnings Forecasts for United Microelectronics (UMC) Amid Strong Foundry Demand",
+      "title_ko": "GF 증권은 파운드리 수요가 호조를 보임에 따라 유나이티드 마이크로일렉트로닉스(UMC)의 실적 전망치를 상향 조정했다.",
+      "snippet": "On October 05, 2026, GF Securities projected that United Microelectronics Corp (NYSE: UMC) will experience rising earnings per share over the next two years, dr",
+      "snippet_ko": "2026년 10월 5일, GF 증권은 유나이티드 마이크로일렉트로닉스(United Microelectronics Corp, NYSE: UMC)의 주당 순이익이 향후 2년 동안 증가할 것으로 전망했으며, 이는...",
+      "symbol": "",
+      "sentiment_score": 0.5494,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9109368/gf-securities-raises-earnings-forecasts-for-united-microelectronics-umc-amid-strong-foundry-demand",
+      "cross_verified": true,
+      "published_at": "2026-10-05T13:58:53.000000Z"
+    },
+    {
+      "title": "Walmart+ Membership Hits Record 25% Penetration; WMT Fairly Valued at $104.27 GF Value™",
+      "title_ko": "월마트+ 회원 가입률, 사상 최고치인 25% 달성; WMT, 104.27달러에 적정 가치 평가 (GF Value™)",
+      "snippet": "On October 05, 2026, Morgan Stanley's latest consumer survey revealed that Walmart+ membership reached a new high, with approximately 25% of respondents indicat",
+      "snippet_ko": "2026년 10월 5일, 모건 스탠리의 최신 소비자 설문조사에 따르면 월마트+ 회원 수가 사상 최고치를 기록한 것으로 나타났으며, 응답자의 약 25%가",
+      "symbol": "",
+      "sentiment_score": 0.5462,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9109367/walmart-membership-hits-record-25-penetration-wmt-fairly-valued-at-10427-gf-value",
+      "cross_verified": true,
+      "published_at": "2026-10-05T13:58:35.000000Z"
+    },
     {
       "title": "FLSmidth: Transactions under share buy-back programme",
       "title_ko": "FLSmidth: 자사주 매입 프로그램에 따른 거래",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4949978-realty-income-3-0-the-reit-you-know-is-rebuilding-its-growth-engine",
       "cross_verified": true,
       "published_at": "2026-09-26T15:09:08.000000Z"
-    },
-    {
-      "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
-      "title_ko": "이는 AI 투자 비중을 늘리고자 하는 투자자들에게 ‘결정적인 요소’가 될 수 있다",
-      "snippet": "Matthews Asia portfolio manager Andrew Mattock delivers a strategy that revolves around the world's second largest economy.",
-      "snippet_ko": "매튜스 아시아의 포트폴리오 매니저 앤드류 매톡은 세계 2위 경제 대국을 중심으로 한 투자 전략을 제시합니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
-      "cross_verified": true,
-      "published_at": "2026-09-26T15:00:01.000000Z"
-    },
-    {
-      "title": "SBI hands over cheque worth ₹500 crore to Jeevika Didis in Patna",
-      "title_ko": "SBI, 파트나에서 지비카 디디스에게 50억 루피 상당의 수표를 전달",
-      "snippet": "SBI donates ₹500 crore to Jeevika Didis in Patna to empower rural women through SHGs and BRLP initiatives.",
-      "snippet_ko": "SBI는 자조그룹(SHG) 및 BRLP 이니셔티브를 통해 농촌 여성의 자립을 지원하기 위해 파트나에 있는 ‘지비카 디디스(Jeevika Didis)’에 50억 루피를 기부했습니다.",
-      "symbol": "",
-      "sentiment_score": 0.3404,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/sbi-hands-over-cheque-worth-500-crore-to-jeevika-didis-in-patna/article71512370.ece",
-      "cross_verified": true,
-      "published_at": "2026-09-26T09:55:33.000000Z"
-    },
-    {
-      "title": "Rocket Companies: Buying The Bottom Of A Cycle (NYSE:RKT)",
-      "title_ko": "로켓 컴퍼니즈: 경기 사이클의 저점에서 매수하기 (NYSE:RKT)",
-      "snippet": "Rocket Companies posted record market share, expanding core gain-on-sale margins to 3.11% and servicing income. Click to read why RKT is rated Buy.",
-      "snippet_ko": "로켓 컴퍼니즈(Rocket Companies)는 사상 최대의 시장 점유율을 기록하며, 핵심 판매 이익 마진을 3.11%로 확대하고 서비스 수익도 늘렸습니다. RKT가 ‘매수(Buy)’ 등급을 받은 이유를 확인하려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4949933-rocket-companies-buying-the-bottom-of-a-cycle",
-      "cross_verified": true,
-      "published_at": "2026-09-26T09:45:34.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Skyworks Solutions (SWKS) Completes Qorvo Acquisition, Enhancing Dividend Prospects",
+      "title_ko": "스카이웍스 솔루션스(SWKS), 코르보 인수 완료… 배당 전망 밝아져",
+      "snippet": "On October 05, 2026, Skyworks Solutions Inc (NASDAQ: SWKS) announced the successful completion of its acquisition of Qorvo, a strategic move expected to generat",
+      "snippet_ko": "2026년 10월 5일, 스카이웍스 솔루션즈(Skyworks Solutions Inc, 나스닥: SWKS)는 코르보(Qorvo) 인수를 성공적으로 완료했다고 발표했으며, 이 전략적 조치는 향후",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5143,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9109364/skyworks-solutions-swks-completes-qorvo-acquisition-enhancing-dividend-prospects",
+      "cross_verified": true,
+      "published_at": "2026-10-05T13:57:40.000000Z"
+    },
+    {
+      "title": "Apollo Economist Sees Limited Near-Term Workforce Impact from Robotics; AAPL Valuation Insights",
+      "title_ko": "아폴로 이코노미스트, 로봇 기술이 단기적으로 노동 시장에 미치는 영향은 제한적일 것으로 전망… AAPL 기업가치 분석",
+      "snippet": "On October 05, 2026, Apollo's chief economist Torsten Slok shared his view that robotics and automation will not cause significant workforce disruption in the n",
+      "snippet_ko": "2026년 10월 5일, 아폴로의 수석 경제학자 토르스텐 슬록은 로봇 공학과 자동화가 향후 노동 시장에 큰 혼란을 초래하지는 않을 것이라는 견해를 밝혔습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4914,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9109361/apollo-economist-sees-limited-nearterm-workforce-impact-from-robotics-aapl-valuation-insights",
+      "cross_verified": true,
+      "published_at": "2026-10-05T13:56:43.000000Z"
+    },
+    {
+      "title": "Bank of America Upgrades DraftKings (DKNG) to Buy, Citing Attractive Risk-Reward After 47% Share Decline",
+      "title_ko": "뱅크 오브 아메리카, 주가 47% 하락 후 매력적인 위험-수익 비율을 근거로 드래프트킹스(DKNG) 투자의견을 ‘매수’로 상향 조정",
+      "snippet": "On October 05, 2026, Bank of America upgraded DraftKings Inc (NASDAQ: DKNG) from Neutral to Buy, highlighting a more favorable outlook driven by reduced estimat",
+      "snippet_ko": "2026년 10월 5일, 뱅크 오브 아메리카는 드래프트킹스(DraftKings Inc, 나스닥: DKNG)에 대한 투자의견을 ‘중립(Neutral)’에서 ‘매수(Buy)’로 상향 조정하며, 예상치의 하향 조정에 힘입어 전망이 더욱 밝아졌다고 강조했다.",
+      "symbol": "DKNG",
+      "sentiment_score": 0.4901,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9109357/bank-of-america-upgrades-draftkings-dkng-to-buy-citing-attractive-riskreward-after-47-share-decline",
+      "cross_verified": true,
+      "published_at": "2026-10-05T13:55:27.000000Z"
+    },
     {
       "title": "Former Anthropic researcher Jacob Coxon to testify at NYC hearing on AI",
       "title_ko": "앤트로픽(Anthropic) 전 연구원 제이콥 콕슨, 뉴욕시 AI 공청회에서 증언 예정",
@@ -2367,42 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/nvidia-nvda-vs-broadcom-avgo-which-ai-chip-stock-has-the-stronger-moat-1844129/",
       "cross_verified": true,
       "published_at": "2026-09-26T04:51:01.000000Z"
-    },
-    {
-      "title": "Another OpenAI sandbox fails, agentic AI system gains internet access",
-      "title_ko": "또 다른 OpenAI 샌드박스가 실패했고, 에이전트형 AI 시스템이 인터넷에 접속하게 되었다",
-      "snippet": "The system reached a third-party chatbot during training, prompting OpenAI to pause tool-use training on its most capable models until the flaw was fixed",
-      "snippet_ko": "이 시스템은 훈련 과정에서 제3자 챗봇에 접속하게 되었고, 이에 OpenAI는 해당 결함이 수정될 때까지 자사의 최고 성능 모델에 대한 도구 사용 훈련을 일시 중단하기로 했다",
-      "symbol": "META",
-      "sentiment_score": 0.4939,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/technology/tech-news/another-openai-sandbox-fails-agentic-ai-system-gains-internet-access-126092600353_1.html",
-      "cross_verified": true,
-      "published_at": "2026-09-26T06:42:40.000000Z"
-    },
-    {
-      "title": "OpenAI's models accessed US govt websites including US census and SEC data",
-      "title_ko": "오픈AI의 모델들이 미국 인구조사국 및 증권거래위원회(SEC) 데이터를 포함한 미국 정부 웹사이트에 접근했다",
-      "snippet": "The company said its models accessed publicly available data from Census and SEC websites as it investigates incidents involving AI systems bypassing security controls",
-      "snippet_ko": "이 회사는 AI 시스템이 보안 통제 조치를 우회한 사건을 조사하는 과정에서 자사 모델들이 인구조사국 및 증권거래위원회(SEC) 웹사이트에서 공개된 데이터에 접근했다고 밝혔다.",
-      "symbol": "META",
-      "sentiment_score": -0.6249,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/technology/tech-news/openai-s-models-accessed-us-govt-websites-including-us-census-and-sec-data-126092600143_1.html",
-      "cross_verified": true,
-      "published_at": "2026-09-26T03:20:20.000000Z"
-    },
-    {
-      "title": "Apple (AAPL) Plans a Health App Overhaul. Can Better Insights Boost Device Sales?",
-      "title_ko": "애플(AAPL), 헬스 앱 대대적인 개편 계획. 더 나은 분석 기능이 기기 판매를 촉진할 수 있을까?",
-      "snippet": "On September 9, 2026, the Wall Street Journal reported that Apple Inc. (NASDAQ:AAPL) is undertaking a major overhaul of its Health app and Apple Watch strategy.",
-      "snippet_ko": "2026년 9월 9일, 월스트리트저널은 애플(NASDAQ:AAPL)이 ‘헬스’ 앱과 애플워치 전략을 대대적으로 개편하고 있다고 보도했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3416,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/apple-aapl-plans-a-health-app-overhaul-can-better-insights-boost-device-sales-1840426/",
-      "cross_verified": true,
-      "published_at": "2026-09-26T01:35:25.000000Z"
     }
   ]
 }
