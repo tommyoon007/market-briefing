@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-04T22:56:07.342492+00:00",
+  "updated_at": "2026-10-05T05:06:13.003775+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "FLSmidth: Transactions under share buy-back programme",
+      "title_ko": "FLSmidth: 자사주 매입 프로그램에 따른 거래",
+      "snippet": "COMPANY ANNOUNCEMENT NO. 47-2026",
+      "snippet_ko": "회사 공고 제47-2026호",
+      "symbol": "",
+      "sentiment_score": 0.2989,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/05/tmt-newswire/globenewswire/flsmidth-transactions-under-share-buy-back-programme/2438702",
+      "cross_verified": true,
+      "published_at": "2026-10-05T04:39:06.000000Z"
+    },
+    {
+      "title": "Xylem Stock: Strong Dividend Safety And Undervaluation Are Attractive (NYSE:XYL)",
+      "title_ko": "자일럼(Xylem) 주식: 탄탄한 배당 안정성과 저평가된 주가가 매력적 (NYSE:XYL)",
+      "snippet": "Xylem boasts a 14-year dividend growth streak, a low payout ratio, and a strong balance sheet. Read why XYL stock is rated a Buy.",
+      "snippet_ko": "Xylem은 14년 연속 배당금 증가 기록, 낮은 배당성향, 그리고 견실한 재무 구조를 자랑합니다. XYL 주식이 ‘매수’ 등급을 받은 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.1414,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4951882-xylem-strong-dividend-safety-and-undervaluation-are-attractive",
+      "cross_verified": true,
+      "published_at": "2026-10-05T03:59:00.000000Z"
+    },
+    {
+      "title": "India aims to sign multibillion-dollar French jet deal by March",
+      "title_ko": "인도는 3월까지 프랑스와 수십억 달러 규모의 전투기 계약을 체결하는 것을 목표로 하고 있다",
+      "snippet": "India aims to sign a $30-35 billion Rafale deal for 114 jets with France within five months, amid growing fighter shortfalls.",
+      "snippet_ko": "전투기 부족 문제가 심화되는 가운데, 인도는 5개월 이내에 프랑스와 114대의 라팔 전투기 구매를 위한 300억~350억 달러 규모의 계약을 체결하는 것을 목표로 하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.0772,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/news/india-aims-to-sign-multibillion-dollar-french-jet-deal-by-march/article71545728.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-05T03:38:00.000000Z"
+    },
     {
       "title": "What is Morgan Stanley’s (MS) Economic Moat, and is it Widening or Narrowing?",
       "title_ko": "모건 스탠리(MS)의 ‘경제적 해자’란 무엇이며, 이는 넓어지고 있는 것일까, 아니면 좁아지고 있는 것일까?",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4949933-rocket-companies-buying-the-bottom-of-a-cycle",
       "cross_verified": true,
       "published_at": "2026-09-26T09:45:34.000000Z"
-    },
-    {
-      "title": "RiverNorth Opportunities: Preferred Offers One Of The Most Secure Yields In The Sector",
-      "title_ko": "리버노스 투자 기회: 이 종목은 해당 부문에서 가장 안정적인 수익률 중 하나를 제공합니다",
-      "snippet": "RiverNorth Opportunities preferred stock offers a compelling, low-risk income opportunity with an A1 Moody’s rating. Click to read more on RIV.PR.A.",
-      "snippet_ko": "리버노스 오퍼튜니티즈(RiverNorth Opportunities)의 우선주는 무디스(Moody’s) A1 등급을 획득하여 매력적이면서도 저위험의 수익 기회를 제공합니다. RIV.PR.A에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.3818,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4949932-rivernorth-opportunities-rivpra-offers-one-of-the-most-secure-yields-in-sector",
-      "cross_verified": true,
-      "published_at": "2026-09-26T09:45:17.000000Z"
-    },
-    {
-      "title": "White House Assures No Ban on Diesel Exports Amid Rising Prices",
-      "title_ko": "유가 상승 속 백악관, 디젤 수출 금지 없을 것임을 재차 강조",
-      "snippet": "On September 25, 2026, Senator Ted Cruz conveyed to leaders in the refining industry that the White House has committed to not banning diesel exports. This assu",
-      "snippet_ko": "2026년 9월 25일, 테드 크루즈 상원의원은 정유 업계 지도자들에게 백악관이 디젤 수출을 금지하지 않기로 약속했다고 전했다. 이러한 안심",
-      "symbol": "",
-      "sentiment_score": 0.3934,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9098271/white-house-assures-no-ban-on-diesel-exports-amid-rising-prices",
-      "cross_verified": true,
-      "published_at": "2026-09-26T03:50:27.000000Z"
-    },
-    {
-      "title": "Infineon Technologies Boosts Thailand's Chip Industry with New Semiconductor Plant",
-      "title_ko": "인피니언 테크놀로지스, 신규 반도체 공장 설립으로 태국 반도체 산업 활성화",
-      "snippet": "On September 25, 2026, Infineon Technologies AG (IFNNY) announced the upcoming launch of its semiconductor factory in Thailand, scheduled for October 1. This si",
-      "snippet_ko": "2026년 9월 25일, 인피니언 테크놀로지스 AG(IFNNY)는 10월 1일로 예정된 태국 내 반도체 공장 가동을 앞두고 이를 발표했다. 이 공장은",
-      "symbol": "",
-      "sentiment_score": 0.4658,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9098270/infineon-technologies-boosts-thailands-chip-industry-with-new-semiconductor-plant",
-      "cross_verified": true,
-      "published_at": "2026-09-26T03:30:27.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Former Anthropic researcher Jacob Coxon to testify at NYC hearing on AI",
+      "title_ko": "앤트로픽(Anthropic) 전 연구원 제이콥 콕슨, 뉴욕시 AI 공청회에서 증언 예정",
+      "snippet": "Coxon will appear at request of Council Speaker Julie Menin, who has urged AI whistleblowers to testify as city lawmakers weigh a package of bills aimed at establishing safeguards around technology",
+      "snippet_ko": "콕슨은 줄리 메닌 시의회 의장의 요청에 따라 출석할 예정이며, 메닌 의장은 시 의원들이 기술 관련 안전장치 마련을 목표로 한 일련의 법안들을 검토하는 가운데 AI 내부 고발자들에게 증언을 촉구해 왔다.",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.3566,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/former-anthropic-researcher-jacob-coxon-to-testify-at-nyc-hearing-on-ai-126100500088_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-05T03:22:46.000000Z"
+    },
+    {
+      "title": "The Trade Desk vs. Alphabet: Is the Cheaper AI Advertising Stock Worth the Risk?",
+      "title_ko": "더 트레이드 데스크 대 알파벳: 저렴한 AI 광고 관련 주식, 위험을 감수할 가치가 있을까?",
+      "snippet": "The Trade Desk offers something Alphabet does not: a way to invest in digital advertising without also financing a giant cloud-computing buildout.",
+      "snippet_ko": "더 트레이드 데스크는 알파벳이 제공하지 않는 것을 제공합니다. 바로 거대한 클라우드 컴퓨팅 인프라 구축에 자금을 투입하지 않고도 디지털 광고에 투자할 수 있는 방법입니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.5787,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/the-trade-desk-vs-alphabet-is-the-cheaper-ai-advertising-stock-worth-the-risk-1848277/",
+      "cross_verified": true,
+      "published_at": "2026-10-04T23:25:25.000000Z"
+    },
+    {
+      "title": "Amazon vs. Alphabet: Which AI Cloud Stock Makes the Better Case After the Spending Bill?",
+      "title_ko": "아마존 대 알파벳: 지출 법안 통과 후 어느 AI 클라우드주가 더 유망한가?",
+      "snippet": "Amazon's cloud business earns almost twice as much operating profit as Google Cloud. Google Cloud is growing more than twice as fast.",
+      "snippet_ko": "아마존의 클라우드 사업 부문은 구글 클라우드보다 거의 두 배 가까운 영업이익을 올리고 있다. 반면 구글 클라우드의 성장 속도는 아마존보다 두 배 이상 빠르다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.3818,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/amazon-vs-alphabet-which-ai-cloud-stock-makes-the-better-case-after-the-spending-bill-1848279/",
+      "cross_verified": true,
+      "published_at": "2026-10-04T23:24:15.000000Z"
+    },
     {
       "title": "Can Broadcom Keep Growing Its Dividend as AI Customers Gain Power?",
       "title_ko": "AI 고객사의 영향력이 커지는 가운데, 브로드컴은 배당금을 계속 늘려나갈 수 있을까?",
@@ -2367,42 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/apple-aapl-plans-a-health-app-overhaul-can-better-insights-boost-device-sales-1840426/",
       "cross_verified": true,
       "published_at": "2026-09-26T01:35:25.000000Z"
-    },
-    {
-      "title": "Alphabet (GOOGL) Faces Gemini Security Questions. Could AI Agents Raise its Risks?",
-      "title_ko": "알파벳(GOOGL), ‘제미니’ 보안 논란에 직면. AI 에이전트가 위험성을 높일 수 있을까?",
-      "snippet": "On September 18, 2026, Reuters reported that Alphabet Inc.",
-      "snippet_ko": "2026년 9월 18일, 로이터 통신은 알파벳(Alphabet Inc.)이",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.0099,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/alphabet-googl-faces-gemini-security-questions-could-ai-agents-raise-its-risks-1842562/",
-      "cross_verified": true,
-      "published_at": "2026-09-26T01:27:32.000000Z"
-    },
-    {
-      "title": "Apple (AAPL) Took a Different Pricing Approach with its New iPhones in China",
-      "title_ko": "애플(AAPL), 중국에서 신형 아이폰 출시하며 색다른 가격 전략을 펼쳤다",
-      "snippet": "On September 10, 2026, CNBC reported that Apple Inc.",
-      "snippet_ko": "2026년 9월 10일, CNBC는 애플(Apple Inc.)이",
-      "symbol": "AAPL",
-      "sentiment_score": 0.1546,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/apple-aapl-took-a-different-pricing-approach-with-its-new-iphones-in-china-1840384/",
-      "cross_verified": true,
-      "published_at": "2026-09-26T01:22:29.000000Z"
-    },
-    {
-      "title": "Merck (MRK) Withdraws I-DXd Biologics License Application for ES-SCLC",
-      "title_ko": "머크(MRK), ES-SCLC에 대한 I-DXd 생물학적 제제 허가 신청 철회",
-      "snippet": "On September 25, 2026, Merck & Co Inc (NYSE: MRK) announced it has withdrawn its Biologics License Application (BLA) for the antibody-drug conjugate I-DXd aimed",
-      "snippet_ko": "2026년 9월 25일, 머크 앤 컴퍼니(Merck & Co Inc, NYSE: MRK)는 항체-약물 접합체(ADC)인 I-DXd에 대한 생물학적 제제 허가 신청(BLA)을 철회했다고 발표했습니다. 이 약물은",
-      "symbol": "MRK",
-      "sentiment_score": 0.2524,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9098025/merck-mrk-withdraws-idxd-biologics-license-application-for-essclc",
-      "cross_verified": true,
-      "published_at": "2026-09-25T22:56:34.000000Z"
     }
   ]
 }
