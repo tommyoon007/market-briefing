@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-05T14:14:07.222313+00:00",
+  "updated_at": "2026-10-05T22:27:11.545209+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "PayPal Holdings Inc (PYPL) Stock Up 3.0% and Still Undervalued -- GF Score: 91/100",
+      "title_ko": "페이팔 홀딩스(PYPL) 주가 3.0% 상승, 여전히 저평가 상태 -- GF 점수: 91/100",
+      "snippet": "On October 05, 2026, PayPal Holdings Inc (PYPL) shares rose by 3.0% to a current price of $54.41, amidst a 52-week trading range of $38.46 to $79.22. This recen",
+      "snippet_ko": "2026년 10월 5일, 페이팔 홀딩스(PayPal Holdings Inc, PYPL) 주가는 3.0% 상승하여 현재 주가는 54.41달러를 기록했으며, 지난 52주 동안의 거래 범위는 38.46달러에서 79.22달러 사이였습니다. 최근 이...",
+      "symbol": "",
+      "sentiment_score": 0.4874,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9110214/paypal-holdings-inc-pypl-stock-up-30-and-still-undervalued-gf-score-91100",
+      "cross_verified": true,
+      "published_at": "2026-10-05T22:27:19.000000Z"
+    },
+    {
+      "title": "Allegion (ALLE) Completes Acquisition of Overly Door Company to Expand Specialty Security Solutions",
+      "title_ko": "앨리전(ALLE), 특수 보안 솔루션 확대를 위해 오버리 도어 컴퍼니 인수 완료",
+      "snippet": "On October 05, 2026, Allegion PLC (NYSE: ALLE) announced the successful completion of its acquisition of Overly Door Company, a private manufacturer specializin",
+      "snippet_ko": "2026년 10월 5일, Allegion PLC(NYSE: ALLE)는 [전문 분야인] 비공개 제조업체인 Overly Door Company의 인수를 성공적으로 완료했다고 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.6445,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9110213/allegion-alle-completes-acquisition-of-overly-door-company-to-expand-specialty-security-solutions",
+      "cross_verified": true,
+      "published_at": "2026-10-05T22:26:23.000000Z"
+    },
+    {
+      "title": "A Look at Humana Inc (HUM) After 4.0% Gain -- GF Value $380.50 vs Price $404.07",
+      "title_ko": "4.0% 상승 후 휴마나(Humana Inc, HUM) 현황 살펴보기 — GF 목표주가 380.50달러 vs 현재 주가 404.07달러",
+      "snippet": "On October 05, 2026, Humana Inc (HUM) shares rose 4.0%, reflecting a strong performance in a dynamic market. The stock is currently trading at $404.07, well wit",
+      "snippet_ko": "2026년 10월 5일, 휴마나(Humana Inc, HUM) 주가는 역동적인 시장 속에서 견조한 실적을 반영하며 4.0% 상승했습니다. 현재 이 주식은 404.07달러에 거래되고 있으며, 이는",
+      "symbol": "",
+      "sentiment_score": 0.5328,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9110212/a-look-at-humana-inc-hum-after-40-gain-gf-value-38050-vs-price-40407",
+      "cross_verified": true,
+      "published_at": "2026-10-05T22:26:10.000000Z"
+    },
     {
       "title": "Evercore ISI Upgrades Texas Roadhouse (TXRH) to Outperform Amid Share Price Dip",
       "title_ko": "에버코어 ISI, 주가 하락 속 텍사스 로드하우스(TXRH) 투자의견을 ‘아웃퍼폼’으로 상향 조정",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9099116/cvs-group-plc-cvsgf-fy-2026-earnings-call-highlights-revenue-climbs-59-as-cvs-group-plc-cvsgf-eyes-uk-acquisition-return-and-fy27-growth",
       "cross_verified": true,
       "published_at": "2026-09-26T19:00:21.000000Z"
-    },
-    {
-      "title": "Iraq Secures US Dollar Shipments; Analysts Forecast Chinese EV Entry Despite Summit Deadlock",
-      "title_ko": "이라크, 미국 달러 수송 확보… 정상회담 교착 상태에도 불구하고 분석가들은 중국의 전기차 시장 진출 전망",
-      "snippet": "The Iraqi government has officially reached an \"understanding\" with the United States to ensure the continued shipment of physical U.S. dollars to",
-      "snippet_ko": "이라크 정부는 미국 달러 현물의 지속적인 공급을 보장하기 위해 미국과 공식적으로 “합의”를 도출했으며,",
-      "symbol": "",
-      "sentiment_score": 0.3612,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/iraq-secures-us-dollar-shipments-analysts-forecast-chinese-ev-entry-despite-summit-deadlock/72271/",
-      "cross_verified": true,
-      "published_at": "2026-09-26T18:38:14.000000Z"
-    },
-    {
-      "title": "Allstate Offers A 7% Yielding Preferred Stock To Ride Out Earnings Decrease (NYSE:ALL)",
-      "title_ko": "올스테이트, 실적 감소 국면을 극복하기 위해 수익률 7%의 우선주를 발행 (NYSE:ALL)",
-      "snippet": "Allstate's common and preferred stocks appear attractive and offer a great risk/reward ratio. Click for this update on ALL and ALL.PR.I.",
-      "snippet_ko": "올스테이트(Allstate)의 보통주와 우선주는 매력적으로 보이며, 뛰어난 위험 대비 수익률을 제공합니다. ALL 및 ALL.PR.I에 대한 최신 정보를 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4949855-allstate-offers-7-percent-preferred-stock-to-ride-out-earnings-decrease",
-      "cross_verified": true,
-      "published_at": "2026-09-26T15:40:00.000000Z"
-    },
-    {
-      "title": "Realty Income 3.0: The REIT You Know Is Rebuilding It's Growth Engine (NYSE:O)",
-      "title_ko": "리얼티 인컴 3.0: 여러분이 잘 아는 이 REIT가 성장 동력을 재구축하고 있다 (NYSE:O)",
-      "snippet": "Realty Income (O) Buy case: Realty 3.0 drives AFFO via capital-light partnerships like GIC; 5.86% yield, 31 years growth, DDM $60.73—read now.",
-      "snippet_ko": "리얼티 인컴(O) 매수 근거: ‘리얼티 3.0’ 전략이 GIC와 같은 자본 효율이 높은 파트너십을 통해 AFFO를 견인하고 있음; 5.86% 배당수익률, 31년 연속 성장, DDM 기준 주가 $60.73—지금 읽어보세요.",
-      "symbol": "",
-      "sentiment_score": 0.3818,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4949978-realty-income-3-0-the-reit-you-know-is-rebuilding-its-growth-engine",
-      "cross_verified": true,
-      "published_at": "2026-09-26T15:09:08.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Tech Billionaires Thrive in 2026, Boosting Wealth by $845 Billion",
+      "title_ko": "2026년, 기술 분야 억만장자들이 호황을 누리며 자산이 8,450억 달러 증가했다",
+      "snippet": "Apple Inc. (AAPL) Analysis - October 05, 2026 On October 05, 2026, the tech sector continues to dominate the wealth landscape, with tech billionaires seeing",
+      "snippet_ko": "애플(AAPL) 분석 - 2026년 10월 5일 2026년 10월 5일, 기술 부문은 여전히 부의 지형을 주도하고 있으며, 기술 분야 억만장자들은",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4113,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9110046/tech-billionaires-thrive-in-2026-boosting-wealth-by-845-billion",
+      "cross_verified": true,
+      "published_at": "2026-10-05T21:31:02.000000Z"
+    },
+    {
+      "title": "Intel: The Turnaround Is Real, But At $119 The Math Fails (NASDAQ:INTC)",
+      "title_ko": "인텔: 실적 반등은 확실하지만, 주가가 119달러라면 수치가 맞지 않는다 (나스닥: INTC)",
+      "snippet": "Intel hits 18A milestones and Q2 turnaround, but dilution and weak foundry revenue keep risks high. Click for more on INTC stock.",
+      "snippet_ko": "인텔, 18A 공정 개발의 주요 이정표를 달성하고 2분기 실적 반등을 이뤘으나, 희석 효과와 부진한 파운드리 매출로 인해 위험 요인은 여전히 높은 수준이다. INTC 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "INTC",
+      "sentiment_score": -0.4215,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4952073-intel-the-turnaround-is-real-but-at-119-the-math-fails",
+      "cross_verified": true,
+      "published_at": "2026-10-05T21:17:05.000000Z"
+    },
+    {
+      "title": "Meta Platforms Cuts Anthropic AI Usage Amid $105M Spend, Shifts Toward In-House AI (META)",
+      "title_ko": "메타 플랫폼스, 1억 500만 달러 지출 속 앤트로픽 AI 사용 축소…사내 AI로 전환 (META)",
+      "snippet": "On October 05, 2026, Meta Platforms Inc (NASDAQ: META) announced a significant reduction in its use of Anthropic's Claude Code AI, with employee engagement halv",
+      "snippet_ko": "2026년 10월 5일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)는 앤트로픽(Anthropic)의 ‘클로드 코드(Claude Code)’ AI 사용을 대폭 줄였다고 발표했으며, 이에 따라 직원들의 활용도가 절반으로 감소했다.",
+      "symbol": "META",
+      "sentiment_score": 0.5641,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9110016/meta-platforms-cuts-anthropic-ai-usage-amid-105m-spend-shifts-toward-inhouse-ai-meta",
+      "cross_verified": true,
+      "published_at": "2026-10-05T20:56:01.000000Z"
+    },
     {
       "title": "Skyworks Solutions (SWKS) Completes Qorvo Acquisition, Enhancing Dividend Prospects",
       "title_ko": "스카이웍스 솔루션스(SWKS), 코르보 인수 완료… 배당 전망 밝아져",
@@ -2367,42 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/coinbase-coin-gets-a-path-to-tokenized-stocks-in-the-us-but-can-it-turn-that-into-revenue-1841539/",
       "cross_verified": true,
       "published_at": "2026-09-26T16:47:29.000000Z"
-    },
-    {
-      "title": "Oracle vs. Alphabet: Which AI Cloud Stock Is the Better Buy?",
-      "title_ko": "오라클 대 알파벳: 어떤 AI 클라우드 주식을 매수하는 것이 더 나을까?",
-      "snippet": "Oracle Corporation (NYSE:ORCL) and Alphabet Inc. (NASDAQ:GOOGL) are both trying to turn AI infrastructure into a larger cloud business, but they are asking investors to fund very different models.",
-      "snippet_ko": "오라클(Oracle Corporation, NYSE:ORCL)과 알파벳(Alphabet Inc., NASDAQ:GOOGL)은 모두 AI 인프라를 더 큰 규모의 클라우드 사업으로 확장하려 하고 있지만, 투자자들에게는 서로 매우 다른 비즈니스 모델에 자금을 지원해 줄 것을 요청하고 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2639,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/oracle-vs-alphabet-which-ai-cloud-stock-is-the-better-buy-1843698/",
-      "cross_verified": true,
-      "published_at": "2026-09-26T14:05:52.000000Z"
-    },
-    {
-      "title": "Monster Beverage (MNST) CEO Americas Rob Gehring to Resign, Emelie Tirre to Assume Interim Leadership",
-      "title_ko": "몬스터 베버리지(MNST) 미주 지역 CEO 롭 게링이 사임하고, 에멜리 티레가 임시 대표직을 맡게 된다",
-      "snippet": "Monster Beverage Corporation (MNST) disclosed in a Form 8-K filing with the U.S. Securities and Exchange Commission that Rob Gehring, currently Chief Executive",
-      "snippet_ko": "몬스터 베버리지 코퍼레이션(MNST)은 미국 증권거래위원회(SEC)에 제출한 8-K 양식에서, 현재 최고경영자(CEO)인 롭 게링이",
-      "symbol": "KO",
-      "sentiment_score": 0.413,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9099057/monster-beverage-mnst-ceo-americas-rob-gehring-to-resign-emelie-tirre-to-assume-interim-leadership",
-      "cross_verified": true,
-      "published_at": "2026-09-26T12:30:08.000000Z"
-    },
-    {
-      "title": "NVIDIA (NVDA) vs. Broadcom (AVGO): Which AI Chip Stock Has the Stronger Moat?",
-      "title_ko": "엔비디아(NVDA) 대 브로드컴(AVGO): 어느 AI 칩 종목이 더 강력한 경쟁 우위를 가지고 있을까?",
-      "snippet": "NVIDIA Corporation (NASDAQ:NVDA) and Broadcom Inc. (NASDAQ:AVGO) have both been beneficiaries of the AI boom. However, their competitive advantages come from very different places.",
-      "snippet_ko": "엔비디아(NVIDIA Corporation, 나스닥: NVDA)와 브로드컴(Broadcom Inc., 나스닥: AVGO)은 모두 AI 붐의 수혜를 입었습니다. 그러나 두 기업의 경쟁 우위는 전혀 다른 기반에서 비롯됩니다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.4365,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/nvidia-nvda-vs-broadcom-avgo-which-ai-chip-stock-has-the-stronger-moat-1844129/",
-      "cross_verified": true,
-      "published_at": "2026-09-26T04:51:01.000000Z"
     }
   ]
 }
