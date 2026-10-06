@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-05T22:27:11.545209+00:00",
+  "updated_at": "2026-10-06T05:53:38.334344+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Kuaishou Technology's Keling AI Plans $1 Billion IPO",
+      "title_ko": "쿠아이쇼 테크놀로지의 ‘켈링 AI’, 10억 달러 규모 기업공개(IPO) 계획",
+      "snippet": "On October 05, 2026, Kuaishou Technology's subsidiary, Keling AI, announced plans for an initial public offering (IPO) in Hong Kong, with a target to raise at l",
+      "snippet_ko": "2026년 10월 5일, 콰이쇼우 테크놀로지의 자회사인 켈링 AI는 홍콩에서 기업공개(IPO)를 진행할 계획을 발표했으며, 최소",
+      "symbol": "",
+      "sentiment_score": 0.0688,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9110571/kuaishou-technologys-keling-ai-plans-1-billion-ipo",
+      "cross_verified": true,
+      "published_at": "2026-10-06T05:11:41.000000Z"
+    },
+    {
+      "title": "Intuitive Surgical: The Multiple Fell, The Story Didn't (NASDAQ:ISRG)",
+      "title_ko": "인튜이티브 서지컬: 주가는 여러 차례 하락했지만, 이야기는 계속되었다 (NASDAQ:ISRG)",
+      "snippet": "Intuitive Surgical remains a wide-moat leader in robotic surgery with strong secular tailwinds and high recurring revenue potential. Read why ISRG stock is a Buy.",
+      "snippet_ko": "인튜이티브 서지컬(Intuitive Surgical)은 로봇 수술 분야에서 여전히 견고한 경쟁 우위를 점하고 있는 선도 기업으로, 강력한 장기적 성장 동력과 높은 반복 매출 잠재력을 갖추고 있습니다. ISRG 주식을 ‘매수’로 추천하는 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.2633,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4952110-intuitive-surgical-the-multiple-fell-the-story-didnt-maintain-buy",
+      "cross_verified": true,
+      "published_at": "2026-10-06T05:01:14.000000Z"
+    },
     {
       "title": "PayPal Holdings Inc (PYPL) Stock Up 3.0% and Still Undervalued -- GF Score: 91/100",
       "title_ko": "페이팔 홀딩스(PYPL) 주가 3.0% 상승, 여전히 저평가 상태 -- GF 점수: 91/100",
@@ -1177,33 +1201,57 @@
       "url": "https://www.raskmedia.com.au/2026/09/27/value-the-cba-share-price-using-its-dividend-yield-47/",
       "cross_verified": true,
       "published_at": "2026-09-26T20:40:02.000000Z"
-    },
-    {
-      "title": "Foreign Investors Boost US Stock Purchases, Impacting SPY Valuation Dynamics",
-      "title_ko": "외국인 투자자들의 미국 주식 매수 증가가 SPY의 가치 평가 동향에 영향을 미치고 있다",
-      "snippet": "On September 26, 2026, foreign investors significantly increased their net purchases of US stocks and investment fund shares, reaching $426 billion in the secon",
-      "snippet_ko": "2026년 9월 26일, 외국인 투자자들은 미국 주식과 투자 펀드 지분에 대한 순매수 규모를 대폭 늘려, 그 달 두 번째 주에 4,260억 달러에 달했다.",
-      "symbol": "",
-      "sentiment_score": 0.3298,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9099118/foreign-investors-boost-us-stock-purchases-impacting-spy-valuation-dynamics",
-      "cross_verified": true,
-      "published_at": "2026-09-26T19:55:41.000000Z"
-    },
-    {
-      "title": "CVS Group PLC (CVSGF) (FY 2026) Earnings Call Highlights: Revenue Climbs 5.9% as CVS Group PLC (CVSGF) Eyes UK Acquisition Return and FY27 Growth",
-      "title_ko": "CVS 그룹 PLC (CVSGF) (2026 회계연도) 실적 발표 하이라이트: 매출 5.9% 증가… CVS 그룹 PLC (CVSGF), 영국 기업 인수 효과와 2027 회계연도 성장 전망",
-      "snippet": "Revenue: Increased 5.9% to $712.8 million, with growth across all three divisions.Like-for-Like Revenue Growth: Improved versus the prior year.Adjusted EBITDA:",
-      "snippet_ko": "매출: 5.9% 증가한 7억 1,280만 달러를 기록했으며, 3개 사업부 모두에서 성장세를 보였습니다. 동일 매장 기준 매출 성장률: 전년 대비 개선되었습니다. 조정 EBITDA:",
-      "symbol": "",
-      "sentiment_score": 0.6058,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9099116/cvs-group-plc-cvsgf-fy-2026-earnings-call-highlights-revenue-climbs-59-as-cvs-group-plc-cvsgf-eyes-uk-acquisition-return-and-fy27-growth",
-      "cross_verified": true,
-      "published_at": "2026-09-26T19:00:21.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Google nears $1 billion-plus nuclear power deal with Constellation amid AI boom",
+      "title_ko": "AI 붐 속에서 구글, 콘스텔레이션과 10억 달러 이상의 원자력 발전 계약 체결을 앞두고 있다",
+      "snippet": "Google is close to striking a deal to buy nuclear power from Constellation Energy Corp, for its data centres, as tech gaints look for more reliable",
+      "snippet_ko": "기술 대기업들이 더 안정적인 전력을 모색하는 가운데, 구글은 자사 데이터 센터에 공급할 원자력 전력을 콘스텔레이션 에너지(Constellation Energy Corp)로부터 구매하는 계약을 체결할 단계에 접어들었다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.8472,
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/google-nears-1-billion-plus-nuclear-power-deal-with-constellation-amid-ai-boom/articleshow/134722202.cms",
+      "cross_verified": true,
+      "published_at": "2026-10-06T03:51:47.000000Z"
+    },
+    {
+      "title": "KLA (KLAC): Does Its Semiconductor Moat Justify the Premium?",
+      "title_ko": "KLA (KLAC): 이 회사의 반도체 경쟁 우위가 프리미엄을 정당화할 수 있을까?",
+      "snippet": "KLA Corporation (NASDAQ:KLAC) is one of those companies that becomes more important the more complicated the semiconductor industry gets.",
+      "snippet_ko": "KLA 코퍼레이션(나스닥:KLAC)은 반도체 산업이 복잡해질수록 그 중요성이 더욱 커지는 기업 중 하나입니다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.8031,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/kla-klac-does-its-semiconductor-moat-justify-the-premium-1848726/",
+      "cross_verified": true,
+      "published_at": "2026-10-06T03:29:05.000000Z"
+    },
+    {
+      "title": "Apple (AAPL) Ordered to Pay $184 Million in Interest Over Patent Case",
+      "title_ko": "애플(AAPL), 특허 소송과 관련해 1억 8,400만 달러의 이자 지급 명령 받아",
+      "snippet": "On October 05, 2026, a federal judge ruled that Apple Inc. (AAPL) must pay an additional $184 million in interest related to a $634 million jury award for paten",
+      "snippet_ko": "2026년 10월 5일, 한 연방 판사는 애플(AAPL)이 특허 관련 배심원 평결에 따른 6억 3,400만 달러의 배상금에 대해 추가로 1억 8,400만 달러의 이자를 지급해야 한다고 판결했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5664,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9110426/apple-aapl-ordered-to-pay-184-million-in-interest-over-patent-case",
+      "cross_verified": true,
+      "published_at": "2026-10-06T00:30:29.000000Z"
+    },
+    {
+      "title": "Indian Rupee Stabilization Efforts Amid Dollar Sales",
+      "title_ko": "달러 매도 속 인도 루피 안정화 노력",
+      "snippet": "On October 05, 2026, traders reported that the Reserve Bank of India has been actively selling dollars in the onshore foreign exchange market to support the rup",
+      "snippet_ko": "2026년 10월 5일, 외환 거래업자들은 인도 중앙은행이 루피화 가치를 지지하기 위해 국내 외환 시장에서 달러를 적극적으로 매도하고 있다고 전했다.",
+      "symbol": "USD",
+      "sentiment_score": 0.8629,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9110570/indian-rupee-stabilization-efforts-amid-dollar-sales",
+      "cross_verified": true,
+      "published_at": "2026-10-06T05:11:07.000000Z"
+    },
     {
       "title": "Tech Billionaires Thrive in 2026, Boosting Wealth by $845 Billion",
       "title_ko": "2026년, 기술 분야 억만장자들이 호황을 누리며 자산이 8,450억 달러 증가했다",
@@ -2355,54 +2403,6 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/trump-xi-summit-yields-eight-key-agreements-u-s-moves-to-slash-fuel-standards-and-rebrand-ai/72277/",
       "cross_verified": true,
       "published_at": "2026-09-27T03:38:25.000000Z"
-    },
-    {
-      "title": "OpenAI AI system breaches sandbox and gains internet access",
-      "title_ko": "OpenAI의 AI 시스템이 샌드박스를 탈출해 인터넷에 접속했다",
-      "snippet": "OpenAI said an agentic AI system exploited a sandbox gap to access the public internet, prompting the company to pause training with tool use.",
-      "snippet_ko": "오픈AI는 자율적 AI 시스템이 샌드박스 취약점을 악용해 공개 인터넷에 접속한 것으로 밝혀져, 이에 따라 회사는 도구 사용에 따른 훈련을 일시 중단했다고 밝혔다.",
-      "symbol": "META",
-      "sentiment_score": 0.4939,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/info-tech/openai-agentic-ai-system-breaches-sandbox-gains-unauthorised-access-to-public-internet/article71515078.ece",
-      "cross_verified": true,
-      "published_at": "2026-09-27T00:44:30.000000Z"
-    },
-    {
-      "title": "Apple (AAPL) Ordered to Pay $5.7 Billion in Patent Case Over Haptic Technology",
-      "title_ko": "애플(AAPL), 햅틱 기술 관련 특허 소송에서 57억 달러 배상 명령 받아",
-      "snippet": "On September 26, 2026, a federal jury in California ruled that Apple Inc. (NASDAQ: AAPL) must pay over $5.7 billion to Taction Technology for patent infringemen",
-      "snippet_ko": "2026년 9월 26일, 캘리포니아의 연방 배심원단은 애플(Apple Inc., 나스닥: AAPL)이 특허 침해로 인해 택션 테크놀로지(Taction Technology)에 57억 달러 이상을 배상해야 한다고 판결했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.1722,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9099124/apple-aapl-ordered-to-pay-57-billion-in-patent-case-over-haptic-technology",
-      "cross_verified": true,
-      "published_at": "2026-09-26T22:55:20.000000Z"
-    },
-    {
-      "title": "QQQ and QQQI: Similar Tickers but Very Different ETFs",
-      "title_ko": "QQQ와 QQQI: 티커는 비슷하지만 성격이 매우 다른 ETF",
-      "snippet": "QQQ and QQQI: Similar Tickers but Very Different ETFs click ↑ 4 Featured Option sellers are often enticed by ETFs (exchange-traded funds) that use the cov...",
-      "snippet_ko": "QQQ와 QQQI: 티커는 비슷하지만 성격은 완전히 다른 ETF들 ↑ 클릭 4. 주목할 만한 옵션 매도자들은 종종 상관관계를 활용하는 ETF(상장지수펀드)에 매력을 느끼곤 합니다...",
-      "symbol": "AAPL",
-      "sentiment_score": 0.6813,
-      "source": "thebluecollarinvestor.com",
-      "url": "https://www.thebluecollarinvestor.com/qqq-and-qqqi-similar-tickers-but-very-different-etfs/",
-      "cross_verified": true,
-      "published_at": "2026-09-26T16:52:18.000000Z"
-    },
-    {
-      "title": "Coinbase (COIN) Gets a Path to Tokenized Stocks in the US. But Can It Turn That Into Revenue?",
-      "title_ko": "코인베이스(COIN), 미국에서 토큰화된 주식 진출의 길을 열었다. 하지만 이를 수익으로 연결할 수 있을까?",
-      "snippet": "On September 17, the SEC approved a temporary framework for trading tokenized US equities. Called the Innovation Exemption, this framework could give Coinbase Global, Inc.",
-      "snippet_ko": "9월 17일, 미국 증권거래위원회(SEC)는 토큰화된 미국 주식 거래를 위한 임시 체계를 승인했다. ‘혁신 면제(Innovation Exemption)’로 불리는 이 체계는 코인베이스 글로벌(Coinbase Global, Inc.)에",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3922,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/coinbase-coin-gets-a-path-to-tokenized-stocks-in-the-us-but-can-it-turn-that-into-revenue-1841539/",
-      "cross_verified": true,
-      "published_at": "2026-09-26T16:47:29.000000Z"
     }
   ]
 }
