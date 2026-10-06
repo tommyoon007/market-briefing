@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-06T05:53:38.334344+00:00",
+  "updated_at": "2026-10-06T13:08:57.735502+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Emera (EMA) and Canadian Utilities Announce $14.3B Merger Creating North America Energy Giant",
+      "title_ko": "에메라(EMA)와 캐나다 유틸리티즈, 143억 달러 규모의 합병을 발표하며 북미 에너지 거대 기업 탄생",
+      "snippet": "On October 06, 2026, Canadian utility companies Emera Inc (NYSE: EMA) and Canadian Utilities (CDUAF) announced a landmark all-stock merger valued at C$14.3 bill",
+      "snippet_ko": "2026년 10월 6일, 캐나다의 전력 회사인 에메라(Emera Inc, NYSE: EMA)와 캐나다 유틸리티(Canadian Utilities, CDUAF)는 143억 캐나다 달러 규모의 획기적인 전액 주식 합병을 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.584,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9111144/emera-ema-and-canadian-utilities-announce-143b-merger-creating-north-america-energy-giant",
+      "cross_verified": true,
+      "published_at": "2026-10-06T12:58:40.000000Z"
+    },
+    {
+      "title": "ICE DCF Analysis: Intrinsic Value $88 vs Price $152",
+      "title_ko": "ICE DCF 분석: 내재가치 88달러 대 주가 152달러",
+      "snippet": "On October 06, 2026, we delve into the DCF analysis for Intercontinental Exchange Inc (ICE), a company that has seen a decline in its stock price over the past",
+      "snippet_ko": "2026년 10월 6일, 우리는 지난 기간 동안 주가가 하락세를 보인 인터컨티넨탈 익스체인지(Intercontinental Exchange Inc, ICE)에 대한 DCF 분석을 심층적으로 살펴보겠습니다.",
+      "symbol": "",
+      "sentiment_score": -0.2732,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9111120/ice-dcf-analysis-intrinsic-value-88-vs-price-152",
+      "cross_verified": true,
+      "published_at": "2026-10-06T12:26:46.000000Z"
+    },
+    {
+      "title": "RPM International Inc (RPM) Forecasts Modest Sales and EBITDA Growth for Q2 Fiscal 2027",
+      "title_ko": "RPM 인터내셔널(RPM)은 2027 회계연도 2분기 매출 및 EBITDA가 소폭 증가할 것으로 전망했다.",
+      "snippet": "On October 06, 2026, RPM International Inc (NYSE: RPM) provided a positive outlook for its second quarter of fiscal 2027, projecting consolidated sales growth i",
+      "snippet_ko": "2026년 10월 6일, RPM International Inc(NYSE: RPM)는 2027 회계연도 2분기에 대한 긍정적인 전망을 제시하며, 연결 매출이 증가할 것으로 예상했다.",
+      "symbol": "",
+      "sentiment_score": 0.5886,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9111117/rpm-international-inc-rpm-forecasts-modest-sales-and-ebitda-growth-for-q2-fiscal-2027",
+      "cross_verified": true,
+      "published_at": "2026-10-06T12:25:47.000000Z"
+    },
     {
       "title": "Kuaishou Technology's Keling AI Plans $1 Billion IPO",
       "title_ko": "쿠아이쇼 테크놀로지의 ‘켈링 AI’, 10억 달러 규모 기업공개(IPO) 계획",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4950005-simon-property-group-redemption-risk-for-spgprj",
       "cross_verified": true,
       "published_at": "2026-09-27T06:19:28.000000Z"
-    },
-    {
-      "title": "Rare Sunday for public- and rural sector-banks: Check if your bank is open or closed today",
-      "title_ko": "민간 및 농촌 은행에 있어 드문 일요일: 오늘 이용하시는 은행이 영업하는지 휴무인지 확인해 보세요",
-      "snippet": "Public-sector and regional rural banks across the country will open on Sunday, September 27, ahead of a three-day nationwide strike by bank unions. Details here.",
-      "snippet_ko": "은행 노조들의 3일간의 전국 총파업을 앞두고, 전국의 공적 부문 및 지역 농촌 은행들이 9월 27일 일요일에 영업을 할 예정입니다. 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": -0.2732,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/money/rare-sunday-for-public-and-rural-sector-banks-check-if-your-bank-is-open-or-closed-today-11790482706270.html",
-      "cross_verified": true,
-      "published_at": "2026-09-27T05:11:43.000000Z"
-    },
-    {
-      "title": "Trump Administration Revises Fuel Economy Rules Impacting GM (NYSE: GM)",
-      "title_ko": "트럼프 행정부, GM(NYSE: GM)에 영향을 미치는 연비 규정을 개정",
-      "snippet": "On September 26, 2026, former President Trump announced new fuel economy standards for vehicles, rescinding the previous administration's electric vehicle manda",
-      "snippet_ko": "2026년 9월 26일, 트럼프 전 대통령은 자동차에 대한 새로운 연비 기준을 발표하며, 전 행정부가 도입한 전기차 의무화 조치를 철회했다.",
-      "symbol": "",
-      "sentiment_score": 0.4044,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9099121/trump-administration-revises-fuel-economy-rules-impacting-gm-nyse-gm",
-      "cross_verified": true,
-      "published_at": "2026-09-26T21:55:45.000000Z"
-    },
-    {
-      "title": "Value the CBA share price using its dividend yield",
-      "title_ko": "배당 수익률을 바탕으로 CBA 주가를 평가한다",
-      "snippet": "Is the Commonwealth Bank of Australia (ASX: CBA) share price good value? Here are 2 ways you can put a number on it.",
-      "snippet_ko": "호주 커먼웰스 은행(ASX: CBA)의 주가는 매수할 만한 가치가 있을까요? 이를 수치적으로 평가할 수 있는 두 가지 방법을 소개합니다.",
-      "symbol": "",
-      "sentiment_score": 0.9055,
-      "source": "raskmedia.com.au",
-      "url": "https://www.raskmedia.com.au/2026/09/27/value-the-cba-share-price-using-its-dividend-yield-47/",
-      "cross_verified": true,
-      "published_at": "2026-09-26T20:40:02.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Google and Constellation Energy Partner for 20-Year Nuclear Power Expansion",
+      "title_ko": "구글과 콘스텔레이션 에너지, 20년간의 원자력 발전 확대에 협력",
+      "snippet": "On October 06, 2026, Google announced a long-term agreement with Constellation Energy to add 890 megawatts of nuclear power generation capacity to the PJM grid",
+      "snippet_ko": "2026년 10월 6일, 구글은 콘스텔레이션 에너지(Constellation Energy)와 PJM 전력망에 890메가와트의 원자력 발전 용량을 추가하기 위한 장기 계약을 체결했다고 발표했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.1457,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9111084/google-and-constellation-energy-partner-for-20year-nuclear-power-expansion",
+      "cross_verified": true,
+      "published_at": "2026-10-06T12:10:31.000000Z"
+    },
+    {
+      "title": "Google Nears $1 Billion Nuclear Deal to Power AI Growth",
+      "title_ko": "구글, AI 성장 동력 확보를 위한 10억 달러 규모 원자력 계약 체결 임박",
+      "snippet": "Google's parent company, Alphabet Inc. (GOOGL, Financials), is allegedly getting close to a multiyear deal for at least $1 billion to purchase nuclear power fro",
+      "snippet_ko": "구글의 모회사인 알파벳(Alphabet Inc., GOOGL, 재무 정보)이 최소 10억 달러 규모의 다년간 원자력 발전 구매 계약을 체결하는 데 가까워지고 있는 것으로 알려졌다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.405,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9110892/google-nears-1-billion-nuclear-deal-to-power-ai-growth",
+      "cross_verified": true,
+      "published_at": "2026-10-06T12:03:19.000000Z"
+    },
+    {
+      "title": "Ofcom Launches Inquiry into Meta Platforms (META) Over Instagram Instants Safety Compliance",
+      "title_ko": "오프콤(Ofcom), 인스타그램 인스턴츠의 안전 규정 준수 여부와 관련해 메타 플랫폼스(META)에 대한 조사 착수",
+      "snippet": "On October 06, 2026, Ofcom, the UK communications regulator, announced an investigation into Meta Platforms Inc (NASDAQ: META) to determine whether the company",
+      "snippet_ko": "2026년 10월 6일, 영국 통신 규제 기관인 오프콤(Ofcom)은 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)에 대한 조사를 발표하며, 해당 기업이",
+      "symbol": "META",
+      "sentiment_score": -0.3675,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9111018/ofcom-launches-inquiry-into-meta-platforms-meta-over-instagram-instants-safety-compliance",
+      "cross_verified": true,
+      "published_at": "2026-10-06T11:57:58.000000Z"
+    },
     {
       "title": "Google nears $1 billion-plus nuclear power deal with Constellation amid AI boom",
       "title_ko": "AI 붐 속에서 구글, 콘스텔레이션과 10억 달러 이상의 원자력 발전 계약 체결을 앞두고 있다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
       "cross_verified": true,
       "published_at": "2026-09-27T11:00:01.000000Z"
-    },
-    {
-      "title": "Mastercard: Building The Future Of Payments Before It Arrives (NYSE:MA)",
-      "title_ko": "마스터카드: 미래의 결제 방식이 도래하기 전에 미리 구축하다 (NYSE:MA)",
-      "snippet": "Mastercard (MA) rated Buy: conservative valuation and margin of safety.",
-      "snippet_ko": "마스터카드(MA)에 ‘매수’ 등급 부여: 보수적인 밸류에이션과 안전마진.",
-      "symbol": "MA",
-      "sentiment_score": 0.5573,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4950027-mastercard-stock-building-future-of-payments-before-it-arrives",
-      "cross_verified": true,
-      "published_at": "2026-09-27T10:07:57.000000Z"
-    },
-    {
-      "title": "Foldables, AI Servers and India Expansion: What Lies Ahead for Apple (AAPL) Under the New CEO?",
-      "title_ko": "폴더블 기기, AI 서버, 인도 시장 진출: 신임 CEO 체제 하에서 애플(AAPL)의 앞날은 어떻게 될까?",
-      "snippet": "Jim Cramer recently labelled Apple Inc. (NASDAQ:AAPL) as a standout performer, reflecting on the company’s product focus under the leadership of new CEO, John Ternus.",
-      "snippet_ko": "짐 크레이머는 최근 애플(NASDAQ:AAPL)을 눈에 띄는 성과를 내고 있는 기업으로 꼽으며, 신임 CEO 존 테르누스의 지도력 아래 회사가 제품에 집중하고 있는 점을 평가했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2892,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/foldables-ai-servers-and-india-expansion-what-lies-ahead-for-apple-aapl-under-the-new-ceo-1844785/",
-      "cross_verified": true,
-      "published_at": "2026-09-27T09:24:47.000000Z"
-    },
-    {
-      "title": "Trump-Xi Summit Yields Eight Key Agreements; U.S. Moves to Slash Fuel Standards and Rebrand AI",
-      "title_ko": "트럼프-시진핑 정상회담에서 8가지 주요 합의 도출… 미국, 연비 기준 대폭 완화 및 AI 재정의 추진",
-      "snippet": "President Donald Trump and Chinese President Xi Jinping have concluded a high-stakes summit in Washington, reaching eight major agreements aimed at",
-      "snippet_ko": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석은 워싱턴에서 열린 중대한 의미를 지닌 정상회담을 마무리하며, 다음을 목표로 하는 8가지 주요 합의에 도달했습니다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.4019,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/trump-xi-summit-yields-eight-key-agreements-u-s-moves-to-slash-fuel-standards-and-rebrand-ai/72277/",
-      "cross_verified": true,
-      "published_at": "2026-09-27T03:38:25.000000Z"
     }
   ]
 }
