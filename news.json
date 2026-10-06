@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-06T13:08:57.735502+00:00",
+  "updated_at": "2026-10-06T19:23:21.077260+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Chatham Lodging Trust Credit Profile And Rating: 8.71% CY On Preferred Shares (NYSE:CLDT)",
+      "title_ko": "채텀 로징 트러스트의 신용 프로필 및 신용등급: 우선주 연환산 수익률 8.71% (NYSE:CLDT)",
+      "snippet": "Chatham Lodging Trust's preferred yields 8.71%, but cyclicality and high rates raise risk (Ba3 implied). Click for more on CLDT stock & its preferred CLDT.PR.A.",
+      "snippet_ko": "채텀 로징 트러스트(Chatham Lodging Trust)의 우선주 수익률은 8.71%이지만, 경기 민감성과 높은 금리로 인해 위험성이 높아집니다(Ba3 등급 추정). CLDT 주식 및 해당 우선주 CLDT.PR.A에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.5563,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4952315-chatham-lodging-trust-credit-profile-and-rating-8-71-percent-cy-on-preferred-shares",
+      "cross_verified": true,
+      "published_at": "2026-10-06T18:38:29.000000Z"
+    },
+    {
+      "title": "GCash users get real-time allocation as Mynt IPO starts",
+      "title_ko": "Mynt의 기업공개(IPO)가 시작되면서 GCash 사용자들은 실시간으로 배정분을 받게 된다",
+      "snippet": "MYNT Inc., the parent company of GCash, opened its initial public offering (IPO) on Tuesday, allowing retail investors to subscribe through the app for as little as P660, or 100 shares, at the final offer price of P6.60 per share.",
+      "snippet_ko": "GCash의 모회사인 MYNT Inc.는 화요일 기업공개(IPO)를 시작했으며, 개인 투자자들은 앱을 통해 주당 6.60 페소의 최종 공모가로 최소 660 페소(100주)부터 청약할 수 있게 되었다.",
+      "symbol": "",
+      "sentiment_score": 0.9393,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/07/business/top-business/gcash-users-get-real-time-allocation-as-mynt-ipo-starts/2440361",
+      "cross_verified": true,
+      "published_at": "2026-10-06T18:30:26.000000Z"
+    },
+    {
+      "title": "Pfizer Keeps Its Dividend Steady With a Yield Above 6%",
+      "title_ko": "화이자, 배당금 수준을 유지하며 배당수익률 6% 이상 기록",
+      "snippet": "Pfizer Inc. (PFE, Financials) is retaining its quarterly dividend at 43 cents a share, sustaining one of the stock's key attractions for income investors.Its bo",
+      "snippet_ko": "화이자(Pfizer Inc., PFE, 금융)는 분기 배당금을 주당 43센트로 유지함으로써, 소득형 투자자들에게 이 종목의 주요 매력 중 하나를 계속해서 제공하고 있다. 이 회사의 배당금은...",
+      "symbol": "",
+      "sentiment_score": 0.421,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9111602/pfizer-keeps-its-dividend-steady-with-a-yield-above-6",
+      "cross_verified": true,
+      "published_at": "2026-10-06T18:27:36.000000Z"
+    },
     {
       "title": "Emera (EMA) and Canadian Utilities Announce $14.3B Merger Creating North America Energy Giant",
       "title_ko": "에메라(EMA)와 캐나다 유틸리티즈, 143억 달러 규모의 합병을 발표하며 북미 에너지 거대 기업 탄생",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4950046-one-notch-higher-than-junk-oracle-debt-warning-played-out",
       "cross_verified": true,
       "published_at": "2026-09-27T13:10:57.000000Z"
-    },
-    {
-      "title": "Workday: Flex Credits And Valuation Are Undervalued (NASDAQ:WDAY)",
-      "title_ko": "워크데이: 플렉스 크레딧과 기업 가치가 저평가되어 있다 (나스닥: WDAY)",
-      "snippet": "Workday is operating well in steering its AI Agent and Flex Credits subscription to grow into a significant revenue stream. See why I rate WDAY stock a strong buy.",
-      "snippet_ko": "워크데이(Workday)는 AI 에이전트 및 플렉스 크레딧(Flex Credits) 구독 서비스를 주요 수익원으로 성장시키기 위해 효과적으로 이끌고 있습니다. 제가 WDAY 주식을 ‘강력 매수’로 평가하는 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.3612,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4950043-workday-flex-credits-and-valuation-are-undervalued",
-      "cross_verified": true,
-      "published_at": "2026-09-27T12:36:22.000000Z"
-    },
-    {
-      "title": "VLCC Market Surge: Record Prices for Super Tankers Amid High Freight Rates",
-      "title_ko": "VLCC 시장 급등: 높은 운임 속에 초대형 유조선 가격 사상 최고치 기록",
-      "snippet": "On September 27, 2026, the large crude oil tanker market is witnessing unprecedented demand, particularly for Very Large Crude Carriers (VLCCs). This surge in d",
-      "snippet_ko": "2026년 9월 27일, 대형 원유 운반선 시장, 특히 초대형 원유 운반선(VLCC) 부문에서 전례 없는 수요가 나타나고 있다. 이러한 수요 급증은...",
-      "symbol": "",
-      "sentiment_score": 0.2502,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9099172/vlcc-market-surge-record-prices-for-super-tankers-amid-high-freight-rates",
-      "cross_verified": true,
-      "published_at": "2026-09-27T07:50:26.000000Z"
-    },
-    {
-      "title": "Simon Property Group: Redemption Risk For SPG.PR.J (NYSE:SPG)",
-      "title_ko": "사이먼 프로퍼티 그룹: SPG.PR.J(NYSE:SPG)의 상환 위험",
-      "snippet": "Simon Property Group's financials remain robust, but SPG.PR.J's price appreciation potential is exhausted. Read why SPG.PR.J stock is a Strong Sell.",
-      "snippet_ko": "사이먼 프로퍼티 그룹(Simon Property Group)의 재무 건전성은 여전히 탄탄하지만, SPG.PR.J의 주가 상승 여력은 소진되었습니다. SPG.PR.J 주식을 ‘강력 매도’로 평가하는 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.0741,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4950005-simon-property-group-redemption-risk-for-spgprj",
-      "cross_verified": true,
-      "published_at": "2026-09-27T06:19:28.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Marvell (MRVL) Sets Ambitious FY31 Targets Amid Significant Valuation Premium",
+      "title_ko": "마벨(MRVL), 상당한 평가 프리미엄 속에서 31 회계연도 야심찬 목표치 제시",
+      "snippet": "On October 06, 2026, Marvell Technology Inc (NASDAQ: MRVL) unveiled its long-term financial goals during its investor day presentation, projecting revenues betw",
+      "snippet_ko": "2026년 10월 6일, 마벨 테크놀로지(Marvell Technology Inc, 나스닥: MRVL)는 투자자 설명회에서 장기 재무 목표를 발표하며, 매출이",
+      "symbol": "AVGO",
+      "sentiment_score": 0.1445,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9111828/marvell-mrvl-sets-ambitious-fy31-targets-amid-significant-valuation-premium",
+      "cross_verified": true,
+      "published_at": "2026-10-06T18:25:52.000000Z"
+    },
+    {
+      "title": "KFC Launches Portable Go Buckets Snack, Yum Brands (YUM) Dividend Appeal Strengthened",
+      "title_ko": "KFC, 휴대용 ‘고 버킷’ 스낵 출시… 얌 브랜드(YUM)의 배당 매력도 강화",
+      "snippet": "On October 06, 2026, Yum Brands Inc (NYSE: YUM) announced the introduction of Go Buckets, a new portable snack offering starting at $3.49. This convenient produ",
+      "snippet_ko": "2026년 10월 6일, Yum Brands Inc(NYSE: YUM)는 3.49달러부터 시작하는 새로운 휴대용 스낵 제품인 ‘Go Buckets’를 출시한다고 발표했습니다. 이 편리한 제품은",
+      "symbol": "MCD",
+      "sentiment_score": 0.5924,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9111819/kfc-launches-portable-go-buckets-snack-yum-brands-yum-dividend-appeal-strengthened",
+      "cross_verified": true,
+      "published_at": "2026-10-06T18:01:23.000000Z"
+    },
+    {
+      "title": "Apple's App Store Revenue Shows Modest Growth Amid Valuation Concerns (AAPL)",
+      "title_ko": "기업 가치 평가에 대한 우려 속에서도 애플 앱 스토어 매출은 소폭 증가세를 보였다 (AAPL)",
+      "snippet": "On October 06, 2026, Apple Inc (AAPL) reported a 5% year-over-year revenue increase for its App Store in September, signaling a tentative recovery after a perio",
+      "snippet_ko": "2026년 10월 6일, 애플(AAPL)은 9월 앱 스토어 매출이 전년 동기 대비 5% 증가했다고 발표했으며, 이는 한동안의 침체기를 거친 후 조심스러운 회복세를 보이고 있음을 시사했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5273,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9111793/apples-app-store-revenue-shows-modest-growth-amid-valuation-concerns-aapl",
+      "cross_verified": true,
+      "published_at": "2026-10-06T17:58:49.000000Z"
+    },
     {
       "title": "Google and Constellation Energy Partner for 20-Year Nuclear Power Expansion",
       "title_ko": "구글과 콘스텔레이션 에너지, 20년간의 원자력 발전 확대에 협력",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9099186/institutional-investors-dominate-us-market-amid-retail-traders-retreat",
       "cross_verified": true,
       "published_at": "2026-09-27T16:10:29.000000Z"
-    },
-    {
-      "title": "Meta’s Muse-fuelled rally: Stock jumps 36% in September as investors warm to its $140 billion AI bet",
-      "title_ko": "메타의 ‘뮤즈’에 힘입은 주가 급등: 투자자들이 1,400억 달러 규모의 AI 투자에 호감을 보이면서 9월 주가가 36% 급등",
-      "snippet": "Meta shares are up 36% in September as its Muse AI assistant fuels investor optimism, despite soaring AI spending and rising cash-flow pressure.",
-      "snippet_ko": "AI 관련 지출이 급증하고 현금 흐름 압박이 커지고 있음에도 불구하고, 메타의 AI 비서 ‘뮤즈(Muse)’가 투자자들의 낙관론을 부추기면서 9월 메타 주가는 36% 상승했다.",
-      "symbol": "META",
-      "sentiment_score": 0.3859,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/news/metas-muse-fuelled-rally-stock-jumps-36-per-cent-in-september-as-investors-warm-to-its-140-billion-ai-bet-11790522579927.html",
-      "cross_verified": true,
-      "published_at": "2026-09-27T15:34:30.000000Z"
-    },
-    {
-      "title": "AMD Joins $1 Trillion Valuation Club Amid Semiconductor and AI Surge (Ticker: AMD)",
-      "title_ko": "반도체 및 AI 붐 속에 AMD, 시가총액 1조 달러 클럽에 합류 (티커: AMD)",
-      "snippet": "On September 27, 2026, Advanced Micro Devices Inc (NASDAQ: AMD) reached a landmark valuation milestone, becoming the latest chipmaker to surpass a $1 trillion m",
-      "snippet_ko": "2026년 9월 27일, 어드밴스드 마이크로 디바이스(Advanced Micro Devices Inc, 나스닥: AMD)는 시가총액에서 획기적인 이정표를 달성하며, 1조 달러를 돌파한 최신 반도체 제조사로 이름을 올렸습니다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.603,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9099177/amd-joins-1-trillion-valuation-club-amid-semiconductor-and-ai-surge-ticker-amd",
-      "cross_verified": true,
-      "published_at": "2026-09-27T14:55:21.000000Z"
-    },
-    {
-      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-      "title_ko": "채권을 탐내는 AI 기업들, 채권 수익률 급등으로 위험에 직면",
-      "snippet": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
-      "snippet_ko": "AI 인프라 확충은 둔화될 기미를 보이지 않고 있지만, 국채 수익률의 급등으로 인해 적어도 비용은 더 많이 들게 될 전망이다.",
-      "symbol": "META",
-      "sentiment_score": 0.6019,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
-      "cross_verified": true,
-      "published_at": "2026-09-27T11:00:01.000000Z"
     }
   ]
 }
