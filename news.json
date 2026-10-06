@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-06T19:23:21.077260+00:00",
+  "updated_at": "2026-10-06T23:41:51.877943+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "9.4% Dividend Yield From Dynex Capital’s New Steady Preferred Share (NYSE:DX.PR.D)",
+      "title_ko": "Dynex Capital의 새로운 ‘Steady’ 우선주(NYSE:DX.PR.D)가 제공하는 9.4% 배당 수익률",
+      "snippet": "Dynex Capital offers a new preferred, DX-D, but investing in fixed-rate preferreds while Treasury yields are surging carries added risk. Click to read more.",
+      "snippet_ko": "Dynex Capital이 새로운 우선주인 DX-D를 출시했으나, 국채 수익률이 급등하는 상황에서 고정금리 우선주에 투자하는 것은 추가적인 위험을 수반합니다. 자세한 내용을 보려면 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.462,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4952361-9-4-percent-dividend-yield-from-dynex-capital-new-steady-preferred-share",
+      "cross_verified": true,
+      "published_at": "2026-10-06T22:38:34.000000Z"
+    },
     {
       "title": "Chatham Lodging Trust Credit Profile And Rating: 8.71% CY On Preferred Shares (NYSE:CLDT)",
       "title_ko": "채텀 로징 트러스트의 신용 프로필 및 신용등급: 우선주 연환산 수익률 8.71% (NYSE:CLDT)",
@@ -1189,21 +1201,57 @@
       "url": "https://seekingalpha.com/article/4950047-nike-the-catalyst-weve-been-waiting-for",
       "cross_verified": true,
       "published_at": "2026-09-27T13:14:19.000000Z"
-    },
-    {
-      "title": "One Notch Higher Than Junk: Oracle Stock Debt Warning Played Out (NYSE:ORCL)",
-      "title_ko": "정크 등급보다 한 단계 높은 수준: 오라클 주식의 부채 경고가 현실화되다 (NYSE:ORCL)",
-      "snippet": "Oracle stock drops 41% as debt downgrades and cash flow concerns bite. Click for more on ORCL stock.",
-      "snippet_ko": "부채 신용등급 하향 조정과 현금 흐름에 대한 우려가 불거지면서 오라클 주가가 41% 급락했다. ORCL 주가에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": -0.1806,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4950046-one-notch-higher-than-junk-oracle-debt-warning-played-out",
-      "cross_verified": true,
-      "published_at": "2026-09-27T13:10:57.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Amazon crash attorneys say pilot pairing may have been key flaw behind fatal incident",
+      "title_ko": "아마존 추락 사고를 담당하는 변호사들은 조종사 배정이 치명적인 사고의 근본적인 원인이었을 수 있다고 지적한다",
+      "snippet": "Attorneys for Julio Pineda's family blame pilot error, poor crew pairing and alleged Amazon and 21 Air policy and scheduling failures for the Miami cargo crash.",
+      "snippet_ko": "훌리오 피네다 유가족 측 변호사들은 마이애미 화물기 추락 사고의 원인으로 조종사의 과실, 부적절한 승무원 배정, 그리고 아마존과 21 에어의 정책 및 운항 일정 관리상의 문제 등을 지적하고 있다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.5423,
+      "source": "foxbusiness.com",
+      "url": "https://www.foxbusiness.com/lifestyle/amazon-crash-attorneys-say-pilot-pairing-key-flaw-fatal-incident",
+      "cross_verified": true,
+      "published_at": "2026-10-06T22:47:27.000000Z"
+    },
+    {
+      "title": "The Overlooked Winner From Google’s Free AI Video Move: Micron",
+      "title_ko": "구글의 무료 AI 동영상 서비스 출시로 주목받지 못한 수혜 기업: 마이크론",
+      "snippet": "As of September 23, AI video creation in Vids no longer costs anything for Google and Workspace users. The upgrade draws on Gemini Omni 1.1 Flash, the newest addition to Google’s model lineup.",
+      "snippet_ko": "9월 23일부터 Vids의 AI 동영상 제작 기능은 Google 및 Workspace 사용자에게 무료로 제공됩니다. 이번 업그레이드는 Google 모델 라인업에 새롭게 추가된 ‘Gemini Omni 1.1 Flash’를 기반으로 합니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.5637,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/the-overlooked-winner-from-googles-free-ai-video-move-micron-1846800/",
+      "cross_verified": true,
+      "published_at": "2026-10-06T22:08:05.000000Z"
+    },
+    {
+      "title": "S&P 500 and Nasdaq Hit Record Highs Amid AI Surge and Robust Earnings Outlook",
+      "title_ko": "AI 열풍과 견조한 실적 전망 속에 S&P 500과 나스닥, 사상 최고치 경신",
+      "snippet": "The S&P 500 (SPY) climbed to its first record high since August on Tuesday, closing up 0.6% as investors bet that corporate profits can withstand high",
+      "snippet_ko": "S&P 500 지수(SPY)는 화요일 8월 이후 처음으로 사상 최고치를 경신하며 0.6% 상승한 채 장을 마감했는데, 이는 투자자들이 기업 실적이 높은",
+      "symbol": "AAPL",
+      "sentiment_score": 0.738,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/sp-500-and-nasdaq-hit-record-highs-amid-ai-surge-and-robust-earnings-outlook/72676/",
+      "cross_verified": true,
+      "published_at": "2026-10-06T21:38:19.000000Z"
+    },
+    {
+      "title": "Chevron Restructures Midstream Portfolio; Honda Delays CR-V Hybrid Production",
+      "title_ko": "셰브론, 미드스트림 포트폴리오 재편… 혼다, CR-V 하이브리드 생산 연기",
+      "snippet": "Chevron (CVX) announced a series of definitive agreements to significantly restructure its midstream operations in the Bakken and DJ Basins. Under the terms",
+      "snippet_ko": "셰브론(CVX)은 바켄 및 DJ 분지 내 중류 사업 부문을 대대적으로 재편하기 위한 일련의 최종 계약을 체결했다고 발표했다. 계약 조건에 따르면",
+      "symbol": "V",
+      "sentiment_score": -0.0238,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/chevron-restructures-midstream-portfolio-honda-delays-cr-v-hybrid-production/72677/",
+      "cross_verified": true,
+      "published_at": "2026-10-06T22:08:18.000000Z"
+    },
     {
       "title": "Marvell (MRVL) Sets Ambitious FY31 Targets Amid Significant Valuation Premium",
       "title_ko": "마벨(MRVL), 상당한 평가 프리미엄 속에서 31 회계연도 야심찬 목표치 제시",
@@ -2355,54 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9099261/institutional-investors-take-charge-as-retail-traders-retreat",
       "cross_verified": true,
       "published_at": "2026-09-28T02:30:37.000000Z"
-    },
-    {
-      "title": "Does Meta (META)’s Advertising Scale Make Brief Outages Financially Irrelevant?",
-      "title_ko": "메타(META)의 광고 사업 규모가 작게 발생하는 서비스 중단 사태를 재정적으로 무의미하게 만들까?",
-      "snippet": "Outages at Meta Platforms, Inc. (NASDAQ:META)'s platforms don't usually move the stock, but they do tend to raise the same question each time they recur.",
-      "snippet_ko": "메타 플랫폼스(Meta Platforms, Inc., 나스닥: META)의 플랫폼에서 발생하는 서비스 중단은 대개 주가에 큰 영향을 미치지 않지만, 매번 같은 의문을 불러일으키는 경향이 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2145,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/does-meta-metas-advertising-scale-make-brief-outages-financially-irrelevant-1844938/",
-      "cross_verified": true,
-      "published_at": "2026-09-28T01:58:12.000000Z"
-    },
-    {
-      "title": "Disney's Avengers: Endgame Encore Spurs Box Office Surge, DIS Stock Modestly Undervalued",
-      "title_ko": "디즈니의 ‘어벤져스: 엔드게임’ 재상영이 박스오피스 급증을 이끌며, DIS 주가는 소폭 저평가된 상태",
-      "snippet": "On September 27, 2026, the North American box office saw a notable uplift thanks to the re-release of Disney's Avengers: Endgame: Encore, which generated approx",
-      "snippet_ko": "2026년 9월 27일, 디즈니의 《어벤져스: 엔드게임: 앙코르》가 재개봉되면서 북미 박스오피스 매출이 눈에 띄게 증가했으며, 이 영화는 약",
-      "symbol": "DIS",
-      "sentiment_score": 0.6288,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9099227/disneys-avengers-endgame-encore-spurs-box-office-surge-dis-stock-modestly-undervalued",
-      "cross_verified": true,
-      "published_at": "2026-09-27T18:56:20.000000Z"
-    },
-    {
-      "title": "Apple (AAPL) Faces $5.7 Billion Patent Verdict Over Taptic Engine",
-      "title_ko": "애플(AAPL), ‘탭틱 엔진’ 관련 57억 달러 특허 배상 판결 받아",
-      "snippet": "On September 27, 2026, a U.S. jury ruled that Apple Inc.'s (NASDAQ: AAPL) Taptic Engine infringes on two patents held by Taction, imposing a $5.7 billion penalt",
-      "snippet_ko": "2026년 9월 27일, 미국 배심원단은 애플(NASDAQ: AAPL)의 ‘타픽 엔진(Taptic Engine)’이 Taction이 보유한 두 건의 특허를 침해했다고 판결하고, 57억 달러의 벌금을 부과했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3743,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9099221/apple-aapl-faces-57-billion-patent-verdict-over-taptic-engine",
-      "cross_verified": true,
-      "published_at": "2026-09-27T17:50:21.000000Z"
-    },
-    {
-      "title": "Institutional Investors Dominate US Market Amid Retail Traders' Retreat",
-      "title_ko": "개인 투자자들의 발길이 뜸해진 가운데 기관 투자자들이 미국 시장을 주도하고 있다",
-      "snippet": "On September 27, 2026, institutional investors are increasingly dominating the US stock market as retail traders adopt a more cautious stance. This shift is par",
-      "snippet_ko": "2026년 9월 27일, 개인 투자자들이 더욱 신중한 태도를 취하는 가운데 기관 투자자들이 미국 주식 시장을 점점 더 주도하고 있다. 이러한 변화는…",
-      "symbol": "META",
-      "sentiment_score": 0.4467,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9099186/institutional-investors-dominate-us-market-amid-retail-traders-retreat",
-      "cross_verified": true,
-      "published_at": "2026-09-27T16:10:29.000000Z"
     }
   ]
 }
