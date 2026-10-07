@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-07T05:25:53.840463+00:00",
+  "updated_at": "2026-10-07T13:03:55.637500+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Meet 10 finance leaders on Fortune’s Most Powerful Women Asia list",
+      "title_ko": "‘포춘’이 선정한 ‘아시아에서 가장 영향력 있는 여성’ 명단에 오른 10명의 금융계 리더를 만나보세요",
+      "snippet": "Finance chiefs at Huawei, ByteDance, and Sony are among the executives recognized in the 2026 ranking.",
+      "snippet_ko": "화웨이, 바이트댄스, 소니의 재무 책임자들이 2026년 순위에서 선정된 임원진에 이름을 올렸다.",
+      "symbol": "",
+      "sentiment_score": 0.3182,
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/10/07/meet-10-finance-leaders-fortunes-most-powerful-women-asia-list-cfo/",
+      "cross_verified": true,
+      "published_at": "2026-10-07T12:15:51.000000Z"
+    },
+    {
+      "title": "DLocal Stock: Margin Compression Is A Feature Of Scale, Not A Defect (NASDAQ:DLO)",
+      "title_ko": "DLocal Stock: 마진 압박은 결함이 아닌 규모의 특징이다 (NASDAQ:DLO)",
+      "snippet": "DLocal enables merchants to access local payment methods in 60+ markets via API, driving rapid TPV growth and high client retention. Read why DLO stock is a buy.",
+      "snippet_ko": "DLocal은 가맹점이 API를 통해 60개 이상의 시장에서 현지 결제 수단을 이용할 수 있도록 지원함으로써, 총 결제 금액(TPV)의 급속한 성장과 높은 고객 유지율을 이끌어내고 있습니다. DLO 주식을 매수해야 하는 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.2434,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4952467-dlocal-margin-compression-is-a-feature-of-scale-not-a-defect",
+      "cross_verified": true,
+      "published_at": "2026-10-07T11:32:29.000000Z"
+    },
     {
       "title": "Global Markets Retreat as Treasury Yields Surge; Coinbase Relaunches Pro Platform",
       "title_ko": "국채 수익률 급등에 글로벌 시장 하락… 코인베이스, 프로 플랫폼 재출시",
@@ -1177,33 +1201,45 @@
       "url": "https://seekingalpha.com/news/4647262-idt-corporation-q4-2026-earnings-preview",
       "cross_verified": true,
       "published_at": "2026-09-27T21:35:00.000000Z"
-    },
-    {
-      "title": "Jefferies Financial Group Q3 2026 Earnings Preview (NYSE:JEF)",
-      "title_ko": "제프리스 파이낸셜 그룹 2026년 3분기 실적 전망 (NYSE:JEF)",
-      "snippet": "Preview Jefferies (JEF) Q3 earnings Sept 28 after close: EPS $1.00, revenue $2.2B, beat history & estimate revisions.",
-      "snippet_ko": "제프리스(JEF) 3분기 실적 미리보기: 9월 28일 장 마감 후 발표 예정, 주당순이익(EPS) 1.00달러, 매출 22억 달러로, 과거 실적 및 예상치 상향을 상회할 전망.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4647263-jefferies-financial-group-q3-2026-earnings-preview",
-      "cross_verified": true,
-      "published_at": "2026-09-27T21:35:00.000000Z"
-    },
-    {
-      "title": "Agnico Eagle Mines Limited (NYSE:AEM) -- Resilient Mining Operations | ROCKLINC Partners Fund Q3 2026",
-      "title_ko": "Agnico Eagle Mines Limited (NYSE:AEM) -- 탄탄한 광산 운영 | ROCKLINC Partners Fund 2026년 3분기",
-      "snippet": "Agnico Eagle's diversified asset base provides stability and growth potential in gold production.Effective cost management strategies enhance profitability even",
-      "snippet_ko": "Agnico Eagle의 다각화된 자산 기반은 금 생산에 있어 안정성과 성장 잠재력을 제공합니다. 효과적인 비용 관리 전략은 수익성을 더욱 높여주며",
-      "symbol": "",
-      "sentiment_score": 0.3634,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9099213/agnico-eagle-mines-limited-nyseaem-resilient-mining-operations-rocklinc-partners-fund-q3-2026",
-      "cross_verified": true,
-      "published_at": "2026-09-27T17:00:21.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Wall Street Highs And AI Bubble Risks",
+      "title_ko": "월가의 최고치와 AI 버블 위험",
+      "snippet": "Stock market updates: S&P 500/Nasdaq hit new highs as concentration risk and AI bubble concerns grow.",
+      "snippet_ko": "주식 시장 최신 소식: 집중 위험과 AI 버블에 대한 우려가 커지는 가운데 S&P 500 지수와 나스닥 지수가 사상 최고치를 경신했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.0639,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4952424-wall-street-highs-and-ai-bubble-risks",
+      "cross_verified": true,
+      "published_at": "2026-10-07T11:30:24.000000Z"
+    },
+    {
+      "title": "Meta's Muse assistant tops app charts. Now it needs to become a habit",
+      "title_ko": "메타의 ‘뮤즈’ 어시스턴트가 앱 차트 1위를 차지했다. 이제 사용자들의 일상 속 필수 요소가 되어야 한다.",
+      "snippet": "Meta’s Muse is free for now as the company searches for a business surrounding its personal AI agent.",
+      "snippet_ko": "메타는 자사의 개인용 AI 에이전트를 중심으로 한 비즈니스 모델을 모색 중인 가운데, 현재 ‘뮤즈(Muse)’를 무료로 제공하고 있다.",
+      "symbol": "META",
+      "sentiment_score": 0.4019,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/07/meta-muse-personal-ai-agents-dazzle.html",
+      "cross_verified": true,
+      "published_at": "2026-10-07T11:00:01.000000Z"
+    },
+    {
+      "title": "Scott Galloway: Stop Being an Earner, Start Being an Owner",
+      "title_ko": "스콧 갤러웨이: ‘수입자’에서 벗어나 ‘소유자’가 되라",
+      "snippet": "Get a good corporate job, save some money, and start investing ASAP. If you’re going to buy a house, do it here. That’s Scott Galloway’s advice, or, as you",
+      "snippet_ko": "좋은 기업에 취직하고, 돈을 좀 모은 다음, 가능한 한 빨리 투자를 시작하세요. 집을 살 생각이라면 바로 여기서 사세요. 이것이 스콧 갤러웨이의 조언이며, 혹은 여러분이",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3732,
+      "source": "biggerpockets.com",
+      "url": "https://www.biggerpockets.com/blog/real-estate-1340",
+      "cross_verified": true,
+      "published_at": "2026-10-07T11:00:01.000000Z"
+    },
     {
       "title": "SpaceX in talks with investors to borrow $40 billion to buy Nvidia chips",
       "title_ko": "스페이스X, 엔비디아 칩 구매를 위해 400억 달러 차입을 놓고 투자자들과 협의 중",
@@ -2367,42 +2403,6 @@
       "url": "https://seekingalpha.com/article/4950369-meta-more-cautious-than-before-more-bullish-than-ever",
       "cross_verified": true,
       "published_at": "2026-09-28T19:44:47.000000Z"
-    },
-    {
-      "title": "Meta Platforms: Muse Could Become The Next Metaverse (NASDAQ:META)",
-      "title_ko": "메타 플랫폼스: ‘뮤즈’가 차세대 메타버스가 될 수 있다 (나스닥: META)",
-      "snippet": "Meta Platforms, Inc. gets a Sell rating as AI rally risks outweigh upside. Click for this updated look at META stock following its Muse app release.",
-      "snippet_ko": "메타 플랫폼스(Meta Platforms, Inc.)는 AI 관련 주가 상승세가 가져올 상승 여력을 상쇄할 만큼의 리스크가 더 크다는 이유로 ‘매도’ 등급을 받았다. ‘뮤즈(Muse)’ 앱 출시 이후 업데이트된 META 주식 분석 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "META",
-      "sentiment_score": 0.2202,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4950357-meta-platforms-muse-could-become-the-next-metaverse",
-      "cross_verified": true,
-      "published_at": "2026-09-28T19:14:36.000000Z"
-    },
-    {
-      "title": "Apple (AAPL) Faces UK Consumer Lawsuit Over Amazon Marketplace Pricing Practices",
-      "title_ko": "애플(AAPL), 아마존 마켓플레이스 가격 책정 관행과 관련해 영국 소비자들로부터 소송 당해",
-      "snippet": "On September 28, 2026, Apple Inc. (AAPL) and Amazon.com Inc. (AMZN) became the focus of renewed legal scrutiny in the UK as a consumer lawsuit alleging anti-com",
-      "snippet_ko": "2026년 9월 28일, 애플(Apple Inc., AAPL)과 아마존(Amazon.com Inc., AMZN)은 반경쟁 행위를 주장하는 소비자 소송으로 인해 영국에서 다시 한 번 법적 조사의 초점이 되었습니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.0878,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9099612/apple-aapl-faces-uk-consumer-lawsuit-over-amazon-marketplace-pricing-practices",
-      "cross_verified": true,
-      "published_at": "2026-09-28T12:58:46.000000Z"
-    },
-    {
-      "title": "Ark Invest Boosts Meta Platforms (META) Stake Amid Strong GF Value™ and Mixed Guru Activity",
-      "title_ko": "아크 인베스트, GF Value™ 지표 호조와 전문가들의 엇갈린 움직임 속 메타 플랫폼스(META) 지분 확대",
-      "snippet": "On September 28, 2026, Cathie Wood's Ark Invest expanded its holdings in technology and space sectors by acquiring over 51,000 shares of Meta Platforms Inc (NAS",
-      "snippet_ko": "2026년 9월 28일, 캐시 우드가 이끄는 아크 인베스트(Ark Invest)는 메타 플랫폼스(Meta Platforms Inc, NAS) 주식 51,000주 이상을 매수함으로써 기술 및 우주 부문에 대한 보유 지분을 확대했다.",
-      "symbol": "META",
-      "sentiment_score": 0.4063,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9099607/ark-invest-boosts-meta-platforms-meta-stake-amid-strong-gf-value-and-mixed-guru-activity",
-      "cross_verified": true,
-      "published_at": "2026-09-28T12:56:52.000000Z"
     }
   ]
 }
