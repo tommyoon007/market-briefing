@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-06T23:41:51.877943+00:00",
+  "updated_at": "2026-10-07T05:25:53.840463+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Global Markets Retreat as Treasury Yields Surge; Coinbase Relaunches Pro Platform",
+      "title_ko": "국채 수익률 급등에 글로벌 시장 하락… 코인베이스, 프로 플랫폼 재출시",
+      "snippet": "Singapore’s benchmark Straits Times Index (STI) dropped sharply on Wednesday, falling 1.6% to close at 5,613.28. This decline represents the index's",
+      "snippet_ko": "수요일 싱가포르의 대표 지수인 스트레이츠 타임스 지수(STI)가 1.6% 급락하며 5,613.28로 장을 마감했다. 이번 하락은 지수의",
+      "symbol": "",
+      "sentiment_score": 0.1909,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/global-markets-retreat-as-treasury-yields-surge-coinbase-relaunches-pro-platform/72687/",
+      "cross_verified": true,
+      "published_at": "2026-10-07T04:08:15.000000Z"
+    },
+    {
+      "title": "Maersk’s owner seeks investments in Asian startups with new office",
+      "title_ko": "마에르스크의 모기업, 신규 사무소 개설을 통해 아시아 스타트업에 대한 투자 유치 나서",
+      "snippet": "The firm, funded entirely by the billionaire Maersk family with no external investors, will open the office — its first outside of Denmark — this week. It has more than $50 billion of net assets.",
+      "snippet_ko": "외부 투자자 없이 전적으로 억만장자 마에르스크 가문의 자금으로 설립된 이 회사는 이번 주 덴마크 이외 지역에서는 처음으로 사무소를 열 예정이다. 이 회사의 순자산은 500억 달러가 넘는다.",
+      "symbol": "",
+      "sentiment_score": 0.7829,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/companies/maersks-owner-seeks-investments-in-asian-startups-with-new-office/article71554190.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-07T03:55:31.000000Z"
+    },
+    {
+      "title": "SpaceX in talks to borrow $40 billion to buy Nvidia chips",
+      "title_ko": "스페이스X, 엔비디아 칩 구매를 위해 400억 달러 차입 협의 중",
+      "snippet": "Tech companies and AI model developers are investing and borrowing hundreds of billions of dollars to build and lease giant data centers full of chips to power AI systems.",
+      "snippet_ko": "기술 기업들과 AI 모델 개발사들은 AI 시스템을 구동할 칩으로 가득 찬 초대형 데이터 센터를 건설하고 임대하기 위해 수천억 달러를 투자하고 차입하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.3203,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/info-tech/spacex-in-talks-to-borrow-40-billion-to-buy-nvidia-chips/article71554179.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-07T03:47:29.000000Z"
+    },
     {
       "title": "9.4% Dividend Yield From Dynex Capital’s New Steady Preferred Share (NYSE:DX.PR.D)",
       "title_ko": "Dynex Capital의 새로운 ‘Steady’ 우선주(NYSE:DX.PR.D)가 제공하는 9.4% 배당 수익률",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9099213/agnico-eagle-mines-limited-nyseaem-resilient-mining-operations-rocklinc-partners-fund-q3-2026",
       "cross_verified": true,
       "published_at": "2026-09-27T17:00:21.000000Z"
-    },
-    {
-      "title": "Wheaton Precious Metals Corp (NYSE:WPM) -- Strategic Gold Exposure | ROCKLINC Partners Fund Q3 2026",
-      "title_ko": "Wheaton Precious Metals Corp (NYSE:WPM) -- 전략적 금 투자 | ROCKLINC Partners 펀드 2026년 3분기",
-      "snippet": "Wheaton's streaming agreements provide a low-cost way to gain exposure to precious metals.Strong financial position allows for continued investment in new strea",
-      "snippet_ko": "위튼의 스트리밍 계약은 귀금속에 투자할 수 있는 저비용의 방법을 제공합니다. 견실한 재무 상태를 바탕으로 새로운 스트리밍 사업에 대한 지속적인 투자가 가능합니다.",
-      "symbol": "",
-      "sentiment_score": 0.3548,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9099212/wheaton-precious-metals-corp-nysewpm-strategic-gold-exposure-rocklinc-partners-fund-q3-2026",
-      "cross_verified": true,
-      "published_at": "2026-09-27T17:00:21.000000Z"
-    },
-    {
-      "title": "Franco-Nevada Corporation (NYSE:FNV) -- Gold Investment Strategy | ROCKLINC Partners Fund Q3 2026",
-      "title_ko": "프랑코-네바다 코퍼레이션 (NYSE:FNV) -- 금 투자 전략 | ROCKLINC 파트너스 펀드 2026년 3분기",
-      "snippet": "Franco-Nevada's royalty model provides exposure to gold prices without operational risks.Strong cash flow generation supports dividend growth and reinvestment i",
-      "snippet_ko": "프랑코-네바다의 로열티 모델은 운영 위험 없이 금 가격 변동으로부터 수익을 얻을 수 있게 해줍니다. 탄탄한 현금 흐름 창출은 배당금 증가와 재투자를 뒷받침하며",
-      "symbol": "",
-      "sentiment_score": -0.1591,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9099211/franconevada-corporation-nysefnv-gold-investment-strategy-rocklinc-partners-fund-q3-2026",
-      "cross_verified": true,
-      "published_at": "2026-09-27T17:00:20.000000Z"
-    },
-    {
-      "title": "Nike: The Catalyst We’ve Been Waiting For (NYSE:NKE)",
-      "title_ko": "나이키: 우리가 기다려온 촉매제 (NYSE:NKE)",
-      "snippet": "Nike's Investor Day will provide the fundamental catalyst for Elliott Hill to outline the company's multi-year growth strategy. See why I rate NKE stock a Buy.",
-      "snippet_ko": "나이키의 ‘투자자의 날’ 행사는 엘리엇 힐이 회사의 다년간 성장 전략을 제시하는 데 있어 핵심적인 계기가 될 것입니다. 제가 NKE 주식을 ‘매수’로 평가하는 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4950047-nike-the-catalyst-weve-been-waiting-for",
-      "cross_verified": true,
-      "published_at": "2026-09-27T13:14:19.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "SpaceX in talks with investors to borrow $40 billion to buy Nvidia chips",
+      "title_ko": "스페이스X, 엔비디아 칩 구매를 위해 400억 달러 차입을 놓고 투자자들과 협의 중",
+      "snippet": "SpaceX is in early talks with banks and investors to raise $40 billion to fund purchases of Nvidia chips, potentially marking one of the largest AI-related debt financings",
+      "snippet_ko": "스페이스X는 엔비디아 칩 구매 자금을 마련하기 위해 400억 달러를 조달하기 위해 은행 및 투자자들과 초기 협상을 진행 중이며, 이는 AI 관련 채권 금융 사상 최대 규모 중 하나가 될 가능성이 있다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.4972,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/spacex-in-talks-with-investors-to-borrow-40-billion-to-buy-nvidia-chips-126100700148_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-07T03:45:42.000000Z"
+    },
+    {
+      "title": "Boston Dynamics appoints Rohit Prasad as CEO to lead robotics expansion",
+      "title_ko": "보스턴 다이내믹스, 로봇 사업 확장을 이끌 CEO로 로히트 프라사드 선임",
+      "snippet": "Boston Dynamics names former Amazon executive Rohit Prasad as CEO as Hyundai-backed company advances Atlas humanoid robots and commercial robotics.",
+      "snippet_ko": "보스턴 다이내믹스가 전 아마존 임원인 로히트 프라사드를 CEO로 선임했다. 현대자동차 그룹의 지원을 받는 이 회사는 ‘아틀라스’ 휴머노이드 로봇과 상업용 로봇 기술을 발전시키고 있다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.4666,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/info-tech/boston-dynamics-appoints-former-amazon-executive-rohit-prasad-as-ceo/article71554195.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-07T03:43:37.000000Z"
+    },
+    {
+      "title": "Apple partners with LG on doorbells, lock, thermostat in smart home push",
+      "title_ko": "애플, 스마트 홈 시장 공략 위해 LG와 도어벨·잠금장치·온도조절기 분야에서 협력",
+      "snippet": "The products will be part of an ecosystem of devices that work with Apple's new smart home hub, as well as an upgraded HomePod mini and fresh TV set-top box",
+      "snippet_ko": "이 제품들은 애플의 새로운 스마트 홈 허브는 물론, 업그레이드된 ‘홈팟 미니’ 및 신형 TV 셋톱박스와 연동되는 기기 생태계의 일부가 될 예정입니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.6371,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/technology/tech-news/apple-partners-with-lg-on-doorbells-lock-thermostat-in-smart-home-push-126100700141_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-07T03:41:24.000000Z"
+    },
     {
       "title": "Amazon crash attorneys say pilot pairing may have been key flaw behind fatal incident",
       "title_ko": "아마존 추락 사고를 담당하는 변호사들은 조종사 배정이 치명적인 사고의 근본적인 원인이었을 수 있다고 지적한다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9099607/ark-invest-boosts-meta-platforms-meta-stake-amid-strong-gf-value-and-mixed-guru-activity",
       "cross_verified": true,
       "published_at": "2026-09-28T12:56:52.000000Z"
-    },
-    {
-      "title": "Apple: I Was Wrong, Margin Math Is Now In Its Favor (Rating Upgrade) (NASDAQ:AAPL)",
-      "title_ko": "애플: “제가 틀렸습니다”, 이제 마진 구조가 회사에 유리하게 작용하고 있다 (투자의견 상향) (나스닥:AAPL)",
-      "snippet": "Apple Inc. upgraded to Buy: pricing power offsets memory costs, Services monetize AI via iCloud+, Klarna leasing boosts upgrades. Click for this AAPL stock update.",
-      "snippet_ko": "애플(Apple Inc.)이 ‘매수(Buy)’로 상향 조정되었습니다: 가격 결정력이 메모리 비용 상승을 상쇄하고, 서비스 부문은 iCloud+를 통해 AI로 수익을 창출하며, 클라르나(Klarna)의 할부 구매 서비스가 기기 교체 수요를 촉진하고 있습니다. AAPL 주식 관련 최신 소식을 보려면 여기를 클릭하세요.",
-      "symbol": "AAPL",
-      "sentiment_score": -0.0513,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4950235-apple-i-was-wrong-margin-math-is-now-in-its-favor-rating-upgrade",
-      "cross_verified": true,
-      "published_at": "2026-09-28T12:56:13.000000Z"
-    },
-    {
-      "title": "Indian executives strengthening presence in US corporate boardrooms",
-      "title_ko": "인도 기업 임원들, 미국 기업 이사회 내 입지 강화 중",
-      "snippet": "A record 16 Indian men joined S&P 500 boards this year, taking directorships at companies including Walmart Inc., Southwest Airlines Co. and Western Digital Corp., according to data",
-      "snippet_ko": "자료에 따르면, 올해 역대 최다인 16명의 인도인 남성이 S&P 500 지수 구성 기업의 이사회에 합류해 월마트(Walmart Inc.), 사우스웨스트 항공(Southwest Airlines Co.), 웨스턴 디지털(Western Digital Corp.) 등의 기업에서 이사직을 맡았다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2316,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/indian-executives-strengthening-presence-in-us-corporate-boardrooms-126092800090_1.html",
-      "cross_verified": true,
-      "published_at": "2026-09-28T03:05:48.000000Z"
-    },
-    {
-      "title": "Institutional Investors Take Charge as Retail Traders Retreat",
-      "title_ko": "개인 투자자들이 물러나는 가운데 기관 투자자들이 주도권을 잡다",
-      "snippet": "On September 27, 2026, recent data reveals that institutional investors are gaining dominance in the U.S. stock market, as retail traders gradually step back. T",
-      "snippet_ko": "2026년 9월 27일, 최근 데이터에 따르면 개인 투자자들이 점차 물러나면서 기관 투자자들이 미국 주식 시장에서 주도권을 장악하고 있는 것으로 나타났다. T",
-      "symbol": "META",
-      "sentiment_score": 0.424,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9099261/institutional-investors-take-charge-as-retail-traders-retreat",
-      "cross_verified": true,
-      "published_at": "2026-09-28T02:30:37.000000Z"
     }
   ]
 }
