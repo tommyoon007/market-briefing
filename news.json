@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-07T13:03:55.637500+00:00",
+  "updated_at": "2026-10-07T19:50:33.083074+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Hertz Lenders Team Up With Advisers as Possible Debt Fight Looms",
+      "title_ko": "헤르츠 채권자들이 잠재적인 채무 분쟁이 임박함에 따라 자문사들과 손을 잡았다",
+      "snippet": "Creditors to Hertz Global Holdings Inc. are organizing across at least two groups, bracing for potential negotiations with the car rental company over its billions of dollars of debt that comes due over the next few years, according to people familiar with the matter.",
+      "snippet_ko": "이 사안에 정통한 소식통에 따르면, 허츠 글로벌 홀딩스(Hertz Global Holdings Inc.)의 채권자들은 최소 두 개의 그룹으로 나뉘어 조직을 구성하고 있으며, 향후 몇 년 내에 만기가 도래하는 수십억 달러 규모의 부채와 관련해 이 렌터카 회사와의 잠재적인 협상에 대비하고 있다.",
+      "symbol": "",
+      "sentiment_score": -0.34,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/hertz-lenders-team-up-with-advisers-as-possible-debt-fight-looms-11791399696387.html",
+      "cross_verified": true,
+      "published_at": "2026-10-07T19:01:35.000000Z"
+    },
+    {
+      "title": "Hycroft Mining: More Paths To Production, But Risk Remains High (NASDAQ:HYMC)",
+      "title_ko": "하이크로프트 마이닝: 생산으로 가는 길은 다양해졌지만, 위험은 여전히 높다 (NASDAQ:HYMC)",
+      "snippet": "Hycroft Mining remains highly speculative, but recent high-grade Vortex and Brimstone drill results strengthen the underground optionality thesis. Learn more about HYMC stock here.",
+      "snippet_ko": "하이크로프트 마이닝(Hycroft Mining)은 여전히 투기성이 매우 높은 종목이지만, 최근 보텍스(Vortex)와 브림스톤(Brimstone)에서 나온 고품위 시추 결과는 지하 개발 가능성에 대한 전망을 뒷받침하고 있습니다. HYMC 주식에 대해 더 자세히 알아보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.6091,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4952586-hycroft-mining-more-paths-to-production-but-risk-remains-high",
+      "cross_verified": true,
+      "published_at": "2026-10-07T18:45:35.000000Z"
+    },
+    {
+      "title": "Hess Midstream LP (HESM) Discusses Definitive Agreement for DJ Basin Asset Acquisition and Business Strategy Transcript",
+      "title_ko": "Hess Midstream LP(HESM), DJ 분지 자산 인수에 관한 최종 계약 및 사업 전략에 관한 발언록",
+      "snippet": "Hess Midstream LP (HESM) Discusses Definitive Agreement for DJ Basin Asset Acquisition and Business Strategy October 7, 2026 11:00 AM EDTCompany...",
+      "snippet_ko": "Hess Midstream LP(HESM), DJ 분지 자산 인수에 관한 최종 계약 및 사업 전략 논의 2026년 10월 7일 오전 11:00 (EDT) 회사...",
+      "symbol": "",
+      "sentiment_score": 0.6908,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4952564-hess-midstream-lp-hesm-discusses-definitive-agreement-for-dj-basin-asset-acquisition-and",
+      "cross_verified": true,
+      "published_at": "2026-10-07T18:42:27.000000Z"
+    },
     {
       "title": "Meet 10 finance leaders on Fortune’s Most Powerful Women Asia list",
       "title_ko": "‘포춘’이 선정한 ‘아시아에서 가장 영향력 있는 여성’ 명단에 오른 10명의 금융계 리더를 만나보세요",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9099266/northern-star-resources-nesrf-rejects-a387-billion-takeover-bid-from-gold-fields",
       "cross_verified": true,
       "published_at": "2026-09-28T03:55:21.000000Z"
-    },
-    {
-      "title": "Northern Star jumps +7% on confirmed takeover rumour from Gold Fields Ltd",
-      "title_ko": "골드 필즈(Gold Fields Ltd)의 인수설이 사실로 확인되면서 노던 스타(Northern Star) 주가가 7% 급등했다",
-      "snippet": "ASX-listed Northern Star Resources (ASX:NST) has confirmed reports in Bloomberg that it’s…",
-      "snippet_ko": "ASX에 상장된 노던 스타 리소시스(ASX:NST)는 블룸버그의 보도 내용을 확인하며, 자사가…",
-      "symbol": "",
-      "sentiment_score": -0.0985,
-      "source": "themarketherald.com.au",
-      "url": "https://themarketonline.com.au/northern-star-jumps-7-on-confirmed-takeover-rumour-from-gold-fields-ltd-2026-09-28/",
-      "cross_verified": true,
-      "published_at": "2026-09-28T03:49:41.000000Z"
-    },
-    {
-      "title": "Vail Resorts Q4 2026 Earnings Preview (NYSE:MTN)",
-      "title_ko": "베일 리조트 2026년 4분기 실적 전망 (NYSE:MTN)",
-      "snippet": "Preview Vail Resorts (MTN) Q4 earnings on Sept. 28: EPS -$5.37, revenue $269.3M, estimate revisions and beat rates.",
-      "snippet_ko": "9월 28일 발표 예정인 베일 리조츠(MTN) 4분기 실적 미리보기: 주당순이익(EPS) -5.37달러, 매출 2억 6,930만 달러, 실적 전망치 수정 및 예상치 상회율.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4647264-vail-resorts-q4-2026-earnings-preview",
-      "cross_verified": true,
-      "published_at": "2026-09-27T21:35:00.000000Z"
-    },
-    {
-      "title": "IDT Corporation Q4 2026 Earnings Preview (NYSE:IDT)",
-      "title_ko": "IDT Corporation 2026년 4분기 실적 전망 (NYSE:IDT)",
-      "snippet": "IDT (IDT) reports Q4 earnings Sept 28 after the close.",
-      "snippet_ko": "IDT(IDT)는 9월 28일 장 마감 후 4분기 실적을 발표할 예정이다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4647262-idt-corporation-q4-2026-earnings-preview",
-      "cross_verified": true,
-      "published_at": "2026-09-27T21:35:00.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "AI cloud firm CoreWeave to launch first India data centres with AdaniConneX in Navi Mumbai",
+      "title_ko": "AI 클라우드 기업 코어위브(CoreWeave), 아다니커넥스(AdaniConneX)와 함께 나비 뭄바이에 인도 첫 데이터센터 개장 예정",
+      "snippet": "CoreWeave will use 240 megawatts of capacity at the Taloja campus of AdaniConneX Pvt. in Navi Mumbai, according to a statement released by the company on Wednesday.",
+      "snippet_ko": "코어위브(CoreWeave)는 수요일 발표한 성명에 따르면, 나비 뭄바이 소재 아다니콘넥스(AdaniConneX Pvt.)의 탈로자(Taloja) 캠퍼스에서 240메가와트의 용량을 사용할 예정이다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.0,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/news/ai-cloud-firm-coreweave-to-launch-first-india-data-centres-with-adaniconnex-in-navi-mumbai-11791395574606.html",
+      "cross_verified": true,
+      "published_at": "2026-10-07T18:11:04.000000Z"
+    },
+    {
+      "title": "Will US stock market face a major shift? Michael Burry warns of 270 days and Ray Dalio says AI bubble is near bursting - what investors need to know",
+      "title_ko": "미국 주식시장이 큰 변화를 맞이할까? 마이클 버리가 ‘270일’을 경고하고, 레이 달리오가 AI 버블이 곧 터질 것이라고 말하는데, 투자자들이 알아야 할 점은 무엇일까",
+      "snippet": "Michael Burry warns of a potential major market shift in 270 days, while Ray Dalio raises alarms about the nearing collapse of the AI bubble. Investors need to be aware of these critical risks amidst record stock market highs.",
+      "snippet_ko": "마이클 버리는 270일 후 시장에 큰 변화가 일어날 가능성을 경고한 반면, 레이 달리오는 AI 버블이 곧 붕괴될 것이라고 경고하고 있다. 투자자들은 주식 시장이 사상 최고치를 기록하고 있는 가운데 이러한 중대한 위험 요소를 유념해야 한다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.478,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/international/us/will-us-stock-market-face-a-major-shift-michael-burry-warns-of-270-days-and-ray-dalio-says-ai-bubble-is-near-bursting-what-investors-need-to-know/articleshow/134769762.cms",
+      "cross_verified": true,
+      "published_at": "2026-10-07T16:05:55.000000Z"
+    },
+    {
+      "title": "Alphabet: Betting Big On The Frontier AI Labs (NASDAQ:GOOGL)",
+      "title_ko": "알파벳: 신흥 AI 연구소에 대규모 투자 (나스닥:GOOGL)",
+      "snippet": "Alphabet (GOOGL) pulled back 15% on AI capex fears. See 2Q26 Cloud surge, FCF dip, valuation risks and when to consider buying the dip—read now.",
+      "snippet_ko": "알파벳(GOOGL)이 AI 설비투자 우려로 15% 하락했습니다. 2026년 2분기 클라우드 매출 급증, 자유현금흐름(FCF) 감소, 기업 가치 평가 위험 및 하락세에서 매수를 고려해야 할 시점에 대해 알아보세요—지금 읽어보세요.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2503,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4952537-alphabet-betting-big-on-the-frontier-ai-labs",
+      "cross_verified": true,
+      "published_at": "2026-10-07T15:38:56.000000Z"
+    },
     {
       "title": "Wall Street Highs And AI Bubble Risks",
       "title_ko": "월가의 최고치와 AI 버블 위험",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9100613/a-look-at-draftkings-inc-dkng-after-39-decline-gf-value-5211-vs-price-2116",
       "cross_verified": true,
       "published_at": "2026-09-28T23:21:00.000000Z"
-    },
-    {
-      "title": "Merck & Co (MRK) Has Billions in Revenue to Defend. Can its Pipeline Do the Job?",
-      "title_ko": "머크 앤 컴퍼니(MRK)는 수십억 규모의 매출을 지켜내야 한다. 이 회사의 신약 파이프라인이 그 임무를 해낼 수 있을까?",
-      "snippet": "On September 24, Merck & Co., Inc.",
-      "snippet_ko": "9월 24일, 머크 앤 컴퍼니(Merck & Co., Inc.)는",
-      "symbol": "MRK",
-      "sentiment_score": 0.2095,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/merck-co-mrk-has-billions-in-revenue-to-defend-can-its-pipeline-do-the-job-1845469/",
-      "cross_verified": true,
-      "published_at": "2026-09-28T23:12:49.000000Z"
-    },
-    {
-      "title": "Zuckerberg, Amodei among tech executives set to meet Trump Tuesday",
-      "title_ko": "화요일 트럼프 대통령과 만날 예정인 기술 업계 최고경영자 중에는 주커버그와 아모데이 등이 포함되어 있다",
-      "snippet": "The AI safety debate has raged in recent weeks, with Amodei, Musk and OpenAI CEO Sam Altman calling to pace the development of frontier models.",
-      "snippet_ko": "최근 몇 주 동안 AI 안전성에 대한 논쟁이 거세게 일고 있는 가운데, 아모데이, 머스크, 그리고 오픈AI의 샘 알트만 CEO는 최첨단 모델의 개발 속도를 조절해야 한다고 촉구했다.",
-      "symbol": "META",
-      "sentiment_score": 0.0,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/28/trump-ai-tech-lunch.html",
-      "cross_verified": true,
-      "published_at": "2026-09-28T20:00:45.000000Z"
-    },
-    {
-      "title": "Meta: More Cautious Than Before, More Bullish Than Ever (NASDAQ:META)",
-      "title_ko": "메타: 예전보다 신중해졌지만, 그 어느 때보다 낙관적 (나스닥:META)",
-      "snippet": "Meta Platforms is a Buy because AI agents unlock massive revenue opportunities, and enterprise solutions target a $155B market. Read more on META stock here.",
-      "snippet_ko": "메타 플랫폼스는 AI 에이전트가 막대한 수익 기회를 열어주고, 기업용 솔루션이 1,550억 달러 규모의 시장을 겨냥하고 있기 때문에 ‘매수’ 추천입니다. META 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "META",
-      "sentiment_score": -0.1689,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4950369-meta-more-cautious-than-before-more-bullish-than-ever",
-      "cross_verified": true,
-      "published_at": "2026-09-28T19:44:47.000000Z"
     }
   ]
 }
