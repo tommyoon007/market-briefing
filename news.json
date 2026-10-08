@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-08T08:42:25.495722+00:00",
+  "updated_at": "2026-10-08T17:18:49.833496+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Tesco PLC (TSCDY) Q2 2027 Sales/ Trading Statement Call - Slideshow (OTCMKTS:TSCDY) 2026-10-08",
+      "title_ko": "Tesco PLC (TSCDY) 2027년 2분기 매출/영업 실적 발표 컨퍼런스 콜 - 슬라이드쇼 (OTCMKTS:TSCDY) 2026-10-08",
+      "snippet": "2026-10-08. The following slide deck was published by Tesco PLC in conjunction with this event.",
+      "snippet_ko": "2026년 10월 8일. 다음 슬라이드 자료는 이번 행사와 관련하여 테스코 PLC에서 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4952864-tesco-plc-tscdy-q2-2027-sales-trading-statement-call-slideshow",
+      "cross_verified": true,
+      "published_at": "2026-10-08T16:33:15.000000Z"
+    },
+    {
+      "title": "Bank of Baroda becomes only PSU bank after SBI to enter pension fund business: What it means",
+      "title_ko": "바로다 은행, SBI에 이어 연금 펀드 사업에 진출한 유일한 공기업 은행이 되다: 그 의미는 무엇인가",
+      "snippet": "Bank of Baroda has entered the pension fund business, becoming the second PSU bank after SBI to do so. The move comes as PFRDA seeks to expand NPS, targeting up to 4 crore new subscribers over the next 2-3 years.",
+      "snippet_ko": "바로다 은행이 연금 펀드 사업에 진출하며, SBI에 이어 두 번째로 이 분야에 진출한 공적 부문 은행이 되었다. 이번 조치는 PFRDA가 향후 2~3년 동안 최대 4크로레 명의 신규 가입자를 확보하는 것을 목표로 NPS를 확대하려는 움직임에 따른 것이다.",
+      "symbol": "",
+      "sentiment_score": 0.3818,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/industry/banking/bank-of-baroda-becomes-only-psu-bank-after-sbi-to-enter-pension-fund-business-what-it-means-11791476354935.html",
+      "cross_verified": true,
+      "published_at": "2026-10-08T16:30:46.000000Z"
+    },
+    {
+      "title": "US suspends work visa program for Indian IT firms, Microsoft citing widespread abuse",
+      "title_ko": "미국, 인도 IT 기업 대상 취업 비자 프로그램 중단… 마이크로소프트, 남용이 만연하다는 이유로",
+      "snippet": "Indian IT firms, including TCS, Infosys, Wipro and HCLTech, are among the tech firms suspended from the Permanent Labor Certification Program.",
+      "snippet_ko": "TCS, 인포시스, 위프로, HCL테크를 비롯한 인도 IT 기업들은 ‘영구 노동 인증 프로그램(Permanent Labor Certification Program)’에서 자격이 정지된 기술 기업들에 포함된다.",
+      "symbol": "",
+      "sentiment_score": 0.3039,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/news/us-work-visa-indian-it-firms-tcs-infosys-wipro-11791475886441.html",
+      "cross_verified": true,
+      "published_at": "2026-10-08T16:27:58.000000Z"
+    },
     {
       "title": "Coinbase Services Hit 48% of Revenue: Exchanges Sell Data",
       "title_ko": "코인베이스 서비스 매출 비중 48% 달성: 거래소들의 데이터 판매",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4950547-clean-harbors-a-much-cleaner-picture-here",
       "cross_verified": true,
       "published_at": "2026-09-29T07:24:40.000000Z"
-    },
-    {
-      "title": "SCHD Has A Hidden Buy-The-Dip Strategy Most Investors Don't Know Exists (NYSEARCA:SCHD)",
-      "title_ko": "SCHD에는 대다수의 투자자들이 그 존재조차 모르는 ‘저점 매수’ 전략이 숨겨져 있다 (NYSEARCA:SCHD)",
-      "snippet": "SCHD doesn't intentionally look to buy low and sell high, but its dividend yield screen could bring that into play. Read why SCHD ETF remains a Buy.",
-      "snippet_ko": "SCHD는 의도적으로 저가에 매수하고 고가에 매도하려는 것은 아니지만, 배당수익률 필터링을 통해 그러한 효과가 나타날 수 있습니다. SCHD ETF가 여전히 ‘매수’ 추천을 받는 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4950544-schd-has-a-hidden-buy-the-dip-strategy-most-investors-dont-know-exists",
-      "cross_verified": true,
-      "published_at": "2026-09-29T07:19:55.000000Z"
-    },
-    {
-      "title": "Is Supernus Pharmaceuticals Inc (SUPN) Overvalued After 4.5% Rally? GF Value Says Overvalued",
-      "title_ko": "4.5% 상승세를 보인 슈퍼누스 파마슈티컬스(SUPN)의 주가는 과대평가된 것일까? GF 밸류는 과대평가되었다고 분석한다",
-      "snippet": "On September 28, 2026, Supernus Pharmaceuticals Inc (SUPN) shares rose 4.5% to a current price of $44.60, moving within a 52-week range of $40.51 to $59.68. The",
-      "snippet_ko": "2026년 9월 28일, 슈퍼너스 파마슈티컬스(SUPN)의 주가는 4.5% 상승하여 현재 44.60달러를 기록했으며, 52주 동안의 등락폭인 40.51달러에서 59.68달러 사이에서 움직였다. 이",
-      "symbol": "",
-      "sentiment_score": 0.4146,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9100788/is-supernus-pharmaceuticals-inc-supn-overvalued-after-45-rally-gf-value-says-overvalued",
-      "cross_verified": true,
-      "published_at": "2026-09-29T01:13:27.000000Z"
-    },
-    {
-      "title": "Redwire Corp (RDW) Stock Down 3.6% but Still Overvalued -- GF Score: 71/100",
-      "title_ko": "레드와이어(RDW) 주가 3.6% 하락했으나 여전히 고평가 상태 -- GF 점수: 71/100",
-      "snippet": "Valuation Assessment of Redwire Corp (RDW)On September 28, 2026, Redwire Corp (RDW) shares fell 3.6%, bringing the current price to $11.20. The stock has experi",
-      "snippet_ko": "레드와이어 코퍼레이션(RDW)의 기업가치 평가 2026년 9월 28일, 레드와이어 코퍼레이션(RDW) 주가는 3.6% 하락하여 현재 주가는 11.20달러를 기록했습니다. 이 주식은",
-      "symbol": "",
-      "sentiment_score": 0.3109,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9100783/redwire-corp-rdw-stock-down-36-but-still-overvalued-gf-score-71100",
-      "cross_verified": true,
-      "published_at": "2026-09-29T01:10:33.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Broadcom Redefines AI Infrastructure with Industry-Leading Networking Innovations at 2026 OCP Global Summit",
+      "title_ko": "브로드컴, 2026 OCP 글로벌 서밋에서 업계 선도적인 네트워킹 혁신을 통해 AI 인프라의 새로운 기준을 제시하다",
+      "snippet": "Company to Highlight OCP Rack-Based Innovations Enabling Scale-Up, Scale-Out, and Scale-Across Networks Across AI Clusters",
+      "snippet_ko": "이 회사는 AI 클러스터 전반에 걸쳐 네트워크의 스케일업, 스케일아웃, 스케일어크로스 기능을 가능하게 하는 OCP 랙 기반 혁신 기술을 선보일 예정이다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.0528,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/09/tmt-newswire/globenewswire/broadcom-redefines-ai-infrastructure-with-industry-leading-networking-innovations-at-2026-ocp-global-summit/2442083",
+      "cross_verified": true,
+      "published_at": "2026-10-08T16:15:19.000000Z"
+    },
+    {
+      "title": "Energy Surges and Tech Falters: Midday Market Update for October 8, 2026",
+      "title_ko": "에너지주 급등, 기술주 부진: 2026년 10월 8일 정오 시장 동향",
+      "snippet": "The U.S. stock market is exhibiting a clear defensive posture during midday trading on Thursday, October 8, 2026. While the broader market faces downward",
+      "snippet_ko": "2026년 10월 8일 목요일 정오 거래 시간대에 미국 주식 시장은 뚜렷한 방어적 태세를 보이고 있다. 전반적인 시장이 하락세를 보이는 가운데",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3344,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/energy-surges-and-tech-falters-midday-market-update-for-october-8-2026/72754/",
+      "cross_verified": true,
+      "published_at": "2026-10-08T16:07:15.000000Z"
+    },
+    {
+      "title": "Intel Stock: Cheapest CPU Name In Sight (NASDAQ:INTC)",
+      "title_ko": "인텔 주가: 역대 최저가 CPU 출시 임박 (나스닥: INTC)",
+      "snippet": "Intel Corporation remains a buy despite recent volatility tied to Terafab headlines and Musk's TSMC discussions. Read more on INTC stock here.",
+      "snippet_ko": "테라팹 관련 뉴스와 머스크의 TSMC 논의로 인한 최근의 변동성에도 불구하고, 인텔(Intel Corporation)은 여전히 매수 추천 종목으로 남아 있습니다. INTC 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "INTC",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4952812-intel-cheapest-cpu-name-in-sight",
+      "cross_verified": true,
+      "published_at": "2026-10-08T15:20:57.000000Z"
+    },
     {
       "title": "McDonald's: Same-Store Sales Are An Overrated Metric (NYSE:MCD)",
       "title_ko": "맥도날드: 동일 매장 매출은 과대평가된 지표다 (NYSE:MCD)",
@@ -2367,42 +2403,6 @@
       "url": "https://www.manilatimes.net/2026/09/30/tmt-newswire/globenewswire/inseego-names-nick-lambourne-chief-technology-officer-to-lead-global-engineering-organization/2435596",
       "cross_verified": true,
       "published_at": "2026-09-29T20:10:13.000000Z"
-    },
-    {
-      "title": "Chicago Fed's Goolsbee Warns on AI-Driven Growth Amid Inflation Concerns; What It Means for GOOGL",
-      "title_ko": "인플레이션 우려 속에서 시카고 연방준비은행의 굴스비, AI 주도 성장에 경고… GOOGL에 미치는 영향은?",
-      "snippet": "On September 29, 2026, Chicago Fed President Austan Goolsbee voiced concerns that the expected productivity surge from artificial intelligence (AI) might fuel e",
-      "snippet_ko": "2026년 9월 29일, 시카고 연방준비은행 총재인 오스틴 굴스비는 인공지능(AI)으로 인해 예상되는 생산성 급증이 실업률을 높일 수도 있다는 우려를 표명했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.5441,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9102075/chicago-feds-goolsbee-warns-on-aidriven-growth-amid-inflation-concerns-what-it-means-for-googl",
-      "cross_verified": true,
-      "published_at": "2026-09-29T19:57:30.000000Z"
-    },
-    {
-      "title": "US stock market today: Why Dow Jones falls while S&P 500 and Nasdaq climb as Nvidia, Oracle and Intel gain on oil retreat",
-      "title_ko": "오늘 미국 증시: 유가 하락에 힘입어 엔비디아, 오라클, 인텔이 상승한 가운데 다우존스는 하락하고 S&P 500과 나스닥은 상승한 이유",
-      "snippet": "US stock market today: The Dow Jones pulled back slightly, while the S&P 500 and Nasdaq hovered near the flatline. Major tech and retail stocks showed mixed performance, with Nvidia gaining (+1.11%) and Boeing up (+2.61%), while Apple (-1.72%) and Walmart (-2.79%) faced declines. XPeng also hit a 52-week low following a downgrade from JPMorgan citing weak demand and structural challenges in the Chinese auto sector.",
-      "snippet_ko": "오늘 미국 증시: 다우존스 지수는 소폭 하락한 반면, S&P 500 지수와 나스닥 지수는 보합권에서 등락을 거듭했다. 주요 기술주와 소매주들은 혼조세를 보였는데, 엔비디아(+1.11%)와 보잉(+2.61%)은 상승한 반면, 애플(-1.72%)과 월마트(-2.79%)는 하락세를 기록했다. 또한 엑스펭(XPeng)은 JP모건이 중국 자동차 업계의 수요 부진과 구조적 문제를 이유로 신용등급을 하향 조정함에 따라 52주 최저가를 기록했습니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4429,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-why-dow-jones-falls-while-sp-500-and-nasdaq-climb-as-nvidia-oracle-and-intel-gain-on-oil-retreat/articleshow/134569482.cms",
-      "cross_verified": true,
-      "published_at": "2026-09-29T15:08:51.000000Z"
-    },
-    {
-      "title": "McDonald's (MCD) Shares Drop Amid Rising Treasury Yields and Dividend Yield Pressure",
-      "title_ko": "국채 수익률 상승과 배당수익률 압박 속에 맥도날드(MCD) 주가 하락",
-      "snippet": "On September 29, 2026, McDonald's Corp (NYSE: MCD) has seen its stock price decline sharply by 32% over the past seven months, a period that coincides with a 32",
-      "snippet_ko": "2026년 9월 29일, 맥도날드(NYSE: MCD)의 주가는 지난 7개월 동안 32%나 급락했는데, 이 기간은 32%의",
-      "symbol": "MCD",
-      "sentiment_score": 0.5032,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9101643/mcdonalds-mcd-shares-drop-amid-rising-treasury-yields-and-dividend-yield-pressure",
-      "cross_verified": true,
-      "published_at": "2026-09-29T14:56:08.000000Z"
     }
   ]
 }
