@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-08T00:06:14.720860+00:00",
+  "updated_at": "2026-10-08T08:42:25.495722+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Coinbase Services Hit 48% of Revenue: Exchanges Sell Data",
+      "title_ko": "코인베이스 서비스 매출 비중 48% 달성: 거래소들의 데이터 판매",
+      "snippet": "Coinbase's subscriptions and services hit $555M in Q2 2026, 48% of net revenue. Three insiders explain what exchange data revenue is really worth.",
+      "snippet_ko": "코인베이스의 2026년 2분기 구독 및 서비스 매출은 5억 5,500만 달러를 기록하며 순매출의 48%를 차지했다. 세 명의 내부 관계자가 거래소 데이터 매출의 진정한 가치를 설명한다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/the-smartest-crypto-exchanges-are-turning-data/",
+      "cross_verified": true,
+      "published_at": "2026-10-08T07:36:26.000000Z"
+    },
+    {
+      "title": "West Pharmaceutical Services Needs Faster Earnings Growth To Justify Its Price (NYSE:WST)",
+      "title_ko": "웨스트 파마슈티컬 서비스(NYSE:WST), 주가 정당화를 위해 더 빠른 실적 성장 필요",
+      "snippet": "West Pharmaceutical's sustained premium valuation demands proven earnings and cash flow improvements. See why I rate WST stock a Sell.",
+      "snippet_ko": "웨스트 파마슈티컬(West Pharmaceutical)이 지속적으로 높은 평가를 받으려면 입증된 실적 개선과 현금 흐름 개선이 필수적입니다. 제가 WST 주식을 ‘매도’로 평가하는 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.3911,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4952686-west-pharmaceutical-services-needs-faster-earnings-growth-to-justify-its-price",
+      "cross_verified": true,
+      "published_at": "2026-10-08T07:35:32.000000Z"
+    },
     {
       "title": "Expeditors International of Washington, Inc. (EXPD) Discusses Distribution Trends and Strategies for Unlocking Growth in Canada Transcript",
       "title_ko": "Expeditors International of Washington, Inc. (EXPD), 캐나다 시장 성장 동력을 확보하기 위한 유통 동향 및 전략 논의: 회의록",
@@ -1177,33 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9100783/redwire-corp-rdw-stock-down-36-but-still-overvalued-gf-score-71100",
       "cross_verified": true,
       "published_at": "2026-09-29T01:10:33.000000Z"
-    },
-    {
-      "title": "A Look at TransMedics Group Inc (TMDX) After 3.0% Decline -- GF Value $159.18 vs Price $82.73",
-      "title_ko": "3.0% 하락 후 TransMedics Group Inc (TMDX) 분석 — GF 가치 $159.18 대 시가 $82.73",
-      "snippet": "On September 28, 2026, TransMedics Group Inc (TMDX) shares fell 3.0% to a current price of $82.73, within a 52-week range of $60.11 to $156.00. This decline add",
-      "snippet_ko": "2026년 9월 28일, 트랜스메딕스 그룹(TransMedics Group Inc, TMDX)의 주가는 3.0% 하락하여 현재 82.73달러를 기록했으며, 이는 52주 동안의 등락폭인 60.11달러에서 156.00달러 범위 내에 있습니다. 이러한 하락으로 인해",
-      "symbol": "",
-      "sentiment_score": 0.4126,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9100781/a-look-at-transmedics-group-inc-tmdx-after-30-decline-gf-value-15918-vs-price-8273",
-      "cross_verified": true,
-      "published_at": "2026-09-29T01:08:36.000000Z"
-    },
-    {
-      "title": "Q2 2026 Addex Therapeutics Ltd Earnings Call Transcript",
-      "title_ko": "2026년 2분기 Addex Therapeutics Ltd 실적 발표 전화 회의 기록",
-      "snippet": "Sep 28, 2026 / 02:00PM GMTTim Dyer - Addex Therapeutics Ltd - Chief Executive Officer, Co-Founder, Member of the Executive Management, Director Thank you. Hello",
-      "snippet_ko": "2026년 9월 28일 / 오후 2:00 GMT 팀 다이어 - 애덱스 테라퓨틱스(Addex Therapeutics Ltd) - 최고경영자(CEO), 공동 창업자, 경영진, 이사 감사합니다. 안녕하세요.",
-      "symbol": "",
-      "sentiment_score": 0.3789,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9100328/q2-2026-addex-therapeutics-ltd-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-09-28T20:00:05.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "McDonald's: Same-Store Sales Are An Overrated Metric (NYSE:MCD)",
+      "title_ko": "맥도날드: 동일 매장 매출은 과대평가된 지표다 (NYSE:MCD)",
+      "snippet": "McDonald's store expansion, not just SSS, drives top line growth. Click here to read more on MCD stock and why it is upgraded to Strong Buy.",
+      "snippet_ko": "매출 성장의 원동력은 단순히 동일 매장 매출(SSS)뿐만 아니라 맥도날드의 매장 확장입니다. MCD 주식에 대한 자세한 내용과 ‘강력 매수’ 등급으로 상향 조정된 이유를 확인하려면 여기를 클릭하세요.",
+      "symbol": "MCD",
+      "sentiment_score": 0.2009,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4952688-mcdonalds-same-store-sales-are-an-overrated-metric-upgrade",
+      "cross_verified": true,
+      "published_at": "2026-10-08T07:41:32.000000Z"
+    },
+    {
+      "title": "Royal Caribbean Group: Has the Market Already Priced in the Cruise Recovery?",
+      "title_ko": "로얄 캐리비안 그룹: 시장이 이미 크루즈 업계의 회복세를 반영한 것일까?",
+      "snippet": "Royal Caribbean Cruises Ltd. (NYSE:RCL) is in a very different place today than it was a few years ago. Back then, the stock was largely a bet on the cruise business getting back on its feet.",
+      "snippet_ko": "로열 캐리비안 크루즈(Royal Caribbean Cruises Ltd., NYSE:RCL)는 오늘날 몇 년 전과는 상당히 다른 상황에 놓여 있습니다. 당시 이 주식은 주로 크루즈 사업이 다시 활기를 되찾을 것이라는 기대에 기반한 투자 대상이었습니다.",
+      "symbol": "KO",
+      "sentiment_score": 0.2102,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/royal-caribbean-group-has-the-market-already-priced-in-the-cruise-recovery-1850595/",
+      "cross_verified": true,
+      "published_at": "2026-10-08T07:02:59.000000Z"
+    },
+    {
+      "title": "Kraft Heinz Stock Looks Cheap. Here’s What Investors are Missing",
+      "title_ko": "크래프트 하인즈 주가가 저평가된 것으로 보인다. 투자자들이 간과하고 있는 점은 바로 이것이다",
+      "snippet": "The Kraft Heinz Company (NYSE:KHC) has something many companies would love to have: brands that people already know.",
+      "snippet_ko": "크래프트 하인즈(Kraft Heinz Company, NYSE:KHC)는 많은 기업들이 간절히 원하는 것을 가지고 있습니다. 바로 대중에게 이미 잘 알려진 브랜드들입니다.",
+      "symbol": "KO",
+      "sentiment_score": 0.6054,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/kraft-heinz-stock-looks-cheap-heres-what-investors-are-missing-1850589/",
+      "cross_verified": true,
+      "published_at": "2026-10-08T07:01:31.000000Z"
+    },
     {
       "title": "McDonald’s: The Chip Trade I Can Stomach (NYSE:MCD)",
       "title_ko": "맥도날드: 내가 참을 수 있는 감자칩 사업 (NYSE:MCD)",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9101643/mcdonalds-mcd-shares-drop-amid-rising-treasury-yields-and-dividend-yield-pressure",
       "cross_verified": true,
       "published_at": "2026-09-29T14:56:08.000000Z"
-    },
-    {
-      "title": "Nancy Pelosi And Bill Ackman Are Betting On The Same Two Stocks",
-      "title_ko": "낸시 펠로시와 빌 애크먼이 똑같은 두 종목에 투자하고 있다",
-      "snippet": "Uber (NYSE:UBER) and Amazon (NASDAQ:AMZN) are showing up in both Nancy Pelosi's trading disclosures and Bill Ackman's Pershing Square portfolio.",
-      "snippet_ko": "우버(NYSE:UBER)와 아마존(NASDAQ:AMZN)은 낸시 펠로시 의원의 거래 공개 내역과 빌 애크먼의 퍼싱 스퀘어 포트폴리오 모두에 등장하고 있다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.3852,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/nancy-pelosi-and-bill-ackman-are-betting-on-the-same-two-stocks-1845689/",
-      "cross_verified": true,
-      "published_at": "2026-09-29T13:27:17.000000Z"
-    },
-    {
-      "title": "Google Appeals EU Directives on AI Access and Search Data Sharing",
-      "title_ko": "구글, AI 접근 및 검색 데이터 공유에 관한 EU 지침에 항소",
-      "snippet": "On September 29, 2026, Google, a subsidiary of Alphabet Inc. (GOOGL), announced its decision to appeal two directives issued by the European Union. These direct",
-      "snippet_ko": "2026년 9월 29일, 알파벳(Alphabet Inc., GOOGL)의 자회사인 구글은 유럽연합이 내린 두 건의 지침에 대해 항소하기로 결정했다고 발표했다. 이 지침들은",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.1478,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9101060/google-appeals-eu-directives-on-ai-access-and-search-data-sharing",
-      "cross_verified": true,
-      "published_at": "2026-09-29T06:31:32.000000Z"
-    },
-    {
-      "title": "Google Fights EU Demand to Share Android Data with Competitors",
-      "title_ko": "구글, 경쟁사들과 안드로이드 데이터 공유를 요구하는 EU의 요구에 맞서다",
-      "snippet": "On September 29, 2026, Google, a subsidiary of Alphabet Inc. (GOOGL), announced its decision to contest an EU requirement that mandates the opening of its Andro",
-      "snippet_ko": "2026년 9월 29일, 알파벳(Alphabet Inc., GOOGL)의 자회사인 구글은 자사의 안드로이드 운영체제 개방화를 의무화하는 EU의 요구 사항에 이의를 제기하기로 결정했다고 발표했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2392,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9101058/google-fights-eu-demand-to-share-android-data-with-competitors",
-      "cross_verified": true,
-      "published_at": "2026-09-29T06:30:36.000000Z"
     }
   ]
 }
