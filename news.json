@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-07T19:50:33.083074+00:00",
+  "updated_at": "2026-10-08T00:06:14.720860+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Expeditors International of Washington, Inc. (EXPD) Discusses Distribution Trends and Strategies for Unlocking Growth in Canada Transcript",
+      "title_ko": "Expeditors International of Washington, Inc. (EXPD), 캐나다 시장 성장 동력을 확보하기 위한 유통 동향 및 전략 논의: 회의록",
+      "snippet": "Expeditors International of Washington, Inc. (EXPD) Discusses Distribution Trends and Strategies for Unlocking Growth in Canada October 6, 2026 3:00 PM...",
+      "snippet_ko": "Expeditors International of Washington, Inc. (EXPD), 캐나다 시장 성장 촉진을 위한 유통 동향 및 전략 논의 2026년 10월 6일 오후 3:00...",
+      "symbol": "",
+      "sentiment_score": 0.3818,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4952634-expeditors-international-of-washington-inc-expd-discusses-distribution-trends-and-strategies",
+      "cross_verified": true,
+      "published_at": "2026-10-07T23:12:42.000000Z"
+    },
+    {
+      "title": "iBio, Inc. (IBIO) Presents at 2026 EASD Annual Meeting - Slideshow (NASDAQ:IBIO) 2026-10-07",
+      "title_ko": "iBio, Inc. (IBIO), 2026년 EASD 연례 회의에서 발표 - 슬라이드 쇼 (NASDAQ:IBIO) 2026-10-07",
+      "snippet": "2026-10-07. The following slide deck was published by iBio, Inc.",
+      "snippet_ko": "2026년 10월 7일. 다음 슬라이드 자료는 iBio, Inc.에서 발간했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4952632-ibio-inc-ibio-presents-at-2026-easd-annual-meeting-slideshow",
+      "cross_verified": true,
+      "published_at": "2026-10-07T23:02:31.000000Z"
+    },
+    {
+      "title": "Resources Connection, Inc. (RGP) Q1 2027 Earnings Call Transcript",
+      "title_ko": "Resources Connection, Inc. (RGP) 2027년 1분기 실적 발표 전화 회의 기록",
+      "snippet": "Resources Connection, Inc. (RGP) Q1 2027 Earnings Call October 7, 2026 5:00 PM EDTCompany ParticipantsRoger Carlile - President, CEO & DirectorJessica...",
+      "snippet_ko": "Resources Connection, Inc. (RGP) 2027년 1분기 실적 발표 전화회의 2026년 10월 7일 오후 5:00 (EDT) 회사 참가자: 로저 칼라일 - 사장, CEO 겸 이사, 제시카...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4952626-resources-connection-inc-rgp-q1-2027-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-07T23:02:27.000000Z"
+    },
     {
       "title": "Hertz Lenders Team Up With Advisers as Possible Debt Fight Looms",
       "title_ko": "헤르츠 채권자들이 잠재적인 채무 분쟁이 임박함에 따라 자문사들과 손을 잡았다",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9100328/q2-2026-addex-therapeutics-ltd-earnings-call-transcript",
       "cross_verified": true,
       "published_at": "2026-09-28T20:00:05.000000Z"
-    },
-    {
-      "title": "Fed Governor Lisa Cook Flags Inflation Risks Amid AI-Driven Data Center Investments; SPY Valuation Insight",
-      "title_ko": "리사 쿡 연준 이사, AI 주도 데이터센터 투자 속 인플레이션 위험 경고… SPY 평가 분석",
-      "snippet": "On September 28, 2026, Federal Reserve Governor Lisa Cook addressed inflationary concerns tied to surging investments in data centers fueled by artificial intel",
-      "snippet_ko": "2026년 9월 28일, 리사 쿡 연방준비제도 이사는 인공지능(AI)으로 인해 급증하는 데이터센터 투자와 관련된 인플레이션 우려에 대해 언급했다.",
-      "symbol": "",
-      "sentiment_score": 0.3298,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9100318/fed-governor-lisa-cook-flags-inflation-risks-amid-aidriven-data-center-investments-spy-valuation-insight",
-      "cross_verified": true,
-      "published_at": "2026-09-28T19:56:02.000000Z"
-    },
-    {
-      "title": "NIO (NIO) Forms Strategic Battery Swapping Partnership with Zhejiang Geely Holding Group Subsidiaries",
-      "title_ko": "NIO(NIO), 저장 지리 홀딩 그룹 계열사와 배터리 교환 분야 전략적 파트너십 체결",
-      "snippet": "On September 27, 2026, NIO Inc (NYSE: NIO) announced a strategic partnership agreement with subsidiaries of Zhejiang Geely Holding Group focused on battery swap",
-      "snippet_ko": "2026년 9월 27일, NIO Inc(NYSE: NIO)는 배터리 교환을 중심으로 한 전략적 파트너십 협약을 저장 지리 홀딩 그룹(Zhejiang Geely Holding Group)의 자회사들과 체결했다고 발표했다.",
-      "symbol": "",
-      "sentiment_score": 0.2376,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9099269/nio-nio-forms-strategic-battery-swapping-partnership-with-zhejiang-geely-holding-group-subsidiaries",
-      "cross_verified": true,
-      "published_at": "2026-09-28T04:25:24.000000Z"
-    },
-    {
-      "title": "Northern Star Resources (NESRF) Rejects A$38.7 Billion Takeover Bid from Gold Fields",
-      "title_ko": "노던 스타 리소시스(NESRF), 골드 필즈의 387억 호주 달러 인수 제안을 거부",
-      "snippet": "On September 27, 2026, Northern Star Resources Ltd (OTCPK:NESRF) declined a takeover offer from Gold Fields (GFI) valued at approximately A$38.7 billion (US$27.",
-      "snippet_ko": "2026년 9월 27일, 노던 스타 리소시스(Northern Star Resources Ltd, OTCPK:NESRF)는 골드 필즈(Gold Fields, GFI)가 제시한 약 387억 호주 달러(27.",
-      "symbol": "",
-      "sentiment_score": 0.4857,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9099266/northern-star-resources-nesrf-rejects-a387-billion-takeover-bid-from-gold-fields",
-      "cross_verified": true,
-      "published_at": "2026-09-28T03:55:21.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "McDonald’s: The Chip Trade I Can Stomach (NYSE:MCD)",
+      "title_ko": "맥도날드: 내가 참을 수 있는 감자칩 사업 (NYSE:MCD)",
+      "snippet": "McDonald's Corporation is rated a Strong Buy at $233.04, versus $264.71 earnings-based fair value and $229.78 DCF value. Read more on MCD stock here.",
+      "snippet_ko": "맥도날드 코퍼레이션은 233.04달러에 ‘강력 매수’ 등급을 받았으며, 이는 실적 기반 적정 가치인 264.71달러 및 DCF 가치인 229.78달러와 대비됩니다. MCD 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "MCD",
+      "sentiment_score": 0.4521,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4952599-mcdonalds-the-chip-trade-i-can-stomach",
+      "cross_verified": true,
+      "published_at": "2026-10-07T19:58:11.000000Z"
+    },
+    {
+      "title": "Trump Administration Eyes Pre-Midterm Iran Strike Options; Musk to Receive Top Science Honor",
+      "title_ko": "트럼프 행정부, 중간선거 전 이란 공격 방안 검토 중; 머스크, 최고 과학상 수상 예정",
+      "snippet": "The Trump administration is exploring military options against Iran as the November 3 midterm elections approach. According to reports from The Atlantic,",
+      "snippet_ko": "11월 3일 중간선거가 다가옴에 따라 트럼프 행정부는 이란에 대한 군사적 옵션을 검토하고 있다. 《더 애틀랜틱》의 보도에 따르면,",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.3182,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/trump-administration-eyes-pre-midterm-iran-strike-options-musk-to-receive-top-science-honor/72716/",
+      "cross_verified": true,
+      "published_at": "2026-10-07T19:38:21.000000Z"
+    },
+    {
+      "title": "Should You Buy Space Exploration Technologies Corp. (SPCX) on AI Compute Business Potential?",
+      "title_ko": "AI 컴퓨팅 사업의 잠재력을 고려해 스페이스 익스플로레이션 테크놀로지스(SPCX) 주식을 매수해야 할까요?",
+      "snippet": "Space Exploration Technologies Corp.",
+      "snippet_ko": "스페이스 익스플로레이션 테크놀로지스(주)",
+      "symbol": "INTC",
+      "sentiment_score": 0.0,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/should-you-buy-space-exploration-technologies-corp-spcx-on-ai-compute-business-potential-1846987/",
+      "cross_verified": true,
+      "published_at": "2026-10-07T19:08:12.000000Z"
+    },
     {
       "title": "AI cloud firm CoreWeave to launch first India data centres with AdaniConneX in Navi Mumbai",
       "title_ko": "AI 클라우드 기업 코어위브(CoreWeave), 아다니커넥스(AdaniConneX)와 함께 나비 뭄바이에 인도 첫 데이터센터 개장 예정",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9101058/google-fights-eu-demand-to-share-android-data-with-competitors",
       "cross_verified": true,
       "published_at": "2026-09-29T06:30:36.000000Z"
-    },
-    {
-      "title": "Google fights EU attempt to prise open Android to rival AI bots",
-      "title_ko": "구글, 경쟁 AI 봇을 위해 안드로이드를 개방하려는 EU의 시도에 맞서고 있다",
-      "snippet": "Google fights EU DMA bid to open Android to rival AI, citing user privacy and security concerns.",
-      "snippet_ko": "구글은 사용자 개인정보 보호 및 보안 문제를 이유로, 경쟁 AI 업체들이 안드로이드를 활용할 수 있도록 하려는 EU의 디지털 시장법(DMA) 적용 시도에 맞서고 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.34,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/info-tech/google-fights-eu-attempt-to-prise-open-android-to-rival-ai-bots/article71522693.ece",
-      "cross_verified": true,
-      "published_at": "2026-09-29T06:01:56.000000Z"
-    },
-    {
-      "title": "Is MP Materials Corp (MP) a Bargain After 4.9% Drop? GF Value Says Undervalued",
-      "title_ko": "MP 머티리얼스(MP)가 4.9% 하락한 지금, 매수 기회일까? GF 밸류는 저평가되었다고 분석한다",
-      "snippet": "On September 28, 2026, MP Materials Corp (MP) shares fell 4.9%, closing at $46.45. The stock has seen considerable volatility, trading within a 52-week range of",
-      "snippet_ko": "2026년 9월 28일, MP 머티리얼스(MP)의 주가는 4.9% 하락하여 46.45달러에 장을 마감했다. 이 종목은 상당한 변동성을 보였으며, 52주 동안의 등락폭은",
-      "symbol": "MP",
-      "sentiment_score": 0.2288,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9100632/is-mp-materials-corp-mp-a-bargain-after-49-drop-gf-value-says-undervalued",
-      "cross_verified": true,
-      "published_at": "2026-09-28T23:30:33.000000Z"
-    },
-    {
-      "title": "A Look at DraftKings Inc (DKNG) After 3.9% Decline -- GF Value $52.11 vs Price $21.16",
-      "title_ko": "3.9% 하락한 드래프트킹스(DKNG) 현황 분석 — GF 가치 $52.11 vs 시가 $21.16",
-      "snippet": "On September 28, 2026, DraftKings Inc (DKNG) shares fell 3.9% to $21.16, continuing a downward trend that has seen the stock decline by 50.0% over the past year",
-      "snippet_ko": "2026년 9월 28일, 드래프트킹스(DraftKings Inc, DKNG) 주가는 3.9% 하락한 21.16달러를 기록하며, 지난 1년간 50.0% 하락한 하락세를 이어갔다.",
-      "symbol": "DKNG",
-      "sentiment_score": 0.418,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9100613/a-look-at-draftkings-inc-dkng-after-39-decline-gf-value-5211-vs-price-2116",
-      "cross_verified": true,
-      "published_at": "2026-09-28T23:21:00.000000Z"
     }
   ]
 }
