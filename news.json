@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-08T17:18:49.833496+00:00",
+  "updated_at": "2026-10-08T23:10:37.044133+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Donnelley Financial: Q3 2026 Could Be Weak, Downgrade To Hold (NYSE:DFIN)",
+      "title_ko": "도넬리 파이낸셜: 2026년 3분기 실적 부진 예상, 투자 등급을 ‘보유(Hold)’로 하향 조정 (NYSE:DFIN)",
+      "snippet": "Donnelley Financial is downgraded to Hold as an IPO/M&A slowdown may pressure 3Q26 earnings. Click here to read my most recent analysis of the DFIN stock.",
+      "snippet_ko": "도넬리 파이낸셜(Donnelley Financial)은 기업공개(IPO) 및 인수합병(M&A) 둔화로 인해 2026년 3분기 실적에 압박이 가해질 수 있어 투자 등급이 ‘보유(Hold)’로 하향 조정되었습니다. DFIN 주식에 대한 저의 최신 분석을 보시려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.086,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4952924-donnelley-financial-q3-2026-could-be-weak-downgrade-to-hold",
+      "cross_verified": true,
+      "published_at": "2026-10-08T22:26:54.000000Z"
+    },
+    {
+      "title": "Canadian Utilities Limited 5.6 CUM2ND PF JJ declares CAD 0.35 dividend (TSX:CU.PR.K:CA)",
+      "title_ko": "캐나디안 유틸리티 리미티드(Canadian Utilities Limited) 5.6 CUM2ND PF JJ, 0.35 캐나다 달러 배당금 선언 (TSX:CU.PR.K:CA)",
+      "snippet": "Canadian Utilities Limited 5.6 CUM2ND PF JJ (CU.PR.K:CA) declares CAD 0.35/share quarterly dividend, in line with previous. Payable Dec. 1; for shareholders of",
+      "snippet_ko": "Canadian Utilities Limited 5.6 CUM2ND PF JJ (CU.PR.K:CA)는 이전과 동일한 수준인 주당 0.35 캐나다 달러의 분기 배당금을 선언했습니다. 배당금은 12월 1일에 지급되며, 해당 시점의 주주들에게",
+      "symbol": "",
+      "sentiment_score": 0.4084,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4651619-canadian-utilities-limited-5_6-cum2nd-pf-jj-declares-cad-0_35-dividend",
+      "cross_verified": true,
+      "published_at": "2026-10-08T21:53:37.000000Z"
+    },
+    {
+      "title": "Canadian Utilities Limited 4.75% 2ND PFD HH declares CAD 0.2969 dividend (TSX:CU.PR.J:CA)",
+      "title_ko": "캐나디안 유틸리티 리미티드(Canadian Utilities Limited)의 4.75% 2ND PFD HH가 0.2969 캐나다 달러의 배당금을 선언했습니다 (TSX:CU.PR.J:CA)",
+      "snippet": "Canadian Utilities Limited 4.75% 2ND PFD HH (CU.PR.J:CA) declares CAD 0.2969/share quarterly dividend, in line with previous. Payable Dec. 1; for shareholders o",
+      "snippet_ko": "Canadian Utilities Limited 4.75% 2ND PFD HH (CU.PR.J:CA)는 이전과 동일한 수준인 주당 0.2969 캐나다 달러의 분기 배당금을 선언했습니다. 배당금은 12월 1일에 지급되며, 해당 시점의 주주들에게",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4651618-canadian-utilities-limited-4_75-percent-2nd-pfd-hh-declares-cad-0_2969-dividend",
+      "cross_verified": true,
+      "published_at": "2026-10-08T21:53:17.000000Z"
+    },
     {
       "title": "Tesco PLC (TSCDY) Q2 2027 Sales/ Trading Statement Call - Slideshow (OTCMKTS:TSCDY) 2026-10-08",
       "title_ko": "Tesco PLC (TSCDY) 2027년 2분기 매출/영업 실적 발표 컨퍼런스 콜 - 슬라이드쇼 (OTCMKTS:TSCDY) 2026-10-08",
@@ -1165,45 +1201,45 @@
       "url": "https://www.reinsurancene.ws/bms-group-appoints-paul-sheriff-as-group-cfo-and-executive-director/",
       "cross_verified": true,
       "published_at": "2026-09-29T15:30:45.000000Z"
-    },
-    {
-      "title": "Sherwin-Williams (SHW) Refinances Debt with New $750 Million Term Loan and €100 Million EUR Facility",
-      "title_ko": "셔윈-윌리엄스(SHW), 7억 5천만 달러 규모의 신규 기간 대출 및 1억 유로 규모의 대출 한도를 통해 부채 재융자 실시",
-      "snippet": "The Sherwin-Williams Company (SHW) announced on September 24, 2026, that it has entered into a new 364-day senior unsecured Term Loan Credit Agreement, replaci",
-      "snippet_ko": "셔윈-윌리엄스(SHW)는 2026년 9월 24일, 기존 계약을 대체하는 새로운 364일 만기의 선순위 무담보 기간 대출 신용 계약을 체결했다고 발표했다.",
-      "symbol": "",
-      "sentiment_score": 0.7964,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9101755/sherwinwilliams-shw-refinances-debt-with-new-750-million-term-loan-and-100-million-eur-facility",
-      "cross_verified": true,
-      "published_at": "2026-09-29T15:30:08.000000Z"
-    },
-    {
-      "title": "Brady Corporation: From A Balance Sheet With No Debt, To A $1.4B Bet At 8x EBITDA",
-      "title_ko": "브래디 코퍼레이션: 부채가 전혀 없는 대차대조표에서 EBITDA의 8배에 달하는 14억 달러 규모의 투자로",
-      "snippet": "Brady Corporation is a global manufacturer of identification solutions and workplace safety products. Check out why BRC stock is a buy.",
-      "snippet_ko": "브래디 코퍼레이션은 식별 솔루션 및 작업장 안전 제품을 제조하는 글로벌 기업입니다. BRC 주식을 매수해야 하는 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": -0.5719,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4950551-brady-corporation-from-a-balance-sheet-with-no-debt-to-a-1-4b-bet-at-8x-ebitda",
-      "cross_verified": true,
-      "published_at": "2026-09-29T07:39:16.000000Z"
-    },
-    {
-      "title": "Clean Harbors: A Much Cleaner Picture Here (NYSE:CLH)",
-      "title_ko": "클린 하버스: 훨씬 더 밝은 전망 (NYSE:CLH)",
-      "snippet": "Clean Harbors accelerates M&A activity, acquiring EnviroServe for $470M and ES&H for $305M. Read why CLH stock is a Hold.",
-      "snippet_ko": "클린 하버스는 인수합병(M&A) 활동을 가속화하며, 엔비로서브를 4억 7천만 달러에, ES&H를 3억 500만 달러에 인수했습니다. CLH 주식을 ‘보유’로 평가하는 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.2369,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4950547-clean-harbors-a-much-cleaner-picture-here",
-      "cross_verified": true,
-      "published_at": "2026-09-29T07:24:40.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Alphabet: Building The Thing That Could Replace It (NASDAQ:GOOGL)",
+      "title_ko": "알파벳: 자사를 대체할 수 있는 무언가를 구축 중 (나스닥:GOOGL)",
+      "snippet": "Alphabet faces a pivotal tension: Gemini AI could disrupt its core search ad business, yet also drive future growth. Click to read more on this.",
+      "snippet_ko": "알파벳은 중대한 딜레마에 직면해 있습니다. 제미니 AI는 회사의 핵심 사업인 검색 광고 사업을 뒤흔들 수도 있지만, 동시에 미래 성장을 견인할 수도 있기 때문입니다. 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3125,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4952915-alphabet-building-the-thing-that-could-replace-it",
+      "cross_verified": true,
+      "published_at": "2026-10-08T21:46:07.000000Z"
+    },
+    {
+      "title": "Tech Selloff Intensifies on OpenAI Revenue Outlook While Markets Weigh Geopolitical Shifts",
+      "title_ko": "시장이 지정학적 변화를 주시하는 가운데, 오픈AI의 매출 전망을 둘러싸고 기술주 매도세가 심화되고 있다",
+      "snippet": "The artificial intelligence investment boom faced a reality check on Thursday as reports surfaced that OpenAI is generating roughly $50 billion in annualized",
+      "snippet_ko": "목요일, 오픈AI가 연간 약 500억 달러의 수익을 창출하고 있다는 보도가 나오면서 인공지능 투자 열풍에 냉정한 현실이 드러났다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4201,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-selloff-intensifies-on-openai-revenue-outlook-while-markets-weigh-geopolitical-shifts/72766/",
+      "cross_verified": true,
+      "published_at": "2026-10-08T20:38:12.000000Z"
+    },
+    {
+      "title": "Applied Materials and UCLA Engineering Accelerate Semiconductor Innovation at the EPIC Center",
+      "title_ko": "애플라이드 머티리얼즈와 UCLA 공과대학, EPIC 센터에서 반도체 혁신 가속화",
+      "snippet": "R&D programs to focus on speeding up the commercialization pipeline so chip technology moves from breakthrough research to full-scale manufacturing fasterCollaborative work at the state-of-the-art facility in Silicon Valley pairs UCLA’s semiconductor research strength with Applied’s cutting-edge chipmaking equipment and process integration expertise SANTA CLARA, Calif., Oct. 08, 2026 (GLOBE NEWSWIRE) -- Applied Materials, Inc. today announced that the UCLA Samueli School of Engineering will join the company’s EPIC Center in Silicon Valley as a research partner. Together with Applied’s scientists and engineers, UCLA researchers will work to solve semiconductor materials and integration challenges with a focus on shortening the time it takes to bring breakthrough research to commercialization.",
+      "snippet_ko": "칩 기술이 획기적인 연구 단계에서 본격적인 양산 단계로 더 빠르게 전환될 수 있도록 상용화 과정을 가속화하는 데 중점을 둔 R&D 프로그램. 실리콘밸리의 최첨단 시설에서 진행되는 이번 협력 프로젝트를 통해 UCLA의 반도체 연구 역량과 애플라이드 머티리얼즈의 최첨단 칩 제조 장비 및 공정 통합 전문 지식이 결합된다. 캘리포니아주 산타클라라, 2026년 10월 8일 (GLOBE NEWSWIRE) -- 애플라이드 머티리얼즈(Applied Materials, Inc.)는 오늘 UCLA 사뮤엘리 공과대학이 합류할 것이라고 발표했습니다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.3658,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/09/tmt-newswire/globenewswire/applied-materials-and-ucla-engineering-accelerate-semiconductor-innovation-at-the-epic-center/2442221",
+      "cross_verified": true,
+      "published_at": "2026-10-08T20:20:45.000000Z"
+    },
     {
       "title": "Broadcom Redefines AI Infrastructure with Industry-Leading Networking Innovations at 2026 OCP Global Summit",
       "title_ko": "브로드컴, 2026 OCP 글로벌 서밋에서 업계 선도적인 네트워킹 혁신을 통해 AI 인프라의 새로운 기준을 제시하다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.business-standard.com/world-news/openai-eyes-raising-30-billion-in-funding-at-1-4-trillion-valuation-126093000147_1.html",
       "cross_verified": true,
       "published_at": "2026-09-30T03:34:23.000000Z"
-    },
-    {
-      "title": "Apple Pay Fee Fight Expands After Court Certifies Issuer Class Action",
-      "title_ko": "법원이 카드 발급사 집단소송을 인가함에 따라 애플 페이 수수료 논란 확대",
-      "snippet": "A federal court in California has cleared the way for a large group of U.S. card issuers to pursue antitrust claims against Apple (NASDAQ: AAPL) over fees",
-      "snippet_ko": "캘리포니아의 한 연방 법원이 다수의 미국 신용카드 발급사들이 수수료 문제를 놓고 애플(NASDAQ: AAPL)을 상대로 반독점 소송을 제기할 수 있는 길을 열어주었다.",
-      "symbol": "AAPL",
-      "sentiment_score": -0.1655,
-      "source": "crowdfundinsider.com",
-      "url": "https://www.crowdfundinsider.com/2026/09/314042-apple-pay-fee-fight-expands-after-court-certifies-issuer-class-action/",
-      "cross_verified": true,
-      "published_at": "2026-09-30T03:28:25.000000Z"
-    },
-    {
-      "title": "Pyxis Oncology Announces Proposed Public Offering",
-      "title_ko": "파이시스 온콜로지, 공모 계획 발표",
-      "snippet": "BOSTON, Sept. 29, 2026 (GLOBE NEWSWIRE) -- Pyxis Oncology, Inc. (Nasdaq: PYXS), a clinical-stage company developing next-generation therapeutics for difficult-to-treat cancers, today announced that it has commenced a registered public offering (the 'Offering') of (i) shares of its common stock, or in lieu of common stock to certain investors, pre-funded warrants to purchase shares of common stock, and (ii) accompanying common warrants to purchase shares of common stock. Each share of common stock and each pre-funded warrant will be sold together with a common warrant to purchase one share of common stock.",
-      "snippet_ko": "보스턴, 2026년 9월 29일 (GLOBE NEWSWIRE) -- 치료가 어려운 암에 대한 차세대 치료제를 개발 중인 임상 단계 기업인 Pyxis Oncology, Inc. (나스닥: PYXS)는 오늘 (i) 자사 보통주 또는 특정 투자자에게는 보통주 대신 미리 자금이 조달된 보통주 매수권, 그리고 (ii) 이에 수반되는 보통주 매수권을 대상으로 한 등록 공모(이하 ‘본 공모’)를 개시했다고 발표했다. 각 보통주 1주는",
-      "symbol": "MRK",
-      "sentiment_score": 0.6705,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/30/tmt-newswire/globenewswire/pyxis-oncology-announces-proposed-public-offering/2435606",
-      "cross_verified": true,
-      "published_at": "2026-09-29T20:29:40.000000Z"
-    },
-    {
-      "title": "Inseego Names Nick Lambourne Chief Technology Officer to Lead Global Engineering Organization",
-      "title_ko": "인시고, 닉 램본을 최고기술책임자(CTO)로 임명해 글로벌 엔지니어링 조직을 이끌게 해",
-      "snippet": "Former Particle CTO brings deep cellular and IoT leadership to drive Inseego's global engineering operations and execution, including those from the acquisition of Nokia's Fixed Wireless Access business",
-      "snippet_ko": "Particle의 전 CTO는 셀룰러 및 IoT 분야에서 쌓아온 풍부한 리더십을 바탕으로, 노키아의 고정 무선 액세스(FWA) 사업부 인수를 포함한 Inseego의 글로벌 엔지니어링 운영 및 실행을 주도할 예정이다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.1464,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/30/tmt-newswire/globenewswire/inseego-names-nick-lambourne-chief-technology-officer-to-lead-global-engineering-organization/2435596",
-      "cross_verified": true,
-      "published_at": "2026-09-29T20:10:13.000000Z"
     }
   ]
 }
