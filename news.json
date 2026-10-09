@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-08T23:10:37.044133+00:00",
+  "updated_at": "2026-10-09T05:38:41.149833+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "AI Bubble Risks Worst S&P 500 Crash Since 2008, Strategist Says",
+      "title_ko": "전략가 “AI 버블로 인해 2008년 이후 최악의 S&P 500 폭락 우려”",
+      "snippet": "The head of market strategy at a London investment bank has a stark warning for investors: the artificial-intelligence trade may soon be over in what",
+      "snippet_ko": "런던의 한 투자은행 시장 전략 담당 책임자는 투자자들에게 다음과 같은 엄중한 경고를 전했다. 인공지능 관련 투기 열풍이 머지않아 끝날 수도 있다는 것이다.",
+      "symbol": "",
+      "sentiment_score": 0.4544,
+      "source": "insurancejournal.com",
+      "url": "https://www.insurancejournal.com/news/international/2026/10/09/888427.htm",
+      "cross_verified": true,
+      "published_at": "2026-10-09T05:05:05.000000Z"
+    },
+    {
+      "title": "India IT set for fourth year of weak growth on geopolitics, AI risks",
+      "title_ko": "지정학적 요인과 AI 관련 리스크로 인해 인도 IT 업계, 4년 연속 저성장 전망",
+      "snippet": "HCL Technologies and Tech Mahindra are next to report quarterly results, after TCS's revenue rose just 0.5% sequentially in constant currency terms.",
+      "snippet_ko": "TCS의 매출이 고정 환율 기준으로 전분기 대비 0.5% 증가에 그친 가운데, HCL 테크놀로지스와 테크 마힌드라가 다음으로 분기 실적을 발표할 예정이다.",
+      "symbol": "",
+      "sentiment_score": -0.0122,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/industry/infotech/ai-impact-on-it-sector-quarterly-results-11791520593653.html",
+      "cross_verified": true,
+      "published_at": "2026-10-09T05:00:51.000000Z"
+    },
     {
       "title": "Donnelley Financial: Q3 2026 Could Be Weak, Downgrade To Hold (NYSE:DFIN)",
       "title_ko": "도넬리 파이낸셜: 2026년 3분기 실적 부진 예상, 투자 등급을 ‘보유(Hold)’로 하향 조정 (NYSE:DFIN)",
@@ -1177,33 +1201,57 @@
       "url": "https://www.foxbusiness.com/lifestyle/alaska-airlines-goes-all-in-luxury-sweeping-premium-cabin-overhaul",
       "cross_verified": true,
       "published_at": "2026-09-29T21:26:51.000000Z"
-    },
-    {
-      "title": "Sun Pharma plans ₹10,000 crore bond sale to refinance Organon acquisition loan: Report",
-      "title_ko": "선 파마, 오르가논 인수 대출 재융자를 위해 1,000억 루피 규모 채권 발행 계획: 보도에 따르면",
-      "snippet": "The country's largest drugmaker by market capitalisation closed a syndication of a near-$12 billion, 18-month bridge loan earlier this year for Organon's acquisition. The syndication also included State Bank of India, the country's largest lender by assets.",
-      "snippet_ko": "시가총액 기준 국내 최대 제약사는 올해 초 오르가논(Organon) 인수를 위해 약 120억 달러 규모의 18개월 만기 브리지 론 신디케이션을 완료했다. 이번 신디케이션에는 자산 규모 기준 국내 최대 은행인 인도국립은행(State Bank of India)도 참여했다.",
-      "symbol": "",
-      "sentiment_score": -0.1806,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/news/sun-pharma-plans-rs-10-000-crore-bond-sale-to-refinance-organon-acquisition-loan-report-11790695336859.html",
-      "cross_verified": true,
-      "published_at": "2026-09-29T15:45:10.000000Z"
-    },
-    {
-      "title": "BMS Group appoints Paul Sheriff as Group CFO and Executive Director",
-      "title_ko": "BMS 그룹, 폴 셰리프를 그룹 최고재무책임자(CFO) 겸 상임이사로 선임",
-      "snippet": "BMS Group, an independent global insurance and reinsurance broker, has announced the appointment of Paul Sheriff as Group Chief Financial Officer (CFO)",
-      "snippet_ko": "독립적인 글로벌 보험 및 재보험 중개사인 BMS 그룹은 폴 셰리프를 그룹 최고재무책임자(CFO)로 임명했다고 발표했다.",
-      "symbol": "",
-      "sentiment_score": 0.6486,
-      "source": "reinsurancene.ws",
-      "url": "https://www.reinsurancene.ws/bms-group-appoints-paul-sheriff-as-group-cfo-and-executive-director/",
-      "cross_verified": true,
-      "published_at": "2026-09-29T15:30:45.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "ClearBridge Dividend Strategy Q3 2026 Commentary",
+      "title_ko": "클리어브리지 배당 전략 2026년 3분기 분석 보고서",
+      "snippet": "ClearBridge Dividend Strategy posted modest gains in Q3 but trailed the S&P 500 amid narrow market leadership. Read the full commentary for details.",
+      "snippet_ko": "클리어브리지 배당 전략은 3분기에 소폭의 상승세를 기록했으나, 시장 주도주가 제한적인 가운데 S&P 500 지수에는 미치지 못했습니다. 자세한 내용은 전체 해설문을 참조하십시오.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.1562,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4952955-clearbridge-dividend-strategy-q3-2026-commentary",
+      "cross_verified": true,
+      "published_at": "2026-10-09T04:25:00.000000Z"
+    },
+    {
+      "title": "Stock markets rebound after Thursday’s rout; analysts warn of ‘sell-on-rally’ risk",
+      "title_ko": "목요일의 급락 이후 주식 시장이 반등했으나, 애널리스트들은 ‘반등 시 매도’ 위험에 대해 경고하고 있다",
+      "snippet": "Indian indices bounce on Friday amid IT-led gains, but macro headwinds, rate hikes, and sell-on-rally risk loom large for markets.",
+      "snippet_ko": "금요일 인도 증시는 IT주를 중심으로 반등세를 보였으나, 거시경제적 역풍, 금리 인상, 그리고 상승세 속 매도 압력 등 시장에 대한 위험 요인이 여전히 크게 도사리고 있다.",
+      "symbol": "AVGO",
+      "sentiment_score": -0.0358,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets-rebound-after-thursdays-rout-analysts-warn-of-sell-on-rally-risk/article71562553.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-09T04:21:56.000000Z"
+    },
+    {
+      "title": "Apple set to launch touch-screen MacBook, new iPad mini in late October",
+      "title_ko": "애플, 10월 말 터치스크린 맥북과 신형 아이패드 미니 출시 예정",
+      "snippet": "The end-of-month announcements will also include versions of the 14-inch MacBook Pro and iMac with M6 chips",
+      "snippet_ko": "이달 말 발표 내용에는 M6 칩이 탑재된 14인치 맥북 프로와 아이맥 모델도 포함될 예정이다",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5599,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/technology/tech-news/apple-set-to-launch-touch-screen-macbook-new-ipad-mini-in-late-october-126100900143_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-09T02:58:47.000000Z"
+    },
+    {
+      "title": "Netflix, streaming rivals dominate $6 billion Asia sports arena",
+      "title_ko": "넷플릭스와 스트리밍 경쟁사들이 60억 달러 규모의 아시아 스포츠 시장을 장악하고 있다",
+      "snippet": "Streaming rivals like Netflix, Tencent, and JioHotstar are reshaping Asia’s $6 billion sports rights market, increasing online dominance and costs.",
+      "snippet_ko": "넷플릭스, 텐센트, 지오핫스타와 같은 스트리밍 경쟁사들이 아시아의 60억 달러 규모 스포츠 중계권 시장을 재편하며, 온라인 시장의 지배력과 비용을 높이고 있다.",
+      "symbol": "NFLX",
+      "sentiment_score": 0.2368,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/info-tech/netflix-streaming-rivals-dominate-6-billion-asia-sports-arena/article71562628.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-09T05:03:28.000000Z"
+    },
     {
       "title": "Alphabet: Building The Thing That Could Replace It (NASDAQ:GOOGL)",
       "title_ko": "알파벳: 자사를 대체할 수 있는 무언가를 구축 중 (나스닥:GOOGL)",
@@ -2355,54 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9103027/first-trust-nasdaq100-tech-qtec-sells-49-million-more-intel-on-sept-28",
       "cross_verified": true,
       "published_at": "2026-09-30T11:04:00.000000Z"
-    },
-    {
-      "title": "JPMorgan Hedged Equity ETF (HELO) Adds Intel and Thermo Fisher on Monday",
-      "title_ko": "JPMorgan 헤지 주식 ETF(HELO), 월요일 인텔과 써모 피셔를 편입",
-      "snippet": "JPMorgan Hedged Equity Laddered Overlay ETF (HELO) was one of the ETFs buying on Monday, with 18 positions increased and 12 decreased. The fund's ETF activity r",
-      "snippet_ko": "JPMorgan 헤지 주식 래더드 오버레이 ETF(HELO)는 월요일에 매수세를 보인 ETF 중 하나로, 18개 종목의 보유 비중을 늘리고 12개 종목은 줄였습니다. 이 펀드의 ETF 거래 내역은",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2414,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9103026/jpmorgan-hedged-equity-etf-helo-adds-intel-and-thermo-fisher-on-monday",
-      "cross_verified": true,
-      "published_at": "2026-09-30T11:03:54.000000Z"
-    },
-    {
-      "title": "Technology Select Sector SPDR ETF (XLK) Sells NVIDIA and Apple on Sept. 28",
-      "title_ko": "테크놀로지 셀렉트 섹터 SPDR ETF(XLK), 9월 28일 엔비디아와 애플 지분 매도",
-      "snippet": "State Street Technology Select Sector SPDR ETF (XLK) reported a net outflow of $165.9 million on Monday, Sept. 28, with no stocks bought and 73 positions decrea",
-      "snippet_ko": "스테이트 스트리트 테크놀로지 셀렉트 섹터 SPDR ETF(XLK)는 9월 28일 월요일 1억 6,590만 달러의 순유출을 기록했으며, 신규 매수 종목은 없었고 73개 종목의 보유 비중이 감소했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3535,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9103024/technology-select-sector-spdr-etf-xlk-sells-nvidia-and-apple-on-sept-28",
-      "cross_verified": true,
-      "published_at": "2026-09-30T11:03:41.000000Z"
-    },
-    {
-      "title": "Apple set to sell 6 million iPhone Duos in 2026: Counterpoint Research",
-      "title_ko": "카운터포인트 리서치, “애플, 2026년에 아이폰 듀오 600만 대 판매할 전망”",
-      "snippet": "The figure, more typical of niche foldable segment than Apple's usual smartphone sales, is contingent on how well the company ramps up production of the new hardware, Counterpoint senior analyst said",
-      "snippet_ko": "카운터포인트의 수석 애널리스트는 “이 수치는 애플의 일반적인 스마트폰 판매량보다는 틈새 시장인 폴더블 스마트폰 부문에 더 전형적인 것으로, 애플이 신제품 하드웨어의 생산량을 얼마나 원활하게 확대하느냐에 달려 있다”고 말했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3906,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/technology/tech-news/apple-set-to-sell-6-million-iphone-duos-in-2026-counterpoint-research-126093000151_1.html",
-      "cross_verified": true,
-      "published_at": "2026-09-30T03:39:24.000000Z"
-    },
-    {
-      "title": "OpenAI eyes raising $30 billion in funding at $1.4 trillion valuation",
-      "title_ko": "오픈AI, 기업 가치 1.4조 달러 기준으로 300억 달러 자금 조달을 목표로 하고 있다",
-      "snippet": "The firm is seeking a valuation of around $1.4 trn, not including the money raised, said the people, potentially vaulting it back above longtime rival Anthropic's most recent private market valuation",
-      "snippet_ko": "이 소식통들에 따르면, 이 회사는 조달한 자금을 제외하고 약 1.4조 달러의 기업 가치를 목표로 하고 있으며, 이로 인해 오랜 경쟁사인 앤트로픽(Anthropic)의 최근 비상장 시장 기업 가치를 다시 넘어설 가능성이 있다고 전했다.",
-      "symbol": "META",
-      "sentiment_score": 0.5423,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/openai-eyes-raising-30-billion-in-funding-at-1-4-trillion-valuation-126093000147_1.html",
-      "cross_verified": true,
-      "published_at": "2026-09-30T03:34:23.000000Z"
     }
   ]
 }
