@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-09T12:57:38.328295+00:00",
+  "updated_at": "2026-10-09T19:22:50.362695+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Zeta Global: An AI Comeback Story, Accelerating Organic Growth Amid M&A (NYSE:ZETA)",
+      "title_ko": "제타 글로벌: AI의 재도약 이야기, M&A 속에서도 유기적 성장을 가속화하다 (NYSE:ZETA)",
+      "snippet": "Zeta Global stock surges 62% YTD on beat-and-raise earnings, AI partnerships, and bullish technicals. Click to read more about the ZETA stock.",
+      "snippet_ko": "제타 글로벌(Zeta Global) 주가는 시장 예상을 상회한 실적 발표와 실적 전망 상향 조정, AI 파트너십 체결, 그리고 긍정적인 기술적 지표에 힘입어 연초 대비 62% 급등했습니다. ZETA 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.0659,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953152-zeta-global-an-ai-comeback-story-accelerating-organic-growth-amid-m-and-a-downgrade",
+      "cross_verified": true,
+      "published_at": "2026-10-09T18:57:37.000000Z"
+    },
+    {
+      "title": "AMD: Too Expensive To Be Worth It (NASDAQ:AMD)",
+      "title_ko": "AMD: 가격이 너무 비싸서 가성비가 떨어진다 (NASDAQ:AMD)",
+      "snippet": "Advanced Micro Devices is downgraded to a Hold, as valuation metrics have become stretched despite strong fundamentals. Read more on AMD stock here.",
+      "snippet_ko": "어드밴스드 마이크로 디바이스(AMD)는 견실한 펀더멘털에도 불구하고 주가 평가 지표가 과열된 것으로 나타나 ‘보유(Hold)’로 등급이 하향 조정되었습니다. AMD 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.4921,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953149-amd-too-expensive-to-be-worth-it",
+      "cross_verified": true,
+      "published_at": "2026-10-09T18:45:56.000000Z"
+    },
     {
       "title": "Selling Bodycote: Another World-Leading U.K. Company Taken Over (BYPLF)",
       "title_ko": "바디코트 매각: 또 하나의 세계적 영국 기업이 인수되었다 (BYPLF)",
@@ -1177,33 +1201,57 @@
       "url": "https://www.manilatimes.net/2026/09/30/tmt-newswire/globenewswire/monument-reports-fourth-quarter-and-fiscal-2026-results/2435706",
       "cross_verified": true,
       "published_at": "2026-09-30T04:12:03.000000Z"
-    },
-    {
-      "title": "SM Investments makes case for long-term thinking amid rapid change",
-      "title_ko": "SM 인베스트먼트, 급변하는 환경 속에서 장기적 사고의 필요성 강조",
-      "snippet": "**media[1239363]**PASAY CITY, Philippines, Sept. 30, 2026 /PRNewswire/ -- SM Investments Corporation, the parent company of the SM Group, underscored the need for businesses to look beyond short-term economic cycles and identify the changes that matter at the 24th MAP International CEO Conference, held under the theme 'In the Age of Flux: Scaling the Next Inflection Points.' The conference examined how companies are responding to rapid change, from artificial intelligence to shifting consumer demand, and how leaders can distinguish lasting shifts from market noise.",
-      "snippet_ko": "**media[1239363]**필리핀 파사이시, 2026년 9월 30일 /PRNewswire/ -- SM 그룹의 모회사인 SM 인베스트먼트 코퍼레이션(SM Investments Corporation)은 ‘변화의 시대: 다음 전환점을 넘어(In the Age of Flux: Scaling the Next Inflection Points)’라는 주제로 개최된 제24회 MAP 국제 CEO 컨퍼런스에서, 기업들이 단기적인 경제 주기를 넘어 중요한 변화를 파악해야 할 필요성을 강조했다. 이번 컨퍼런스에서는 인공지능부터 변화하는 소비자 선호도에 이르기까지, 기업들이 급격한 변화에 어떻게 대응하고 있는지를 심도 있게 검토했다.",
-      "symbol": "",
-      "sentiment_score": 0.4505,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/30/tmt-newswire/pr-newswire/sm-investments-makes-case-for-long-term-thinking-amid-rapid-change/2435694",
-      "cross_verified": true,
-      "published_at": "2026-09-30T04:08:17.000000Z"
-    },
-    {
-      "title": "Chinese Stocks Decline: Key Movers on September 30",
-      "title_ko": "중국 증시 하락: 9월 30일 주요 등락 종목",
-      "snippet": "On September 30, most popular Chinese stocks experienced declines, with the Nasdaq China Golden Dragon Index (HXC) falling by 1.55%. Among the few gainers, Taiw",
-      "snippet_ko": "9월 30일, 대부분의 인기 중국주들이 하락세를 보였으며, 나스닥 차이나 골든 드래곤 지수(HXC)는 1.55% 하락했다. 소수의 상승 종목 중에는 타이완...",
-      "symbol": "",
-      "sentiment_score": -0.2263,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9102118/chinese-stocks-decline-key-movers-on-september-30",
-      "cross_verified": true,
-      "published_at": "2026-09-29T21:50:12.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Market Rally Sustains Momentum as Financials and Commodities Lead Afternoon Gains",
+      "title_ko": "금융주와 원자재주가 오후 상승세를 주도하며 시장 반등세가 탄력을 받고 있다",
+      "snippet": "U.S. equity markets maintained a positive trajectory during Friday afternoon trading on October 9, 2026, as investors balanced optimistic economic sentiment",
+      "snippet_ko": "2026년 10월 9일 금요일 오후 거래에서 미국 주식 시장은 투자자들이 낙관적인 경제 심리를 반영하며 상승세를 이어갔다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2884,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/market-rally-sustains-momentum-as-financials-and-commodities-lead-afternoon-gains/72802/",
+      "cross_verified": true,
+      "published_at": "2026-10-09T18:07:14.000000Z"
+    },
+    {
+      "title": "Starbucks (SBUX) and Chipotle (CMG): Could a Potential Takeover Backfire?",
+      "title_ko": "스타벅스(SBUX)와 치폴레(CMG): 잠재적인 인수 시도가 역효과를 낳을 수 있을까?",
+      "snippet": "Starbucks Corporation (NASDAQ:SBUX) is reportedly exploring a takeover of Chipotle Mexican Grill, Inc. (NYSE:CMG), which has a market capitalization of approximately $41 billion.",
+      "snippet_ko": "보도에 따르면 스타벅스 코퍼레이션(NASDAQ:SBUX)은 시가총액이 약 410억 달러인 치폴레 멕시칸 그릴(NYSE:CMG)의 인수를 검토 중인 것으로 알려졌다.",
+      "symbol": "KO",
+      "sentiment_score": 0.3137,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/starbucks-sbux-and-chipotle-cmg-could-a-potential-takeover-backfire-1851695/",
+      "cross_verified": true,
+      "published_at": "2026-10-09T17:47:30.000000Z"
+    },
+    {
+      "title": "Meta’s (META) Sales Jumped 28% While Free Cash Flow Shrank. Can Muse Close the Gap?",
+      "title_ko": "메타(META)의 매출은 28% 급증한 반면, 자유 현금 흐름은 감소했다. 뮤즈가 이 격차를 좁힐 수 있을까?",
+      "snippet": "Meta Platforms' (NASDAQ:META) revenue grew 28% in fiscal Q2 2026, to $60.80 billion.",
+      "snippet_ko": "메타 플랫폼스(나스닥: META)의 2026 회계연도 2분기 매출은 28% 증가해 608억 달러를 기록했다.",
+      "symbol": "META",
+      "sentiment_score": 0.7506,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/meta-meta-sales-jumped-28-while-free-cash-flow-shrank-can-muse-close-the-gap-1849928/",
+      "cross_verified": true,
+      "published_at": "2026-10-09T16:12:11.000000Z"
+    },
+    {
+      "title": "Netflix layoffs on cards? Streaming giant plans to cut 5% of workforce as early as next week, says report",
+      "title_ko": "넷플릭스, 구조조정 예고? 보도에 따르면 이 스트리밍 업계의 거대 기업은 빠르면 다음 주부터 직원 수의 5%를 감원할 계획이라고 한다",
+      "snippet": "Netflix is reportedly preparing to cut about 5% of its workforce. The company has expanded into live events, podcasts and games while pursuing new revenue streams. It is scheduled to report quarterly earnings on October 20.",
+      "snippet_ko": "보도에 따르면 넷플릭스는 전체 인력의 약 5%를 감원할 준비를 하고 있는 것으로 알려졌다. 이 회사는 새로운 수익원을 모색하며 라이브 이벤트, 팟캐스트, 게임 분야로 사업을 확장해 왔다. 넷플릭스는 10월 20일에 분기 실적을 발표할 예정이다.",
+      "symbol": "NFLX",
+      "sentiment_score": -0.1551,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/news/netflix-layoffs-on-cards-streaming-giant-plans-to-cut-5-of-workforce-as-early-as-next-week-says-report-11791568522049.html",
+      "cross_verified": true,
+      "published_at": "2026-10-09T18:33:55.000000Z"
+    },
     {
       "title": "Broadcom Stock: The Market Is Likely Looking At OpenAI/Anthropic All Wrong (NASDAQ:AVGO)",
       "title_ko": "브로드컴 주가: 시장은 오픈AI와 앤트로픽을 완전히 잘못 보고 있을 가능성이 높다 (나스닥: AVGO)",
@@ -2355,54 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9104607/graham-capital-management-lp-acquires-2598680-shares-of-healthy-choice-wellness-corp-hcwc",
       "cross_verified": true,
       "published_at": "2026-10-01T01:32:34.000000Z"
-    },
-    {
-      "title": "Levi Strauss Names John Vandemore as CFO, LEVI Stock Shows Dividend Strength",
-      "title_ko": "리바이 스트라우스, 존 밴더모어를 최고재무책임자(CFO)로 임명… LEVI 주가, 배당 강세 보여",
-      "snippet": "On September 30, 2026, Levi Strauss & Co. (NYSE: LEVI) announced the appointment of John Vandemore as its new executive vice president and chief financial offic",
-      "snippet_ko": "2026년 9월 30일, Levi Strauss & Co. (NYSE: LEVI)는 존 밴더모어를 신임 부사장 겸 최고재무책임자(CFO)로 임명했다고 발표했다.",
-      "symbol": "DIS",
-      "sentiment_score": 0.3564,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9104370/levi-strauss-names-john-vandemore-as-cfo-levi-stock-shows-dividend-strength",
-      "cross_verified": true,
-      "published_at": "2026-09-30T23:01:55.000000Z"
-    },
-    {
-      "title": "Is MP Materials Corp (MP) Overvalued After 4.1% Rally? GF Value Says Overvalued",
-      "title_ko": "MP 머티리얼스(MP) 주가가 4.1% 급등한 후 과대평가된 것일까? GF 밸류는 과대평가됐다고 분석한다",
-      "snippet": "On September 30, 2026, MP Materials Corp (MP) shares rose 4.1% today, trading at $47.29. The stock has seen significant volatility over the past year, with a 52",
-      "snippet_ko": "2026년 9월 30일, MP 머티리얼스(MP)의 주가는 이날 4.1% 상승하여 47.29달러에 거래되었습니다. 이 주식은 지난 1년 동안 상당한 변동성을 보였으며, 52",
-      "symbol": "MP",
-      "sentiment_score": 0.3888,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9104310/is-mp-materials-corp-mp-overvalued-after-41-rally-gf-value-says-overvalued",
-      "cross_verified": true,
-      "published_at": "2026-09-30T22:51:13.000000Z"
-    },
-    {
-      "title": "Is DraftKings Inc (DKNG) a Bargain After 3.0% Drop? GF Value Says Undervalued",
-      "title_ko": "DraftKings Inc(DKNG)가 3.0% 하락한 지금 매수 기회일까? GF Value는 저평가되었다고 분석한다",
-      "snippet": "On September 30, 2026, DraftKings Inc (DKNG) shares fell 3.0% to a current price of $19.00. The stock has experienced significant volatility, with a 52-week ran",
-      "snippet_ko": "2026년 9월 30일, 드래프트킹스(DraftKings Inc, DKNG) 주가는 3.0% 하락하여 현재 주가는 19.00달러를 기록했습니다. 이 주식은 상당한 변동성을 보였으며, 52주 동안의 등락폭은",
-      "symbol": "DKNG",
-      "sentiment_score": 0.377,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9104306/is-draftkings-inc-dkng-a-bargain-after-30-drop-gf-value-says-undervalued",
-      "cross_verified": true,
-      "published_at": "2026-09-30T22:50:14.000000Z"
-    },
-    {
-      "title": "OpenAI Faces Stunning Lawsuit Over Rogue AI Agent",
-      "title_ko": "OpenAI, 악성 AI 에이전트 문제로 충격적인 소송에 직면",
-      "snippet": "Microsoft-backed (MSFT) OpenAI is facing fresh legal scrutiny after a California nonprofit sued the ChatGPT maker over allegations that hundreds of its autonomo",
-      "snippet_ko": "마이크로소프트(MSFT)가 지원하는 오픈AI(OpenAI)가 캘리포니아의 한 비영리 단체로부터 소송을 당하며 새로운 법적 조사에 직면했다. 이 단체는 오픈AI가 수백 명의 자율...",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3716,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9103211/openai-faces-stunning-lawsuit-over-rogue-ai-agent",
-      "cross_verified": true,
-      "published_at": "2026-09-30T18:05:43.000000Z"
     }
   ]
 }
