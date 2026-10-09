@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-09T19:22:50.362695+00:00",
+  "updated_at": "2026-10-09T23:55:29.060144+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Fabrinet: The AI Infrastructure Opportunity Is Bigger Than Valuation Suggests (NYSE:FN)",
+      "title_ko": "파브리넷: AI 인프라 시장의 성장 잠재력은 현재 기업 가치 평가가 시사하는 것보다 훨씬 크다 (NYSE:FN)",
+      "snippet": "Fabrinet gets a Strong Buy rating, as its growing role in AI optical networking, DCI, and HPC could drive strong earnings growth through 2028. Read more on FN.",
+      "snippet_ko": "파브리넷(Fabrinet)은 AI 광네트워크, DCI 및 HPC 분야에서 점차 확대되는 입지 덕분에 2028년까지 강력한 실적 성장을 이끌어낼 것으로 예상되어 ‘강력 매수(Strong Buy)’ 등급을 받았습니다. FN에서 자세한 내용을 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.4215,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953182-fabrinet-the-ai-infrastructure-opportunity-is-bigger-than-valuation-suggests",
+      "cross_verified": true,
+      "published_at": "2026-10-09T22:05:43.000000Z"
+    },
+    {
+      "title": "Walmart recalls 4.4 million grill brushes over serious injury risk",
+      "title_ko": "월마트, 심각한 부상 위험으로 440만 개의 그릴 청소용 솔 리콜",
+      "snippet": "Walmart is recalling nearly 4.5 million Expert Grill brushes over concerns that metal bristles could break off, stick to food and cause serious internal injuries",
+      "snippet_ko": "월마트는 금속 브러시 모가 부러져 음식물에 달라붙어 심각한 내부 부상을 초래할 수 있다는 우려로, 약 450만 개의 ‘Expert Grill’ 브러시를 리콜하고 있습니다.",
+      "symbol": "",
+      "sentiment_score": -0.069,
+      "source": "video.foxbusiness.com",
+      "url": "https://www.foxbusiness.com/lifestyle/walmart-recalls-4-4-million-grill-brushes-over-serious-injury-risk",
+      "cross_verified": true,
+      "published_at": "2026-10-09T22:03:38.000000Z"
+    },
     {
       "title": "Zeta Global: An AI Comeback Story, Accelerating Organic Growth Amid M&A (NYSE:ZETA)",
       "title_ko": "제타 글로벌: AI의 재도약 이야기, M&A 속에서도 유기적 성장을 가속화하다 (NYSE:ZETA)",
@@ -1177,33 +1201,57 @@
       "url": "https://seekingalpha.com/article/4950896-dxp-enterprises-stock-signals-sustainable-12-2-percent-adjusted-ebitda-margin-boosting-case-for-rerating",
       "cross_verified": true,
       "published_at": "2026-09-30T11:30:30.000000Z"
-    },
-    {
-      "title": "MongoDB, Inc. (MDB) Analyst/Investor Day - Slideshow (NASDAQ:MDB) 2026-09-30",
-      "title_ko": "MongoDB, Inc. (MDB) 애널리스트/투자자 설명회 - 슬라이드쇼 (NASDAQ:MDB) 2026-09-30",
-      "snippet": "2026-09-30. The following slide deck was published by MongoDB, Inc.",
-      "snippet_ko": "2026년 9월 30일. 다음 슬라이드 자료는 MongoDB, Inc.에서 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4950865-mongodb-inc-mdb-analyst-investor-day-slideshow",
-      "cross_verified": true,
-      "published_at": "2026-09-30T04:32:24.000000Z"
-    },
-    {
-      "title": "Monument Reports Fourth Quarter and Fiscal 2026 Results",
-      "title_ko": "모뉴먼트, 4분기 및 2026 회계연도 실적 발표",
-      "snippet": "Gross Revenue of US$165.72 Million and Cash Cost of US$1,243/Oz",
-      "snippet_ko": "총 매출 1억 6,572만 달러, 현금 원가 온스당 1,243달러",
-      "symbol": "",
-      "sentiment_score": -0.1589,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/09/30/tmt-newswire/globenewswire/monument-reports-fourth-quarter-and-fiscal-2026-results/2435706",
-      "cross_verified": true,
-      "published_at": "2026-09-30T04:12:03.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Depreciation Subtleties: S&P Earnings Are Vastly Overstated (NYSEARCA:SPY)",
+      "title_ko": "감가상각의 미묘한 점: S&P 수익이 크게 과대평가되어 있다 (NYSEARCA:SPY)",
+      "snippet": "The S&P 500 trades at 18.8X forward and 26.15X trailing earnings, both well above historical norms and likely understated. Read the full analysis here.",
+      "snippet_ko": "S&P 500 지수의 미래 예상 주가수익비율(PER)은 18.8배, 과거 실적 기준 주가수익비율(PER)은 26.15배로, 두 수치 모두 역사적 평균을 훨씬 상회하며 실제보다 낮게 평가된 것으로 보입니다. 전체 분석 내용은 여기에서 확인하세요.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.0636,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953181-depreciation-subtleties-s-and-p-earnings-are-vastly-overstated",
+      "cross_verified": true,
+      "published_at": "2026-10-09T21:49:13.000000Z"
+    },
+    {
+      "title": "Markets Edge Higher on Tech Strength and AI Optimism; Earnings Season Looms",
+      "title_ko": "기술주 강세와 AI에 대한 낙관론에 힘입어 증시 소폭 상승… 실적 발표 시즌 임박",
+      "snippet": "U.S. equity markets maintained a positive trajectory on Friday, October 9th, 2026, as investors navigated a landscape of resilient economic data and continued",
+      "snippet_ko": "2026년 10월 9일 금요일, 미국 주식 시장은 견조한 경제 지표와 지속적인",
+      "symbol": "AAPL",
+      "sentiment_score": 0.0816,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/markets-edge-higher-on-tech-strength-and-ai-optimism-earnings-season-looms/72811/",
+      "cross_verified": true,
+      "published_at": "2026-10-09T21:07:12.000000Z"
+    },
+    {
+      "title": "Coca-Cola Consolidated, Inc. Announces Fourth Quarter Dividend",
+      "title_ko": "코카콜라 컨솔리데이티드(Coca-Cola Consolidated, Inc.)가 4분기 배당금 지급을 발표했습니다.",
+      "snippet": "CHARLOTTE, N.C., Oct. 09, 2026 (GLOBE NEWSWIRE) -- Coca-Cola Consolidated, Inc. (NASDAQ: COKE) announced that its Board of Directors has declared a dividend for the fourth quarter of 2026 of $0.25 per share on shares of the Company's Common Stock and Class B Common Stock payable on November 6, 2026, to stockholders of record as of the close of business on October 23, 2026.",
+      "snippet_ko": "노스캐롤라이나주 샬럿, 2026년 10월 9일 (GLOBE NEWSWIRE) -- 코카콜라 컨솔리데이티드(Coca-Cola Consolidated, Inc.)(나스닥: COKE)는 이사회가 2026년 4분기 배당금으로 자사의 보통주 및 B종 보통주 1주당 0.25달러를 결정했으며, 이는 2026년 11월 6일에 2026년 10월 23일 영업 종료 시점 기준 주주명부에 등재된 주주들에게 지급될 것이라고 밝혔다.",
+      "symbol": "KO",
+      "sentiment_score": 0.0346,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/10/tmt-newswire/globenewswire/coca-cola-consolidated-inc-announces-fourth-quarter-dividend/2442918",
+      "cross_verified": true,
+      "published_at": "2026-10-09T20:17:35.000000Z"
+    },
+    {
+      "title": "Alignment Healthcare downgraded at BofA after CMS Star Rating for MA contract (ALHC:NASDAQ)",
+      "title_ko": "BofA, CMS의 MA 계약 별점 평가 결과 발표 후 Alignment Healthcare의 투자의견 하향 조정 (ALHC:NASDAQ)",
+      "snippet": "BofA downgrades Alignment Healthcare after CMS cuts key California Medicare Advantage contract Star Rating to 3.5. Read more here. Read more here.",
+      "snippet_ko": "CMS가 캘리포니아주 메디케어 어드밴티지 주요 계약에 대한 별점 평가를 3.5로 하향 조정한 데 따라, BofA가 Alignment Healthcare의 신용등급을 하향 조정했습니다. 자세한 내용은 여기에서 확인하세요. 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "MA",
+      "sentiment_score": 0.148,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4651897-alignment-healthcare-downgraded-bofa-after-cms-star-rating-ma-contract",
+      "cross_verified": true,
+      "published_at": "2026-10-09T21:59:09.000000Z"
+    },
     {
       "title": "Market Rally Sustains Momentum as Financials and Commodities Lead Afternoon Gains",
       "title_ko": "금융주와 원자재주가 오후 상승세를 주도하며 시장 반등세가 탄력을 받고 있다",
@@ -2355,54 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9105228/broadcom-avgo-to-lend-42-billion-to-anthropic-strengthening-its-role-in-ai-chip-design",
       "cross_verified": true,
       "published_at": "2026-10-01T11:56:46.000000Z"
-    },
-    {
-      "title": "Treasuries' Worst Quarter Since '94",
-      "title_ko": "1994년 이후 최악의 분기를 기록한 국채 시장",
-      "snippet": "Bond yields hit 20-year highs in the worst quarter for US Treasuries this century. Read more.",
-      "snippet_ko": "미국 국채 시장이 금세기 들어 최악의 분기를 기록하는 가운데, 채권 수익률이 20년 만에 최고치를 경신했다. 자세히 보기.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.2231,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4951265-treasuries-worst-quarter-since-94",
-      "cross_verified": true,
-      "published_at": "2026-10-01T11:30:44.000000Z"
-    },
-    {
-      "title": "Trump’s AI lunch included every major tech company. Except Apple",
-      "title_ko": "트럼프의 AI 점심 모임에는 모든 주요 기술 기업이 참석했다. 애플만 빼고 말이다.",
-      "snippet": "Apple's absence from Trump's AI lunch raised eyebrows, but the company is known to look out for its own interests.",
-      "snippet_ko": "트럼프 대통령의 AI 오찬에 애플이 참석하지 않은 것은 의아함을 자아냈지만, 이 회사는 자사의 이익을 우선시하는 것으로 알려져 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2595,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/30/trumps-ai-lunch-included-everyone-but-apple.html",
-      "cross_verified": true,
-      "published_at": "2026-10-01T02:07:06.000000Z"
-    },
-    {
-      "title": "PICTET ASSET MANAGEMENT SA Trims Dynatrace Inc (DT) Stake -- Shares Look 18% Undervalued on GF Value",
-      "title_ko": "피크테 자산운용(PICTET ASSET MANAGEMENT SA), 다이나트레이스(Dynatrace Inc, DT) 지분 축소 -- GF Value 기준 주가가 18% 저평가된 것으로 분석",
-      "snippet": "A Minor Adjustment to a Major Position PICTET ASSET MANAGEMENT SA (Trades, Portfolio) disclosed a reduction in its holdings of Dynatrace Inc (DT) on 2026-09-24.",
-      "snippet_ko": "주요 포지션에 대한 소폭 조정: PICTET ASSET MANAGEMENT SA(거래 내역, 포트폴리오)는 2026년 9월 24일, Dynatrace Inc(DT) 보유 지분을 축소했다고 밝혔다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2143,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9104613/pictet-asset-management-sa-trims-dynatrace-inc-dt-stake-shares-look-18-undervalued-on-gf-value",
-      "cross_verified": true,
-      "published_at": "2026-10-01T01:34:50.000000Z"
-    },
-    {
-      "title": "Graham Capital Management, L.P. Acquires 2,598,680 Shares of Healthy Choice Wellness Corp (HCWC)",
-      "title_ko": "그레이엄 캐피털 매니지먼트(L.P.)가 헬시 초이스 웰니스 코퍼레이션(HCWC) 주식 2,598,680주를 인수했다.",
-      "snippet": "A New Position in a Challenging Consumer Landscape On 2026-09-17, Graham Capital Management, L.P. (Trades, Portfolio) disclosed a significant new position in He",
-      "snippet_ko": "변화무쌍한 소비자 시장 환경 속의 신규 포지션 2026년 9월 17일, Graham Capital Management, L.P. (거래 내역, 포트폴리오)는 He에 대한 상당한 규모의 신규 포지션을 공시했다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.2023,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9104607/graham-capital-management-lp-acquires-2598680-shares-of-healthy-choice-wellness-corp-hcwc",
-      "cross_verified": true,
-      "published_at": "2026-10-01T01:32:34.000000Z"
     }
   ]
 }
