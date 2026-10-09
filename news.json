@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-09T05:38:41.149833+00:00",
+  "updated_at": "2026-10-09T12:57:38.328295+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Selling Bodycote: Another World-Leading U.K. Company Taken Over (BYPLF)",
+      "title_ko": "바디코트 매각: 또 하나의 세계적 영국 기업이 인수되었다 (BYPLF)",
+      "snippet": "Bodycote, the world’s leading metallurgical heat & surface treatment business, is about to be taken over by a private equity firm. Read more here.",
+      "snippet_ko": "세계 최고의 야금 열처리 및 표면 처리 기업인 바디코트(Bodycote)가 사모펀드에 인수될 예정입니다. 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953059-selling-bodycote-another-world-leading-uk-company-taken-over",
+      "cross_verified": true,
+      "published_at": "2026-10-09T12:10:00.000000Z"
+    },
+    {
+      "title": "ClearBridge Large Cap Value Strategy Q3 2026 Commentary",
+      "title_ko": "클리어브리지 대형주 가치 투자 전략 2026년 3분기 분석 보고서",
+      "snippet": "ClearBridge Large Cap Value Strategy posted a positive return but trailed the Russell 1000 Value Index.",
+      "snippet_ko": "클리어브리지 대형주 가치 투자 전략은 플러스 수익률을 기록했으나 러셀 1000 가치 지수에는 미치지 못했다.",
+      "symbol": "",
+      "sentiment_score": 0.2732,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953045-clearbridge-large-cap-value-strategy-q3-2026-commentary",
+      "cross_verified": true,
+      "published_at": "2026-10-09T12:02:00.000000Z"
+    },
     {
       "title": "AI Bubble Risks Worst S&P 500 Crash Since 2008, Strategist Says",
       "title_ko": "전략가 “AI 버블로 인해 2008년 이후 최악의 S&P 500 폭락 우려”",
@@ -1177,33 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9102118/chinese-stocks-decline-key-movers-on-september-30",
       "cross_verified": true,
       "published_at": "2026-09-29T21:50:12.000000Z"
-    },
-    {
-      "title": "Progress Software Q3 2026 Earnings Preview (NASDAQ:PRGS)",
-      "title_ko": "프로그레스 소프트웨어 2026년 3분기 실적 전망 (나스닥:PRGS)",
-      "snippet": "Progress Software (PRGS) reports Q3 earnings Sept 30 after close.",
-      "snippet_ko": "프로그레스 소프트웨어(PRGS)는 9월 30일 장 마감 후 3분기 실적을 발표한다.",
-      "symbol": "",
-      "sentiment_score": 0.4215,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4648186-progress-software-q3-2026-earnings-preview",
-      "cross_verified": true,
-      "published_at": "2026-09-29T21:35:00.000000Z"
-    },
-    {
-      "title": "Alaska Airlines goes all-in on luxury with sweeping premium cabin overhaul",
-      "title_ko": "알래스카 항공, 프리미엄 객실을 대대적으로 개편하며 럭셔리 서비스에 전력을 다하고 있다",
-      "snippet": "Aurora and Leihōkū will bring luxury suites and elevated service to Alaska and Hawaiian Airlines as the carrier expands its premium cabins and lounge network.",
-      "snippet_ko": "알래스카 항공과 하와이안 항공이 프리미엄 객실 및 라운지 네트워크를 확대함에 따라, ‘오로라’와 ‘레이호쿠’는 두 항공사에 럭셔리 스위트 객실과 한 차원 높은 서비스를 제공할 예정이다.",
-      "symbol": "",
-      "sentiment_score": 0.2848,
-      "source": "video.foxbusiness.com",
-      "url": "https://www.foxbusiness.com/lifestyle/alaska-airlines-goes-all-in-luxury-sweeping-premium-cabin-overhaul",
-      "cross_verified": true,
-      "published_at": "2026-09-29T21:26:51.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Broadcom Stock: The Market Is Likely Looking At OpenAI/Anthropic All Wrong (NASDAQ:AVGO)",
+      "title_ko": "브로드컴 주가: 시장은 오픈AI와 앤트로픽을 완전히 잘못 보고 있을 가능성이 높다 (나스닥: AVGO)",
+      "snippet": "Broadcom (AVGO) remains a buy despite weakness—AI custom silicon deals with OpenAI/Anthropic, and low PEG suggests upside. See more details here.",
+      "snippet_ko": "브로드컴(AVGO)은 주가가 약세를 보이고 있음에도 여전히 매수 추천 종목이다. OpenAI 및 Anthropic과의 AI 맞춤형 반도체 계약과 낮은 PEG 지수가 상승 여력을 시사하기 때문이다. 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "AVGO",
+      "sentiment_score": -0.3515,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953048-broadcom-market-likely-looking-at-openai-anthropic-all-wrong",
+      "cross_verified": true,
+      "published_at": "2026-10-09T12:12:59.000000Z"
+    },
+    {
+      "title": "America Continues To Spend Far More Than It Has",
+      "title_ko": "미국은 여전히 수입보다 훨씬 더 많은 지출을 이어가고 있다",
+      "snippet": "U.S. deficit nears $2T as bond yields climb—PIMCO warns 10-year Treasury could hit 6%.",
+      "snippet_ko": "채권 수익률이 상승하면서 미국 재정적자가 2조 달러에 육박—PIMCO, 10년물 국채 수익률이 6%까지 오를 수 있다고 경고.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.4331,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953013-america-continues-to-spend-far-more-than-it-has",
+      "cross_verified": true,
+      "published_at": "2026-10-09T11:30:24.000000Z"
+    },
+    {
+      "title": "US Stock Market prediction for Friday: S&P 500, Dow Jones, Nasdaq, Russell 2000 eye green openings, Stocks of Nvidia, Tesla, Amazon, Apple, Verizon, SpaceX to watch out today",
+      "title_ko": "금요일 미국 증시 전망: S&P 500, 다우존스, 나스닥, 러셀 2000 지수 상승 출발 전망, 오늘 주목할 종목: 엔비디아, 테슬라, 아마존, 애플, 버라이즌, 스페이스X",
+      "snippet": "US Stock Market prediction today: Megacap growth stocks were broadly higher on the day, with Nvidia up 1.6 per cent premarket, while Tesla and Amazon.com were higher by around 1 per cent each.",
+      "snippet_ko": "오늘 미국 증시 전망: 대형 성장주들이 전반적으로 상승세를 보였으며, 엔비디아는 장전 거래에서 1.6% 상승했고, 테슬라와 아마존닷컴은 각각 약 1%씩 상승했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2126,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-prediction-for-friday-sp-500-dow-jones-nasdaq-russell-2000-eye-green-openings-stocks-of-nvidia-tesla-amazon-apple-verizon-spacex-to-watch-out-today/articleshow/134831304.cms",
+      "cross_verified": true,
+      "published_at": "2026-10-09T10:59:46.000000Z"
+    },
     {
       "title": "ClearBridge Dividend Strategy Q3 2026 Commentary",
       "title_ko": "클리어브리지 배당 전략 2026년 3분기 분석 보고서",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9103211/openai-faces-stunning-lawsuit-over-rogue-ai-agent",
       "cross_verified": true,
       "published_at": "2026-09-30T18:05:43.000000Z"
-    },
-    {
-      "title": "Anthropic IPO Reveals Unexpected AI Industry Problem",
-      "title_ko": "앤트로픽의 기업공개(IPO), AI 업계의 예상치 못한 문제점 드러내",
-      "snippet": "Anthropic's (ANTHRO) planned initial public offering is exposing a major vulnerability in its rapidly expanding AI business: nearly half its revenue depends on",
-      "snippet_ko": "앤트로픽(ANTHRO)의 예정된 기업공개(IPO)는 급속히 확장 중인 이 회사의 AI 사업에서 중대한 취약점을 드러내고 있다. 매출의 거의 절반이",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.1268,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9103044/anthropic-ipo-reveals-unexpected-ai-industry-problem",
-      "cross_verified": true,
-      "published_at": "2026-09-30T18:01:56.000000Z"
-    },
-    {
-      "title": "Bill Gates Sends Stark AI Warning to All Americans",
-      "title_ko": "빌 게이츠, 모든 미국인에게 AI에 대한 강력한 경고를 보내다",
-      "snippet": "Microsoft (MSFT) co-founder Bill Gates has issued a stark warning about artificial intelligence, arguing that governments urgently need to establish an oversigh",
-      "snippet_ko": "마이크로소프트(MSFT)의 공동 창업자 빌 게이츠는 인공지능에 대해 엄중한 경고를 내리며, 각국 정부가 시급히 감독 체계를 마련해야 한다고 주장했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.0,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9103033/bill-gates-sends-stark-ai-warning-to-all-americans",
-      "cross_verified": true,
-      "published_at": "2026-09-30T17:59:10.000000Z"
-    },
-    {
-      "title": "First Trust NASDAQ-100 Tech (QTEC) Sells $4.9 Million More Intel on Sept. 28",
-      "title_ko": "퍼스트 트러스트 나스닥-100 테크(QTEC), 9월 28일 인텔 주식 490만 달러어치 추가 매도",
-      "snippet": "First Trust NASDAQ-100 Technology Sector Index Fd (QTEC) continued a recent trend of trimming its holdings on Monday, selling $159.6 million in stocks and makin",
-      "snippet_ko": "퍼스트 트러스트 나스닥-100 기술 부문 지수 펀드(QTEC)는 월요일에도 최근 이어져 온 보유 자산 축소 추세를 이어가며, 1억 5,960만 달러 상당의 주식을 매도하고",
-      "symbol": "META",
-      "sentiment_score": 0.2415,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9103027/first-trust-nasdaq100-tech-qtec-sells-49-million-more-intel-on-sept-28",
-      "cross_verified": true,
-      "published_at": "2026-09-30T11:04:00.000000Z"
     }
   ]
 }
