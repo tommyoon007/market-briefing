@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-10T05:26:21.697873+00:00",
+  "updated_at": "2026-10-10T12:15:18.237799+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Union Pacific Stock: Not Too Late To Buy Now (NYSE:UNP)",
+      "title_ko": "유니온 퍼시픽 주식: 지금 매수해도 늦지 않았다 (NYSE:UNP)",
+      "snippet": "Union Pacific's total operating revenue jumped 11.5% over the year-ago period to $6.86 billion during the quarter. Read why UNP stock is a buy.",
+      "snippet_ko": "유니온 퍼시픽의 이번 분기 총 영업 수익은 전년 동기 대비 11.5% 증가한 68억 6천만 달러를 기록했습니다. UNP 주식을 매수해야 하는 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953230-union-pacific-not-too-late-to-buy-now",
+      "cross_verified": true,
+      "published_at": "2026-10-10T11:20:00.000000Z"
+    },
+    {
+      "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+      "title_ko": "엔비디아 GPU는 어디에나 있습니다. 기업들이 이를 활용하는 방법은 다음과 같습니다.",
+      "snippet": "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year.",
+      "snippet_ko": "한 업계 연구원은 GPU 용량을 제공할 수 있는 ‘네오클라우드’를 300개 이상 파악했는데, 이는 1년도 채 되지 않는 기간 동안 약 55% 증가한 수치다.",
+      "symbol": "",
+      "sentiment_score": 0.482,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
+      "cross_verified": true,
+      "published_at": "2026-10-10T11:00:01.000000Z"
+    },
+    {
+      "title": "What Moved Markets This Week",
+      "title_ko": "이번 주 시장을 움직인 요인",
+      "snippet": "U.S. stocks ended the trading week higher, as the Federal Reserve's meeting minutes reaffirmed a hawkish stance. Read more about this week's major events on Wall Street.",
+      "snippet_ko": "연방준비제도(Fed) 회의록에서 매파적 기조가 재확인되면서 미국 증시는 이번 주 거래를 상승세로 마감했다. 이번 주 월스트리트의 주요 소식에 대해 자세히 알아보세요.",
+      "symbol": "",
+      "sentiment_score": 0.2312,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953253-what-moved-markets-this-week",
+      "cross_verified": true,
+      "published_at": "2026-10-10T10:40:05.000000Z"
+    },
     {
       "title": "Glaukos Stock: The Second J-Code Rewrites The Risk Math (NYSE:GKOS)",
       "title_ko": "글라우코스 주식: 두 번째 J-코드가 위험 계산식을 다시 정립하다 (NYSE:GKOS)",
@@ -1165,42 +1201,6 @@
       "url": "https://www.gurufocus.com/news/9104414/alaska-air-group-inc-alk-stock-down-31-now-undervalued-gf-score-79100",
       "cross_verified": true,
       "published_at": "2026-09-30T23:27:30.000000Z"
-    },
-    {
-      "title": "CEO Richard Moore Sells 23,343 Shares of First Bancorp (FBNC)",
-      "title_ko": "리처드 무어 CEO, 퍼스트 뱅크코프(FBNC) 주식 23,343주 매도",
-      "snippet": "In a recent regulatory disclosure, Richard Moore, Chief Executive Officer of First Bancorp (FBNC), reported the sale of 23,343 shares of the company's common st",
-      "snippet_ko": "최근 규제 당국에 제출한 공시에서 퍼스트 뱅크코프(FBNC)의 리처드 무어 최고경영자(CEO)는 자사 보통주 23,343주를 매도했다고 보고했다.",
-      "symbol": "",
-      "sentiment_score": 0.3182,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9103984/ceo-richard-moore-sells-23343-shares-of-first-bancorp-fbnc",
-      "cross_verified": true,
-      "published_at": "2026-09-30T19:00:19.000000Z"
-    },
-    {
-      "title": "Delaware Court Ruling Boosts MannKind (MNKD) Outlook Amid Liquidia Patent Dispute",
-      "title_ko": "리퀴디아와의 특허 분쟁 속, 델라웨어 법원 판결로 맨킨드(MNKD)의 전망이 밝아졌다",
-      "snippet": "On September 30, 2026, a Delaware court ruled that Liquidia's Yutrepia infringes on United Therapeutics' patent, a decision that negatively impacted Liquidia's",
-      "snippet_ko": "2026년 9월 30일, 델라웨어 주 법원은 리퀴디아(Liquidia)의 ‘유트레피아(Yutrepia)’가 유나이티드 테라퓨틱스(United Therapeutics)의 특허를 침해한다고 판결했으며, 이 판결은 리퀴디아에 부정적인 영향을 미쳤다.",
-      "symbol": "",
-      "sentiment_score": 0.2823,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9103957/delaware-court-ruling-boosts-mannkind-mnkd-outlook-amid-liquidia-patent-dispute",
-      "cross_verified": true,
-      "published_at": "2026-09-30T18:25:48.000000Z"
-    },
-    {
-      "title": "SEC Settlement with Travel+Leisure Co (TNL) Highlights Regulatory Challenges Amid Dividend Strength",
-      "title_ko": "SEC와 트래블+레저(TNL) 간의 합의, 배당 실적 호조 속 규제 과제를 부각시키다",
-      "snippet": "On September 30, 2026, the Securities and Exchange Commission (SEC) announced a settlement with Travel+Leisure Co (NYSE: TNL) concerning allegations of misstate",
-      "snippet_ko": "2026년 9월 30일, 미국 증권거래위원회(SEC)는 Travel+Leisure Co(NYSE: TNL)가 재무제표를 허위로 기재했다는 혐의와 관련해 해당 기업과 합의에 도달했다고 발표했다.",
-      "symbol": "",
-      "sentiment_score": 0.3758,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9103956/sec-settlement-with-travelleisure-co-tnl-highlights-regulatory-challenges-amid-dividend-strength",
-      "cross_verified": true,
-      "published_at": "2026-09-30T18:25:27.000000Z"
     }
   ],
   "portfolio_news": [
