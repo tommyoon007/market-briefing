@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-09T23:55:29.060144+00:00",
+  "updated_at": "2026-10-10T05:26:21.697873+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Glaukos Stock: The Second J-Code Rewrites The Risk Math (NYSE:GKOS)",
+      "title_ko": "글라우코스 주식: 두 번째 J-코드가 위험 계산식을 다시 정립하다 (NYSE:GKOS)",
+      "snippet": "Glaukos (GKOS) Q2 sales +50% as iDose TR & Epioxa drive 85% gross margin; 2026 guide raised. Read here for a detailed investment analysis.",
+      "snippet_ko": "글라우코스(GKOS), iDose TR 및 Epioxa가 85%의 매출총이익률을 견인하며 2분기 매출 50% 증가; 2026년 실적 전망치 상향 조정. 자세한 투자 분석은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": -0.1366,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953195-glaukos-the-second-j-code-rewrites-the-risk-math",
+      "cross_verified": true,
+      "published_at": "2026-10-10T03:42:31.000000Z"
+    },
+    {
+      "title": "Graco Stock Is Too Expensive For Optimism (NYSE:GGG)",
+      "title_ko": "그라코 주가는 낙관론에 비해 너무 비싸다 (NYSE:GGG)",
+      "snippet": "Graco (GGG) stock stays a hold as organic growth lags and valuation isn’t compelling. Read here for a detailed investment analysis.",
+      "snippet_ko": "그라코(GGG) 주식은 내재적 성장세가 부진하고 기업 가치 평가가 매력적이지 않아 ‘보유’ 등급을 유지합니다. 자세한 투자 분석은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.5423,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953194-graco-is-too-expensive-for-optimism",
+      "cross_verified": true,
+      "published_at": "2026-10-10T02:42:45.000000Z"
+    },
+    {
+      "title": "Wall Street finishes its record-setting week with gains",
+      "title_ko": "월가, 사상 최고치를 기록한 한 주를 상승세로 마감했다",
+      "snippet": "NEW YORK — The US stock market finished its record-setting week with gains on Friday, even as other financial markets remained indecisive.",
+      "snippet_ko": "뉴욕 — 다른 금융시장이 여전히 등락을 거듭하는 가운데, 미국 증시는 금요일 상승세로 마감하며 사상 최고치를 경신한 한 주를 마무리했다.",
+      "symbol": "",
+      "sentiment_score": -0.5,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/10/business/foreign-business/wall-street-finishes-its-record-setting-week-with-gains/2442983",
+      "cross_verified": true,
+      "published_at": "2026-10-10T02:35:25.000000Z"
+    },
     {
       "title": "Fabrinet: The AI Infrastructure Opportunity Is Bigger Than Valuation Suggests (NYSE:FN)",
       "title_ko": "파브리넷: AI 인프라 시장의 성장 잠재력은 현재 기업 가치 평가가 시사하는 것보다 훨씬 크다 (NYSE:FN)",
@@ -1165,45 +1201,33 @@
       "url": "https://www.gurufocus.com/news/9103956/sec-settlement-with-travelleisure-co-tnl-highlights-regulatory-challenges-amid-dividend-strength",
       "cross_verified": true,
       "published_at": "2026-09-30T18:25:27.000000Z"
-    },
-    {
-      "title": "AI is giving CFOs a bigger slice of the C-suite, new IBM data shows",
-      "title_ko": "IBM의 새로운 데이터에 따르면, AI 덕분에 CFO들이 최고경영진 내에서 차지하는 비중이 커지고 있다",
-      "snippet": "Jim Kavanaugh, IBM’s CFO and SVP of finance and operations, says AI is shifting CFOs from “guardians of stability” to “agents of transformation.”",
-      "snippet_ko": "IBM의 최고재무책임자(CFO)이자 재무·운영 담당 수석부사장인 짐 카바노는 AI 덕분에 CFO들이 “안정성의 수호자”에서 “변혁의 주체”로 변모하고 있다고 말했다.",
-      "symbol": "",
-      "sentiment_score": 0.134,
-      "source": "fortune.com",
-      "url": "https://fortune.com/2026/09/30/ai-giving-cfo-bigger-slice-c-suite-new-ibm-data-shows/",
-      "cross_verified": true,
-      "published_at": "2026-09-30T11:35:50.000000Z"
-    },
-    {
-      "title": "Micron earnings hit Wall Street after the bell. Here's how traders are positioned into the report",
-      "title_ko": "마이크론의 실적 발표가 장 마감 후 월스트리트에 영향을 미쳤다. 트레이더들이 이번 실적 발표를 앞두고 어떤 포지션을 취하고 있는지 살펴보자.",
-      "snippet": "In the near term, the market needs to get through Micron earnings. The good news is options traders think it could be a slam dunk.",
-      "snippet_ko": "단기적으로는 시장이 마이크론의 실적 발표를 무사히 넘겨야 합니다. 다행인 점은 옵션 거래자들이 이번 실적 발표가 아주 수월할 것이라고 보고 있다는 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/30/micron-earnings-hit-wall-street-after-the-bell-heres-how-traders-are-positioned-into-the-report.html",
-      "cross_verified": true,
-      "published_at": "2026-09-30T11:34:45.000000Z"
-    },
-    {
-      "title": "DXP Enterprises Signals Sustainable 12.2% Adjusted EBITDA Margin, Case For Rerating",
-      "title_ko": "DXP 엔터프라이즈, 12.2%의 견실한 조정 EBITDA 마진 기록… 주가 재평가 근거 제시",
-      "snippet": "DXP Enterprises is executing a successful roll-up strategy, driving structural margin expansion and warranting a valuation rerating. I rate DXPE stock as Strong Buy.",
-      "snippet_ko": "DXP 엔터프라이즈는 성공적인 롤업 전략을 추진하며 구조적인 마진 확대를 이끌고 있어, 기업 가치 재평가가 정당화됩니다. 저는 DXPE 주식을 ‘강력 매수’로 평가합니다.",
-      "symbol": "",
-      "sentiment_score": 0.3891,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4950896-dxp-enterprises-stock-signals-sustainable-12-2-percent-adjusted-ebitda-margin-boosting-case-for-rerating",
-      "cross_verified": true,
-      "published_at": "2026-09-30T11:30:30.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Will AI Devalue The Real World?",
+      "title_ko": "AI가 현실 세계의 가치를 떨어뜨릴까?",
+      "snippet": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+      "snippet_ko": "ZeroHedge - 시간이 충분히 길어지면, 모든 사람의 생존율은 0으로 떨어진다",
+      "symbol": "KO",
+      "sentiment_score": -0.1027,
+      "source": "zerohedge.com",
+      "url": "https://www.zerohedge.com/ai/will-ai-devalue-real-world",
+      "cross_verified": true,
+      "published_at": "2026-10-10T00:55:00.000000Z"
+    },
+    {
+      "title": "Meta’s Second New Mexico Loss This Year: What It Means for Meta Stock",
+      "title_ko": "메타, 올해 뉴멕시코주에서 두 번째 패배: 메타 주가에 미치는 영향",
+      "snippet": "A New Mexico jury has found Meta Platforms, Inc. (NASDAQ:META) liable for more than 43 million privacy-law violations.",
+      "snippet_ko": "뉴멕시코주 배심원단은 메타 플랫폼스(Meta Platforms, Inc., 나스닥: META)가 4,300만 건 이상의 개인정보 보호법 위반에 대한 책임이 있다고 판결했다.",
+      "symbol": "META",
+      "sentiment_score": -0.5267,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/metas-second-new-mexico-loss-this-year-what-it-means-for-meta-stock-1848676/",
+      "cross_verified": true,
+      "published_at": "2026-10-09T22:08:30.000000Z"
+    },
     {
       "title": "Depreciation Subtleties: S&P Earnings Are Vastly Overstated (NYSEARCA:SPY)",
       "title_ko": "감가상각의 미묘한 점: S&P 수익이 크게 과대평가되어 있다 (NYSEARCA:SPY)",
@@ -2379,30 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9106162/morgan-stanley-lowers-apple-aapl-price-target-amid-mixed-revenue-outlook",
       "cross_verified": true,
       "published_at": "2026-10-01T18:00:50.000000Z"
-    },
-    {
-      "title": "Disney (DIS) Expands Cruise Fleet with Two New Ships, Boosting Capacity by 50%",
-      "title_ko": "디즈니(DIS), 신규 선박 2척을 추가해 크루즈 선단을 확장하며 수용 인원을 50% 늘렸다",
-      "snippet": "On October 01, 2026, The Walt Disney Company (NYSE: DIS) announced the launch of two new cruise ships, Disney Destiny and Disney Adventure, significantly expand",
-      "snippet_ko": "2026년 10월 1일, 월트 디즈니 컴퍼니(NYSE: DIS)는 ‘디즈니 데스티니’와 ‘디즈니 어드벤처’라는 두 척의 새로운 크루즈 선박을 취항한다고 발표하며, 이를 통해 사업 규모를 대폭 확장했다.",
-      "symbol": "DIS",
-      "sentiment_score": 0.6089,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9105229/disney-dis-expands-cruise-fleet-with-two-new-ships-boosting-capacity-by-50",
-      "cross_verified": true,
-      "published_at": "2026-10-01T11:57:10.000000Z"
-    },
-    {
-      "title": "Broadcom (AVGO) to Lend $42 Billion to Anthropic, Strengthening Its Role in AI Chip Design",
-      "title_ko": "브로드컴(AVGO), 앤트로픽에 420억 달러 대출… AI 칩 설계 분야 입지 강화",
-      "snippet": "On October 01, 2026, Broadcom Inc (NASDAQ: AVGO) announced a landmark financing arrangement to lend Anthropic up to $42 billion to support its infrastructure in",
-      "snippet_ko": "2026년 10월 1일, 브로드컴(Broadcom Inc, 나스닥: AVGO)은 앤트로픽(Anthropic)의 인프라 구축을 지원하기 위해 최대 420억 달러를 대출해 주는 획기적인 자금 조달 계약을 발표했습니다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.6254,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9105228/broadcom-avgo-to-lend-42-billion-to-anthropic-strengthening-its-role-in-ai-chip-design",
-      "cross_verified": true,
-      "published_at": "2026-10-01T11:56:46.000000Z"
     }
   ]
 }
