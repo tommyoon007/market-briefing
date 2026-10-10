@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-10T18:23:21.848985+00:00",
+  "updated_at": "2026-10-10T23:22:47.912198+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Value the CBA share price using its dividend yield",
+      "title_ko": "배당 수익률을 바탕으로 CBA 주가를 평가한다",
+      "snippet": "Is the Commonwealth Bank of Australia (ASX: CBA) share price good value? Here are 2 ways you can put a number on it.",
+      "snippet_ko": "호주 커먼웰스 은행(ASX: CBA)의 주가는 매수할 만한 가치가 있을까요? 이를 수치적으로 평가할 수 있는 두 가지 방법을 소개합니다.",
+      "symbol": "",
+      "sentiment_score": 0.9055,
+      "source": "raskmedia.com.au",
+      "url": "https://www.raskmedia.com.au/2026/10/11/value-the-cba-share-price-using-its-dividend-yield-48/",
+      "cross_verified": true,
+      "published_at": "2026-10-10T19:40:08.000000Z"
+    },
+    {
+      "title": "Dell (DELL) Has Outpaced the S&P 500 by a Wide Stretch. Will the AI-Fueled Run Continue?",
+      "title_ko": "델(DELL)은 S&P 500 지수를 훨씬 앞질렀다. AI에 힘입은 상승세가 계속될까?",
+      "snippet": "Much of the recent growth for Dell Technologies Inc. (NYSE:DELL) has come through hardware sales, which is a lower-margin, high-volume avenue for the overall business.",
+      "snippet_ko": "델 테크놀로지스(Dell Technologies Inc., NYSE:DELL)의 최근 성장 대부분은 하드웨어 판매를 통해 이루어졌는데, 이는 전체 사업에서 마진은 낮지만 판매량이 많은 분야입니다.",
+      "symbol": "",
+      "sentiment_score": 0.3818,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/dell-dell-has-outpaced-the-sp-500-by-a-wide-stretch-will-the-ai-fueled-run-continue-1850913/",
+      "cross_verified": true,
+      "published_at": "2026-10-10T17:40:29.000000Z"
+    },
     {
       "title": "The balance sheets that can throw AI ‘off’ balance",
       "title_ko": "AI의 균형을 ‘무너뜨릴’ 수 있는 대차대조표",
@@ -1177,33 +1201,21 @@
       "url": "https://www.gurufocus.com/news/9104650/kmx-swot-analysis-financial-strengths-and-growth-opportunities-revealed-in-10q-filing",
       "cross_verified": true,
       "published_at": "2026-10-01T05:00:48.000000Z"
-    },
-    {
-      "title": "Washington Trust Bancorp: 100-Year Track Record Of Dividends Supports A 6% Yield",
-      "title_ko": "워싱턴 트러스트 뱅코프: 100년에 걸친 배당 실적이 6%의 배당 수익률을 뒷받침한다",
-      "snippet": "Washington Trust's Q2 2026 results exceeded expectations with NIM at 2.73%, net income up 3% QoQ, and CET1 ratio at a robust 11.9%. See why WASH stock is a Buy.",
-      "snippet_ko": "워싱턴 트러스트의 2026년 2분기 실적은 순이자마진(NIM) 2.73%, 순이익 전분기 대비 3% 증가, CET1 비율 11.9%를 기록하며 기대치를 상회했습니다. WASH 주식을 ‘매수’로 추천하는 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.3397,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4951240-washington-trust-bancorp-stock-100-year-track-record-of-dividends-supports-6-percent-yield",
-      "cross_verified": true,
-      "published_at": "2026-10-01T04:47:37.000000Z"
-    },
-    {
-      "title": "DoorDash Launches DashOS, Expanding Local Commerce Role Amid POS Competition (DASH)",
-      "title_ko": "DoorDash, POS 시장 경쟁 속 지역 상거래 역할 확대 위해 ‘DashOS’ 출시 (DASH)",
-      "snippet": "On September 30, 2026, DoorDash Inc (NASDAQ: DASH) unveiled DashOS, a platform extension aimed at transforming the company from a meal delivery service into a b",
-      "snippet_ko": "2026년 9월 30일, DoorDash Inc(나스닥: DASH)는 자사를 음식 배달 서비스에서 b로 전환하기 위한 플랫폼 확장인 ‘DashOS’를 공개했다.",
-      "symbol": "",
-      "sentiment_score": 0.502,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9104641/doordash-launches-dashos-expanding-local-commerce-role-amid-pos-competition-dash",
-      "cross_verified": true,
-      "published_at": "2026-10-01T04:25:31.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Tesla (TSLA) Deliveries Beat Expectations. But TSLA’s 159x Forward P/E Is Betting on Much More",
+      "title_ko": "테슬라(TSLA)의 인도 대수가 시장 예상을 상회했다. 하지만 TSLA의 159배에 달하는 미래 주가수익비율(P/E)은 훨씬 더 큰 성장을 기대하고 있음을 시사한다.",
+      "snippet": "Tesla, Inc. (NASDAQ:TSLA) delivered 486,532 vehicles in the third quarter, comfortably above company-compiled consensus of 461,974 and down only 2% from a year earlier.",
+      "snippet_ko": "테슬라(Tesla, Inc.)(나스닥: TSLA)는 3분기에 486,532대의 차량을 인도했으며, 이는 회사가 집계한 시장 예상치인 461,974대를 여유 있게 상회한 수치이자 전년 동기 대비 단 2% 감소한 수준이다.",
+      "symbol": "TSLA",
+      "sentiment_score": 0.3022,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/tesla-tsla-deliveries-beat-expectations-but-tslas-159x-forward-p-e-is-betting-on-much-more-1850381/",
+      "cross_verified": true,
+      "published_at": "2026-10-10T17:22:16.000000Z"
+    },
     {
       "title": "Inside Silicon Valley's bet on a new path to landing a job in the AI era",
       "title_ko": "AI 시대에 일자리를 얻기 위한 새로운 길을 모색하는 실리콘밸리의 전략 속으로",
@@ -2391,18 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/can-reality-labs-ever-earn-enough-to-justify-metas-spending-1847257/",
       "cross_verified": true,
       "published_at": "2026-10-01T21:39:13.000000Z"
-    },
-    {
-      "title": "How Much Must Google Cloud Be Worth to Justify Alphabet’s Valuation?",
-      "title_ko": "알파벳의 기업 가치를 정당화하려면 구글 클라우드의 가치는 어느 정도여야 할까?",
-      "snippet": "Alphabet Inc. (NASDAQ:GOOGL) now has a cloud business large enough to change the valuation discussion.",
-      "snippet_ko": "알파벳(Alphabet Inc., 나스닥: GOOGL)은 이제 기업 가치 평가에 대한 논의를 바꿀 만큼 규모가 큰 클라우드 사업을 보유하고 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.476,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/how-much-must-google-cloud-be-worth-to-justify-alphabets-valuation-1847253/",
-      "cross_verified": true,
-      "published_at": "2026-10-01T21:16:43.000000Z"
     }
   ]
 }
