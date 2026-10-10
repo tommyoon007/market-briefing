@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-10T12:15:18.237799+00:00",
+  "updated_at": "2026-10-10T18:23:21.848985+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "The balance sheets that can throw AI ‘off’ balance",
+      "title_ko": "AI의 균형을 ‘무너뜨릴’ 수 있는 대차대조표",
+      "snippet": "Explains off-balance-sheet debt and VIEs shaping AI finance, with case studies, risks, and consolidation pitfalls for investors.",
+      "snippet_ko": "AI 금융을 주도하는 대차대조표 외 부채와 VIE(변경된 실체)에 대해 설명하며, 사례 연구, 위험 요소 및 투자자가 주의해야 할 연결 재무제표 작성 시의 함정을 다룹니다.",
+      "symbol": "",
+      "sentiment_score": 0.2553,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/portfolio/big-story/the-balance-sheets-that-can-throw-ai-off-balance/article71565147.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-10T16:36:42.000000Z"
+    },
+    {
+      "title": "Jabil: The Market Is Still Underestimating Its AI Earnings Potential (NYSE:JBL)",
+      "title_ko": "제이블: 시장은 여전히 이 회사의 AI 수익 잠재력을 과소평가하고 있다 (NYSE:JBL)",
+      "snippet": "Strong Buy thesis on Jabil (JBL): $446 price target (49% upside), AI-driven growth and margin expansion, plus undervalued PEG.",
+      "snippet_ko": "Jabil(JBL)에 대한 ‘강력 매수’ 근거: 목표주가 446달러(상승 여력 49%), AI 주도 성장 및 마진 확대, 그리고 저평가된 PEG.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953293-jabil-the-market-is-still-underestimating-its-ai-earnings-potential",
+      "cross_verified": true,
+      "published_at": "2026-10-10T16:33:04.000000Z"
+    },
+    {
+      "title": "CME Group: I Missed The Best Entry (NASDAQ:CME)",
+      "title_ko": "CME 그룹: 최고의 매수 시점을 놓쳤다 (NASDAQ:CME)",
+      "snippet": "CME’s (CME) core business remains strong, with Q3 ADV up 16% YoY and international ADV up 22%.",
+      "snippet_ko": "CME(CME)의 핵심 사업은 여전히 견조한 모습을 보이고 있으며, 3분기 일평균 거래량(ADV)은 전년 동기 대비 16% 증가했고, 해외 일평균 거래량(ADV)은 22% 증가했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.4588,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953288-cme-group-i-missed-the-best-entry",
+      "cross_verified": true,
+      "published_at": "2026-10-10T16:16:20.000000Z"
+    },
     {
       "title": "Union Pacific Stock: Not Too Late To Buy Now (NYSE:UNP)",
       "title_ko": "유니온 퍼시픽 주식: 지금 매수해도 늦지 않았다 (NYSE:UNP)",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9104641/doordash-launches-dashos-expanding-local-commerce-role-amid-pos-competition-dash",
       "cross_verified": true,
       "published_at": "2026-10-01T04:25:31.000000Z"
-    },
-    {
-      "title": "A Look at Par Pacific Holdings Inc (PARR) After 4.2% Gain -- GF Value $43.60 vs Price $81.62",
-      "title_ko": "4.2% 상승한 파 파시픽 홀딩스(PARR) 분석 — GF 목표가 43.60달러 vs 현재 주가 81.62달러",
-      "snippet": "On September 30, 2026, Par Pacific Holdings Inc (PARR) shares rose 4.2% today, closing at $81.62. The stock has experienced significant volatility over the past",
-      "snippet_ko": "2026년 9월 30일, Par Pacific Holdings Inc(PARR)의 주가는 이날 4.2% 상승하여 81.62달러에 장을 마감했습니다. 이 주식은 지난",
-      "symbol": "",
-      "sentiment_score": 0.6748,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9104416/a-look-at-par-pacific-holdings-inc-parr-after-42-gain-gf-value-4360-vs-price-8162",
-      "cross_verified": true,
-      "published_at": "2026-09-30T23:29:22.000000Z"
-    },
-    {
-      "title": "Patterson-UTI Energy Inc (PTEN) Shares Surge 3.5% -- What GF Score of 64 Tells Investors",
-      "title_ko": "패터슨-UTI 에너지(PTEN) 주가 3.5% 급등 -- GF 점수 64점이 투자자들에게 시사하는 바",
-      "snippet": "On September 30, 2026, Patterson-UTI Energy Inc (PTEN) shares rose 3.5% to a current price of $10.92. The stock has experienced a 52-week range from $5.15 to $1",
-      "snippet_ko": "2026년 9월 30일, 패터슨-UTI 에너지(Patterson-UTI Energy Inc, PTEN)의 주가는 3.5% 상승하여 현재 10.92달러를 기록했습니다. 이 주식의 52주 등락폭은 5.15달러에서 1달러 사이였습니다.",
-      "symbol": "",
-      "sentiment_score": 0.5997,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9104415/pattersonuti-energy-inc-pten-shares-surge-35-what-gf-score-of-64-tells-investors",
-      "cross_verified": true,
-      "published_at": "2026-09-30T23:28:26.000000Z"
-    },
-    {
-      "title": "Alaska Air Group Inc (ALK) Stock Down 3.1% -- Now Undervalued? GF Score: 79/100",
-      "title_ko": "알래스카 에어 그룹(ALK) 주가 3.1% 하락… 현재 저평가된 상태인가? GF 점수: 79/100",
-      "snippet": "On September 30, 2026, Alaska Air Group Inc (ALK) shares fell by 3.1% to a current price of $38.70, continuing a downward trend over the past month with a decli",
-      "snippet_ko": "2026년 9월 30일, 알래스카 에어 그룹(ALK)의 주가는 3.1% 하락하여 현재 주가는 38.70달러를 기록했으며, 이는 지난 한 달 동안 이어져 온 하락세를 지속한 것으로, 하락폭은...",
-      "symbol": "",
-      "sentiment_score": 0.4365,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9104414/alaska-air-group-inc-alk-stock-down-31-now-undervalued-gf-score-79100",
-      "cross_verified": true,
-      "published_at": "2026-09-30T23:27:30.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Inside Silicon Valley's bet on a new path to landing a job in the AI era",
+      "title_ko": "AI 시대에 일자리를 얻기 위한 새로운 길을 모색하는 실리콘밸리의 전략 속으로",
+      "snippet": "Horowitz Andreessen Academy CEO Gagan Biyani explains why the AI-focused program is betting on \"proof of work\" as an alternative path for young tech builders.",
+      "snippet_ko": "호로비츠 안드레센 아카데미(Horowitz Andreessen Academy)의 CEO 가간 비야니(Gagan Biyani)는 AI 중심 프로그램이 젊은 기술 개발자들을 위한 대안적 경로로 ‘작업 증명(proof of work)’에 주목하는 이유를 설명한다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.5362,
+      "source": "foxbusiness.com",
+      "url": "https://www.foxbusiness.com/technology/inside-silicon-valleys-bet-new-path-landing-job-ai-era",
+      "cross_verified": true,
+      "published_at": "2026-10-10T16:00:29.000000Z"
+    },
+    {
+      "title": "Stocks saw new highs and big declines: How the volatile AI trade moved last week's market",
+      "title_ko": "주가는 사상 최고치를 경신하기도 하고 급락하기도 했다: 지난주 시장을 주도한 변동성 큰 AI 관련 매매 동향",
+      "snippet": "Looking to balance out our AI exposure, we put more of our sizable cash pile to work.",
+      "snippet_ko": "AI 관련 투자 비중을 균형 있게 조정하기 위해, 우리는 상당한 규모의 현금 보유액 중 더 많은 부분을 투자에 활용했다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.5555,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html",
+      "cross_verified": true,
+      "published_at": "2026-10-10T15:30:51.000000Z"
+    },
+    {
+      "title": "Broadcom’s AI Revenue Is Tripling, but the Stock Has Lagged. Is It Time to Load Up?",
+      "title_ko": "브로드컴의 AI 매출은 3배로 늘고 있지만 주가는 부진한 모습을 보이고 있다. 이제 매수할 때일까?",
+      "snippet": "Broadcom Inc. (NASDAQ:AVGO) shares jumped 3.7% on October 6, building on gains from earlier in the month. The push came from Marvell’s investor day.",
+      "snippet_ko": "브로드컴(Broadcom Inc., 나스닥: AVGO)의 주가는 10월 6일 3.7% 급등하며 이달 초부터 이어진 상승세를 이어갔다. 이러한 상승세는 마벨(Marvell)의 투자자 설명회에서 비롯된 것이다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.507,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/broadcoms-ai-revenue-is-tripling-but-the-stock-has-lagged-is-it-time-to-load-up-1850874/",
+      "cross_verified": true,
+      "published_at": "2026-10-10T14:43:43.000000Z"
+    },
     {
       "title": "Will AI Devalue The Real World?",
       "title_ko": "AI가 현실 세계의 가치를 떨어뜨릴까?",
@@ -2367,42 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/how-much-must-google-cloud-be-worth-to-justify-alphabets-valuation-1847253/",
       "cross_verified": true,
       "published_at": "2026-10-01T21:16:43.000000Z"
-    },
-    {
-      "title": "Disney’s Walden Says She Would Be Interested in Buying ‘Bluey’",
-      "title_ko": "디즈니의 월든, ‘블루이’ 인수에 관심이 있다고 밝혀",
-      "snippet": "Dana Walden, the president and chief creative officer of Walt Disney Co., said she “would offer a lot of money,” to Joe Brumm, the creator of the company’s popular Bluey TV series, if the opportunity ever arose to buy the intellectual property.",
-      "snippet_ko": "월트 디즈니 컴퍼니의 사장 겸 최고 크리에이티브 책임자인 다나 월든은, 자사의 인기 TV 시리즈 ‘블루이’의 제작자인 조 브럼에게 해당 지적재산권을 매입할 기회가 생긴다면 “상당한 금액을 제시하겠다”고 말했다.",
-      "symbol": "DIS",
-      "sentiment_score": 0.5667,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/disneys-walden-says-she-would-be-interested-in-buying-bluey-11790880603411.html",
-      "cross_verified": true,
-      "published_at": "2026-10-01T18:50:02.000000Z"
-    },
-    {
-      "title": "Amazon Unveils Redesigned Kindle E-Readers with Advanced Display Tech (AMZN)",
-      "title_ko": "아마존, 첨단 디스플레이 기술을 탑재한 새롭게 디자인된 킨들 전자책 리더기 공개 (AMZN)",
-      "snippet": "On October 01, 2026, Amazon.com Inc (NASDAQ: AMZN) launched a completely reimagined series of Kindle e-readers featuring innovative design breakthroughs and sus",
-      "snippet_ko": "2026년 10월 1일, Amazon.com Inc(나스닥: AMZN)는 혁신적인 디자인과 기능을 갖춘, 완전히 새롭게 재탄생한 킨들(Kindle) 전자책 리더기 시리즈를 출시했습니다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.4481,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9106180/amazon-unveils-redesigned-kindle-ereaders-with-advanced-display-tech-amzn",
-      "cross_verified": true,
-      "published_at": "2026-10-01T18:26:14.000000Z"
-    },
-    {
-      "title": "Morgan Stanley Lowers Apple (AAPL) Price Target Amid Mixed Revenue Outlook",
-      "title_ko": "모건 스탠리, 혼재된 매출 전망 속에 애플(AAPL) 목표주가 하향 조정",
-      "snippet": "On October 01, 2026, Morgan Stanley updated its revenue projections for Apple Inc (AAPL) following the company's recent product launch, which highlighted improv",
-      "snippet_ko": "2026년 10월 1일, 모건 스탠리는 애플(AAPL)의 최근 신제품 출시를 계기로 해당 기업의 매출 전망치를 상향 조정했는데, 이번 출시를 통해 개선된 점이 부각되었기 때문이다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4031,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9106162/morgan-stanley-lowers-apple-aapl-price-target-amid-mixed-revenue-outlook",
-      "cross_verified": true,
-      "published_at": "2026-10-01T18:00:50.000000Z"
     }
   ]
 }
