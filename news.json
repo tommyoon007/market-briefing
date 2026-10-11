@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-11T05:14:42.490517+00:00",
+  "updated_at": "2026-10-11T12:30:50.687116+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "RBI's rupee-defence measures may offer near-term relief, say analysts",
+      "title_ko": "분석가들은 인도 중앙은행(RBI)의 루피화 방어 조치가 단기적으로 숨통을 틔워줄 수 있다고 전망한다",
+      "snippet": "RBI's special dollar window for oil companies and tighter forex derivative rules could ease spot demand and forward premiums, but global pressures may keep the rupee weak",
+      "snippet_ko": "석유 기업을 위한 인도 중앙은행(RBI)의 특별 달러 창구와 외환 파생상품 규제의 강화로 현물 수요와 선물 프리미엄이 완화될 수 있겠지만, 글로벌 압력으로 인해 루피화 약세가 지속될 수 있다",
+      "symbol": "",
+      "sentiment_score": 0.5267,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/economy/news/rbi-s-rupee-defence-measures-may-offer-near-term-relief-say-analysts-126101100471_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-11T11:54:16.000000Z"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
+      "title_ko": "장 개장 전: 월요일 주식 시장 흐름을 좌우할 10가지 요인",
+      "snippet": "Sensex and Nifty snapped their eight-week losing streak on Friday, surging over 1% as IT stocks rallied and crude prices eased. The rebound added more than Rs 4 lakh crore to BSE-listed companies market capitalisation, while positive market breadth favoured bulls.",
+      "snippet_ko": "금요일, 센섹스와 니프티 지수는 IT주 반등과 원유 가격 하락에 힘입어 1% 이상 급등하며 8주 연속 하락세를 끊었다. 이번 반등으로 BSE 상장 기업들의 시가총액이 4 lakh crore 루피 이상 증가했으며, 긍정적인 시장 폭은 강세장에 유리하게 작용했다.",
+      "symbol": "",
+      "sentiment_score": 0.316,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/134869422.cms",
+      "cross_verified": true,
+      "published_at": "2026-10-11T11:18:54.000000Z"
+    },
+    {
+      "title": "ITT: A Bigger Flow Business Can Compound An Already Strong Core (NYSE:ITT)",
+      "title_ko": "ITT: 확대되는 유체 처리 사업, 이미 탄탄한 핵심 사업 부문의 성장에 시너지를 더할 전망 (NYSE:ITT)",
+      "snippet": "ITT Inc. rated Buy: SPX FLOW acquisition, aftermarket growth and productivity gains could lift EPS to ~$9.40 by 2027. Click for more on ITT stock.",
+      "snippet_ko": "ITT Inc., ‘매수’ 등급 부여: SPX FLOW 인수, 애프터마켓 성장 및 생산성 향상으로 2027년까지 주당순이익(EPS)이 약 9.40달러까지 상승할 전망. ITT 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.5106,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953324-itt-a-bigger-flow-business-can-compound-an-already-strong-core",
+      "cross_verified": true,
+      "published_at": "2026-10-11T10:18:42.000000Z"
+    },
     {
       "title": "CEFS: Changing Its Distribution To 12%, What That Means For You (BATS:CEFS)",
       "title_ko": "CEFS: 배당률 12%로 조정, 이것이 투자자에게 의미하는 바 (BATS:CEFS)",
@@ -1165,42 +1201,6 @@
       "url": "https://seekingalpha.com/article/4951475-progress-software-ai-risk-demands-a-bigger-discount",
       "cross_verified": true,
       "published_at": "2026-10-01T22:32:03.000000Z"
-    },
-    {
-      "title": "One day, two Anups; one Saha, one Bagchi at helm of two big banks",
-      "title_ko": "어느 날, 두 명의 아누프; 두 대형 은행의 수장 자리에 사하와 바그치가 각각 자리 잡았다",
-      "snippet": "Both Anup Kumar Saha and Anup Bagchi have served ICICI in the past, and are graduates of IIT and IIM.",
-      "snippet_ko": "아누프 쿠마르 사하와 아누프 바그치는 모두 과거에 ICICI에서 근무한 적이 있으며, IIT와 IIM을 졸업했습니다.",
-      "symbol": "",
-      "sentiment_score": 0.2635,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/one-day-two-anups-one-saha-one-bagchi-at-helm-of-two-big-banks-meet-ex-icici-and-iit-iim-alumni-banks-banked-upon-11790878388600.html",
-      "cross_verified": true,
-      "published_at": "2026-10-01T18:43:21.000000Z"
-    },
-    {
-      "title": "Pinterest Offers An Ad Moat At A Ridiculously Cheap Price (NYSE:PINS)",
-      "title_ko": "Pinterest, 터무니없이 저렴한 가격에 광고 경쟁 우위를 제공한다 (NYSE:PINS)",
-      "snippet": "Pinterest looks deeply undervalued at 9.3x forward P/E, with strong ad fundamentals, AI-driven growth, and 60% upside to $30. Click for more on PINS stock.",
-      "snippet_ko": "Pinterest는 향후 주가수익비율(P/E)이 9.3배로 상당히 저평가된 것으로 보이며, 탄탄한 광고 실적 기반과 AI 주도 성장세를 바탕으로 30달러까지 60%의 상승 여력이 있습니다. PINS 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": -0.4052,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4951439-pinterest-offers-an-ad-moat-at-a-ridiculously-cheap-price",
-      "cross_verified": true,
-      "published_at": "2026-10-01T18:43:13.000000Z"
-    },
-    {
-      "title": "Nouveau Monde Graphite (NMG) to Settle Q3 2026 Interest via Share Issuance",
-      "title_ko": "누보 몽드 그래파이트(NMG), 2026년 3분기 이자금을 주식 발행으로 정산할 예정",
-      "snippet": "On October 01, 2026, Nouveau Monde Graphite Inc (NMG) announced it will settle accrued interest owed to Investissement Quebec by issuing 283,265 common shares p",
-      "snippet_ko": "2026년 10월 1일, 누보 몽드 그래파이트(Nouveau Monde Graphite Inc, NMG)는 인베스티스망 퀘벡(Investissement Quebec)에 지급해야 할 미지급 이자를 283,265주의 보통주를 발행하여 상환할 것이라고 발표했습니다.",
-      "symbol": "",
-      "sentiment_score": 0.3187,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9105286/nouveau-monde-graphite-nmg-to-settle-q3-2026-interest-via-share-issuance",
-      "cross_verified": true,
-      "published_at": "2026-10-01T12:26:46.000000Z"
     }
   ],
   "portfolio_news": [
