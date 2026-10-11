@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-11T18:44:02.951413+00:00",
+  "updated_at": "2026-10-11T23:32:37.591753+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Weekend Market Report: Near Records, Sector Splits, and a Busy Week Ahead",
+      "title_ko": "주말 시장 보고서: 사상 최고치에 근접, 업종별 엇갈린 흐름, 그리고 바쁜 한 주가 예상됨",
+      "snippet": "The market closed out another solid week with the major indexes finishing higher and hovering just off record territory. The S&P 500 gained roughly 1.2 percent to finish near 7811, the Dow rose about 0.9 percent, and the Nasdaq added around 0.6 percent. Small caps lagged, with the Russell 2000…",
+      "snippet_ko": "주요 지수들이 상승 마감하며 사상 최고치 바로 아래 수준에서 등락을 거듭한 가운데, 시장은 또 한 주를 견조한 흐름으로 마감했다. S&P 500 지수는 약 1.2% 상승해 7811선 부근에서 마감했고, 다우 지수는 약 0.9% 올랐으며, 나스닥 지수는 약 0.6% 상승했다. 소형주들은 부진한 모습을 보였으며, 러셀 2000 지수는…",
+      "symbol": "",
+      "sentiment_score": 0.3064,
+      "source": "upsidetrader.com",
+      "url": "https://www.upsidetrader.com/2026/10/11/weekend-market-report-near-records-sector-splits-and-a-busy-week-ahead/",
+      "cross_verified": true,
+      "published_at": "2026-10-11T21:54:52.000000Z"
+    },
+    {
+      "title": "Donaldson Stock: The Replacement Filter Business Has A Second Engine (NYSE:DCI)",
+      "title_ko": "도널드슨 주식: 교체용 필터 사업에 두 번째 성장 동력이 있다 (NYSE:DCI)",
+      "snippet": "Donaldson (DCI) rated Buy: recurring replacement demand, diversified filtration, and M&A drive margin recovery and EPS upside—see valuation and risks.",
+      "snippet_ko": "도널드슨(DCI) 매수 추천: 지속적인 교체 수요, 다각화된 여과 사업, 그리고 인수합병(M&A)이 마진 회복과 주당순이익(EPS) 상승을 견인하고 있음—평가 및 위험 요인 참조.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953369-donaldson-the-replacement-filter-business-has-a-second-engine",
+      "cross_verified": true,
+      "published_at": "2026-10-11T20:39:46.000000Z"
+    },
     {
       "title": "Ovintiv: The Company Will Survive But I Can Do Better Elsewhere (NYSE:OVV)",
       "title_ko": "오빈티브: 회사는 살아남겠지만, 나는 다른 곳에서 더 잘할 수 있다 (NYSE:OVV)",
@@ -1177,33 +1201,33 @@
       "url": "https://www.thehindubusinessline.com/economy/mpc-set-to-begin-rate-hike-cycle-with-at-least-25-bps-repo-hike-sbi-economists/article71535727.ece",
       "cross_verified": true,
       "published_at": "2026-10-02T03:58:12.000000Z"
-    },
-    {
-      "title": "Market Open: ASX expected to bounce back after rough day yesterday",
-      "title_ko": "시장 개장: ASX, 어제의 부진한 장세 이후 반등할 것으로 예상된다",
-      "snippet": "A solid performance on Wall Street last night suggests that the ASX will open up in the positive today after a rough day yesterday.",
-      "snippet_ko": "어젯밤 월스트리트의 견조한 상승세를 고려할 때, 어제 힘든 하루를 보낸 ASX는 오늘 상승세로 장을 시작할 것으로 보인다.",
-      "symbol": "",
-      "sentiment_score": 0.8883,
-      "source": "themarketherald.com.au",
-      "url": "https://themarketonline.com.au/market-open-asx-expected-to-bounce-back-after-rough-day-yesterday-2026-10-02/",
-      "cross_verified": true,
-      "published_at": "2026-10-01T22:46:15.000000Z"
-    },
-    {
-      "title": "DICK'S Sporting Goods: This Sell-Off Is Not An Opportunity (NYSE:DKS)",
-      "title_ko": "딕스 스포츠 용품(DICK'S Sporting Goods): 이번 매도세는 매수 기회가 아니다 (NYSE:DKS)",
-      "snippet": "DICK'S Sporting Goods faces a severe market repricing after Foot Locker's acquisition and weak Q2 results, with shares down ~40%. Read more about the DKS stock.",
-      "snippet_ko": "딕스 스포츠용품(DICK'S Sporting Goods)은 풋락커(Foot Locker)의 인수와 부진한 2분기 실적 여파로 심각한 시장 재평가 국면에 직면해 있으며, 주가는 약 40% 하락했습니다. DKS 주식에 대해 더 자세히 알아보세요.",
-      "symbol": "",
-      "sentiment_score": -0.1349,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4951476-dicks-sporting-goods-sell-off-not-opportunity",
-      "cross_verified": true,
-      "published_at": "2026-10-01T22:33:30.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "SpaceX, Telecom Sell-Off, Micron's A Grades, Steve Cress Origin Story",
+      "title_ko": "스페이스X, 통신주 매도 물결, 마이크론의 A등급 실적, 스티브 크레스의 창업 이야기",
+      "snippet": "SpaceX’s $8B deal sparked selloff in major telecom stocks - but is it warranted? Why Micron Technology deserves its strong buy status. Steve Cress' origin story.",
+      "snippet_ko": "스페이스X의 80억 달러 규모 거래가 주요 통신주 매도 물결을 촉발했지만, 과연 타당한 일일까? 마이크론 테크놀로지가 ‘강력 매수’ 등급을 받을 만한 이유. 스티브 크레스의 성공 스토리.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.399,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953372-spacex-telecom-sell-off-microns-a-grades-steve-cress-origin-story",
+      "cross_verified": true,
+      "published_at": "2026-10-11T21:50:00.000000Z"
+    },
+    {
+      "title": "Broadcom fell 4.35% to $360.14. Was Thursday's drop about OpenAI, Anthropic, or both?",
+      "title_ko": "브로드컴 주가는 4.35% 하락한 360.14달러를 기록했다. 목요일의 주가 하락은 오픈AI 때문이었을까, 앤트로픽 때문이었을까, 아니면 둘 다 때문이었을까?",
+      "snippet": "Broadcom fell 4.35% to $360.14 on 8 October as OpenAI's revenue was put near $50 billion. Was Thursday's drop about OpenAI, about Anthropic, or about both?",
+      "snippet_ko": "10월 8일, 오픈AI의 매출이 500억 달러에 육박한다는 소식이 전해지면서 브로드컴 주가는 4.35% 하락한 360.14달러를 기록했다. 목요일의 주가 하락은 오픈AI 때문이었을까, 앤트로픽 때문이었을까, 아니면 둘 다 때문이었을까?",
+      "symbol": "AVGO",
+      "sentiment_score": 0.0414,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/broadcom-fell-4-35-percent-was-it-openai-anthropic-or-both/",
+      "cross_verified": true,
+      "published_at": "2026-10-11T16:08:39.000000Z"
+    },
     {
       "title": "Vision Capital Fund Q3 2026 Quarterly Letter",
       "title_ko": "비전 캐피털 펀드 2026년 3분기 분기 보고서",
@@ -2379,30 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9107818/mp-materials-mp-leads-mid-to-megacap-materials-sector-in-short-interest-at-1885",
       "cross_verified": true,
       "published_at": "2026-10-02T16:56:28.000000Z"
-    },
-    {
-      "title": "iShares Russell 1000 ETF (IWB) Sells NVIDIA and Apple on Sept. 30",
-      "title_ko": "iShares 러셀 1000 ETF(IWB), 9월 30일 엔비디아와 애플 지분 매도",
-      "snippet": "ETF activity was one-sided on Wednesday, Sept. 30, with no ETFs buying and one selling. iShares Russell 1000 ETF (IWB) sold $122.9 million of stocks, its gross",
-      "snippet_ko": "9월 30일 수요일, ETF 거래는 일방적인 양상을 보였는데, 매수하는 ETF는 없었고 매도하는 ETF는 하나뿐이었다. iShares Russell 1000 ETF(IWB)는 1억 2,290만 달러 상당의 주식을 매도했으며, 이는 총",
-      "symbol": "AMZN",
-      "sentiment_score": 0.3641,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9107372/ishares-russell-1000-etf-iwb-sells-nvidia-and-apple-on-sept-30",
-      "cross_verified": true,
-      "published_at": "2026-10-02T11:05:35.000000Z"
-    },
-    {
-      "title": "iShares MSCI USA Momentum Factor ETF (MTUM) Sells AMD and Micron on Sept. 30",
-      "title_ko": "iShares MSCI USA Momentum Factor ETF(MTUM), 9월 30일 AMD와 마이크론 매도",
-      "snippet": "In Wednesday's session, ETF activity for iShares MSCI USA Momentum Factor ETF (MTUM) was entirely one-sided: no ETFs were buying while MTUM was selling. The fun",
-      "snippet_ko": "수요일 거래 세션에서 iShares MSCI USA Momentum Factor ETF(MTUM)의 거래 동향은 완전히 일방적이었습니다. MTUM이 매도되는 동안 이를 매수하는 ETF는 단 한 곳도 없었습니다. 재미있는 점은",
-      "symbol": "INTC",
-      "sentiment_score": 0.6194,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9107371/ishares-msci-usa-momentum-factor-etf-mtum-sells-amd-and-micron-on-sept-30",
-      "cross_verified": true,
-      "published_at": "2026-10-02T11:05:30.000000Z"
     }
   ]
 }
