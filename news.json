@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-10T23:22:47.912198+00:00",
+  "updated_at": "2026-10-11T05:14:42.490517+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "CEFS: Changing Its Distribution To 12%, What That Means For You (BATS:CEFS)",
+      "title_ko": "CEFS: 배당률 12%로 조정, 이것이 투자자에게 의미하는 바 (BATS:CEFS)",
+      "snippet": "CEFS ETF raises its distribution to 12% and shifts to quarterly payouts.",
+      "snippet_ko": "CEFS ETF는 배당률을 12%로 인상하고 분기별 배당 방식으로 전환합니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953309-cefs-changing-its-distribution-to-12-percent-what-that-means-for-you",
+      "cross_verified": true,
+      "published_at": "2026-10-11T03:59:00.000000Z"
+    },
+    {
+      "title": "Once-hot AI trade leaves South Korean stocks struggling to attract buyers",
+      "title_ko": "한때 열기를 띠었던 AI 관련주 거래가 주춤해지면서 한국 증시는 매수세를 끌어모으는 데 어려움을 겪고 있다",
+      "snippet": "Turnover has collapsed 70% from its peak in late May, foreigners are retreating at the fastest pace in Asia and local retail investors are also pulling back",
+      "snippet_ko": "거래량은 5월 말 정점 대비 70%나 급감했으며, 외국인 투자자들은 아시아에서 가장 빠른 속도로 매도하고 있고, 국내 개인 투자자들도 매도세를 보이고 있다",
+      "symbol": "",
+      "sentiment_score": 0.2658,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/once-hot-ai-trade-leaves-south-korean-stocks-struggling-to-attract-buyers-126101100095_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-11T03:58:08.000000Z"
+    },
+    {
+      "title": "FCPI: Attractive Upside Potential Without Excessive Risk, Still A Buy (BATS:FCPI)",
+      "title_ko": "FCPI: 과도한 위험 없이 매력적인 상승 여력, 여전히 매수 추천 (BATS:FCPI)",
+      "snippet": "FCPI ETF is a buy: 28% cheaper forward P/E vs IWB, inflation-ready sector tilts, higher quality metrics, and lower beta downside protection—read now.",
+      "snippet_ko": "FCPI ETF는 매수 추천 종목입니다: IWB 대비 28% 더 저렴한 예상 주가수익비율(P/E), 인플레이션에 대비한 업종 편중, 더 우수한 품질 지표, 그리고 베타가 낮아 하락 위험에 대한 보호 효과가 있습니다—지금 바로 읽어보세요.",
+      "symbol": "",
+      "sentiment_score": 0.6037,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953308-fcpi-attractive-upside-potential-without-excessive-risk-still-a-buy",
+      "cross_verified": true,
+      "published_at": "2026-10-11T03:55:12.000000Z"
+    },
     {
       "title": "Value the CBA share price using its dividend yield",
       "title_ko": "배당 수익률을 바탕으로 CBA 주가를 평가한다",
@@ -1165,45 +1201,33 @@
       "url": "https://www.gurufocus.com/news/9105286/nouveau-monde-graphite-nmg-to-settle-q3-2026-interest-via-share-issuance",
       "cross_verified": true,
       "published_at": "2026-10-01T12:26:46.000000Z"
-    },
-    {
-      "title": "Monte Rosa Therapeutics (GLUE) Reports Promising Phase 1 Results for MRT-8102 Targeting Inflammatory Disorders",
-      "title_ko": "몬테 로사 테라퓨틱스(GLUE), 염증성 질환을 표적으로 하는 MRT-8102의 유망한 1상 임상시험 결과 발표",
-      "snippet": "On October 01, 2026, Monte Rosa Therapeutics Inc (NASDAQ: GLUE) announced encouraging data from its Phase 1 clinical trial GFORCE-1 evaluating MRT-8102, a novel",
-      "snippet_ko": "2026년 10월 1일, 몬테 로사 테라퓨틱스(Monte Rosa Therapeutics Inc, 나스닥: GLUE)는 신약 MRT-8102를 평가하는 1상 임상시험 ‘GFORCE-1’에서 고무적인 결과를 발표했습니다.",
-      "symbol": "",
-      "sentiment_score": 0.2205,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9105285/monte-rosa-therapeutics-glue-reports-promising-phase-1-results-for-mrt8102-targeting-inflammatory-disorders",
-      "cross_verified": true,
-      "published_at": "2026-10-01T12:26:21.000000Z"
-    },
-    {
-      "title": "Chesapeake Utilities (CPK) Launches $225M At-The-Market Equity Offering Program",
-      "title_ko": "체서피크 유틸리티(CPK), 2억 2,500만 달러 규모의 ‘앳-더-마켓’ 주식 발행 프로그램 시행",
-      "snippet": "On October 01, 2026, Chesapeake Utilities Corp (NYSE: CPK) announced the initiation of an at-the-market equity offering program that could raise up to $225 mill",
-      "snippet_ko": "2026년 10월 1일, 체서피크 유틸리티스(Chesapeake Utilities Corp, NYSE: CPK)는 최대 2억 2,500만 달러를 조달할 수 있는 ‘앳-더-마켓(at-the-market)’ 주식 발행 프로그램의 개시를 발표했다.",
-      "symbol": "",
-      "sentiment_score": 0.3493,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9105283/chesapeake-utilities-cpk-launches-225m-atthemarket-equity-offering-program",
-      "cross_verified": true,
-      "published_at": "2026-10-01T12:25:26.000000Z"
-    },
-    {
-      "title": "KMX SWOT Analysis: Financial Strengths and Growth Opportunities Revealed in 10-Q Filing",
-      "title_ko": "KMX SWOT 분석: 10-Q 제출 자료를 통해 드러난 재무적 강점과 성장 기회",
-      "snippet": "CarMax Inc (KMX) demonstrates strong financial performance with a GF Scoreâ„¢ of 75/100.The company is currently undervalued, with a GF Valueâ„¢ of $73.72 compa",
-      "snippet_ko": "CarMax Inc (KMX)는 GF Score™ 75/100을 기록하며 견실한 재무 실적을 보여주고 있습니다. 이 회사는 현재 저평가된 상태이며, GF Value™는 $73.72로...",
-      "symbol": "",
-      "sentiment_score": 0.5615,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9104650/kmx-swot-analysis-financial-strengths-and-growth-opportunities-revealed-in-10q-filing",
-      "cross_verified": true,
-      "published_at": "2026-10-01T05:00:48.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "AI issuers upend debt market safety valve as borrowing costs rise",
+      "title_ko": "차입 비용 상승에 따라 AI 발행사들이 채권 시장의 안전장치를 뒤흔들고 있다",
+      "snippet": "Big tech companies known as hyperscalers are willing to pay higher yields, because they're borrowing to fund artificial intelligence investments like data centers and AI chips",
+      "snippet_ko": "‘하이퍼스케일러’로 알려진 대형 기술 기업들은 데이터 센터나 AI 칩과 같은 인공지능 투자 자금을 조달하기 위해 차입을 하고 있기 때문에 더 높은 수익률을 기꺼이 지불할 의향이 있다.",
+      "symbol": "AVGO",
+      "sentiment_score": -0.0491,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/ai-issuers-upend-debt-market-safety-valve-as-borrowing-costs-rise-126101100064_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-11T03:04:42.000000Z"
+    },
+    {
+      "title": "Amazon (AMZN) Wants Investors to Finance $8 Billion of Nvidia Chips. Is AI Spending Getting Too Heavy?",
+      "title_ko": "아마존(AMZN), 투자자들에게 엔비디아 칩 80억 달러 규모 자금 조달을 요청. AI 투자 부담이 지나치게 커지고 있는 것일까?",
+      "snippet": "Amazon.com, Inc.",
+      "snippet_ko": "Amazon.com, Inc.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.5195,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/amazon-amzn-wants-investors-to-finance-8-billion-of-nvidia-chips-is-ai-spending-getting-too-heavy-1850380/",
+      "cross_verified": true,
+      "published_at": "2026-10-10T22:11:26.000000Z"
+    },
     {
       "title": "Tesla (TSLA) Deliveries Beat Expectations. But TSLA’s 159x Forward P/E Is Betting on Much More",
       "title_ko": "테슬라(TSLA)의 인도 대수가 시장 예상을 상회했다. 하지만 TSLA의 159배에 달하는 미래 주가수익비율(P/E)은 훨씬 더 큰 성장을 기대하고 있음을 시사한다.",
@@ -2379,30 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9106763/apple-inc-aapl-insider-sale-svp-general-counsel-and-government-affairs-jennifer-newstead-sells-2399-shares",
       "cross_verified": true,
       "published_at": "2026-10-02T01:00:18.000000Z"
-    },
-    {
-      "title": "Disney (DIS) Announces Major TV Division Restructuring Amid Strategic Shift",
-      "title_ko": "디즈니(DIS), 전략적 전환에 따라 TV 사업부 대대적인 구조조정 발표",
-      "snippet": "On October 01, 2026, The Walt Disney Company (NYSE: DIS) revealed a significant reorganization of its television division, spearheaded by CEO Josh D'Amaro, invo",
-      "snippet_ko": "2026년 10월 1일, 월트 디즈니 컴퍼니(NYSE: DIS)는 조쉬 다마로(Josh D'Amaro) CEO가 주도하는 TV 사업부의 대대적인 조직 개편을 발표했으며, 이에 따라",
-      "symbol": "DIS",
-      "sentiment_score": 0.486,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9106448/disney-dis-announces-major-tv-division-restructuring-amid-strategic-shift",
-      "cross_verified": true,
-      "published_at": "2026-10-01T22:00:40.000000Z"
-    },
-    {
-      "title": "Can Reality Labs Ever Earn Enough to Justify Meta’s Spending?",
-      "title_ko": "리얼리티 랩스가 메타의 투자 규모를 정당화할 만큼의 수익을 올릴 수 있을까?",
-      "snippet": "Meta Platforms, Inc. (NASDAQ:META) earns enough from its apps to fund a business that loses billions of dollars each quarter. That financial capacity gives Reality Labs time to develop.",
-      "snippet_ko": "메타 플랫폼스(Meta Platforms, Inc., 나스닥: META)는 자사 앱을 통해 매 분기 수십억 달러의 손실을 기록하는 사업 부문을 운영할 수 있을 만큼 충분한 수익을 올리고 있다. 이러한 재정적 여력 덕분에 리얼리티 랩스(Reality Labs)는 개발에 전념할 시간을 확보할 수 있다.",
-      "symbol": "META",
-      "sentiment_score": 0.4536,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/can-reality-labs-ever-earn-enough-to-justify-metas-spending-1847257/",
-      "cross_verified": true,
-      "published_at": "2026-10-01T21:39:13.000000Z"
     }
   ]
 }
