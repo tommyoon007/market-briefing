@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-11T12:30:50.687116+00:00",
+  "updated_at": "2026-10-11T18:44:02.951413+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Ovintiv: The Company Will Survive But I Can Do Better Elsewhere (NYSE:OVV)",
+      "title_ko": "오빈티브: 회사는 살아남겠지만, 나는 다른 곳에서 더 잘할 수 있다 (NYSE:OVV)",
+      "snippet": "Ovintiv (OVV) analysis: strong credit profile and investment grade stability, but better opportunities may exist.",
+      "snippet_ko": "오빈티브(OVV) 분석: 탄탄한 신용 등급과 투자 등급의 안정성을 갖추고 있으나, 더 나은 투자 기회가 있을 수 있다.",
+      "symbol": "",
+      "sentiment_score": 0.4973,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953358-ovintiv-will-survive-but-i-can-do-better-elsewhere",
+      "cross_verified": true,
+      "published_at": "2026-10-11T16:16:30.000000Z"
+    },
     {
       "title": "RBI's rupee-defence measures may offer near-term relief, say analysts",
       "title_ko": "분석가들은 인도 중앙은행(RBI)의 루피화 방어 조치가 단기적으로 숨통을 틔워줄 수 있다고 전망한다",
@@ -1189,21 +1201,57 @@
       "url": "https://seekingalpha.com/article/4951476-dicks-sporting-goods-sell-off-not-opportunity",
       "cross_verified": true,
       "published_at": "2026-10-01T22:33:30.000000Z"
-    },
-    {
-      "title": "Progress Software: AI Risk Demands A Bigger Discount (NASDAQ:PRGS)",
-      "title_ko": "프로그레스 소프트웨어: AI 관련 리스크로 인해 더 큰 할인폭 필요 (NASDAQ:PRGS)",
-      "snippet": "Progress Software Corporation's adjusted EPS rose 13% and adjusted free cash flow grew 17%, but revenue fell 2%. Click for more on PRGS stock's Hold rating.",
-      "snippet_ko": "프로그레스 소프트웨어 코퍼레이션(Progress Software Corporation)의 조정 주당순이익(EPS)은 13% 증가했고, 조정 자유현금흐름은 17% 늘었으나, 매출은 2% 감소했습니다. PRGS 주식에 대한 ‘보유(Hold)’ 등급에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.089,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4951475-progress-software-ai-risk-demands-a-bigger-discount",
-      "cross_verified": true,
-      "published_at": "2026-10-01T22:32:03.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Vision Capital Fund Q3 2026 Quarterly Letter",
+      "title_ko": "비전 캐피털 펀드 2026년 3분기 분기 보고서",
+      "snippet": "Vision Capital Fund's unaudited gross and net returns for Q3 2026 were +15.0% and +14.4%, respectively, versus +2.3% for the S&P 500. Read more here.",
+      "snippet_ko": "비전 캐피털 펀드의 2026년 3분기 미감사 총수익률과 순수익률은 각각 +15.0%와 +14.4%를 기록한 반면, S&P 500 지수의 수익률은 +2.3%를 기록했습니다. 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.2521,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953355-vision-capital-fund-q3-2026-quarterly-letter",
+      "cross_verified": true,
+      "published_at": "2026-10-11T15:44:00.000000Z"
+    },
+    {
+      "title": "Nvidia fell 2.94 percent on Thursday 8 October 2026, to $230.48, after OpenAI’s annualized revenue was put near $50 billion. Did chip stocks, rather than the rest of the Nasdaq, account for the lag?",
+      "title_ko": "2026년 10월 8일 목요일, OpenAI의 연간 매출이 500억 달러에 육박한다는 소식이 전해진 후 엔비디아 주가는 2.94% 하락해 230.48달러를 기록했다. 나스닥의 다른 종목들보다는 반도체 관련주들이 이러한 부진의 원인이었을까?",
+      "snippet": "Nvidia fell 2.94 percent on Thursday to $230.48 after OpenAI's $50 billion revenue figure. Did chip stocks, not the rest of the Nasdaq, account for the lag?",
+      "snippet_ko": "목요일, 오픈AI의 500억 달러 매출 발표 이후 엔비디아 주가는 2.94% 하락해 230.48달러를 기록했다. 나스닥의 다른 종목들이 아닌 반도체주들이 이러한 부진의 원인이었을까?",
+      "symbol": "AAPL",
+      "sentiment_score": 0.0372,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/nvidia-fell-2-94-percent-openai-50-billion-did-chips-lag-nasdaq/",
+      "cross_verified": true,
+      "published_at": "2026-10-11T15:38:39.000000Z"
+    },
+    {
+      "title": "Flipkart's former employees petition to include 20,000-30,000 of group's ex-staff in ESOP buyout: Report",
+      "title_ko": "보도에 따르면, 플립카트 전 직원들이 그룹의 전직 직원 2만~3만 명을 ESOP 매입 대상에 포함시켜 달라고 청원했다.",
+      "snippet": "Former Flipkart executives have launched a petition to get around 20,000-30,000 other former employees of the e-commerce platform and its group companies together to push for their inclusion in the planned $2 billion ESOPs buyback.",
+      "snippet_ko": "플립카트(Flipkart)의 전 임원들이 이 전자상거래 플랫폼과 계열사의 전직 직원 약 2만~3만 명을 한데 모아, 계획된 20억 달러 규모의 ESOP(직원주식보유계획) 매입 대상에 포함될 수 있도록 촉구하기 위해 청원을 시작했습니다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.0671,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/news/flipkarts-former-employees-petition-to-include-20-000-30-000-of-groups-ex-staff-in-esop-buyout-report-11791729129614.html",
+      "cross_verified": true,
+      "published_at": "2026-10-11T15:35:54.000000Z"
+    },
+    {
+      "title": "RBI's rupee defence may drain banking liquidity, ease currency pressure",
+      "title_ko": "인도 중앙은행(RBI)의 루피화 방어 조치가 은행권의 유동성을 고갈시킬 수 있으나, 통화 압박은 완화될 전망이다",
+      "snippet": "RBI has introduced measures to curb rupee volatility, which could ease immediate depreciation pressures in the currency market. These measures include limiting foreign exchange derivative contracts and increasing hedging costs for importers. Experts predict that these actions may lead to a reduction in USD/INR rates and forward premiums. However, external factors like crude oil prices may still pose challenges.",
+      "snippet_ko": "인도 중앙은행(RBI)은 루피화 변동성을 억제하기 위한 조치를 도입했으며, 이는 외환 시장에서 당면한 통화 가치 하락 압력을 완화할 수 있을 것으로 보인다. 이러한 조치에는 외환 파생상품 계약에 대한 제한 및 수입업체의 헤지 비용 인상 등이 포함된다. 전문가들은 이러한 조치가 USD/INR 환율과 선물 프리미엄의 하락으로 이어질 수 있을 것으로 전망한다. 다만, 원유 가격과 같은 외부 요인은 여전히 변수로 작용할 수 있다.",
+      "symbol": "USD",
+      "sentiment_score": -0.1848,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbis-rupee-defence-may-drain-banking-liquidity-ease-currency-pressure/articleshow/134873258.cms",
+      "cross_verified": true,
+      "published_at": "2026-10-11T16:01:37.000000Z"
+    },
     {
       "title": "AI issuers upend debt market safety valve as borrowing costs rise",
       "title_ko": "차입 비용 상승에 따라 AI 발행사들이 채권 시장의 안전장치를 뒤흔들고 있다",
@@ -2355,54 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9107371/ishares-msci-usa-momentum-factor-etf-mtum-sells-amd-and-micron-on-sept-30",
       "cross_verified": true,
       "published_at": "2026-10-02T11:05:30.000000Z"
-    },
-    {
-      "title": "ARK Next Generation Internet (ARKW) Adds Nvidia and CoreWeave on Wednesday",
-      "title_ko": "ARK 차세대 인터넷(ARKW)이 수요일 엔비디아와 코어위브를 포트폴리오에 추가했다",
-      "snippet": "ETF activity in Wednesday's session showed ARK Next Generation Internet (ARKW) buying heavily, with 34 positions increased and one decreased. The fund bought $9",
-      "snippet_ko": "수요일 장중 ETF 거래 동향을 살펴보면, ARK Next Generation Internet(ARKW)에 대한 매수세가 강세를 보였으며, 보유 포지션은 34개 증가했고 1개 감소했다. 이 펀드는 9달러를 매수했다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.6766,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9107369/ark-next-generation-internet-arkw-adds-nvidia-and-coreweave-on-wednesday",
-      "cross_verified": true,
-      "published_at": "2026-10-02T11:05:21.000000Z"
-    },
-    {
-      "title": "Delta CEO chooses Amazon’s Project Leo over Starlink, Elon Musk warns Ed Bastian ‘will lose his job’",
-      "title_ko": "델타 항공 CEO, 스타링크 대신 아마존의 ‘프로젝트 레오’ 선택… 일론 머스크, 에드 배스티안에게 “직장을 잃게 될 것”이라고 경고",
-      "snippet": "Delta Chief Executive Officer Ed Bastian is in SpaceX CEO Elon Musk’s sights for choosing Amazon.com Inc.’s Leo, the new service intended to be a Starlink alternative.",
-      "snippet_ko": "델타항공의 에드 배스티안 최고경영자(CEO)가 스타링크의 대안을 목표로 하는 아마존닷컴의 신규 서비스 ‘레오(Leo)’를 선택한 탓에 스페이스X의 일론 머스크 CEO의 표적이 되고 있다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.196,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/news/delta-ceo-chooses-amazon-s-project-leo-over-starlink-elon-musk-warns-ed-bastian-will-lose-his-job-11790910585258.html",
-      "cross_verified": true,
-      "published_at": "2026-10-02T03:38:23.000000Z"
-    },
-    {
-      "title": "Disney Restructures TV Operations Amid Global Sanctions and Fed Inflation Hawkishness",
-      "title_ko": "디즈니, 전 세계적 제재와 연준의 강경한 인플레이션 대응 속에서 TV 사업 구조 조정",
-      "snippet": "The Walt Disney Company (DIS) has initiated a new round of layoffs affecting hundreds of employees within its television division. This move is part of a",
-      "snippet_ko": "월트 디즈니 컴퍼니(DIS)가 자사 텔레비전 사업부 소속 수백 명의 직원을 대상으로 한 새로운 감원 조치를 단행했습니다. 이번 조치는",
-      "symbol": "DIS",
-      "sentiment_score": -0.125,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/disney-restructures-tv-operations-amid-global-sanctions-and-fed-inflation-hawkishness/72498/",
-      "cross_verified": true,
-      "published_at": "2026-10-02T01:08:12.000000Z"
-    },
-    {
-      "title": "Apple Inc (AAPL) Insider Sale: SVP, General Counsel and Government Affairs Jennifer Newstead Sells 2,399 Shares",
-      "title_ko": "애플(AAPL) 내부자 매도: 수석 부사장 겸 법무·정부 관계 총괄 제니퍼 뉴스테드, 2,399주 매도",
-      "snippet": "Jennifer Newstead, Senior Vice President, General Counsel and Government Affairs at Apple Inc (AAPL), sold 2,399 shares of the company on 2026-09-29, accord",
-      "snippet_ko": "애플(AAPL)의 수석 부사장 겸 법무 총괄 및 정부 관계 담당자인 제니퍼 뉴스테드는 2026년 9월 29일에 자사 주식 2,399주를 매도한 것으로 밝혀졌다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3373,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9106763/apple-inc-aapl-insider-sale-svp-general-counsel-and-government-affairs-jennifer-newstead-sells-2399-shares",
-      "cross_verified": true,
-      "published_at": "2026-10-02T01:00:18.000000Z"
     }
   ]
 }
