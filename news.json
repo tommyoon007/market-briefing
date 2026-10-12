@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-12T05:27:31.788783+00:00",
+  "updated_at": "2026-10-12T15:02:43.404374+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Enovix (ENVX) Reports Q3 Revenue Beat with $11M, Industrial Demand Drives Growth",
+      "title_ko": "에노빅스(ENVX), 3분기 매출 1,100만 달러로 시장 예상치 상회… 산업 부문 수요가 성장 견인",
+      "snippet": "On October 12, 2026, Enovix Corp (NASDAQ: ENVX) announced preliminary third-quarter revenue of $11 million, a 38% increase year-over-year and above consensus ex",
+      "snippet_ko": "2026년 10월 12일, Enovix Corp(나스닥: ENVX)은 3분기 잠정 매출이 1,100만 달러로, 전년 동기 대비 38% 증가했으며 시장 예상치를 상회했다고 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.3408,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9119199/enovix-envx-reports-q3-revenue-beat-with-11m-industrial-demand-drives-growth",
+      "cross_verified": true,
+      "published_at": "2026-10-12T14:59:33.000000Z"
+    },
+    {
+      "title": "Morgan Stanley Downgrades Ally Financial (ALLY) to Hold Amid Rising Rate Concerns",
+      "title_ko": "모건 스탠리, 금리 상승 우려 속에 앨리 파이낸셜(ALLY)의 투자 등급을 ‘보유(Hold)’로 하향 조정",
+      "snippet": "On October 12, 2026, Morgan Stanley downgraded Ally Financial Inc (NYSE: ALLY) to a Hold rating, citing worries over rising interest rates and a lack of growth",
+      "snippet_ko": "2026년 10월 12일, 모건 스탠리는 금리 상승과 성장 동력 부족에 대한 우려를 이유로 앨리 파이낸셜(Ally Financial Inc, NYSE: ALLY)의 투자 등급을 ‘보유(Hold)’로 하향 조정했다.",
+      "symbol": "",
+      "sentiment_score": 0.3422,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9119197/morgan-stanley-downgrades-ally-financial-ally-to-hold-amid-rising-rate-concerns",
+      "cross_verified": true,
+      "published_at": "2026-10-12T14:58:54.000000Z"
+    },
     {
       "title": "Emirates NBD Launches AI Travel Assistant with Visa and Tripadvisor",
       "title_ko": "에미레이트 NBD, 비자 및 트립어드바이저와 함께 AI 여행 도우미 출시",
@@ -1177,33 +1201,45 @@
       "url": "https://seekingalpha.com/article/4951551-joby-aviation-stock-revenue-growing-so-share-count",
       "cross_verified": true,
       "published_at": "2026-10-02T11:30:23.000000Z"
-    },
-    {
-      "title": "Ensign Group (ENSG) Expands Washington State Presence with Acquisition of Four Skilled Nursing Facilities",
-      "title_ko": "엔사인 그룹(ENSG), 전문 간호 시설 4곳 인수로 워싱턴주 내 입지 확대",
-      "snippet": "On October 02, 2026, Ensign Group Inc (NASDAQ: ENSG) announced the acquisition of four skilled nursing facilities in Washington State, marking a strategic expan",
-      "snippet_ko": "2026년 10월 2일, 엔사인 그룹(Ensign Group Inc, 나스닥: ENSG)은 워싱턴주에 위치한 4곳의 전문 요양 시설을 인수했다고 발표했으며, 이는 전략적 확장의 일환이다.",
-      "symbol": "",
-      "sentiment_score": 0.5082,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9107377/ensign-group-ensg-expands-washington-state-presence-with-acquisition-of-four-skilled-nursing-facilities",
-      "cross_verified": true,
-      "published_at": "2026-10-02T11:25:41.000000Z"
-    },
-    {
-      "title": "Alta Equipment Group Inc. 10% DP SHS PFD A declares $0.625 dividend (ALTG.PR.A:NYSE)",
-      "title_ko": "알타 이큅먼트 그룹(Alta Equipment Group Inc.)의 10% DP SHS PFD A가 0.625달러의 배당금을 선언했습니다 (ALTG.PR.A:NYSE)",
-      "snippet": "Alta Equipment Group (ALTG.PR.A) declares a $0.625 quarterly preferred dividend, payable Oct 30.",
-      "snippet_ko": "알타 이큅먼트 그룹(ALTG.PR.A)은 10월 30일에 지급될 분기별 우선주 배당금으로 0.625달러를 공시했다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4649775-alta-equipment-group-inc-10-percent-dp-shs-pfd-a-declares-0_625-dividend",
-      "cross_verified": true,
-      "published_at": "2026-10-02T11:14:15.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Flo Health and Google Health Partner to Enhance Women's Health Solutions (GOOG)",
+      "title_ko": "플로 헬스(Flo Health)와 구글 헬스(Google Health), 여성 건강 솔루션 강화를 위해 협력 (GOOG)",
+      "snippet": "On October 12, 2026, Alphabet Inc (ticker: GOOG) announced a long-term collaboration with Flo Health, including a strategic investment aimed at advancing person",
+      "snippet_ko": "2026년 10월 12일, 알파벳(Alphabet Inc, 티커: GOOG)은 Flo Health와의 장기적인 협력 관계를 발표했으며, 여기에는 개인 건강 관리 발전을 목표로 한 전략적 투자도 포함되었습니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2204,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9119200/flo-health-and-google-health-partner-to-enhance-womens-health-solutions-goog",
+      "cross_verified": true,
+      "published_at": "2026-10-12T14:59:54.000000Z"
+    },
+    {
+      "title": "US Indices Show Mixed Performance as Earnings Season Approaches",
+      "title_ko": "실적 발표 시즌을 앞두고 미국 증시 지수들, 혼조세 보여",
+      "snippet": "Major US stock indices experienced a mixed performance recently, with the Dow Jones rising by 0.17% and the S&P 500 gaining 0.04%, while the Nasdaq saw a slight",
+      "snippet_ko": "최근 미국 주요 주가지수는 혼조세를 보였는데, 다우존스 지수는 0.17% 상승했고 S&P 500 지수는 0.04% 오른 반면, 나스닥 지수는 소폭",
+      "symbol": "AAPL",
+      "sentiment_score": -0.0751,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9119182/us-indices-show-mixed-performance-as-earnings-season-approaches",
+      "cross_verified": true,
+      "published_at": "2026-10-12T14:50:18.000000Z"
+    },
+    {
+      "title": "Intel CEO Highlights Chinese AI Adoption and Quantum Computing Outlook (INTC)",
+      "title_ko": "인텔 CEO, 중국의 AI 도입 현황과 양자 컴퓨팅 전망 강조 (INTC)",
+      "snippet": "On October 12, 2026, Intel Corp (NASDAQ: INTC) CEO Lip-Bu Tan spoke at a DBS panel in Singapore, emphasizing the rapid adoption of Chinese AI models due to thei",
+      "snippet_ko": "2026년 10월 12일, 인텔(Intel Corp, 나스닥: INTC)의 립부 탄(Lip-Bu Tan) CEO는 싱가포르에서 열린 DBS 패널 토론회에서 연설하며, 중국산 AI 모델이 그 덕분에 빠르게 보급되고 있음을 강조했습니다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0275,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9119067/intel-ceo-highlights-chinese-ai-adoption-and-quantum-computing-outlook-intc",
+      "cross_verified": true,
+      "published_at": "2026-10-12T13:55:41.000000Z"
+    },
     {
       "title": "Visa (V): Are Bigger Client Rebates Worth the Valuation?",
       "title_ko": "비자(V): 더 큰 규모의 고객 리베이트가 기업 가치 평가에 걸맞은가?",
@@ -2367,42 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/10-stocks-that-will-go-to-the-moon-according-to-reddit-2-1846669/",
       "cross_verified": true,
       "published_at": "2026-10-02T21:07:36.000000Z"
-    },
-    {
-      "title": "Apple (AAPL) Enhances macOS Privacy Controls Amid AI Data Access Concerns",
-      "title_ko": "애플(AAPL), AI 데이터 접근 우려 속에 macOS 개인정보 보호 기능 강화",
-      "snippet": "On October 02, 2026, Apple Inc. (NASDAQ: AAPL) announced plans to bolster privacy protections related to \"Full Disk Access\" permissions in macOS, aiming to prev",
-      "snippet_ko": "2026년 10월 2일, 애플(Apple Inc., 나스닥: AAPL)은 macOS의 “전체 디스크 액세스” 권한과 관련된 개인정보 보호 조치를 강화할 계획을 발표했으며, 이를 통해…",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4624,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9108020/apple-aapl-enhances-macos-privacy-controls-amid-ai-data-access-concerns",
-      "cross_verified": true,
-      "published_at": "2026-10-02T21:00:52.000000Z"
-    },
-    {
-      "title": "Amazon (AMZN) Plans $8 Billion Nvidia Chip Sale to Strengthen Financial Position",
-      "title_ko": "아마존(AMZN), 재무 건전성 강화를 위해 엔비디아 칩 80억 달러 규모 매각 계획",
-      "snippet": "On October 02, 2026, Amazon.com Inc (NASDAQ: AMZN) announced plans to sell approximately $8 billion worth of advanced Nvidia chips to outside investors as part",
-      "snippet_ko": "2026년 10월 2일, 아마존닷컴(Amazon.com Inc, 나스닥: AMZN)은 그 일환으로 외부 투자자들에게 약 80억 달러 상당의 엔비디아(Nvidia) 첨단 칩을 판매할 계획을 발표했습니다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.5463,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9107893/amazon-amzn-plans-8-billion-nvidia-chip-sale-to-strengthen-financial-position",
-      "cross_verified": true,
-      "published_at": "2026-10-02T17:56:38.000000Z"
-    },
-    {
-      "title": "Meta's Muse Is the No. 1 App--but Wall Street Has a Big Question",
-      "title_ko": "메타의 ‘뮤즈’가 1위 앱이지만, 월가에서는 큰 의문을 제기하고 있다",
-      "snippet": "The social media and AI business Meta Platforms Inc. (META, Financials) seems to have little issue attracting customers to its new AI agent Muse. The more diffi",
-      "snippet_ko": "소셜 미디어 및 AI 기업인 메타 플랫폼스(Meta Platforms Inc., META, 재무 정보)는 자사의 새로운 AI 에이전트 ‘뮤즈(Muse)’에 고객을 유치하는 데 별다른 어려움이 없는 것으로 보인다. 더 어려운 점은...",
-      "symbol": "META",
-      "sentiment_score": 0.7147,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9107753/metas-muse-is-the-no-1-appbut-wall-street-has-a-big-question",
-      "cross_verified": true,
-      "published_at": "2026-10-02T17:15:49.000000Z"
     }
   ]
 }
