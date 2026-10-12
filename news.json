@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-11T23:32:37.591753+00:00",
+  "updated_at": "2026-10-12T05:27:31.788783+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Emirates NBD Launches AI Travel Assistant with Visa and Tripadvisor",
+      "title_ko": "에미레이트 NBD, 비자 및 트립어드바이저와 함께 AI 여행 도우미 출시",
+      "snippet": "Emirates NBD's conversational travel planner draws on Tripadvisor's 1 billion reviews and surfaces Visa cardholder offers, with no bank login required.",
+      "snippet_ko": "에미레이트 NBD의 대화형 여행 계획 도구는 트립어드바이저의 10억 건에 달하는 리뷰를 바탕으로 하며, 은행에 로그인할 필요 없이 비자 카드 소지자를 위한 혜택을 제시합니다.",
+      "symbol": "",
+      "sentiment_score": 0.3123,
+      "source": "thefintechtimes.com",
+      "url": "https://thefintechtimes.com/emirates-nbd-launches-ai-travel-assistant-with-visa-and-tripadvisor/",
+      "cross_verified": true,
+      "published_at": "2026-10-12T05:00:41.000000Z"
+    },
+    {
+      "title": "Nifty holds flat at open despite Wall Street gains; FII selling streak hits 11 sessions",
+      "title_ko": "월가 상승세에도 불구하고 니프티 지수는 개장 시 보합세를 유지했으며, 외국인 투자자들의 매도 행진은 11거래일째 이어졌다.",
+      "snippet": "Equity benchmarks opened on a cautious note on Monday with the Nifty 50 opening at 22,593.20 against a previous close of 22,520.45, and trading near 22,525.60, up just 5.15 points or 0.02 per cent, at 9.25 am. The Sensex opened at 72,771.32 compared to its previous close of 72,472.33, before slipping to 72,426.28",
+      "snippet_ko": "월요일 주식 시장 지수는 신중한 분위기 속에서 개장했으며, 니프티 50 지수는 전일 종가 22,520.45 대비 22,593.20으로 개장한 뒤, 오전 9시 25분 기준 22,525.60 근처에서 거래되며, 전일 종가 대비 5.15포인트(0.02%) 상승에 그쳤다. 센섹스 지수는 전일 종가 72,472.33에 비해 72,771.32로 개장했으나, 이후 72,426.28까지 하락했다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/markets/nifty-holds-flat-at-open-despite-wall-street-gains-fii-selling-streak-hits-11-sessions/article71573720.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-12T04:26:48.000000Z"
+    },
+    {
+      "title": "SkyAI Announces Intention to Commence Cash Tender Offer to Purchase Common Stock and Pre-funded Warrants at $3.00 Per Share/Pre-funded Warrant",
+      "title_ko": "SkyAI, 보통주 및 사전 자금 조달된 워런트를 주당/워런트당 3.00달러에 매입하기 위한 현금 공개매수 개시 의향 발표",
+      "snippet": "SkyAI intends to purchase up to 95% of each class of its outstanding common stock, cash pre-funded warrants, cryptocurrency pre-funded warrants and strategic advisor warrants",
+      "snippet_ko": "SkyAI는 자사가 발행한 각 종류의 보통주, 현금으로 사전 자금 조달된 워런트, 암호화폐로 사전 자금 조달된 워런트 및 전략 자문위원 워런트의 최대 95%를 매입할 계획입니다.",
+      "symbol": "",
+      "sentiment_score": 0.1739,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/12/tmt-newswire/globenewswire/skyai-announces-intention-to-commence-cash-tender-offer-to-purchase-common-stock-and-pre-funded-warrants-at-300-per-sharepre-funded-warrant/2443419",
+      "cross_verified": true,
+      "published_at": "2026-10-12T03:28:19.000000Z"
+    },
     {
       "title": "Weekend Market Report: Near Records, Sector Splits, and a Busy Week Ahead",
       "title_ko": "주말 시장 보고서: 사상 최고치에 근접, 업종별 엇갈린 흐름, 그리고 바쁜 한 주가 예상됨",
@@ -1165,45 +1201,21 @@
       "url": "https://seekingalpha.com/news/4649775-alta-equipment-group-inc-10-percent-dp-shs-pfd-a-declares-0_625-dividend",
       "cross_verified": true,
       "published_at": "2026-10-02T11:14:15.000000Z"
-    },
-    {
-      "title": "Richemont: Specialist Watchmakers Recovery Adds Another Leg To The Equity Story (CFRHF)",
-      "title_ko": "리슈몽: 전문 시계 제조사들의 회복세가 주가 상승 동력에 또 다른 탄력을 더하고 있다 (CFRHF)",
-      "snippet": "Richemont outlook: improving Swiss watch indicators, double-digit Q2 growth led by jewelry, attractive valuation and strong cash flow—read the analysis now.",
-      "snippet_ko": "리슈몽 전망: 스위스 시계 업계 지표 개선, 주얼리 부문이 주도한 2분기 두 자릿수 성장, 매력적인 기업 가치 및 견실한 현금 흐름 — 지금 바로 분석 보고서를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": -0.0952,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4951506-richemont-specialist-watchmakers-recovery-adds-another-leg-to-the-equity-story",
-      "cross_verified": true,
-      "published_at": "2026-10-02T04:13:59.000000Z"
-    },
-    {
-      "title": "Eaton Vance CA Muni Income Trust (CEV) Declares Monthly Dividend with 5.84% Forward Yield",
-      "title_ko": "이튼 밴스 CA 무니 인컴 트러스트(CEV), 5.84%의 예상 수익률을 적용한 월간 배당금 선언",
-      "snippet": "On October 01, 2026, Eaton Vance California Municipal Income Trust (ticker: CEV) announced a monthly dividend payment of $0.05 per share, reflecting a forward y",
-      "snippet_ko": "2026년 10월 1일, 이튼 밴스 캘리포니아 지방채 소득 트러스트(티커: CEV)는 주당 0.05달러의 월간 배당금 지급을 발표했으며, 이는 향후 y",
-      "symbol": "",
-      "sentiment_score": 0.6744,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9106827/eaton-vance-ca-muni-income-trust-cev-declares-monthly-dividend-with-584-forward-yield",
-      "cross_verified": true,
-      "published_at": "2026-10-02T03:59:37.000000Z"
-    },
-    {
-      "title": "MPC set to begin rate hike cycle with at least 25 bps repo hike: SBI Economists",
-      "title_ko": "SBI 경제학자들 “MPC, 최소 25bp의 레포 금리 인상을 통해 금리 인상 주기를 시작할 전망”",
-      "snippet": "SBI economists expect RBI to start rate hikes with at least 25 bps, alongside rising GDP/inflation forecasts amid global risks and liquidity nuances.",
-      "snippet_ko": "SBI 경제학자들은 글로벌 리스크와 유동성 상황의 미묘한 변화 속에서 GDP 및 인플레이션 전망치가 상향 조정됨에 따라, 인도 중앙은행(RBI)이 최소 25bp 규모의 금리 인상을 시작할 것으로 전망하고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.0772,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/economy/mpc-set-to-begin-rate-hike-cycle-with-at-least-25-bps-repo-hike-sbi-economists/article71535727.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-02T03:58:12.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Visa (V): Are Bigger Client Rebates Worth the Valuation?",
+      "title_ko": "비자(V): 더 큰 규모의 고객 리베이트가 기업 가치 평가에 걸맞은가?",
+      "snippet": "Visa Inc. (NYSE:V) operates a global payments network, earning fees from payment volumes, transaction processing, and related services.",
+      "snippet_ko": "Visa Inc. (NYSE:V)는 글로벌 결제 네트워크를 운영하며, 결제 처리량, 거래 처리 및 관련 서비스를 통해 수수료를 창출합니다.",
+      "symbol": "V",
+      "sentiment_score": 0.2891,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/visa-v-are-bigger-client-rebates-worth-the-valuation-1848698/",
+      "cross_verified": true,
+      "published_at": "2026-10-11T19:02:42.000000Z"
+    },
     {
       "title": "SpaceX, Telecom Sell-Off, Micron's A Grades, Steve Cress Origin Story",
       "title_ko": "스페이스X, 통신주 매도 물결, 마이크론의 A등급 실적, 스티브 크레스의 창업 이야기",
@@ -2391,18 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9107753/metas-muse-is-the-no-1-appbut-wall-street-has-a-big-question",
       "cross_verified": true,
       "published_at": "2026-10-02T17:15:49.000000Z"
-    },
-    {
-      "title": "MP Materials (MP) Leads Mid- to Mega-Cap Materials Sector in Short Interest at 18.85%",
-      "title_ko": "MP 머티리얼스(MP)가 18.85%의 공매도 비중으로 중형주 및 초대형주 소재 부문에서 선두를 달리고 있다.",
-      "snippet": "On October 02, 2026, MP Materials Corp (NYSE: MP) was reported to hold the highest short interest in the mid- to mega-cap materials sector at 18.85%, surpassing",
-      "snippet_ko": "2026년 10월 2일, MP Materials Corp(NYSE: MP)가 중대형 소재 부문에서 18.85%로 가장 높은 공매도 비중을 기록하며, 이를 넘어선 것으로 보도되었다.",
-      "symbol": "MP",
-      "sentiment_score": 0.5966,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9107818/mp-materials-mp-leads-mid-to-megacap-materials-sector-in-short-interest-at-1885",
-      "cross_verified": true,
-      "published_at": "2026-10-02T16:56:28.000000Z"
     }
   ]
 }
