@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-12T15:02:43.404374+00:00",
+  "updated_at": "2026-10-12T22:50:07.347827+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Rocket Companies Inc (RKT) Shares Fall 5.3% -- What GF Score of 65 Tells Investors",
+      "title_ko": "로켓 컴퍼니즈(RKT) 주가 5.3% 하락… GF 점수 65점이 투자자들에게 시사하는 바는?",
+      "snippet": "On October 12, 2026, Rocket Companies Inc (RKT) shares fell by 5.3% to a current price of $10.87. This decline is part of a broader trend, with the stock experi",
+      "snippet_ko": "2026년 10월 12일, 로켓 컴퍼니즈(RKT)의 주가는 5.3% 하락하여 현재 10.87달러를 기록했습니다. 이러한 하락은 더 광범위한 추세의 일환으로, 해당 주식은",
+      "symbol": "",
+      "sentiment_score": 0.3251,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9119947/rocket-companies-inc-rkt-shares-fall-53-what-gf-score-of-65-tells-investors",
+      "cross_verified": true,
+      "published_at": "2026-10-12T22:29:31.000000Z"
+    },
+    {
+      "title": "Zscaler Inc (ZS) Stock Down 3.4% -- Now Undervalued? GF Score: 80/100",
+      "title_ko": "Zscaler Inc (ZS) 주가 3.4% 하락… 이제 저평가된 것일까? GF 점수: 80/100",
+      "snippet": "On October 12, 2026, Zscaler Inc (ZS) shares experienced a decline of 3.4%, bringing the current price to $225.78. Over the past year, the stock has fluctuated",
+      "snippet_ko": "2026년 10월 12일, Zscaler Inc(ZS) 주가는 3.4% 하락하여 현재 주가는 225.78달러를 기록했습니다. 지난 1년 동안 이 주가는 등락을 거듭했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.3032,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9119945/zscaler-inc-zs-stock-down-34-now-undervalued-gf-score-80100",
+      "cross_verified": true,
+      "published_at": "2026-10-12T22:27:37.000000Z"
+    },
+    {
+      "title": "A Look at Ubiquiti Inc (UI) After 5.7% Decline -- GF Value $555.01 vs Price $619.56",
+      "title_ko": "5.7% 하락한 유비퀴티(UI) 현황 살펴보기 — GF 밸류 $555.01 vs 시가 $619.56",
+      "snippet": "On October 12, 2026, Ubiquiti Inc (UI) shares fell 5.7% to $619.56, amidst a 52-week trading range of $500.23 to $1099.99. The drop in price raises questions ab",
+      "snippet_ko": "2026년 10월 12일, Ubiquiti Inc(UI)의 주가는 52주 거래 범위인 500.23달러에서 1099.99달러 사이에서 5.7% 하락한 619.56달러를 기록했습니다. 이러한 주가 하락은 다음과 같은 의문을 제기합니다.",
+      "symbol": "",
+      "sentiment_score": 0.6421,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9119944/a-look-at-ubiquiti-inc-ui-after-57-decline-gf-value-55501-vs-price-61956",
+      "cross_verified": true,
+      "published_at": "2026-10-12T22:26:40.000000Z"
+    },
     {
       "title": "Enovix (ENVX) Reports Q3 Revenue Beat with $11M, Industrial Demand Drives Growth",
       "title_ko": "에노빅스(ENVX), 3분기 매출 1,100만 달러로 시장 예상치 상회… 산업 부문 수요가 성장 견인",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9107923/general-mills-gis-shareholders-approve-key-charter-amendments-at-2026-annual-meeting",
       "cross_verified": true,
       "published_at": "2026-10-02T18:30:07.000000Z"
-    },
-    {
-      "title": "Fed officials give hints on rate decision as markets cut October rate hike odds",
-      "title_ko": "시장에서는 10월 금리 인상 가능성을 낮게 보는 가운데, 연준 관계자들이 금리 결정에 대한 시사점을 내비쳤다",
-      "snippet": "Fed officials tempered expectations for an October rate hike after Philip Jefferson and John Williams stressed patience and data dependence. Markets sharply reduced hike odds, though persistent inflation and upcoming consumer price data could shape the Federal Reserves policy decision.",
-      "snippet_ko": "필립 제퍼슨과 존 윌리엄스가 인내심과 데이터에 기반한 접근을 강조한 후, 연준 관계자들은 10월 금리 인상 기대감을 누그러뜨렸다. 시장은 금리 인상 가능성을 크게 낮췄으나, 지속되는 인플레이션과 곧 발표될 소비자물가 지표가 연방준비제도의 정책 결정에 영향을 미칠 수 있다.",
-      "symbol": "",
-      "sentiment_score": 0.3818,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-officials-give-hints-on-rate-decision-as-markets-cut-october-rate-hike-odds/articleshow/134645153.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-02T18:30:04.000000Z"
-    },
-    {
-      "title": "USB Maintained by JP Morgan -- Price Target Lowered to $65.00",
-      "title_ko": "JP 모건, USB에 대한 투자 등급 유지 -- 목표 주가 65.00달러로 하향 조정",
-      "snippet": "U.S. Bancorp Analyst Rating Update On October 1, 2023, JP Morgan maintained a Neutral rating on U.S. Bancorp (USB), with the price target adjusted from $69.0",
-      "snippet_ko": "U.S. Bancorp 애널리스트 평가 업데이트 2023년 10월 1일, JP 모건은 U.S. Bancorp(USB)에 대한 ‘중립(Neutral)’ 평가를 유지했으며, 목표 주가는 69.0달러에서 조정되었습니다.",
-      "symbol": "",
-      "sentiment_score": 0.2999,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9107917/usb-maintained-by-jp-morgan-price-target-lowered-to-6500",
-      "cross_verified": true,
-      "published_at": "2026-10-02T18:06:15.000000Z"
-    },
-    {
-      "title": "Joby Aviation: Revenue Is Growing, But So Is The Share Count (NYSE:JOBY)",
-      "title_ko": "조비 에비에이션: 매출은 증가하고 있지만, 발행 주식 수도 늘고 있다 (NYSE:JOBY)",
-      "snippet": "Joby Aviation trades at a $6B market cap, with two-thirds of value hinging on its electric vertical aircraft dream. Learn why JOBY stock is a hold.",
-      "snippet_ko": "조비 에비에이션(Joby Aviation)의 시가총액은 60억 달러이며, 이 중 3분의 2는 전기 수직 이착륙기(eVTOL) 개발이라는 비전에 달려 있습니다. JOBY 주식을 ‘보유’해야 하는 이유를 알아보세요.",
-      "symbol": "",
-      "sentiment_score": 0.4724,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4951551-joby-aviation-stock-revenue-growing-so-share-count",
-      "cross_verified": true,
-      "published_at": "2026-10-02T11:30:23.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "A Look at Meta Platforms Inc (META) After 3.4% Gain -- GF Value $864.88 vs Price $742.96",
+      "title_ko": "3.4% 상승한 메타 플랫폼스(META) 현황 살펴보기 — GF 가치 $864.88 vs 시가 $742.96",
+      "snippet": "On October 12, 2026, Meta Platforms Inc (META) shares rose 3.4%, bringing the current price to $742.96. The stock has traded within a 52-week range of $520.26 t",
+      "snippet_ko": "2026년 10월 12일, 메타 플랫폼스(META) 주가는 3.4% 상승하여 현재 주가는 742.96달러를 기록했습니다. 이 주식은 지난 52주 동안 520.26달러에서",
+      "symbol": "META",
+      "sentiment_score": 0.6226,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9119894/a-look-at-meta-platforms-inc-meta-after-34-gain-gf-value-86488-vs-price-74296",
+      "cross_verified": true,
+      "published_at": "2026-10-12T22:00:40.000000Z"
+    },
+    {
+      "title": "U.S. Markets Mixed as Meta Platforms (META) Gains Ahead of Bank Earnings Week",
+      "title_ko": "은행 실적 발표 주간을 앞두고 메타 플랫폼스(META)가 상승세를 보이면서 미국 증시는 혼조세를 보였습니다.",
+      "snippet": "On October 12, 2026, major U.S. stock indices closed mixed amid investor caution ahead of a critical week featuring bank earnings reports and inflation data. Me",
+      "snippet_ko": "2026년 10월 12일, 은행 실적 발표와 인플레이션 지표가 예정된 중요한 한 주를 앞두고 투자자들의 신중한 태도가 이어지면서 미국의 주요 주가지수는 혼조세를 보이며 장을 마감했다. 나",
+      "symbol": "META",
+      "sentiment_score": 0.549,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9119828/us-markets-mixed-as-meta-platforms-meta-gains-ahead-of-bank-earnings-week",
+      "cross_verified": true,
+      "published_at": "2026-10-12T21:58:26.000000Z"
+    },
+    {
+      "title": "Google (GOOG) Leads AI Model Race with 70% Odds on Polymarket as October Ends",
+      "title_ko": "10월이 끝나는 시점에서 구글(GOOG)이 폴리마켓에서 70%의 승률을 기록하며 AI 모델 경쟁을 주도하고 있다",
+      "snippet": "On October 12, 2026, Google (GOOG) commands a dominant 70% probability on the prediction market Polymarket to have the leading AI model by the end of October, o",
+      "snippet_ko": "2026년 10월 12일 현재, 예측 시장인 폴리마켓(Polymarket)에서 구글(GOOG)이 10월 말까지 최고의 AI 모델을 보유할 확률이 70%로 압도적인 우위를 차지하고 있으며, o",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3818,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9119819/google-goog-leads-ai-model-race-with-70-odds-on-polymarket-as-october-ends",
+      "cross_verified": true,
+      "published_at": "2026-10-12T21:55:24.000000Z"
+    },
     {
       "title": "Flo Health and Google Health Partner to Enhance Women's Health Solutions (GOOG)",
       "title_ko": "플로 헬스(Flo Health)와 구글 헬스(Google Health), 여성 건강 솔루션 강화를 위해 협력 (GOOG)",
@@ -2367,42 +2403,6 @@
       "url": "https://www.business-standard.com/technology/tech-news/apple-asks-at-t-users-to-replace-iphone-18-pro-max-after-network-glitch-126100300103_1.html",
       "cross_verified": true,
       "published_at": "2026-10-03T03:28:23.000000Z"
-    },
-    {
-      "title": "Jensen Huang's net worth crosses $200 billion, becomes world's 7th-richest person as Nvidia shares hit record",
-      "title_ko": "엔비디아 주가가 사상 최고치를 기록하면서 젠슨 황의 순자산이 2,000억 달러를 넘어 세계 7위 부호에 올랐다",
-      "snippet": "Nvidia's CEO, Jensen Huang, has a net worth exceeding $200 billion as his company’s shares reached an all-time high of $237. Huang's fortune increased by $3.4 billion, positioning him as the seventh-richest person globally, driven by demand for AI chips and a significant buyback announcement.",
-      "snippet_ko": "엔비디아의 젠슨 황 CEO는 자사 주가가 사상 최고치인 237달러를 기록함에 따라 순자산이 2,000억 달러를 넘어섰다. AI 칩에 대한 수요와 대규모 자사주 매입 발표에 힘입어 황 CEO의 재산은 34억 달러 증가했으며, 이로 인해 그는 전 세계 부자 순위 7위에 올랐다.",
-      "symbol": "META",
-      "sentiment_score": 0.6764,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/news/jensen-huangs-net-worth-crosses-200-billion-becomes-worlds-7th-richest-person-as-nvidia-shares-hit-record-11790990983761.html",
-      "cross_verified": true,
-      "published_at": "2026-10-03T02:25:17.000000Z"
-    },
-    {
-      "title": "Is It Too Late to Buy Broadcom Inc (AVGO) After 3.4% Rally? GF Value Says Undervalued",
-      "title_ko": "3.4% 상승한 지금, 브로드컴(AVGO) 매수가 너무 늦은 걸까? GF 밸류, “저평가됐다”고 분석",
-      "snippet": "On October 02, 2026, Broadcom Inc (AVGO) shares rose 3.4% today, trading at $355.14. The stock has fluctuated within a 52-week range of $289.96 to $495.00, high",
-      "snippet_ko": "2026년 10월 2일, 브로드컴(Broadcom Inc, AVGO) 주가는 이날 3.4% 상승하여 355.14달러에 거래되었습니다. 이 주식은 52주 동안 289.96달러에서 495.00달러 사이의 범위 내에서 등락을 거듭했으며, 최고가는",
-      "symbol": "AVGO",
-      "sentiment_score": 0.6838,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9108084/is-it-too-late-to-buy-broadcom-inc-avgo-after-34-rally-gf-value-says-undervalued",
-      "cross_verified": true,
-      "published_at": "2026-10-02T22:00:39.000000Z"
-    },
-    {
-      "title": "10 Stocks That Will Go to the Moon According to Reddit",
-      "title_ko": "레딧이 꼽은 ‘하늘을 찌를 듯 치솟을’ 10가지 주식",
-      "snippet": "In this article, we will discuss 10 Stocks That Will Go to the Moon According to Reddit. As per Goldman Sachs, the S&P 500 EPS saw an increase of 51% YoY in Q2 and 26% over the previous 4 quarters.",
-      "snippet_ko": "이 기사에서는 레딧(Reddit) 사용자들이 꼽은 ‘폭등할 10가지 주식’에 대해 살펴보겠습니다. 골드만삭스에 따르면, S&P 500 지수의 주당순이익(EPS)은 2분기에 전년 동기 대비 51%, 지난 4분기 대비 26% 증가했습니다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.2996,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/10-stocks-that-will-go-to-the-moon-according-to-reddit-2-1846669/",
-      "cross_verified": true,
-      "published_at": "2026-10-02T21:07:36.000000Z"
     }
   ]
 }
