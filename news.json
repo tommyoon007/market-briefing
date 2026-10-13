@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-12T22:50:07.347827+00:00",
+  "updated_at": "2026-10-13T06:25:24.319521+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Bank of Japan's Ueda Signals Rising Inflation Nearing Target",
+      "title_ko": "일본은행의 우에다 총재, 인플레이션 상승세가 목표치에 근접하고 있음을 시사",
+      "snippet": "On October 13, 2026, Bank of Japan Governor Kazuo Ueda indicated that core inflation is gradually increasing and is now very close to the 2% target. During a re",
+      "snippet_ko": "2026년 10월 13일, 우에다 카즈오 일본은행 총재는 핵심 인플레이션이 점진적으로 상승하고 있으며 현재 2% 목표치에 매우 근접해 있다고 밝혔다. 재",
+      "symbol": "",
+      "sentiment_score": 0.5508,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9120284/bank-of-japans-ueda-signals-rising-inflation-nearing-target",
+      "cross_verified": true,
+      "published_at": "2026-10-13T06:10:49.000000Z"
+    },
+    {
+      "title": "SBI Research calls for abolition of LTCG tax on equities to boost foreign capital inflows",
+      "title_ko": "SBI 리서치는 외국인 자본 유입을 촉진하기 위해 주식에 대한 장기양도소득세 폐지를 촉구했다.",
+      "snippet": "According to SBI Research, removing the long-term capital gains tax on equities could revitalize investment levels. The report emphasizes extending the holding period to two to three years as a strategy to boost investor morale. Faced with foreign portfolio outflows, the need for policy reforms is clear.",
+      "snippet_ko": "SBI 리서치에 따르면, 주식에 대한 장기 양도소득세를 폐지하면 투자 규모가 다시 활성화될 수 있다고 한다. 이 보고서는 투자자 사기를 북돋우기 위한 전략으로 보유 기간을 2~3년으로 연장하는 것을 강조하고 있다. 해외 포트폴리오 자금 유출에 직면한 상황에서 정책 개혁의 필요성은 분명하다.",
+      "symbol": "",
+      "sentiment_score": 0.7783,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance/sbi-research-calls-for-abolition-of-ltcg-tax-on-equities-to-boost-foreign-capital-inflows/articleshow/134908894.cms",
+      "cross_verified": true,
+      "published_at": "2026-10-13T05:23:15.000000Z"
+    },
+    {
+      "title": "Melexis: Transparency declaration by Invesco Ltd.",
+      "title_ko": "Melexis: 인베스코(Invesco Ltd.)의 투명성 선언",
+      "snippet": "Melexis NV (Euronext Brussels: MELE)",
+      "snippet_ko": "Melexis NV (유로넥스트 브뤼셀: MELE)",
+      "symbol": "",
+      "sentiment_score": 0.2199,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/13/tmt-newswire/globenewswire/melexis-transparency-declaration-by-invesco-ltd/2444203",
+      "cross_verified": true,
+      "published_at": "2026-10-13T05:05:49.000000Z"
+    },
     {
       "title": "Rocket Companies Inc (RKT) Shares Fall 5.3% -- What GF Score of 65 Tells Investors",
       "title_ko": "로켓 컴퍼니즈(RKT) 주가 5.3% 하락… GF 점수 65점이 투자자들에게 시사하는 바는?",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9108224/a-look-at-radnet-inc-rdnt-after-33-gain-gf-value-7003-vs-price-6993",
       "cross_verified": true,
       "published_at": "2026-10-02T23:19:13.000000Z"
-    },
-    {
-      "title": "PubMatic Inc (PUBM) Chief Accounting Officer Lisa Gimbel Sells 500 Shares",
-      "title_ko": "PubMatic Inc(PUBM)의 최고회계책임자(CAO) 리사 김벨, 주식 500주 매도",
-      "snippet": "Lisa Gimbel, Chief Accounting Officer at PubMatic Inc (PUBM), sold 500 shares of the company on 2026-10-01, according to a recent SEC Filing. Following the",
-      "snippet_ko": "최근 SEC 제출 서류에 따르면, PubMatic Inc(PUBM)의 최고회계책임자(CAO)인 리사 김벨(Lisa Gimbel)은 2026년 10월 1일에 자사 주식 500주를 매도했다. 이에 따라",
-      "symbol": "",
-      "sentiment_score": 0.3688,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9108209/pubmatic-inc-pubm-chief-accounting-officer-lisa-gimbel-sells-500-shares",
-      "cross_verified": true,
-      "published_at": "2026-10-02T23:10:29.000000Z"
-    },
-    {
-      "title": "Camtek Ltd (CAMT) Stock Up 7.4% but GF Value Says Overvalued -- GF Score: 91/100",
-      "title_ko": "Camtek Ltd (CAMT) 주가 7.4% 상승했으나 GF Value는 과대평가되었다고 평가 -- GF 점수: 91/100",
-      "snippet": "On October 02, 2026, Camtek Ltd (CAMT) shares rose 7.4% to a current price of $165.19, showing a strong performance within its 52-week range of $91.91 to $215.9",
-      "snippet_ko": "2026년 10월 2일, 캠텍(Camtek Ltd, CAMT) 주가는 7.4% 상승하여 현재 주가는 165.19달러를 기록했으며, 52주 동안의 등락폭인 91.91달러에서 215.9달러 사이에서 견조한 상승세를 보였다.",
-      "symbol": "",
-      "sentiment_score": 0.5516,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9108185/camtek-ltd-camt-stock-up-74-but-gf-value-says-overvalued-gf-score-91100",
-      "cross_verified": true,
-      "published_at": "2026-10-02T23:04:57.000000Z"
-    },
-    {
-      "title": "General Mills (GIS) Shareholders Approve Key Charter Amendments at 2026 Annual Meeting",
-      "title_ko": "제너럴 밀스(GIS) 주주들, 2026년 정기주주총회에서 주요 정관 개정안 승인",
-      "snippet": "General Mills, Inc. (GIS) held its 2026 Annual Meeting of Shareholders on September 29, 2026, during which shareholders voted on a series of proposals, includi",
-      "snippet_ko": "제너럴 밀스(General Mills, Inc., GIS)는 2026년 9월 29일 2026년도 정기 주주총회를 개최했으며, 이 자리에서 주주들은 다음과 같은 일련의 안건에 대해 의결을 진행했습니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9107923/general-mills-gis-shareholders-approve-key-charter-amendments-at-2026-annual-meeting",
-      "cross_verified": true,
-      "published_at": "2026-10-02T18:30:07.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Rs 26,340 crore added in minutes! Why HCL Tech, TCS and other IT stocks rallied up to 7%",
+      "title_ko": "단 몇 분 만에 2,634억 루피가 증가! HCL 테크, TCS 등 IT주들이 최대 7% 급등한 이유",
+      "snippet": "Indian IT stocks rallied up to 7%, with the Nifty IT index gaining 3.3%, as concerns over rising AI investment costs and uncertain returns rattled global technology stocks. Broadcom and Intel executives flagged capital constraints, prompting investors to reassess the AI boom. Separately, OpenAI told investors its September annualised revenue was nearly $50 billion, below its earlier indicated figure of $70 billion.",
+      "snippet_ko": "인공지능(AI) 투자 비용 증가와 불확실한 수익에 대한 우려가 전 세계 기술주 시장을 뒤흔들면서, 인도 IT 주가는 최대 7%까지 급등했고, 니프티 IT 지수는 3.3% 상승했다. 브로드컴과 인텔의 경영진이 자본 제약 문제를 제기하자, 투자자들은 AI 붐에 대해 재평가에 나섰다. 이와 별개로, 오픈AI는 투자자들에게 9월 연간 환산 매출이 500억 달러에 육박했으나, 이는 앞서 제시했던 700억 달러보다 낮은 수치라고 밝혔다.",
+      "symbol": "AVGO",
+      "sentiment_score": -0.2732,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-26340-crore-added-in-minutes-why-hcl-tech-tcs-and-other-it-stocks-rallied-up-to-7/articleshow/134908567.cms",
+      "cross_verified": true,
+      "published_at": "2026-10-13T05:00:29.000000Z"
+    },
+    {
+      "title": "FSSAI to tighten grip on $80 billion online market",
+      "title_ko": "FSSAI, 800억 달러 규모의 온라인 시장에 대한 규제를 강화할 예정",
+      "snippet": "FSSAI tightens online food rules, demanding expiry dates, batch numbers, photos of dark kitchens, and platform accountability amid crackdown on misbranding and unsafe practices.",
+      "snippet_ko": "FSSAI는 허위 표시 및 안전하지 않은 관행에 대한 단속을 강화하는 가운데, 온라인 식품 규정을 강화하여 유통기한, 로트 번호, ‘다크 키친’ 사진 제공을 의무화하고 플랫폼의 책임 이행을 요구하고 있다.",
+      "symbol": "AMZN",
+      "sentiment_score": -0.1698,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/companies/fssai-to-tighten-grip-on-80-billion-online-market/article71577824.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-13T04:59:59.000000Z"
+    },
+    {
+      "title": "Blinkit, Instamart and Amazon Now to face stricter rules? FSSAI says ‘trying to tighten, make accountable’",
+      "title_ko": "블링크잇, 인스타마트, 아마존 나우, 더 엄격한 규제를 받게 될까? FSSAI는 “규제를 강화하고 책임성을 높이려 하고 있다”고 밝혔다.",
+      "snippet": "India’s food regulator FSSAI is preparing tighter rules for quick-commerce platforms, including Blinkit, Instamart and Amazon Now, amid rising enforcement over food safety violations. Here's all we know…",
+      "snippet_ko": "인도 식품 규제 기관인 FSSAI는 식품 안전 위반에 대한 단속이 강화되는 가운데, 블링크잇(Blinkit), 인스타마트(Instamart), 아마존 나우(Amazon Now) 등을 포함한 퀵커머스 플랫폼을 대상으로 더 엄격한 규정을 마련하고 있습니다. 현재까지 알려진 내용은 다음과 같습니다…",
+      "symbol": "AMZN",
+      "sentiment_score": -0.1698,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/news/blinkit-instamart-and-amazon-now-to-face-stricter-rules-fssai-says-trying-to-tighten-make-accountable-11791865938042.html",
+      "cross_verified": true,
+      "published_at": "2026-10-13T04:57:36.000000Z"
+    },
     {
       "title": "A Look at Meta Platforms Inc (META) After 3.4% Gain -- GF Value $864.88 vs Price $742.96",
       "title_ko": "3.4% 상승한 메타 플랫폼스(META) 현황 살펴보기 — GF 가치 $864.88 vs 시가 $742.96",
@@ -2367,42 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/comcast-cmcsa-vs-disney-dis-both-stocks-are-struggling-is-there-light-at-the-end-of-the-tunnel-1847567/",
       "cross_verified": true,
       "published_at": "2026-10-03T04:18:11.000000Z"
-    },
-    {
-      "title": "Eli Lilly (LLY) and AbbVie (ABBV) Are Expanding Their Pipelines. Their Valuations Tell Two Different Stories",
-      "title_ko": "일라이 릴리(LLY)와 애브비(ABBV)가 신약 파이프라인을 확대하고 있다. 두 회사의 기업 가치는 상반된 양상을 보여주고 있다.",
-      "snippet": "Obesity drugs, pipeline investment, and manufacturing capacity are reshaping the pharmaceutical industry's growth equation.",
-      "snippet_ko": "비만 치료제, 신약 개발 파이프라인에 대한 투자, 그리고 생산 능력은 제약 산업의 성장 방정식을 재편하고 있다.",
-      "symbol": "MRK",
-      "sentiment_score": 0.4151,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/eli-lilly-lly-and-abbvie-abbv-are-expanding-their-pipelines-their-valuations-tell-two-different-stories-1847639/",
-      "cross_verified": true,
-      "published_at": "2026-10-03T03:59:26.000000Z"
-    },
-    {
-      "title": "Apple to tighten Mac data controls against AI agents and third-party apps",
-      "title_ko": "애플, AI 에이전트 및 타사 앱에 대한 맥 데이터 관리 강화 예정",
-      "snippet": "The new controls will require more explicit user action before apps can get Full Disk Access, as Apple warns of growing privacy risks from AI agents seeking broad access to personal data",
-      "snippet_ko": "애플이 개인 데이터에 대한 광범위한 접근 권한을 요구하는 AI 에이전트로 인해 개인정보 보호 위험이 커지고 있다고 경고함에 따라, 새로운 제어 기능은 앱이 ‘전체 디스크 액세스’ 권한을 얻기 전에 사용자가 보다 명확한 조치를 취하도록 요구할 예정이다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.1975,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/technology/tech-news/apple-to-tighten-mac-data-controls-against-ai-agents-and-third-party-apps-126100300109_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-03T03:37:05.000000Z"
-    },
-    {
-      "title": "Apple asks AT&T users to replace iPhone 18 Pro Max after network glitch",
-      "title_ko": "애플, 네트워크 오류 발생 후 AT&T 사용자들에게 아이폰 18 프로 맥스 교체 요청",
-      "snippet": "A software or hardware issue has left some iPhone 18 Pro Max users without cellular service, preventing calls, texts and mobile data unless their devices are connected to Wi-Fi",
-      "snippet_ko": "소프트웨어 또는 하드웨어 문제로 인해 일부 아이폰 18 프로 맥스 사용자들이 셀룰러 서비스를 이용할 수 없게 되어, 기기가 Wi-Fi에 연결되어 있지 않으면 전화, 문자, 모바일 데이터 사용이 불가능한 상태입니다.",
-      "symbol": "AAPL",
-      "sentiment_score": -0.133,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/technology/tech-news/apple-asks-at-t-users-to-replace-iphone-18-pro-max-after-network-glitch-126100300103_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-03T03:28:23.000000Z"
     }
   ]
 }
