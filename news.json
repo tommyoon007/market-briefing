@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-13T15:48:15.417457+00:00",
+  "updated_at": "2026-10-13T21:07:32.995258+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Q3 2026 Citigroup Inc Earnings Call Transcript",
+      "title_ko": "2026년 3분기 씨티그룹(Citigroup Inc) 실적 발표 전화 회의 기록",
+      "snippet": "Oct 13, 2026 / 03:00PM GMTOperator Hello and welcome to Citi's third-quarter 2026 earnings call. Today's call will be hosted by Margo Pilic, Head of Citi Strate",
+      "snippet_ko": "2026년 10월 13일 / 오후 3:00 (GMT) 운영자: 안녕하십니까. 씨티의 2026년 3분기 실적 발표 전화 회의에 오신 것을 환영합니다. 오늘 회의는 씨티 스트래티지(Citi Strate)의 책임자인 마고 필릭(Margo Pilic) 씨가 진행합니다.",
+      "symbol": "",
+      "sentiment_score": 0.3922,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9121612/q3-2026-citigroup-inc-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-13T21:00:09.000000Z"
+    },
+    {
+      "title": "Alector, Inc. Pipeline Webinar Transcript",
+      "title_ko": "Alector, Inc. 파이프라인 웨비나 녹취록",
+      "snippet": "Oct 13, 2026 / 03:00PM GMTOperator Good day and thank you for standing by. Welcome to the Elector Pipeline Webinar, Advancing Next Generation Medicines for Neur",
+      "snippet_ko": "2026년 10월 13일 / 오후 3:00 (GMT) 운영자: 안녕하십니까. 기다려 주셔서 감사합니다. ‘Elector Pipeline 웨비나: 신경계 질환을 위한 차세대 의약품 발전’에 오신 것을 환영합니다.",
+      "symbol": "",
+      "sentiment_score": 0.2248,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9121599/alector-inc-pipeline-webinar-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-13T21:00:06.000000Z"
+    },
+    {
+      "title": "TC Energy (TRP) Partners with First Nations on Coastal GasLink Pipeline Stake",
+      "title_ko": "TC Energy(TRP), 코스트럴 가스링크 파이프라인 지분 확보를 위해 원주민 부족과 파트너십 체결",
+      "snippet": "On October 13, 2026, TC Energy Corp (NYSE: TRP) announced a landmark agreement granting five First Nations an economic stake in the Coastal GasLink pipeline thr",
+      "snippet_ko": "2026년 10월 13일, TC Energy Corp(NYSE: TRP)는 5개 원주민 부족에게 코스트 가스링크(Coastal GasLink) 파이프라인에 대한 경제적 지분을 부여하는 획기적인 협약을 체결했다고 발표했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.4856,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9121597/tc-energy-trp-partners-with-first-nations-on-coastal-gaslink-pipeline-stake",
+      "cross_verified": true,
+      "published_at": "2026-10-13T21:00:05.000000Z"
+    },
     {
       "title": "JPMorgan Chase (JPM) Files 8-K After 2026 Q3 Investor Presentation",
       "title_ko": "JPMorgan Chase(JPM), 2026년 3분기 투자자 설명회 이후 8-K 보고서 제출",
@@ -1165,45 +1201,45 @@
       "url": "https://www.livemint.com/industry/real-estate/d-mart-radhakishan-damani-firm-leases-luxury-apartment-in-mumbai-worli-for-28-5-lakh-a-month-pays-1-71-crore-deposit-11791034198444.html",
       "cross_verified": true,
       "published_at": "2026-10-03T14:32:41.000000Z"
-    },
-    {
-      "title": "Nitin Nohria: Why it’s so hard for CEOs to stay grounded",
-      "title_ko": "니틴 노리아: CEO들이 겸손함을 유지하기가 왜 그렇게 어려운가",
-      "snippet": "Do you apologize when you're late? The perks and deference that make a CEOs job easier risk disconnecting them from other peoples' lives.",
-      "snippet_ko": "늦었을 때 사과하시나요? CEO의 업무를 수월하게 만들어 주는 특권과 예우가 오히려 다른 사람들의 삶과 단절될 위험을 초래할 수 있습니다.",
-      "symbol": "",
-      "sentiment_score": 0.0772,
-      "source": "fortune.com",
-      "url": "https://fortune.com/2026/10/03/nitin-nohria-why-its-so-hard-for-ceos-to-stay-grounded/",
-      "cross_verified": true,
-      "published_at": "2026-10-03T10:30:00.000000Z"
-    },
-    {
-      "title": "Taylor Devices Stock: Another Ugly Quarter Could Set Up A Big Rebound (NASDAQ:TAYD)",
-      "title_ko": "테일러 디바이스 주가: 또 한 번의 부진한 분기 실적이 큰 반등을 이끌 수 있다 (나스닥:TAYD)",
-      "snippet": "Taylor Devices (TAYD) hit weak earnings but holds a record $55.2M backlog and strong cash flow. Read here for a detailed investment analysis.",
-      "snippet_ko": "테일러 디바이스(TAYD)는 부진한 실적을 기록했으나, 사상 최대 규모인 5,520만 달러의 수주 잔고를 보유하고 있으며 현금 흐름도 탄탄합니다. 자세한 투자 분석은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": -0.6475,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4951755-taylor-devices-another-ugly-quarter-could-set-up-a-big-rebound",
-      "cross_verified": true,
-      "published_at": "2026-10-03T10:27:11.000000Z"
-    },
-    {
-      "title": "Gold Royalty: 6x Production Growth By 2030 (NYSE:GROY)",
-      "title_ko": "골드 로열티: 2030년까지 생산량 6배 증가 전망 (NYSE:GROY)",
-      "snippet": "Gold Royalty is rated Buy, as a high current valuation offsets massive 2030 upside, although execution, dilution, and commodity risks remain. Read more on GROY.",
-      "snippet_ko": "골드 로열티(Gold Royalty)는 ‘매수’ 등급을 받았는데, 현재 높은 주가 평가가 2030년의 막대한 상승 여력을 상쇄하고 있지만, 사업 실행, 희석화 및 원자재 관련 위험은 여전히 남아 있기 때문이다. GROY에 대한 자세한 내용을 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.5751,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4951751-gold-royalty-6x-production-growth-by-2030",
-      "cross_verified": true,
-      "published_at": "2026-10-03T09:55:35.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Applied Intuition's $30 Billion Valuation Highlights Tech Sector Momentum; Apple Inc (AAPL) Remains Modestly Overvalued",
+      "title_ko": "애플라이드 인튜이션의 300억 달러 기업가치는 기술 부문의 상승세를 여실히 보여주며, 애플(AAPL)은 여전히 소폭 과대평가된 상태다",
+      "snippet": "On October 13, 2026, Applied Intuition, a software provider for autonomous vehicles, attracted acquisition offers valuing the company at $30 billion””doubling",
+      "snippet_ko": "2026년 10월 13일, 자율주행차용 소프트웨어 제공업체인 애플라이드 인튜이션(Applied Intuition)은 기업 가치를 300억 달러로 평가하는 인수 제안을 받았으며, 이는 기존 가치의 두 배에 달하는 금액이었다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4528,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9121583/applied-intuitions-30-billion-valuation-highlights-tech-sector-momentum-apple-inc-aapl-remains-modestly-overvalued",
+      "cross_verified": true,
+      "published_at": "2026-10-13T20:59:19.000000Z"
+    },
+    {
+      "title": "Analyst Dan Ives Highlights Alphabet's AI Leap with Gemini 4 Argon; GOOG Eyes $400 Target",
+      "title_ko": "애널리스트 댄 아이브스, ‘제미니 4 아르곤’을 통해 알파벳의 AI 도약을 강조… GOOG 주가 목표가 400달러 전망",
+      "snippet": "On October 13, 2026, Yorkville Ives analyst Dan Ives expressed strong confidence in Alphabet Inc (NASDAQ: GOOG), emphasizing the company's strategic shift towar",
+      "snippet_ko": "2026년 10월 13일, 요크빌 아이브스(Yorkville Ives)의 애널리스트 댄 아이브스(Dan Ives)는 알파벳(Alphabet Inc, 나스닥: GOOG)에 대한 강한 확신을 표명하며, 해당 기업의 전략적 전환을 강조했습니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.4691,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9121581/analyst-dan-ives-highlights-alphabets-ai-leap-with-gemini-4-argon-goog-eyes-400-target",
+      "cross_verified": true,
+      "published_at": "2026-10-13T20:58:40.000000Z"
+    },
+    {
+      "title": "US stocks: Nasdaq ends down as chipmakers fall and bank earnings roll in",
+      "title_ko": "미국 증시: 반도체주 하락과 은행 실적 발표 속 나스닥 지수 하락 마감",
+      "snippet": "In a recent trading session, the Nasdaq index took a hit as chip stocks continued their downward spiral, amid diverging results from major banks like Citigroup and Goldman Sachs. The PHLX chip index faced a substantial decline, sparking fears surrounding competition in this sector. Despite the turbulence, analysts express optimism about future earnings linked to AI-driven innovations.",
+      "snippet_ko": "최근 거래 세션에서 시티그룹과 골드만삭스 등 주요 은행들의 실적 발표가 엇갈리는 가운데, 반도체주들이 하락세를 이어가면서 나스닥 지수가 타격을 입었다. PHLX 반도체 지수는 큰 폭의 하락을 기록하며 해당 부문의 경쟁에 대한 우려를 불러일으켰다. 이러한 변동성에도 불구하고, 애널리스트들은 AI 기반 혁신과 연계된 향후 실적에 대해 낙관적인 전망을 내놓고 있다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.0554,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-ends-down-as-chipmakers-fall-and-bank-earnings-roll-in/articleshow/134926328.cms",
+      "cross_verified": true,
+      "published_at": "2026-10-13T20:13:21.000000Z"
+    },
     {
       "title": "Google's Next TPU Just Hit a Small Snag",
       "title_ko": "구글의 차세대 TPU에 사소한 차질이 발생했다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/intel-intc-data-center-comeback-real-recovery-or-just-a-supply-squeeze-1846307/",
       "cross_verified": true,
       "published_at": "2026-10-03T19:57:50.000000Z"
-    },
-    {
-      "title": "Market Hero or Hiroo Onoda?",
-      "title_ko": "마켓 히어로인가, 오노다 히로오인가?",
-      "snippet": "Markets may be shifting from easy-money to a new regime, demanding vigilance as valuations adjust and old paradigms reset.",
-      "snippet_ko": "시장이 완화적 통화 정책에서 새로운 국면으로 전환되고 있을 수 있으며, 이에 따라 기업 가치 평가가 조정되고 기존의 패러다임이 재편됨에 따라 각별한 주의가 요구된다.",
-      "symbol": "TSLA",
-      "sentiment_score": 0.3818,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/portfolio/market-hero-or-hiroo-onoda/article71537636.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-03T16:47:25.000000Z"
-    },
-    {
-      "title": "McDonald's: Newest Dividend King, At Fast Food Prices (NYSE:MCD)",
-      "title_ko": "맥도날드: 패스트푸드 가격으로 누리는 최신 ‘배당왕’ (NYSE:MCD)",
-      "snippet": "McDonald's is rated Buy at a deep discount vs. $301 fair value. Click for more on MCD stock.",
-      "snippet_ko": "맥도날드는 공정가치인 301달러에 비해 크게 할인된 가격에 거래되고 있어 ‘매수’ 등급을 받았습니다. MCD 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "MCD",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4951281-mcdonalds-newest-dividend-king-at-fast-food-prices",
-      "cross_verified": true,
-      "published_at": "2026-10-03T12:00:00.000000Z"
-    },
-    {
-      "title": "Super Micro’s $65 Billion Guide, HPE’s $69.33 Close, and Google’s TPU Test",
-      "title_ko": "슈퍼마이크로의 650억 달러 실적 전망, HPE의 69.33달러 종가, 그리고 구글의 TPU 테스트",
-      "snippet": "Super Micro closed up 4.22% at $43.69 into a $65 billion guide. HPE finished Friday at $69.33. Google's four orbital TPUs are a heat test, not a data center.",
-      "snippet_ko": "슈퍼마이크로는 650억 달러 규모의 실적 전망치를 발표하며 4.22% 상승한 43.69달러로 장을 마감했다. HPE는 금요일 69.33달러로 장을 마쳤다. 구글의 4개 궤도형 TPU는 데이터 센터가 아니라 열 테스트용이다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.1746,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/super-micro-65-billion-vera-rubin-hpe-google-tpu/",
-      "cross_verified": true,
-      "published_at": "2026-10-03T11:41:13.000000Z"
     }
   ]
 }
