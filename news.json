@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-13T06:25:24.319521+00:00",
+  "updated_at": "2026-10-13T15:48:15.417457+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "JPMorgan Chase (JPM) Files 8-K After 2026 Q3 Investor Presentation",
+      "title_ko": "JPMorgan Chase(JPM), 2026년 3분기 투자자 설명회 이후 8-K 보고서 제출",
+      "snippet": "JPMorgan Chase & Co. (JPM) filed a Form 8-K with the U.S. Securities and Exchange Commission on October 13, 2026, disclosing that the firm held an investor pre",
+      "snippet_ko": "JPMorgan Chase & Co. (JPM)는 2026년 10월 13일 미국 증권거래위원회(SEC)에 8-K 양식을 제출하여, 당사가 투자자 사전",
+      "symbol": "",
+      "sentiment_score": 0.1744,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9121074/jpmorgan-chase-jpm-files-8k-after-2026-q3-investor-presentation",
+      "cross_verified": true,
+      "published_at": "2026-10-13T15:30:07.000000Z"
+    },
+    {
+      "title": "Workday (WDAY) Signs Definitive Agreement to Acquire ConductorOne",
+      "title_ko": "워크데이(WDAY), 컨덕터원(ConductorOne) 인수에 관한 최종 계약 체결",
+      "snippet": "Workday, Inc. (WDAY) announced on October 12, 2026, that it has entered into a definitive agreement to acquire ConductorOne, Inc., also referred to as C1.ai, a",
+      "snippet_ko": "Workday, Inc. (WDAY)는 2026년 10월 12일, C1.ai로도 알려진 ConductorOne, Inc.를 인수하기 위한 최종 계약을 체결했다고 발표했으며, 이 회사는",
+      "symbol": "",
+      "sentiment_score": 0.5215,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9121073/workday-wday-signs-definitive-agreement-to-acquire-conductorone",
+      "cross_verified": true,
+      "published_at": "2026-10-13T15:30:07.000000Z"
+    },
+    {
+      "title": "TELUS Corporation: Kitchen Sink Cleaned, Upside Ignored (TSX:T:CA)",
+      "title_ko": "TELUS Corporation: 모든 문제가 해결되었으나 상승 여력은 간과되고 있다 (TSX:T:CA)",
+      "snippet": "TELUS reset its dividend, cut costs, and redirected C$2.7B to debt reduction, positioning for a cleaner balance sheet by 2028. Read more on the T:CA stock here.",
+      "snippet_ko": "TELUS는 배당금을 재조정하고 비용을 절감했으며, 27억 캐나다 달러를 부채 상환에 전용함으로써 2028년까지 재무 구조를 더욱 건전하게 정비할 기반을 마련했습니다. T:CA 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": -0.3182,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953830-telus-corporation-kitchen-sink-cleaned-upside-ignored",
+      "cross_verified": true,
+      "published_at": "2026-10-13T15:26:10.000000Z"
+    },
     {
       "title": "Bank of Japan's Ueda Signals Rising Inflation Nearing Target",
       "title_ko": "일본은행의 우에다 총재, 인플레이션 상승세가 목표치에 근접하고 있음을 시사",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4951751-gold-royalty-6x-production-growth-by-2030",
       "cross_verified": true,
       "published_at": "2026-10-03T09:55:35.000000Z"
-    },
-    {
-      "title": "Ball Corporation Stock: A Wager On Packaging Instead Of Beverages (NYSE:BALL)",
-      "title_ko": "볼 코퍼레이션 주식: 음료 대신 포장 산업에 거는 내기 (NYSE:BALL)",
-      "snippet": "Explore Ball Corp (BALL) in the segmented beverage market—South America growth, dividends & buybacks, and niche marketing insights. See more here.",
-      "snippet_ko": "세분화된 음료 시장에서 Ball Corp(BALL)을 살펴보세요—남미 시장 성장, 배당금 및 자사주 매입, 틈새 시장 마케팅에 대한 통찰력을 확인하세요. 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4951718-ball-corporation-a-wager-on-packaging-instead-of-beverages",
-      "cross_verified": true,
-      "published_at": "2026-10-03T03:51:35.000000Z"
-    },
-    {
-      "title": "FAA panel finds Boeing 737 Max software glitch poses no safety risk",
-      "title_ko": "FAA 위원회, 보잉 737 맥스 소프트웨어 결함이 안전상의 위험을 초래하지 않는다고 판단",
-      "snippet": "The FAA review found pilots retain full control and receive clear indications during a go-around, a decision that could aid Boeing's approval bid for the largest 737 Max variant",
-      "snippet_ko": "FAA의 검토 결과, 조종사들은 재이륙 과정에서 완전한 조종권을 유지하며 명확한 표시를 받는 것으로 나타났는데, 이러한 결정은 보잉이 737 맥스 시리즈 중 가장 큰 기종의 승인을 얻기 위한 노력에 도움이 될 수 있다.",
-      "symbol": "",
-      "sentiment_score": 0.0536,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/faa-panel-finds-boeing-737-max-software-glitch-poses-no-safety-risk-126100300111_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-03T03:38:09.000000Z"
-    },
-    {
-      "title": "A Look at RadNet Inc (RDNT) After 3.3% Gain -- GF Value $70.03 vs Price $69.93",
-      "title_ko": "3.3% 상승한 RadNet Inc(RDNT) 분석 — GF 가치 $70.03 vs 주가 $69.93",
-      "snippet": "On October 02, 2026, RadNet Inc (RDNT) shares rose 3.3% to $69.93. The stock has experienced a 52-week trading range of $50.82 to $85.84, reflecting significant",
-      "snippet_ko": "2026년 10월 2일, RadNet Inc(RDNT) 주가는 3.3% 상승한 69.93달러를 기록했습니다. 이 종목의 52주 거래 범위는 50.82달러에서 85.84달러로, 상당한",
-      "symbol": "",
-      "sentiment_score": 0.4914,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9108224/a-look-at-radnet-inc-rdnt-after-33-gain-gf-value-7003-vs-price-6993",
-      "cross_verified": true,
-      "published_at": "2026-10-02T23:19:13.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Google's Next TPU Just Hit a Small Snag",
+      "title_ko": "구글의 차세대 TPU에 사소한 차질이 발생했다",
+      "snippet": "Alphabet Inc. (GOOGL, Financials), the parent of Google, is facing a slight delay in the development of its next-generation TPU v9 chip after a supply-chain iss",
+      "snippet_ko": "구글의 모회사인 알파벳(Alphabet Inc., GOOGL, 금융)은 공급망 문제로 인해 차세대 TPU v9 칩 개발에 약간의 차질이 발생하고 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.0772,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9120901/googles-next-tpu-just-hit-a-small-snag",
+      "cross_verified": true,
+      "published_at": "2026-10-13T15:25:37.000000Z"
+    },
+    {
+      "title": "Google's TPU v9 Chip Delay Pushes Shipments to 2028, Impacting GOOG's Growth Timeline",
+      "title_ko": "구글의 TPU v9 칩 출시 지연으로 출하 시기가 2028년으로 미뤄지면서 GOOG의 성장 일정에 차질이 생겼다",
+      "snippet": "On October 13, 2026, GF Securities reported a delay in Google's TPU v9 chip rollout due to supply chain issues with the embedded multi-die interconnect bridge s",
+      "snippet_ko": "2026년 10월 13일, GF 증권은 내장형 멀티다이 상호연결 브리지의 공급망 문제로 인해 구글의 TPU v9 칩 출시가 지연될 것이라고 보고했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.4278,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9121054/googles-tpu-v9-chip-delay-pushes-shipments-to-2028-impacting-googs-growth-timeline",
+      "cross_verified": true,
+      "published_at": "2026-10-13T15:03:46.000000Z"
+    },
+    {
+      "title": "Marvell Technology Joins Open Compute Project to Boost Data Center Security (MRVL)",
+      "title_ko": "마벨 테크놀로지, 데이터 센터 보안 강화를 위해 오픈 컴퓨트 프로젝트에 합류 (MRVL)",
+      "snippet": "On October 13, 2026, Marvell Technology Inc (NASDAQ: MRVL) announced its collaboration with Microsoft and Oracle to form a working group within the Open Compute",
+      "snippet_ko": "2026년 10월 13일, 마벨 테크놀로지(Marvell Technology Inc, 나스닥: MRVL)는 마이크로소프트 및 오라클과 협력하여 오픈 컴퓨트(Open Compute) 내에 실무 그룹을 구성한다고 발표했다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.2797,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9121051/marvell-technology-joins-open-compute-project-to-boost-data-center-security-mrvl",
+      "cross_verified": true,
+      "published_at": "2026-10-13T15:02:33.000000Z"
+    },
     {
       "title": "Rs 26,340 crore added in minutes! Why HCL Tech, TCS and other IT stocks rallied up to 7%",
       "title_ko": "단 몇 분 만에 2,634억 루피가 증가! HCL 테크, TCS 등 IT주들이 최대 7% 급등한 이유",
@@ -2367,42 +2403,6 @@
       "url": "https://financefeeds.com/super-micro-65-billion-vera-rubin-hpe-google-tpu/",
       "cross_verified": true,
       "published_at": "2026-10-03T11:41:13.000000Z"
-    },
-    {
-      "title": "SpaceX Stock at $159: Bull $235, Bear $145 After Orbit",
-      "title_ko": "스페이스X 주가 159달러: 궤도 진입 후 강세 전망 235달러, 약세 전망 145달러",
-      "snippet": "SpaceX closed up 7.35% at $158.96 on 2 Oct after Starship's first orbit and three launches in 13 hours. TD Cowen's $200 call, AI compute and scenarios.",
-      "snippet_ko": "스타십의 첫 궤도 진입과 13시간 동안 세 차례의 발사가 이어진 후, 스페이스X는 10월 2일 7.35% 상승한 158.96달러에 장을 마감했다. TD 코웬의 200달러 콜 옵션, AI 컴퓨팅 및 시나리오.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3004,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/spacex-spcx-stock-159-starship-orbit-three-launches-13-hours-bull-235-bear-145/",
-      "cross_verified": true,
-      "published_at": "2026-10-03T10:51:37.000000Z"
-    },
-    {
-      "title": "How Nvidia, Micron and a surprising jobs report drove last week's stock action",
-      "title_ko": "엔비디아, 마이크론, 그리고 예상 밖의 고용 보고서가 지난주 주식 시세를 어떻게 주도했는지",
-      "snippet": "Here's a closer look at the three developments that drove the action in our portfolio last week.",
-      "snippet_ko": "지난주 우리 포트폴리오의 움직임을 주도한 세 가지 주요 동향을 자세히 살펴보겠습니다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.4504,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/03/how-nvidia-micron-and-a-surprising-jobs-report-drove-last-weeks-stock-action.html",
-      "cross_verified": true,
-      "published_at": "2026-10-03T15:06:10.000000Z"
-    },
-    {
-      "title": "Comcast (CMCSA) vs. Disney (DIS): Both Stocks Are Struggling. Is There Light at the End of the Tunnel?",
-      "title_ko": "컴캐스트(CMCSA) 대 디즈니(DIS): 두 종목 모두 부진한 행보를 보이고 있다. 터널 끝에는 희망의 빛이 보일까?",
-      "snippet": "Comcast Corporation (NASDAQ:CMCSA) and The Walt Disney Company (NYSE:DIS) have both had a rough few years.",
-      "snippet_ko": "컴캐스트 코퍼레이션(나스닥: CMCSA)과 월트 디즈니 컴퍼니(뉴욕증권거래소: DIS)는 모두 지난 몇 년간 힘든 시기를 겪어왔다.",
-      "symbol": "DIS",
-      "sentiment_score": 0.4695,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/comcast-cmcsa-vs-disney-dis-both-stocks-are-struggling-is-there-light-at-the-end-of-the-tunnel-1847567/",
-      "cross_verified": true,
-      "published_at": "2026-10-03T04:18:11.000000Z"
     }
   ]
 }
