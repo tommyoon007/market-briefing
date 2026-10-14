@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T07:22:47.801103+00:00",
+  "updated_at": "2026-10-14T13:31:49.136201+00:00",
   "status": "ok",
   "market_news": [
     {
@@ -1205,6 +1205,42 @@
   ],
   "portfolio_news": [
     {
+      "title": "Google (GOOGL) Supports European Scientists with AI Access and $3M Cloud Credits",
+      "title_ko": "구글(GOOGL), 유럽 과학자들에게 AI 이용 권한 및 300만 달러 상당의 클라우드 크레딧 제공",
+      "snippet": "On October 14, 2026, Alphabet Inc (NASDAQ: GOOGL) announced a significant initiative to empower up to 200 scientific researchers across Europe by providing acce",
+      "snippet_ko": "2026년 10월 14일, 알파벳(Alphabet Inc, 나스닥: GOOGL)은 유럽 전역의 과학 연구자 최대 200명에게 접근 권한을 제공함으로써 이들의 역량을 강화하기 위한 중요한 계획을 발표했습니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.4894,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9122850/google-googl-supports-european-scientists-with-ai-access-and-3m-cloud-credits",
+      "cross_verified": true,
+      "published_at": "2026-10-14T11:58:40.000000Z"
+    },
+    {
+      "title": "Apple (AAPL) Shines Among Tech Leaders with Top Profitability Grades in Q3 Earnings Season",
+      "title_ko": "애플(AAPL), 3분기 실적 발표 시즌에 최고 수준의 수익성 등급을 기록하며 기술 업계 선두 기업들 사이에서 두각을 나타냈다",
+      "snippet": "On October 14, 2026, Apple Inc. (AAPL) emerged as a standout among 17 technology companies recognized for exceptional profitability, all earning an A+ grade fro",
+      "snippet_ko": "2026년 10월 14일, 애플(AAPL)은 탁월한 수익성을 인정받은 17개 기술 기업 중에서도 특히 두각을 나타냈으며, 이들 기업은 모두 A+ 등급을 받았습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5011,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9122840/apple-aapl-shines-among-tech-leaders-with-top-profitability-grades-in-q3-earnings-season",
+      "cross_verified": true,
+      "published_at": "2026-10-14T11:55:27.000000Z"
+    },
+    {
+      "title": "Google Empowers European Science with AI Access, Ticker GOOG",
+      "title_ko": "구글, AI 접근성 제공으로 유럽 과학계 지원, 티커 GOOG",
+      "snippet": "On October 14, 2026, Alphabet Inc (NASDAQ: GOOG) announced a major initiative to support scientific research in Europe by providing up to 200 leading researcher",
+      "snippet_ko": "2026년 10월 14일, 알파벳(Alphabet Inc, 나스닥: GOOG)은 최대 200명의 저명한 연구자에게 지원을 제공함으로써 유럽의 과학 연구를 뒷받침하기 위한 대규모 계획을 발표했습니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3675,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9122837/google-empowers-european-science-with-ai-access-ticker-goog",
+      "cross_verified": true,
+      "published_at": "2026-10-14T11:52:07.000000Z"
+    },
+    {
       "title": "TROOPS, Inc. Announces Landmark Merger with EFFORCE Group, Expanding into Multi-Vertical Digital Asset Infrastructure and Securing Crypto Trading",
       "title_ko": "TROOPS, Inc., EFFORCE 그룹과의 획기적인 합병 발표… 다중 업종 디지털 자산 인프라로 사업 영역 확장 및 암호화폐 거래 시장 확보",
       "snippet": "Merger Agreement Architects Alan Sun and Ricky Sun Appointed as Corporate Advisors to Provide Strategic Business Advice",
@@ -2367,42 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/can-broadcom-keep-growing-its-dividend-as-ai-customers-gain-power-1847232/",
       "cross_verified": true,
       "published_at": "2026-10-04T20:33:34.000000Z"
-    },
-    {
-      "title": "Here is Why Broadcom (AVGO) is a Good Investment at Today’s Price",
-      "title_ko": "브로드컴(AVGO)이 현재 주가로 볼 때 좋은 투자 대상인 이유는 다음과 같습니다.",
-      "snippet": "Broadcom Inc. (NASDAQ:AVGO) closed at $355.14 on October 2, up 5.86% over twelve months. The business underneath moved far faster than the share price did.",
-      "snippet_ko": "브로드컴(Broadcom Inc., 나스닥: AVGO)의 주가는 10월 2일 355.14달러로 장을 마감했으며, 이는 지난 12개월 동안 5.86% 상승한 수치다. 그러나 주가보다 해당 기업의 사업 성과가 훨씬 더 빠르게 성장했다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.4043,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/here-is-why-broadcom-avgo-is-a-good-investment-at-todays-price-1848228/",
-      "cross_verified": true,
-      "published_at": "2026-10-04T20:16:56.000000Z"
-    },
-    {
-      "title": "Nvidia’s AI Safety Push Could Strengthen Its Moat. But Is It a Stock Catalyst Yet?",
-      "title_ko": "엔비디아의 AI 안전성 강화 노력은 경쟁 우위를 공고히 할 수 있다. 하지만 이것이 아직 주가 상승의 촉매제가 될 수 있을까?",
-      "snippet": "Nvidia Corporation (NASDAQ:NVDA) is adding the Open Agent Safety Platform to its AI infrastructure stack, offering an open software and reference system for securing AI agents from testing to deployment...",
-      "snippet_ko": "엔비디아(NVIDIA Corporation, 나스닥: NVDA)는 자사의 AI 인프라 스택에 ‘오픈 에이전트 안전 플랫폼(Open Agent Safety Platform)’을 추가하여, 테스트 단계부터 배포에 이르기까지 AI 에이전트의 보안을 보장하기 위한 개방형 소프트웨어 및 참조 시스템을 제공하게 되었습니다...",
-      "symbol": "NVDA",
-      "sentiment_score": 0.5773,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/nvidias-ai-safety-push-could-strengthen-its-moat-but-is-it-a-stock-catalyst-yet-1847306/",
-      "cross_verified": true,
-      "published_at": "2026-10-04T21:14:00.000000Z"
-    },
-    {
-      "title": "Here are 3 things we're watching in the stock market in the week ahead",
-      "title_ko": "다음 주 주식 시장에서 주목해야 할 3가지 사항은 다음과 같습니다.",
-      "snippet": "The oil and bond markets will remain a critical driver of stocks.",
-      "snippet_ko": "석유 및 채권 시장은 앞으로도 주식 시장의 핵심 동력으로 작용할 것이다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.3524,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/investingclub/2026/10/04/here-are-3-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-      "cross_verified": true,
-      "published_at": "2026-10-04T15:33:05.000000Z"
     }
   ]
 }
