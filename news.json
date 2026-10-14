@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-14T13:31:49.136201+00:00",
+  "updated_at": "2026-10-14T18:26:51.828883+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Russell 2000 ETF breaks below major moving averages and tags a near 5-month low",
+      "title_ko": "러셀 2000 ETF가 주요 이동평균선을 하향 돌파하며 약 5개월 만의 최저치를 기록했습니다.",
+      "snippet": "IWM hits multi-month lows below key moving averages as RSI signals oversold small-cap weakness.",
+      "snippet_ko": "IWM이 주요 이동평균선을 하회하며 수개월 만에 최저치를 기록한 가운데, RSI는 소형주 시장의 약세를 나타내는 과매도 신호를 보내고 있다.",
+      "symbol": "",
+      "sentiment_score": -0.6597,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4653068-russell-2000-etf-breaks-below-major-moving-averages-and-tags-a-near-5-month-low",
+      "cross_verified": true,
+      "published_at": "2026-10-14T17:33:26.000000Z"
+    },
+    {
+      "title": "AeroVironment (AVAV) Signs MOU with Alpha Unmanned Systems to Boost JUMP 20 Support in Europe",
+      "title_ko": "에어로바이론먼트(AVAV), 유럽 내 JUMP 20 지원 확대를 위해 알파 무인 시스템즈와 양해각서(MOU) 체결",
+      "snippet": "On October 14, 2026, AeroVironment Inc (NASDAQ: AVAV) announced a memorandum of understanding with Alpha Unmanned Systems S.L. to explore collaboration aimed at",
+      "snippet_ko": "2026년 10월 14일, AeroVironment Inc(나스닥: AVAV)는 Alpha Unmanned Systems S.L.과 다음과 같은 목적을 위한 협력 방안을 모색하기 위한 양해각서(MOU)를 체결했다고 발표했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.7041,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9123685/aerovironment-avav-signs-mou-with-alpha-unmanned-systems-to-boost-jump-20-support-in-europe",
+      "cross_verified": true,
+      "published_at": "2026-10-14T17:26:18.000000Z"
+    },
+    {
+      "title": "Salesforce (CRM) Shares Dip Amid Moderate Bearish Sentiment and Options Activity",
+      "title_ko": "세일즈포스(CRM) 주가, 소폭의 약세 심리와 옵션 거래 활동 속에 하락",
+      "snippet": "On October 14, 2026, Salesforce Inc (NYSE: CRM) experienced a decline of $2.06, closing near $235.96, reflecting a moderate bearish outlook among traders. The o",
+      "snippet_ko": "2026년 10월 14일, 세일즈포스(Salesforce Inc, NYSE: CRM) 주가는 2.06달러 하락하여 235.96달러 부근에서 장을 마감했으며, 이는 트레이더들 사이에서 다소 약세적인 전망이 반영된 결과였다. 이",
+      "symbol": "",
+      "sentiment_score": -0.1027,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9123684/salesforce-crm-shares-dip-amid-moderate-bearish-sentiment-and-options-activity",
+      "cross_verified": true,
+      "published_at": "2026-10-14T17:25:54.000000Z"
+    },
     {
       "title": "Johnson & Johnson stock rout: What's driving the sharp decline? - J&J stock slides despite higher earnings guidance",
       "title_ko": "존슨앤드존슨 주가 폭락: 급락의 원인은 무엇인가? - 실적 전망 상향 조정에도 J&J 주가 하락",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4951796-conduent-incorporated-cndt-analyst-investor-day-slideshow",
       "cross_verified": true,
       "published_at": "2026-10-03T23:11:59.000000Z"
-    },
-    {
-      "title": "Arcos Dorados Holdings Inc. (ARCO) Analyst/Investor Day - Slideshow (NYSE:ARCO) 2026-10-03",
-      "title_ko": "아르코스 도라도스 홀딩스(Arcos Dorados Holdings Inc., ARCO) 애널리스트·투자자 설명회 - 슬라이드쇼 (NYSE:ARCO) 2026-10-03",
-      "snippet": "2026-10-03. The following slide deck was published by Arcos Dorados Holdings Inc.",
-      "snippet_ko": "2026년 10월 3일. 다음 슬라이드 자료는 Arcos Dorados Holdings Inc.에서 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4951795-arcos-dorados-holdings-inc-arco-analyst-investor-day-slideshow",
-      "cross_verified": true,
-      "published_at": "2026-10-03T23:10:38.000000Z"
-    },
-    {
-      "title": "Chime Q2 Results Beat as Prime Tier Drives Spending Acceleration",
-      "title_ko": "프라임 티어 부문이 지출 증가를 주도하며 Chime의 2분기 실적이 기대치를 상회했다",
-      "snippet": "Chime's premium membership tier drove card volume growth of 17% in Q2, lifting full-year revenue guidance to 25–26% and EBITDA margin to",
-      "snippet_ko": "Chime의 프리미엄 멤버십 등급 덕분에 2분기 카드 거래량이 17% 증가했으며, 이에 따라 연간 매출 전망치는 25~26%로 상향 조정되었고 EBITDA 마진은",
-      "symbol": "",
-      "sentiment_score": 0.8166,
-      "source": "thefintechtimes.com",
-      "url": "https://thefintechtimes.com/chime-q2-results-beat-as-prime-tier-drives-spending-acceleration/",
-      "cross_verified": true,
-      "published_at": "2026-10-03T18:00:08.000000Z"
-    },
-    {
-      "title": "The spice of the matter",
-      "title_ko": "이 문제의 핵심",
-      "snippet": "Orkla India's heritage brands face inflation and distribution challenges, yet offer a favorable valuation and growth avenues amid double-digit revenue potential.",
-      "snippet_ko": "오르클라 인디아의 전통 브랜드들은 인플레이션과 유통 문제에 직면해 있지만, 두 자릿수 매출 성장 잠재력을 바탕으로 유리한 기업 가치 평가와 성장 기회를 제공하고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.011,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/portfolio/the-spice-of-the-matter/article71540150.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-03T16:04:43.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Alphabet Stocks Trade 36.97% Above GF Value as Google Launches Gemini 4 Argon",
+      "title_ko": "구글이 ‘제미니 4 아르곤’을 출시함에 따라 알파벳 주가가 GF 가치보다 36.97% 높은 수준에서 거래되고 있다",
+      "snippet": "Alphabet, the Google parent and cloud-services group (GOOGL), launched Gemini 4 Argon to developers, businesses and paid subscribers, while its Class A shares t",
+      "snippet_ko": "구글의 모회사이자 클라우드 서비스 기업인 알파벳(GOOGL)은 개발자, 기업 및 유료 구독자를 대상으로 ‘제미니 4 아르곤’을 출시했으며, 한편 알파벳의 A종 주식은…",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.371,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9123417/alphabet-stocks-trade-3697-above-gf-value-as-google-launches-gemini-4-argon",
+      "cross_verified": true,
+      "published_at": "2026-10-14T17:12:45.000000Z"
+    },
+    {
+      "title": "META Maintains Buy Rating by UBS -- Price Target Raised to $884",
+      "title_ko": "UBS, META에 대해 ‘매수’ 등급 유지… 목표주가 884달러로 상향 조정",
+      "snippet": "On October 13, 2026, Meta Platforms Inc. (META) received a positive rating update from UBS analyst Stephen Ju, who maintained a Buy rating while raising the pri",
+      "snippet_ko": "2026년 10월 13일, 메타 플랫폼스(META)는 UBS 애널리스트 스티븐 주로부터 긍정적인 등급 상향 조정을 받았으며, 그는 ‘매수(Buy)’ 등급을 유지하면서 목표 주가를 상향 조정했다.",
+      "symbol": "META",
+      "sentiment_score": 0.3859,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9123674/meta-maintains-buy-rating-by-ubs-price-target-raised-to-884",
+      "cross_verified": true,
+      "published_at": "2026-10-14T17:04:04.000000Z"
+    },
+    {
+      "title": "GOOGL Maintained by UBS -- Price Target Raised to $380",
+      "title_ko": "GOOGL, UBS가 담당 — 목표주가 380달러로 상향 조정",
+      "snippet": "Alphabet Inc (GOOGL) Analyst Rating Update On October 14, 2026, UBS, led by analyst Stephen Ju, has maintained its rating on Alphabet (GOOGL) at Neutral whil",
+      "snippet_ko": "알파벳(Alphabet Inc, GOOGL) 애널리스트 등급 업데이트: 2026년 10월 14일, 스티븐 주(Stephen Ju) 애널리스트가 이끄는 UBS는 알파벳(GOOGL)에 대한 등급을 ‘중립(Neutral)’으로 유지했으며, 한편",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3272,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9123672/googl-maintained-by-ubs-price-target-raised-to-380",
+      "cross_verified": true,
+      "published_at": "2026-10-14T17:03:20.000000Z"
+    },
     {
       "title": "Google (GOOGL) Supports European Scientists with AI Access and $3M Cloud Credits",
       "title_ko": "구글(GOOGL), 유럽 과학자들에게 AI 이용 권한 및 300만 달러 상당의 클라우드 크레딧 제공",
@@ -2367,42 +2403,6 @@
       "url": "https://www.business-standard.com/world-news/former-anthropic-researcher-jacob-coxon-to-testify-at-nyc-hearing-on-ai-126100500088_1.html",
       "cross_verified": true,
       "published_at": "2026-10-05T03:22:46.000000Z"
-    },
-    {
-      "title": "The Trade Desk vs. Alphabet: Is the Cheaper AI Advertising Stock Worth the Risk?",
-      "title_ko": "더 트레이드 데스크 대 알파벳: 저렴한 AI 광고 관련 주식, 위험을 감수할 가치가 있을까?",
-      "snippet": "The Trade Desk offers something Alphabet does not: a way to invest in digital advertising without also financing a giant cloud-computing buildout.",
-      "snippet_ko": "더 트레이드 데스크는 알파벳이 제공하지 않는 것을 제공합니다. 바로 거대한 클라우드 컴퓨팅 인프라 구축에 자금을 투입하지 않고도 디지털 광고에 투자할 수 있는 방법입니다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.5787,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/the-trade-desk-vs-alphabet-is-the-cheaper-ai-advertising-stock-worth-the-risk-1848277/",
-      "cross_verified": true,
-      "published_at": "2026-10-04T23:25:25.000000Z"
-    },
-    {
-      "title": "Amazon vs. Alphabet: Which AI Cloud Stock Makes the Better Case After the Spending Bill?",
-      "title_ko": "아마존 대 알파벳: 지출 법안 통과 후 어느 AI 클라우드주가 더 유망한가?",
-      "snippet": "Amazon's cloud business earns almost twice as much operating profit as Google Cloud. Google Cloud is growing more than twice as fast.",
-      "snippet_ko": "아마존의 클라우드 사업 부문은 구글 클라우드보다 거의 두 배 가까운 영업이익을 올리고 있다. 반면 구글 클라우드의 성장 속도는 아마존보다 두 배 이상 빠르다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.3818,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/amazon-vs-alphabet-which-ai-cloud-stock-makes-the-better-case-after-the-spending-bill-1848279/",
-      "cross_verified": true,
-      "published_at": "2026-10-04T23:24:15.000000Z"
-    },
-    {
-      "title": "Can Broadcom Keep Growing Its Dividend as AI Customers Gain Power?",
-      "title_ko": "AI 고객사의 영향력이 커지는 가운데, 브로드컴은 배당금을 계속 늘려나갈 수 있을까?",
-      "snippet": "Broadcom Inc. (NASDAQ:AVGO) has enough cash generation to cover its dividend comfortably.",
-      "snippet_ko": "브로드컴(Broadcom Inc., 나스닥: AVGO)은 배당금을 여유 있게 충당할 수 있을 만큼 충분한 현금 창출 능력을 갖추고 있다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.5348,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/can-broadcom-keep-growing-its-dividend-as-ai-customers-gain-power-1847232/",
-      "cross_verified": true,
-      "published_at": "2026-10-04T20:33:34.000000Z"
     }
   ]
 }
