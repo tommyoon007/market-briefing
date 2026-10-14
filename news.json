@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T21:07:32.995258+00:00",
+  "updated_at": "2026-10-14T01:02:32.983639+00:00",
   "status": "ok",
   "market_news": [
     {
@@ -1205,6 +1205,42 @@
   ],
   "portfolio_news": [
     {
+      "title": "Apple Stock: The Biggest AI Winner Isn't Building AI (NASDAQ:AAPL)",
+      "title_ko": "애플 주가: AI 분야에서 가장 큰 수혜자는 AI를 직접 개발하지 않는 기업이다 (나스닥:AAPL)",
+      "snippet": "Apple (AAPL) is positioned as the cleanest large-cap way to benefit from AI adoption without heavy AI infrastructure costs. Read what investors may be missing.",
+      "snippet_ko": "애플(AAPL)은 막대한 AI 인프라 비용 부담 없이 AI 도입의 혜택을 누릴 수 있는 가장 효율적인 대형주 투자처로 꼽히고 있습니다. 투자자들이 간과하고 있을지도 모르는 점을 확인해 보세요.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5223,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953938-apple-the-biggest-ai-winner-isnt-building-ai",
+      "cross_verified": true,
+      "published_at": "2026-10-14T00:12:18.000000Z"
+    },
+    {
+      "title": "Google's Gemini 4 Argon Launches Globally for Developers and Businesses",
+      "title_ko": "구글의 ‘제미니 4 아르곤’이 개발자와 기업을 대상으로 전 세계에 출시됐다",
+      "snippet": "On October 13, 2026, Google has officially launched Gemini 4 Argon for developers and enterprises, making it accessible through AI Studio and the Gemini platfor",
+      "snippet_ko": "2026년 10월 13일, 구글은 개발자와 기업을 대상으로 ‘Gemini 4 Argon’을 공식 출시했으며, AI Studio와 Gemini 플랫폼을 통해 이 서비스를 이용할 수 있게 되었습니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.1923,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9121973/googles-gemini-4-argon-launches-globally-for-developers-and-businesses",
+      "cross_verified": true,
+      "published_at": "2026-10-13T23:51:01.000000Z"
+    },
+    {
+      "title": "Arm Holdings (ARM) Sees Modest Price Uptick Amid Elevated Options Activity",
+      "title_ko": "암 홀딩스(ARM), 옵션 거래량 증가 속에 주가가 소폭 상승",
+      "snippet": "On October 13, 2026, Arm Holdings PLC (NASDAQ: ARM) experienced a slight increase in its stock price, rising by $0.44 or 0.17% to approximately $255.68. This mo",
+      "snippet_ko": "2026년 10월 13일, Arm Holdings PLC(나스닥: ARM)의 주가는 0.44달러(0.17%) 상승하여 약 255.68달러를 기록하며 소폭 상승세를 보였다. 이 움직임은",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2617,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9121827/arm-holdings-arm-sees-modest-price-uptick-amid-elevated-options-activity",
+      "cross_verified": true,
+      "published_at": "2026-10-13T22:50:42.000000Z"
+    },
+    {
       "title": "Applied Intuition's $30 Billion Valuation Highlights Tech Sector Momentum; Apple Inc (AAPL) Remains Modestly Overvalued",
       "title_ko": "애플라이드 인튜이션의 300억 달러 기업가치는 기술 부문의 상승세를 여실히 보여주며, 애플(AAPL)은 여전히 소폭 과대평가된 상태다",
       "snippet": "On October 13, 2026, Applied Intuition, a software provider for autonomous vehicles, attracted acquisition offers valuing the company at $30 billion””doubling",
@@ -2367,42 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/synopsys-snps-has-a-strong-design-business-is-its-growth-worth-the-premium-1847113/",
       "cross_verified": true,
       "published_at": "2026-10-04T01:54:01.000000Z"
-    },
-    {
-      "title": "Google’s Free AI Video Push Is a Boost for Storage. Have WDC and STX Already Priced It In?",
-      "title_ko": "구글의 무료 AI 동영상 서비스 확대는 저장 장치 시장에 호재다. WDC와 STX는 이미 이를 주가에 반영했을까?",
-      "snippet": "Alphabet Inc. (NASDAQ:GOOG) is removing the cost barrier to Google Vids, allowing anyone with a Google account to use its AI video generator for free through the Gemini Omni 1.1 Flash model.",
-      "snippet_ko": "알파벳(Alphabet Inc., 나스닥: GOOG)은 ‘구글 비드(Google Vids)’의 비용 장벽을 없애고, 구글 계정을 보유한 누구나 ‘제미니 옴니 1.1 플래시(Gemini Omni 1.1 Flash)’ 모델을 통해 AI 동영상 생성기를 무료로 이용할 수 있도록 하고 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3883,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/googles-free-ai-video-push-is-a-boost-for-storage-have-wdc-and-stx-already-priced-it-in-1844319/",
-      "cross_verified": true,
-      "published_at": "2026-10-04T01:07:34.000000Z"
-    },
-    {
-      "title": "Jim Cramer Views Intel (INTC) As A Winning Turnaround Amid CPU Demand Growth",
-      "title_ko": "짐 크레이머, CPU 수요 증가 속에 인텔(INTC)을 성공적인 회생 사례로 평가",
-      "snippet": "During the September 28 episode of Mad Money, Jim Cramer addressed Intel Corporation (NASDAQ:INTC) and its ongoing business transformation, as he said: Members of the CNBC Investing Club know I've been...",
-      "snippet_ko": "9월 28일 방송된 ‘매드 머니(Mad Money)’에서 짐 크레이머는 인텔(NASDAQ:INTC)과 현재 진행 중인 사업 구조 조정과 관련해 다음과 같이 언급했습니다. “CNBC 투자 클럽 회원분들은 제가 그동안...”",
-      "symbol": "INTC",
-      "sentiment_score": 0.2457,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/jim-cramer-views-intel-intc-as-a-winning-turnaround-amid-cpu-demand-growth-1846589/",
-      "cross_verified": true,
-      "published_at": "2026-10-03T20:10:26.000000Z"
-    },
-    {
-      "title": "Intel (INTC) Data Center Comeback: Real Recovery or Just a Supply Squeeze?",
-      "title_ko": "인텔(INTC) 데이터 센터 부문의 부활: 진정한 회복인가, 아니면 단순한 공급 차질인가?",
-      "snippet": "Intel Corp. (NASDAQ:INTC) continues executing its AI-driven turnaround, backed by strong demand across CPUs, ASICs, advanced packaging, and its foundry network.",
-      "snippet_ko": "인텔(Intel Corp., 나스닥: INTC)은 CPU, ASIC, 첨단 패키징 및 파운드리 네트워크 전반에 걸친 강력한 수요에 힘입어 AI 중심의 사업 재건 전략을 지속적으로 추진하고 있다.",
-      "symbol": "INTC",
-      "sentiment_score": 0.7512,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/intel-intc-data-center-comeback-real-recovery-or-just-a-supply-squeeze-1846307/",
-      "cross_verified": true,
-      "published_at": "2026-10-03T19:57:50.000000Z"
     }
   ]
 }
