@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-14T01:02:32.983639+00:00",
+  "updated_at": "2026-10-14T07:22:47.801103+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Johnson & Johnson stock rout: What's driving the sharp decline? - J&J stock slides despite higher earnings guidance",
+      "title_ko": "존슨앤드존슨 주가 폭락: 급락의 원인은 무엇인가? - 실적 전망 상향 조정에도 J&J 주가 하락",
+      "snippet": "Johnson & Johnson shares fell sharply on October 13, with losses reaching about 6.8% during intraday trading, despite the healthcare giant raising its full-year earnings outlook. Investors focused on weak reported profits and uneven performance across its business segments. (Source: GuruFocus, Investing.com) J&J stock slides despite higher earnings guidance",
+      "snippet_ko": "10월 13일, 헬스케어 업계의 거대 기업인 존슨앤드존슨(Johnson & Johnson)이 연간 실적 전망치를 상향 조정했음에도 불구하고 주가는 급락했으며, 장중 한때 약 6.8%의 하락폭을 기록했다. 투자자들은 부진한 실적과 사업 부문별 성과 격차에 주목했다. (출처: GuruFocus, Investing.com) 실적 전망치 상향에도 J&J 주가 하락",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/johnson-amp-johnson-stock-rout-whats-driving-the-sharp-decline/slideshow/134935157.cms",
+      "cross_verified": true,
+      "published_at": "2026-10-14T06:53:09.000000Z"
+    },
+    {
+      "title": "VodafoneZiggo Receives EU Commission Clearance For Tower Sale",
+      "title_ko": "보다폰 지고, 타워 매각에 대해 EU 집행위원회 승인 획득",
+      "snippet": "DENVER and AMSTERDAM, Oct. 14, 2026 (GLOBE NEWSWIRE) -- Liberty Global (Nasdaq: LBTYA, LBTYB, LBTYK) welcomes EU commission clearance of its sale of VodafoneZiggo’s passive tower assets to DigitalBridge, TD Greystone Infrastructure and L&G.",
+      "snippet_ko": "덴버 및 암스테르담, 2026년 10월 14일 (GLOBE NEWSWIRE) -- 리버티 글로벌(Liberty Global, 나스닥: LBTYA, LBTYB, LBTYK)은 보다폰지고(VodafoneZiggo)의 수동형 타워 자산을 디지털브리지(DigitalBridge), TD 그레이스톤 인프라(TD Greystone Infrastructure), L&G에 매각하는 거래에 대해 유럽연합(EU) 집행위원회의 승인을 받은 것을 환영합니다.",
+      "symbol": "",
+      "sentiment_score": 0.7055,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/14/tmt-newswire/globenewswire/vodafoneziggo-receives-eu-commission-clearance-for-tower-sale/2445247",
+      "cross_verified": true,
+      "published_at": "2026-10-14T06:11:19.000000Z"
+    },
     {
       "title": "Q3 2026 Citigroup Inc Earnings Call Transcript",
       "title_ko": "2026년 3분기 씨티그룹(Citigroup Inc) 실적 발표 전화 회의 기록",
@@ -1177,33 +1201,57 @@
       "url": "https://www.thehindubusinessline.com/portfolio/the-spice-of-the-matter/article71540150.ece",
       "cross_verified": true,
       "published_at": "2026-10-03T16:04:43.000000Z"
-    },
-    {
-      "title": "Nearly 1,400 laid off at Ohio factory days before Trump rally. Former supporter will help elect Dems",
-      "title_ko": "트럼프 유세 며칠 전 오하이오 주 공장에서 약 1,400명이 해고됐다. 한때 트럼프 지지자였던 이 인물이 민주당 후보 당선을 돕기로 했다.",
-      "snippet": "The layoffs were large enough to basically erase an entire year of job growth in the greater Dayton, Ohio, area.",
-      "snippet_ko": "이번 정리해고 규모는 오하이오주 데이턴 광역권의 1년 치 일자리 증가분을 사실상 무효화할 정도로 컸다.",
-      "symbol": "",
-      "sentiment_score": 0.6124,
-      "source": "fortune.com",
-      "url": "https://fortune.com/2026/10/03/ohio-truck-factory-layoffs-trump-rally-former-supporter-democrats-midterm-elections/",
-      "cross_verified": true,
-      "published_at": "2026-10-03T14:37:36.000000Z"
-    },
-    {
-      "title": "Radhakishan Damani's firm leases luxury apartment in Mumbai’s Worli for ₹28.5 lakh a month, pays ₹1.71 crore deposit",
-      "title_ko": "라다키샨 다마니의 회사는 뭄바이 워리 지역의 고급 아파트를 월 28.5 lakh에 임대하고, 보증금으로 1.71 crore를 지불했다.",
-      "snippet": "The 6,831-square-foot apartment is located on the 19th floor of Tower B of Three Sixty West, a luxury residential project on Dr Annie Besant Road in Worli",
-      "snippet_ko": "6,831제곱피트 규모의 이 아파트는 워리(Worli)의 애니 베산트 박사 로드(Dr Annie Besant Road)에 위치한 고급 주거 단지인 ‘쓰리 식스티 웨스트(Three Sixty West)’의 B동 19층에 자리 잡고 있습니다.",
-      "symbol": "",
-      "sentiment_score": -0.2263,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/industry/real-estate/d-mart-radhakishan-damani-firm-leases-luxury-apartment-in-mumbai-worli-for-28-5-lakh-a-month-pays-1-71-crore-deposit-11791034198444.html",
-      "cross_verified": true,
-      "published_at": "2026-10-03T14:32:41.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "TROOPS, Inc. Announces Landmark Merger with EFFORCE Group, Expanding into Multi-Vertical Digital Asset Infrastructure and Securing Crypto Trading",
+      "title_ko": "TROOPS, Inc., EFFORCE 그룹과의 획기적인 합병 발표… 다중 업종 디지털 자산 인프라로 사업 영역 확장 및 암호화폐 거래 시장 확보",
+      "snippet": "Merger Agreement Architects Alan Sun and Ricky Sun Appointed as Corporate Advisors to Provide Strategic Business Advice",
+      "snippet_ko": "인수합병(M&A) 전문가 앨런 선과 리키 선, 전략적 비즈니스 자문을 제공할 기업 고문으로 선임",
+      "symbol": "AAPL",
+      "sentiment_score": 0.685,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/14/tmt-newswire/media-outreach-newswire/troops-inc-announces-landmark-merger-with-efforce-group-expanding-into-multi-vertical-digital-asset-infrastructure-and-securing-crypto-trading/2445243",
+      "cross_verified": true,
+      "published_at": "2026-10-14T06:10:55.000000Z"
+    },
+    {
+      "title": "PRUDENTIAL FINANCIAL INC Acquires 1,351,012 Shares of National Healthcare Properties Inc (NHPAP.PFD)",
+      "title_ko": "프루덴셜 파이낸셜(PRUDENTIAL FINANCIAL INC)이 내셔널 헬스케어 프로퍼티스(National Healthcare Properties Inc, NHPAP.PFD) 주식 1,351,012주를 취득했다.",
+      "snippet": "A New Position in Healthcare Real Estate On Sept. 30, 2026, PRUDENTIAL FINANCIAL INC (Trades, Portfolio) initiated a new holding of 1,351,012 shares of National",
+      "snippet_ko": "의료 부동산 분야의 새로운 투자 포지션 2026년 9월 30일, PRUDENTIAL FINANCIAL INC (거래, 포트폴리오)는 National 주식 1,351,012주를 신규로 매수했습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2309,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9122157/prudential-financial-inc-acquires-1351012-shares-of-national-healthcare-properties-inc-nhpappfd",
+      "cross_verified": true,
+      "published_at": "2026-10-14T03:33:23.000000Z"
+    },
+    {
+      "title": "Prudential Financial Inc. Opens New Position in Neurogene Inc. (NGNE) With 2.23 Million Share Purchase",
+      "title_ko": "프루덴셜 파이낸셜(Prudential Financial Inc.)이 뉴로진(Neurogene Inc., NGNE) 주식 223만 주를 매입하며 신규 지분을 확보했다.",
+      "snippet": "Prudential Financial Inc. has established a new position in Neurogene Inc. (NGNE), acquiring 2,231,357 shares at a trade price of $27.82 per share on September",
+      "snippet_ko": "프루덴셜 파이낸셜(Prudential Financial Inc.)은 뉴로진(Neurogene Inc., NGNE)에 대한 신규 지분을 확보했으며, 9월 주당 27.82달러의 거래 가격으로 2,231,357주를 매입했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2565,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9122156/prudential-financial-inc-opens-new-position-in-neurogene-inc-ngne-with-223-million-share-purchase",
+      "cross_verified": true,
+      "published_at": "2026-10-14T03:32:57.000000Z"
+    },
+    {
+      "title": "Tesla: The Next Growth Engine Is Taking Shape (NASDAQ:TSLA)",
+      "title_ko": "테슬라: 차세대 성장 동력이 모습을 드러내고 있다 (나스닥:TSLA)",
+      "snippet": "Tesla's nearly 1.5 million paid FSD customers and 55% North American attach rate strengthen its software distribution opportunity. See why TSLA stock is a Buy.",
+      "snippet_ko": "테슬라의 유료 FSD 가입자 약 150만 명과 북미 지역 55%의 도입률은 소프트웨어 배포 기회를 더욱 공고히 하고 있습니다. TSLA 주식을 ‘매수’해야 하는 이유를 확인해 보세요.",
+      "symbol": "TSLA",
+      "sentiment_score": 0.5363,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4953973-tesla-the-next-growth-engine-is-taking-shape",
+      "cross_verified": true,
+      "published_at": "2026-10-14T06:11:22.000000Z"
+    },
     {
       "title": "Apple Stock: The Biggest AI Winner Isn't Building AI (NASDAQ:AAPL)",
       "title_ko": "애플 주가: AI 분야에서 가장 큰 수혜자는 AI를 직접 개발하지 않는 기업이다 (나스닥:AAPL)",
@@ -2355,54 +2403,6 @@
       "url": "https://www.cnbc.com/investingclub/2026/10/04/here-are-3-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
       "cross_verified": true,
       "published_at": "2026-10-04T15:33:05.000000Z"
-    },
-    {
-      "title": "Meta Muse: Meta Stock Rose Nearly 13% on a $28.5 Billion Checkout Bet",
-      "title_ko": "메타 뮤즈: 285억 달러 규모의 ‘체크아웃’ 투자 기대감에 메타 주가 13% 가까이 상승",
-      "snippet": "Meta stock rose nearly 13% as Muse passed ChatGPT. Shopify and PayPal took the checkout, Amazon blocked the agent, and Truist's $28.5 billion is not guidance.",
-      "snippet_ko": "뮤즈가 챗GPT를 제치자 메타 주가가 13% 가까이 상승했다. 쇼피파이와 페이팔이 결제 과정을 주도했고, 아마존은 에이전트를 차단했으며, 트루이스트의 285억 달러는 실적 전망치가 아니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.1175,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/meta-muse-meta-stock-13-percent-28-5-billion/",
-      "cross_verified": true,
-      "published_at": "2026-10-04T10:45:49.000000Z"
-    },
-    {
-      "title": "Google Prices Gemini 4 Argon at $2. Alphabet Closed at $343.50 Behind the Gate",
-      "title_ko": "구글은 제미니 4 아르곤의 가격을 2달러로 책정했다. 알파벳은 343.50달러에 장을 마감했다.",
-      "snippet": "Google priced Gemini 4 Argon at $2 per million input tokens, but most paying customers still cannot buy it. Alphabet Class A closed Friday at $343.50.",
-      "snippet_ko": "구글은 제미니 4 아르곤의 가격을 입력 토큰 100만 개당 2달러로 책정했으나, 대부분의 유료 고객은 여전히 이를 구매할 수 없다. 알파벳 A종 주식은 금요일 343.50달러에 장을 마감했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2009,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/google-gemini-4-argon-2-dollar-alphabet-stock/",
-      "cross_verified": true,
-      "published_at": "2026-10-04T09:45:49.000000Z"
-    },
-    {
-      "title": "Global Market Update: US Labor Slowdown, Google’s Legal Woes, and Geopolitical Shifts",
-      "title_ko": "글로벌 시장 동향: 미국 고용 시장 둔화, 구글의 법적 문제, 지정학적 변화",
-      "snippet": "The US labor market showed signs of significant fatigue in September, with employers adding only 29,000 jobs, a stark drop from the 133,000 added in August",
-      "snippet_ko": "9월 미국 노동시장은 상당한 피로감을 드러냈는데, 고용주들이 창출한 일자리가 2만 9천 개에 그쳐 8월의 13만 3천 개에 비해 급격히 감소했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.7075,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/global-market-update-us-labor-slowdown-googles-legal-woes-and-geopolitical-shifts/72569/",
-      "cross_verified": true,
-      "published_at": "2026-10-04T05:38:14.000000Z"
-    },
-    {
-      "title": "Synopsys (SNPS) Has a Strong Design Business. Is Its Growth Worth the Premium?",
-      "title_ko": "시노프시스(SNPS)는 견실한 설계 사업 부문을 보유하고 있다. 이러한 성장세가 프리미엄을 감수할 만한 가치가 있을까?",
-      "snippet": "Synopsys, Inc. (NASDAQ:SNPS) has a durable place in chip design: changing established software and validated chip components can be costly and risky.",
-      "snippet_ko": "시노프시스(Synopsys, Inc.)(나스닥: SNPS)는 칩 설계 분야에서 확고한 입지를 차지하고 있다. 이미 정착된 소프트웨어와 검증된 칩 구성 요소를 변경하는 것은 비용이 많이 들고 위험할 수 있기 때문이다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.3235,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/synopsys-snps-has-a-strong-design-business-is-its-growth-worth-the-premium-1847113/",
-      "cross_verified": true,
-      "published_at": "2026-10-04T01:54:01.000000Z"
     }
   ]
 }
