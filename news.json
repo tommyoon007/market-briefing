@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-14T18:26:51.828883+00:00",
+  "updated_at": "2026-10-14T23:05:43.246740+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "LQDA Upgraded by LifeSci Capital -- Price Target Announced at $59.00",
+      "title_ko": "LifeSci Capital, LQDA 등급 상향 조정 -- 목표주가 59.00달러로 발표",
+      "snippet": "Liquidia Corp (LQDA) Analyst Rating Update On October 2, 2026, Liquidia (LQDA) was upgraded to Outperform by LifeSci Capital. The firm's analyst, Gaurav Main",
+      "snippet_ko": "리퀴디아(LQDA) 애널리스트 평가 업데이트 2026년 10월 2일, 라이프사이 캐피털(LifeSci Capital)은 리퀴디아(LQDA)에 대한 투자 등급을 ‘아웃퍼폼(Outperform)’으로 상향 조정했습니다. 이 회사의 애널리스트 가우라브 메인(Gaurav Main)은",
+      "symbol": "",
+      "sentiment_score": 0.3717,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9124139/lqda-upgraded-by-lifesci-capital-price-target-announced-at-5900",
+      "cross_verified": true,
+      "published_at": "2026-10-14T22:31:33.000000Z"
+    },
+    {
+      "title": "Jaguar Health (JAGX) Announces Special Stock Dividend Ahead of October 16 Ex-Dividend Date",
+      "title_ko": "재규어 헬스(JAGX), 10월 16일 배당락일 앞두고 특별 주식배당 발표",
+      "snippet": "On October 14, 2026, Jaguar Health Inc (NASDAQ: JAGX) announced a special stock dividend issuance scheduled for October 15, 2026, to shareholders of record as o",
+      "snippet_ko": "2026년 10월 14일, 재규어 헬스(Jaguar Health Inc, 나스닥: JAGX)는 2026년 10월 15일자로, 해당 날짜 기준 주주들에게 특별 주식 배당을 실시할 예정이라고 발표했습니다.",
+      "symbol": "",
+      "sentiment_score": -0.079,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9124123/jaguar-health-jagx-announces-special-stock-dividend-ahead-of-october-16-exdividend-date",
+      "cross_verified": true,
+      "published_at": "2026-10-14T22:25:56.000000Z"
+    },
+    {
+      "title": "Liquidia Corporation (LQDA) Shares Surge 27% After Global Settlement with United Therapeutics",
+      "title_ko": "리퀴디아 코퍼레이션(LQDA), 유나이티드 테라퓨틱스와 전 세계적 합의 체결 후 주가 27% 급등",
+      "snippet": "On October 14, 2026, Liquidia Corporation (LQDA) saw its stock price jump nearly 27%, closing at $33.94 following the announcement of a global settlement resolv",
+      "snippet_ko": "2026년 10월 14일, 리퀴디아 코퍼레이션(LQDA)은 전 세계적 합의 해결안이 발표된 후 주가가 27% 가까이 급등하여 33.94달러에 장을 마감했다.",
+      "symbol": "",
+      "sentiment_score": 0.4825,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9124089/liquidia-corporation-lqda-shares-surge-27-after-global-settlement-with-united-therapeutics",
+      "cross_verified": true,
+      "published_at": "2026-10-14T22:01:52.000000Z"
+    },
     {
       "title": "Russell 2000 ETF breaks below major moving averages and tags a near 5-month low",
       "title_ko": "러셀 2000 ETF가 주요 이동평균선을 하향 돌파하며 약 5개월 만의 최저치를 기록했습니다.",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4951812-kao-corporation-kaooy-discusses-r-and-d-strategy-alignment-and-value-creation-through",
       "cross_verified": true,
       "published_at": "2026-10-04T06:31:23.000000Z"
-    },
-    {
-      "title": "QNu Labs takes quantum security beyond fibre with 5.56-km free-space link",
-      "title_ko": "QNu Labs, 5.56km 자유 공간 링크로 광섬유를 넘어선 양자 보안 구현",
-      "snippet": "QNu Labs demonstrates a 5.56-km free-space quantum key distribution link, advancing quantum-secure communication beyond fibre.",
-      "snippet_ko": "QNu Labs는 5.56km 거리의 자유 공간 양자 키 분배 링크를 시연하며, 광섬유를 넘어선 양자 보안 통신을 한 단계 발전시켰다.",
-      "symbol": "",
-      "sentiment_score": 0.3818,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/info-tech/qnu-labs-takes-quantum-security-beyond-fibre-with-556-km-free-space-link/article71543033.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-04T06:07:50.000000Z"
-    },
-    {
-      "title": "Nektar Therapeutics (NKTR) Shareholder/Analyst Call - Slideshow (NASDAQ:NKTR) 2026-10-03",
-      "title_ko": "넥타 테라퓨틱스(NKTR) 주주·애널리스트 컨퍼런스 콜 - 슬라이드쇼 (나스닥:NKTR) 2026-10-03",
-      "snippet": "2026-10-03. The following slide deck was published by Nektar Therapeutics in conjunction with this event.",
-      "snippet_ko": "2026년 10월 3일. 다음 슬라이드 자료는 이번 행사와 관련하여 Nektar Therapeutics에서 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4951797-nektar-therapeutics-nktr-shareholder-analyst-call-slideshow",
-      "cross_verified": true,
-      "published_at": "2026-10-03T23:12:56.000000Z"
-    },
-    {
-      "title": "Conduent Incorporated (CNDT) Analyst/Investor Day - Slideshow (NASDAQ:CNDT) 2026-10-03",
-      "title_ko": "Conduent Incorporated (CNDT) 애널리스트·투자자 설명회 - 슬라이드쇼 (NASDAQ:CNDT) 2026-10-03",
-      "snippet": "2026-10-03. The following slide deck was published by Conduent Incorporated in conjunction with this event.",
-      "snippet_ko": "2026년 10월 3일. 다음 슬라이드 자료는 이번 행사와 관련하여 Conduent Incorporated에서 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4951796-conduent-incorporated-cndt-analyst-investor-day-slideshow",
-      "cross_verified": true,
-      "published_at": "2026-10-03T23:11:59.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Apple Nears Regulatory Approval in China Ahead of iOS 27.3 Update (AAPL)",
+      "title_ko": "애플, iOS 27.3 업데이트를 앞두고 중국 규제 당국의 승인을 눈앞에 두다 (AAPL)",
+      "snippet": "On October 14, 2026, Apple Inc. (NASDAQ: AAPL) is reported to be close to fulfilling regulatory requirements in China to launch Apple Intelligence as part of th",
+      "snippet_ko": "2026년 10월 14일, 애플(Apple Inc., 나스닥: AAPL)이 ‘애플 인텔리전스(Apple Intelligence)’를 출시하기 위해 중국 당국의 규제 요건을 거의 충족한 것으로 전해졌다. 이는",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5813,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9123977/apple-nears-regulatory-approval-in-china-ahead-of-ios-273-update-aapl",
+      "cross_verified": true,
+      "published_at": "2026-10-14T21:59:36.000000Z"
+    },
+    {
+      "title": "TSM Shares Fall Amid Market Dip Ahead of Earnings; Semiconductor Sector Under Pressure",
+      "title_ko": "실적 발표를 앞두고 시장 침체 속에 TSM 주가 하락… 반도체 업종 압박 받아",
+      "snippet": "On October 14, 2026, the stock market closed notably lower with the S&P 500 down 1.1% and the Nasdaq Composite dropping 1.8%, reflecting broader investor cautio",
+      "snippet_ko": "2026년 10월 14일, 주식 시장은 S&P 500 지수가 1.1%, 나스닥 종합지수가 1.8% 하락하며 눈에 띄게 약세를 보였는데, 이는 투자자들의 전반적인 경계 심리를 반영한 것이었다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5859,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9123971/tsm-shares-fall-amid-market-dip-ahead-of-earnings-semiconductor-sector-under-pressure",
+      "cross_verified": true,
+      "published_at": "2026-10-14T21:57:43.000000Z"
+    },
+    {
+      "title": "Tech and Semi Shares Slump as Inflation Revives Rate Hike Fears; Apple Eyes China AI Launch",
+      "title_ko": "인플레이션으로 금리 인상 우려가 재점화되며 기술주와 반도체주 급락… 애플, 중국 내 AI 출시 추진",
+      "snippet": "U.S. stocks suffered their worst session in months as the September Consumer Price Index (CPI) report revealed inflation accelerating to 3.7%, surpassing",
+      "snippet_ko": "9월 소비자물가지수(CPI) 보고서에 따르면 인플레이션이 3.7%로 가속화되며 이전 수치를 넘어선 것으로 나타나면서, 미국 증시는 수개월 만에 최악의 장을 기록했습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2129,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-semi-shares-slump-as-inflation-revives-rate-hike-fears-apple-eyes-china-ai-launch/73023/",
+      "cross_verified": true,
+      "published_at": "2026-10-14T20:38:21.000000Z"
+    },
     {
       "title": "Alphabet Stocks Trade 36.97% Above GF Value as Google Launches Gemini 4 Argon",
       "title_ko": "구글이 ‘제미니 4 아르곤’을 출시함에 따라 알파벳 주가가 GF 가치보다 36.97% 높은 수준에서 거래되고 있다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9109364/skyworks-solutions-swks-completes-qorvo-acquisition-enhancing-dividend-prospects",
       "cross_verified": true,
       "published_at": "2026-10-05T13:57:40.000000Z"
-    },
-    {
-      "title": "Apollo Economist Sees Limited Near-Term Workforce Impact from Robotics; AAPL Valuation Insights",
-      "title_ko": "아폴로 이코노미스트, 로봇 기술이 단기적으로 노동 시장에 미치는 영향은 제한적일 것으로 전망… AAPL 기업가치 분석",
-      "snippet": "On October 05, 2026, Apollo's chief economist Torsten Slok shared his view that robotics and automation will not cause significant workforce disruption in the n",
-      "snippet_ko": "2026년 10월 5일, 아폴로의 수석 경제학자 토르스텐 슬록은 로봇 공학과 자동화가 향후 노동 시장에 큰 혼란을 초래하지는 않을 것이라는 견해를 밝혔습니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4914,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9109361/apollo-economist-sees-limited-nearterm-workforce-impact-from-robotics-aapl-valuation-insights",
-      "cross_verified": true,
-      "published_at": "2026-10-05T13:56:43.000000Z"
-    },
-    {
-      "title": "Bank of America Upgrades DraftKings (DKNG) to Buy, Citing Attractive Risk-Reward After 47% Share Decline",
-      "title_ko": "뱅크 오브 아메리카, 주가 47% 하락 후 매력적인 위험-수익 비율을 근거로 드래프트킹스(DKNG) 투자의견을 ‘매수’로 상향 조정",
-      "snippet": "On October 05, 2026, Bank of America upgraded DraftKings Inc (NASDAQ: DKNG) from Neutral to Buy, highlighting a more favorable outlook driven by reduced estimat",
-      "snippet_ko": "2026년 10월 5일, 뱅크 오브 아메리카는 드래프트킹스(DraftKings Inc, 나스닥: DKNG)에 대한 투자의견을 ‘중립(Neutral)’에서 ‘매수(Buy)’로 상향 조정하며, 예상치의 하향 조정에 힘입어 전망이 더욱 밝아졌다고 강조했다.",
-      "symbol": "DKNG",
-      "sentiment_score": 0.4901,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9109357/bank-of-america-upgrades-draftkings-dkng-to-buy-citing-attractive-riskreward-after-47-share-decline",
-      "cross_verified": true,
-      "published_at": "2026-10-05T13:55:27.000000Z"
-    },
-    {
-      "title": "Former Anthropic researcher Jacob Coxon to testify at NYC hearing on AI",
-      "title_ko": "앤트로픽(Anthropic) 전 연구원 제이콥 콕슨, 뉴욕시 AI 공청회에서 증언 예정",
-      "snippet": "Coxon will appear at request of Council Speaker Julie Menin, who has urged AI whistleblowers to testify as city lawmakers weigh a package of bills aimed at establishing safeguards around technology",
-      "snippet_ko": "콕슨은 줄리 메닌 시의회 의장의 요청에 따라 출석할 예정이며, 메닌 의장은 시 의원들이 기술 관련 안전장치 마련을 목표로 한 일련의 법안들을 검토하는 가운데 AI 내부 고발자들에게 증언을 촉구해 왔다.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.3566,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/former-anthropic-researcher-jacob-coxon-to-testify-at-nyc-hearing-on-ai-126100500088_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-05T03:22:46.000000Z"
     }
   ]
 }
