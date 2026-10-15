@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-15T04:09:08.144791+00:00",
+  "updated_at": "2026-10-15T11:12:52.982013+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Nel ASA (NLLSF) Reports Q3 Revenue Plunge Amid Rising Order Backlog",
+      "title_ko": "넬 ASA(NLLSF), 주문 잔고 증가 속 3분기 매출 급감 기록",
+      "snippet": "On October 15, 2026, Nel ASA (OTCPK: NLLSF) released its Q3 financial results, revealing a steep decline in revenues alongside a substantial increase in order i",
+      "snippet_ko": "2026년 10월 15일, Nel ASA(OTCPK: NLLSF)는 3분기 실적을 발표하며, 매출이 급감한 반면 수주량은 크게 증가한 것으로 나타났습니다.",
+      "symbol": "",
+      "sentiment_score": 0.0533,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9125008/nel-asa-nllsf-reports-q3-revenue-plunge-amid-rising-order-backlog",
+      "cross_verified": true,
+      "published_at": "2026-10-15T10:57:06.000000Z"
+    },
+    {
+      "title": "Energy Sector Hits 50% Gain Milestone; SPY Valuation Signals Moderate Overvaluation",
+      "title_ko": "에너지 부문, 50% 상승이라는 이정표 달성… SPY 평가, 소폭의 과대평가 신호",
+      "snippet": "On October 15, 2026, the energy sector achieved a remarkable 50% gain year-to-date in just 196 trading days, marking the fifth-fastest ascent to this milestone",
+      "snippet_ko": "2026년 10월 15일, 에너지 부문은 불과 196거래일 만에 연초 대비 50%라는 놀라운 상승률을 기록하며, 이 기록에 도달하는 데 있어 역대 다섯 번째로 빠른 상승세를 보였습니다.",
+      "symbol": "",
+      "sentiment_score": 0.1366,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9125005/energy-sector-hits-50-gain-milestone-spy-valuation-signals-moderate-overvaluation",
+      "cross_verified": true,
+      "published_at": "2026-10-15T10:56:06.000000Z"
+    },
     {
       "title": "Treasury Wine Estates Limited (TSRYY) Shareholder/Analyst Call Transcript",
       "title_ko": "트레저리 와인 에스테이츠 리미티드(TSRYY) 주주·애널리스트 컨퍼런스콜 기록",
@@ -1177,33 +1201,45 @@
       "url": "https://www.insidermonkey.com/news/is-the-market-pricing-idt-corp-idt-for-what-it-is-becoming-1847850/",
       "cross_verified": true,
       "published_at": "2026-10-04T17:43:57.000000Z"
-    },
-    {
-      "title": "Micron's Hidden Financing Advantage (NASDAQ:MU)",
-      "title_ko": "마이크론(NASDAQ:MU)의 숨겨진 자금 조달 강점",
-      "snippet": "Micron’s blowout revenue, margins & FCF show strong AI memory demand. Click for more on MU stock.",
-      "snippet_ko": "마이크론의 폭발적인 매출, 마진 및 자유현금흐름(FCF)은 AI 메모리 수요가 강세를 보이고 있음을 보여줍니다. MU 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.125,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4951838-microns-hidden-financing-advantage",
-      "cross_verified": true,
-      "published_at": "2026-10-04T14:35:00.000000Z"
-    },
-    {
-      "title": "TSMC Q3 Earnings Preview: I’m Loading Up Before The Print, And You Should Too (NYSE:TSM)",
-      "title_ko": "TSMC 3분기 실적 전망: 실적 발표 전에 매수하고 있는데, 여러분도 그렇게 하세요 (NYSE:TSM)",
-      "snippet": "TSMC outlook: strong Q3 earnings, bullish AI demand, and capex commentary expected. Click for more on TSM stock.",
-      "snippet_ko": "TSMC 전망: 3분기 호실적, AI 수요 호조, 설비투자 관련 언급이 예상된다. TSM 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.3298,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4951851-tsmc-q3-earnings-preview-i-am-loading-up-before-print-you-should-too",
-      "cross_verified": true,
-      "published_at": "2026-10-04T14:22:51.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "ETF Activity: QQQ Leads With $6.35 Billion Inflow on Oct. 13",
+      "title_ko": "ETF 동향: 10월 13일, QQQ가 63억 5천만 달러의 자금 유입으로 선두를 달렸다",
+      "snippet": "ETF activity on Tuesday, Oct. 13, showed a clear tilt toward growth and small-cap exposure, with 291 ETFs reporting and 32,940 positions increased against 17,31",
+      "snippet_ko": "10월 13일 화요일 ETF 거래 동향은 성장주 및 소형주에 대한 투자 선호가 뚜렷하게 나타났으며, 보고된 291개 ETF 중 32,940건의 포지션이 증가한 반면 17,31건은 감소했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4895,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9125012/etf-activity-qqq-leads-with-635-billion-inflow-on-oct-13",
+      "cross_verified": true,
+      "published_at": "2026-10-15T11:00:11.000000Z"
+    },
+    {
+      "title": "Apple (AAPL) Closes Above $5 Trillion Market Cap, Setting New Benchmark",
+      "title_ko": "애플(AAPL), 시가총액 5조 달러 돌파하며 새로운 기준 수립",
+      "snippet": "On October 15, 2026, Apple Inc. (AAPL) achieved a historic milestone by closing with a market capitalization of $5.01 trillion, becoming only the second company",
+      "snippet_ko": "2026년 10월 15일, 애플(AAPL)은 시가총액 5.01조 달러를 기록하며 장을 마감함으로써 역사적인 이정표를 달성했고, 이로써 세계에서 두 번째로",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2148,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9124974/apple-aapl-closes-above-5-trillion-market-cap-setting-new-benchmark",
+      "cross_verified": true,
+      "published_at": "2026-10-15T09:55:23.000000Z"
+    },
+    {
+      "title": "Larry Robbins Opens New Position in Surgery Partners Inc (SGRY) -- Shares Look 39% Undervalued on GF Value",
+      "title_ko": "래리 로빈스, 서저리 파트너스(SGRY) 신규 포지션 개설 -- GF Value 기준 주가가 39% 저평가된 것으로 분석",
+      "snippet": "On October 6, 2026, Larry Robbins (Trades, Portfolio) of Glenview Capital Management initiated a new position in Surgery Partners Inc (SGRY), acquiring 7,023,33",
+      "snippet_ko": "2026년 10월 6일, 글렌뷰 캐피털 매니지먼트(Glenview Capital Management)의 래리 로빈스(Larry Robbins, 매매 내역, 포트폴리오)는 서저리 파트너스(Surgery Partners Inc, SGRY)에 대한 신규 포지션을 개설하며 7,023,33주를 매수했다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.382,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9124959/larry-robbins-opens-new-position-in-surgery-partners-inc-sgry-shares-look-39-undervalued-on-gf-value",
+      "cross_verified": true,
+      "published_at": "2026-10-15T09:46:20.000000Z"
+    },
     {
       "title": "Global Markets Face Volatility Amid Geopolitical Tensions and AI Policy Shifts",
       "title_ko": "지정학적 긴장과 AI 정책 변화 속에서 글로벌 시장이 변동성에 직면하고 있다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/kla-klac-does-its-semiconductor-moat-justify-the-premium-1848726/",
       "cross_verified": true,
       "published_at": "2026-10-06T03:29:05.000000Z"
-    },
-    {
-      "title": "Apple (AAPL) Ordered to Pay $184 Million in Interest Over Patent Case",
-      "title_ko": "애플(AAPL), 특허 소송과 관련해 1억 8,400만 달러의 이자 지급 명령 받아",
-      "snippet": "On October 05, 2026, a federal judge ruled that Apple Inc. (AAPL) must pay an additional $184 million in interest related to a $634 million jury award for paten",
-      "snippet_ko": "2026년 10월 5일, 한 연방 판사는 애플(AAPL)이 특허 관련 배심원 평결에 따른 6억 3,400만 달러의 배상금에 대해 추가로 1억 8,400만 달러의 이자를 지급해야 한다고 판결했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.5664,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9110426/apple-aapl-ordered-to-pay-184-million-in-interest-over-patent-case",
-      "cross_verified": true,
-      "published_at": "2026-10-06T00:30:29.000000Z"
-    },
-    {
-      "title": "Indian Rupee Stabilization Efforts Amid Dollar Sales",
-      "title_ko": "달러 매도 속 인도 루피 안정화 노력",
-      "snippet": "On October 05, 2026, traders reported that the Reserve Bank of India has been actively selling dollars in the onshore foreign exchange market to support the rup",
-      "snippet_ko": "2026년 10월 5일, 외환 거래업자들은 인도 중앙은행이 루피화 가치를 지지하기 위해 국내 외환 시장에서 달러를 적극적으로 매도하고 있다고 전했다.",
-      "symbol": "USD",
-      "sentiment_score": 0.8629,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9110570/indian-rupee-stabilization-efforts-amid-dollar-sales",
-      "cross_verified": true,
-      "published_at": "2026-10-06T05:11:07.000000Z"
-    },
-    {
-      "title": "Tech Billionaires Thrive in 2026, Boosting Wealth by $845 Billion",
-      "title_ko": "2026년, 기술 분야 억만장자들이 호황을 누리며 자산이 8,450억 달러 증가했다",
-      "snippet": "Apple Inc. (AAPL) Analysis - October 05, 2026 On October 05, 2026, the tech sector continues to dominate the wealth landscape, with tech billionaires seeing",
-      "snippet_ko": "애플(AAPL) 분석 - 2026년 10월 5일 2026년 10월 5일, 기술 부문은 여전히 부의 지형을 주도하고 있으며, 기술 분야 억만장자들은",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4113,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9110046/tech-billionaires-thrive-in-2026-boosting-wealth-by-845-billion",
-      "cross_verified": true,
-      "published_at": "2026-10-05T21:31:02.000000Z"
     }
   ]
 }
