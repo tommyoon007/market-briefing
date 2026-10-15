@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-15T11:12:52.982013+00:00",
+  "updated_at": "2026-10-15T16:43:46.801749+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Southwest Airlines (LUV) Unveils Enhanced Rapid Rewards Program and Fleetwide Starlink WiFi",
+      "title_ko": "사우스웨스트 항공(LUV), 개선된 ‘래피드 리워드(Rapid Rewards)’ 프로그램과 전 기종에 적용된 스타링크(Starlink) 와이파이 서비스 공개",
+      "snippet": "On October 15, 2026, Southwest Airlines Co (NYSE: LUV) announced a significant upgrade to its Rapid Rewards loyalty program alongside plans to introduce fleetwi",
+      "snippet_ko": "2026년 10월 15일, 사우스웨스트 항공(NYSE: LUV)은 자사의 ‘래피드 리워드(Rapid Rewards)’ 로열티 프로그램을 대폭 개선할 계획과 함께 기단 도입 계획을 발표했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.658,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9125906/southwest-airlines-luv-unveils-enhanced-rapid-rewards-program-and-fleetwide-starlink-wifi",
+      "cross_verified": true,
+      "published_at": "2026-10-15T16:25:27.000000Z"
+    },
+    {
+      "title": "American Airlines (AAL) Set to Release Quarterly Earnings with High Volatility Expectations",
+      "title_ko": "아메리칸 항공(AAL), 변동성이 클 것으로 예상되는 분기 실적 발표 예정",
+      "snippet": "On October 15, 2026, American Airlines Group Inc (AAL) is set to announce its quarterly earnings on October 22. The options market indicates that investors anti",
+      "snippet_ko": "2026년 10월 15일, 아메리칸 항공 그룹(AAL)은 10월 22일에 분기 실적을 발표할 예정입니다. 옵션 시장 동향을 보면 투자자들은",
+      "symbol": "",
+      "sentiment_score": 0.0205,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9125891/american-airlines-aal-set-to-release-quarterly-earnings-with-high-volatility-expectations",
+      "cross_verified": true,
+      "published_at": "2026-10-15T16:11:03.000000Z"
+    },
     {
       "title": "Nel ASA (NLLSF) Reports Q3 Revenue Plunge Amid Rising Order Backlog",
       "title_ko": "넬 ASA(NLLSF), 주문 잔고 증가 속 3분기 매출 급감 기록",
@@ -1177,33 +1201,57 @@
       "url": "https://www.business-standard.com/industry/banking/the-ceo-factory-how-icici-sbi-axis-shaping-financial-services-leadership-126100400791_1.html",
       "cross_verified": true,
       "published_at": "2026-10-04T18:07:00.000000Z"
-    },
-    {
-      "title": "Inspire Medical (INSP): How Much Optimism Is Baked Into This Medtech Stock?",
-      "title_ko": "인스파이어 메디컬(INSP): 이 의료기술주에는 얼마나 많은 낙관론이 반영되어 있을까?",
-      "snippet": "Inspire Medical Systems (NYSE:INSP) demonstrates strong core gross economics with a 85.5% gross margin, $415.2 million in cash and investments, and a raised 2026 revenue guidance range of $835 million...",
-      "snippet_ko": "인스파이어 메디컬 시스템즈(NYSE:INSP)는 85.5%의 매출총이익률, 4억 1,520만 달러의 현금 및 투자 자산, 그리고 8억 3,500만 달러로 상향 조정된 2026년 매출 전망치를 바탕으로 견고한 핵심 매출 총이익 구조를 보여주고 있습니다...",
-      "symbol": "",
-      "sentiment_score": -0.2202,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/inspire-medical-insp-how-much-optimism-is-baked-into-this-medtech-stock-1847843/",
-      "cross_verified": true,
-      "published_at": "2026-10-04T17:44:08.000000Z"
-    },
-    {
-      "title": "Is the Market Pricing IDT Corp. (IDT) for What It Is Becoming?",
-      "title_ko": "시장은 IDT Corp. (IDT)가 앞으로 어떤 기업으로 변모해 갈지를 반영해 주가를 책정하고 있는 것일까?",
-      "snippet": "IDT Corporation's (NYSE:IDT) long-term fundamental story is defined by a transition away from legacy telecommunications toward high-margin growth drivers, backed by zero debt and $271.9 million in cash...",
-      "snippet_ko": "IDT Corporation(NYSE:IDT)의 장기적인 펀더멘털 전망은 부채가 전혀 없고 2억 7,190만 달러의 현금을 보유한 가운데, 기존 통신 사업에서 마진이 높은 성장 동력으로의 전환에 의해 결정됩니다...",
-      "symbol": "",
-      "sentiment_score": 0.2551,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/is-the-market-pricing-idt-corp-idt-for-what-it-is-becoming-1847850/",
-      "cross_verified": true,
-      "published_at": "2026-10-04T17:43:57.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "National Retail Federation Projects 4.2% Holiday Sales Growth, Impacting AMZN Shopping Patterns",
+      "title_ko": "미국 소매업 연합회(NRF), 연말 연휴 매출 4.2% 증가 전망… AMZN 쇼핑 패턴에 영향 미칠 전망",
+      "snippet": "On October 15, 2026, the National Retail Federation (NRF) released its holiday sales forecast, projecting a 4.2% increase in retail spending for November and De",
+      "snippet_ko": "2026년 10월 15일, 미국 소매업 연합회(NRF)는 연말 연시 매출 전망치를 발표하며, 11월과 12월의 소매 지출이 4.2% 증가할 것으로 전망했다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.7136,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9125852/national-retail-federation-projects-42-holiday-sales-growth-impacting-amzn-shopping-patterns",
+      "cross_verified": true,
+      "published_at": "2026-10-15T16:00:34.000000Z"
+    },
+    {
+      "title": "Amazon Launches $75 Bee AI Wristband and $100 Recorder",
+      "title_ko": "아마존, 75달러짜리 ‘Bee AI’ 손목밴드와 100달러짜리 녹음기 출시",
+      "snippet": "E-commerce and cloud behemoth Amazon.com Inc. (AMZN, Financials) is taking another shot at wearable gear, with a new round of AI-heavy gadgets.The $75 Bee Front",
+      "snippet_ko": "전자상거래 및 클라우드 업계의 거물인 아마존닷컴(Amazon.com Inc., AMZN, 금융)이 인공지능(AI) 기능을 대거 탑재한 신제품 라인업을 통해 웨어러블 기기 시장에 다시 도전장을 내밀고 있다. 75달러짜리 ‘Bee Front’",
+      "symbol": "AMZN",
+      "sentiment_score": 0.0,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9125685/amazon-launches-75-bee-ai-wristband-and-100-recorder",
+      "cross_verified": true,
+      "published_at": "2026-10-15T15:54:10.000000Z"
+    },
+    {
+      "title": "Citi Raises Meta Price Target to $895 Ahead of Q3 Earnings",
+      "title_ko": "씨티, 3분기 실적 발표를 앞두고 메타의 목표 주가를 895달러로 상향 조정",
+      "snippet": "Meta Platforms Inc. (META, Financials), the social-media giant, is getting another bullish call from Wall Street as expectations around its artificial-intellige",
+      "snippet_ko": "소셜 미디어 업계의 거물인 메타 플랫폼스(Meta Platforms Inc., META, 금융)가 인공지능에 대한 기대감으로 인해 월가로부터 또 한 번의 낙관적 전망을 받고 있다.",
+      "symbol": "META",
+      "sentiment_score": 0.0,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9125702/citi-raises-meta-price-target-to-895-ahead-of-q3-earnings",
+      "cross_verified": true,
+      "published_at": "2026-10-15T15:51:38.000000Z"
+    },
+    {
+      "title": "Elon Musk's Potential Tesla-SpaceX Merger: Barclays Predicts Impact on Voting Power",
+      "title_ko": "일론 머스크의 테슬라-스페이스X 합병 가능성: 바클레이즈, 의결권 영향 전망",
+      "snippet": "On October 15, 2026, Barclays analyst Dan Levy forecasted a potential merger announcement between Tesla Inc (TSLA) and SpaceX before December. This strategic mo",
+      "snippet_ko": "2026년 10월 15일, 바클레이즈의 애널리스트 댄 레비는 테슬라(TSLA)와 스페이스X가 12월 이전에 합병을 발표할 가능성이 있다고 전망했다. 이러한 전략적 모...",
+      "symbol": "TSLA",
+      "sentiment_score": 0.4663,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9125897/elon-musks-potential-teslaspacex-merger-barclays-predicts-impact-on-voting-power",
+      "cross_verified": true,
+      "published_at": "2026-10-15T16:13:39.000000Z"
+    },
     {
       "title": "ETF Activity: QQQ Leads With $6.35 Billion Inflow on Oct. 13",
       "title_ko": "ETF 동향: 10월 13일, QQQ가 63억 5천만 달러의 자금 유입으로 선두를 달렸다",
@@ -2355,54 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9111084/google-and-constellation-energy-partner-for-20year-nuclear-power-expansion",
       "cross_verified": true,
       "published_at": "2026-10-06T12:10:31.000000Z"
-    },
-    {
-      "title": "Google Nears $1 Billion Nuclear Deal to Power AI Growth",
-      "title_ko": "구글, AI 성장 동력 확보를 위한 10억 달러 규모 원자력 계약 체결 임박",
-      "snippet": "Google's parent company, Alphabet Inc. (GOOGL, Financials), is allegedly getting close to a multiyear deal for at least $1 billion to purchase nuclear power fro",
-      "snippet_ko": "구글의 모회사인 알파벳(Alphabet Inc., GOOGL, 재무 정보)이 최소 10억 달러 규모의 다년간 원자력 발전 구매 계약을 체결하는 데 가까워지고 있는 것으로 알려졌다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.405,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9110892/google-nears-1-billion-nuclear-deal-to-power-ai-growth",
-      "cross_verified": true,
-      "published_at": "2026-10-06T12:03:19.000000Z"
-    },
-    {
-      "title": "Ofcom Launches Inquiry into Meta Platforms (META) Over Instagram Instants Safety Compliance",
-      "title_ko": "오프콤(Ofcom), 인스타그램 인스턴츠의 안전 규정 준수 여부와 관련해 메타 플랫폼스(META)에 대한 조사 착수",
-      "snippet": "On October 06, 2026, Ofcom, the UK communications regulator, announced an investigation into Meta Platforms Inc (NASDAQ: META) to determine whether the company",
-      "snippet_ko": "2026년 10월 6일, 영국 통신 규제 기관인 오프콤(Ofcom)은 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)에 대한 조사를 발표하며, 해당 기업이",
-      "symbol": "META",
-      "sentiment_score": -0.3675,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9111018/ofcom-launches-inquiry-into-meta-platforms-meta-over-instagram-instants-safety-compliance",
-      "cross_verified": true,
-      "published_at": "2026-10-06T11:57:58.000000Z"
-    },
-    {
-      "title": "Google nears $1 billion-plus nuclear power deal with Constellation amid AI boom",
-      "title_ko": "AI 붐 속에서 구글, 콘스텔레이션과 10억 달러 이상의 원자력 발전 계약 체결을 앞두고 있다",
-      "snippet": "Google is close to striking a deal to buy nuclear power from Constellation Energy Corp, for its data centres, as tech gaints look for more reliable",
-      "snippet_ko": "기술 대기업들이 더 안정적인 전력을 모색하는 가운데, 구글은 자사 데이터 센터에 공급할 원자력 전력을 콘스텔레이션 에너지(Constellation Energy Corp)로부터 구매하는 계약을 체결할 단계에 접어들었다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.8472,
-      "source": "timesofindia.indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/google-nears-1-billion-plus-nuclear-power-deal-with-constellation-amid-ai-boom/articleshow/134722202.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-06T03:51:47.000000Z"
-    },
-    {
-      "title": "KLA (KLAC): Does Its Semiconductor Moat Justify the Premium?",
-      "title_ko": "KLA (KLAC): 이 회사의 반도체 경쟁 우위가 프리미엄을 정당화할 수 있을까?",
-      "snippet": "KLA Corporation (NASDAQ:KLAC) is one of those companies that becomes more important the more complicated the semiconductor industry gets.",
-      "snippet_ko": "KLA 코퍼레이션(나스닥:KLAC)은 반도체 산업이 복잡해질수록 그 중요성이 더욱 커지는 기업 중 하나입니다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.8031,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/kla-klac-does-its-semiconductor-moat-justify-the-premium-1848726/",
-      "cross_verified": true,
-      "published_at": "2026-10-06T03:29:05.000000Z"
     }
   ]
 }
