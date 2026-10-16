@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-16T06:56:45.563633+00:00",
+  "updated_at": "2026-10-16T13:08:01.567989+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Integra LifeSciences to Highlight ENT and Instruments Portfolios and Sponsor New Clinical Research Presentations at AAO-HNSF 2026 Annual Meeting",
+      "title_ko": "인테그라 라이프사이언스, AAO-HNSF 2026 연례 학술대회에서 이비인후과 및 수술 기구 제품군을 집중 소개하고 새로운 임상 연구 발표를 후원할 예정",
+      "snippet": "Integra LifeSciences to Highlight ENT and Instruments Portfolios and Sponsor New Clinical Research Presentations at AAO-HNSF 2026 Annual Meeting",
+      "snippet_ko": "인테그라 라이프사이언스, AAO-HNSF 2026 연례 학술대회에서 이비인후과 및 수술 기구 제품군을 집중 소개하고 새로운 임상 연구 발표를 후원할 예정",
+      "symbol": "",
+      "sentiment_score": 0.4295,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/integra-lifesciences-to-highlight-ent-and-instruments-portfolios-and-sponsor-new-clinical-research-presentations-at-aao-hnsf-2026-annual-meeting/2447499",
+      "cross_verified": true,
+      "published_at": "2026-10-16T12:43:19.000000Z"
+    },
+    {
+      "title": "CSW Industrials Declares Quarterly Dividend of $0.30 Per Share",
+      "title_ko": "CSW 인더스트리얼스, 주당 0.30달러의 분기 배당금 발표",
+      "snippet": "DALLAS, Oct. 16, 2026 (GLOBE NEWSWIRE) -- The Board of Directors of CSW Industrials, Inc. (NYSE: CSW) today declared a regular quarterly cash dividend of $0.30 per share. The dividend is payable on November 13, 2026, to shareholders of record as of the close of business on October 30, 2026.",
+      "snippet_ko": "댈러스, 2026년 10월 16일 (GLOBE NEWSWIRE) -- CSW Industrials, Inc. (NYSE: CSW) 이사회는 오늘 주당 0.30달러의 정기 분기 현금 배당금을 확정했습니다. 이 배당금은 2026년 10월 30일 영업 종료 시점 기준 주주명부에 등재된 주주들에게 2026년 11월 13일에 지급될 예정입니다.",
+      "symbol": "",
+      "sentiment_score": 0.4276,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/csw-industrials-declares-quarterly-dividend-of-030-per-share/2447487",
+      "cross_verified": true,
+      "published_at": "2026-10-16T12:42:03.000000Z"
+    },
     {
       "title": "Northrim BanCorp (NRIM) Reports Q3 Results with Revenue Beat and Dividend Increase",
       "title_ko": "노스림 밴코프(NRIM), 3분기 실적 발표…매출 예상치 상회 및 배당금 인상",
@@ -1177,33 +1201,57 @@
       "url": "https://www.gurufocus.com/news/9109367/walmart-membership-hits-record-25-penetration-wmt-fairly-valued-at-10427-gf-value",
       "cross_verified": true,
       "published_at": "2026-10-05T13:58:35.000000Z"
-    },
-    {
-      "title": "FLSmidth: Transactions under share buy-back programme",
-      "title_ko": "FLSmidth: 자사주 매입 프로그램에 따른 거래",
-      "snippet": "COMPANY ANNOUNCEMENT NO. 47-2026",
-      "snippet_ko": "회사 공고 제47-2026호",
-      "symbol": "",
-      "sentiment_score": 0.2989,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/05/tmt-newswire/globenewswire/flsmidth-transactions-under-share-buy-back-programme/2438702",
-      "cross_verified": true,
-      "published_at": "2026-10-05T04:39:06.000000Z"
-    },
-    {
-      "title": "Xylem Stock: Strong Dividend Safety And Undervaluation Are Attractive (NYSE:XYL)",
-      "title_ko": "자일럼(Xylem) 주식: 탄탄한 배당 안정성과 저평가된 주가가 매력적 (NYSE:XYL)",
-      "snippet": "Xylem boasts a 14-year dividend growth streak, a low payout ratio, and a strong balance sheet. Read why XYL stock is rated a Buy.",
-      "snippet_ko": "Xylem은 14년 연속 배당금 증가 기록, 낮은 배당성향, 그리고 견실한 재무 구조를 자랑합니다. XYL 주식이 ‘매수’ 등급을 받은 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.1414,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4951882-xylem-strong-dividend-safety-and-undervaluation-are-attractive",
-      "cross_verified": true,
-      "published_at": "2026-10-05T03:59:00.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Waymo to Launch Fully Autonomous Ride-Hailing in Toronto by 2028, Impacting Alphabet (GOOG)",
+      "title_ko": "웨이모, 2028년까지 토론토에서 완전 자율주행 차량 호출 서비스 출시 예정… 알파벳(GOOG)에 영향 미칠 전망",
+      "snippet": "On October 16, 2026, Alphabet Inc's autonomous driving division, Waymo, announced plans to launch fully autonomous ride-hailing services in Toronto by 2028. Thi",
+      "snippet_ko": "2026년 10월 16일, 알파벳(Alphabet Inc)의 자율주행 사업부인 웨이모(Waymo)는 2028년까지 토론토에서 완전 자율주행 차량 호출 서비스를 출시할 계획을 발표했습니다. 이",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.6359,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9127439/waymo-to-launch-fully-autonomous-ridehailing-in-toronto-by-2028-impacting-alphabet-goog",
+      "cross_verified": true,
+      "published_at": "2026-10-16T11:56:57.000000Z"
+    },
+    {
+      "title": "Democratic Senators Question Meta's $6.6B AI Data Center Tax Credits (META)",
+      "title_ko": "민주당 상원의원들, 메타(META)의 66억 달러 규모 AI 데이터센터 세액 공제에 의문 제기",
+      "snippet": "On October 16, 2026, a group of seven Democratic senators publicly raised concerns about Meta Platforms Inc's (NASDAQ: META) use of federal research and develop",
+      "snippet_ko": "2026년 10월 16일, 민주당 소속 상원의원 7명으로 구성된 그룹이 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)의 연방 연구개발 자금 활용에 대해 공개적으로 우려를 제기했다.",
+      "symbol": "META",
+      "sentiment_score": 0.2319,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9127400/democratic-senators-question-metas-66b-ai-data-center-tax-credits-meta",
+      "cross_verified": true,
+      "published_at": "2026-10-16T11:25:47.000000Z"
+    },
+    {
+      "title": "Broadcom Stock Is Down 28%, And The Bar To Hit Its Target Is Lower Than You Think (AVGO)",
+      "title_ko": "브로드컴 주가가 28% 하락했는데, 목표 주가 달성 기준은 생각보다 낮다 (AVGO)",
+      "snippet": "Broadcom Inc. maintains a Strong Buy rating, with robust AI revenue growth and a clear path to its $115B 2027 target. Read more on AVGO stock here.",
+      "snippet_ko": "브로드컴(Broadcom Inc.)은 AI 매출이 견조하게 성장하고 있으며, 2027년까지 1,150억 달러라는 목표 달성을 위한 명확한 로드맵을 갖추고 있어 ‘강력 매수(Strong Buy)’ 등급을 유지하고 있습니다. AVGO 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "AVGO",
+      "sentiment_score": -0.3682,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4954721-broadcom-stock-is-down-28-percent-and-the-bar-to-hit-its-target-is-lower-than-you-think",
+      "cross_verified": true,
+      "published_at": "2026-10-16T11:25:11.000000Z"
+    },
+    {
+      "title": "NetworkNews Audio Announces Audio Press Release (APR) Discussing AI Factories That Turn Power into Usable Compute Output",
+      "title_ko": "NetworkNews Audio, 전력을 활용 가능한 컴퓨팅 출력으로 변환하는 AI 팩토리를 다룬 오디오 보도자료(APR) 발표",
+      "snippet": "AUSTIN, Texas, Oct. 16, 2026 (GLOBE NEWSWIRE) -- via IBN - NetworkNewsAudio announces the Audio Press Release (APR) titled 'Contracted Capacity Becomes Key Metric for AI Infrastructure Investors to Watch,” featuring AZIO AI Holdings Inc. (NASDAQ: AZIO)",
+      "snippet_ko": "텍사스주 오스틴, 2026년 10월 16일 (GLOBE NEWSWIRE) -- IBN을 통해 - NetworkNewsAudio는 AZIO AI Holdings Inc. (나스닥: AZIO)를 다룬 ‘계약 용량이 AI 인프라 투자자들이 주목해야 할 핵심 지표로 부상’이라는 제목의 오디오 보도자료(APR)를 발표했습니다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.3182,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/networknews-audio-announces-audio-press-release-apr-discussing-ai-factories-that-turn-power-into-usable-compute-output/2447490",
+      "cross_verified": true,
+      "published_at": "2026-10-16T12:42:14.000000Z"
+    },
     {
       "title": "Michael Dell loses over $20 billion in a single day as Dell stock slumps 11%; loses 4th-richest person status",
       "title_ko": "델 주가가 11% 급락하면서 마이클 델은 하루 만에 200억 달러 이상의 재산을 잃었고, 부자 순위 4위 자리도 내주게 되었다",
@@ -2355,54 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/should-you-buy-space-exploration-technologies-corp-spcx-on-ai-compute-business-potential-1846987/",
       "cross_verified": true,
       "published_at": "2026-10-07T19:08:12.000000Z"
-    },
-    {
-      "title": "AI cloud firm CoreWeave to launch first India data centres with AdaniConneX in Navi Mumbai",
-      "title_ko": "AI 클라우드 기업 코어위브(CoreWeave), 아다니커넥스(AdaniConneX)와 함께 나비 뭄바이에 인도 첫 데이터센터 개장 예정",
-      "snippet": "CoreWeave will use 240 megawatts of capacity at the Taloja campus of AdaniConneX Pvt. in Navi Mumbai, according to a statement released by the company on Wednesday.",
-      "snippet_ko": "코어위브(CoreWeave)는 수요일 발표한 성명에 따르면, 나비 뭄바이 소재 아다니콘넥스(AdaniConneX Pvt.)의 탈로자(Taloja) 캠퍼스에서 240메가와트의 용량을 사용할 예정이다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.0,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/news/ai-cloud-firm-coreweave-to-launch-first-india-data-centres-with-adaniconnex-in-navi-mumbai-11791395574606.html",
-      "cross_verified": true,
-      "published_at": "2026-10-07T18:11:04.000000Z"
-    },
-    {
-      "title": "Will US stock market face a major shift? Michael Burry warns of 270 days and Ray Dalio says AI bubble is near bursting - what investors need to know",
-      "title_ko": "미국 주식시장이 큰 변화를 맞이할까? 마이클 버리가 ‘270일’을 경고하고, 레이 달리오가 AI 버블이 곧 터질 것이라고 말하는데, 투자자들이 알아야 할 점은 무엇일까",
-      "snippet": "Michael Burry warns of a potential major market shift in 270 days, while Ray Dalio raises alarms about the nearing collapse of the AI bubble. Investors need to be aware of these critical risks amidst record stock market highs.",
-      "snippet_ko": "마이클 버리는 270일 후 시장에 큰 변화가 일어날 가능성을 경고한 반면, 레이 달리오는 AI 버블이 곧 붕괴될 것이라고 경고하고 있다. 투자자들은 주식 시장이 사상 최고치를 기록하고 있는 가운데 이러한 중대한 위험 요소를 유념해야 한다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.478,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/international/us/will-us-stock-market-face-a-major-shift-michael-burry-warns-of-270-days-and-ray-dalio-says-ai-bubble-is-near-bursting-what-investors-need-to-know/articleshow/134769762.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-07T16:05:55.000000Z"
-    },
-    {
-      "title": "Alphabet: Betting Big On The Frontier AI Labs (NASDAQ:GOOGL)",
-      "title_ko": "알파벳: 신흥 AI 연구소에 대규모 투자 (나스닥:GOOGL)",
-      "snippet": "Alphabet (GOOGL) pulled back 15% on AI capex fears. See 2Q26 Cloud surge, FCF dip, valuation risks and when to consider buying the dip—read now.",
-      "snippet_ko": "알파벳(GOOGL)이 AI 설비투자 우려로 15% 하락했습니다. 2026년 2분기 클라우드 매출 급증, 자유현금흐름(FCF) 감소, 기업 가치 평가 위험 및 하락세에서 매수를 고려해야 할 시점에 대해 알아보세요—지금 읽어보세요.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2503,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4952537-alphabet-betting-big-on-the-frontier-ai-labs",
-      "cross_verified": true,
-      "published_at": "2026-10-07T15:38:56.000000Z"
-    },
-    {
-      "title": "Wall Street Highs And AI Bubble Risks",
-      "title_ko": "월가의 최고치와 AI 버블 위험",
-      "snippet": "Stock market updates: S&P 500/Nasdaq hit new highs as concentration risk and AI bubble concerns grow.",
-      "snippet_ko": "주식 시장 최신 소식: 집중 위험과 AI 버블에 대한 우려가 커지는 가운데 S&P 500 지수와 나스닥 지수가 사상 최고치를 경신했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.0639,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4952424-wall-street-highs-and-ai-bubble-risks",
-      "cross_verified": true,
-      "published_at": "2026-10-07T11:30:24.000000Z"
     }
   ]
 }
