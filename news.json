@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-15T21:11:17.811301+00:00",
+  "updated_at": "2026-10-16T00:11:25.703461+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Brent Oil Fluctuates Amid Supply Concerns and Emergency Reserves Release",
+      "title_ko": "공급 우려와 비상 비축유 방출로 브렌트유 가격 등락",
+      "snippet": "On October 15, 2026, Brent crude oil prices experienced volatility, slightly declining by 0.1% to around $106 per barrel. This movement came as news of releasin",
+      "snippet_ko": "2026년 10월 15일, 브렌트 원유 가격은 등락을 거듭하며 배럴당 약 106달러로 0.1% 소폭 하락했다. 이러한 가격 변동은 석유 비축량 방출 소식이 전해지면서 발생했다.",
+      "symbol": "",
+      "sentiment_score": 0.1015,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9126758/brent-oil-fluctuates-amid-supply-concerns-and-emergency-reserves-release",
+      "cross_verified": true,
+      "published_at": "2026-10-16T00:11:06.000000Z"
+    },
+    {
+      "title": "Is It Too Late to Buy Equifax Inc (EFX) After 7.2% Rally? GF Value Says Undervalued",
+      "title_ko": "7.2% 급등한 후에도 이퀴팩스(EFX)를 매수하기에는 너무 늦은 걸까? GF 밸류, “저평가됐다”고 분석",
+      "snippet": "On October 15, 2026, Equifax Inc (EFX) shares rose 7.2%, closing at $161.26. This movement brings the stock price within a 52-week range of $137.01 to $238.94,",
+      "snippet_ko": "2026년 10월 15일, 에퀴팩스(Equifax Inc, EFX) 주가는 7.2% 상승하여 161.26달러에 장을 마감했습니다. 이로써 주가는 52주 동안의 등락폭인 137.01달러에서 238.94달러 범위 내에 머물게 되었습니다.",
+      "symbol": "",
+      "sentiment_score": 0.3771,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9126754/is-it-too-late-to-buy-equifax-inc-efx-after-72-rally-gf-value-says-undervalued",
+      "cross_verified": true,
+      "published_at": "2026-10-16T00:08:19.000000Z"
+    },
+    {
+      "title": "PulteGroup Inc (PHM) Stock Up 3.3% and Still Undervalued -- GF Score: 94/100",
+      "title_ko": "PulteGroup Inc (PHM) 주가 3.3% 상승했으나 여전히 저평가 상태 -- GF 점수: 94/100",
+      "snippet": "On October 15, 2026, PulteGroup Inc (PHM) shares rose 3.3% today, bringing the current price to $112.99. The stock has traded within a 52-week range of $107.16",
+      "snippet_ko": "2026년 10월 15일, PulteGroup Inc(PHM)의 주가는 이날 3.3% 상승하여 현재 주가는 112.99달러를 기록했습니다. 이 주식은 지난 52주 동안 107.16달러의 등락폭 내에서 거래되었습니다.",
+      "symbol": "",
+      "sentiment_score": 0.4071,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9126734/pultegroup-inc-phm-stock-up-33-and-still-undervalued-gf-score-94100",
+      "cross_verified": true,
+      "published_at": "2026-10-15T23:57:43.000000Z"
+    },
     {
       "title": "Southwest Airlines (LUV) Unveils Enhanced Rapid Rewards Program and Fleetwide Starlink WiFi",
       "title_ko": "사우스웨스트 항공(LUV), 개선된 ‘래피드 리워드(Rapid Rewards)’ 프로그램과 전 기종에 적용된 스타링크(Starlink) 와이파이 서비스 공개",
@@ -1165,45 +1201,45 @@
       "url": "https://www.thehindubusinessline.com/news/india-aims-to-sign-multibillion-dollar-french-jet-deal-by-march/article71545728.ece",
       "cross_verified": true,
       "published_at": "2026-10-05T03:38:00.000000Z"
-    },
-    {
-      "title": "What is Morgan Stanley’s (MS) Economic Moat, and is it Widening or Narrowing?",
-      "title_ko": "모건 스탠리(MS)의 ‘경제적 해자’란 무엇이며, 이는 넓어지고 있는 것일까, 아니면 좁아지고 있는 것일까?",
-      "snippet": "Morgan Stanley (NYSE:MS) closed at $190.31 on October 2, up 20.38% over twelve months. For most of its history, the firm was a trading house, and trading houses do not have moats.",
-      "snippet_ko": "모건 스탠리(NYSE:MS)는 10월 2일 주가가 190.31달러로 마감했으며, 이는 지난 12개월 동안 20.38% 상승한 수치다. 이 회사는 설립 이후 대부분의 기간 동안 무역 회사로 운영되어 왔으며, 무역 회사에는 경쟁 우위가 없다.",
-      "symbol": "",
-      "sentiment_score": 0.0975,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/what-is-morgan-stanleys-ms-economic-moat-and-is-it-widening-or-narrowing-1848242/",
-      "cross_verified": true,
-      "published_at": "2026-10-04T21:06:50.000000Z"
-    },
-    {
-      "title": "Jim Cramer Believes Airbnb (ABNB) “Is Mostly Insulated From AI Competition”",
-      "title_ko": "짐 크레이머, 에어비앤비(ABNB)가 “AI 경쟁의 영향을 대체로 받지 않을 것”이라고 전망",
-      "snippet": "When discussing the recent sell-off across online travel equities during the September 29 episode of Mad Money, Jim Cramer highlighted Airbnb, Inc. (NASDAQ:ABNB) as a standout buying opportunity.",
-      "snippet_ko": "9월 29일 방송된 ‘매드 머니’에서 최근 온라인 여행 관련 주식 전반에 걸친 매도세를 논의하던 중, 짐 크레이머는 에어비앤비(Airbnb, Inc.)(나스닥:ABNB)를 특히 주목할 만한 매수 기회로 꼽았다.",
-      "symbol": "",
-      "sentiment_score": 0.1294,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/jim-cramer-believes-airbnb-abnb-is-mostly-insulated-from-ai-competition-1847477/",
-      "cross_verified": true,
-      "published_at": "2026-10-04T21:04:49.000000Z"
-    },
-    {
-      "title": "The CEO factory: How ICICI, SBI, Axis shaping financial services leadership",
-      "title_ko": "CEO 양성소: ICICI, SBI, Axis가 금융 서비스 분야의 리더십을 어떻게 형성하고 있는가",
-      "snippet": "HDFC Bank, ICICI Bank, SBI and Axis Bank have emerged as key training grounds for financial services leaders who later take up top industry roles",
-      "snippet_ko": "HDFC 은행, ICICI 은행, SBI, 액시스 은행은 이후 업계 최고위직을 맡게 될 금융 서비스 분야 리더들을 양성하는 주요 산실로 부상했다.",
-      "symbol": "",
-      "sentiment_score": 0.4539,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/industry/banking/the-ceo-factory-how-icici-sbi-axis-shaping-financial-services-leadership-126100400791_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-04T18:07:00.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "U.S. Tech Coalition Pledges $330M for White House Ballroom; Nvidia (NVDA) Among Top Donors",
+      "title_ko": "미국 기술 기업 연합, 백악관 연회장 건립을 위해 3억 3천만 달러 기부 약속… 엔비디아(NVDA)가 주요 기부사 중 하나",
+      "snippet": "On October 15, 2026, a coalition of leading U.S. technology companies and individuals committed $330 million towards the White House ballroom initiative, with N",
+      "snippet_ko": "2026년 10월 15일, 미국의 주요 기술 기업 및 개인들로 구성된 연합체가 백악관 볼룸 이니셔티브에 3억 3천만 달러를 기부하기로 약속했으며, N",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5982,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9126631/us-tech-coalition-pledges-330m-for-white-house-ballroom-nvidia-nvda-among-top-donors",
+      "cross_verified": true,
+      "published_at": "2026-10-15T23:01:00.000000Z"
+    },
+    {
+      "title": "Meta Launches Muse Spark Open, a Powerful Open-Source Model for Mac (META)",
+      "title_ko": "메타, Mac용 강력한 오픈소스 모델 ‘Muse Spark Open’ 출시 (META)",
+      "snippet": "On October 15, 2026, Meta Platforms Inc (META) announced the launch of its latest open-source model, Muse Spark Open, which is touted as the most powerful model",
+      "snippet_ko": "2026년 10월 15일, 메타 플랫폼스(META)는 가장 강력한 모델로 평가받는 최신 오픈소스 모델인 ‘뮤즈 스파크 오픈(Muse Spark Open)’의 출시를 발표했습니다.",
+      "symbol": "META",
+      "sentiment_score": 0.3972,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9126548/meta-launches-muse-spark-open-a-powerful-opensource-model-for-mac-meta",
+      "cross_verified": true,
+      "published_at": "2026-10-15T22:21:07.000000Z"
+    },
+    {
+      "title": "META Maintains Buy Rating by Citigroup -- Price Target Raised to $895",
+      "title_ko": "시티그룹, META에 대해 ‘매수’ 등급 유지 -- 목표주가 895달러로 상향 조정",
+      "snippet": "Meta Platforms Inc (META) Analyst Rating Update On October 31, 2023, Citigroup maintained a Buy rating on META, raising its price target to $895. This repres",
+      "snippet_ko": "메타 플랫폼스(META) 애널리스트 평가 업데이트 2023년 10월 31일, 씨티그룹은 META에 대한 ‘매수(Buy)’ 투자의견을 유지하면서 목표주가를 895달러로 상향 조정했습니다. 이는",
+      "symbol": "META",
+      "sentiment_score": 0.4653,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9126354/meta-maintains-buy-rating-by-citigroup-price-target-raised-to-895",
+      "cross_verified": true,
+      "published_at": "2026-10-15T21:31:38.000000Z"
+    },
     {
       "title": "Option Traders Show Slight Pessimism on Apple (AAPL) Ahead of Earnings",
       "title_ko": "실적 발표를 앞둔 애플(AAPL)에 대해 옵션 거래자들이 소폭의 비관론을 보이고 있다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.business-standard.com/technology/tech-news/apple-partners-with-lg-on-doorbells-lock-thermostat-in-smart-home-push-126100700141_1.html",
       "cross_verified": true,
       "published_at": "2026-10-07T03:41:24.000000Z"
-    },
-    {
-      "title": "Amazon crash attorneys say pilot pairing may have been key flaw behind fatal incident",
-      "title_ko": "아마존 추락 사고를 담당하는 변호사들은 조종사 배정이 치명적인 사고의 근본적인 원인이었을 수 있다고 지적한다",
-      "snippet": "Attorneys for Julio Pineda's family blame pilot error, poor crew pairing and alleged Amazon and 21 Air policy and scheduling failures for the Miami cargo crash.",
-      "snippet_ko": "훌리오 피네다 유가족 측 변호사들은 마이애미 화물기 추락 사고의 원인으로 조종사의 과실, 부적절한 승무원 배정, 그리고 아마존과 21 에어의 정책 및 운항 일정 관리상의 문제 등을 지적하고 있다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.5423,
-      "source": "foxbusiness.com",
-      "url": "https://www.foxbusiness.com/lifestyle/amazon-crash-attorneys-say-pilot-pairing-key-flaw-fatal-incident",
-      "cross_verified": true,
-      "published_at": "2026-10-06T22:47:27.000000Z"
-    },
-    {
-      "title": "The Overlooked Winner From Google’s Free AI Video Move: Micron",
-      "title_ko": "구글의 무료 AI 동영상 서비스 출시로 주목받지 못한 수혜 기업: 마이크론",
-      "snippet": "As of September 23, AI video creation in Vids no longer costs anything for Google and Workspace users. The upgrade draws on Gemini Omni 1.1 Flash, the newest addition to Google’s model lineup.",
-      "snippet_ko": "9월 23일부터 Vids의 AI 동영상 제작 기능은 Google 및 Workspace 사용자에게 무료로 제공됩니다. 이번 업그레이드는 Google 모델 라인업에 새롭게 추가된 ‘Gemini Omni 1.1 Flash’를 기반으로 합니다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.5637,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/the-overlooked-winner-from-googles-free-ai-video-move-micron-1846800/",
-      "cross_verified": true,
-      "published_at": "2026-10-06T22:08:05.000000Z"
-    },
-    {
-      "title": "S&P 500 and Nasdaq Hit Record Highs Amid AI Surge and Robust Earnings Outlook",
-      "title_ko": "AI 열풍과 견조한 실적 전망 속에 S&P 500과 나스닥, 사상 최고치 경신",
-      "snippet": "The S&P 500 (SPY) climbed to its first record high since August on Tuesday, closing up 0.6% as investors bet that corporate profits can withstand high",
-      "snippet_ko": "S&P 500 지수(SPY)는 화요일 8월 이후 처음으로 사상 최고치를 경신하며 0.6% 상승한 채 장을 마감했는데, 이는 투자자들이 기업 실적이 높은",
-      "symbol": "AAPL",
-      "sentiment_score": 0.738,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/sp-500-and-nasdaq-hit-record-highs-amid-ai-surge-and-robust-earnings-outlook/72676/",
-      "cross_verified": true,
-      "published_at": "2026-10-06T21:38:19.000000Z"
     }
   ]
 }
