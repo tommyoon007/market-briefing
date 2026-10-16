@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-16T00:11:25.703461+00:00",
+  "updated_at": "2026-10-16T06:56:45.563633+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Northrim BanCorp (NRIM) Reports Q3 Results with Revenue Beat and Dividend Increase",
+      "title_ko": "노스림 밴코프(NRIM), 3분기 실적 발표…매출 예상치 상회 및 배당금 인상",
+      "snippet": "On October 16, 2026, Northrim BanCorp Inc (NRIM) released its third-quarter earnings, showing mixed results with a slight miss on non-GAAP EPS but a notable rev",
+      "snippet_ko": "2026년 10월 16일, Northrim BanCorp Inc(NRIM)는 3분기 실적을 발표했는데, 비GAAP 주당순이익(EPS)은 예상치를 소폭 하회했으나 매출은 눈에 띄게 증가하는 등 엇갈린 결과를 보였다.",
+      "symbol": "",
+      "sentiment_score": 0.2419,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9127249/northrim-bancorp-nrim-reports-q3-results-with-revenue-beat-and-dividend-increase",
+      "cross_verified": true,
+      "published_at": "2026-10-16T06:56:19.000000Z"
+    },
     {
       "title": "Brent Oil Fluctuates Amid Supply Concerns and Emergency Reserves Release",
       "title_ko": "공급 우려와 비상 비축유 방출로 브렌트유 가격 등락",
@@ -1189,21 +1201,69 @@
       "url": "https://seekingalpha.com/article/4951882-xylem-strong-dividend-safety-and-undervaluation-are-attractive",
       "cross_verified": true,
       "published_at": "2026-10-05T03:59:00.000000Z"
-    },
-    {
-      "title": "India aims to sign multibillion-dollar French jet deal by March",
-      "title_ko": "인도는 3월까지 프랑스와 수십억 달러 규모의 전투기 계약을 체결하는 것을 목표로 하고 있다",
-      "snippet": "India aims to sign a $30-35 billion Rafale deal for 114 jets with France within five months, amid growing fighter shortfalls.",
-      "snippet_ko": "전투기 부족 문제가 심화되는 가운데, 인도는 5개월 이내에 프랑스와 114대의 라팔 전투기 구매를 위한 300억~350억 달러 규모의 계약을 체결하는 것을 목표로 하고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.0772,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/news/india-aims-to-sign-multibillion-dollar-french-jet-deal-by-march/article71545728.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-05T03:38:00.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Michael Dell loses over $20 billion in a single day as Dell stock slumps 11%; loses 4th-richest person status",
+      "title_ko": "델 주가가 11% 급락하면서 마이클 델은 하루 만에 200억 달러 이상의 재산을 잃었고, 부자 순위 4위 자리도 내주게 되었다",
+      "snippet": "Dell briefly became the world's second-richest person, behind Elon Musk, after his net worth surpassed $270 billion.",
+      "snippet_ko": "델의 순자산이 2,700억 달러를 넘어선 후, 그는 잠시 엘론 머스크에 이어 세계에서 두 번째로 부유한 인물이 되었다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.5106,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/people/michael-dell-loses-over-20-billion-in-a-single-day-as-dell-stock-slumps-11-loses-4th-richest-person-status-11792125702948.html",
+      "cross_verified": true,
+      "published_at": "2026-10-16T05:24:32.000000Z"
+    },
+    {
+      "title": "Fed Chair Warsh Signals Data-Dependent Path, Highlights AI as “Most Consequential” Economic Shift",
+      "title_ko": "연준 의장 워시, 데이터에 따른 정책 경로 시사… AI를 “가장 중대한” 경제 변화로 지목",
+      "snippet": "Speaking at an IMF session in Bangkok, Federal Reserve Chairman Kevin Warsh maintained his signature \"quiet Fed\" approach, refusing to offer",
+      "snippet_ko": "방콕에서 열린 IMF 회의에서 연설한 케빈 워시 연방준비제도(Fed) 의장은 자신의 트레이드마크인 ‘조용한 연준’ 접근 방식을 고수하며, 이에 대한 언급을 거부했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.9556,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/fed-chair-warsh-signals-data-dependent-path-highlights-ai-as-most-consequential-economic-shift/73105/",
+      "cross_verified": true,
+      "published_at": "2026-10-16T04:08:12.000000Z"
+    },
+    {
+      "title": "India's family offices bet on homegrown AI firms to catch up with US, China",
+      "title_ko": "인도의 패밀리 오피스는 미국, 중국을 따라잡기 위해 자국 AI 기업들에 투자하고 있다",
+      "snippet": "Azim Premji's family office, QED Innovation Labs and Ranjan Pai's family office are backing homegrown AI firms, even as India's AI investment of over $15 bn between 2013 and 2025 trails US and China",
+      "snippet_ko": "2013년부터 2025년까지 인도의 AI 투자 규모가 150억 달러를 넘었음에도 미국과 중국에 뒤처지고 있는 상황이지만, 아짐 프렘지의 패밀리 오피스인 QED 이노베이션 랩스와 란잔 파이의 패밀리 오피스는 인도 토종 AI 기업들을 지원하고 있다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.1452,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/companies/news/india-s-family-offices-bet-on-homegrown-ai-firms-to-catch-up-with-us-china-126101600176_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-16T04:04:39.000000Z"
+    },
+    {
+      "title": "Senate Leadership Fund Raises $272.9M in Q3, Elon Musk Donates $158M; TSLA Insights",
+      "title_ko": "상원 지도부 기금, 3분기에 2억 7,290만 달러 모금… 일론 머스크, 1억 5,800만 달러 기부; TSLA 인사이트",
+      "snippet": "On October 16, 2026, the Senate Leadership Fund (SLF), a leading Republican super PAC, announced a record-breaking quarterly fundraising haul of $272.9 million",
+      "snippet_ko": "2026년 10월 16일, 공화당 계열의 주요 슈퍼 PAC인 상원 지도부 기금(SLF)은 분기 모금액으로 사상 최대인 2억 7,290만 달러를 기록했다고 발표했다.",
+      "symbol": "TSLA",
+      "sentiment_score": 0.5026,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9127247/senate-leadership-fund-raises-2729m-in-q3-elon-musk-donates-158m-tsla-insights",
+      "cross_verified": true,
+      "published_at": "2026-10-16T06:55:24.000000Z"
+    },
+    {
+      "title": "Tesla CEO Elon Musk Highlights China's Declining Oil Dependence",
+      "title_ko": "테슬라 CEO 엘론 머스크, 중국의 석유 의존도 감소 강조",
+      "snippet": "On October 16, 2026, Tesla CEO Elon Musk made headlines on social media platform X, commenting on China's decreasing reliance on oil. This statement followed an",
+      "snippet_ko": "2026년 10월 16일, 테슬라의 CEO 엘론 머스크는 소셜 미디어 플랫폼 ‘X’에서 중국의 석유 의존도 감소에 대해 언급하며 화제를 모았다. 이 발언은",
+      "symbol": "TSLA",
+      "sentiment_score": 0.4017,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9127246/tesla-ceo-elon-musk-highlights-chinas-declining-oil-dependence",
+      "cross_verified": true,
+      "published_at": "2026-10-16T06:51:48.000000Z"
+    },
     {
       "title": "U.S. Tech Coalition Pledges $330M for White House Ballroom; Nvidia (NVDA) Among Top Donors",
       "title_ko": "미국 기술 기업 연합, 백악관 연회장 건립을 위해 3억 3천만 달러 기부 약속… 엔비디아(NVDA)가 주요 기부사 중 하나",
@@ -2343,66 +2403,6 @@
       "url": "https://seekingalpha.com/article/4952424-wall-street-highs-and-ai-bubble-risks",
       "cross_verified": true,
       "published_at": "2026-10-07T11:30:24.000000Z"
-    },
-    {
-      "title": "Meta's Muse assistant tops app charts. Now it needs to become a habit",
-      "title_ko": "메타의 ‘뮤즈’ 어시스턴트가 앱 차트 1위를 차지했다. 이제 사용자들의 일상 속 필수 요소가 되어야 한다.",
-      "snippet": "Meta’s Muse is free for now as the company searches for a business surrounding its personal AI agent.",
-      "snippet_ko": "메타는 자사의 개인용 AI 에이전트를 중심으로 한 비즈니스 모델을 모색 중인 가운데, 현재 ‘뮤즈(Muse)’를 무료로 제공하고 있다.",
-      "symbol": "META",
-      "sentiment_score": 0.4019,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/07/meta-muse-personal-ai-agents-dazzle.html",
-      "cross_verified": true,
-      "published_at": "2026-10-07T11:00:01.000000Z"
-    },
-    {
-      "title": "Scott Galloway: Stop Being an Earner, Start Being an Owner",
-      "title_ko": "스콧 갤러웨이: ‘수입자’에서 벗어나 ‘소유자’가 되라",
-      "snippet": "Get a good corporate job, save some money, and start investing ASAP. If you’re going to buy a house, do it here. That’s Scott Galloway’s advice, or, as you",
-      "snippet_ko": "좋은 기업에 취직하고, 돈을 좀 모은 다음, 가능한 한 빨리 투자를 시작하세요. 집을 살 생각이라면 바로 여기서 사세요. 이것이 스콧 갤러웨이의 조언이며, 혹은 여러분이",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3732,
-      "source": "biggerpockets.com",
-      "url": "https://www.biggerpockets.com/blog/real-estate-1340",
-      "cross_verified": true,
-      "published_at": "2026-10-07T11:00:01.000000Z"
-    },
-    {
-      "title": "SpaceX in talks with investors to borrow $40 billion to buy Nvidia chips",
-      "title_ko": "스페이스X, 엔비디아 칩 구매를 위해 400억 달러 차입을 놓고 투자자들과 협의 중",
-      "snippet": "SpaceX is in early talks with banks and investors to raise $40 billion to fund purchases of Nvidia chips, potentially marking one of the largest AI-related debt financings",
-      "snippet_ko": "스페이스X는 엔비디아 칩 구매 자금을 마련하기 위해 400억 달러를 조달하기 위해 은행 및 투자자들과 초기 협상을 진행 중이며, 이는 AI 관련 채권 금융 사상 최대 규모 중 하나가 될 가능성이 있다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.4972,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/spacex-in-talks-with-investors-to-borrow-40-billion-to-buy-nvidia-chips-126100700148_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-07T03:45:42.000000Z"
-    },
-    {
-      "title": "Boston Dynamics appoints Rohit Prasad as CEO to lead robotics expansion",
-      "title_ko": "보스턴 다이내믹스, 로봇 사업 확장을 이끌 CEO로 로히트 프라사드 선임",
-      "snippet": "Boston Dynamics names former Amazon executive Rohit Prasad as CEO as Hyundai-backed company advances Atlas humanoid robots and commercial robotics.",
-      "snippet_ko": "보스턴 다이내믹스가 전 아마존 임원인 로히트 프라사드를 CEO로 선임했다. 현대자동차 그룹의 지원을 받는 이 회사는 ‘아틀라스’ 휴머노이드 로봇과 상업용 로봇 기술을 발전시키고 있다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.4666,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/info-tech/boston-dynamics-appoints-former-amazon-executive-rohit-prasad-as-ceo/article71554195.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-07T03:43:37.000000Z"
-    },
-    {
-      "title": "Apple partners with LG on doorbells, lock, thermostat in smart home push",
-      "title_ko": "애플, 스마트 홈 시장 공략 위해 LG와 도어벨·잠금장치·온도조절기 분야에서 협력",
-      "snippet": "The products will be part of an ecosystem of devices that work with Apple's new smart home hub, as well as an upgraded HomePod mini and fresh TV set-top box",
-      "snippet_ko": "이 제품들은 애플의 새로운 스마트 홈 허브는 물론, 업그레이드된 ‘홈팟 미니’ 및 신형 TV 셋톱박스와 연동되는 기기 생태계의 일부가 될 예정입니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.6371,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/technology/tech-news/apple-partners-with-lg-on-doorbells-lock-thermostat-in-smart-home-push-126100700141_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-07T03:41:24.000000Z"
     }
   ]
 }
