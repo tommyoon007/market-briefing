@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-16T17:54:50.785659+00:00",
+  "updated_at": "2026-10-16T20:49:09.192181+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Compass (COMP) Files Antitrust Lawsuit Against California Regional MLS",
+      "title_ko": "컴패스(COMP), 캘리포니아 지역 MLS를 상대로 반독점 소송 제기",
+      "snippet": "On October 16, 2026, Compass Inc (NYSE: COMP) initiated legal proceedings in a federal court in Los Angeles against the California Regional Multiple Listing Ser",
+      "snippet_ko": "2026년 10월 16일, Compass Inc(NYSE: COMP)는 로스앤젤레스 연방 법원에서 캘리포니아 지역 다중 매물 목록 서비스(California Regional Multiple Listing Service)를 상대로 법적 절차를 개시했다.",
+      "symbol": "",
+      "sentiment_score": 0.2597,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9128198/compass-comp-files-antitrust-lawsuit-against-california-regional-mls",
+      "cross_verified": true,
+      "published_at": "2026-10-16T20:25:28.000000Z"
+    },
+    {
+      "title": "Rosenblatt Sees 45% Upside in Super Micro Stock",
+      "title_ko": "로젠블랫, 슈퍼마이크로 주가에 45% 상승 여력 전망",
+      "snippet": "AI server maker Super Micro Computer Inc. (SMCI, Financials) may now be receiving some credit for resolving some of the challenges that have impacted on its pri",
+      "snippet_ko": "AI 서버 제조사인 슈퍼 마이크로 컴퓨터(Super Micro Computer Inc., SMCI, 재무 정보)는 자사의 주요 사업에 영향을 미쳤던 몇 가지 문제들을 해결한 공로를 인정받고 있는 것으로 보인다.",
+      "symbol": "",
+      "sentiment_score": 0.6124,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9127988/rosenblatt-sees-45-upside-in-super-micro-stock",
+      "cross_verified": true,
+      "published_at": "2026-10-16T20:22:29.000000Z"
+    },
     {
       "title": "US Treasury Yields Under Pressure Amid Inflation Concerns",
       "title_ko": "인플레이션 우려 속에 미국 국채 수익률 하락 압력 받아",
@@ -1177,33 +1201,57 @@
       "url": "https://www.gurufocus.com/news/9110214/paypal-holdings-inc-pypl-stock-up-30-and-still-undervalued-gf-score-91100",
       "cross_verified": true,
       "published_at": "2026-10-05T22:27:19.000000Z"
-    },
-    {
-      "title": "Allegion (ALLE) Completes Acquisition of Overly Door Company to Expand Specialty Security Solutions",
-      "title_ko": "앨리전(ALLE), 특수 보안 솔루션 확대를 위해 오버리 도어 컴퍼니 인수 완료",
-      "snippet": "On October 05, 2026, Allegion PLC (NYSE: ALLE) announced the successful completion of its acquisition of Overly Door Company, a private manufacturer specializin",
-      "snippet_ko": "2026년 10월 5일, Allegion PLC(NYSE: ALLE)는 [전문 분야인] 비공개 제조업체인 Overly Door Company의 인수를 성공적으로 완료했다고 발표했다.",
-      "symbol": "",
-      "sentiment_score": 0.6445,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9110213/allegion-alle-completes-acquisition-of-overly-door-company-to-expand-specialty-security-solutions",
-      "cross_verified": true,
-      "published_at": "2026-10-05T22:26:23.000000Z"
-    },
-    {
-      "title": "A Look at Humana Inc (HUM) After 4.0% Gain -- GF Value $380.50 vs Price $404.07",
-      "title_ko": "4.0% 상승 후 휴마나(Humana Inc, HUM) 현황 살펴보기 — GF 목표주가 380.50달러 vs 현재 주가 404.07달러",
-      "snippet": "On October 05, 2026, Humana Inc (HUM) shares rose 4.0%, reflecting a strong performance in a dynamic market. The stock is currently trading at $404.07, well wit",
-      "snippet_ko": "2026년 10월 5일, 휴마나(Humana Inc, HUM) 주가는 역동적인 시장 속에서 견조한 실적을 반영하며 4.0% 상승했습니다. 현재 이 주식은 404.07달러에 거래되고 있으며, 이는",
-      "symbol": "",
-      "sentiment_score": 0.5328,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9110212/a-look-at-humana-inc-hum-after-40-gain-gf-value-38050-vs-price-40407",
-      "cross_verified": true,
-      "published_at": "2026-10-05T22:26:10.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Apple (AAPL) iPhone Duo Pre-Orders Signal Strong Demand with Extended Delivery Times",
+      "title_ko": "애플(AAPL)의 아이폰 듀오 사전 예약, 배송 기간 연장으로 강한 수요를 시사",
+      "snippet": "On October 16, 2026, Evercore ISI reported that pre-orders for Apple Inc's (NASDAQ: AAPL) new iPhone Duo began today, with delivery timelines stretching into la",
+      "snippet_ko": "2026년 10월 16일, 에버코어 ISI는 애플(NASDAQ: AAPL)의 신형 ‘아이폰 듀오’에 대한 사전 주문이 오늘 시작되었으며, 배송 일정은 11월까지 이어질 것이라고 보도했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5158,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9128166/apple-aapl-iphone-duo-preorders-signal-strong-demand-with-extended-delivery-times",
+      "cross_verified": true,
+      "published_at": "2026-10-16T19:50:34.000000Z"
+    },
+    {
+      "title": "NBA Betting Restrictions Impact DraftKings (DKNG) Stock Amid Market Concerns",
+      "title_ko": "시장 우려 속에서 NBA 베팅 제한 조치가 드래프트킹스(DKNG) 주가에 영향을 미치고 있다",
+      "snippet": "On October 16, 2026, the NBA announced new restrictions on certain betting options for the current season, directly affecting sportsbook operators including Dra",
+      "snippet_ko": "2026년 10월 16일, NBA는 이번 시즌의 특정 베팅 옵션에 대한 새로운 제한 조치를 발표했으며, 이는 Dra를 비롯한 스포츠북 운영사들에 직접적인 영향을 미쳤습니다.",
+      "symbol": "DKNG",
+      "sentiment_score": 0.2877,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9128135/nba-betting-restrictions-impact-draftkings-dkng-stock-amid-market-concerns",
+      "cross_verified": true,
+      "published_at": "2026-10-16T19:26:09.000000Z"
+    },
+    {
+      "title": "Evercore ISI Reaffirms Outperform on Alphabet (GOOG) with $450 Price Target Amid AI Chip Growth",
+      "title_ko": "에버코어 ISI, AI 칩 성장세에 힘입어 알파벳(GOOG)에 대해 ‘아웃퍼폼’ 투자의견 재확인… 목표주가 450달러 제시",
+      "snippet": "On October 16, 2026, Evercore ISI reiterated its Outperform rating on Alphabet Inc (NASDAQ: GOOG), setting a price target of $450. The firm highlighted robust g",
+      "snippet_ko": "2026년 10월 16일, 에버코어 ISI는 알파벳(Alphabet Inc, 나스닥: GOOG)에 대한 ‘아웃퍼폼(Outperform)’ 투자의견을 재확인하고 목표주가를 450달러로 제시했다. 이 회사는 견실한 g",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.5992,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9128095/evercore-isi-reaffirms-outperform-on-alphabet-goog-with-450-price-target-amid-ai-chip-growth",
+      "cross_verified": true,
+      "published_at": "2026-10-16T18:57:03.000000Z"
+    },
+    {
+      "title": "Options Traders Show Caution as Netflix (NFLX) Stock Dips Amid Elevated Volatility",
+      "title_ko": "변동성이 높아진 가운데 넷플릭스(NFLX) 주가가 하락하자 옵션 거래자들이 신중한 태도를 보이고 있다",
+      "snippet": "On October 16, 2026, Netflix Inc (NFLX) experienced a $2.18 decline in its stock price, closing near $70.46, as options market participants exhibited a cautious",
+      "snippet_ko": "2026년 10월 16일, 넷플릭스(NFLX)의 주가는 2.18달러 하락하여 70.46달러 부근에서 장을 마감했는데, 이는 옵션 시장 참여자들이 신중한 태도를 보였기 때문이다.",
+      "symbol": "NFLX",
+      "sentiment_score": 0.3114,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9128199/options-traders-show-caution-as-netflix-nflx-stock-dips-amid-elevated-volatility",
+      "cross_verified": true,
+      "published_at": "2026-10-16T20:25:53.000000Z"
+    },
     {
       "title": "UK CMA Proposes Changes to Apple Pay Tap-to-Pay in UK, Impacting AAPL",
       "title_ko": "영국 경쟁시장청(CMA), 영국 내 애플 페이 ‘탭 투 페이’ 서비스 변경안 제안… AAPL에 영향",
@@ -2355,54 +2403,6 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/energy-surges-and-tech-falters-midday-market-update-for-october-8-2026/72754/",
       "cross_verified": true,
       "published_at": "2026-10-08T16:07:15.000000Z"
-    },
-    {
-      "title": "Intel Stock: Cheapest CPU Name In Sight (NASDAQ:INTC)",
-      "title_ko": "인텔 주가: 역대 최저가 CPU 출시 임박 (나스닥: INTC)",
-      "snippet": "Intel Corporation remains a buy despite recent volatility tied to Terafab headlines and Musk's TSMC discussions. Read more on INTC stock here.",
-      "snippet_ko": "테라팹 관련 뉴스와 머스크의 TSMC 논의로 인한 최근의 변동성에도 불구하고, 인텔(Intel Corporation)은 여전히 매수 추천 종목으로 남아 있습니다. INTC 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "INTC",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4952812-intel-cheapest-cpu-name-in-sight",
-      "cross_verified": true,
-      "published_at": "2026-10-08T15:20:57.000000Z"
-    },
-    {
-      "title": "McDonald's: Same-Store Sales Are An Overrated Metric (NYSE:MCD)",
-      "title_ko": "맥도날드: 동일 매장 매출은 과대평가된 지표다 (NYSE:MCD)",
-      "snippet": "McDonald's store expansion, not just SSS, drives top line growth. Click here to read more on MCD stock and why it is upgraded to Strong Buy.",
-      "snippet_ko": "매출 성장의 원동력은 단순히 동일 매장 매출(SSS)뿐만 아니라 맥도날드의 매장 확장입니다. MCD 주식에 대한 자세한 내용과 ‘강력 매수’ 등급으로 상향 조정된 이유를 확인하려면 여기를 클릭하세요.",
-      "symbol": "MCD",
-      "sentiment_score": 0.2009,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4952688-mcdonalds-same-store-sales-are-an-overrated-metric-upgrade",
-      "cross_verified": true,
-      "published_at": "2026-10-08T07:41:32.000000Z"
-    },
-    {
-      "title": "Royal Caribbean Group: Has the Market Already Priced in the Cruise Recovery?",
-      "title_ko": "로얄 캐리비안 그룹: 시장이 이미 크루즈 업계의 회복세를 반영한 것일까?",
-      "snippet": "Royal Caribbean Cruises Ltd. (NYSE:RCL) is in a very different place today than it was a few years ago. Back then, the stock was largely a bet on the cruise business getting back on its feet.",
-      "snippet_ko": "로열 캐리비안 크루즈(Royal Caribbean Cruises Ltd., NYSE:RCL)는 오늘날 몇 년 전과는 상당히 다른 상황에 놓여 있습니다. 당시 이 주식은 주로 크루즈 사업이 다시 활기를 되찾을 것이라는 기대에 기반한 투자 대상이었습니다.",
-      "symbol": "KO",
-      "sentiment_score": 0.2102,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/royal-caribbean-group-has-the-market-already-priced-in-the-cruise-recovery-1850595/",
-      "cross_verified": true,
-      "published_at": "2026-10-08T07:02:59.000000Z"
-    },
-    {
-      "title": "Kraft Heinz Stock Looks Cheap. Here’s What Investors are Missing",
-      "title_ko": "크래프트 하인즈 주가가 저평가된 것으로 보인다. 투자자들이 간과하고 있는 점은 바로 이것이다",
-      "snippet": "The Kraft Heinz Company (NYSE:KHC) has something many companies would love to have: brands that people already know.",
-      "snippet_ko": "크래프트 하인즈(Kraft Heinz Company, NYSE:KHC)는 많은 기업들이 간절히 원하는 것을 가지고 있습니다. 바로 대중에게 이미 잘 알려진 브랜드들입니다.",
-      "symbol": "KO",
-      "sentiment_score": 0.6054,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/kraft-heinz-stock-looks-cheap-heres-what-investors-are-missing-1850589/",
-      "cross_verified": true,
-      "published_at": "2026-10-08T07:01:31.000000Z"
     }
   ]
 }
