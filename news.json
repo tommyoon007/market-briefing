@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-16T13:08:01.567989+00:00",
+  "updated_at": "2026-10-16T17:54:50.785659+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "US Treasury Yields Under Pressure Amid Inflation Concerns",
+      "title_ko": "인플레이션 우려 속에 미국 국채 수익률 하락 압력 받아",
+      "snippet": "On October 16, 2026, recent trends in U.S. long-term Treasury bonds may face challenges in sustaining their upward momentum. This backdrop of economic uncertain",
+      "snippet_ko": "2026년 10월 16일, 미국 장기 국채의 최근 상승세는 상승 모멘텀을 유지하는 데 어려움을 겪을 수 있습니다. 이러한 경제적 불확실성을 배경으로",
+      "symbol": "",
+      "sentiment_score": 0.2318,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9128026/us-treasury-yields-under-pressure-amid-inflation-concerns",
+      "cross_verified": true,
+      "published_at": "2026-10-16T17:51:17.000000Z"
+    },
+    {
+      "title": "Two Sigma Investments Restructures Real Estate Division, Cuts Senior Staff",
+      "title_ko": "투 시그마 인베스트먼트, 부동산 부문 조직 개편 및 고위 간부 감원",
+      "snippet": "On October 16, 2026, Two Sigma Investments announced significant changes to its real estate division, including the departure of key leadership and a halt to fu",
+      "snippet_ko": "2026년 10월 16일, 투 시그마 인베스트먼트(Two Sigma Investments)는 핵심 경영진의 퇴사와 향후 사업 중단 등을 포함한 부동산 부문의 중대한 변화를 발표했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.6791,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9128025/two-sigma-investments-restructures-real-estate-division-cuts-senior-staff",
+      "cross_verified": true,
+      "published_at": "2026-10-16T17:50:53.000000Z"
+    },
+    {
+      "title": "H.C. Wainwright Maintains Buy on Omeros (OMER) Despite Regulatory Setback, Stock Drops 14%",
+      "title_ko": "H.C. 웨인라이트, 규제 관련 차질에도 오메로스(OMER)에 대해 ‘매수’ 추천 유지… 주가는 14% 하락",
+      "snippet": "On October 16, 2026, H.C. Wainwright reaffirmed its Buy rating on Omeros Corporation (NASDAQ: OMER) following a 14% decline in the stock after an unfavorable op",
+      "snippet_ko": "2026년 10월 16일, H.C. 웨인라이트는 부정적인 실적 발표 이후 주가가 14% 하락한 오메로스 코퍼레이션(NASDAQ: OMER)에 대해 ‘매수’ 투자의견을 재확인했다.",
+      "symbol": "",
+      "sentiment_score": 0.0812,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9128024/hc-wainwright-maintains-buy-on-omeros-omer-despite-regulatory-setback-stock-drops-14",
+      "cross_verified": true,
+      "published_at": "2026-10-16T17:50:43.000000Z"
+    },
     {
       "title": "Integra LifeSciences to Highlight ENT and Instruments Portfolios and Sponsor New Clinical Research Presentations at AAO-HNSF 2026 Annual Meeting",
       "title_ko": "인테그라 라이프사이언스, AAO-HNSF 2026 연례 학술대회에서 이비인후과 및 수술 기구 제품군을 집중 소개하고 새로운 임상 연구 발표를 후원할 예정",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9110212/a-look-at-humana-inc-hum-after-40-gain-gf-value-38050-vs-price-40407",
       "cross_verified": true,
       "published_at": "2026-10-05T22:26:10.000000Z"
-    },
-    {
-      "title": "Evercore ISI Upgrades Texas Roadhouse (TXRH) to Outperform Amid Share Price Dip",
-      "title_ko": "에버코어 ISI, 주가 하락 속 텍사스 로드하우스(TXRH) 투자의견을 ‘아웃퍼폼’으로 상향 조정",
-      "snippet": "On October 05, 2026, Evercore ISI raised its rating on Texas Roadhouse Inc (NASDAQ: TXRH) to \"Outperform\" from \"In Line,\" citing the recent 25% decline in the s",
-      "snippet_ko": "2026년 10월 5일, 에버코어 ISI는 텍사스 로드하우스(Texas Roadhouse Inc, 나스닥: TXRH)에 대한 투자 등급을 ‘In Line’에서 ‘Outperform’으로 상향 조정했으며, 그 이유로 최근 주가가 25% 하락한 점을 꼽았다.",
-      "symbol": "",
-      "sentiment_score": 0.6074,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9109370/evercore-isi-upgrades-texas-roadhouse-txrh-to-outperform-amid-share-price-dip",
-      "cross_verified": true,
-      "published_at": "2026-10-05T13:59:35.000000Z"
-    },
-    {
-      "title": "GF Securities Raises Earnings Forecasts for United Microelectronics (UMC) Amid Strong Foundry Demand",
-      "title_ko": "GF 증권은 파운드리 수요가 호조를 보임에 따라 유나이티드 마이크로일렉트로닉스(UMC)의 실적 전망치를 상향 조정했다.",
-      "snippet": "On October 05, 2026, GF Securities projected that United Microelectronics Corp (NYSE: UMC) will experience rising earnings per share over the next two years, dr",
-      "snippet_ko": "2026년 10월 5일, GF 증권은 유나이티드 마이크로일렉트로닉스(United Microelectronics Corp, NYSE: UMC)의 주당 순이익이 향후 2년 동안 증가할 것으로 전망했으며, 이는...",
-      "symbol": "",
-      "sentiment_score": 0.5494,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9109368/gf-securities-raises-earnings-forecasts-for-united-microelectronics-umc-amid-strong-foundry-demand",
-      "cross_verified": true,
-      "published_at": "2026-10-05T13:58:53.000000Z"
-    },
-    {
-      "title": "Walmart+ Membership Hits Record 25% Penetration; WMT Fairly Valued at $104.27 GF Value™",
-      "title_ko": "월마트+ 회원 가입률, 사상 최고치인 25% 달성; WMT, 104.27달러에 적정 가치 평가 (GF Value™)",
-      "snippet": "On October 05, 2026, Morgan Stanley's latest consumer survey revealed that Walmart+ membership reached a new high, with approximately 25% of respondents indicat",
-      "snippet_ko": "2026년 10월 5일, 모건 스탠리의 최신 소비자 설문조사에 따르면 월마트+ 회원 수가 사상 최고치를 기록한 것으로 나타났으며, 응답자의 약 25%가",
-      "symbol": "",
-      "sentiment_score": 0.5462,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9109367/walmart-membership-hits-record-25-penetration-wmt-fairly-valued-at-10427-gf-value",
-      "cross_verified": true,
-      "published_at": "2026-10-05T13:58:35.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "UK CMA Proposes Changes to Apple Pay Tap-to-Pay in UK, Impacting AAPL",
+      "title_ko": "영국 경쟁시장청(CMA), 영국 내 애플 페이 ‘탭 투 페이’ 서비스 변경안 제안… AAPL에 영향",
+      "snippet": "On October 16, 2026, the UK's Competition and Markets Authority (CMA) announced upcoming consultation proposals aimed at reducing Apple Inc.'s (NASDAQ: AAPL) do",
+      "snippet_ko": "2026년 10월 16일, 영국 경쟁·시장청(CMA)은 애플(NASDAQ: AAPL)의 도...를 줄이기 위한 향후 의견 수렴안을 발표했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3434,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9127885/uk-cma-proposes-changes-to-apple-pay-taptopay-in-uk-impacting-aapl",
+      "cross_verified": true,
+      "published_at": "2026-10-16T16:50:30.000000Z"
+    },
+    {
+      "title": "Taiwan to Fund $4 Billion Texas Complex for AI, Nvidia Partners",
+      "title_ko": "대만, AI 전용 텍사스 복합단지에 40억 달러 투자… 엔비디아와 협력",
+      "snippet": "Taiwan plans to raise billions of dollars to develop industrial parks in the US that would build a base for a comprehensive supply chain for Nvidia Corp.",
+      "snippet_ko": "대만은 엔비디아(Nvidia Corp.)의 포괄적인 공급망 기반을 구축할 미국 내 산업단지 개발을 위해 수십억 달러를 조달할 계획이다.",
+      "symbol": "META",
+      "sentiment_score": 0.3604,
+      "source": "insurancejournal.com",
+      "url": "https://www.insurancejournal.com/news/southcentral/2026/10/16/889240.htm",
+      "cross_verified": true,
+      "published_at": "2026-10-16T16:15:47.000000Z"
+    },
+    {
+      "title": "Meta: The Capex Problem Is Starting To Look Like A Strategy (NASDAQ:META)",
+      "title_ko": "메타: 자본지출(Capex) 문제가 전략처럼 보이기 시작하고 있다 (나스닥: META)",
+      "snippet": "Meta Platforms is transitioning from a cash-burning lab to a coordinated AI-driven platform with multiple monetization paths. Read more on META stock here.",
+      "snippet_ko": "메타 플랫폼스는 자금을 낭비하던 연구소에서 다양한 수익 창출 경로를 갖춘 체계적인 AI 기반 플랫폼으로 전환하고 있습니다. META 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "META",
+      "sentiment_score": -0.0516,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4954820-meta-the-capex-problem-is-starting-to-look-like-a-strategy",
+      "cross_verified": true,
+      "published_at": "2026-10-16T16:10:05.000000Z"
+    },
     {
       "title": "Waymo to Launch Fully Autonomous Ride-Hailing in Toronto by 2028, Impacting Alphabet (GOOG)",
       "title_ko": "웨이모, 2028년까지 토론토에서 완전 자율주행 차량 호출 서비스 출시 예정… 알파벳(GOOG)에 영향 미칠 전망",
@@ -2367,42 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/kraft-heinz-stock-looks-cheap-heres-what-investors-are-missing-1850589/",
       "cross_verified": true,
       "published_at": "2026-10-08T07:01:31.000000Z"
-    },
-    {
-      "title": "McDonald’s: The Chip Trade I Can Stomach (NYSE:MCD)",
-      "title_ko": "맥도날드: 내가 참을 수 있는 감자칩 사업 (NYSE:MCD)",
-      "snippet": "McDonald's Corporation is rated a Strong Buy at $233.04, versus $264.71 earnings-based fair value and $229.78 DCF value. Read more on MCD stock here.",
-      "snippet_ko": "맥도날드 코퍼레이션은 233.04달러에 ‘강력 매수’ 등급을 받았으며, 이는 실적 기반 적정 가치인 264.71달러 및 DCF 가치인 229.78달러와 대비됩니다. MCD 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "MCD",
-      "sentiment_score": 0.4521,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4952599-mcdonalds-the-chip-trade-i-can-stomach",
-      "cross_verified": true,
-      "published_at": "2026-10-07T19:58:11.000000Z"
-    },
-    {
-      "title": "Trump Administration Eyes Pre-Midterm Iran Strike Options; Musk to Receive Top Science Honor",
-      "title_ko": "트럼프 행정부, 중간선거 전 이란 공격 방안 검토 중; 머스크, 최고 과학상 수상 예정",
-      "snippet": "The Trump administration is exploring military options against Iran as the November 3 midterm elections approach. According to reports from The Atlantic,",
-      "snippet_ko": "11월 3일 중간선거가 다가옴에 따라 트럼프 행정부는 이란에 대한 군사적 옵션을 검토하고 있다. 《더 애틀랜틱》의 보도에 따르면,",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.3182,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/trump-administration-eyes-pre-midterm-iran-strike-options-musk-to-receive-top-science-honor/72716/",
-      "cross_verified": true,
-      "published_at": "2026-10-07T19:38:21.000000Z"
-    },
-    {
-      "title": "Should You Buy Space Exploration Technologies Corp. (SPCX) on AI Compute Business Potential?",
-      "title_ko": "AI 컴퓨팅 사업의 잠재력을 고려해 스페이스 익스플로레이션 테크놀로지스(SPCX) 주식을 매수해야 할까요?",
-      "snippet": "Space Exploration Technologies Corp.",
-      "snippet_ko": "스페이스 익스플로레이션 테크놀로지스(주)",
-      "symbol": "INTC",
-      "sentiment_score": 0.0,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/should-you-buy-space-exploration-technologies-corp-spcx-on-ai-compute-business-potential-1846987/",
-      "cross_verified": true,
-      "published_at": "2026-10-07T19:08:12.000000Z"
     }
   ]
 }
