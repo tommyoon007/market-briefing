@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-17T16:56:20.865347+00:00",
+  "updated_at": "2026-10-17T20:24:17.548264+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Real Estate Stocks Rally as Rate Hike Odds Drop; SPY Valuation and Guru Activity in Focus",
+      "title_ko": "금리 인상 가능성 낮아지며 부동산주 강세… SPY의 밸류에이션과 전문가들의 동향 주목",
+      "snippet": "On October 17, 2026, real estate stocks surged following a marked decline in the probability of a Federal Reserve interest rate increase at the upcoming FOMC me",
+      "snippet_ko": "2026년 10월 17일, 다가오는 FOMC 회의에서 연방준비제도(Fed)가 금리를 인상할 가능성이 현저히 낮아지자 부동산 관련 주가가 급등했다.",
+      "symbol": "",
+      "sentiment_score": 0.2294,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9128988/real-estate-stocks-rally-as-rate-hike-odds-drop-spy-valuation-and-guru-activity-in-focus",
+      "cross_verified": true,
+      "published_at": "2026-10-17T17:55:42.000000Z"
+    },
+    {
+      "title": "Northrop Grumman (NOC) Is Down This Year and Trades Below Its History and Peers. Time to Buy the Dip?",
+      "title_ko": "노스롭 그루먼(NOC)은 올해 주가가 하락했으며, 역사적 평균 및 동종 업계 평균보다 낮은 수준에서 거래되고 있다. 지금이 저점 매수 기회일까?",
+      "snippet": "The defense industry is experiencing one of the strongest demand cycles in recent times.",
+      "snippet_ko": "방위 산업은 최근 들어 가장 강력한 수요 호황기를 맞이하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.2618,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/northrop-grumman-noc-is-down-this-year-and-trades-below-its-history-and-peers-time-to-buy-the-dip-1850090/",
+      "cross_verified": true,
+      "published_at": "2026-10-17T17:44:18.000000Z"
+    },
     {
       "title": "HHS Food Policy Talks Spotlight Risks for PepsiCo (PEP) Dividend Outlook",
       "title_ko": "HHS 식품 정책 논의, 펩시코(PEP) 배당 전망에 대한 위험 요인 부각",
@@ -1177,33 +1201,21 @@
       "url": "https://seekingalpha.com/article/4952467-dlocal-margin-compression-is-a-feature-of-scale-not-a-defect",
       "cross_verified": true,
       "published_at": "2026-10-07T11:32:29.000000Z"
-    },
-    {
-      "title": "Global Markets Retreat as Treasury Yields Surge; Coinbase Relaunches Pro Platform",
-      "title_ko": "국채 수익률 급등에 글로벌 시장 하락… 코인베이스, 프로 플랫폼 재출시",
-      "snippet": "Singapore’s benchmark Straits Times Index (STI) dropped sharply on Wednesday, falling 1.6% to close at 5,613.28. This decline represents the index's",
-      "snippet_ko": "수요일 싱가포르의 대표 지수인 스트레이츠 타임스 지수(STI)가 1.6% 급락하며 5,613.28로 장을 마감했다. 이번 하락은 지수의",
-      "symbol": "",
-      "sentiment_score": 0.1909,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/global-markets-retreat-as-treasury-yields-surge-coinbase-relaunches-pro-platform/72687/",
-      "cross_verified": true,
-      "published_at": "2026-10-07T04:08:15.000000Z"
-    },
-    {
-      "title": "Maersk’s owner seeks investments in Asian startups with new office",
-      "title_ko": "마에르스크의 모기업, 신규 사무소 개설을 통해 아시아 스타트업에 대한 투자 유치 나서",
-      "snippet": "The firm, funded entirely by the billionaire Maersk family with no external investors, will open the office — its first outside of Denmark — this week. It has more than $50 billion of net assets.",
-      "snippet_ko": "외부 투자자 없이 전적으로 억만장자 마에르스크 가문의 자금으로 설립된 이 회사는 이번 주 덴마크 이외 지역에서는 처음으로 사무소를 열 예정이다. 이 회사의 순자산은 500억 달러가 넘는다.",
-      "symbol": "",
-      "sentiment_score": 0.7829,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/companies/maersks-owner-seeks-investments-in-asian-startups-with-new-office/article71554190.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-07T03:55:31.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Elon Musk Reflects on AI Focus After White House Exit, Impacting Tesla (TSLA)",
+      "title_ko": "일론 머스크, 백악관 방문 후 AI에 집중한 소회 밝히며 테슬라(TSLA)에 미치는 영향",
+      "snippet": "On October 17, 2026, Elon Musk expressed regret over not prioritizing artificial intelligence sooner following his brief 130-day tenure at the White House, whic",
+      "snippet_ko": "2026년 10월 17일, 엘론 머스크는 백악관에서 130일간의 짧은 재임 기간을 마친 후, 인공지능을 더 일찍 우선순위로 삼지 못한 것에 대해 유감을 표명했는데, 이는",
+      "symbol": "TSLA",
+      "sentiment_score": 0.5035,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9128990/elon-musk-reflects-on-ai-focus-after-white-house-exit-impacting-tesla-tsla",
+      "cross_verified": true,
+      "published_at": "2026-10-17T18:55:21.000000Z"
+    },
     {
       "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
       "title_ko": "버크셔 주가는 시장의 매도세에도 불구하고 반등하며, 버핏이 CEO직에서 물러나겠다고 밝힌 이후 최고치를 기록했다.",
@@ -2391,18 +2403,6 @@
       "url": "https://seekingalpha.com/article/4953013-america-continues-to-spend-far-more-than-it-has",
       "cross_verified": true,
       "published_at": "2026-10-09T11:30:24.000000Z"
-    },
-    {
-      "title": "US Stock Market prediction for Friday: S&P 500, Dow Jones, Nasdaq, Russell 2000 eye green openings, Stocks of Nvidia, Tesla, Amazon, Apple, Verizon, SpaceX to watch out today",
-      "title_ko": "금요일 미국 증시 전망: S&P 500, 다우존스, 나스닥, 러셀 2000 지수 상승 출발 전망, 오늘 주목할 종목: 엔비디아, 테슬라, 아마존, 애플, 버라이즌, 스페이스X",
-      "snippet": "US Stock Market prediction today: Megacap growth stocks were broadly higher on the day, with Nvidia up 1.6 per cent premarket, while Tesla and Amazon.com were higher by around 1 per cent each.",
-      "snippet_ko": "오늘 미국 증시 전망: 대형 성장주들이 전반적으로 상승세를 보였으며, 엔비디아는 장전 거래에서 1.6% 상승했고, 테슬라와 아마존닷컴은 각각 약 1%씩 상승했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2126,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-prediction-for-friday-sp-500-dow-jones-nasdaq-russell-2000-eye-green-openings-stocks-of-nvidia-tesla-amazon-apple-verizon-spacex-to-watch-out-today/articleshow/134831304.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-09T10:59:46.000000Z"
     }
   ]
 }
