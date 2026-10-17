@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-17T00:15:00.207075+00:00",
+  "updated_at": "2026-10-17T06:47:45.769226+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Cohen & Steers, Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:CNS) 2026-10-17",
+      "title_ko": "Cohen & Steers, Inc. 2026년 3분기 실적 - 실적 발표 전화 회의 프레젠테이션 (NYSE:CNS) 2026-10-17",
+      "snippet": "2026-10-17. The following slide deck was published by Cohen & Steers, Inc.",
+      "snippet_ko": "2026년 10월 17일. 다음 슬라이드 자료는 Cohen & Steers, Inc.에서 발간한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4954932-cohen-and-steers-inc-2026-q3-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-10-17T05:30:34.000000Z"
+    },
+    {
+      "title": "CMC SWOT Analysis: Strong Growth Potential Revealed in 10-K Filing",
+      "title_ko": "CMC SWOT 분석: 10-K 제출 서류에서 드러난 강력한 성장 잠재력",
+      "snippet": "Strong revenue growth with net sales reaching $9.39 billion in 2026.Vertically integrated operations enhance cost efficiency and supply chain reliability.GF Sco",
+      "snippet_ko": "2026년 순매출이 93억 9천만 달러에 달하며 강력한 매출 성장을 기록했습니다. 수직 통합형 운영 체계를 통해 비용 효율성과 공급망 안정성이 강화되었습니다. GF Sco",
+      "symbol": "",
+      "sentiment_score": 0.6996,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9128659/cmc-swot-analysis-strong-growth-potential-revealed-in-10k-filing",
+      "cross_verified": true,
+      "published_at": "2026-10-17T05:02:08.000000Z"
+    },
+    {
+      "title": "TRV SWOT Analysis: Financial Resilience Amidst Market Challenges Revealed in 10-Q Filing",
+      "title_ko": "TRV SWOT 분석: 10-Q 제출 자료를 통해 드러난 시장 난관 속의 재무적 회복력",
+      "snippet": "Strengths include disciplined underwriting and a strong market position in the insurance sector.Weaknesses are highlighted by a moderate GF Score and overvaluat",
+      "snippet_ko": "강점으로는 엄격한 보험 인수 기준과 보험 부문에서의 탄탄한 시장 입지가 꼽힌다. 약점으로는 다소 낮은 GF 점수와 과대평가된 점이 지적된다.",
+      "symbol": "",
+      "sentiment_score": 0.4008,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9128658/trv-swot-analysis-financial-resilience-amidst-market-challenges-revealed-in-10q-filing",
+      "cross_verified": true,
+      "published_at": "2026-10-17T05:01:23.000000Z"
+    },
     {
       "title": "MaxLinear Inc (MXL) Shares Fall 8.8% -- What GF Score of 59 Tells Investors",
       "title_ko": "맥스리니어(MXL) 주가 8.8% 하락… GF 점수 59점이 투자자들에게 시사하는 바는?",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9111602/pfizer-keeps-its-dividend-steady-with-a-yield-above-6",
       "cross_verified": true,
       "published_at": "2026-10-06T18:27:36.000000Z"
-    },
-    {
-      "title": "Emera (EMA) and Canadian Utilities Announce $14.3B Merger Creating North America Energy Giant",
-      "title_ko": "에메라(EMA)와 캐나다 유틸리티즈, 143억 달러 규모의 합병을 발표하며 북미 에너지 거대 기업 탄생",
-      "snippet": "On October 06, 2026, Canadian utility companies Emera Inc (NYSE: EMA) and Canadian Utilities (CDUAF) announced a landmark all-stock merger valued at C$14.3 bill",
-      "snippet_ko": "2026년 10월 6일, 캐나다의 전력 회사인 에메라(Emera Inc, NYSE: EMA)와 캐나다 유틸리티(Canadian Utilities, CDUAF)는 143억 캐나다 달러 규모의 획기적인 전액 주식 합병을 발표했다.",
-      "symbol": "",
-      "sentiment_score": 0.584,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9111144/emera-ema-and-canadian-utilities-announce-143b-merger-creating-north-america-energy-giant",
-      "cross_verified": true,
-      "published_at": "2026-10-06T12:58:40.000000Z"
-    },
-    {
-      "title": "ICE DCF Analysis: Intrinsic Value $88 vs Price $152",
-      "title_ko": "ICE DCF 분석: 내재가치 88달러 대 주가 152달러",
-      "snippet": "On October 06, 2026, we delve into the DCF analysis for Intercontinental Exchange Inc (ICE), a company that has seen a decline in its stock price over the past",
-      "snippet_ko": "2026년 10월 6일, 우리는 지난 기간 동안 주가가 하락세를 보인 인터컨티넨탈 익스체인지(Intercontinental Exchange Inc, ICE)에 대한 DCF 분석을 심층적으로 살펴보겠습니다.",
-      "symbol": "",
-      "sentiment_score": -0.2732,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9111120/ice-dcf-analysis-intrinsic-value-88-vs-price-152",
-      "cross_verified": true,
-      "published_at": "2026-10-06T12:26:46.000000Z"
-    },
-    {
-      "title": "RPM International Inc (RPM) Forecasts Modest Sales and EBITDA Growth for Q2 Fiscal 2027",
-      "title_ko": "RPM 인터내셔널(RPM)은 2027 회계연도 2분기 매출 및 EBITDA가 소폭 증가할 것으로 전망했다.",
-      "snippet": "On October 06, 2026, RPM International Inc (NYSE: RPM) provided a positive outlook for its second quarter of fiscal 2027, projecting consolidated sales growth i",
-      "snippet_ko": "2026년 10월 6일, RPM International Inc(NYSE: RPM)는 2027 회계연도 2분기에 대한 긍정적인 전망을 제시하며, 연결 매출이 증가할 것으로 예상했다.",
-      "symbol": "",
-      "sentiment_score": 0.5886,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9111117/rpm-international-inc-rpm-forecasts-modest-sales-and-ebitda-growth-for-q2-fiscal-2027",
-      "cross_verified": true,
-      "published_at": "2026-10-06T12:25:47.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "US markets are weighed down by an extended sell-off in the tech sector",
+      "title_ko": "기술주 부문의 매도세가 장기화되면서 미국 증시가 압박을 받고 있다",
+      "snippet": "A broad sell-off in technology companies pulled stocks lower on Wall Street Friday, capping off the market’s worst week since late June.",
+      "snippet_ko": "금요일, 기술주들의 광범위한 매도세가 월가 주가를 끌어내리며, 6월 말 이후 최악의 한 주를 마감했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3861,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/17/business/foreign-business/us-markets-are-weighed-down-by-an-extended-sell-off-in-the-tech-sector/2447853",
+      "cross_verified": true,
+      "published_at": "2026-10-17T04:48:56.000000Z"
+    },
+    {
+      "title": "Apple says iPhone Duo demand extraordinary after delivery delays",
+      "title_ko": "애플, 배송 지연 이후 아이폰 듀오에 대한 수요가 폭발적이라고 밝혔다",
+      "snippet": "Apple’s iPhone Duo pre-orders soar with extraordinary demand, but shipping estimates slip to January amid supply delays.",
+      "snippet_ko": "애플의 ‘아이폰 듀오’ 사전 예약이 폭발적인 수요로 급증했으나, 공급 차질로 인해 배송 예정일이 1월로 미뤄졌다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.246,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/info-tech/apple-says-iphone-duo-demand-extraordinary-after-delivery-delays/article71595296.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-17T04:04:17.000000Z"
+    },
+    {
+      "title": "Apple appoints Meta veteran Scott Tucker to lead global litigation",
+      "title_ko": "애플, 메타 출신 스콧 터커를 글로벌 소송 담당 책임자로 임명",
+      "snippet": "Tucker will oversee commercial and patent litigation worldwide and legal matters involving Apple's financial services as the company faces mounting lawsuits under General Counsel Jennifer Newstead",
+      "snippet_ko": "터커는 제니퍼 뉴스테드 법무총괄의 지휘 아래, 애플이 점점 더 많은 소송에 직면함에 따라 전 세계의 상업 및 특허 소송과 애플의 금융 서비스와 관련된 법적 문제를 총괄하게 될 것이다.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.0305,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/technology/tech-news/apple-appoints-meta-veteran-scott-tucker-to-lead-global-litigation-126101700133_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-17T03:48:47.000000Z"
+    },
     {
       "title": "Amazon's AWS CFO Affirms Sustainable AI Investment Amid Market Concerns",
       "title_ko": "시장 우려 속 아마존 AWS 최고재무책임자(CFO), 지속 가능한 AI 투자 의지 재확인",
@@ -2367,42 +2403,6 @@
       "url": "https://www.business-standard.com/technology/tech-news/apple-set-to-launch-touch-screen-macbook-new-ipad-mini-in-late-october-126100900143_1.html",
       "cross_verified": true,
       "published_at": "2026-10-09T02:58:47.000000Z"
-    },
-    {
-      "title": "Netflix, streaming rivals dominate $6 billion Asia sports arena",
-      "title_ko": "넷플릭스와 스트리밍 경쟁사들이 60억 달러 규모의 아시아 스포츠 시장을 장악하고 있다",
-      "snippet": "Streaming rivals like Netflix, Tencent, and JioHotstar are reshaping Asia’s $6 billion sports rights market, increasing online dominance and costs.",
-      "snippet_ko": "넷플릭스, 텐센트, 지오핫스타와 같은 스트리밍 경쟁사들이 아시아의 60억 달러 규모 스포츠 중계권 시장을 재편하며, 온라인 시장의 지배력과 비용을 높이고 있다.",
-      "symbol": "NFLX",
-      "sentiment_score": 0.2368,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/info-tech/netflix-streaming-rivals-dominate-6-billion-asia-sports-arena/article71562628.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-09T05:03:28.000000Z"
-    },
-    {
-      "title": "Alphabet: Building The Thing That Could Replace It (NASDAQ:GOOGL)",
-      "title_ko": "알파벳: 자사를 대체할 수 있는 무언가를 구축 중 (나스닥:GOOGL)",
-      "snippet": "Alphabet faces a pivotal tension: Gemini AI could disrupt its core search ad business, yet also drive future growth. Click to read more on this.",
-      "snippet_ko": "알파벳은 중대한 딜레마에 직면해 있습니다. 제미니 AI는 회사의 핵심 사업인 검색 광고 사업을 뒤흔들 수도 있지만, 동시에 미래 성장을 견인할 수도 있기 때문입니다. 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3125,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4952915-alphabet-building-the-thing-that-could-replace-it",
-      "cross_verified": true,
-      "published_at": "2026-10-08T21:46:07.000000Z"
-    },
-    {
-      "title": "Tech Selloff Intensifies on OpenAI Revenue Outlook While Markets Weigh Geopolitical Shifts",
-      "title_ko": "시장이 지정학적 변화를 주시하는 가운데, 오픈AI의 매출 전망을 둘러싸고 기술주 매도세가 심화되고 있다",
-      "snippet": "The artificial intelligence investment boom faced a reality check on Thursday as reports surfaced that OpenAI is generating roughly $50 billion in annualized",
-      "snippet_ko": "목요일, 오픈AI가 연간 약 500억 달러의 수익을 창출하고 있다는 보도가 나오면서 인공지능 투자 열풍에 냉정한 현실이 드러났다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4201,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-selloff-intensifies-on-openai-revenue-outlook-while-markets-weigh-geopolitical-shifts/72766/",
-      "cross_verified": true,
-      "published_at": "2026-10-08T20:38:12.000000Z"
     }
   ]
 }
