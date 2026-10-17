@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-17T20:24:17.548264+00:00",
+  "updated_at": "2026-10-17T23:54:29.069366+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Elon Musk Acknowledges Distraction from AI Focus",
+      "title_ko": "일론 머스크, AI에 대한 집중력이 흐트러졌음을 인정",
+      "snippet": "On October 17, 2026, Elon Musk acknowledged that he has strayed from his core responsibilities, spending excessive time on political matters related to his comp",
+      "snippet_ko": "2026년 10월 17일, 일론 머스크는 자신의 핵심 업무에서 벗어나, 자신이 이끄는 기업과 관련된 정치적 문제에 지나치게 많은 시간을 할애해 왔음을 인정했다.",
+      "symbol": "",
+      "sentiment_score": 0.103,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9128999/elon-musk-acknowledges-distraction-from-ai-focus",
+      "cross_verified": true,
+      "published_at": "2026-10-17T21:50:39.000000Z"
+    },
+    {
+      "title": "Trump Rally in Kentucky Boosts GOP Amid Midterm Elections",
+      "title_ko": "켄터키주에서 열린 트럼프 유세, 중간선거를 앞두고 공화당에 탄력을 불어넣다",
+      "snippet": "On October 17, 2026, former President Donald Trump energized Republican supporters during a rally in Kentucky as they approach the midterm elections. In this co",
+      "snippet_ko": "2026년 10월 17일, 도널드 트럼프 전 대통령은 켄터키주에서 열린 집회에서 중간선거를 앞두고 공화당 지지자들에게 열기를 불어넣었다. 이 행사에서",
+      "symbol": "",
+      "sentiment_score": 0.1885,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9128998/trump-rally-in-kentucky-boosts-gop-amid-midterm-elections",
+      "cross_verified": true,
+      "published_at": "2026-10-17T21:10:32.000000Z"
+    },
     {
       "title": "Real Estate Stocks Rally as Rate Hike Odds Drop; SPY Valuation and Guru Activity in Focus",
       "title_ko": "금리 인상 가능성 낮아지며 부동산주 강세… SPY의 밸류에이션과 전문가들의 동향 주목",
@@ -1177,33 +1201,33 @@
       "url": "https://seekingalpha.com/article/4952564-hess-midstream-lp-hesm-discusses-definitive-agreement-for-dj-basin-asset-acquisition-and",
       "cross_verified": true,
       "published_at": "2026-10-07T18:42:27.000000Z"
-    },
-    {
-      "title": "Meet 10 finance leaders on Fortune’s Most Powerful Women Asia list",
-      "title_ko": "‘포춘’이 선정한 ‘아시아에서 가장 영향력 있는 여성’ 명단에 오른 10명의 금융계 리더를 만나보세요",
-      "snippet": "Finance chiefs at Huawei, ByteDance, and Sony are among the executives recognized in the 2026 ranking.",
-      "snippet_ko": "화웨이, 바이트댄스, 소니의 재무 책임자들이 2026년 순위에서 선정된 임원진에 이름을 올렸다.",
-      "symbol": "",
-      "sentiment_score": 0.3182,
-      "source": "fortune.com",
-      "url": "https://fortune.com/2026/10/07/meet-10-finance-leaders-fortunes-most-powerful-women-asia-list-cfo/",
-      "cross_verified": true,
-      "published_at": "2026-10-07T12:15:51.000000Z"
-    },
-    {
-      "title": "DLocal Stock: Margin Compression Is A Feature Of Scale, Not A Defect (NASDAQ:DLO)",
-      "title_ko": "DLocal Stock: 마진 압박은 결함이 아닌 규모의 특징이다 (NASDAQ:DLO)",
-      "snippet": "DLocal enables merchants to access local payment methods in 60+ markets via API, driving rapid TPV growth and high client retention. Read why DLO stock is a buy.",
-      "snippet_ko": "DLocal은 가맹점이 API를 통해 60개 이상의 시장에서 현지 결제 수단을 이용할 수 있도록 지원함으로써, 총 결제 금액(TPV)의 급속한 성장과 높은 고객 유지율을 이끌어내고 있습니다. DLO 주식을 매수해야 하는 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.2434,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4952467-dlocal-margin-compression-is-a-feature-of-scale-not-a-defect",
-      "cross_verified": true,
-      "published_at": "2026-10-07T11:32:29.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Jim Cramer On Micron (MU) & Intel (INTC): Nothing Is Working Despite Good Businesses & Strong Quarters",
+      "title_ko": "짐 크레이머, 마이크론(MU)과 인텔(INTC)에 대해: 탄탄한 사업 기반과 호실적을 기록했음에도 불구하고 아무것도 제대로 풀리지 않고 있다",
+      "snippet": "Semiconductor giants Intel Corporation (NASDAQ:INTC) and Micron Technology, Inc. (NASDAQ:MU)'s shares have ended the week as part of yet another historic bloodbath for the semiconductor sector.",
+      "snippet_ko": "반도체 업계의 거물인 인텔(Intel Corporation, 나스닥: INTC)과 마이크론 테크놀로지(Micron Technology, Inc., 나스닥: MU)의 주가는 반도체 업계를 강타한 또 한 번의 역사적인 폭락 속에서 이번 주를 마감했다.",
+      "symbol": "INTC",
+      "sentiment_score": -0.4108,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/jim-cramer-on-micron-mu-intel-intc-nothing-is-working-despite-good-businesses-strong-quarters-1855757/",
+      "cross_verified": true,
+      "published_at": "2026-10-17T18:53:24.000000Z"
+    },
+    {
+      "title": "Tesla Unveils Second-Generation Roadster, TSLA Showcases Innovative Technology",
+      "title_ko": "테슬라, 2세대 로드스터 공개… TSLA, 혁신적인 기술 선보여",
+      "snippet": "On October 17, 2026, Tesla Inc (TSLA) officially unveiled its second-generation electric supercar, the Roadster, after nearly nine years of anticipation. The la",
+      "snippet_ko": "2026년 10월 17일, 테슬라(TSLA)는 거의 9년 동안의 기대 끝에 2세대 전기 슈퍼카인 ‘로드스터’를 공식적으로 공개했다. 이 차는",
+      "symbol": "TSLA",
+      "sentiment_score": 0.5753,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9129001/tesla-unveils-secondgeneration-roadster-tsla-showcases-innovative-technology",
+      "cross_verified": true,
+      "published_at": "2026-10-17T22:10:32.000000Z"
+    },
     {
       "title": "Elon Musk Reflects on AI Focus After White House Exit, Impacting Tesla (TSLA)",
       "title_ko": "일론 머스크, 백악관 방문 후 AI에 집중한 소회 밝히며 테슬라(TSLA)에 미치는 영향",
@@ -2379,30 +2403,6 @@
       "url": "https://www.livemint.com/companies/news/netflix-layoffs-on-cards-streaming-giant-plans-to-cut-5-of-workforce-as-early-as-next-week-says-report-11791568522049.html",
       "cross_verified": true,
       "published_at": "2026-10-09T18:33:55.000000Z"
-    },
-    {
-      "title": "Broadcom Stock: The Market Is Likely Looking At OpenAI/Anthropic All Wrong (NASDAQ:AVGO)",
-      "title_ko": "브로드컴 주가: 시장은 오픈AI와 앤트로픽을 완전히 잘못 보고 있을 가능성이 높다 (나스닥: AVGO)",
-      "snippet": "Broadcom (AVGO) remains a buy despite weakness—AI custom silicon deals with OpenAI/Anthropic, and low PEG suggests upside. See more details here.",
-      "snippet_ko": "브로드컴(AVGO)은 주가가 약세를 보이고 있음에도 여전히 매수 추천 종목이다. OpenAI 및 Anthropic과의 AI 맞춤형 반도체 계약과 낮은 PEG 지수가 상승 여력을 시사하기 때문이다. 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "AVGO",
-      "sentiment_score": -0.3515,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953048-broadcom-market-likely-looking-at-openai-anthropic-all-wrong",
-      "cross_verified": true,
-      "published_at": "2026-10-09T12:12:59.000000Z"
-    },
-    {
-      "title": "America Continues To Spend Far More Than It Has",
-      "title_ko": "미국은 여전히 수입보다 훨씬 더 많은 지출을 이어가고 있다",
-      "snippet": "U.S. deficit nears $2T as bond yields climb—PIMCO warns 10-year Treasury could hit 6%.",
-      "snippet_ko": "채권 수익률이 상승하면서 미국 재정적자가 2조 달러에 육박—PIMCO, 10년물 국채 수익률이 6%까지 오를 수 있다고 경고.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.4331,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953013-america-continues-to-spend-far-more-than-it-has",
-      "cross_verified": true,
-      "published_at": "2026-10-09T11:30:24.000000Z"
     }
   ]
 }
