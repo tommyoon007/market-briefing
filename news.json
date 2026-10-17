@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-16T20:49:09.192181+00:00",
+  "updated_at": "2026-10-17T00:15:00.207075+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "MaxLinear Inc (MXL) Shares Fall 8.8% -- What GF Score of 59 Tells Investors",
+      "title_ko": "맥스리니어(MXL) 주가 8.8% 하락… GF 점수 59점이 투자자들에게 시사하는 바는?",
+      "snippet": "On October 16, 2026, MaxLinear Inc (MXL) shares fell 8.8%, bringing the current price to $71.32. This decline comes as the stock has experienced significant vol",
+      "snippet_ko": "2026년 10월 16일, 맥스리니어(MaxLinear Inc, MXL) 주가는 8.8% 하락하여 현재 주가는 71.32달러를 기록했습니다. 이번 하락은 해당 주식이 상당한 변동성을 보인 가운데 발생한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.3884,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9128519/maxlinear-inc-mxl-shares-fall-88-what-gf-score-of-59-tells-investors",
+      "cross_verified": true,
+      "published_at": "2026-10-17T00:14:29.000000Z"
+    },
+    {
+      "title": "A Look at Global E Online Ltd (GLBE) After 3.5% Decline -- GF Value $60.45 vs Price $38.82",
+      "title_ko": "3.5% 하락한 글로벌 E 온라인(GLBE) 현황 살펴보기 — GF 가치 $60.45 vs 시가 $38.82",
+      "snippet": "On October 16, 2026, Global E Online Ltd (GLBE) shares fell 3.5%, bringing the current price to $38.82. This decline is part of a broader trend, with the stock",
+      "snippet_ko": "2026년 10월 16일, Global E Online Ltd(GLBE)의 주가는 3.5% 하락하여 현재 주가는 38.82달러를 기록했습니다. 이러한 하락은 더 광범위한 추세의 일부로, 해당 주식은",
+      "symbol": "",
+      "sentiment_score": 0.5197,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9128518/a-look-at-global-e-online-ltd-glbe-after-35-decline-gf-value-6045-vs-price-3882",
+      "cross_verified": true,
+      "published_at": "2026-10-17T00:13:23.000000Z"
+    },
+    {
+      "title": "StoneX Group Inc (SNEX) Shares Fall 4.6% -- What GF Score of 86 Tells Investors",
+      "title_ko": "StoneX Group Inc (SNEX) 주가 4.6% 하락 -- GF 점수 86점이 투자자들에게 시사하는 바",
+      "snippet": "On October 16, 2026, StoneX Group Inc (SNEX) shares fell 4.6% to a current price of $57.16. This decline is notable within the context of a 52-week range of $36",
+      "snippet_ko": "2026년 10월 16일, StoneX Group Inc(SNEX)의 주가는 4.6% 하락하여 현재 57.16달러를 기록했습니다. 이 하락폭은 52주 최고가와 최저가가 36달러인 점을 고려할 때 주목할 만합니다.",
+      "symbol": "",
+      "sentiment_score": 0.5011,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9128511/stonex-group-inc-snex-shares-fall-46-what-gf-score-of-86-tells-investors",
+      "cross_verified": true,
+      "published_at": "2026-10-17T00:08:02.000000Z"
+    },
     {
       "title": "Compass (COMP) Files Antitrust Lawsuit Against California Regional MLS",
       "title_ko": "컴패스(COMP), 캘리포니아 지역 MLS를 상대로 반독점 소송 제기",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9111117/rpm-international-inc-rpm-forecasts-modest-sales-and-ebitda-growth-for-q2-fiscal-2027",
       "cross_verified": true,
       "published_at": "2026-10-06T12:25:47.000000Z"
-    },
-    {
-      "title": "Kuaishou Technology's Keling AI Plans $1 Billion IPO",
-      "title_ko": "쿠아이쇼 테크놀로지의 ‘켈링 AI’, 10억 달러 규모 기업공개(IPO) 계획",
-      "snippet": "On October 05, 2026, Kuaishou Technology's subsidiary, Keling AI, announced plans for an initial public offering (IPO) in Hong Kong, with a target to raise at l",
-      "snippet_ko": "2026년 10월 5일, 콰이쇼우 테크놀로지의 자회사인 켈링 AI는 홍콩에서 기업공개(IPO)를 진행할 계획을 발표했으며, 최소",
-      "symbol": "",
-      "sentiment_score": 0.0688,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9110571/kuaishou-technologys-keling-ai-plans-1-billion-ipo",
-      "cross_verified": true,
-      "published_at": "2026-10-06T05:11:41.000000Z"
-    },
-    {
-      "title": "Intuitive Surgical: The Multiple Fell, The Story Didn't (NASDAQ:ISRG)",
-      "title_ko": "인튜이티브 서지컬: 주가는 여러 차례 하락했지만, 이야기는 계속되었다 (NASDAQ:ISRG)",
-      "snippet": "Intuitive Surgical remains a wide-moat leader in robotic surgery with strong secular tailwinds and high recurring revenue potential. Read why ISRG stock is a Buy.",
-      "snippet_ko": "인튜이티브 서지컬(Intuitive Surgical)은 로봇 수술 분야에서 여전히 견고한 경쟁 우위를 점하고 있는 선도 기업으로, 강력한 장기적 성장 동력과 높은 반복 매출 잠재력을 갖추고 있습니다. ISRG 주식을 ‘매수’로 추천하는 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.2633,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4952110-intuitive-surgical-the-multiple-fell-the-story-didnt-maintain-buy",
-      "cross_verified": true,
-      "published_at": "2026-10-06T05:01:14.000000Z"
-    },
-    {
-      "title": "PayPal Holdings Inc (PYPL) Stock Up 3.0% and Still Undervalued -- GF Score: 91/100",
-      "title_ko": "페이팔 홀딩스(PYPL) 주가 3.0% 상승, 여전히 저평가 상태 -- GF 점수: 91/100",
-      "snippet": "On October 05, 2026, PayPal Holdings Inc (PYPL) shares rose by 3.0% to a current price of $54.41, amidst a 52-week trading range of $38.46 to $79.22. This recen",
-      "snippet_ko": "2026년 10월 5일, 페이팔 홀딩스(PayPal Holdings Inc, PYPL) 주가는 3.0% 상승하여 현재 주가는 54.41달러를 기록했으며, 지난 52주 동안의 거래 범위는 38.46달러에서 79.22달러 사이였습니다. 최근 이...",
-      "symbol": "",
-      "sentiment_score": 0.4874,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9110214/paypal-holdings-inc-pypl-stock-up-30-and-still-undervalued-gf-score-91100",
-      "cross_verified": true,
-      "published_at": "2026-10-05T22:27:19.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Amazon's AWS CFO Affirms Sustainable AI Investment Amid Market Concerns",
+      "title_ko": "시장 우려 속 아마존 AWS 최고재무책임자(CFO), 지속 가능한 AI 투자 의지 재확인",
+      "snippet": "On October 16, 2026, Amazon Web Services (AWS) CFO John Felton expressed confidence in the sustainability of spending on AI infrastructure and services, highlig",
+      "snippet_ko": "2026년 10월 16일, 아마존 웹 서비스(AWS)의 최고재무책임자(CFO) 존 펠턴은 AI 인프라 및 서비스에 대한 지출의 지속 가능성에 대한 확신을 표명하며, 특히",
+      "symbol": "AMZN",
+      "sentiment_score": 0.2107,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9128384/amazons-aws-cfo-affirms-sustainable-ai-investment-amid-market-concerns",
+      "cross_verified": true,
+      "published_at": "2026-10-16T22:51:03.000000Z"
+    },
+    {
+      "title": "Broadcom Inc (AVGO) Stock Down 4.5% -- Now Undervalued? GF Score: 98/100",
+      "title_ko": "브로드컴(AVGO) 주가 4.5% 하락… 이제 저평가된 상태인가? GF 점수: 98/100",
+      "snippet": "On October 16, 2026, Broadcom Inc (AVGO) shares fell 4.5% to $328.75, continuing a trend that has seen the stock drop 9.1% over the past week and 6.5% over the",
+      "snippet_ko": "2026년 10월 16일, 브로드컴(Broadcom Inc, AVGO) 주가는 4.5% 하락한 328.75달러를 기록하며, 지난 일주일 동안 9.1%, 지난",
+      "symbol": "AVGO",
+      "sentiment_score": 0.5299,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9128323/broadcom-inc-avgo-stock-down-45-now-undervalued-gf-score-98100",
+      "cross_verified": true,
+      "published_at": "2026-10-16T22:01:39.000000Z"
+    },
+    {
+      "title": "Meta Platforms Inc (META) Shares Fall 3.7% -- What GF Score of 99 Tells Investors",
+      "title_ko": "메타 플랫폼스(META) 주가 3.7% 하락… ‘99’라는 GF 점수가 투자자들에게 시사하는 바는?",
+      "snippet": "On October 16, 2026, Meta Platforms Inc (META) shares fell 3.7% to a current price of $709.33. The stock is trading within a 52-week range of $520.26 to $779.82",
+      "snippet_ko": "2026년 10월 16일, 메타 플랫폼스(META) 주가는 3.7% 하락하여 현재 주가는 709.33달러를 기록했습니다. 이 주식은 52주 동안 520.26달러에서 779.82달러 사이의 범위 내에서 거래되고 있습니다.",
+      "symbol": "META",
+      "sentiment_score": 0.4831,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9128316/meta-platforms-inc-meta-shares-fall-37-what-gf-score-of-99-tells-investors",
+      "cross_verified": true,
+      "published_at": "2026-10-16T22:00:38.000000Z"
+    },
     {
       "title": "Apple (AAPL) iPhone Duo Pre-Orders Signal Strong Demand with Extended Delivery Times",
       "title_ko": "애플(AAPL)의 아이폰 듀오 사전 예약, 배송 기간 연장으로 강한 수요를 시사",
@@ -2367,42 +2403,6 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-selloff-intensifies-on-openai-revenue-outlook-while-markets-weigh-geopolitical-shifts/72766/",
       "cross_verified": true,
       "published_at": "2026-10-08T20:38:12.000000Z"
-    },
-    {
-      "title": "Applied Materials and UCLA Engineering Accelerate Semiconductor Innovation at the EPIC Center",
-      "title_ko": "애플라이드 머티리얼즈와 UCLA 공과대학, EPIC 센터에서 반도체 혁신 가속화",
-      "snippet": "R&D programs to focus on speeding up the commercialization pipeline so chip technology moves from breakthrough research to full-scale manufacturing fasterCollaborative work at the state-of-the-art facility in Silicon Valley pairs UCLA’s semiconductor research strength with Applied’s cutting-edge chipmaking equipment and process integration expertise SANTA CLARA, Calif., Oct. 08, 2026 (GLOBE NEWSWIRE) -- Applied Materials, Inc. today announced that the UCLA Samueli School of Engineering will join the company’s EPIC Center in Silicon Valley as a research partner. Together with Applied’s scientists and engineers, UCLA researchers will work to solve semiconductor materials and integration challenges with a focus on shortening the time it takes to bring breakthrough research to commercialization.",
-      "snippet_ko": "칩 기술이 획기적인 연구 단계에서 본격적인 양산 단계로 더 빠르게 전환될 수 있도록 상용화 과정을 가속화하는 데 중점을 둔 R&D 프로그램. 실리콘밸리의 최첨단 시설에서 진행되는 이번 협력 프로젝트를 통해 UCLA의 반도체 연구 역량과 애플라이드 머티리얼즈의 최첨단 칩 제조 장비 및 공정 통합 전문 지식이 결합된다. 캘리포니아주 산타클라라, 2026년 10월 8일 (GLOBE NEWSWIRE) -- 애플라이드 머티리얼즈(Applied Materials, Inc.)는 오늘 UCLA 사뮤엘리 공과대학이 합류할 것이라고 발표했습니다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.3658,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/09/tmt-newswire/globenewswire/applied-materials-and-ucla-engineering-accelerate-semiconductor-innovation-at-the-epic-center/2442221",
-      "cross_verified": true,
-      "published_at": "2026-10-08T20:20:45.000000Z"
-    },
-    {
-      "title": "Broadcom Redefines AI Infrastructure with Industry-Leading Networking Innovations at 2026 OCP Global Summit",
-      "title_ko": "브로드컴, 2026 OCP 글로벌 서밋에서 업계 선도적인 네트워킹 혁신을 통해 AI 인프라의 새로운 기준을 제시하다",
-      "snippet": "Company to Highlight OCP Rack-Based Innovations Enabling Scale-Up, Scale-Out, and Scale-Across Networks Across AI Clusters",
-      "snippet_ko": "이 회사는 AI 클러스터 전반에 걸쳐 네트워크의 스케일업, 스케일아웃, 스케일어크로스 기능을 가능하게 하는 OCP 랙 기반 혁신 기술을 선보일 예정이다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.0528,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/09/tmt-newswire/globenewswire/broadcom-redefines-ai-infrastructure-with-industry-leading-networking-innovations-at-2026-ocp-global-summit/2442083",
-      "cross_verified": true,
-      "published_at": "2026-10-08T16:15:19.000000Z"
-    },
-    {
-      "title": "Energy Surges and Tech Falters: Midday Market Update for October 8, 2026",
-      "title_ko": "에너지주 급등, 기술주 부진: 2026년 10월 8일 정오 시장 동향",
-      "snippet": "The U.S. stock market is exhibiting a clear defensive posture during midday trading on Thursday, October 8, 2026. While the broader market faces downward",
-      "snippet_ko": "2026년 10월 8일 목요일 정오 거래 시간대에 미국 주식 시장은 뚜렷한 방어적 태세를 보이고 있다. 전반적인 시장이 하락세를 보이는 가운데",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3344,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/energy-surges-and-tech-falters-midday-market-update-for-october-8-2026/72754/",
-      "cross_verified": true,
-      "published_at": "2026-10-08T16:07:15.000000Z"
     }
   ]
 }
