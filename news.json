@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-17T06:47:45.769226+00:00",
+  "updated_at": "2026-10-17T12:04:27.698883+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Sony: The Hardware Cycle Is Hiding A Better Earnings Mix (NYSE:SONY)",
+      "title_ko": "소니: 하드웨어 주기가 더 나은 수익 구조를 가리고 있다 (NYSE:SONY)",
+      "snippet": "Sony Group offers upside through diversified assets, recurring revenue streams, and capital-light strategies, trading at 17.8x forward earnings. Click for more.",
+      "snippet_ko": "소니 그룹은 다각화된 자산, 지속적인 수익원, 자본 효율이 높은 전략을 통해 상승 여력을 제공하며, 현재 예상 주당순이익(EPS)의 17.8배 수준에서 거래되고 있습니다. 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.1779,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4954965-sony-the-hardware-cycle-is-hiding-a-better-earnings-mix",
+      "cross_verified": true,
+      "published_at": "2026-10-17T10:42:16.000000Z"
+    },
+    {
+      "title": "What Moved Markets This Week",
+      "title_ko": "이번 주 시장을 움직인 요인",
+      "snippet": "U.S. stocks ended the week mixed amid volatility in tech stocks, bank earnings, and hotter-than-feared CPI data. Read more about this week's major events on Wall Street.",
+      "snippet_ko": "기술주 변동성, 은행 실적, 그리고 예상보다 높은 소비자물가지수(CPI) 수치 속에서 미국 증시는 혼조세를 보이며 한 주를 마감했습니다. 이번 주 월스트리트의 주요 소식에 대해 자세히 알아보세요.",
+      "symbol": "",
+      "sentiment_score": -0.1506,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4954971-what-moved-markets-this-week",
+      "cross_verified": true,
+      "published_at": "2026-10-17T10:35:57.000000Z"
+    },
     {
       "title": "Cohen & Steers, Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:CNS) 2026-10-17",
       "title_ko": "Cohen & Steers, Inc. 2026년 3분기 실적 - 실적 발표 전화 회의 프레젠테이션 (NYSE:CNS) 2026-10-17",
@@ -1177,33 +1201,21 @@
       "url": "https://seekingalpha.com/article/4952315-chatham-lodging-trust-credit-profile-and-rating-8-71-percent-cy-on-preferred-shares",
       "cross_verified": true,
       "published_at": "2026-10-06T18:38:29.000000Z"
-    },
-    {
-      "title": "GCash users get real-time allocation as Mynt IPO starts",
-      "title_ko": "Mynt의 기업공개(IPO)가 시작되면서 GCash 사용자들은 실시간으로 배정분을 받게 된다",
-      "snippet": "MYNT Inc., the parent company of GCash, opened its initial public offering (IPO) on Tuesday, allowing retail investors to subscribe through the app for as little as P660, or 100 shares, at the final offer price of P6.60 per share.",
-      "snippet_ko": "GCash의 모회사인 MYNT Inc.는 화요일 기업공개(IPO)를 시작했으며, 개인 투자자들은 앱을 통해 주당 6.60 페소의 최종 공모가로 최소 660 페소(100주)부터 청약할 수 있게 되었다.",
-      "symbol": "",
-      "sentiment_score": 0.9393,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/07/business/top-business/gcash-users-get-real-time-allocation-as-mynt-ipo-starts/2440361",
-      "cross_verified": true,
-      "published_at": "2026-10-06T18:30:26.000000Z"
-    },
-    {
-      "title": "Pfizer Keeps Its Dividend Steady With a Yield Above 6%",
-      "title_ko": "화이자, 배당금 수준을 유지하며 배당수익률 6% 이상 기록",
-      "snippet": "Pfizer Inc. (PFE, Financials) is retaining its quarterly dividend at 43 cents a share, sustaining one of the stock's key attractions for income investors.Its bo",
-      "snippet_ko": "화이자(Pfizer Inc., PFE, 금융)는 분기 배당금을 주당 43센트로 유지함으로써, 소득형 투자자들에게 이 종목의 주요 매력 중 하나를 계속해서 제공하고 있다. 이 회사의 배당금은...",
-      "symbol": "",
-      "sentiment_score": 0.421,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9111602/pfizer-keeps-its-dividend-steady-with-a-yield-above-6",
-      "cross_verified": true,
-      "published_at": "2026-10-06T18:27:36.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Indian IT stocks record best week in 18 years amid global AI sell-off",
+      "title_ko": "전 세계적인 AI 관련 주식 매도세 속 인도 IT주, 18년 만에 최고 주간 실적을 기록",
+      "snippet": "Indian IT stocks have experienced their most significant weekly surge in 18 years, with the Nifty IT index climbing 11.72 per cent, as a global sell-off in AI-linked equities redirected investor attention towards India's IT services sector. This shift aligns with a JP Morgan report identifying India as a 'natural AI hedge' due to its large, liquid market and strong domestic institutional investor base.",
+      "snippet_ko": "전 세계적으로 AI 관련 주식이 매도세를 보이면서 투자자들의 관심이 인도의 IT 서비스 부문으로 쏠리자, 인도 IT 주가는 18년 만에 가장 큰 주간 상승폭을 기록했으며, 니프티 IT 지수는 11.72% 상승했다. 이러한 변화는 JP모건이 보고서를 통해 인도를 대규모의 유동성 높은 시장과 탄탄한 국내 기관 투자자 기반을 갖춘 ‘자연스러운 AI 헤지 수단’으로 지목한 내용과 일치한다.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.0746,
+      "source": "rediff.com",
+      "url": "https://www.rediff.com/business/report/indian-it-stocks-surge-best-week-in-18-years-as-global-ai-sell-off-drives-investment/20261017.htm",
+      "cross_verified": true,
+      "published_at": "2026-10-17T11:04:56.000000Z"
+    },
     {
       "title": "US markets are weighed down by an extended sell-off in the tech sector",
       "title_ko": "기술주 부문의 매도세가 장기화되면서 미국 증시가 압박을 받고 있다",
@@ -2391,18 +2403,6 @@
       "url": "https://www.thehindubusinessline.com/markets/stock-markets-rebound-after-thursdays-rout-analysts-warn-of-sell-on-rally-risk/article71562553.ece",
       "cross_verified": true,
       "published_at": "2026-10-09T04:21:56.000000Z"
-    },
-    {
-      "title": "Apple set to launch touch-screen MacBook, new iPad mini in late October",
-      "title_ko": "애플, 10월 말 터치스크린 맥북과 신형 아이패드 미니 출시 예정",
-      "snippet": "The end-of-month announcements will also include versions of the 14-inch MacBook Pro and iMac with M6 chips",
-      "snippet_ko": "이달 말 발표 내용에는 M6 칩이 탑재된 14인치 맥북 프로와 아이맥 모델도 포함될 예정이다",
-      "symbol": "AAPL",
-      "sentiment_score": 0.5599,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/technology/tech-news/apple-set-to-launch-touch-screen-macbook-new-ipad-mini-in-late-october-126100900143_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-09T02:58:47.000000Z"
     }
   ]
 }
