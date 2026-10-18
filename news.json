@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-18T18:32:30.991780+00:00",
+  "updated_at": "2026-10-18T22:20:05.697775+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "United Airlines CEO Defends Fare Hikes Amid Rising Costs; UAL Stock Fairly Valued at $96.10",
+      "title_ko": "유나이티드 항공 CEO, 비용 상승 속 운임 인상 옹호… UAL 주가, 96.10달러가 적정 가치",
+      "snippet": "On October 18, 2026, United Airlines Holdings Inc (ticker: UAL) CEO Scott Kirby addressed the company's recent fare increases and additional fees for preferred",
+      "snippet_ko": "2026년 10월 18일, 유나이티드 항공 홀딩스(United Airlines Holdings Inc, 티커: UAL)의 스콧 커비(Scott Kirby) 최고경영자(CEO)는 최근 시행된 운임 인상 및 프리미엄 서비스에 대한 추가 수수료에 대해 언급했다.",
+      "symbol": "",
+      "sentiment_score": -0.2009,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9129073/united-airlines-ceo-defends-fare-hikes-amid-rising-costs-ual-stock-fairly-valued-at-9610",
+      "cross_verified": true,
+      "published_at": "2026-10-18T21:55:40.000000Z"
+    },
+    {
+      "title": "Carrefour (CRRFY) Faces Operational Disruptions Amid Protests, Dividend Sustainability in Focus",
+      "title_ko": "카르푸(CRRFY), 시위로 인한 운영 차질에 직면… 배당금 지속 가능성에 주목",
+      "snippet": "On October 18, 2026, French retail giant Carrefour (CRRFY) reported significant damage to its operations following widespread protests across France targeting r",
+      "snippet_ko": "2026년 10월 18일, 프랑스의 대형 유통업체 까르푸(CRRFY)는 프랑스 전역에서 벌어진 시위로 인해 사업에 상당한 타격을 입었다고 밝혔다. 이 시위는 r을 겨냥한 것이었다.",
+      "symbol": "",
+      "sentiment_score": 0.1977,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9129072/carrefour-crrfy-faces-operational-disruptions-amid-protests-dividend-sustainability-in-focus",
+      "cross_verified": true,
+      "published_at": "2026-10-18T21:55:22.000000Z"
+    },
+    {
+      "title": "AGNC Investment Q3 2026 Earnings Preview (NASDAQ:AGNC)",
+      "title_ko": "AGNC 투자, 2026년 3분기 실적 전망 (나스닥:AGNC)",
+      "snippet": "AGNC Investment (AGNC) reports Q3 earnings Oct 19 after close.",
+      "snippet_ko": "AGNC 인베스트먼트(AGNC)는 10월 19일 장 마감 후 3분기 실적을 발표할 예정이다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4653774-agnc-investment-q3-2026-earnings-preview",
+      "cross_verified": true,
+      "published_at": "2026-10-18T21:35:00.000000Z"
+    },
     {
       "title": "Align Technology (ALGN) Wins European Patent Infringement Ruling Against Angelalign",
       "title_ko": "Align Technology(ALGN), Angelalign을 상대로 한 유럽 특허 침해 소송에서 승소",
@@ -1165,45 +1201,21 @@
       "url": "https://seekingalpha.com/article/4952864-tesco-plc-tscdy-q2-2027-sales-trading-statement-call-slideshow",
       "cross_verified": true,
       "published_at": "2026-10-08T16:33:15.000000Z"
-    },
-    {
-      "title": "Bank of Baroda becomes only PSU bank after SBI to enter pension fund business: What it means",
-      "title_ko": "바로다 은행, SBI에 이어 연금 펀드 사업에 진출한 유일한 공기업 은행이 되다: 그 의미는 무엇인가",
-      "snippet": "Bank of Baroda has entered the pension fund business, becoming the second PSU bank after SBI to do so. The move comes as PFRDA seeks to expand NPS, targeting up to 4 crore new subscribers over the next 2-3 years.",
-      "snippet_ko": "바로다 은행이 연금 펀드 사업에 진출하며, SBI에 이어 두 번째로 이 분야에 진출한 공적 부문 은행이 되었다. 이번 조치는 PFRDA가 향후 2~3년 동안 최대 4크로레 명의 신규 가입자를 확보하는 것을 목표로 NPS를 확대하려는 움직임에 따른 것이다.",
-      "symbol": "",
-      "sentiment_score": 0.3818,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/industry/banking/bank-of-baroda-becomes-only-psu-bank-after-sbi-to-enter-pension-fund-business-what-it-means-11791476354935.html",
-      "cross_verified": true,
-      "published_at": "2026-10-08T16:30:46.000000Z"
-    },
-    {
-      "title": "US suspends work visa program for Indian IT firms, Microsoft citing widespread abuse",
-      "title_ko": "미국, 인도 IT 기업 대상 취업 비자 프로그램 중단… 마이크로소프트, 남용이 만연하다는 이유로",
-      "snippet": "Indian IT firms, including TCS, Infosys, Wipro and HCLTech, are among the tech firms suspended from the Permanent Labor Certification Program.",
-      "snippet_ko": "TCS, 인포시스, 위프로, HCL테크를 비롯한 인도 IT 기업들은 ‘영구 노동 인증 프로그램(Permanent Labor Certification Program)’에서 자격이 정지된 기술 기업들에 포함된다.",
-      "symbol": "",
-      "sentiment_score": 0.3039,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/news/us-work-visa-indian-it-firms-tcs-infosys-wipro-11791475886441.html",
-      "cross_verified": true,
-      "published_at": "2026-10-08T16:27:58.000000Z"
-    },
-    {
-      "title": "Coinbase Services Hit 48% of Revenue: Exchanges Sell Data",
-      "title_ko": "코인베이스 서비스 매출 비중 48% 달성: 거래소들의 데이터 판매",
-      "snippet": "Coinbase's subscriptions and services hit $555M in Q2 2026, 48% of net revenue. Three insiders explain what exchange data revenue is really worth.",
-      "snippet_ko": "코인베이스의 2026년 2분기 구독 및 서비스 매출은 5억 5,500만 달러를 기록하며 순매출의 48%를 차지했다. 세 명의 내부 관계자가 거래소 데이터 매출의 진정한 가치를 설명한다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/the-smartest-crypto-exchanges-are-turning-data/",
-      "cross_verified": true,
-      "published_at": "2026-10-08T07:36:26.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Alphabet's Google Advances Quantum Computing Accuracy, GOOGL Valuation Remains Elevated",
+      "title_ko": "알파벳 산하의 구글, 양자 컴퓨팅 정확도 향상… GOOGL 주가 평가액은 여전히 높은 수준",
+      "snippet": "On October 18, 2026, Alphabet Inc (NASDAQ: GOOGL) announced a significant breakthrough in quantum computing technology, achieving a 40-fold reduction in errors",
+      "snippet_ko": "2026년 10월 18일, 알파벳(Alphabet Inc, 나스닥: GOOGL)은 양자 컴퓨팅 기술 분야에서 획기적인 성과를 달성해 오류율을 40분의 1로 줄였다고 발표했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.4178,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9129068/alphabets-google-advances-quantum-computing-accuracy-googl-valuation-remains-elevated",
+      "cross_verified": true,
+      "published_at": "2026-10-18T20:55:25.000000Z"
+    },
     {
       "title": "OKX’s Tokenized Stocks Hit a Wall: Broadcom, CoreWeave, Verizon Among Nine Companies Objecting",
       "title_ko": "OKX의 토큰화된 주식, 난관에 봉착: 브로드컴, 코어위브, 버라이즌 등 9개사가 반대 의사를 표명",
@@ -2391,18 +2403,6 @@
       "url": "https://economictimes.indiatimes.com/news/economy/policy/rbis-rupee-defence-may-drain-banking-liquidity-ease-currency-pressure/articleshow/134873258.cms",
       "cross_verified": true,
       "published_at": "2026-10-11T16:01:37.000000Z"
-    },
-    {
-      "title": "AI issuers upend debt market safety valve as borrowing costs rise",
-      "title_ko": "차입 비용 상승에 따라 AI 발행사들이 채권 시장의 안전장치를 뒤흔들고 있다",
-      "snippet": "Big tech companies known as hyperscalers are willing to pay higher yields, because they're borrowing to fund artificial intelligence investments like data centers and AI chips",
-      "snippet_ko": "‘하이퍼스케일러’로 알려진 대형 기술 기업들은 데이터 센터나 AI 칩과 같은 인공지능 투자 자금을 조달하기 위해 차입을 하고 있기 때문에 더 높은 수익률을 기꺼이 지불할 의향이 있다.",
-      "symbol": "AVGO",
-      "sentiment_score": -0.0491,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/ai-issuers-upend-debt-market-safety-valve-as-borrowing-costs-rise-126101100064_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-11T03:04:42.000000Z"
     }
   ]
 }
