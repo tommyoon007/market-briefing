@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-18T10:45:40.360940+00:00",
+  "updated_at": "2026-10-18T15:42:03.351410+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Walmart (WMT) Faces Data Privacy Concerns Amid Digital Pricing Tech Adoption",
+      "title_ko": "월마트(WMT), 디지털 가격 책정 기술 도입 속 개인정보 보호 우려에 직면",
+      "snippet": "On October 18, 2026, as retailers including Walmart (WMT) increasingly implement digital shelf labels and pricing software, concerns have emerged about the exte",
+      "snippet_ko": "2026년 10월 18일, 월마트(WMT)를 비롯한 소매업체들이 디지털 진열대 라벨과 가격 표시 소프트웨어를 점점 더 많이 도입함에 따라, 이에 대한 우려가 제기되고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.3142,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9129045/walmart-wmt-faces-data-privacy-concerns-amid-digital-pricing-tech-adoption",
+      "cross_verified": true,
+      "published_at": "2026-10-18T14:56:00.000000Z"
+    },
+    {
+      "title": "Bumble (BMBL) Stock Surges Over 100% After $1.3B Acquisition Announcement by Ithaca Holdings",
+      "title_ko": "이타카 홀딩스의 13억 달러 규모 인수 발표에 힘입어 범블(BMBL) 주가가 100% 이상 급등했다",
+      "snippet": "On October 18, 2026, Bumble Inc (NASDAQ: BMBL) saw its shares more than double following the announcement of a $1.3 billion all-cash acquisition by Ithaca Holdi",
+      "snippet_ko": "2026년 10월 18일, Bumble Inc(나스닥: BMBL)는 Ithaca Holdi가 13억 달러 규모의 전액 현금 인수를 발표함에 따라 주가가 두 배 이상 급등했다.",
+      "symbol": "",
+      "sentiment_score": 0.1379,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9129043/bumble-bmbl-stock-surges-over-100-after-13b-acquisition-announcement-by-ithaca-holdings",
+      "cross_verified": true,
+      "published_at": "2026-10-18T14:55:24.000000Z"
+    },
     {
       "title": "3 Strategies for Using Points to Book Flights and Hotels",
       "title_ko": "포인트로 항공권과 호텔을 예약하는 3가지 전략",
@@ -1177,33 +1201,57 @@
       "url": "https://seekingalpha.com/article/4952686-west-pharmaceutical-services-needs-faster-earnings-growth-to-justify-its-price",
       "cross_verified": true,
       "published_at": "2026-10-08T07:35:32.000000Z"
-    },
-    {
-      "title": "Expeditors International of Washington, Inc. (EXPD) Discusses Distribution Trends and Strategies for Unlocking Growth in Canada Transcript",
-      "title_ko": "Expeditors International of Washington, Inc. (EXPD), 캐나다 시장 성장 동력을 확보하기 위한 유통 동향 및 전략 논의: 회의록",
-      "snippet": "Expeditors International of Washington, Inc. (EXPD) Discusses Distribution Trends and Strategies for Unlocking Growth in Canada October 6, 2026 3:00 PM...",
-      "snippet_ko": "Expeditors International of Washington, Inc. (EXPD), 캐나다 시장 성장 촉진을 위한 유통 동향 및 전략 논의 2026년 10월 6일 오후 3:00...",
-      "symbol": "",
-      "sentiment_score": 0.3818,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4952634-expeditors-international-of-washington-inc-expd-discusses-distribution-trends-and-strategies",
-      "cross_verified": true,
-      "published_at": "2026-10-07T23:12:42.000000Z"
-    },
-    {
-      "title": "iBio, Inc. (IBIO) Presents at 2026 EASD Annual Meeting - Slideshow (NASDAQ:IBIO) 2026-10-07",
-      "title_ko": "iBio, Inc. (IBIO), 2026년 EASD 연례 회의에서 발표 - 슬라이드 쇼 (NASDAQ:IBIO) 2026-10-07",
-      "snippet": "2026-10-07. The following slide deck was published by iBio, Inc.",
-      "snippet_ko": "2026년 10월 7일. 다음 슬라이드 자료는 iBio, Inc.에서 발간했습니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4952632-ibio-inc-ibio-presents-at-2026-easd-annual-meeting-slideshow",
-      "cross_verified": true,
-      "published_at": "2026-10-07T23:02:31.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "McDonald's: An Underrated Opportunity Hiding In Plain Sight (NYSE:MCD)",
+      "title_ko": "맥도날드: 눈에 띄는 곳에 숨겨진 저평가된 투자 기회 (NYSE:MCD)",
+      "snippet": "McDonald's increased its quarterly dividend to $1.93, $7.72 annualized, marking its 50th consecutive year of dividend increases. See why MCD stock is a Buy.",
+      "snippet_ko": "맥도날드는 분기 배당금을 1.93달러로 인상했으며, 이는 연환산 시 7.72달러에 해당합니다. 이로써 맥도날드는 50년 연속 배당금 인상을 기록했습니다. MCD 주식을 매수해야 하는 이유를 확인해 보세요.",
+      "symbol": "MCD",
+      "sentiment_score": 0.1531,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4955061-mcdonalds-an-underrated-opportunity-hiding-in-plain-sight",
+      "cross_verified": true,
+      "published_at": "2026-10-18T14:17:34.000000Z"
+    },
+    {
+      "title": "Broadcom: Market Misunderstanding Is Baffling, But Don't Be Fooled (NASDAQ:AVGO)",
+      "title_ko": "브로드컴: 시장의 오해는 의아스럽지만, 속지 마십시오 (나스닥: AVGO)",
+      "snippet": "Broadcom remains a Buy as AI chip demand from OpenAI/Anthropic supports growth; at ~20x earnings, a sell-off looks overdone. Click for more on AVGO stock.",
+      "snippet_ko": "오픈AI(OpenAI)와 앤트로픽(Anthropic)의 AI 칩 수요가 성장을 뒷받침함에 따라 브로드컴(Broadcom)은 여전히 ‘매수’ 추천을 유지하며, 주가수익비율(PER)이 약 20배 수준인 점을 고려할 때 최근의 주가 하락은 과도한 것으로 보입니다. AVGO 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "AVGO",
+      "sentiment_score": -0.325,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4955057-broadcom-market-misunderstanding-is-baffling-but-dont-be-fooled",
+      "cross_verified": true,
+      "published_at": "2026-10-18T13:54:33.000000Z"
+    },
+    {
+      "title": "Broadcom Crashed From $495 To $328 - I'm Buying The Sell-Off (NASDAQ:AVGO)",
+      "title_ko": "브로드컴 주가, 495달러에서 328달러로 급락 - 매도 물량에 매수할 예정 (나스닥:AVGO)",
+      "snippet": "Broadcom's custom silicon and software segments position it to benefit from capital-constrained AI infrastructure spending. Read why AVGO stock is a Strong Buy.",
+      "snippet_ko": "브로드컴의 맞춤형 반도체 및 소프트웨어 사업 부문은 자본 제약으로 인한 AI 인프라 투자 감소 상황에서도 이점을 누릴 수 있는 입지를 마련해 줍니다. AVGO 주식을 ‘강력 매수’로 추천하는 이유를 확인해 보세요.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4955041-broadcom-crashed-from-495-to-328-im-buying-the-sell-off",
+      "cross_verified": true,
+      "published_at": "2026-10-18T13:30:00.000000Z"
+    },
+    {
+      "title": "FTSE 100 at 10,881.90, up 3.13% per Dow Jones: Did Bailey do it?",
+      "title_ko": "다우존스에 따르면 FTSE 100 지수는 10,881.90을 기록하며 3.13% 상승했다: 베일리가 이룬 성과일까?",
+      "snippet": "FTSE 100 closed at 10,881.90, up 3.13% on the week per Dow Jones. Friday was only 0.38%, so the chip-light mix, not Bailey in Bangkok, did the week's gain.",
+      "snippet_ko": "다우존스에 따르면 FTSE 100 지수는 10,881.90으로 마감하며 전주 대비 3.13% 상승했다. 금요일 상승폭은 0.38%에 불과했으므로, 이번 주 상승세는 방콕에 있는 베일리가 아니라 반도체 관련주가 적은 구성 덕분이었다.",
+      "symbol": "TSLA",
+      "sentiment_score": 0.0275,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/ftse-100-10881-90-up-3-13-percent-week-dow-jones/",
+      "cross_verified": true,
+      "published_at": "2026-10-18T14:53:29.000000Z"
+    },
     {
       "title": "Apple (AAPL) Maintains Neutral Rating Amid Mixed Market Signals",
       "title_ko": "애플(AAPL), 엇갈리는 시장 신호 속에서도 ‘중립’ 등급 유지",
@@ -2355,54 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/broadcoms-ai-revenue-is-tripling-but-the-stock-has-lagged-is-it-time-to-load-up-1850874/",
       "cross_verified": true,
       "published_at": "2026-10-10T14:43:43.000000Z"
-    },
-    {
-      "title": "Will AI Devalue The Real World?",
-      "title_ko": "AI가 현실 세계의 가치를 떨어뜨릴까?",
-      "snippet": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-      "snippet_ko": "ZeroHedge - 시간이 충분히 길어지면, 모든 사람의 생존율은 0으로 떨어진다",
-      "symbol": "KO",
-      "sentiment_score": -0.1027,
-      "source": "zerohedge.com",
-      "url": "https://www.zerohedge.com/ai/will-ai-devalue-real-world",
-      "cross_verified": true,
-      "published_at": "2026-10-10T00:55:00.000000Z"
-    },
-    {
-      "title": "Meta’s Second New Mexico Loss This Year: What It Means for Meta Stock",
-      "title_ko": "메타, 올해 뉴멕시코주에서 두 번째 패배: 메타 주가에 미치는 영향",
-      "snippet": "A New Mexico jury has found Meta Platforms, Inc. (NASDAQ:META) liable for more than 43 million privacy-law violations.",
-      "snippet_ko": "뉴멕시코주 배심원단은 메타 플랫폼스(Meta Platforms, Inc., 나스닥: META)가 4,300만 건 이상의 개인정보 보호법 위반에 대한 책임이 있다고 판결했다.",
-      "symbol": "META",
-      "sentiment_score": -0.5267,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/metas-second-new-mexico-loss-this-year-what-it-means-for-meta-stock-1848676/",
-      "cross_verified": true,
-      "published_at": "2026-10-09T22:08:30.000000Z"
-    },
-    {
-      "title": "Depreciation Subtleties: S&P Earnings Are Vastly Overstated (NYSEARCA:SPY)",
-      "title_ko": "감가상각의 미묘한 점: S&P 수익이 크게 과대평가되어 있다 (NYSEARCA:SPY)",
-      "snippet": "The S&P 500 trades at 18.8X forward and 26.15X trailing earnings, both well above historical norms and likely understated. Read the full analysis here.",
-      "snippet_ko": "S&P 500 지수의 미래 예상 주가수익비율(PER)은 18.8배, 과거 실적 기준 주가수익비율(PER)은 26.15배로, 두 수치 모두 역사적 평균을 훨씬 상회하며 실제보다 낮게 평가된 것으로 보입니다. 전체 분석 내용은 여기에서 확인하세요.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.0636,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953181-depreciation-subtleties-s-and-p-earnings-are-vastly-overstated",
-      "cross_verified": true,
-      "published_at": "2026-10-09T21:49:13.000000Z"
-    },
-    {
-      "title": "Markets Edge Higher on Tech Strength and AI Optimism; Earnings Season Looms",
-      "title_ko": "기술주 강세와 AI에 대한 낙관론에 힘입어 증시 소폭 상승… 실적 발표 시즌 임박",
-      "snippet": "U.S. equity markets maintained a positive trajectory on Friday, October 9th, 2026, as investors navigated a landscape of resilient economic data and continued",
-      "snippet_ko": "2026년 10월 9일 금요일, 미국 주식 시장은 견조한 경제 지표와 지속적인",
-      "symbol": "AAPL",
-      "sentiment_score": 0.0816,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/markets-edge-higher-on-tech-strength-and-ai-optimism-earnings-season-looms/72811/",
-      "cross_verified": true,
-      "published_at": "2026-10-09T21:07:12.000000Z"
     }
   ]
 }
