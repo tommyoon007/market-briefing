@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-18T15:42:03.351410+00:00",
+  "updated_at": "2026-10-18T18:32:30.991780+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Align Technology (ALGN) Wins European Patent Infringement Ruling Against Angelalign",
+      "title_ko": "Align Technology(ALGN), Angelalign을 상대로 한 유럽 특허 침해 소송에서 승소",
+      "snippet": "On October 18, 2026, Align Technology Inc (NASDAQ: ALGN) announced a favorable ruling from the Unified Patent Court in Paris, which found that Angelalign's Torq",
+      "snippet_ko": "2026년 10월 18일, Align Technology Inc(나스닥: ALGN)는 파리 통합특허법원이 Angelalign의 Torq에 대해",
+      "symbol": "",
+      "sentiment_score": 0.6131,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9129061/align-technology-algn-wins-european-patent-infringement-ruling-against-angelalign",
+      "cross_verified": true,
+      "published_at": "2026-10-18T17:55:22.000000Z"
+    },
     {
       "title": "Walmart (WMT) Faces Data Privacy Concerns Amid Digital Pricing Tech Adoption",
       "title_ko": "월마트(WMT), 디지털 가격 책정 기술 도입 속 개인정보 보호 우려에 직면",
@@ -1189,21 +1201,69 @@
       "url": "https://financefeeds.com/the-smartest-crypto-exchanges-are-turning-data/",
       "cross_verified": true,
       "published_at": "2026-10-08T07:36:26.000000Z"
-    },
-    {
-      "title": "West Pharmaceutical Services Needs Faster Earnings Growth To Justify Its Price (NYSE:WST)",
-      "title_ko": "웨스트 파마슈티컬 서비스(NYSE:WST), 주가 정당화를 위해 더 빠른 실적 성장 필요",
-      "snippet": "West Pharmaceutical's sustained premium valuation demands proven earnings and cash flow improvements. See why I rate WST stock a Sell.",
-      "snippet_ko": "웨스트 파마슈티컬(West Pharmaceutical)이 지속적으로 높은 평가를 받으려면 입증된 실적 개선과 현금 흐름 개선이 필수적입니다. 제가 WST 주식을 ‘매도’로 평가하는 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.3911,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4952686-west-pharmaceutical-services-needs-faster-earnings-growth-to-justify-its-price",
-      "cross_verified": true,
-      "published_at": "2026-10-08T07:35:32.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "OKX’s Tokenized Stocks Hit a Wall: Broadcom, CoreWeave, Verizon Among Nine Companies Objecting",
+      "title_ko": "OKX의 토큰화된 주식, 난관에 봉착: 브로드컴, 코어위브, 버라이즌 등 9개사가 반대 의사를 표명",
+      "snippet": "Nine companies, including Broadcom, CoreWeave, Verizon and UnitedHealth Group, have formally objected to plans by OKXICE to offer tokenized versions of their",
+      "snippet_ko": "브로드컴, 코어위브, 버라이즌, 유나이티드헬스 그룹 등 9개 기업이 OKXICE가 자사 자산을 토큰화한 버전을 제공하려는 계획에 대해 공식적으로 이의를 제기했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.1218,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/okxs-tokenized-stocks-hit-a-wall-broadcom-coreweave-verizon-among-nine-companies-objecting/",
+      "cross_verified": true,
+      "published_at": "2026-10-18T15:38:29.000000Z"
+    },
+    {
+      "title": "Alphabet’s (GOOGL) Low P/E Is Misleading, but the AI Opportunity Is Real",
+      "title_ko": "알파벳(GOOGL)의 낮은 주가수익비율(P/E)은 오해의 소지가 있지만, AI 분야의 성장 기회는 분명하다",
+      "snippet": "Alphabet Inc. (NASDAQ:GOOGL) has surged 3.43% over the last six months, as of October 15.",
+      "snippet_ko": "알파벳(Alphabet Inc.)(나스닥:GOOGL)의 주가는 10월 15일 기준으로 지난 6개월 동안 3.43% 급등했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.4949,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/alphabets-googl-low-p-e-is-misleading-but-the-ai-opportunity-is-real-1855278/",
+      "cross_verified": true,
+      "published_at": "2026-10-18T14:39:08.000000Z"
+    },
+    {
+      "title": "Amazon (AMZN) Is A Proven Capital Allocator. But Can it Pass Its $220 Billion Test?",
+      "title_ko": "아마존(AMZN)은 검증된 자본 배분 능력을 갖춘 기업이다. 하지만 2,200억 달러 규모의 시험을 통과할 수 있을까?",
+      "snippet": "Amazon.com, Inc. (NASDAQ:AMZN) has been flat during the last six months, as of October 15.",
+      "snippet_ko": "10월 15일 기준으로, Amazon.com, Inc. (나스닥: AMZN)의 주가는 지난 6개월 동안 보합세를 보였습니다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.7363,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/amazon-amzn-is-a-proven-capital-allocator-but-can-it-pass-its-220-billion-test-1855291/",
+      "cross_verified": true,
+      "published_at": "2026-10-18T14:38:21.000000Z"
+    },
+    {
+      "title": "China's Export Controls on Solar Tech May Challenge Tesla's Global Expansion (TSLA)",
+      "title_ko": "중국의 태양광 기술 수출 통제가 테슬라(TSLA)의 글로벌 확장 계획에 걸림돌이 될 수 있다",
+      "snippet": "On October 18, 2026, China announced plans to impose export controls on 12 critical solar equipment manufacturing technologies, a move that could complicate ove",
+      "snippet_ko": "2026년 10월 18일, 중국은 12가지 핵심 태양광 장비 제조 기술에 대해 수출 통제를 실시할 계획을 발표했는데, 이 조치는 향후 상황을 복잡하게 만들 수 있다.",
+      "symbol": "TSLA",
+      "sentiment_score": 0.5124,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9129064/chinas-export-controls-on-solar-tech-may-challenge-teslas-global-expansion-tsla",
+      "cross_verified": true,
+      "published_at": "2026-10-18T17:56:13.000000Z"
+    },
+    {
+      "title": "Elon Musk Unveils \"Sentient\" Tesla Roadster with Autonomous Stunt Capabilities (TSLA)",
+      "title_ko": "일론 머스크, 자율 주행 스턴트 기능을 갖춘 “지각 능력을 가진” 테슬라 로드스터 공개 (TSLA)",
+      "snippet": "On October 18, 2026, Tesla Inc (TSLA) CEO Elon Musk announced that the upcoming Tesla Roadster will feature \"sentient\" capabilities, enabling it to autonomously",
+      "snippet_ko": "2026년 10월 18일, 테슬라(TSLA)의 CEO 엘론 머스크는 곧 출시될 테슬라 로드스터가 “지각 능력”을 갖추게 되어 자율적으로",
+      "symbol": "TSLA",
+      "sentiment_score": 0.5013,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9129063/elon-musk-unveils-sentient-tesla-roadster-with-autonomous-stunt-capabilities-tsla",
+      "cross_verified": true,
+      "published_at": "2026-10-18T17:55:55.000000Z"
+    },
     {
       "title": "McDonald's: An Underrated Opportunity Hiding In Plain Sight (NYSE:MCD)",
       "title_ko": "맥도날드: 눈에 띄는 곳에 숨겨진 저평가된 투자 기회 (NYSE:MCD)",
@@ -2343,66 +2403,6 @@
       "url": "https://www.business-standard.com/world-news/ai-issuers-upend-debt-market-safety-valve-as-borrowing-costs-rise-126101100064_1.html",
       "cross_verified": true,
       "published_at": "2026-10-11T03:04:42.000000Z"
-    },
-    {
-      "title": "Amazon (AMZN) Wants Investors to Finance $8 Billion of Nvidia Chips. Is AI Spending Getting Too Heavy?",
-      "title_ko": "아마존(AMZN), 투자자들에게 엔비디아 칩 80억 달러 규모 자금 조달을 요청. AI 투자 부담이 지나치게 커지고 있는 것일까?",
-      "snippet": "Amazon.com, Inc.",
-      "snippet_ko": "Amazon.com, Inc.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.5195,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/amazon-amzn-wants-investors-to-finance-8-billion-of-nvidia-chips-is-ai-spending-getting-too-heavy-1850380/",
-      "cross_verified": true,
-      "published_at": "2026-10-10T22:11:26.000000Z"
-    },
-    {
-      "title": "Tesla (TSLA) Deliveries Beat Expectations. But TSLA’s 159x Forward P/E Is Betting on Much More",
-      "title_ko": "테슬라(TSLA)의 인도 대수가 시장 예상을 상회했다. 하지만 TSLA의 159배에 달하는 미래 주가수익비율(P/E)은 훨씬 더 큰 성장을 기대하고 있음을 시사한다.",
-      "snippet": "Tesla, Inc. (NASDAQ:TSLA) delivered 486,532 vehicles in the third quarter, comfortably above company-compiled consensus of 461,974 and down only 2% from a year earlier.",
-      "snippet_ko": "테슬라(Tesla, Inc.)(나스닥: TSLA)는 3분기에 486,532대의 차량을 인도했으며, 이는 회사가 집계한 시장 예상치인 461,974대를 여유 있게 상회한 수치이자 전년 동기 대비 단 2% 감소한 수준이다.",
-      "symbol": "TSLA",
-      "sentiment_score": 0.3022,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/tesla-tsla-deliveries-beat-expectations-but-tslas-159x-forward-p-e-is-betting-on-much-more-1850381/",
-      "cross_verified": true,
-      "published_at": "2026-10-10T17:22:16.000000Z"
-    },
-    {
-      "title": "Inside Silicon Valley's bet on a new path to landing a job in the AI era",
-      "title_ko": "AI 시대에 일자리를 얻기 위한 새로운 길을 모색하는 실리콘밸리의 전략 속으로",
-      "snippet": "Horowitz Andreessen Academy CEO Gagan Biyani explains why the AI-focused program is betting on \"proof of work\" as an alternative path for young tech builders.",
-      "snippet_ko": "호로비츠 안드레센 아카데미(Horowitz Andreessen Academy)의 CEO 가간 비야니(Gagan Biyani)는 AI 중심 프로그램이 젊은 기술 개발자들을 위한 대안적 경로로 ‘작업 증명(proof of work)’에 주목하는 이유를 설명한다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.5362,
-      "source": "foxbusiness.com",
-      "url": "https://www.foxbusiness.com/technology/inside-silicon-valleys-bet-new-path-landing-job-ai-era",
-      "cross_verified": true,
-      "published_at": "2026-10-10T16:00:29.000000Z"
-    },
-    {
-      "title": "Stocks saw new highs and big declines: How the volatile AI trade moved last week's market",
-      "title_ko": "주가는 사상 최고치를 경신하기도 하고 급락하기도 했다: 지난주 시장을 주도한 변동성 큰 AI 관련 매매 동향",
-      "snippet": "Looking to balance out our AI exposure, we put more of our sizable cash pile to work.",
-      "snippet_ko": "AI 관련 투자 비중을 균형 있게 조정하기 위해, 우리는 상당한 규모의 현금 보유액 중 더 많은 부분을 투자에 활용했다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.5555,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html",
-      "cross_verified": true,
-      "published_at": "2026-10-10T15:30:51.000000Z"
-    },
-    {
-      "title": "Broadcom’s AI Revenue Is Tripling, but the Stock Has Lagged. Is It Time to Load Up?",
-      "title_ko": "브로드컴의 AI 매출은 3배로 늘고 있지만 주가는 부진한 모습을 보이고 있다. 이제 매수할 때일까?",
-      "snippet": "Broadcom Inc. (NASDAQ:AVGO) shares jumped 3.7% on October 6, building on gains from earlier in the month. The push came from Marvell’s investor day.",
-      "snippet_ko": "브로드컴(Broadcom Inc., 나스닥: AVGO)의 주가는 10월 6일 3.7% 급등하며 이달 초부터 이어진 상승세를 이어갔다. 이러한 상승세는 마벨(Marvell)의 투자자 설명회에서 비롯된 것이다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.507,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/broadcoms-ai-revenue-is-tripling-but-the-stock-has-lagged-is-it-time-to-load-up-1850874/",
-      "cross_verified": true,
-      "published_at": "2026-10-10T14:43:43.000000Z"
     }
   ]
 }
