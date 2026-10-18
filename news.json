@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-18T04:01:48.319425+00:00",
+  "updated_at": "2026-10-18T10:45:40.360940+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "3 Strategies for Using Points to Book Flights and Hotels",
+      "title_ko": "포인트로 항공권과 호텔을 예약하는 3가지 전략",
+      "snippet": "Taryn White has used airline miles and credit card points to book flights to places like Bali, Prague, and Johannesburg. She shares her top tips.",
+      "snippet_ko": "타린 화이트는 항공 마일과 신용카드 포인트를 활용해 발리, 프라하, 요하네스버그 등으로 가는 항공편을 예약했습니다. 그녀가 유용한 팁을 소개합니다.",
+      "symbol": "",
+      "sentiment_score": 0.9468,
+      "source": "businessinsider.com",
+      "url": "https://www.businessinsider.com/credit-card-airline-points-maximizing-strategies-travel-book-flights-hotels-2026-10",
+      "cross_verified": true,
+      "published_at": "2026-10-18T09:08:26.000000Z"
+    },
+    {
+      "title": "First Financial: Acquisitions Drive 2027 Growth (NASDAQ:THFF)",
+      "title_ko": "퍼스트 파이낸셜: 인수합병이 2027년 성장을 견인 (나스닥:THFF)",
+      "snippet": "First Financial: P/B discount, strong NIM and CET1, and 3.04% dividend yield. Click for more on THFF stock.",
+      "snippet_ko": "퍼스트 파이낸셜: P/B 할인, 견실한 순이자마진(NIM) 및 CET1, 3.04%의 배당수익률. THFF 주식에 대한 자세한 내용을 보려면 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.1909,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4955032-first-financial-stock-acquisitions-drive-2027-growth",
+      "cross_verified": true,
+      "published_at": "2026-10-18T08:56:54.000000Z"
+    },
     {
       "title": "Southeast Asia IPO Market Gains Traction with $1 Billion Mynt Listing",
       "title_ko": "10억 달러 규모의 Mynt 상장으로 동남아시아 IPO 시장이 활기를 띠고 있다",
@@ -1177,33 +1201,45 @@
       "url": "https://seekingalpha.com/article/4952632-ibio-inc-ibio-presents-at-2026-easd-annual-meeting-slideshow",
       "cross_verified": true,
       "published_at": "2026-10-07T23:02:31.000000Z"
-    },
-    {
-      "title": "Resources Connection, Inc. (RGP) Q1 2027 Earnings Call Transcript",
-      "title_ko": "Resources Connection, Inc. (RGP) 2027년 1분기 실적 발표 전화 회의 기록",
-      "snippet": "Resources Connection, Inc. (RGP) Q1 2027 Earnings Call October 7, 2026 5:00 PM EDTCompany ParticipantsRoger Carlile - President, CEO & DirectorJessica...",
-      "snippet_ko": "Resources Connection, Inc. (RGP) 2027년 1분기 실적 발표 전화회의 2026년 10월 7일 오후 5:00 (EDT) 회사 참가자: 로저 칼라일 - 사장, CEO 겸 이사, 제시카...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4952626-resources-connection-inc-rgp-q1-2027-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-10-07T23:02:27.000000Z"
-    },
-    {
-      "title": "Hertz Lenders Team Up With Advisers as Possible Debt Fight Looms",
-      "title_ko": "헤르츠 채권자들이 잠재적인 채무 분쟁이 임박함에 따라 자문사들과 손을 잡았다",
-      "snippet": "Creditors to Hertz Global Holdings Inc. are organizing across at least two groups, bracing for potential negotiations with the car rental company over its billions of dollars of debt that comes due over the next few years, according to people familiar with the matter.",
-      "snippet_ko": "이 사안에 정통한 소식통에 따르면, 허츠 글로벌 홀딩스(Hertz Global Holdings Inc.)의 채권자들은 최소 두 개의 그룹으로 나뉘어 조직을 구성하고 있으며, 향후 몇 년 내에 만기가 도래하는 수십억 달러 규모의 부채와 관련해 이 렌터카 회사와의 잠재적인 협상에 대비하고 있다.",
-      "symbol": "",
-      "sentiment_score": -0.34,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/hertz-lenders-team-up-with-advisers-as-possible-debt-fight-looms-11791399696387.html",
-      "cross_verified": true,
-      "published_at": "2026-10-07T19:01:35.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Apple (AAPL) Maintains Neutral Rating Amid Mixed Market Signals",
+      "title_ko": "애플(AAPL), 엇갈리는 시장 신호 속에서도 ‘중립’ 등급 유지",
+      "snippet": "On October 18, 2026, UBS reaffirmed a \"Neutral\" rating for Apple Inc (AAPL) with a target price of $296, indicating a potential downside of approximately 14.1%",
+      "snippet_ko": "2026년 10월 18일, UBS는 애플(AAPL)에 대해 ‘중립(Neutral)’ 투자의견을 재확인하고 목표주가를 296달러로 제시했으며, 이는 약 14.1%의 하락 여지가 있음을 시사했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.1276,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9129035/apple-aapl-maintains-neutral-rating-amid-mixed-market-signals",
+      "cross_verified": true,
+      "published_at": "2026-10-18T08:10:55.000000Z"
+    },
+    {
+      "title": "AI trade reversal pierces Asia’s star picks-and-shovels stocks",
+      "title_ko": "AI 관련 매도 전환이 아시아의 유망 ‘픽 앤 쇼벨’ 종목들을 강타했다",
+      "snippet": "The pressure intensified last week as oil surged to $110 a barrel for the first time since May, stoking inflation concerns, and investors turned their attention to the trillions of dollars being borrowed to build AI infrastructure",
+      "snippet_ko": "지난주 유가가 5월 이후 처음으로 배럴당 110달러까지 치솟으며 인플레이션 우려가 고조되자 압박이 가중되었고, 투자자들은 AI 인프라 구축을 위해 차입된 수조 달러 규모의 자금에 주목하기 시작했다.",
+      "symbol": "AVGO",
+      "sentiment_score": -0.3442,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/markets/ai-trade-reversal-pierces-asias-star-picks-and-shovels-stocks/article71599069.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-18T05:13:09.000000Z"
+    },
+    {
+      "title": "US markets weighed down by an extended sell-off in tech sector",
+      "title_ko": "기술주 부문의 매도세가 장기화되면서 미국 증시가 하락세를 보였다",
+      "snippet": "Stocks closed lower on Wall Street as more drops for big tech companies weighed on the market. The S&P 500 lost 1.1 per cent Friday, and the Nasdaq composite sank 2.1 per cent. Both posted their worst week since June. The Dow Jones Industrial Average didn’t do as badly, and fell 0.3 per cent. Chip companies pulled back some more as worries deepened about how long the frenzy over the artificial intelligence (AI) buildout will last. Micron Technology fell 5.6 per cent and Intel lost 5.8 per cent. European and Asian markets closed higher.",
+      "snippet_ko": "월가 증시는 대형 기술주들의 추가 하락이 시장에 부담을 주면서 하락세로 마감했다. 금요일 S&P 500 지수는 1.1% 하락했고, 나스닥 종합지수는 2.1% 떨어졌다. 두 지수 모두 6월 이후 최악의 주간 실적을 기록했다. 다우존스 산업평균지수는 그나마 양호한 모습을 보이며 0.3% 하락에 그쳤다. 인공지능(AI) 인프라 확충 열풍이 얼마나 지속될지에 대한 우려가 깊어지면서 반도체 기업들의 주가는 추가로 하락했다. 마이크론 테크놀로지는 5.6%, 인텔은 5.8% 각각 하락했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.1126,
+      "source": "jamaica-gleaner.com",
+      "url": "https://jamaica-gleaner.com/article/business/20261018/us-markets-weighed-down-extended-sell-tech-sector",
+      "cross_verified": true,
+      "published_at": "2026-10-18T05:10:14.000000Z"
+    },
     {
       "title": "Jim Cramer Sees a Telling Change in Broadcom’s (AVGO) Stock",
       "title_ko": "짐 크레이머, 브로드컴(AVGO) 주가의 의미심장한 변화를 포착하다",
@@ -2367,42 +2403,6 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/markets-edge-higher-on-tech-strength-and-ai-optimism-earnings-season-looms/72811/",
       "cross_verified": true,
       "published_at": "2026-10-09T21:07:12.000000Z"
-    },
-    {
-      "title": "Coca-Cola Consolidated, Inc. Announces Fourth Quarter Dividend",
-      "title_ko": "코카콜라 컨솔리데이티드(Coca-Cola Consolidated, Inc.)가 4분기 배당금 지급을 발표했습니다.",
-      "snippet": "CHARLOTTE, N.C., Oct. 09, 2026 (GLOBE NEWSWIRE) -- Coca-Cola Consolidated, Inc. (NASDAQ: COKE) announced that its Board of Directors has declared a dividend for the fourth quarter of 2026 of $0.25 per share on shares of the Company's Common Stock and Class B Common Stock payable on November 6, 2026, to stockholders of record as of the close of business on October 23, 2026.",
-      "snippet_ko": "노스캐롤라이나주 샬럿, 2026년 10월 9일 (GLOBE NEWSWIRE) -- 코카콜라 컨솔리데이티드(Coca-Cola Consolidated, Inc.)(나스닥: COKE)는 이사회가 2026년 4분기 배당금으로 자사의 보통주 및 B종 보통주 1주당 0.25달러를 결정했으며, 이는 2026년 11월 6일에 2026년 10월 23일 영업 종료 시점 기준 주주명부에 등재된 주주들에게 지급될 것이라고 밝혔다.",
-      "symbol": "KO",
-      "sentiment_score": 0.0346,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/10/tmt-newswire/globenewswire/coca-cola-consolidated-inc-announces-fourth-quarter-dividend/2442918",
-      "cross_verified": true,
-      "published_at": "2026-10-09T20:17:35.000000Z"
-    },
-    {
-      "title": "Alignment Healthcare downgraded at BofA after CMS Star Rating for MA contract (ALHC:NASDAQ)",
-      "title_ko": "BofA, CMS의 MA 계약 별점 평가 결과 발표 후 Alignment Healthcare의 투자의견 하향 조정 (ALHC:NASDAQ)",
-      "snippet": "BofA downgrades Alignment Healthcare after CMS cuts key California Medicare Advantage contract Star Rating to 3.5. Read more here. Read more here.",
-      "snippet_ko": "CMS가 캘리포니아주 메디케어 어드밴티지 주요 계약에 대한 별점 평가를 3.5로 하향 조정한 데 따라, BofA가 Alignment Healthcare의 신용등급을 하향 조정했습니다. 자세한 내용은 여기에서 확인하세요. 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "MA",
-      "sentiment_score": 0.148,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4651897-alignment-healthcare-downgraded-bofa-after-cms-star-rating-ma-contract",
-      "cross_verified": true,
-      "published_at": "2026-10-09T21:59:09.000000Z"
-    },
-    {
-      "title": "Market Rally Sustains Momentum as Financials and Commodities Lead Afternoon Gains",
-      "title_ko": "금융주와 원자재주가 오후 상승세를 주도하며 시장 반등세가 탄력을 받고 있다",
-      "snippet": "U.S. equity markets maintained a positive trajectory during Friday afternoon trading on October 9, 2026, as investors balanced optimistic economic sentiment",
-      "snippet_ko": "2026년 10월 9일 금요일 오후 거래에서 미국 주식 시장은 투자자들이 낙관적인 경제 심리를 반영하며 상승세를 이어갔다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2884,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/market-rally-sustains-momentum-as-financials-and-commodities-lead-afternoon-gains/72802/",
-      "cross_verified": true,
-      "published_at": "2026-10-09T18:07:14.000000Z"
     }
   ]
 }
