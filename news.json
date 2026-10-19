@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-19T12:45:47.732444+00:00",
+  "updated_at": "2026-10-19T19:44:56.334546+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "EyePoint Pharmaceuticals (EYPT) Faces Major Setback as LUCIA Trial Misses Endpoint; Stock Under Pressure",
+      "title_ko": "아이포인트 파마슈티컬스(EYPT), LUCIA 임상시험이 평가 지표를 달성하지 못해 큰 차질을 빚으며 주가 하락 압력 받아",
+      "snippet": "On October 19, 2026, EyePoint Pharmaceuticals (NASDAQ: EYPT) announced that its LUCIA clinical trial failed to meet the primary endpoint for best-corrected visu",
+      "snippet_ko": "2026년 10월 19일, 아이포인트 파마슈티컬스(NASDAQ: EYPT)는 자사의 LUCIA 임상시험이 최상의 교정 시력에 대한 1차 평가 변수를 달성하지 못했다고 발표했다.",
+      "symbol": "",
+      "sentiment_score": -0.2481,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9130128/eyepoint-pharmaceuticals-eypt-faces-major-setback-as-lucia-trial-misses-endpoint-stock-under-pressure",
+      "cross_verified": true,
+      "published_at": "2026-10-19T19:25:28.000000Z"
+    },
+    {
+      "title": "NI Maintained by BMO Capital -- Price Target Raised to $48.00",
+      "title_ko": "BMO 캐피털, NI에 대해 ‘보유’ 등급 유지 -- 목표주가 48.00달러로 상향 조정",
+      "snippet": "NiSource (NI) Analyst Rating Update On October 19, 2026, BMO Capital analyst James Thalacker maintained his \"Outperform\" rating on NiSource (NI) and raised t",
+      "snippet_ko": "NiSource(NI) 애널리스트 평가 업데이트 2026년 10월 19일, BMO 캐피털의 애널리스트 제임스 탈라커는 NiSource(NI)에 대한 ‘Outperform’ 평가를 유지하고 목표 주가를 상향 조정했다.",
+      "symbol": "",
+      "sentiment_score": 0.5122,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9130118/ni-maintained-by-bmo-capital-price-target-raised-to-4800",
+      "cross_verified": true,
+      "published_at": "2026-10-19T19:04:54.000000Z"
+    },
+    {
+      "title": "Bawag Group AG (BWAGF) Q3 2026 Earnings Call Highlights: Strong Profitability With 27% ROTE Amid Deposit and Margin Pressures",
+      "title_ko": "Bawag Group AG (BWAGF) 2026년 3분기 실적 발표 주요 내용: 예금 및 마진 압박 속에서도 27%의 ROTE를 기록한 견고한 수익성",
+      "snippet": "Release Date: October 19, 2026For the complete transcript of the earnings call, please refer to the full earnings call transcript. Positive Points Bawag Group A",
+      "snippet_ko": "발표일: 2026년 10월 19일. 실적 발표 회의의 전체 기록은 실적 발표 회의 전문을 참조하시기 바랍니다. 긍정적 요인: 바와그 그룹 A",
+      "symbol": "",
+      "sentiment_score": 0.5205,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9130101/bawag-group-ag-bwagf-q3-2026-earnings-call-highlights-strong-profitability-with-27-rote-amid-deposit-and-margin-pressures",
+      "cross_verified": true,
+      "published_at": "2026-10-19T19:00:21.000000Z"
+    },
     {
       "title": "Xencor (XNCR) Advances XmAb819 Trial for Advanced ccRCC, Eyes Phase 3 Study",
       "title_ko": "젠코어(XNCR), 진행성 ccRCC에 대한 XmAb819 임상시험 추진… 3상 연구 계획",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4953152-zeta-global-an-ai-comeback-story-accelerating-organic-growth-amid-m-and-a-downgrade",
       "cross_verified": true,
       "published_at": "2026-10-09T18:57:37.000000Z"
-    },
-    {
-      "title": "AMD: Too Expensive To Be Worth It (NASDAQ:AMD)",
-      "title_ko": "AMD: 가격이 너무 비싸서 가성비가 떨어진다 (NASDAQ:AMD)",
-      "snippet": "Advanced Micro Devices is downgraded to a Hold, as valuation metrics have become stretched despite strong fundamentals. Read more on AMD stock here.",
-      "snippet_ko": "어드밴스드 마이크로 디바이스(AMD)는 견실한 펀더멘털에도 불구하고 주가 평가 지표가 과열된 것으로 나타나 ‘보유(Hold)’로 등급이 하향 조정되었습니다. AMD 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.4921,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953149-amd-too-expensive-to-be-worth-it",
-      "cross_verified": true,
-      "published_at": "2026-10-09T18:45:56.000000Z"
-    },
-    {
-      "title": "Selling Bodycote: Another World-Leading U.K. Company Taken Over (BYPLF)",
-      "title_ko": "바디코트 매각: 또 하나의 세계적 영국 기업이 인수되었다 (BYPLF)",
-      "snippet": "Bodycote, the world’s leading metallurgical heat & surface treatment business, is about to be taken over by a private equity firm. Read more here.",
-      "snippet_ko": "세계 최고의 야금 열처리 및 표면 처리 기업인 바디코트(Bodycote)가 사모펀드에 인수될 예정입니다. 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953059-selling-bodycote-another-world-leading-uk-company-taken-over",
-      "cross_verified": true,
-      "published_at": "2026-10-09T12:10:00.000000Z"
-    },
-    {
-      "title": "ClearBridge Large Cap Value Strategy Q3 2026 Commentary",
-      "title_ko": "클리어브리지 대형주 가치 투자 전략 2026년 3분기 분석 보고서",
-      "snippet": "ClearBridge Large Cap Value Strategy posted a positive return but trailed the Russell 1000 Value Index.",
-      "snippet_ko": "클리어브리지 대형주 가치 투자 전략은 플러스 수익률을 기록했으나 러셀 1000 가치 지수에는 미치지 못했다.",
-      "symbol": "",
-      "sentiment_score": 0.2732,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953045-clearbridge-large-cap-value-strategy-q3-2026-commentary",
-      "cross_verified": true,
-      "published_at": "2026-10-09T12:02:00.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Apple Is Winning on Price, Not Units, KeyBanc Survey Suggests",
+      "title_ko": "키뱅크(KeyBanc) 조사 결과, 애플은 판매량보다는 가격 경쟁에서 우위를 점하고 있는 것으로 나타났다",
+      "snippet": "iPhone manufacturer Apple Inc (AAPL, Financials) is reporting increased early interest in the iPhone 18, but a KeyBanc survey predicts demand may weaken after t",
+      "snippet_ko": "아이폰 제조사인 애플(Apple Inc, AAPL, 금융)은 아이폰 18에 대한 초기 관심이 높아지고 있다고 밝혔으나, 키뱅크(KeyBanc)의 설문조사에 따르면 t 이후 수요가 약화될 수 있을 것으로 전망된다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3084,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9129799/apple-is-winning-on-price-not-units-keybanc-survey-suggests",
+      "cross_verified": true,
+      "published_at": "2026-10-19T18:06:10.000000Z"
+    },
+    {
+      "title": "Amazon Is Attacking Nvidia's Strongest Moat: CUDA",
+      "title_ko": "아마존이 엔비디아의 가장 강력한 경쟁 우위인 CUDA를 공략하고 있다",
+      "snippet": "Cloud and e-commerce behemoth Amazon.com Inc. (AMZN, Financials) is making a more direct run at Nvidia in AI computing.Amazon's Annapurna Labs is announcing Tor",
+      "snippet_ko": "클라우드 및 전자상거래 분야의 거대 기업인 아마존닷컴(Amazon.com Inc., AMZN, 금융)이 AI 컴퓨팅 분야에서 엔비디아(Nvidia)를 상대로 더욱 직접적인 공세를 펼치고 있다. 아마존 산하의 아나푸르나 랩스(Annapurna Labs)는 ‘Tor’를 발표할 예정이다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.0,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9129699/amazon-is-attacking-nvidias-strongest-moat-cuda",
+      "cross_verified": true,
+      "published_at": "2026-10-19T18:03:16.000000Z"
+    },
+    {
+      "title": "Apple (AAPL) Announces Second October Event Featuring New MacBook Pro Models",
+      "title_ko": "애플(AAPL), 새로운 맥북 프로 모델을 선보일 10월 두 번째 행사 개최 발표",
+      "snippet": "On October 19, 2026, Apple Inc (AAPL) announced a second October event set for October 28 at 10 a.m. P.T. in Los Angeles, themed ”Pro and tell.” The event i",
+      "snippet_ko": "2026년 10월 19일, 애플(AAPL)은 10월 28일 오전 10시(태평양 표준시) 로스앤젤레스에서 “Pro and tell”을 주제로 두 번째 10월 행사를 개최한다고 발표했습니다. 이 행사는",
+      "symbol": "AAPL",
+      "sentiment_score": 0.397,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9129982/apple-aapl-announces-second-october-event-featuring-new-macbook-pro-models",
+      "cross_verified": true,
+      "published_at": "2026-10-19T17:57:45.000000Z"
+    },
     {
       "title": "Tenstorrent secures $1.5 billion USD at $6.2-billion valuation to challenge GPU dominance",
       "title_ko": "텐스토렌트, GPU 시장의 지배력에 도전하기 위해 기업 가치 62억 달러 기준으로 15억 달러 투자 유치",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9119200/flo-health-and-google-health-partner-to-enhance-womens-health-solutions-goog",
       "cross_verified": true,
       "published_at": "2026-10-12T14:59:54.000000Z"
-    },
-    {
-      "title": "US Indices Show Mixed Performance as Earnings Season Approaches",
-      "title_ko": "실적 발표 시즌을 앞두고 미국 증시 지수들, 혼조세 보여",
-      "snippet": "Major US stock indices experienced a mixed performance recently, with the Dow Jones rising by 0.17% and the S&P 500 gaining 0.04%, while the Nasdaq saw a slight",
-      "snippet_ko": "최근 미국 주요 주가지수는 혼조세를 보였는데, 다우존스 지수는 0.17% 상승했고 S&P 500 지수는 0.04% 오른 반면, 나스닥 지수는 소폭",
-      "symbol": "AAPL",
-      "sentiment_score": -0.0751,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9119182/us-indices-show-mixed-performance-as-earnings-season-approaches",
-      "cross_verified": true,
-      "published_at": "2026-10-12T14:50:18.000000Z"
-    },
-    {
-      "title": "Intel CEO Highlights Chinese AI Adoption and Quantum Computing Outlook (INTC)",
-      "title_ko": "인텔 CEO, 중국의 AI 도입 현황과 양자 컴퓨팅 전망 강조 (INTC)",
-      "snippet": "On October 12, 2026, Intel Corp (NASDAQ: INTC) CEO Lip-Bu Tan spoke at a DBS panel in Singapore, emphasizing the rapid adoption of Chinese AI models due to thei",
-      "snippet_ko": "2026년 10월 12일, 인텔(Intel Corp, 나스닥: INTC)의 립부 탄(Lip-Bu Tan) CEO는 싱가포르에서 열린 DBS 패널 토론회에서 연설하며, 중국산 AI 모델이 그 덕분에 빠르게 보급되고 있음을 강조했습니다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.0275,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9119067/intel-ceo-highlights-chinese-ai-adoption-and-quantum-computing-outlook-intc",
-      "cross_verified": true,
-      "published_at": "2026-10-12T13:55:41.000000Z"
-    },
-    {
-      "title": "Visa (V): Are Bigger Client Rebates Worth the Valuation?",
-      "title_ko": "비자(V): 더 큰 규모의 고객 리베이트가 기업 가치 평가에 걸맞은가?",
-      "snippet": "Visa Inc. (NYSE:V) operates a global payments network, earning fees from payment volumes, transaction processing, and related services.",
-      "snippet_ko": "Visa Inc. (NYSE:V)는 글로벌 결제 네트워크를 운영하며, 결제 처리량, 거래 처리 및 관련 서비스를 통해 수수료를 창출합니다.",
-      "symbol": "V",
-      "sentiment_score": 0.2891,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/visa-v-are-bigger-client-rebates-worth-the-valuation-1848698/",
-      "cross_verified": true,
-      "published_at": "2026-10-11T19:02:42.000000Z"
     }
   ]
 }
