@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-19T04:10:54.847563+00:00",
+  "updated_at": "2026-10-19T12:45:47.732444+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Xencor (XNCR) Advances XmAb819 Trial for Advanced ccRCC, Eyes Phase 3 Study",
+      "title_ko": "젠코어(XNCR), 진행성 ccRCC에 대한 XmAb819 임상시험 추진… 3상 연구 계획",
+      "snippet": "On October 19, 2026, Xencor Inc (NASDAQ: XNCR) announced upcoming data presentations from its Phase 1 clinical trial evaluating XmAb819, a bispecific antibody t",
+      "snippet_ko": "2026년 10월 19일, Xencor Inc(나스닥: XNCR)는 이중특이성 항체인 XmAb819를 평가하는 1상 임상시험의 데이터 발표 일정을 공개했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.1454,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9129459/xencor-xncr-advances-xmab819-trial-for-advanced-ccrcc-eyes-phase-3-study",
+      "cross_verified": true,
+      "published_at": "2026-10-19T12:26:54.000000Z"
+    },
+    {
+      "title": "METiS TechBio Partners with Eli Lilly (LLY) to Advance Lipid Nanoparticle Delivery Systems",
+      "title_ko": "METiS TechBio, 엘리 릴리(LLY)와 제휴하여 지질 나노입자 전달 시스템 개발 추진",
+      "snippet": "On October 19, 2026, METiS TechBio announced a strategic collaboration with Eli Lilly and Co (NYSE: LLY) to co-develop innovative lipid nanoparticle-based deliv",
+      "snippet_ko": "2026년 10월 19일, METiS TechBio는 일라이 릴리 앤 컴퍼니(Eli Lilly and Co, NYSE: LLY)와 혁신적인 지질 나노입자 기반 전달 체계를 공동 개발하기 위한 전략적 제휴를 체결했다고 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.4404,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9129457/metis-techbio-partners-with-eli-lilly-lly-to-advance-lipid-nanoparticle-delivery-systems",
+      "cross_verified": true,
+      "published_at": "2026-10-19T12:26:14.000000Z"
+    },
+    {
+      "title": "ANI Pharmaceuticals (ANIP) Launches Generic Duloxetine Capsules Targeting $247M Market",
+      "title_ko": "ANI 파마슈티컬스(ANIP), 2억 4,700만 달러 규모의 시장을 겨냥한 둘록세틴 제네릭 캡슐 출시",
+      "snippet": "On October 19, 2026, ANI Pharmaceuticals Inc (NASDAQ: ANIP) announced the commercial launch of its Duloxetine Delayed-Release Capsules in 20 mg, 30 mg, and 60 m",
+      "snippet_ko": "2026년 10월 19일, ANI Pharmaceuticals Inc(나스닥: ANIP)는 20mg, 30mg, 60mg 용량의 둘록세틴 서방형 캡슐의 상용화를 발표했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.1105,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9129454/ani-pharmaceuticals-anip-launches-generic-duloxetine-capsules-targeting-247m-market",
+      "cross_verified": true,
+      "published_at": "2026-10-19T12:25:20.000000Z"
+    },
     {
       "title": "‘Keep expectations low’: Anand Mahindra’s nostalgic post about visiting Rishikesh gets mixed response on social media",
       "title_ko": "‘기대를 낮게 가져라’: 아난드 마힌드라의 리시케시 방문에 대한 향수 어린 게시물이 소셜 미디어에서 엇갈린 반응을 불러일으키고 있다",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4953045-clearbridge-large-cap-value-strategy-q3-2026-commentary",
       "cross_verified": true,
       "published_at": "2026-10-09T12:02:00.000000Z"
-    },
-    {
-      "title": "AI Bubble Risks Worst S&P 500 Crash Since 2008, Strategist Says",
-      "title_ko": "전략가 “AI 버블로 인해 2008년 이후 최악의 S&P 500 폭락 우려”",
-      "snippet": "The head of market strategy at a London investment bank has a stark warning for investors: the artificial-intelligence trade may soon be over in what",
-      "snippet_ko": "런던의 한 투자은행 시장 전략 담당 책임자는 투자자들에게 다음과 같은 엄중한 경고를 전했다. 인공지능 관련 투기 열풍이 머지않아 끝날 수도 있다는 것이다.",
-      "symbol": "",
-      "sentiment_score": 0.4544,
-      "source": "insurancejournal.com",
-      "url": "https://www.insurancejournal.com/news/international/2026/10/09/888427.htm",
-      "cross_verified": true,
-      "published_at": "2026-10-09T05:05:05.000000Z"
-    },
-    {
-      "title": "India IT set for fourth year of weak growth on geopolitics, AI risks",
-      "title_ko": "지정학적 요인과 AI 관련 리스크로 인해 인도 IT 업계, 4년 연속 저성장 전망",
-      "snippet": "HCL Technologies and Tech Mahindra are next to report quarterly results, after TCS's revenue rose just 0.5% sequentially in constant currency terms.",
-      "snippet_ko": "TCS의 매출이 고정 환율 기준으로 전분기 대비 0.5% 증가에 그친 가운데, HCL 테크놀로지스와 테크 마힌드라가 다음으로 분기 실적을 발표할 예정이다.",
-      "symbol": "",
-      "sentiment_score": -0.0122,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/industry/infotech/ai-impact-on-it-sector-quarterly-results-11791520593653.html",
-      "cross_verified": true,
-      "published_at": "2026-10-09T05:00:51.000000Z"
-    },
-    {
-      "title": "Donnelley Financial: Q3 2026 Could Be Weak, Downgrade To Hold (NYSE:DFIN)",
-      "title_ko": "도넬리 파이낸셜: 2026년 3분기 실적 부진 예상, 투자 등급을 ‘보유(Hold)’로 하향 조정 (NYSE:DFIN)",
-      "snippet": "Donnelley Financial is downgraded to Hold as an IPO/M&A slowdown may pressure 3Q26 earnings. Click here to read my most recent analysis of the DFIN stock.",
-      "snippet_ko": "도넬리 파이낸셜(Donnelley Financial)은 기업공개(IPO) 및 인수합병(M&A) 둔화로 인해 2026년 3분기 실적에 압박이 가해질 수 있어 투자 등급이 ‘보유(Hold)’로 하향 조정되었습니다. DFIN 주식에 대한 저의 최신 분석을 보시려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.086,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4952924-donnelley-financial-q3-2026-could-be-weak-downgrade-to-hold",
-      "cross_verified": true,
-      "published_at": "2026-10-08T22:26:54.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Tenstorrent secures $1.5 billion USD at $6.2-billion valuation to challenge GPU dominance",
+      "title_ko": "텐스토렌트, GPU 시장의 지배력에 도전하기 위해 기업 가치 62억 달러 기준으로 15억 달러 투자 유치",
+      "snippet": "Canadian-founded, US-based AI hardware company Tenstorrent announced it has closed $1.5 billion USD in Series E funding to fuel its global expansion plans.",
+      "snippet_ko": "캐나다에서 설립되어 미국에 본사를 둔 AI 하드웨어 기업 텐스토렌트(Tenstorrent)는 글로벌 확장 계획을 추진하기 위해 15억 달러 규모의 시리즈 E 투자 유치를 완료했다고 발표했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4409,
+      "source": "betakit.com",
+      "url": "https://betakit.com/tenstorrent-secures-1-5-billion-usd-at-6-2-billion-valuation-to-challenge-gpu-dominance/",
+      "cross_verified": true,
+      "published_at": "2026-10-19T12:10:52.000000Z"
+    },
+    {
+      "title": "MRK DCF Analysis: Intrinsic Value $43 vs Price $146",
+      "title_ko": "MRK DCF 분석: 내재가치 43달러 대 주가 146달러",
+      "snippet": "On October 19, 2026, we conducted a DCF analysis for Merck & Co Inc (MRK), a company that has shown impressive price performance over the past year, with a 79.0",
+      "snippet_ko": "2026년 10월 19일, 우리는 지난 1년간 79.0%의 인상적인 주가 상승률을 기록한 머크 앤 컴퍼니(Merck & Co Inc, MRK)에 대한 DCF 분석을 실시했습니다.",
+      "symbol": "MRK",
+      "sentiment_score": 0.6432,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9129424/mrk-dcf-analysis-intrinsic-value-43-vs-price-146",
+      "cross_verified": true,
+      "published_at": "2026-10-19T12:10:08.000000Z"
+    },
+    {
+      "title": "Is AVGO Overvalued? DCF Says Worth $225",
+      "title_ko": "AVGO는 과대평가되었을까? DCF 분석에 따르면 주가는 225달러 수준",
+      "snippet": "On October 19, 2026, we delve into the DCF analysis for Broadcom Inc (AVGO), a company that has seen a decline in its stock price performance recently. Over the",
+      "snippet_ko": "2026년 10월 19일, 최근 주가 실적이 부진한 브로드컴(Broadcom Inc, AVGO)에 대한 DCF 분석을 심층적으로 살펴봅니다. 지난",
+      "symbol": "AVGO",
+      "sentiment_score": 0.6142,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9129409/is-avgo-overvalued-dcf-says-worth-225",
+      "cross_verified": true,
+      "published_at": "2026-10-19T12:03:48.000000Z"
+    },
     {
       "title": "Outrage as Meta mistakenly suspends ‘No Kings Coalition’ Instagram account: What is this anti-Trump group?",
       "title_ko": "메타가 ‘노 킹스 코알리션’ 인스타그램 계정을 실수로 정지시키자 분노가 일고 있다: 이 반트럼프 단체는 무엇인가?",
@@ -2367,42 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/visa-v-are-bigger-client-rebates-worth-the-valuation-1848698/",
       "cross_verified": true,
       "published_at": "2026-10-11T19:02:42.000000Z"
-    },
-    {
-      "title": "SpaceX, Telecom Sell-Off, Micron's A Grades, Steve Cress Origin Story",
-      "title_ko": "스페이스X, 통신주 매도 물결, 마이크론의 A등급 실적, 스티브 크레스의 창업 이야기",
-      "snippet": "SpaceX’s $8B deal sparked selloff in major telecom stocks - but is it warranted? Why Micron Technology deserves its strong buy status. Steve Cress' origin story.",
-      "snippet_ko": "스페이스X의 80억 달러 규모 거래가 주요 통신주 매도 물결을 촉발했지만, 과연 타당한 일일까? 마이크론 테크놀로지가 ‘강력 매수’ 등급을 받을 만한 이유. 스티브 크레스의 성공 스토리.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.399,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953372-spacex-telecom-sell-off-microns-a-grades-steve-cress-origin-story",
-      "cross_verified": true,
-      "published_at": "2026-10-11T21:50:00.000000Z"
-    },
-    {
-      "title": "Broadcom fell 4.35% to $360.14. Was Thursday's drop about OpenAI, Anthropic, or both?",
-      "title_ko": "브로드컴 주가는 4.35% 하락한 360.14달러를 기록했다. 목요일의 주가 하락은 오픈AI 때문이었을까, 앤트로픽 때문이었을까, 아니면 둘 다 때문이었을까?",
-      "snippet": "Broadcom fell 4.35% to $360.14 on 8 October as OpenAI's revenue was put near $50 billion. Was Thursday's drop about OpenAI, about Anthropic, or about both?",
-      "snippet_ko": "10월 8일, 오픈AI의 매출이 500억 달러에 육박한다는 소식이 전해지면서 브로드컴 주가는 4.35% 하락한 360.14달러를 기록했다. 목요일의 주가 하락은 오픈AI 때문이었을까, 앤트로픽 때문이었을까, 아니면 둘 다 때문이었을까?",
-      "symbol": "AVGO",
-      "sentiment_score": 0.0414,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/broadcom-fell-4-35-percent-was-it-openai-anthropic-or-both/",
-      "cross_verified": true,
-      "published_at": "2026-10-11T16:08:39.000000Z"
-    },
-    {
-      "title": "Vision Capital Fund Q3 2026 Quarterly Letter",
-      "title_ko": "비전 캐피털 펀드 2026년 3분기 분기 보고서",
-      "snippet": "Vision Capital Fund's unaudited gross and net returns for Q3 2026 were +15.0% and +14.4%, respectively, versus +2.3% for the S&P 500. Read more here.",
-      "snippet_ko": "비전 캐피털 펀드의 2026년 3분기 미감사 총수익률과 순수익률은 각각 +15.0%와 +14.4%를 기록한 반면, S&P 500 지수의 수익률은 +2.3%를 기록했습니다. 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.2521,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953355-vision-capital-fund-q3-2026-quarterly-letter",
-      "cross_verified": true,
-      "published_at": "2026-10-11T15:44:00.000000Z"
     }
   ]
 }
