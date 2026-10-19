@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-18T22:20:05.697775+00:00",
+  "updated_at": "2026-10-19T04:10:54.847563+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "‘Keep expectations low’: Anand Mahindra’s nostalgic post about visiting Rishikesh gets mixed response on social media",
+      "title_ko": "‘기대를 낮게 가져라’: 아난드 마힌드라의 리시케시 방문에 대한 향수 어린 게시물이 소셜 미디어에서 엇갈린 반응을 불러일으키고 있다",
+      "snippet": "Anand Mahindra shared nostalgic memories of Rishikesh, recalling its restaurants and hills from his filmmaking days. Social media users responded with their own memories and reflections on the changes.",
+      "snippet_ko": "아난드 마힌드라는 영화 제작 시절을 회상하며 리시케시의 식당과 언덕에 대한 향수 어린 추억을 나누었다. 이에 소셜 미디어 이용자들은 각자의 추억을 공유하고, 그곳의 변화에 대한 소감을 밝혔다.",
+      "symbol": "",
+      "sentiment_score": 0.1027,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/news/trends/keep-expectations-low-anand-mahindra-s-nostalgic-post-about-visiting-rishikesh-gets-mixed-response-on-social-media-11792380379249.html",
+      "cross_verified": true,
+      "published_at": "2026-10-19T03:32:58.000000Z"
+    },
+    {
+      "title": "U-turn from regulator may be new lifeline to Indian derivatives",
+      "title_ko": "규제 당국의 정책 전환이 인도 파생상품 시장에 새로운 활로 마련될 수 있다",
+      "snippet": "The return of a stable settlement system in India's equity-derivatives market could signal a promising recovery. Following the tumultuous closure auction process introduced in August, regulators are aiming to restore order. Market players are optimistic that this newfound clarity will not only enhance trader confidence but also boost derivatives trading volumes over time.",
+      "snippet_ko": "인도 주식 파생상품 시장에 안정적인 정산 시스템이 재도입된 것은 유망한 회복의 신호일 수 있다. 지난 8월 도입된 혼란스러운 마감 경매 절차에 이어, 규제 당국은 질서를 회복하는 데 주력하고 있다. 시장 참여자들은 이러한 새로운 명확성이 트레이더들의 신뢰를 높일 뿐만 아니라, 시간이 지남에 따라 파생상품 거래량도 증가시킬 것이라고 낙관하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.6597,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/u-turn-from-regulator-may-be-new-lifeline-to-indian-derivatives/articleshow/135038625.cms",
+      "cross_verified": true,
+      "published_at": "2026-10-19T03:17:36.000000Z"
+    },
+    {
+      "title": "Victoria’s Secret Fashion Show 2026: Bella Hadid’s runway look, KATSEYE’s performance and all the models who walked",
+      "title_ko": "2026 빅토리아 시크릿 패션쇼: 벨라 하디드의 런웨이 룩, KATSEYE의 공연, 그리고 런웨이를 밟은 모든 모델들",
+      "snippet": "Hadid walked the Victorias Secret Fashion Show runway on October 18, joining her sister Gigi Hadid, Adriana Lima and other top models in California. The 2026 event featured floral-inspired looks, the debut of new Angel Solange Omon, and performances by KATSEYE, Megan Thee Stallion, Tate McRae and Megan Moroney.",
+      "snippet_ko": "하디드는 10월 18일 캘리포니아에서 열린 빅토리아 시크릿 패션쇼 런웨이에 올라, 언니 지기 하디드, 아드리아나 리마 및 다른 톱모델들과 함께 무대를 빛냈다. 2026년 행사에서는 꽃에서 영감을 받은 룩들이 선보였으며, 새로운 ‘엔젤’ 솔랑주 오몬의 데뷔 무대와 KATSEYE, 메건 더 스탤리온, 테이트 맥레이, 메건 모로니의 공연이 펼쳐졌다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/victorias-secret-fashion-show-2026-bella-hadids-runway-look-katseyes-performance-and-all-the-models-who-walked/articleshow/135037977.cms",
+      "cross_verified": true,
+      "published_at": "2026-10-19T03:10:47.000000Z"
+    },
     {
       "title": "United Airlines CEO Defends Fare Hikes Amid Rising Costs; UAL Stock Fairly Valued at $96.10",
       "title_ko": "유나이티드 항공 CEO, 비용 상승 속 운임 인상 옹호… UAL 주가, 96.10달러가 적정 가치",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4952924-donnelley-financial-q3-2026-could-be-weak-downgrade-to-hold",
       "cross_verified": true,
       "published_at": "2026-10-08T22:26:54.000000Z"
-    },
-    {
-      "title": "Canadian Utilities Limited 5.6 CUM2ND PF JJ declares CAD 0.35 dividend (TSX:CU.PR.K:CA)",
-      "title_ko": "캐나디안 유틸리티 리미티드(Canadian Utilities Limited) 5.6 CUM2ND PF JJ, 0.35 캐나다 달러 배당금 선언 (TSX:CU.PR.K:CA)",
-      "snippet": "Canadian Utilities Limited 5.6 CUM2ND PF JJ (CU.PR.K:CA) declares CAD 0.35/share quarterly dividend, in line with previous. Payable Dec. 1; for shareholders of",
-      "snippet_ko": "Canadian Utilities Limited 5.6 CUM2ND PF JJ (CU.PR.K:CA)는 이전과 동일한 수준인 주당 0.35 캐나다 달러의 분기 배당금을 선언했습니다. 배당금은 12월 1일에 지급되며, 해당 시점의 주주들에게",
-      "symbol": "",
-      "sentiment_score": 0.4084,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4651619-canadian-utilities-limited-5_6-cum2nd-pf-jj-declares-cad-0_35-dividend",
-      "cross_verified": true,
-      "published_at": "2026-10-08T21:53:37.000000Z"
-    },
-    {
-      "title": "Canadian Utilities Limited 4.75% 2ND PFD HH declares CAD 0.2969 dividend (TSX:CU.PR.J:CA)",
-      "title_ko": "캐나디안 유틸리티 리미티드(Canadian Utilities Limited)의 4.75% 2ND PFD HH가 0.2969 캐나다 달러의 배당금을 선언했습니다 (TSX:CU.PR.J:CA)",
-      "snippet": "Canadian Utilities Limited 4.75% 2ND PFD HH (CU.PR.J:CA) declares CAD 0.2969/share quarterly dividend, in line with previous. Payable Dec. 1; for shareholders o",
-      "snippet_ko": "Canadian Utilities Limited 4.75% 2ND PFD HH (CU.PR.J:CA)는 이전과 동일한 수준인 주당 0.2969 캐나다 달러의 분기 배당금을 선언했습니다. 배당금은 12월 1일에 지급되며, 해당 시점의 주주들에게",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4651618-canadian-utilities-limited-4_75-percent-2nd-pfd-hh-declares-cad-0_2969-dividend",
-      "cross_verified": true,
-      "published_at": "2026-10-08T21:53:17.000000Z"
-    },
-    {
-      "title": "Tesco PLC (TSCDY) Q2 2027 Sales/ Trading Statement Call - Slideshow (OTCMKTS:TSCDY) 2026-10-08",
-      "title_ko": "Tesco PLC (TSCDY) 2027년 2분기 매출/영업 실적 발표 컨퍼런스 콜 - 슬라이드쇼 (OTCMKTS:TSCDY) 2026-10-08",
-      "snippet": "2026-10-08. The following slide deck was published by Tesco PLC in conjunction with this event.",
-      "snippet_ko": "2026년 10월 8일. 다음 슬라이드 자료는 이번 행사와 관련하여 테스코 PLC에서 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4952864-tesco-plc-tscdy-q2-2027-sales-trading-statement-call-slideshow",
-      "cross_verified": true,
-      "published_at": "2026-10-08T16:33:15.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Outrage as Meta mistakenly suspends ‘No Kings Coalition’ Instagram account: What is this anti-Trump group?",
+      "title_ko": "메타가 ‘노 킹스 코알리션’ 인스타그램 계정을 실수로 정지시키자 분노가 일고 있다: 이 반트럼프 단체는 무엇인가?",
+      "snippet": "The No Kings movement’s account went dark for several hours while protests focused on increasing early voter turnout were underway, sparking censorship fears.",
+      "snippet_ko": "조기 투표 참여율 제고를 목표로 한 시위가 진행되는 동안 ‘노 킹스(No Kings)’ 운동 측의 계정이 몇 시간 동안 비활성화되면서, 검열에 대한 우려가 제기되었다.",
+      "symbol": "META",
+      "sentiment_score": -0.5719,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/news/us-news/outrage-as-meta-mistakenly-suspends-no-kings-coalition-instagram-account-what-is-this-anti-trump-group-11792372244270.html",
+      "cross_verified": true,
+      "published_at": "2026-10-19T01:21:41.000000Z"
+    },
+    {
+      "title": "Meta (META) Reports Earnings Amid Market Concerns",
+      "title_ko": "메타(META), 시장의 우려 속에서 실적 발표",
+      "snippet": "On October 18, 2026, the earnings season for tech stocks is in full swing, with Meta Platforms Inc (META) poised to report its quarterly results ahead of major",
+      "snippet_ko": "2026년 10월 18일, 기술주 실적 발표 시즌이 한창인 가운데, 메타 플랫폼스(META)가 주요 기업들보다 앞서 분기 실적을 발표할 예정입니다.",
+      "symbol": "META",
+      "sentiment_score": 0.3185,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9129115/meta-meta-reports-earnings-amid-market-concerns",
+      "cross_verified": true,
+      "published_at": "2026-10-19T01:11:33.000000Z"
+    },
+    {
+      "title": "CoreWeave, Broadcom, Verizon, Others Object to Tokenized Share Trading on OKXICE",
+      "title_ko": "코어위브, 브로드컴, 버라이즌 등, OKXICE의 토큰화 주식 거래에 반대",
+      "snippet": "Several US-listed companies have submitted formal objections that prevent tokenized versions of their shares from trading on OKXICE, a planned Tokenized",
+      "snippet_ko": "미국에 상장된 여러 기업이 자사 주식의 토큰화된 버전이 계획 중인 토큰화 거래소인 OKXICE에서 거래되는 것을 막기 위해 공식 이의를 제기했다.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.149,
+      "source": "crowdfundinsider.com",
+      "url": "https://www.crowdfundinsider.com/2026/10/319314-coreweave-broadcom-verizon-others-object-to-tokenized-share-trading-on-okxice/",
+      "cross_verified": true,
+      "published_at": "2026-10-18T21:47:50.000000Z"
+    },
     {
       "title": "Alphabet's Google Advances Quantum Computing Accuracy, GOOGL Valuation Remains Elevated",
       "title_ko": "알파벳 산하의 구글, 양자 컴퓨팅 정확도 향상… GOOGL 주가 평가액은 여전히 높은 수준",
@@ -2367,42 +2403,6 @@
       "url": "https://seekingalpha.com/article/4953355-vision-capital-fund-q3-2026-quarterly-letter",
       "cross_verified": true,
       "published_at": "2026-10-11T15:44:00.000000Z"
-    },
-    {
-      "title": "Nvidia fell 2.94 percent on Thursday 8 October 2026, to $230.48, after OpenAI’s annualized revenue was put near $50 billion. Did chip stocks, rather than the rest of the Nasdaq, account for the lag?",
-      "title_ko": "2026년 10월 8일 목요일, OpenAI의 연간 매출이 500억 달러에 육박한다는 소식이 전해진 후 엔비디아 주가는 2.94% 하락해 230.48달러를 기록했다. 나스닥의 다른 종목들보다는 반도체 관련주들이 이러한 부진의 원인이었을까?",
-      "snippet": "Nvidia fell 2.94 percent on Thursday to $230.48 after OpenAI's $50 billion revenue figure. Did chip stocks, not the rest of the Nasdaq, account for the lag?",
-      "snippet_ko": "목요일, 오픈AI의 500억 달러 매출 발표 이후 엔비디아 주가는 2.94% 하락해 230.48달러를 기록했다. 나스닥의 다른 종목들이 아닌 반도체주들이 이러한 부진의 원인이었을까?",
-      "symbol": "AAPL",
-      "sentiment_score": 0.0372,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/nvidia-fell-2-94-percent-openai-50-billion-did-chips-lag-nasdaq/",
-      "cross_verified": true,
-      "published_at": "2026-10-11T15:38:39.000000Z"
-    },
-    {
-      "title": "Flipkart's former employees petition to include 20,000-30,000 of group's ex-staff in ESOP buyout: Report",
-      "title_ko": "보도에 따르면, 플립카트 전 직원들이 그룹의 전직 직원 2만~3만 명을 ESOP 매입 대상에 포함시켜 달라고 청원했다.",
-      "snippet": "Former Flipkart executives have launched a petition to get around 20,000-30,000 other former employees of the e-commerce platform and its group companies together to push for their inclusion in the planned $2 billion ESOPs buyback.",
-      "snippet_ko": "플립카트(Flipkart)의 전 임원들이 이 전자상거래 플랫폼과 계열사의 전직 직원 약 2만~3만 명을 한데 모아, 계획된 20억 달러 규모의 ESOP(직원주식보유계획) 매입 대상에 포함될 수 있도록 촉구하기 위해 청원을 시작했습니다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.0671,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/news/flipkarts-former-employees-petition-to-include-20-000-30-000-of-groups-ex-staff-in-esop-buyout-report-11791729129614.html",
-      "cross_verified": true,
-      "published_at": "2026-10-11T15:35:54.000000Z"
-    },
-    {
-      "title": "RBI's rupee defence may drain banking liquidity, ease currency pressure",
-      "title_ko": "인도 중앙은행(RBI)의 루피화 방어 조치가 은행권의 유동성을 고갈시킬 수 있으나, 통화 압박은 완화될 전망이다",
-      "snippet": "RBI has introduced measures to curb rupee volatility, which could ease immediate depreciation pressures in the currency market. These measures include limiting foreign exchange derivative contracts and increasing hedging costs for importers. Experts predict that these actions may lead to a reduction in USD/INR rates and forward premiums. However, external factors like crude oil prices may still pose challenges.",
-      "snippet_ko": "인도 중앙은행(RBI)은 루피화 변동성을 억제하기 위한 조치를 도입했으며, 이는 외환 시장에서 당면한 통화 가치 하락 압력을 완화할 수 있을 것으로 보인다. 이러한 조치에는 외환 파생상품 계약에 대한 제한 및 수입업체의 헤지 비용 인상 등이 포함된다. 전문가들은 이러한 조치가 USD/INR 환율과 선물 프리미엄의 하락으로 이어질 수 있을 것으로 전망한다. 다만, 원유 가격과 같은 외부 요인은 여전히 변수로 작용할 수 있다.",
-      "symbol": "USD",
-      "sentiment_score": -0.1848,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbis-rupee-defence-may-drain-banking-liquidity-ease-currency-pressure/articleshow/134873258.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-11T16:01:37.000000Z"
     }
   ]
 }
