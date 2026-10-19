@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-19T19:44:56.334546+00:00",
+  "updated_at": "2026-10-19T23:30:05.631827+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Pegasystems (PEGA) Q3 Earnings Release on October 19, 2026: Valuation and Insider Trends in Focus",
+      "title_ko": "2026년 10월 19일 페가시스템즈(PEGA) 3분기 실적 발표: 기업 가치 평가와 내부자 동향에 주목",
+      "snippet": "On October 19, 2026, Pegasystems Inc (NASDAQ: PEGA) is scheduled to report its third-quarter earnings after market close. Investors and analysts will closely wa",
+      "snippet_ko": "2026년 10월 19일, 페가시스템즈(Pegasystems Inc, 나스닥: PEGA)는 장 마감 후 3분기 실적을 발표할 예정입니다. 투자자와 애널리스트들은 이를 면밀히 주시할 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.4295,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9130464/pegasystems-pega-q3-earnings-release-on-october-19-2026-valuation-and-insider-trends-in-focus",
+      "cross_verified": true,
+      "published_at": "2026-10-19T22:59:37.000000Z"
+    },
+    {
+      "title": "Western Alliance Bancorp (WAL) Q3 Earnings Beat EPS Estimates Despite Deposit Decline",
+      "title_ko": "웨스턴 얼라이언스 뱅코프(WAL), 예금 감소에도 불구하고 3분기 실적은 주당순이익(EPS) 예상치를 상회",
+      "snippet": "On October 19, 2026, Western Alliance Bancorporation (NYSE: WAL) reported third-quarter results that topped earnings per share expectations but showed mixed sig",
+      "snippet_ko": "2026년 10월 19일, 웨스턴 얼라이언스 뱅코퍼레이션(NYSE: WAL)은 주당 순이익이 시장 예상치를 상회했으나, 실적이 호불호가 엇갈린 3분기 실적을 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.1531,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9130463/western-alliance-bancorp-wal-q3-earnings-beat-eps-estimates-despite-deposit-decline",
+      "cross_verified": true,
+      "published_at": "2026-10-19T22:59:00.000000Z"
+    },
+    {
+      "title": "Tradeweb Markets (TW) Gains After Announcing $1.97B Acquisition of Trumid Holdings",
+      "title_ko": "트레이드웹 마켓츠(TW), 트루미드 홀딩스 19억 7천만 달러 인수 발표 후 주가 상승",
+      "snippet": "On October 19, 2026, Tradeweb Markets Inc (NASDAQ: TW) saw its shares rise 3.7% in after-hours trading following the announcement of its agreement to acquire Tr",
+      "snippet_ko": "2026년 10월 19일, 트레이드웹 마켓츠(Tradeweb Markets Inc, 나스닥: TW)는 Tr 인수를 위한 합의 체결을 발표한 후 시간외 거래에서 주가가 3.7% 상승했다.",
+      "symbol": "",
+      "sentiment_score": 0.5766,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9130461/tradeweb-markets-tw-gains-after-announcing-197b-acquisition-of-trumid-holdings",
+      "cross_verified": true,
+      "published_at": "2026-10-19T22:58:30.000000Z"
+    },
     {
       "title": "EyePoint Pharmaceuticals (EYPT) Faces Major Setback as LUCIA Trial Misses Endpoint; Stock Under Pressure",
       "title_ko": "아이포인트 파마슈티컬스(EYPT), LUCIA 임상시험이 평가 지표를 달성하지 못해 큰 차질을 빚으며 주가 하락 압력 받아",
@@ -1165,45 +1201,45 @@
       "url": "https://www.manilatimes.net/2026/10/10/business/foreign-business/wall-street-finishes-its-record-setting-week-with-gains/2442983",
       "cross_verified": true,
       "published_at": "2026-10-10T02:35:25.000000Z"
-    },
-    {
-      "title": "Fabrinet: The AI Infrastructure Opportunity Is Bigger Than Valuation Suggests (NYSE:FN)",
-      "title_ko": "파브리넷: AI 인프라 시장의 성장 잠재력은 현재 기업 가치 평가가 시사하는 것보다 훨씬 크다 (NYSE:FN)",
-      "snippet": "Fabrinet gets a Strong Buy rating, as its growing role in AI optical networking, DCI, and HPC could drive strong earnings growth through 2028. Read more on FN.",
-      "snippet_ko": "파브리넷(Fabrinet)은 AI 광네트워크, DCI 및 HPC 분야에서 점차 확대되는 입지 덕분에 2028년까지 강력한 실적 성장을 이끌어낼 것으로 예상되어 ‘강력 매수(Strong Buy)’ 등급을 받았습니다. FN에서 자세한 내용을 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.4215,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953182-fabrinet-the-ai-infrastructure-opportunity-is-bigger-than-valuation-suggests",
-      "cross_verified": true,
-      "published_at": "2026-10-09T22:05:43.000000Z"
-    },
-    {
-      "title": "Walmart recalls 4.4 million grill brushes over serious injury risk",
-      "title_ko": "월마트, 심각한 부상 위험으로 440만 개의 그릴 청소용 솔 리콜",
-      "snippet": "Walmart is recalling nearly 4.5 million Expert Grill brushes over concerns that metal bristles could break off, stick to food and cause serious internal injuries",
-      "snippet_ko": "월마트는 금속 브러시 모가 부러져 음식물에 달라붙어 심각한 내부 부상을 초래할 수 있다는 우려로, 약 450만 개의 ‘Expert Grill’ 브러시를 리콜하고 있습니다.",
-      "symbol": "",
-      "sentiment_score": -0.069,
-      "source": "video.foxbusiness.com",
-      "url": "https://www.foxbusiness.com/lifestyle/walmart-recalls-4-4-million-grill-brushes-over-serious-injury-risk",
-      "cross_verified": true,
-      "published_at": "2026-10-09T22:03:38.000000Z"
-    },
-    {
-      "title": "Zeta Global: An AI Comeback Story, Accelerating Organic Growth Amid M&A (NYSE:ZETA)",
-      "title_ko": "제타 글로벌: AI의 재도약 이야기, M&A 속에서도 유기적 성장을 가속화하다 (NYSE:ZETA)",
-      "snippet": "Zeta Global stock surges 62% YTD on beat-and-raise earnings, AI partnerships, and bullish technicals. Click to read more about the ZETA stock.",
-      "snippet_ko": "제타 글로벌(Zeta Global) 주가는 시장 예상을 상회한 실적 발표와 실적 전망 상향 조정, AI 파트너십 체결, 그리고 긍정적인 기술적 지표에 힘입어 연초 대비 62% 급등했습니다. ZETA 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.0659,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953152-zeta-global-an-ai-comeback-story-accelerating-organic-growth-amid-m-and-a-downgrade",
-      "cross_verified": true,
-      "published_at": "2026-10-09T18:57:37.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Jim Cramer says don't chase the AI rebound just yet. Here's what needs to happen first",
+      "title_ko": "짐 크레이머는 아직 AI 관련 종목의 반등을 쫓아서는 안 된다고 말합니다. 먼저 이런 일이 일어나야 합니다.",
+      "snippet": "CNBC’s Jim Cramer warned investors against rushing back into AI stocks quite yet.",
+      "snippet_ko": "CNBC의 짐 크레이머는 투자자들에게 아직은 서둘러 AI 관련주에 다시 투자하지 말라고 경고했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.6962,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/19/jim-cramer-dont-chase-ai-rebound-yet.html",
+      "cross_verified": true,
+      "published_at": "2026-10-19T22:46:33.000000Z"
+    },
+    {
+      "title": "Is Amazon.com Inc (AMZN) Overvalued After 5.0% Rally? GF Value Says Overvalued",
+      "title_ko": "5.0% 상승세를 보인 후 아마존닷컴(AMZN)의 주가가 과대평가된 것일까? GF 밸류는 과대평가되었다고 분석한다",
+      "snippet": "On October 19, 2026, Amazon.com Inc (AMZN) shares rose 5.0% to $262.45, reflecting a robust performance within its 52-week range of $196.00 to $287.20. This rec",
+      "snippet_ko": "2026년 10월 19일, 아마존닷컴(Amazon.com Inc, AMZN) 주가는 5.0% 상승한 262.45달러를 기록했으며, 이는 196.00달러에서 287.20달러 사이의 52주 등락폭 내에서 견조한 실적을 반영한 것이다. 이 상승세는...",
+      "symbol": "AMZN",
+      "sentiment_score": 0.7064,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9130309/is-amazoncom-inc-amzn-overvalued-after-50-rally-gf-value-says-overvalued",
+      "cross_verified": true,
+      "published_at": "2026-10-19T22:00:44.000000Z"
+    },
+    {
+      "title": "Meta Platforms (META) Prepares Earnings Release Amid AI Investment Concerns",
+      "title_ko": "메타 플랫폼스(META), AI 투자 우려 속 실적 발표 준비",
+      "snippet": "On October 19, 2026, Meta Platforms Inc (NASDAQ: META) is poised to report its latest earnings results, drawing investor attention amid ongoing debates about th",
+      "snippet_ko": "2026년 10월 19일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)가 최신 실적 보고를 앞두고 있으며, 이에 대한 논쟁이 계속되는 가운데 투자자들의 관심이 쏠리고 있다.",
+      "symbol": "META",
+      "sentiment_score": 0.6486,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9130271/meta-platforms-meta-prepares-earnings-release-amid-ai-investment-concerns",
+      "cross_verified": true,
+      "published_at": "2026-10-19T21:58:44.000000Z"
+    },
     {
       "title": "Apple Is Winning on Price, Not Units, KeyBanc Survey Suggests",
       "title_ko": "키뱅크(KeyBanc) 조사 결과, 애플은 판매량보다는 가격 경쟁에서 우위를 점하고 있는 것으로 나타났다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9119894/a-look-at-meta-platforms-inc-meta-after-34-gain-gf-value-86488-vs-price-74296",
       "cross_verified": true,
       "published_at": "2026-10-12T22:00:40.000000Z"
-    },
-    {
-      "title": "U.S. Markets Mixed as Meta Platforms (META) Gains Ahead of Bank Earnings Week",
-      "title_ko": "은행 실적 발표 주간을 앞두고 메타 플랫폼스(META)가 상승세를 보이면서 미국 증시는 혼조세를 보였습니다.",
-      "snippet": "On October 12, 2026, major U.S. stock indices closed mixed amid investor caution ahead of a critical week featuring bank earnings reports and inflation data. Me",
-      "snippet_ko": "2026년 10월 12일, 은행 실적 발표와 인플레이션 지표가 예정된 중요한 한 주를 앞두고 투자자들의 신중한 태도가 이어지면서 미국의 주요 주가지수는 혼조세를 보이며 장을 마감했다. 나",
-      "symbol": "META",
-      "sentiment_score": 0.549,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9119828/us-markets-mixed-as-meta-platforms-meta-gains-ahead-of-bank-earnings-week",
-      "cross_verified": true,
-      "published_at": "2026-10-12T21:58:26.000000Z"
-    },
-    {
-      "title": "Google (GOOG) Leads AI Model Race with 70% Odds on Polymarket as October Ends",
-      "title_ko": "10월이 끝나는 시점에서 구글(GOOG)이 폴리마켓에서 70%의 승률을 기록하며 AI 모델 경쟁을 주도하고 있다",
-      "snippet": "On October 12, 2026, Google (GOOG) commands a dominant 70% probability on the prediction market Polymarket to have the leading AI model by the end of October, o",
-      "snippet_ko": "2026년 10월 12일 현재, 예측 시장인 폴리마켓(Polymarket)에서 구글(GOOG)이 10월 말까지 최고의 AI 모델을 보유할 확률이 70%로 압도적인 우위를 차지하고 있으며, o",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3818,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9119819/google-goog-leads-ai-model-race-with-70-odds-on-polymarket-as-october-ends",
-      "cross_verified": true,
-      "published_at": "2026-10-12T21:55:24.000000Z"
-    },
-    {
-      "title": "Flo Health and Google Health Partner to Enhance Women's Health Solutions (GOOG)",
-      "title_ko": "플로 헬스(Flo Health)와 구글 헬스(Google Health), 여성 건강 솔루션 강화를 위해 협력 (GOOG)",
-      "snippet": "On October 12, 2026, Alphabet Inc (ticker: GOOG) announced a long-term collaboration with Flo Health, including a strategic investment aimed at advancing person",
-      "snippet_ko": "2026년 10월 12일, 알파벳(Alphabet Inc, 티커: GOOG)은 Flo Health와의 장기적인 협력 관계를 발표했으며, 여기에는 개인 건강 관리 발전을 목표로 한 전략적 투자도 포함되었습니다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2204,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9119200/flo-health-and-google-health-partner-to-enhance-womens-health-solutions-goog",
-      "cross_verified": true,
-      "published_at": "2026-10-12T14:59:54.000000Z"
     }
   ]
 }
