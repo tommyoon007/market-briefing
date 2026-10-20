@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-19T23:30:05.631827+00:00",
+  "updated_at": "2026-10-20T04:23:20.608473+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Q3 2026 ServisFirst Bancshares Inc Earnings Call Transcript",
+      "title_ko": "2026년 3분기 ServisFirst Bancshares Inc 실적 발표 전화 회의 기록",
+      "snippet": "Oct 19, 2026 / 09:15PM GMTOperator Greetings. Welcome to the ServisFirst Bancshares third quarter earnings call. (Operator Instructions) Please note this confer",
+      "snippet_ko": "2026년 10월 19일 / 오후 9시 15분 (GMT) 사회자: 안녕하십니까. ServisFirst Bancshares의 3분기 실적 발표 전화 회의에 오신 것을 환영합니다. (사회자 안내) 본 회의는",
+      "symbol": "",
+      "sentiment_score": 0.4062,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9130821/q3-2026-servisfirst-bancshares-inc-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-20T04:00:09.000000Z"
+    },
     {
       "title": "Pegasystems (PEGA) Q3 Earnings Release on October 19, 2026: Valuation and Insider Trends in Focus",
       "title_ko": "2026년 10월 19일 페가시스템즈(PEGA) 3분기 실적 발표: 기업 가치 평가와 내부자 동향에 주목",
@@ -1189,21 +1201,69 @@
       "url": "https://seekingalpha.com/article/4953194-graco-is-too-expensive-for-optimism",
       "cross_verified": true,
       "published_at": "2026-10-10T02:42:45.000000Z"
-    },
-    {
-      "title": "Wall Street finishes its record-setting week with gains",
-      "title_ko": "월가, 사상 최고치를 기록한 한 주를 상승세로 마감했다",
-      "snippet": "NEW YORK — The US stock market finished its record-setting week with gains on Friday, even as other financial markets remained indecisive.",
-      "snippet_ko": "뉴욕 — 다른 금융시장이 여전히 등락을 거듭하는 가운데, 미국 증시는 금요일 상승세로 마감하며 사상 최고치를 경신한 한 주를 마무리했다.",
-      "symbol": "",
-      "sentiment_score": -0.5,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/10/business/foreign-business/wall-street-finishes-its-record-setting-week-with-gains/2442983",
-      "cross_verified": true,
-      "published_at": "2026-10-10T02:35:25.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Global Market Today: Asian stocks decline in break from US chip rally",
+      "title_ko": "오늘의 세계 시장: 미국 반도체주 강세와 달리 아시아 증시 하락",
+      "snippet": "Losses were led by a more than 2% drop in South Koreas Kospi Index — a bellwether for artificial intelligence investments — as chip heavyweight SK Hynix Inc. headed for its lowest close since April. Data-center infrastructure company Elice Inc. plunged as much as 32% in its trading debut in Seoul.",
+      "snippet_ko": "인공지능 투자의 선행 지표로 꼽히는 한국의 코스피 지수가 2% 이상 하락하며 시장 하락을 주도했는데, 이는 반도체 업계의 거물인 SK하이닉스가 4월 이후 최저 종가를 기록했기 때문이다. 데이터센터 인프라 기업인 엘리스는 서울 증시 상장 첫날 주가가 한때 32%나 급락했다.",
+      "symbol": "META",
+      "sentiment_score": 0.6581,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-decline-in-break-from-us-chip-rally/articleshow/135059346.cms",
+      "cross_verified": true,
+      "published_at": "2026-10-20T01:31:55.000000Z"
+    },
+    {
+      "title": "Broadcom to Advance NTT DOCOMO’s Private Cloud with VMware Cloud Foundation",
+      "title_ko": "브로드컴, VMware Cloud Foundation을 통해 NTT 도코모의 프라이빗 클라우드 발전 지원",
+      "snippet": "Company’s First 10-year VMware Software Agreement in Japan Strengthens Infrastructure Resilience and Lays the Foundation for Next-generation Services",
+      "snippet_ko": "일본에서 체결된 회사 최초의 10년짜리 VMware 소프트웨어 계약으로 인프라 복원력을 강화하고 차세대 서비스를 위한 기반을 마련했다",
+      "symbol": "AVGO",
+      "sentiment_score": 0.4081,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/20/tmt-newswire/globenewswire/broadcom-to-advance-ntt-docomos-private-cloud-with-vmware-cloud-foundation/2449263",
+      "cross_verified": true,
+      "published_at": "2026-10-20T01:21:00.000000Z"
+    },
+    {
+      "title": "Waymo Expands Fleet to 20,000 Vehicles with $5 Billion Funding",
+      "title_ko": "웨이모, 50억 달러 자금 조달로 차량 대수를 2만 대로 확대",
+      "snippet": "On October 19, 2026, Waymo, the autonomous driving division of Alphabet Inc. (GOOGL), announced plans to expand its fleet from 4,000 to 20,000 vehicles by the e",
+      "snippet_ko": "2026년 10월 19일, 알파벳(Alphabet Inc., GOOGL)의 자율주행 사업부인 웨이모(Waymo)는 올해 말까지 차량 대수를 4,000대에서 20,000대로 확대할 계획을 발표했습니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.4135,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9130716/waymo-expands-fleet-to-20000-vehicles-with-5-billion-funding",
+      "cross_verified": true,
+      "published_at": "2026-10-20T01:10:42.000000Z"
+    },
+    {
+      "title": "Tesla (TSLA) Set to Release Q3 2026 Earnings Amidst Mixed Analyst Views",
+      "title_ko": "테슬라(TSLA), 애널리스트들의 엇갈린 전망 속 2026년 3분기 실적 발표 예정",
+      "snippet": "On October 19, 2026, Tesla Inc (TSLA) is set to release its Q3 2026 earnings report after the market closes. Analysts are keen to see if the company can reverse",
+      "snippet_ko": "2026년 10월 19일, 테슬라(TSLA)는 장 마감 후 2026년 3분기 실적 보고서를 발표할 예정이다. 애널리스트들은 이 회사가 반등할 수 있을지 주목하고 있다.",
+      "symbol": "TSLA",
+      "sentiment_score": 0.1955,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9130823/tesla-tsla-set-to-release-q3-2026-earnings-amidst-mixed-analyst-views",
+      "cross_verified": true,
+      "published_at": "2026-10-20T04:00:53.000000Z"
+    },
+    {
+      "title": "Chip Stocks Rebound Amid AI Spending Concerns: MU, NVDA, and More",
+      "title_ko": "AI 투자 우려 속 반도체주 반등: MU, NVDA 등",
+      "snippet": "On October 19, 2026, investors are reassessing the sustainability of AI spending after a period of heavy selling pressure. Chip stocks, including Micron Technol",
+      "snippet_ko": "2026년 10월 19일, 투자자들은 한동안 이어진 강력한 매도 압력 이후 AI 관련 지출의 지속 가능성을 재평가하고 있다. 마이크론 테크놀로지를 비롯한 반도체 관련주들은",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0987,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9130822/chip-stocks-rebound-amid-ai-spending-concerns-mu-nvda-and-more",
+      "cross_verified": true,
+      "published_at": "2026-10-20T04:00:28.000000Z"
+    },
     {
       "title": "Jim Cramer says don't chase the AI rebound just yet. Here's what needs to happen first",
       "title_ko": "짐 크레이머는 아직 AI 관련 종목의 반등을 쫓아서는 안 된다고 말합니다. 먼저 이런 일이 일어나야 합니다.",
@@ -2343,66 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9121054/googles-tpu-v9-chip-delay-pushes-shipments-to-2028-impacting-googs-growth-timeline",
       "cross_verified": true,
       "published_at": "2026-10-13T15:03:46.000000Z"
-    },
-    {
-      "title": "Marvell Technology Joins Open Compute Project to Boost Data Center Security (MRVL)",
-      "title_ko": "마벨 테크놀로지, 데이터 센터 보안 강화를 위해 오픈 컴퓨트 프로젝트에 합류 (MRVL)",
-      "snippet": "On October 13, 2026, Marvell Technology Inc (NASDAQ: MRVL) announced its collaboration with Microsoft and Oracle to form a working group within the Open Compute",
-      "snippet_ko": "2026년 10월 13일, 마벨 테크놀로지(Marvell Technology Inc, 나스닥: MRVL)는 마이크로소프트 및 오라클과 협력하여 오픈 컴퓨트(Open Compute) 내에 실무 그룹을 구성한다고 발표했다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.2797,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9121051/marvell-technology-joins-open-compute-project-to-boost-data-center-security-mrvl",
-      "cross_verified": true,
-      "published_at": "2026-10-13T15:02:33.000000Z"
-    },
-    {
-      "title": "Rs 26,340 crore added in minutes! Why HCL Tech, TCS and other IT stocks rallied up to 7%",
-      "title_ko": "단 몇 분 만에 2,634억 루피가 증가! HCL 테크, TCS 등 IT주들이 최대 7% 급등한 이유",
-      "snippet": "Indian IT stocks rallied up to 7%, with the Nifty IT index gaining 3.3%, as concerns over rising AI investment costs and uncertain returns rattled global technology stocks. Broadcom and Intel executives flagged capital constraints, prompting investors to reassess the AI boom. Separately, OpenAI told investors its September annualised revenue was nearly $50 billion, below its earlier indicated figure of $70 billion.",
-      "snippet_ko": "인공지능(AI) 투자 비용 증가와 불확실한 수익에 대한 우려가 전 세계 기술주 시장을 뒤흔들면서, 인도 IT 주가는 최대 7%까지 급등했고, 니프티 IT 지수는 3.3% 상승했다. 브로드컴과 인텔의 경영진이 자본 제약 문제를 제기하자, 투자자들은 AI 붐에 대해 재평가에 나섰다. 이와 별개로, 오픈AI는 투자자들에게 9월 연간 환산 매출이 500억 달러에 육박했으나, 이는 앞서 제시했던 700억 달러보다 낮은 수치라고 밝혔다.",
-      "symbol": "AVGO",
-      "sentiment_score": -0.2732,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-26340-crore-added-in-minutes-why-hcl-tech-tcs-and-other-it-stocks-rallied-up-to-7/articleshow/134908567.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-13T05:00:29.000000Z"
-    },
-    {
-      "title": "FSSAI to tighten grip on $80 billion online market",
-      "title_ko": "FSSAI, 800억 달러 규모의 온라인 시장에 대한 규제를 강화할 예정",
-      "snippet": "FSSAI tightens online food rules, demanding expiry dates, batch numbers, photos of dark kitchens, and platform accountability amid crackdown on misbranding and unsafe practices.",
-      "snippet_ko": "FSSAI는 허위 표시 및 안전하지 않은 관행에 대한 단속을 강화하는 가운데, 온라인 식품 규정을 강화하여 유통기한, 로트 번호, ‘다크 키친’ 사진 제공을 의무화하고 플랫폼의 책임 이행을 요구하고 있다.",
-      "symbol": "AMZN",
-      "sentiment_score": -0.1698,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/companies/fssai-to-tighten-grip-on-80-billion-online-market/article71577824.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-13T04:59:59.000000Z"
-    },
-    {
-      "title": "Blinkit, Instamart and Amazon Now to face stricter rules? FSSAI says ‘trying to tighten, make accountable’",
-      "title_ko": "블링크잇, 인스타마트, 아마존 나우, 더 엄격한 규제를 받게 될까? FSSAI는 “규제를 강화하고 책임성을 높이려 하고 있다”고 밝혔다.",
-      "snippet": "India’s food regulator FSSAI is preparing tighter rules for quick-commerce platforms, including Blinkit, Instamart and Amazon Now, amid rising enforcement over food safety violations. Here's all we know…",
-      "snippet_ko": "인도 식품 규제 기관인 FSSAI는 식품 안전 위반에 대한 단속이 강화되는 가운데, 블링크잇(Blinkit), 인스타마트(Instamart), 아마존 나우(Amazon Now) 등을 포함한 퀵커머스 플랫폼을 대상으로 더 엄격한 규정을 마련하고 있습니다. 현재까지 알려진 내용은 다음과 같습니다…",
-      "symbol": "AMZN",
-      "sentiment_score": -0.1698,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/news/blinkit-instamart-and-amazon-now-to-face-stricter-rules-fssai-says-trying-to-tighten-make-accountable-11791865938042.html",
-      "cross_verified": true,
-      "published_at": "2026-10-13T04:57:36.000000Z"
-    },
-    {
-      "title": "A Look at Meta Platforms Inc (META) After 3.4% Gain -- GF Value $864.88 vs Price $742.96",
-      "title_ko": "3.4% 상승한 메타 플랫폼스(META) 현황 살펴보기 — GF 가치 $864.88 vs 시가 $742.96",
-      "snippet": "On October 12, 2026, Meta Platforms Inc (META) shares rose 3.4%, bringing the current price to $742.96. The stock has traded within a 52-week range of $520.26 t",
-      "snippet_ko": "2026년 10월 12일, 메타 플랫폼스(META) 주가는 3.4% 상승하여 현재 주가는 742.96달러를 기록했습니다. 이 주식은 지난 52주 동안 520.26달러에서",
-      "symbol": "META",
-      "sentiment_score": 0.6226,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9119894/a-look-at-meta-platforms-inc-meta-after-34-gain-gf-value-86488-vs-price-74296",
-      "cross_verified": true,
-      "published_at": "2026-10-12T22:00:40.000000Z"
     }
   ]
 }
