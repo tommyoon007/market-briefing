@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-20T16:40:56.891929+00:00",
+  "updated_at": "2026-10-20T21:27:19.737812+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "JPMorgan invests $5B in companies critical to US national security",
+      "title_ko": "JPMorgan, 미국 국가 안보에 핵심적인 기업에 50억 달러 투자",
+      "snippet": "JPMorgan Chase invested $5 billion in companies underpinning U.S. national security, supporting defense technology, critical minerals, cybersecurity, AI and quantum computing.",
+      "snippet_ko": "JPMorgan Chase는 미국의 국가 안보를 뒷받침하는 기업들에 50억 달러를 투자하여 방위 기술, 핵심 광물, 사이버 보안, 인공지능 및 양자 컴퓨팅 분야를 지원했다.",
+      "symbol": "",
+      "sentiment_score": 0.713,
+      "source": "foxbusiness.com",
+      "url": "https://www.foxbusiness.com/economy/jpmorgan-invests-5b-companies-critical-us-national-security",
+      "cross_verified": true,
+      "published_at": "2026-10-20T20:59:39.000000Z"
+    },
+    {
+      "title": "M&T Bank Corporation FIX TO FLT PFD H declares $0.3515 dividend (NYSE:MTB.PR.H)",
+      "title_ko": "M&T Bank Corporation의 FIX TO FLT PFD H가 0.3515달러의 배당금을 선언했습니다 (NYSE:MTB.PR.H)",
+      "snippet": "M&T Bank’s MTB.PR.H preferred declares a $0.3515 quarterly dividend. See key dates, yield, and dividend charts—check if you qualify before Dec.",
+      "snippet_ko": "M&T Bank의 MTB.PR.H 우선주는 분기 배당금으로 0.3515달러를 지급한다고 발표했습니다. 주요 일정, 수익률 및 배당금 차트를 확인해 보시고, 12월 이전에 배당금 수령 자격이 되는지 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4654956-m-and-t-bank-corporation-fix-to-flt-pfd-h-declares-0_3515-dividend",
+      "cross_verified": true,
+      "published_at": "2026-10-20T20:55:52.000000Z"
+    },
+    {
+      "title": "M&T Bank Corporation 7.5% DEP SHS J declares $0.4688 dividend (NYSE:MTB.PR.J)",
+      "title_ko": "M&T Bank Corporation의 7.5% DEP SHS J가 0.4688달러의 배당금을 선언했습니다 (NYSE:MTB.PR.J)",
+      "snippet": "M&T Bank (MTB.PR.J) declares $0.4688 quarterly dividend with 7.4% forward yield; payable Dec 15, ex-div Dec 1.",
+      "snippet_ko": "M&T Bank(MTB.PR.J)는 분기 배당금으로 0.4688달러를 선언했으며, 예상 배당수익률은 7.4%입니다. 배당금은 12월 15일에 지급되며, 배당락일은 12월 1일입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4654954-m-and-t-bank-corporation-7_5-percent-dep-shs-j-declares-0_4688-dividend",
+      "cross_verified": true,
+      "published_at": "2026-10-20T20:55:13.000000Z"
+    },
     {
       "title": "Wall Street Lunch: UAL CEO Says Private Jet Crowd Should Pay More Tax (undefined:UAL)",
       "title_ko": "월스트리트 런치: UAL CEO, 개인 제트기 이용객은 세금을 더 내야 한다고 밝혀 (undefined:UAL)",
@@ -1165,45 +1201,45 @@
       "url": "https://www.raskmedia.com.au/2026/10/11/value-the-cba-share-price-using-its-dividend-yield-48/",
       "cross_verified": true,
       "published_at": "2026-10-10T19:40:08.000000Z"
-    },
-    {
-      "title": "Dell (DELL) Has Outpaced the S&P 500 by a Wide Stretch. Will the AI-Fueled Run Continue?",
-      "title_ko": "델(DELL)은 S&P 500 지수를 훨씬 앞질렀다. AI에 힘입은 상승세가 계속될까?",
-      "snippet": "Much of the recent growth for Dell Technologies Inc. (NYSE:DELL) has come through hardware sales, which is a lower-margin, high-volume avenue for the overall business.",
-      "snippet_ko": "델 테크놀로지스(Dell Technologies Inc., NYSE:DELL)의 최근 성장 대부분은 하드웨어 판매를 통해 이루어졌는데, 이는 전체 사업에서 마진은 낮지만 판매량이 많은 분야입니다.",
-      "symbol": "",
-      "sentiment_score": 0.3818,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/dell-dell-has-outpaced-the-sp-500-by-a-wide-stretch-will-the-ai-fueled-run-continue-1850913/",
-      "cross_verified": true,
-      "published_at": "2026-10-10T17:40:29.000000Z"
-    },
-    {
-      "title": "The balance sheets that can throw AI ‘off’ balance",
-      "title_ko": "AI의 균형을 ‘무너뜨릴’ 수 있는 대차대조표",
-      "snippet": "Explains off-balance-sheet debt and VIEs shaping AI finance, with case studies, risks, and consolidation pitfalls for investors.",
-      "snippet_ko": "AI 금융을 주도하는 대차대조표 외 부채와 VIE(변경된 실체)에 대해 설명하며, 사례 연구, 위험 요소 및 투자자가 주의해야 할 연결 재무제표 작성 시의 함정을 다룹니다.",
-      "symbol": "",
-      "sentiment_score": 0.2553,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/portfolio/big-story/the-balance-sheets-that-can-throw-ai-off-balance/article71565147.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-10T16:36:42.000000Z"
-    },
-    {
-      "title": "Jabil: The Market Is Still Underestimating Its AI Earnings Potential (NYSE:JBL)",
-      "title_ko": "제이블: 시장은 여전히 이 회사의 AI 수익 잠재력을 과소평가하고 있다 (NYSE:JBL)",
-      "snippet": "Strong Buy thesis on Jabil (JBL): $446 price target (49% upside), AI-driven growth and margin expansion, plus undervalued PEG.",
-      "snippet_ko": "Jabil(JBL)에 대한 ‘강력 매수’ 근거: 목표주가 446달러(상승 여력 49%), AI 주도 성장 및 마진 확대, 그리고 저평가된 PEG.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953293-jabil-the-market-is-still-underestimating-its-ai-earnings-potential",
-      "cross_verified": true,
-      "published_at": "2026-10-10T16:33:04.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "MCD Maintained by Citigroup -- Price Target Lowered to $295",
+      "title_ko": "MCD, 씨티그룹이 담당 — 목표주가 295달러로 하향 조정",
+      "snippet": "McDonald's Analyst Rating Update - October 2026 On October 8, 2026, Citigroup maintained a",
+      "snippet_ko": "맥도날드 애널리스트 평가 업데이트 - 2026년 10월 2026년 10월 8일, 씨티그룹은",
+      "symbol": "MCD",
+      "sentiment_score": 0.5154,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9132439/mcd-maintained-by-citigroup-price-target-lowered-to-295",
+      "cross_verified": true,
+      "published_at": "2026-10-20T20:02:12.000000Z"
+    },
+    {
+      "title": "Arm Holdings (ARM) Shares Dip Amid Elevated Put/Call Ratio and Rising Implied Volatility",
+      "title_ko": "풋/콜 비율 상승과 내재 변동성 확대 속에 ARM 홀딩스(ARM) 주가 하락",
+      "snippet": "On October 20, 2026, Arm Holdings PLC (NASDAQ: ARM) experienced a modest pullback in its share price, declining by $4.58 to approximately $223.47. This price mo",
+      "snippet_ko": "2026년 10월 20일, Arm Holdings PLC(나스닥: ARM)의 주가는 소폭 하락하여 4.58달러 떨어진 약 223.47달러를 기록했습니다. 이 가격 변동은...",
+      "symbol": "AAPL",
+      "sentiment_score": 0.1779,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9132407/arm-holdings-arm-shares-dip-amid-elevated-putcall-ratio-and-rising-implied-volatility",
+      "cross_verified": true,
+      "published_at": "2026-10-20T19:51:28.000000Z"
+    },
+    {
+      "title": "AAPL Maintains Neutral Rating by MoffettNathanson -- Price Target Lowered to $283",
+      "title_ko": "MoffettNathanson, AAPL에 대해 ‘중립’ 등급 유지… 목표주가 283달러로 하향 조정",
+      "snippet": "Apple Inc. (AAPL) Analyst Rating Update - Overvalued Insights On October 12, 2026, MoffettNathanson maintained a Neutral rating on Apple Inc. (AAPL), adjusti",
+      "snippet_ko": "애플(AAPL) 애널리스트 평가 업데이트 - 과대평가 분석 2026년 10월 12일, 모펫나탄슨(MoffettNathanson)은 애플(AAPL)에 대한 ‘중립(Neutral)’ 평가를 유지하면서, 다음과 같이 조정했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.089,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9132392/aapl-maintains-neutral-rating-by-moffettnathanson-price-target-lowered-to-283",
+      "cross_verified": true,
+      "published_at": "2026-10-20T19:38:44.000000Z"
+    },
     {
       "title": "Intel (INTC) Seeks FCC Waiver for Foreign Robotics Amid Semiconductor Production Challenges",
       "title_ko": "인텔(INTC), 반도체 생산 난항 속 해외 로봇 기업 인수에 대한 FCC 면제 신청",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9122156/prudential-financial-inc-opens-new-position-in-neurogene-inc-ngne-with-223-million-share-purchase",
       "cross_verified": true,
       "published_at": "2026-10-14T03:32:57.000000Z"
-    },
-    {
-      "title": "Tesla: The Next Growth Engine Is Taking Shape (NASDAQ:TSLA)",
-      "title_ko": "테슬라: 차세대 성장 동력이 모습을 드러내고 있다 (나스닥:TSLA)",
-      "snippet": "Tesla's nearly 1.5 million paid FSD customers and 55% North American attach rate strengthen its software distribution opportunity. See why TSLA stock is a Buy.",
-      "snippet_ko": "테슬라의 유료 FSD 가입자 약 150만 명과 북미 지역 55%의 도입률은 소프트웨어 배포 기회를 더욱 공고히 하고 있습니다. TSLA 주식을 ‘매수’해야 하는 이유를 확인해 보세요.",
-      "symbol": "TSLA",
-      "sentiment_score": 0.5363,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953973-tesla-the-next-growth-engine-is-taking-shape",
-      "cross_verified": true,
-      "published_at": "2026-10-14T06:11:22.000000Z"
-    },
-    {
-      "title": "Apple Stock: The Biggest AI Winner Isn't Building AI (NASDAQ:AAPL)",
-      "title_ko": "애플 주가: AI 분야에서 가장 큰 수혜자는 AI를 직접 개발하지 않는 기업이다 (나스닥:AAPL)",
-      "snippet": "Apple (AAPL) is positioned as the cleanest large-cap way to benefit from AI adoption without heavy AI infrastructure costs. Read what investors may be missing.",
-      "snippet_ko": "애플(AAPL)은 막대한 AI 인프라 비용 부담 없이 AI 도입의 혜택을 누릴 수 있는 가장 효율적인 대형주 투자처로 꼽히고 있습니다. 투자자들이 간과하고 있을지도 모르는 점을 확인해 보세요.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.5223,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953938-apple-the-biggest-ai-winner-isnt-building-ai",
-      "cross_verified": true,
-      "published_at": "2026-10-14T00:12:18.000000Z"
-    },
-    {
-      "title": "Google's Gemini 4 Argon Launches Globally for Developers and Businesses",
-      "title_ko": "구글의 ‘제미니 4 아르곤’이 개발자와 기업을 대상으로 전 세계에 출시됐다",
-      "snippet": "On October 13, 2026, Google has officially launched Gemini 4 Argon for developers and enterprises, making it accessible through AI Studio and the Gemini platfor",
-      "snippet_ko": "2026년 10월 13일, 구글은 개발자와 기업을 대상으로 ‘Gemini 4 Argon’을 공식 출시했으며, AI Studio와 Gemini 플랫폼을 통해 이 서비스를 이용할 수 있게 되었습니다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.1923,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9121973/googles-gemini-4-argon-launches-globally-for-developers-and-businesses",
-      "cross_verified": true,
-      "published_at": "2026-10-13T23:51:01.000000Z"
     }
   ]
 }
