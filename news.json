@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-20T04:23:20.608473+00:00",
+  "updated_at": "2026-10-20T11:16:19.115372+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Mercantile Bank (MBWM) Q3 Earnings Beat Expectations, Highlighting Dividend Sustainability",
+      "title_ko": "머컨타일 은행(MBWM), 3분기 실적 예상치 상회…배당 지속 가능성 부각",
+      "snippet": "On October 20, 2026, Mercantile Bank Corp (MBWM) reported third-quarter non-GAAP earnings per share of $1.42, surpassing analyst estimates by $0.07. The bank's",
+      "snippet_ko": "2026년 10월 20일, 머컨타일 뱅크 코퍼레이션(MBWM)은 3분기 비GAAP 주당 순이익이 1.42달러를 기록해 애널리스트들의 예상치를 0.07달러 상회했다고 발표했다. 이 은행의",
+      "symbol": "",
+      "sentiment_score": 0.5848,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9131181/mercantile-bank-mbwm-q3-earnings-beat-expectations-highlighting-dividend-sustainability",
+      "cross_verified": true,
+      "published_at": "2026-10-20T10:56:00.000000Z"
+    },
+    {
+      "title": "3M (MMM) Shares Rise on Expanded Amazon Deal and Optical Manufacturing Stake",
+      "title_ko": "3M(MMM) 주가, 아마존과의 계약 확대 및 광학 제조 부문 지분 확보 소식에 상승",
+      "snippet": "On October 20, 2026, 3M Co (NYSE: MMM) shares gained 4% following the announcement of an expanded agreement to supply optical connectivity and data center hardw",
+      "snippet_ko": "2026년 10월 20일, 3M Co(NYSE: MMM)는 광학 연결 및 데이터 센터 하드웨어 공급 계약을 확대한다는 발표에 힘입어 주가가 4% 상승했다.",
+      "symbol": "",
+      "sentiment_score": 0.6378,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9131180/3m-mmm-shares-rise-on-expanded-amazon-deal-and-optical-manufacturing-stake",
+      "cross_verified": true,
+      "published_at": "2026-10-20T10:55:41.000000Z"
+    },
+    {
+      "title": "Alberta Referendum Supports Canadian Unity; Avis Budget Group Inc (CAR) Faces Market Challenges",
+      "title_ko": "앨버타 주민투표, 캐나다의 통합 지지… 에이비스 버짓 그룹(CAR), 시장 난관에 직면",
+      "snippet": "On October 20, 2026, early results from Alberta's referendum revealed a decisive 76% of voters favor remaining part of Canada, a significant development amid na",
+      "snippet_ko": "2026년 10월 20일, 앨버타주 주민투표의 초기 개표 결과, 유권자의 76%가 캐나다에 잔류를 지지하는 것으로 나타났는데, 이는 나...",
+      "symbol": "",
+      "sentiment_score": 0.1966,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9131179/alberta-referendum-supports-canadian-unity-avis-budget-group-inc-car-faces-market-challenges",
+      "cross_verified": true,
+      "published_at": "2026-10-20T10:55:23.000000Z"
+    },
     {
       "title": "Q3 2026 ServisFirst Bancshares Inc Earnings Call Transcript",
       "title_ko": "2026년 3분기 ServisFirst Bancshares Inc 실적 발표 전화 회의 기록",
@@ -1165,45 +1201,45 @@
       "url": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
       "cross_verified": true,
       "published_at": "2026-10-10T11:00:01.000000Z"
-    },
-    {
-      "title": "What Moved Markets This Week",
-      "title_ko": "이번 주 시장을 움직인 요인",
-      "snippet": "U.S. stocks ended the trading week higher, as the Federal Reserve's meeting minutes reaffirmed a hawkish stance. Read more about this week's major events on Wall Street.",
-      "snippet_ko": "연방준비제도(Fed) 회의록에서 매파적 기조가 재확인되면서 미국 증시는 이번 주 거래를 상승세로 마감했다. 이번 주 월스트리트의 주요 소식에 대해 자세히 알아보세요.",
-      "symbol": "",
-      "sentiment_score": 0.2312,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953253-what-moved-markets-this-week",
-      "cross_verified": true,
-      "published_at": "2026-10-10T10:40:05.000000Z"
-    },
-    {
-      "title": "Glaukos Stock: The Second J-Code Rewrites The Risk Math (NYSE:GKOS)",
-      "title_ko": "글라우코스 주식: 두 번째 J-코드가 위험 계산식을 다시 정립하다 (NYSE:GKOS)",
-      "snippet": "Glaukos (GKOS) Q2 sales +50% as iDose TR & Epioxa drive 85% gross margin; 2026 guide raised. Read here for a detailed investment analysis.",
-      "snippet_ko": "글라우코스(GKOS), iDose TR 및 Epioxa가 85%의 매출총이익률을 견인하며 2분기 매출 50% 증가; 2026년 실적 전망치 상향 조정. 자세한 투자 분석은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": -0.1366,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953195-glaukos-the-second-j-code-rewrites-the-risk-math",
-      "cross_verified": true,
-      "published_at": "2026-10-10T03:42:31.000000Z"
-    },
-    {
-      "title": "Graco Stock Is Too Expensive For Optimism (NYSE:GGG)",
-      "title_ko": "그라코 주가는 낙관론에 비해 너무 비싸다 (NYSE:GGG)",
-      "snippet": "Graco (GGG) stock stays a hold as organic growth lags and valuation isn’t compelling. Read here for a detailed investment analysis.",
-      "snippet_ko": "그라코(GGG) 주식은 내재적 성장세가 부진하고 기업 가치 평가가 매력적이지 않아 ‘보유’ 등급을 유지합니다. 자세한 투자 분석은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.5423,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953194-graco-is-too-expensive-for-optimism",
-      "cross_verified": true,
-      "published_at": "2026-10-10T02:42:45.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Loop Capital Downgrades Apple (AAPL) to Hold, Cuts Price Target Amid Shipment Cuts",
+      "title_ko": "루프 캐피털, 출하량 감소 속에 애플(AAPL) 투자의견을 ‘보유’로 하향 조정하고 목표주가 인하",
+      "snippet": "On October 20, 2026, Loop Capital analyst Ananda Baruah revised the rating on Apple Inc. (NASDAQ: AAPL) from Buy to Hold and lowered the price target from $370",
+      "snippet_ko": "2026년 10월 20일, 루프 캐피털(Loop Capital)의 애널리스트 아난다 바루아(Ananda Baruah)는 애플(Apple Inc., 나스닥: AAPL)에 대한 투자의견을 ‘매수(Buy)’에서 ‘보유(Hold)’로 하향 조정하고, 목표 주가를 370달러에서 낮췄다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.0926,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9131176/loop-capital-downgrades-apple-aapl-to-hold-cuts-price-target-amid-shipment-cuts",
+      "cross_verified": true,
+      "published_at": "2026-10-20T10:50:21.000000Z"
+    },
+    {
+      "title": "Stocks sell off globally as crisis grips France and Saudi Arabia cancels ‘Davos in the Desert’",
+      "title_ko": "프랑스에 위기가 닥치고 사우디아라비아가 ‘사막의 다보스’ 행사를 취소함에 따라 전 세계 주식 시장이 급락했다.",
+      "snippet": "Traders sold off after oil hit $111 per barrel this morning, an AI IPO in South Korea lost 30% on its debut, and the yield on the French 10-year bond hit 4.94%, a level it has not seen since 2002.",
+      "snippet_ko": "오늘 아침 원유 가격이 배럴당 111달러를 기록하자 투자자들이 매도에 나섰고, 한국에서 상장한 한 AI 기업의 주가는 데뷔 첫날 30%나 급락했으며, 프랑스 10년물 국채 수익률은 2002년 이후 처음으로 4.94%를 기록했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.0175,
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/10/20/stocks-sell-off-globally-crisis-grips-france-saudi-arabia-cancels-davos-in-the-desert/",
+      "cross_verified": true,
+      "published_at": "2026-10-20T10:12:57.000000Z"
+    },
+    {
+      "title": "Mestag Therapeutics Appoints Philip Astley-Sparke and Victor Sandor, M.D.C.M., to its Board of Directors",
+      "title_ko": "메스타그 테라퓨틱스, 필립 애슬리-스파크와 빅터 샌도르(M.D.C.M.)를 이사회 이사로 선임",
+      "snippet": "-- Mr. Astley-Sparke brings more than two decades of biotech leadership, having scaled several highly innovative transatlantic companies, including Replimune, uniQure and BioVex",
+      "snippet_ko": "-- 애슬리-스파크 씨는 20년 넘게 생명공학 분야에서 리더십을 발휘해 왔으며, Replimune, uniQure, BioVex 등 혁신적인 대서양 양측 기업 여러 곳을 성장시킨 경험이 있습니다.",
+      "symbol": "MRK",
+      "sentiment_score": 0.4102,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/20/tmt-newswire/globenewswire/mestag-therapeutics-appoints-philip-astley-sparke-and-victor-sandor-mdcm-to-its-board-of-directors/2449410",
+      "cross_verified": true,
+      "published_at": "2026-10-20T07:43:16.000000Z"
+    },
     {
       "title": "Global Market Today: Asian stocks decline in break from US chip rally",
       "title_ko": "오늘의 세계 시장: 미국 반도체주 강세와 달리 아시아 증시 하락",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9121581/analyst-dan-ives-highlights-alphabets-ai-leap-with-gemini-4-argon-goog-eyes-400-target",
       "cross_verified": true,
       "published_at": "2026-10-13T20:58:40.000000Z"
-    },
-    {
-      "title": "US stocks: Nasdaq ends down as chipmakers fall and bank earnings roll in",
-      "title_ko": "미국 증시: 반도체주 하락과 은행 실적 발표 속 나스닥 지수 하락 마감",
-      "snippet": "In a recent trading session, the Nasdaq index took a hit as chip stocks continued their downward spiral, amid diverging results from major banks like Citigroup and Goldman Sachs. The PHLX chip index faced a substantial decline, sparking fears surrounding competition in this sector. Despite the turbulence, analysts express optimism about future earnings linked to AI-driven innovations.",
-      "snippet_ko": "최근 거래 세션에서 시티그룹과 골드만삭스 등 주요 은행들의 실적 발표가 엇갈리는 가운데, 반도체주들이 하락세를 이어가면서 나스닥 지수가 타격을 입었다. PHLX 반도체 지수는 큰 폭의 하락을 기록하며 해당 부문의 경쟁에 대한 우려를 불러일으켰다. 이러한 변동성에도 불구하고, 애널리스트들은 AI 기반 혁신과 연계된 향후 실적에 대해 낙관적인 전망을 내놓고 있다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.0554,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-ends-down-as-chipmakers-fall-and-bank-earnings-roll-in/articleshow/134926328.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-13T20:13:21.000000Z"
-    },
-    {
-      "title": "Google's Next TPU Just Hit a Small Snag",
-      "title_ko": "구글의 차세대 TPU에 사소한 차질이 발생했다",
-      "snippet": "Alphabet Inc. (GOOGL, Financials), the parent of Google, is facing a slight delay in the development of its next-generation TPU v9 chip after a supply-chain iss",
-      "snippet_ko": "구글의 모회사인 알파벳(Alphabet Inc., GOOGL, 금융)은 공급망 문제로 인해 차세대 TPU v9 칩 개발에 약간의 차질이 발생하고 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.0772,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9120901/googles-next-tpu-just-hit-a-small-snag",
-      "cross_verified": true,
-      "published_at": "2026-10-13T15:25:37.000000Z"
-    },
-    {
-      "title": "Google's TPU v9 Chip Delay Pushes Shipments to 2028, Impacting GOOG's Growth Timeline",
-      "title_ko": "구글의 TPU v9 칩 출시 지연으로 출하 시기가 2028년으로 미뤄지면서 GOOG의 성장 일정에 차질이 생겼다",
-      "snippet": "On October 13, 2026, GF Securities reported a delay in Google's TPU v9 chip rollout due to supply chain issues with the embedded multi-die interconnect bridge s",
-      "snippet_ko": "2026년 10월 13일, GF 증권은 내장형 멀티다이 상호연결 브리지의 공급망 문제로 인해 구글의 TPU v9 칩 출시가 지연될 것이라고 보고했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.4278,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9121054/googles-tpu-v9-chip-delay-pushes-shipments-to-2028-impacting-googs-growth-timeline",
-      "cross_verified": true,
-      "published_at": "2026-10-13T15:03:46.000000Z"
     }
   ]
 }
