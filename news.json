@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-20T11:16:19.115372+00:00",
+  "updated_at": "2026-10-20T16:40:56.891929+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Wall Street Lunch: UAL CEO Says Private Jet Crowd Should Pay More Tax (undefined:UAL)",
+      "title_ko": "월스트리트 런치: UAL CEO, 개인 제트기 이용객은 세금을 더 내야 한다고 밝혀 (undefined:UAL)",
+      "snippet": "United Airlines CEO Scott Kirby backs a national wealth tax. ‘Magic: The Gathering’ drives Hasbro beat. OpenAI races to raise $30B ahead of Anthropic IPO.",
+      "snippet_ko": "유나이티드 항공의 스콧 커비 CEO가 전국적인 부유세 도입을 지지했다. ‘매직: 더 개더링’이 해즈브로의 실적 호조를 이끌었다. 오픈AI는 앤트로픽의 기업공개(IPO)를 앞두고 300억 달러 자금 조달에 박차를 가하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.5574,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4955565-wall-street-lunch-ual-ceo-says-private-jet-crowd-should-pay-more-tax",
+      "cross_verified": true,
+      "published_at": "2026-10-20T16:05:00.000000Z"
+    },
+    {
+      "title": "Heartland Express (HTLD) Reports Q3 Results with Revenue Decline and Operating Ratio Improvement",
+      "title_ko": "하트랜드 익스프레스(HTLD), 매출 감소와 영업비율 개선이 나타난 3분기 실적 발표",
+      "snippet": "On October 20, 2026, Heartland Express Inc (NASDAQ: HTLD) released its third-quarter earnings, showing a modest GAAP EPS of $0.01 that missed analyst expectatio",
+      "snippet_ko": "2026년 10월 20일, 하트랜드 익스프레스(Heartland Express Inc, 나스닥: HTLD)는 3분기 실적을 발표했는데, GAAP 기준 주당 순이익(EPS)이 0.01달러로 소폭 증가했으나 애널리스트들의 기대치를 하회했다.",
+      "symbol": "",
+      "sentiment_score": 0.3428,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9132081/heartland-express-htld-reports-q3-results-with-revenue-decline-and-operating-ratio-improvement",
+      "cross_verified": true,
+      "published_at": "2026-10-20T16:03:25.000000Z"
+    },
+    {
+      "title": "TD Cowen Upgrades BlackRock (BLK) to Buy, Citing Strong EPS Growth Potential",
+      "title_ko": "TD 코웬, 강력한 주당순이익(EPS) 성장 잠재력을 근거로 블랙록(BLK)의 투자 등급을 ‘매수’로 상향 조정",
+      "snippet": "On October 20, 2026, TD Cowen upgraded BlackRock Inc (NYSE: BLK) from Hold to Buy, highlighting the asset manager's potential to surpass $100 in earnings per sh",
+      "snippet_ko": "2026년 10월 20일, TD 코웬은 블랙록(BlackRock Inc, NYSE: BLK)에 대한 투자의견을 ‘보유(Hold)’에서 ‘매수(Buy)’로 상향 조정하며, 이 자산운용사의 주당 순이익이 100달러를 넘어설 잠재력을 강조했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.7238,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9132080/td-cowen-upgrades-blackrock-blk-to-buy-citing-strong-eps-growth-potential",
+      "cross_verified": true,
+      "published_at": "2026-10-20T16:03:01.000000Z"
+    },
     {
       "title": "Mercantile Bank (MBWM) Q3 Earnings Beat Expectations, Highlighting Dividend Sustainability",
       "title_ko": "머컨타일 은행(MBWM), 3분기 실적 예상치 상회…배당 지속 가능성 부각",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4953293-jabil-the-market-is-still-underestimating-its-ai-earnings-potential",
       "cross_verified": true,
       "published_at": "2026-10-10T16:33:04.000000Z"
-    },
-    {
-      "title": "CME Group: I Missed The Best Entry (NASDAQ:CME)",
-      "title_ko": "CME 그룹: 최고의 매수 시점을 놓쳤다 (NASDAQ:CME)",
-      "snippet": "CME’s (CME) core business remains strong, with Q3 ADV up 16% YoY and international ADV up 22%.",
-      "snippet_ko": "CME(CME)의 핵심 사업은 여전히 견조한 모습을 보이고 있으며, 3분기 일평균 거래량(ADV)은 전년 동기 대비 16% 증가했고, 해외 일평균 거래량(ADV)은 22% 증가했습니다.",
-      "symbol": "",
-      "sentiment_score": 0.4588,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953288-cme-group-i-missed-the-best-entry",
-      "cross_verified": true,
-      "published_at": "2026-10-10T16:16:20.000000Z"
-    },
-    {
-      "title": "Union Pacific Stock: Not Too Late To Buy Now (NYSE:UNP)",
-      "title_ko": "유니온 퍼시픽 주식: 지금 매수해도 늦지 않았다 (NYSE:UNP)",
-      "snippet": "Union Pacific's total operating revenue jumped 11.5% over the year-ago period to $6.86 billion during the quarter. Read why UNP stock is a buy.",
-      "snippet_ko": "유니온 퍼시픽의 이번 분기 총 영업 수익은 전년 동기 대비 11.5% 증가한 68억 6천만 달러를 기록했습니다. UNP 주식을 매수해야 하는 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953230-union-pacific-not-too-late-to-buy-now",
-      "cross_verified": true,
-      "published_at": "2026-10-10T11:20:00.000000Z"
-    },
-    {
-      "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
-      "title_ko": "엔비디아 GPU는 어디에나 있습니다. 기업들이 이를 활용하는 방법은 다음과 같습니다.",
-      "snippet": "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year.",
-      "snippet_ko": "한 업계 연구원은 GPU 용량을 제공할 수 있는 ‘네오클라우드’를 300개 이상 파악했는데, 이는 1년도 채 되지 않는 기간 동안 약 55% 증가한 수치다.",
-      "symbol": "",
-      "sentiment_score": 0.482,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
-      "cross_verified": true,
-      "published_at": "2026-10-10T11:00:01.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Intel (INTC) Seeks FCC Waiver for Foreign Robotics Amid Semiconductor Production Challenges",
+      "title_ko": "인텔(INTC), 반도체 생산 난항 속 해외 로봇 기업 인수에 대한 FCC 면제 신청",
+      "snippet": "On October 20, 2026, Intel Corp (NASDAQ: INTC) submitted a waiver request to the U.S. Federal Communications Commission concerning the use of foreign robotics c",
+      "snippet_ko": "2026년 10월 20일, 인텔(Intel Corp, 나스닥: INTC)은 외국산 로봇 기술 사용과 관련하여 미국 연방통신위원회(FCC)에 면제 요청을 제출했다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0215,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9132037/intel-intc-seeks-fcc-waiver-for-foreign-robotics-amid-semiconductor-production-challenges",
+      "cross_verified": true,
+      "published_at": "2026-10-20T15:57:54.000000Z"
+    },
+    {
+      "title": "Google Cloud Outage Hits UK Banks and Public Services",
+      "title_ko": "구글 클라우드 서비스 중단으로 영국 은행 및 공공 서비스에 차질 발생",
+      "snippet": "Alphabet Inc. (GOOGL, Financials), the parent company of Google Cloud, was under renewed scrutiny after an outage in its London cloud area impacted banking and",
+      "snippet_ko": "구글 클라우드의 모회사인 알파벳(Alphabet Inc., GOOGL, 금융)은 런던 클라우드 지역의 서비스 중단 사태가 은행업 등에 영향을 미치면서 다시 한 번 주목을 받았다.",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.0766,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9131465/google-cloud-outage-hits-uk-banks-and-public-services",
+      "cross_verified": true,
+      "published_at": "2026-10-20T15:10:41.000000Z"
+    },
+    {
+      "title": "Broadcom (AVGO) Secures 10-Year Deal with NTT DOCOMO to Upgrade Private Cloud Infrastructure",
+      "title_ko": "브로드컴(AVGO), NTT 도코모와 프라이빗 클라우드 인프라 업그레이드를 위한 10년 계약 체결",
+      "snippet": "On October 20, 2026, Broadcom Inc (NASDAQ: AVGO) announced a landmark 10-year agreement with telecom giant NTT DOCOMO to enhance the operator's private cloud in",
+      "snippet_ko": "2026년 10월 20일, 브로드컴(Broadcom Inc, 나스닥: AVGO)은 통신 업계의 거대 기업인 NTT 도코모와 해당 통신사의 프라이빗 클라우드를 강화하기 위한 획기적인 10년 계약을 체결했다고 발표했습니다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.4844,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9131891/broadcom-avgo-secures-10year-deal-with-ntt-docomo-to-upgrade-private-cloud-infrastructure",
+      "cross_verified": true,
+      "published_at": "2026-10-20T15:00:08.000000Z"
+    },
     {
       "title": "Loop Capital Downgrades Apple (AAPL) to Hold, Cuts Price Target Amid Shipment Cuts",
       "title_ko": "루프 캐피털, 출하량 감소 속에 애플(AAPL) 투자의견을 ‘보유’로 하향 조정하고 목표주가 인하",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9121973/googles-gemini-4-argon-launches-globally-for-developers-and-businesses",
       "cross_verified": true,
       "published_at": "2026-10-13T23:51:01.000000Z"
-    },
-    {
-      "title": "Arm Holdings (ARM) Sees Modest Price Uptick Amid Elevated Options Activity",
-      "title_ko": "암 홀딩스(ARM), 옵션 거래량 증가 속에 주가가 소폭 상승",
-      "snippet": "On October 13, 2026, Arm Holdings PLC (NASDAQ: ARM) experienced a slight increase in its stock price, rising by $0.44 or 0.17% to approximately $255.68. This mo",
-      "snippet_ko": "2026년 10월 13일, Arm Holdings PLC(나스닥: ARM)의 주가는 0.44달러(0.17%) 상승하여 약 255.68달러를 기록하며 소폭 상승세를 보였다. 이 움직임은",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2617,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9121827/arm-holdings-arm-sees-modest-price-uptick-amid-elevated-options-activity",
-      "cross_verified": true,
-      "published_at": "2026-10-13T22:50:42.000000Z"
-    },
-    {
-      "title": "Applied Intuition's $30 Billion Valuation Highlights Tech Sector Momentum; Apple Inc (AAPL) Remains Modestly Overvalued",
-      "title_ko": "애플라이드 인튜이션의 300억 달러 기업가치는 기술 부문의 상승세를 여실히 보여주며, 애플(AAPL)은 여전히 소폭 과대평가된 상태다",
-      "snippet": "On October 13, 2026, Applied Intuition, a software provider for autonomous vehicles, attracted acquisition offers valuing the company at $30 billion””doubling",
-      "snippet_ko": "2026년 10월 13일, 자율주행차용 소프트웨어 제공업체인 애플라이드 인튜이션(Applied Intuition)은 기업 가치를 300억 달러로 평가하는 인수 제안을 받았으며, 이는 기존 가치의 두 배에 달하는 금액이었다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4528,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9121583/applied-intuitions-30-billion-valuation-highlights-tech-sector-momentum-apple-inc-aapl-remains-modestly-overvalued",
-      "cross_verified": true,
-      "published_at": "2026-10-13T20:59:19.000000Z"
-    },
-    {
-      "title": "Analyst Dan Ives Highlights Alphabet's AI Leap with Gemini 4 Argon; GOOG Eyes $400 Target",
-      "title_ko": "애널리스트 댄 아이브스, ‘제미니 4 아르곤’을 통해 알파벳의 AI 도약을 강조… GOOG 주가 목표가 400달러 전망",
-      "snippet": "On October 13, 2026, Yorkville Ives analyst Dan Ives expressed strong confidence in Alphabet Inc (NASDAQ: GOOG), emphasizing the company's strategic shift towar",
-      "snippet_ko": "2026년 10월 13일, 요크빌 아이브스(Yorkville Ives)의 애널리스트 댄 아이브스(Dan Ives)는 알파벳(Alphabet Inc, 나스닥: GOOG)에 대한 강한 확신을 표명하며, 해당 기업의 전략적 전환을 강조했습니다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.4691,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9121581/analyst-dan-ives-highlights-alphabets-ai-leap-with-gemini-4-argon-goog-eyes-400-target",
-      "cross_verified": true,
-      "published_at": "2026-10-13T20:58:40.000000Z"
     }
   ]
 }
