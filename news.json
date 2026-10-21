@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-20T21:27:19.737812+00:00",
+  "updated_at": "2026-10-21T00:29:15.814469+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Is It Too Late to Buy Itron Inc (ITRI) After 3.0% Rally? GF Value Says Undervalued",
+      "title_ko": "3.0% 상승세 이후 아이트론(ITRI) 매수는 너무 늦은 걸까? GF 밸류, “저평가됐다”고 분석",
+      "snippet": "On October 20, 2026, Itron Inc (ITRI) shares rose 3.0% today, trading at $84.62 within a 52-week range of $77.77 to $142.00. Despite this positive movement, the",
+      "snippet_ko": "2026년 10월 20일, 아이트론(Itron Inc, ITRI) 주가는 이날 3.0% 상승하여 52주 최고가 142.00달러에서 최저가 77.77달러 사이의 범위 내에서 84.62달러에 거래되었습니다. 이러한 긍정적인 움직임에도 불구하고,",
+      "symbol": "",
+      "sentiment_score": 0.6379,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9132952/is-it-too-late-to-buy-itron-inc-itri-after-30-rally-gf-value-says-undervalued",
+      "cross_verified": true,
+      "published_at": "2026-10-21T00:25:22.000000Z"
+    },
+    {
+      "title": "Apple Hospitality REIT Inc (APLE) Shares Surge 3.6% -- What GF Score of 84 Tells Investors",
+      "title_ko": "애플 호스피탈리티 REIT(APLE) 주가 3.6% 급등 -- GF 점수 84점이 투자자들에게 시사하는 바는?",
+      "snippet": "On October 20, 2026, Apple Hospitality REIT Inc (APLE) shares rose 3.6%, currently trading at $17.82. The stock has experienced significant price movement, with",
+      "snippet_ko": "2026년 10월 20일, 애플 호스피탈리티 REIT Inc(APLE)의 주가는 3.6% 상승하여 현재 17.82달러에 거래되고 있습니다. 이 주식은 상당한 가격 변동을 보였으며,",
+      "symbol": "",
+      "sentiment_score": 0.5394,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9132937/apple-hospitality-reit-inc-aple-shares-surge-36-what-gf-score-of-84-tells-investors",
+      "cross_verified": true,
+      "published_at": "2026-10-21T00:12:09.000000Z"
+    },
+    {
+      "title": "A Look at Enphase Energy Inc (ENPH) After 5.2% Gain -- GF Value $52.32 vs Price $32.23",
+      "title_ko": "5.2% 상승 후 엔페이즈 에너지(ENPH) 살펴보기 — GF 목표주가 52.32달러 vs 현재 주가 32.23달러",
+      "snippet": "On October 20, 2026, Enphase Energy Inc (ENPH) shares rose 5.2% today, currently trading at $32.23. The stock has fluctuated within a 52-week range of $25.78 to",
+      "snippet_ko": "2026년 10월 20일, 엔페이즈 에너지(Enphase Energy Inc, ENPH) 주가는 오늘 5.2% 상승하여 현재 32.23달러에 거래되고 있습니다. 이 주식은 지난 52주 동안 25.78달러에서",
+      "symbol": "",
+      "sentiment_score": 0.4911,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9132936/a-look-at-enphase-energy-inc-enph-after-52-gain-gf-value-5232-vs-price-3223",
+      "cross_verified": true,
+      "published_at": "2026-10-21T00:11:07.000000Z"
+    },
     {
       "title": "JPMorgan invests $5B in companies critical to US national security",
       "title_ko": "JPMorgan, 미국 국가 안보에 핵심적인 기업에 50억 달러 투자",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4953309-cefs-changing-its-distribution-to-12-percent-what-that-means-for-you",
       "cross_verified": true,
       "published_at": "2026-10-11T03:59:00.000000Z"
-    },
-    {
-      "title": "Once-hot AI trade leaves South Korean stocks struggling to attract buyers",
-      "title_ko": "한때 열기를 띠었던 AI 관련주 거래가 주춤해지면서 한국 증시는 매수세를 끌어모으는 데 어려움을 겪고 있다",
-      "snippet": "Turnover has collapsed 70% from its peak in late May, foreigners are retreating at the fastest pace in Asia and local retail investors are also pulling back",
-      "snippet_ko": "거래량은 5월 말 정점 대비 70%나 급감했으며, 외국인 투자자들은 아시아에서 가장 빠른 속도로 매도하고 있고, 국내 개인 투자자들도 매도세를 보이고 있다",
-      "symbol": "",
-      "sentiment_score": 0.2658,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/once-hot-ai-trade-leaves-south-korean-stocks-struggling-to-attract-buyers-126101100095_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-11T03:58:08.000000Z"
-    },
-    {
-      "title": "FCPI: Attractive Upside Potential Without Excessive Risk, Still A Buy (BATS:FCPI)",
-      "title_ko": "FCPI: 과도한 위험 없이 매력적인 상승 여력, 여전히 매수 추천 (BATS:FCPI)",
-      "snippet": "FCPI ETF is a buy: 28% cheaper forward P/E vs IWB, inflation-ready sector tilts, higher quality metrics, and lower beta downside protection—read now.",
-      "snippet_ko": "FCPI ETF는 매수 추천 종목입니다: IWB 대비 28% 더 저렴한 예상 주가수익비율(P/E), 인플레이션에 대비한 업종 편중, 더 우수한 품질 지표, 그리고 베타가 낮아 하락 위험에 대한 보호 효과가 있습니다—지금 바로 읽어보세요.",
-      "symbol": "",
-      "sentiment_score": 0.6037,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953308-fcpi-attractive-upside-potential-without-excessive-risk-still-a-buy",
-      "cross_verified": true,
-      "published_at": "2026-10-11T03:55:12.000000Z"
-    },
-    {
-      "title": "Value the CBA share price using its dividend yield",
-      "title_ko": "배당 수익률을 바탕으로 CBA 주가를 평가한다",
-      "snippet": "Is the Commonwealth Bank of Australia (ASX: CBA) share price good value? Here are 2 ways you can put a number on it.",
-      "snippet_ko": "호주 커먼웰스 은행(ASX: CBA)의 주가는 매수할 만한 가치가 있을까요? 이를 수치적으로 평가할 수 있는 두 가지 방법을 소개합니다.",
-      "symbol": "",
-      "sentiment_score": 0.9055,
-      "source": "raskmedia.com.au",
-      "url": "https://www.raskmedia.com.au/2026/10/11/value-the-cba-share-price-using-its-dividend-yield-48/",
-      "cross_verified": true,
-      "published_at": "2026-10-10T19:40:08.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "US Market Update: Major Moves in Stocks Amid Earnings Optimism",
+      "title_ko": "미국 시장 동향: 실적 호조에 힘입어 주요 종목들 큰 폭의 등락",
+      "snippet": "On October 20, 2026, the US stock market exhibited mixed performance, with the Nasdaq slightly down while the Dow Jones surged by 500 points, driven by optimist",
+      "snippet_ko": "2026년 10월 20일, 미국 증시는 혼조세를 보였는데, 나스닥은 소폭 하락한 반면 다우존스는 낙관론에 힘입어 500포인트 급등했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4988,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9132897/us-market-update-major-moves-in-stocks-amid-earnings-optimism",
+      "cross_verified": true,
+      "published_at": "2026-10-20T23:50:26.000000Z"
+    },
+    {
+      "title": "U.S. Stocks Rise Ahead of Meta Platforms (META) Earnings Report on October 21, 2026",
+      "title_ko": "2026년 10월 21일 메타 플랫폼스(META) 실적 발표를 앞두고 미국 증시 상승",
+      "snippet": "On October 20, 2026, U.S. stock indices closed mostly higher as investors positioned themselves ahead of key earnings releases, including Meta Platforms Inc (NA",
+      "snippet_ko": "2026년 10월 20일, 메타 플랫폼스(Meta Platforms Inc)를 비롯한 주요 기업들의 실적 발표를 앞두고 투자자들이 포지션을 조정함에 따라 미국 증시 지수들은 대체로 상승 마감했다(NA",
+      "symbol": "META",
+      "sentiment_score": 0.2929,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9132560/us-stocks-rise-ahead-of-meta-platforms-meta-earnings-report-on-october-21-2026",
+      "cross_verified": true,
+      "published_at": "2026-10-20T21:57:33.000000Z"
+    },
+    {
+      "title": "Tech and Semis Lead Gains as Earnings Season Intensifies: Stock Market Recap for October 20, 2026",
+      "title_ko": "실적 발표 시즌 본격화 속 기술주와 반도체주가 상승 주도: 2026년 10월 20일 주식 시장 요약",
+      "snippet": "U.S. equity markets showed resilience during Tuesday’s trading session, October 20th, 2026, as investors navigated a heavy influx of corporate earnings and",
+      "snippet_ko": "2026년 10월 20일 화요일 거래 세션에서 미국 주식 시장은 투자자들이 쏟아지는 기업 실적 발표를 헤쳐 나가는 가운데 탄력적인 모습을 보였으며,",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3839,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-semis-lead-gains-as-earnings-season-intensifies-stock-market-recap-for-october-20-2026/73330/",
+      "cross_verified": true,
+      "published_at": "2026-10-20T21:07:13.000000Z"
+    },
     {
       "title": "MCD Maintained by Citigroup -- Price Target Lowered to $295",
       "title_ko": "MCD, 씨티그룹이 담당 — 목표주가 295달러로 하향 조정",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9122837/google-empowers-european-science-with-ai-access-ticker-goog",
       "cross_verified": true,
       "published_at": "2026-10-14T11:52:07.000000Z"
-    },
-    {
-      "title": "TROOPS, Inc. Announces Landmark Merger with EFFORCE Group, Expanding into Multi-Vertical Digital Asset Infrastructure and Securing Crypto Trading",
-      "title_ko": "TROOPS, Inc., EFFORCE 그룹과의 획기적인 합병 발표… 다중 업종 디지털 자산 인프라로 사업 영역 확장 및 암호화폐 거래 시장 확보",
-      "snippet": "Merger Agreement Architects Alan Sun and Ricky Sun Appointed as Corporate Advisors to Provide Strategic Business Advice",
-      "snippet_ko": "인수합병(M&A) 전문가 앨런 선과 리키 선, 전략적 비즈니스 자문을 제공할 기업 고문으로 선임",
-      "symbol": "AAPL",
-      "sentiment_score": 0.685,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/14/tmt-newswire/media-outreach-newswire/troops-inc-announces-landmark-merger-with-efforce-group-expanding-into-multi-vertical-digital-asset-infrastructure-and-securing-crypto-trading/2445243",
-      "cross_verified": true,
-      "published_at": "2026-10-14T06:10:55.000000Z"
-    },
-    {
-      "title": "PRUDENTIAL FINANCIAL INC Acquires 1,351,012 Shares of National Healthcare Properties Inc (NHPAP.PFD)",
-      "title_ko": "프루덴셜 파이낸셜(PRUDENTIAL FINANCIAL INC)이 내셔널 헬스케어 프로퍼티스(National Healthcare Properties Inc, NHPAP.PFD) 주식 1,351,012주를 취득했다.",
-      "snippet": "A New Position in Healthcare Real Estate On Sept. 30, 2026, PRUDENTIAL FINANCIAL INC (Trades, Portfolio) initiated a new holding of 1,351,012 shares of National",
-      "snippet_ko": "의료 부동산 분야의 새로운 투자 포지션 2026년 9월 30일, PRUDENTIAL FINANCIAL INC (거래, 포트폴리오)는 National 주식 1,351,012주를 신규로 매수했습니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2309,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9122157/prudential-financial-inc-acquires-1351012-shares-of-national-healthcare-properties-inc-nhpappfd",
-      "cross_verified": true,
-      "published_at": "2026-10-14T03:33:23.000000Z"
-    },
-    {
-      "title": "Prudential Financial Inc. Opens New Position in Neurogene Inc. (NGNE) With 2.23 Million Share Purchase",
-      "title_ko": "프루덴셜 파이낸셜(Prudential Financial Inc.)이 뉴로진(Neurogene Inc., NGNE) 주식 223만 주를 매입하며 신규 지분을 확보했다.",
-      "snippet": "Prudential Financial Inc. has established a new position in Neurogene Inc. (NGNE), acquiring 2,231,357 shares at a trade price of $27.82 per share on September",
-      "snippet_ko": "프루덴셜 파이낸셜(Prudential Financial Inc.)은 뉴로진(Neurogene Inc., NGNE)에 대한 신규 지분을 확보했으며, 9월 주당 27.82달러의 거래 가격으로 2,231,357주를 매입했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2565,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9122156/prudential-financial-inc-opens-new-position-in-neurogene-inc-ngne-with-223-million-share-purchase",
-      "cross_verified": true,
-      "published_at": "2026-10-14T03:32:57.000000Z"
     }
   ]
 }
