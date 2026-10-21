@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-21T18:31:07.306561+00:00",
+  "updated_at": "2026-10-21T23:08:30.352406+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Is It Too Late to Buy Vistra Corp (VST) After 3.9% Rally? GF Value Says Undervalued",
+      "title_ko": "3.9% 상승한 지금, 비스트라 코퍼레이션(VST) 매수는 너무 늦은 걸까? GF 밸류, “저평가됐다”고 분석",
+      "snippet": "On October 21, 2026, Vistra Corp (VST) shares rose 3.9% to a current price of $156.14, reflecting a 52-week range between $132.66 and $203.66. Despite today's p",
+      "snippet_ko": "2026년 10월 21일, 비스트라 코퍼레이션(VST)의 주가는 3.9% 상승하여 현재 156.14달러를 기록했으며, 이는 52주 동안 132.66달러에서 203.66달러 사이의 등락을 보인 것을 반영한 것입니다. 오늘의 주가 변동에도 불구하고",
+      "symbol": "",
+      "sentiment_score": 0.6813,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9135218/is-it-too-late-to-buy-vistra-corp-vst-after-39-rally-gf-value-says-undervalued",
+      "cross_verified": true,
+      "published_at": "2026-10-21T22:29:41.000000Z"
+    },
+    {
+      "title": "Sonoco Products Co (SON) Reports Q3 Revenue Miss Amid Inflation and Drought Challenges",
+      "title_ko": "소노코 프로덕츠(SON), 인플레이션과 가뭄으로 인한 어려움 속에서 3분기 매출 예상치 미달 기록",
+      "snippet": "On October 21, 2026, Sonoco Products Co (NYSE: SON) announced third-quarter revenue of $2 billion, falling short of the expected $2.08 billion. The company cite",
+      "snippet_ko": "2026년 10월 21일, 소노코 프로덕츠(Sonoco Products Co, NYSE: SON)는 3분기 매출이 20억 달러를 기록했다고 발표했으나, 이는 예상치인 20억 8천만 달러에 미치지 못했다. 회사는 그 이유로",
+      "symbol": "",
+      "sentiment_score": -0.0105,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9135215/sonoco-products-co-son-reports-q3-revenue-miss-amid-inflation-and-drought-challenges",
+      "cross_verified": true,
+      "published_at": "2026-10-21T22:28:20.000000Z"
+    },
     {
       "title": "Blackstone (BX) in Talks with Apollo Affiliate for NFL Minority Stake Investment",
       "title_ko": "블랙스톤(BX), NFL 소수 지분 투자와 관련해 아폴로 계열사와 협의 중",
@@ -1177,33 +1201,45 @@
       "url": "https://thefintechtimes.com/emirates-nbd-launches-ai-travel-assistant-with-visa-and-tripadvisor/",
       "cross_verified": true,
       "published_at": "2026-10-12T05:00:41.000000Z"
-    },
-    {
-      "title": "Nifty holds flat at open despite Wall Street gains; FII selling streak hits 11 sessions",
-      "title_ko": "월가 상승세에도 불구하고 니프티 지수는 개장 시 보합세를 유지했으며, 외국인 투자자들의 매도 행진은 11거래일째 이어졌다.",
-      "snippet": "Equity benchmarks opened on a cautious note on Monday with the Nifty 50 opening at 22,593.20 against a previous close of 22,520.45, and trading near 22,525.60, up just 5.15 points or 0.02 per cent, at 9.25 am. The Sensex opened at 72,771.32 compared to its previous close of 72,472.33, before slipping to 72,426.28",
-      "snippet_ko": "월요일 주식 시장 지수는 신중한 분위기 속에서 개장했으며, 니프티 50 지수는 전일 종가 22,520.45 대비 22,593.20으로 개장한 뒤, 오전 9시 25분 기준 22,525.60 근처에서 거래되며, 전일 종가 대비 5.15포인트(0.02%) 상승에 그쳤다. 센섹스 지수는 전일 종가 72,472.33에 비해 72,771.32로 개장했으나, 이후 72,426.28까지 하락했다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/markets/nifty-holds-flat-at-open-despite-wall-street-gains-fii-selling-streak-hits-11-sessions/article71573720.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-12T04:26:48.000000Z"
-    },
-    {
-      "title": "SkyAI Announces Intention to Commence Cash Tender Offer to Purchase Common Stock and Pre-funded Warrants at $3.00 Per Share/Pre-funded Warrant",
-      "title_ko": "SkyAI, 보통주 및 사전 자금 조달된 워런트를 주당/워런트당 3.00달러에 매입하기 위한 현금 공개매수 개시 의향 발표",
-      "snippet": "SkyAI intends to purchase up to 95% of each class of its outstanding common stock, cash pre-funded warrants, cryptocurrency pre-funded warrants and strategic advisor warrants",
-      "snippet_ko": "SkyAI는 자사가 발행한 각 종류의 보통주, 현금으로 사전 자금 조달된 워런트, 암호화폐로 사전 자금 조달된 워런트 및 전략 자문위원 워런트의 최대 95%를 매입할 계획입니다.",
-      "symbol": "",
-      "sentiment_score": 0.1739,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/12/tmt-newswire/globenewswire/skyai-announces-intention-to-commence-cash-tender-offer-to-purchase-common-stock-and-pre-funded-warrants-at-300-per-sharepre-funded-warrant/2443419",
-      "cross_verified": true,
-      "published_at": "2026-10-12T03:28:19.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Meta Platforms (META) Reports 3.64 Billion Daily Users Amid Strong Engagement and Muse Launch",
+      "title_ko": "메타 플랫폼스(META), 높은 사용자 참여도와 ‘뮤즈’ 출시 속에 일일 사용자 수 36억 4천만 명 기록",
+      "snippet": "On October 21, 2026, Meta Platforms Inc (NASDAQ: META) announced its family of apps now reaches 3.64 billion daily users, with record engagement on Facebook and",
+      "snippet_ko": "2026년 10월 21일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)는 자사 앱 제품군의 일일 사용자 수가 36억 4천만 명에 달하며, 페이스북에서는 사상 최대의 이용 참여도를 기록했다고 발표했으며,",
+      "symbol": "META",
+      "sentiment_score": 0.872,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9135214/meta-platforms-meta-reports-364-billion-daily-users-amid-strong-engagement-and-muse-launch",
+      "cross_verified": true,
+      "published_at": "2026-10-21T22:28:02.000000Z"
+    },
+    {
+      "title": "AI Stocks Face Challenges, Market Observes Potential Rebound",
+      "title_ko": "AI 관련주, 난관에 직면… 시장에서는 반등 가능성 전망",
+      "snippet": "On October 21, 2026, the market showed signs of recovery after a significant decline in AI-related stocks, but financial expert Jim Cramer cautioned investors a",
+      "snippet_ko": "2026년 10월 21일, AI 관련 주가가 크게 하락한 후 시장이 회복 조짐을 보였으나, 금융 전문가 짐 크레이머는 투자자들에게 다음과 같이 경고했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2477,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9135197/ai-stocks-face-challenges-market-observes-potential-rebound",
+      "cross_verified": true,
+      "published_at": "2026-10-21T22:20:30.000000Z"
+    },
+    {
+      "title": "The Magnificent 7 Are Splitting Apart. Here's Who's Winning",
+      "title_ko": "'위대한 7인'이 뿔뿔이 흩어지고 있다. 승자는 누구일까",
+      "snippet": "Apple Inc. (AAPL, Financials), the iPhone maker, stands out as the most consistent Magnificent Seven performer even as short-term leadership shifts across the g",
+      "snippet_ko": "아이폰 제조사인 애플(Apple Inc., AAPL, 금융업)은 단기적인 주도권이 시장 전반에 걸쳐 바뀌는 상황에서도 ‘매그니피센트 세븐’ 중 가장 꾸준한 실적을 보이는 기업으로 두각을 나타내고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.8336,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9133918/the-magnificent-7-are-splitting-apart-heres-whos-winning",
+      "cross_verified": true,
+      "published_at": "2026-10-21T22:13:15.000000Z"
+    },
     {
       "title": "VERSANT Licenses E!'s The Golden Life to Hulu, Boosting Disney's Streaming Content (DIS)",
       "title_ko": "버산트(VERSANT), E!의 ‘더 골든 라이프’를 훌루(Hulu)에 라이선스 제공… 디즈니(DIS)의 스트리밍 콘텐츠 강화",
@@ -2367,42 +2403,6 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/global-markets-face-volatility-amid-geopolitical-tensions-and-ai-policy-shifts/73035/",
       "cross_verified": true,
       "published_at": "2026-10-15T01:38:18.000000Z"
-    },
-    {
-      "title": "GEODE CAPITAL MANAGEMENT, LLC Trims Stake in Liberty Capital Corp (GLIBA) by 51.89%",
-      "title_ko": "GEODE CAPITAL MANAGEMENT, LLC, Liberty Capital Corp (GLIBA) 지분 51.89% 축소",
-      "snippet": "Transaction Overview: A Significant Reduction in Holdings On September 30, 2026, GEODE CAPITAL MANAGEMENT, LLC (Trades, Portfolio) executed a notable reduction",
-      "snippet_ko": "거래 개요: 보유 지분의 대폭 감축 2026년 9월 30일, GEODE CAPITAL MANAGEMENT, LLC (거래 내역, 포트폴리오)는 상당한 규모의 감축을 단행했습니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2172,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9124438/geode-capital-management-llc-trims-stake-in-liberty-capital-corp-gliba-by-5189",
-      "cross_verified": true,
-      "published_at": "2026-10-15T01:36:07.000000Z"
-    },
-    {
-      "title": "Apple to Launch AI Platform in China with iOS 27.3 Update (AAPL)",
-      "title_ko": "애플, iOS 27.3 업데이트를 통해 중국에서 AI 플랫폼 출시 예정 (AAPL)",
-      "snippet": "On October 14, 2026, Apple Inc. (AAPL) announced plans to introduce its artificial intelligence platform, Apple Intelligence, in China after overcoming regulato",
-      "snippet_ko": "2026년 10월 14일, 애플(AAPL)은 규제 문제를 해결한 후 중국에 자사의 인공지능 플랫폼인 ‘애플 인텔리전스’를 출시할 계획이라고 발표했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.5123,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9124435/apple-to-launch-ai-platform-in-china-with-ios-273-update-aapl",
-      "cross_verified": true,
-      "published_at": "2026-10-15T01:30:28.000000Z"
-    },
-    {
-      "title": "Apple Nears Regulatory Approval in China Ahead of iOS 27.3 Update (AAPL)",
-      "title_ko": "애플, iOS 27.3 업데이트를 앞두고 중국 규제 당국의 승인을 눈앞에 두다 (AAPL)",
-      "snippet": "On October 14, 2026, Apple Inc. (NASDAQ: AAPL) is reported to be close to fulfilling regulatory requirements in China to launch Apple Intelligence as part of th",
-      "snippet_ko": "2026년 10월 14일, 애플(Apple Inc., 나스닥: AAPL)이 ‘애플 인텔리전스(Apple Intelligence)’를 출시하기 위해 중국 당국의 규제 요건을 거의 충족한 것으로 전해졌다. 이는",
-      "symbol": "AAPL",
-      "sentiment_score": 0.5813,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9123977/apple-nears-regulatory-approval-in-china-ahead-of-ios-273-update-aapl",
-      "cross_verified": true,
-      "published_at": "2026-10-14T21:59:36.000000Z"
     }
   ]
 }
