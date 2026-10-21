@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-21T07:22:35.444263+00:00",
+  "updated_at": "2026-10-21T13:38:08.325413+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Danaher (DHR) Shares Slip After Q3 Revenue Miss Despite EPS Beat",
+      "title_ko": "다나허(DHR), 3분기 매출 예상치 미달로 주가 하락…주당순이익은 예상치 상회",
+      "snippet": "On October 21, 2026, Danaher Corp (NYSE: DHR) saw its shares decline over 4% in premarket trading following the release of its Q3 2026 revenue results, which fe",
+      "snippet_ko": "2026년 10월 21일, 다나허(Danaher Corp, NYSE: DHR)는 2026년 3분기 매출 실적을 발표한 후 장전 거래에서 주가가 4% 이상 하락했는데, 이는...",
+      "symbol": "",
+      "sentiment_score": 0.3977,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9133823/danaher-dhr-shares-slip-after-q3-revenue-miss-despite-eps-beat",
+      "cross_verified": true,
+      "published_at": "2026-10-21T12:59:55.000000Z"
+    },
+    {
+      "title": "Philip Morris International (PM) Reports Q3 Earnings Beat, Dividend Sustainability in Focus",
+      "title_ko": "필립 모리스 인터내셔널(PM), 3분기 실적 예상 상회…배당 지속 가능성에 주목",
+      "snippet": "On October 21, 2026, Philip Morris International Inc (NYSE: PM) announced its third-quarter results, posting a non-GAAP earnings per share of $2.36, beating est",
+      "snippet_ko": "2026년 10월 21일, 필립 모리스 인터내셔널(Philip Morris International Inc, NYSE: PM)은 3분기 실적을 발표하며, 비GAAP 기준 주당 순이익 2.36달러를 기록해 시장 예상치를 상회했다.",
+      "symbol": "",
+      "sentiment_score": 0.1699,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9133821/philip-morris-international-pm-reports-q3-earnings-beat-dividend-sustainability-in-focus",
+      "cross_verified": true,
+      "published_at": "2026-10-21T12:59:05.000000Z"
+    },
+    {
+      "title": "NextEra Energy (NEE) Reports Q3 Earnings: Dividend Sustainability in Focus",
+      "title_ko": "넥스트에라 에너지(NEE), 3분기 실적 발표: 배당금 지속 가능성에 주목",
+      "snippet": "On October 21, 2026, NextEra Energy Inc (NYSE: NEE) released its third-quarter financial results, delivering a mixed performance that highlights the company's o",
+      "snippet_ko": "2026년 10월 21일, 넥스트에라 에너지(NextEra Energy Inc, NYSE: NEE)는 3분기 실적을 발표했는데, 이 실적은 회사의 o를 여실히 보여주는 엇갈린 성과를 보였으며...",
+      "symbol": "",
+      "sentiment_score": 0.5566,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9133820/nextera-energy-nee-reports-q3-earnings-dividend-sustainability-in-focus",
+      "cross_verified": true,
+      "published_at": "2026-10-21T12:58:48.000000Z"
+    },
     {
       "title": "Ally Financial Inc (ALLY) (Q3 2026) Earnings Call Highlights: Strong EPS Growth, Dividend Hike and Resilient Credit Outlook",
       "title_ko": "앨리 파이낸셜(Ally Financial Inc, ALLY) (2026년 3분기) 실적 발표 주요 내용: 견조한 주당순이익(EPS) 성장, 배당금 인상 및 탄탄한 신용 전망",
@@ -1165,45 +1201,45 @@
       "url": "https://www.upsidetrader.com/2026/10/11/weekend-market-report-near-records-sector-splits-and-a-busy-week-ahead/",
       "cross_verified": true,
       "published_at": "2026-10-11T21:54:52.000000Z"
-    },
-    {
-      "title": "Donaldson Stock: The Replacement Filter Business Has A Second Engine (NYSE:DCI)",
-      "title_ko": "도널드슨 주식: 교체용 필터 사업에 두 번째 성장 동력이 있다 (NYSE:DCI)",
-      "snippet": "Donaldson (DCI) rated Buy: recurring replacement demand, diversified filtration, and M&A drive margin recovery and EPS upside—see valuation and risks.",
-      "snippet_ko": "도널드슨(DCI) 매수 추천: 지속적인 교체 수요, 다각화된 여과 사업, 그리고 인수합병(M&A)이 마진 회복과 주당순이익(EPS) 상승을 견인하고 있음—평가 및 위험 요인 참조.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953369-donaldson-the-replacement-filter-business-has-a-second-engine",
-      "cross_verified": true,
-      "published_at": "2026-10-11T20:39:46.000000Z"
-    },
-    {
-      "title": "Ovintiv: The Company Will Survive But I Can Do Better Elsewhere (NYSE:OVV)",
-      "title_ko": "오빈티브: 회사는 살아남겠지만, 나는 다른 곳에서 더 잘할 수 있다 (NYSE:OVV)",
-      "snippet": "Ovintiv (OVV) analysis: strong credit profile and investment grade stability, but better opportunities may exist.",
-      "snippet_ko": "오빈티브(OVV) 분석: 탄탄한 신용 등급과 투자 등급의 안정성을 갖추고 있으나, 더 나은 투자 기회가 있을 수 있다.",
-      "symbol": "",
-      "sentiment_score": 0.4973,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953358-ovintiv-will-survive-but-i-can-do-better-elsewhere",
-      "cross_verified": true,
-      "published_at": "2026-10-11T16:16:30.000000Z"
-    },
-    {
-      "title": "RBI's rupee-defence measures may offer near-term relief, say analysts",
-      "title_ko": "분석가들은 인도 중앙은행(RBI)의 루피화 방어 조치가 단기적으로 숨통을 틔워줄 수 있다고 전망한다",
-      "snippet": "RBI's special dollar window for oil companies and tighter forex derivative rules could ease spot demand and forward premiums, but global pressures may keep the rupee weak",
-      "snippet_ko": "석유 기업을 위한 인도 중앙은행(RBI)의 특별 달러 창구와 외환 파생상품 규제의 강화로 현물 수요와 선물 프리미엄이 완화될 수 있겠지만, 글로벌 압력으로 인해 루피화 약세가 지속될 수 있다",
-      "symbol": "",
-      "sentiment_score": 0.5267,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/economy/news/rbi-s-rupee-defence-measures-may-offer-near-term-relief-say-analysts-126101100471_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-11T11:54:16.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Tokenized stock trading takes off overseas as Goldman, other U.S. companies object",
+      "title_ko": "골드만삭스 등 미국 기업들의 반발 속에서도 해외에서는 토큰화된 주식 거래가 본격화되고 있다",
+      "snippet": "Tokenized stocks are gaining momentum in international markets, even as major U.S. companies are pushing back against efforts to introduce them domestically.",
+      "snippet_ko": "미국 주요 기업들이 국내에서 토큰화된 주식을 도입하려는 움직임에 반대하고 있음에도 불구하고, 국제 시장에서는 토큰화된 주식의 확산세가 가속화되고 있다.",
+      "symbol": "MCD",
+      "sentiment_score": 0.5994,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/21/tokenized-stocks-us-companies-object.html",
+      "cross_verified": true,
+      "published_at": "2026-10-21T12:33:34.000000Z"
+    },
+    {
+      "title": "Merck (MRK) Gains European Commission Approval for KEYTRUDA Combination in Bladder Cancer",
+      "title_ko": "머크(MRK), 방광암 치료용 키트루다 병용 요법에 대해 유럽연합 집행위원회 승인 획득",
+      "snippet": "On October 21, 2026, Merck & Co Inc (NYSE: MRK) announced that the European Commission has approved its anti-PD-1 therapy KEYTRUDA in combination with Padcev fo",
+      "snippet_ko": "2026년 10월 21일, 머크 앤 컴퍼니(Merck & Co Inc, NYSE: MRK)는 유럽연합 집행위원회가 자사의 항-PD-1 치료제 ‘키트루다(KEYTRUDA)’와 ‘파드세브(Padcev)’의 병용 요법을 승인했다고 발표했다.",
+      "symbol": "MRK",
+      "sentiment_score": 0.2514,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9133764/merck-mrk-gains-european-commission-approval-for-keytruda-combination-in-bladder-cancer",
+      "cross_verified": true,
+      "published_at": "2026-10-21T12:25:50.000000Z"
+    },
+    {
+      "title": "SpaceX, Tesla boards study possible $3.5 trillion merger",
+      "title_ko": "스페이스X와 테슬라 이사회, 3조 5천억 달러 규모 합병 가능성 검토",
+      "snippet": "SpaceX and Tesla boards form independent committees to explore a potential $3.5 trillion merger, a blockbuster spanning AI, rockets, and EVs.",
+      "snippet_ko": "스페이스X와 테슬라 이사회가 3조 5천억 달러 규모의 합병 가능성을 검토하기 위해 독립 위원회를 구성했다. 이는 인공지능, 로켓, 전기차 분야를 아우르는 초대형 합병案이다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.4713,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/companies/spacex-tesla-boards-study-possible-35-trillion-merger/article71607181.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-21T11:29:49.000000Z"
+    },
     {
       "title": "Anthropic may spend $750 billion on computing costs as IPO plans advance",
       "title_ko": "안트로픽, 기업공개(IPO) 계획이 진행됨에 따라 컴퓨팅 비용으로 7,500억 달러를 지출할 전망",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9123417/alphabet-stocks-trade-3697-above-gf-value-as-google-launches-gemini-4-argon",
       "cross_verified": true,
       "published_at": "2026-10-14T17:12:45.000000Z"
-    },
-    {
-      "title": "META Maintains Buy Rating by UBS -- Price Target Raised to $884",
-      "title_ko": "UBS, META에 대해 ‘매수’ 등급 유지… 목표주가 884달러로 상향 조정",
-      "snippet": "On October 13, 2026, Meta Platforms Inc. (META) received a positive rating update from UBS analyst Stephen Ju, who maintained a Buy rating while raising the pri",
-      "snippet_ko": "2026년 10월 13일, 메타 플랫폼스(META)는 UBS 애널리스트 스티븐 주로부터 긍정적인 등급 상향 조정을 받았으며, 그는 ‘매수(Buy)’ 등급을 유지하면서 목표 주가를 상향 조정했다.",
-      "symbol": "META",
-      "sentiment_score": 0.3859,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9123674/meta-maintains-buy-rating-by-ubs-price-target-raised-to-884",
-      "cross_verified": true,
-      "published_at": "2026-10-14T17:04:04.000000Z"
-    },
-    {
-      "title": "GOOGL Maintained by UBS -- Price Target Raised to $380",
-      "title_ko": "GOOGL, UBS가 담당 — 목표주가 380달러로 상향 조정",
-      "snippet": "Alphabet Inc (GOOGL) Analyst Rating Update On October 14, 2026, UBS, led by analyst Stephen Ju, has maintained its rating on Alphabet (GOOGL) at Neutral whil",
-      "snippet_ko": "알파벳(Alphabet Inc, GOOGL) 애널리스트 등급 업데이트: 2026년 10월 14일, 스티븐 주(Stephen Ju) 애널리스트가 이끄는 UBS는 알파벳(GOOGL)에 대한 등급을 ‘중립(Neutral)’으로 유지했으며, 한편",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3272,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9123672/googl-maintained-by-ubs-price-target-raised-to-380",
-      "cross_verified": true,
-      "published_at": "2026-10-14T17:03:20.000000Z"
-    },
-    {
-      "title": "Google (GOOGL) Supports European Scientists with AI Access and $3M Cloud Credits",
-      "title_ko": "구글(GOOGL), 유럽 과학자들에게 AI 이용 권한 및 300만 달러 상당의 클라우드 크레딧 제공",
-      "snippet": "On October 14, 2026, Alphabet Inc (NASDAQ: GOOGL) announced a significant initiative to empower up to 200 scientific researchers across Europe by providing acce",
-      "snippet_ko": "2026년 10월 14일, 알파벳(Alphabet Inc, 나스닥: GOOGL)은 유럽 전역의 과학 연구자 최대 200명에게 접근 권한을 제공함으로써 이들의 역량을 강화하기 위한 중요한 계획을 발표했습니다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.4894,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9122850/google-googl-supports-european-scientists-with-ai-access-and-3m-cloud-credits",
-      "cross_verified": true,
-      "published_at": "2026-10-14T11:58:40.000000Z"
     }
   ]
 }
