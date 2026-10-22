@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-22T11:32:21.572276+00:00",
+  "updated_at": "2026-10-22T16:58:31.499725+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "AT&T Investors Are Still Boiling Alive (NYSE:T)",
+      "title_ko": "AT&T 투자자들은 여전히 고통 속에 있다 (NYSE:T)",
+      "snippet": "AT&T tops earnings, but fiber pricing pressure, rising debt, and weak growth cloud the outlook. Read the latest analysis on the stock here.",
+      "snippet_ko": "AT&T는 실적이 호조를 보였으나, 광섬유 요금에 대한 압박, 부채 증가, 성장세 둔화 등으로 인해 전망이 불투명해졌습니다. 이 종목에 대한 최신 분석은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.3818,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4956483-att-investors-still-boiling-alive",
+      "cross_verified": true,
+      "published_at": "2026-10-22T16:21:05.000000Z"
+    },
+    {
+      "title": "Valley National Bancorp (VLY) Q3 2026 Earnings Call Transcript",
+      "title_ko": "밸리 내셔널 뱅크코프(VLY) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "Valley National Bancorp (VLY) Q3 2026 Earnings Call October 22, 2026 8:30 AM EDTCompany ParticipantsAndrew Jianette - Investor Relations ExecutiveIra...",
+      "snippet_ko": "밸리 내셔널 뱅크코프(VLY) 2026년 3분기 실적 발표 전화회의, 2026년 10월 22일 오전 8시 30분(EDT) 회사 참가자: 앤드류 지아네트 - 투자자 관계 담당 임원, 아이라...",
+      "symbol": "",
+      "sentiment_score": 0.4531,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4956407-valley-national-bancorp-vly-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-22T16:17:27.000000Z"
+    },
+    {
+      "title": "Clicks Group Limited (CLCGY) Q4 2026 Earnings Call Transcript",
+      "title_ko": "클릭스 그룹 리미티드(CLCGY) 2026년 4분기 실적 발표 전화 회의 기록",
+      "snippet": "Clicks Group Limited (CLCGY) Q4 2026 Earnings Call October 22, 2026 6:00 AM EDTCompany ParticipantsBertina Engelbrecht - CEO & Executive DirectorGordon...",
+      "snippet_ko": "클릭스 그룹 리미티드(CLCGY) 2026년 4분기 실적 발표 전화회의 2026년 10월 22일 오전 6:00 (EDT) 회사 참가자 베르티나 엥겔브레히트 - CEO 겸 집행이사 고든...",
+      "symbol": "",
+      "sentiment_score": 0.2742,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4956523-clicks-group-limited-clcgy-q4-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-22T16:17:17.000000Z"
+    },
     {
       "title": "Kongsberg Automotive ASA (KGAUF) Q3 2026 Earnings Call Transcript",
       "title_ko": "콩스베르그 오토모티브 ASA (KGAUF) 2026년 3분기 실적 발표 회의록",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4953830-telus-corporation-kitchen-sink-cleaned-upside-ignored",
       "cross_verified": true,
       "published_at": "2026-10-13T15:26:10.000000Z"
-    },
-    {
-      "title": "Bank of Japan's Ueda Signals Rising Inflation Nearing Target",
-      "title_ko": "일본은행의 우에다 총재, 인플레이션 상승세가 목표치에 근접하고 있음을 시사",
-      "snippet": "On October 13, 2026, Bank of Japan Governor Kazuo Ueda indicated that core inflation is gradually increasing and is now very close to the 2% target. During a re",
-      "snippet_ko": "2026년 10월 13일, 우에다 카즈오 일본은행 총재는 핵심 인플레이션이 점진적으로 상승하고 있으며 현재 2% 목표치에 매우 근접해 있다고 밝혔다. 재",
-      "symbol": "",
-      "sentiment_score": 0.5508,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9120284/bank-of-japans-ueda-signals-rising-inflation-nearing-target",
-      "cross_verified": true,
-      "published_at": "2026-10-13T06:10:49.000000Z"
-    },
-    {
-      "title": "SBI Research calls for abolition of LTCG tax on equities to boost foreign capital inflows",
-      "title_ko": "SBI 리서치는 외국인 자본 유입을 촉진하기 위해 주식에 대한 장기양도소득세 폐지를 촉구했다.",
-      "snippet": "According to SBI Research, removing the long-term capital gains tax on equities could revitalize investment levels. The report emphasizes extending the holding period to two to three years as a strategy to boost investor morale. Faced with foreign portfolio outflows, the need for policy reforms is clear.",
-      "snippet_ko": "SBI 리서치에 따르면, 주식에 대한 장기 양도소득세를 폐지하면 투자 규모가 다시 활성화될 수 있다고 한다. 이 보고서는 투자자 사기를 북돋우기 위한 전략으로 보유 기간을 2~3년으로 연장하는 것을 강조하고 있다. 해외 포트폴리오 자금 유출에 직면한 상황에서 정책 개혁의 필요성은 분명하다.",
-      "symbol": "",
-      "sentiment_score": 0.7783,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/economy/finance/sbi-research-calls-for-abolition-of-ltcg-tax-on-equities-to-boost-foreign-capital-inflows/articleshow/134908894.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-13T05:23:15.000000Z"
-    },
-    {
-      "title": "Melexis: Transparency declaration by Invesco Ltd.",
-      "title_ko": "Melexis: 인베스코(Invesco Ltd.)의 투명성 선언",
-      "snippet": "Melexis NV (Euronext Brussels: MELE)",
-      "snippet_ko": "Melexis NV (유로넥스트 브뤼셀: MELE)",
-      "symbol": "",
-      "sentiment_score": 0.2199,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/13/tmt-newswire/globenewswire/melexis-transparency-declaration-by-invesco-ltd/2444203",
-      "cross_verified": true,
-      "published_at": "2026-10-13T05:05:49.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Meta Confirms The AI Bubble Burst Thesis: Why Ignore It? (NASDAQ:META)",
+      "title_ko": "메타, ‘AI 버블 붕괴’ 가설을 입증: 왜 이를 무시해야 할까? (나스닥:META)",
+      "snippet": "Meta reports negative free cash flow, delays AI CapEx ROI, and offers no 2027 guidance. Click to discover what this signals about the AI bubble and META stock.",
+      "snippet_ko": "메타는 마이너스 자유 현금 흐름을 기록했으며, AI 자본 지출(CapEx)의 투자 수익률(ROI) 달성이 지연되고, 2027년 실적 전망을 제시하지 않았습니다. 클릭하여 이것이 AI 버블과 메타 주가에 어떤 시사점을 주는지 확인해 보세요.",
+      "symbol": "META",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4956401-meta-confirms-the-ai-bubble-burst-thesis-why-ignore-it",
+      "cross_verified": true,
+      "published_at": "2026-10-22T14:53:13.000000Z"
+    },
+    {
+      "title": "Meta Platforms' AI Wins Keep Rolling In (NASDAQ:META)",
+      "title_ko": "메타 플랫폼스(NASDAQ:META)의 AI 성과가 잇달아 이어지고 있다",
+      "snippet": "Meta Platforms, Inc. posted strong Q3 2026 growth as AI boosts ads, engagement, and margins. Click for this META earnings update.",
+      "snippet_ko": "메타 플랫폼스(Meta Platforms, Inc.)는 AI가 광고, 사용자 참여도, 수익성을 끌어올리면서 2026년 3분기 견실한 성장세를 기록했습니다. META 실적 업데이트를 보려면 여기를 클릭하세요.",
+      "symbol": "META",
+      "sentiment_score": 0.5719,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4956402-meta-platforms-ai-wins-keep-rolling-in",
+      "cross_verified": true,
+      "published_at": "2026-10-22T14:30:43.000000Z"
+    },
+    {
+      "title": "Surging oil prices and fresh tech jitters are hammering stocks",
+      "title_ko": "급등하는 유가와 기술주에 대한 새로운 불안감이 주식 시장에 타격을 주고 있다",
+      "snippet": "A sell-off hit US stocks on Thursday as traders took in higher oil prices and as upbeat Meta and Tesla earnings failed to spark fresh tech bullishness.",
+      "snippet_ko": "목요일 미국 증시는 유가 상승을 반영한 매도세가 몰아쳤으며, 메타와 테슬라의 호실적이 기술주에 대한 새로운 상승 모멘텀을 불러일으키지 못했기 때문이다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.172,
+      "source": "markets.businessinsider.com",
+      "url": "https://www.businessinsider.com/stock-market-today-tech-sell-off-meta-tesla-oil-prices-2026-10",
+      "cross_verified": true,
+      "published_at": "2026-10-22T14:08:00.000000Z"
+    },
     {
       "title": "Meta Platforms: Muse Gives Meta Its First Real AI Revenue Engine (NASDAQ:META)",
       "title_ko": "메타 플랫폼스: ‘뮤즈’가 메타에 첫 번째 진정한 AI 수익 창출 동력을 제공하다 (나스닥: META)",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9126302/cantor-fitzgerald-sees-buying-opportunity-in-coreweave-crwv-amid-market-anxiety",
       "cross_verified": true,
       "published_at": "2026-10-15T20:25:40.000000Z"
-    },
-    {
-      "title": "Tesla Is An Incredible Company - Its Valuation Is Another Story (NASDAQ:TSLA)",
-      "title_ko": "테슬라는 놀라운 기업이지만, 기업 가치는 또 다른 문제다 (나스닥:TSLA)",
-      "snippet": "Tesla, Inc.'s integrated software, manufacturing, charging & energy may justify a premium, but robotaxi/humanoid risks persist. Click for my TSLA stock update.",
-      "snippet_ko": "테슬라(Tesla, Inc.)의 소프트웨어, 제조, 충전 및 에너지 사업 통합은 프리미엄을 정당화할 수 있겠지만, 로봇택시 및 휴머노이드 관련 위험 요인은 여전히 남아 있습니다. TSLA 주식 최신 정보를 보려면 여기를 클릭하세요.",
-      "symbol": "TSLA",
-      "sentiment_score": -0.1756,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4954601-tesla-is-an-incredible-company-its-valuation-is-another-story",
-      "cross_verified": true,
-      "published_at": "2026-10-15T20:23:23.000000Z"
-    },
-    {
-      "title": "National Retail Federation Projects 4.2% Holiday Sales Growth, Impacting AMZN Shopping Patterns",
-      "title_ko": "미국 소매업 연합회(NRF), 연말 연휴 매출 4.2% 증가 전망… AMZN 쇼핑 패턴에 영향 미칠 전망",
-      "snippet": "On October 15, 2026, the National Retail Federation (NRF) released its holiday sales forecast, projecting a 4.2% increase in retail spending for November and De",
-      "snippet_ko": "2026년 10월 15일, 미국 소매업 연합회(NRF)는 연말 연시 매출 전망치를 발표하며, 11월과 12월의 소매 지출이 4.2% 증가할 것으로 전망했다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.7136,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9125852/national-retail-federation-projects-42-holiday-sales-growth-impacting-amzn-shopping-patterns",
-      "cross_verified": true,
-      "published_at": "2026-10-15T16:00:34.000000Z"
-    },
-    {
-      "title": "Amazon Launches $75 Bee AI Wristband and $100 Recorder",
-      "title_ko": "아마존, 75달러짜리 ‘Bee AI’ 손목밴드와 100달러짜리 녹음기 출시",
-      "snippet": "E-commerce and cloud behemoth Amazon.com Inc. (AMZN, Financials) is taking another shot at wearable gear, with a new round of AI-heavy gadgets.The $75 Bee Front",
-      "snippet_ko": "전자상거래 및 클라우드 업계의 거물인 아마존닷컴(Amazon.com Inc., AMZN, 금융)이 인공지능(AI) 기능을 대거 탑재한 신제품 라인업을 통해 웨어러블 기기 시장에 다시 도전장을 내밀고 있다. 75달러짜리 ‘Bee Front’",
-      "symbol": "AMZN",
-      "sentiment_score": 0.0,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9125685/amazon-launches-75-bee-ai-wristband-and-100-recorder",
-      "cross_verified": true,
-      "published_at": "2026-10-15T15:54:10.000000Z"
     }
   ]
 }
