@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-21T23:08:30.352406+00:00",
+  "updated_at": "2026-10-22T04:13:36.315878+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Coronado Global Resources Inc. (CODQL) Q3 2026 Earnings Call Transcript",
+      "title_ko": "코로나도 글로벌 리소스(Coronado Global Resources Inc., CODQL) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "Coronado Global Resources Inc. (CODQL) Q3 2026 Earnings Call October 21, 2026 7:00 PM EDTCompany ParticipantsBarend Van Der Merwe - CEO & MDSandeep...",
+      "snippet_ko": "코로나도 글로벌 리소스(Coronado Global Resources Inc., CODQL) 2026년 3분기 실적 발표 컨퍼런스 콜, 2026년 10월 21일 오후 7:00 (EDT) 회사 참가자: 바렌드 반 데르 메르베(Barend Van Der Merwe) - CEO 겸 MDS, 산딥(Sandeep)...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4956123-coronado-global-resources-inc-codql-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-22T02:54:10.000000Z"
+    },
+    {
+      "title": "Texas Capital Bancshares, Inc. (TCBI) Q3 2026 Earnings Call Transcript",
+      "title_ko": "텍사스 캐피탈 뱅크셰어스(TCBI) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "Texas Capital Bancshares, Inc. (TCBI) Q3 2026 Earnings Call October 21, 2026 5:00 PM EDTCompany ParticipantsJocelyn Kukulka - Head of Investor Relations and...",
+      "snippet_ko": "텍사스 캐피탈 뱅크셰어스(TCBI) 2026년 3분기 실적 발표 전화회의, 2026년 10월 21일 오후 5:00 (EDT) 회사 참가자: 조슬린 쿠쿨카 - 투자자 관계 책임자 및...",
+      "symbol": "",
+      "sentiment_score": 0.4375,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4956101-texas-capital-bancshares-inc-tcbi-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-22T02:54:06.000000Z"
+    },
+    {
+      "title": "SAP SE (SAP) Q3 2026 Earnings Call Transcript",
+      "title_ko": "SAP SE(SAP) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "SAP SE (SAP) Q3 2026 Earnings Call October 21, 2026 5:00 PM EDTCompany ParticipantsAlexandra Kasper Steiger - Global Head of Investor RelationsChristian...",
+      "snippet_ko": "SAP SE (SAP) 2026년 3분기 실적 발표 컨퍼런스 콜 2026년 10월 21일 오후 5:00 (EDT) 회사 측 참석자: 알렉산드라 카스퍼 슈타이거 - 글로벌 투자자 관계 총괄 크리스티안...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4956103-sap-se-sap-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-22T02:54:02.000000Z"
+    },
     {
       "title": "Is It Too Late to Buy Vistra Corp (VST) After 3.9% Rally? GF Value Says Undervalued",
       "title_ko": "3.9% 상승한 지금, 비스트라 코퍼레이션(VST) 매수는 너무 늦은 걸까? GF 밸류, “저평가됐다”고 분석",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9119944/a-look-at-ubiquiti-inc-ui-after-57-decline-gf-value-55501-vs-price-61956",
       "cross_verified": true,
       "published_at": "2026-10-12T22:26:40.000000Z"
-    },
-    {
-      "title": "Enovix (ENVX) Reports Q3 Revenue Beat with $11M, Industrial Demand Drives Growth",
-      "title_ko": "에노빅스(ENVX), 3분기 매출 1,100만 달러로 시장 예상치 상회… 산업 부문 수요가 성장 견인",
-      "snippet": "On October 12, 2026, Enovix Corp (NASDAQ: ENVX) announced preliminary third-quarter revenue of $11 million, a 38% increase year-over-year and above consensus ex",
-      "snippet_ko": "2026년 10월 12일, Enovix Corp(나스닥: ENVX)은 3분기 잠정 매출이 1,100만 달러로, 전년 동기 대비 38% 증가했으며 시장 예상치를 상회했다고 발표했다.",
-      "symbol": "",
-      "sentiment_score": 0.3408,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9119199/enovix-envx-reports-q3-revenue-beat-with-11m-industrial-demand-drives-growth",
-      "cross_verified": true,
-      "published_at": "2026-10-12T14:59:33.000000Z"
-    },
-    {
-      "title": "Morgan Stanley Downgrades Ally Financial (ALLY) to Hold Amid Rising Rate Concerns",
-      "title_ko": "모건 스탠리, 금리 상승 우려 속에 앨리 파이낸셜(ALLY)의 투자 등급을 ‘보유(Hold)’로 하향 조정",
-      "snippet": "On October 12, 2026, Morgan Stanley downgraded Ally Financial Inc (NYSE: ALLY) to a Hold rating, citing worries over rising interest rates and a lack of growth",
-      "snippet_ko": "2026년 10월 12일, 모건 스탠리는 금리 상승과 성장 동력 부족에 대한 우려를 이유로 앨리 파이낸셜(Ally Financial Inc, NYSE: ALLY)의 투자 등급을 ‘보유(Hold)’로 하향 조정했다.",
-      "symbol": "",
-      "sentiment_score": 0.3422,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9119197/morgan-stanley-downgrades-ally-financial-ally-to-hold-amid-rising-rate-concerns",
-      "cross_verified": true,
-      "published_at": "2026-10-12T14:58:54.000000Z"
-    },
-    {
-      "title": "Emirates NBD Launches AI Travel Assistant with Visa and Tripadvisor",
-      "title_ko": "에미레이트 NBD, 비자 및 트립어드바이저와 함께 AI 여행 도우미 출시",
-      "snippet": "Emirates NBD's conversational travel planner draws on Tripadvisor's 1 billion reviews and surfaces Visa cardholder offers, with no bank login required.",
-      "snippet_ko": "에미레이트 NBD의 대화형 여행 계획 도구는 트립어드바이저의 10억 건에 달하는 리뷰를 바탕으로 하며, 은행에 로그인할 필요 없이 비자 카드 소지자를 위한 혜택을 제시합니다.",
-      "symbol": "",
-      "sentiment_score": 0.3123,
-      "source": "thefintechtimes.com",
-      "url": "https://thefintechtimes.com/emirates-nbd-launches-ai-travel-assistant-with-visa-and-tripadvisor/",
-      "cross_verified": true,
-      "published_at": "2026-10-12T05:00:41.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Tiger Brokers Clinches Best Retail Broker in Singapore at SIAS Investors' Choice Awards 2026",
+      "title_ko": "타이거 브로커스, ‘2026 SIAS 투자자 선택상’에서 싱가포르 최고의 소매 중개사 부문 수상",
+      "snippet": "Recognised by the Securities Investors Association (Singapore) with the Best Retail Broker Award, following an evaluation of brokerage firms in Singapore,...",
+      "snippet_ko": "싱가포르 증권투자자협회(Securities Investors Association (Singapore))가 싱가포르 내 증권사들을 평가한 결과, ‘최우수 소매 중개사상’을 수상했으며,...",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3253,
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/apac/news-releases/tiger-brokers-clinches-best-retail-broker-in-singapore-at-sias-investors-choice-awards-2026-302916221.html",
+      "cross_verified": true,
+      "published_at": "2026-10-22T02:00:00.000000Z"
+    },
+    {
+      "title": "Broadcom's M&A Strategy Is A Value Play (NASDAQ:AVGO)",
+      "title_ko": "브로드컴의 M&A 전략은 가치 투자 전략이다 (나스닥: AVGO)",
+      "snippet": "Broadcom's financial health remains strong, with leverage declining post-acquisitions. Click here to find out why I rate AVGO stock a Strong Buy.",
+      "snippet_ko": "브로드컴의 재무 건전성은 여전히 견고하며, 인수 이후 부채 비율이 감소하고 있습니다. 제가 AVGO 주식을 ‘강력 매수’로 평가하는 이유를 알아보려면 여기를 클릭하세요.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.5349,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4956125-broadcom-stock-merger-acquisition-strategy-value-play",
+      "cross_verified": true,
+      "published_at": "2026-10-22T01:33:49.000000Z"
+    },
+    {
+      "title": "Global Market Today: Asian stocks mixed as oil rally, AI concerns weigh on sentiment",
+      "title_ko": "오늘의 세계 시장: 유가 상승과 AI에 대한 우려가 투자 심리에 부담을 주며 아시아 증시는 혼조세를 보임",
+      "snippet": "Contracts for the Nasdaq 100 Index slipped 0.6% and those for the S&P 500 dropped 0.4% in early Asian trading following a split set of results from Tesla Inc. and Meta Platforms Inc. The automakers shares fell 3.1% in post-market trading after cutting its capital-spending forecast. Meta Platforms, however, rose 2% after hours as the company boosted its bet on AI with spending outlook.",
+      "snippet_ko": "테슬라와 메타 플랫폼스의 엇갈린 실적 발표에 따라, 아시아 장 초반 나스닥 100 지수 선물은 0.6% 하락했고, S&P 500 지수 선물은 0.4% 떨어졌다. 테슬라는 자본 지출 전망치를 하향 조정한 후 장 마감 후 거래에서 주가가 3.1% 하락했다. 반면 메타 플랫폼스는 지출 전망을 통해 인공지능(AI) 분야에 대한 투자를 확대함에 따라 장 마감 후 거래에서 주가가 2% 상승했다.",
+      "symbol": "META",
+      "sentiment_score": 0.1779,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-as-oil-rally-ai-concerns-weigh-on-sentiment/articleshow/135103506.cms",
+      "cross_verified": true,
+      "published_at": "2026-10-22T00:57:04.000000Z"
+    },
     {
       "title": "Meta Platforms (META) Reports 3.64 Billion Daily Users Amid Strong Engagement and Muse Launch",
       "title_ko": "메타 플랫폼스(META), 높은 사용자 참여도와 ‘뮤즈’ 출시 속에 일일 사용자 수 36억 4천만 명 기록",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9125012/etf-activity-qqq-leads-with-635-billion-inflow-on-oct-13",
       "cross_verified": true,
       "published_at": "2026-10-15T11:00:11.000000Z"
-    },
-    {
-      "title": "Apple (AAPL) Closes Above $5 Trillion Market Cap, Setting New Benchmark",
-      "title_ko": "애플(AAPL), 시가총액 5조 달러 돌파하며 새로운 기준 수립",
-      "snippet": "On October 15, 2026, Apple Inc. (AAPL) achieved a historic milestone by closing with a market capitalization of $5.01 trillion, becoming only the second company",
-      "snippet_ko": "2026년 10월 15일, 애플(AAPL)은 시가총액 5.01조 달러를 기록하며 장을 마감함으로써 역사적인 이정표를 달성했고, 이로써 세계에서 두 번째로",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2148,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9124974/apple-aapl-closes-above-5-trillion-market-cap-setting-new-benchmark",
-      "cross_verified": true,
-      "published_at": "2026-10-15T09:55:23.000000Z"
-    },
-    {
-      "title": "Larry Robbins Opens New Position in Surgery Partners Inc (SGRY) -- Shares Look 39% Undervalued on GF Value",
-      "title_ko": "래리 로빈스, 서저리 파트너스(SGRY) 신규 포지션 개설 -- GF Value 기준 주가가 39% 저평가된 것으로 분석",
-      "snippet": "On October 6, 2026, Larry Robbins (Trades, Portfolio) of Glenview Capital Management initiated a new position in Surgery Partners Inc (SGRY), acquiring 7,023,33",
-      "snippet_ko": "2026년 10월 6일, 글렌뷰 캐피털 매니지먼트(Glenview Capital Management)의 래리 로빈스(Larry Robbins, 매매 내역, 포트폴리오)는 서저리 파트너스(Surgery Partners Inc, SGRY)에 대한 신규 포지션을 개설하며 7,023,33주를 매수했다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.382,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9124959/larry-robbins-opens-new-position-in-surgery-partners-inc-sgry-shares-look-39-undervalued-on-gf-value",
-      "cross_verified": true,
-      "published_at": "2026-10-15T09:46:20.000000Z"
-    },
-    {
-      "title": "Global Markets Face Volatility Amid Geopolitical Tensions and AI Policy Shifts",
-      "title_ko": "지정학적 긴장과 AI 정책 변화 속에서 글로벌 시장이 변동성에 직면하고 있다",
-      "snippet": "The United States and China are intensifying efforts to shape a bilateral Artificial Intelligence (AI) agenda. Technical teams from both nations are currently",
-      "snippet_ko": "미국과 중국은 양국 간 인공지능(AI) 의제를 마련하기 위한 노력을 강화하고 있다. 양국의 기술 전문가 팀은 현재",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.0628,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/global-markets-face-volatility-amid-geopolitical-tensions-and-ai-policy-shifts/73035/",
-      "cross_verified": true,
-      "published_at": "2026-10-15T01:38:18.000000Z"
     }
   ]
 }
