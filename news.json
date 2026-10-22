@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-22T16:58:31.499725+00:00",
+  "updated_at": "2026-10-22T21:23:59.046505+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "EHI: High Yield And Deep Discount Aren't Enough (NYSE:EHI)",
+      "title_ko": "EHI: 높은 수익률과 큰 할인율만으로는 부족하다 (NYSE:EHI)",
+      "snippet": "Western Asset Global High Income Fund trades at a deep discount with a 15% yield, but rate and leverage risks loom. Read the full CEF analysis here.",
+      "snippet_ko": "웨스턴 애셋 글로벌 하이 인컴 펀드는 15%의 수익률을 기록하며 상당한 할인율로 거래되고 있지만, 금리 및 레버리지 리스크가 도사리고 있습니다. CEF에 대한 전체 분석은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.1439,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4956623-ehi-high-yield-and-deep-discount-arent-enough",
+      "cross_verified": true,
+      "published_at": "2026-10-22T20:13:37.000000Z"
+    },
+    {
+      "title": "[DowJonesToday]Dow Jones Inches Higher Amid Mixed Earnings and Economic Resilience",
+      "title_ko": "[DowJonesToday] 혼조세를 보이는 기업 실적과 경제의 회복력 속에 다우존스 지수 소폭 상승",
+      "snippet": "The Dow Jones Industrial Average (^DJI) was up 11.89 (0.02%) points today, closing at a record level of 52,867.98. This marginal gain reflected a cautious",
+      "snippet_ko": "다우존스 산업평균지수(^DJI)는 오늘 11.89포인트(0.02%) 상승해 사상 최고치인 52,867.98로 장을 마감했다. 이러한 소폭 상승은 신중한",
+      "symbol": "",
+      "sentiment_score": 0.6486,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/dowjonestodaydow-jones-inches-higher-amid-mixed-earnings-and-economic-resilience-2/73455/",
+      "cross_verified": true,
+      "published_at": "2026-10-22T20:09:08.000000Z"
+    },
     {
       "title": "AT&T Investors Are Still Boiling Alive (NYSE:T)",
       "title_ko": "AT&T 투자자들은 여전히 고통 속에 있다 (NYSE:T)",
@@ -1177,33 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9121074/jpmorgan-chase-jpm-files-8k-after-2026-q3-investor-presentation",
       "cross_verified": true,
       "published_at": "2026-10-13T15:30:07.000000Z"
-    },
-    {
-      "title": "Workday (WDAY) Signs Definitive Agreement to Acquire ConductorOne",
-      "title_ko": "워크데이(WDAY), 컨덕터원(ConductorOne) 인수에 관한 최종 계약 체결",
-      "snippet": "Workday, Inc. (WDAY) announced on October 12, 2026, that it has entered into a definitive agreement to acquire ConductorOne, Inc., also referred to as C1.ai, a",
-      "snippet_ko": "Workday, Inc. (WDAY)는 2026년 10월 12일, C1.ai로도 알려진 ConductorOne, Inc.를 인수하기 위한 최종 계약을 체결했다고 발표했으며, 이 회사는",
-      "symbol": "",
-      "sentiment_score": 0.5215,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9121073/workday-wday-signs-definitive-agreement-to-acquire-conductorone",
-      "cross_verified": true,
-      "published_at": "2026-10-13T15:30:07.000000Z"
-    },
-    {
-      "title": "TELUS Corporation: Kitchen Sink Cleaned, Upside Ignored (TSX:T:CA)",
-      "title_ko": "TELUS Corporation: 모든 문제가 해결되었으나 상승 여력은 간과되고 있다 (TSX:T:CA)",
-      "snippet": "TELUS reset its dividend, cut costs, and redirected C$2.7B to debt reduction, positioning for a cleaner balance sheet by 2028. Read more on the T:CA stock here.",
-      "snippet_ko": "TELUS는 배당금을 재조정하고 비용을 절감했으며, 27억 캐나다 달러를 부채 상환에 전용함으로써 2028년까지 재무 구조를 더욱 건전하게 정비할 기반을 마련했습니다. T:CA 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": -0.3182,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4953830-telus-corporation-kitchen-sink-cleaned-upside-ignored",
-      "cross_verified": true,
-      "published_at": "2026-10-13T15:26:10.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
+      "title_ko": "메타가 저커버그를 캘리포니아에 잔류시키기 위해 체결한 계약이 선거를 앞두고 부유세 논쟁에 불을 지피고 있다",
+      "snippet": "With less than two weeks before the midterm elections, Meta made clear that Mark Zuckerberg is staying in California if the wealth tax passes.",
+      "snippet_ko": "중간선거를 2주도 채 남기지 않은 시점에서, 메타는 부유세가 통과될 경우 마크 저커버그가 캘리포니아에 남을 것임을 분명히 했다.",
+      "symbol": "META",
+      "sentiment_score": -0.296,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
+      "cross_verified": true,
+      "published_at": "2026-10-22T20:37:32.000000Z"
+    },
+    {
+      "title": "Tech and Semiconductors Lead Modest Gains Amid Heavy Earnings Volume",
+      "title_ko": "실적 발표가 쇄도하는 가운데, 기술주와 반도체주가 소폭 상승을 주도했다",
+      "snippet": "The U.S. stock market maintained a cautious but positive trajectory on Thursday, October 22nd, 2026, as investors navigated a dense thicket of corporate",
+      "snippet_ko": "2026년 10월 22일 목요일, 미국 증시는 투자자들이 복잡한 기업 실적 발표를 헤쳐 나가는 가운데 신중하면서도 긍정적인 흐름을 이어갔다.",
+      "symbol": "META",
+      "sentiment_score": 0.204,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-semiconductors-lead-modest-gains-amid-heavy-earnings-volume/73453/",
+      "cross_verified": true,
+      "published_at": "2026-10-22T20:07:14.000000Z"
+    },
+    {
+      "title": "Governments, firms rush to patch PHP flaws as cyberattacks surge globally",
+      "title_ko": "전 세계적으로 사이버 공격이 급증함에 따라 각국 정부와 기업들이 PHP 취약점을 서둘러 보완하고 있다",
+      "snippet": "Governments and companies worldwide are racing to patch critical PHP vulnerabilities as hackers launch millions of attempted attacks, disrupting public services and banking operations.",
+      "snippet_ko": "해커들이 수백만 건의 공격 시도를 감행하며 공공 서비스와 은행 업무에 차질을 빚게 하는 가운데, 전 세계 정부와 기업들이 심각한 PHP 취약점을 패치하기 위해 분주히 움직이고 있다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.25,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/governments-firms-rush-to-patch-php-flaws-as-cyberattacks-surge-globally-126102201717_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-22T18:29:57.000000Z"
+    },
     {
       "title": "Meta Confirms The AI Bubble Burst Thesis: Why Ignore It? (NASDAQ:META)",
       "title_ko": "메타, ‘AI 버블 붕괴’ 가설을 입증: 왜 이를 무시해야 할까? (나스닥:META)",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9126303/option-traders-show-slight-pessimism-on-apple-aapl-ahead-of-earnings",
       "cross_verified": true,
       "published_at": "2026-10-15T20:26:01.000000Z"
-    },
-    {
-      "title": "CoreWeaves slump spotlights growing burden of debt behind AI boom",
-      "title_ko": "코어위브스의 부진이 AI 붐 이면에 숨겨진 부채 부담의 증가를 여실히 드러내고 있다",
-      "snippet": "COREWEAVE-STOCKS-MAIN:CoreWeave's slump spotlights growing burden of debt behind AI boom",
-      "snippet_ko": "COREWEAVE-STOCKS-MAIN: 코어위브의 부진이 AI 붐 이면에 숨겨진 부채 부담의 증가를 여실히 드러내고 있다",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.2542,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/coreweaves-slump-spotlights-growing-burden-of-debt-behind-ai-boom-11792094289087.html",
-      "cross_verified": true,
-      "published_at": "2026-10-15T19:58:08.000000Z"
-    },
-    {
-      "title": "Meta Unveils Muse Spark Open AI Model for Complex Coding Tasks (META)",
-      "title_ko": "메타, 복잡한 코딩 작업을 위한 ‘뮤즈 스파크(Muse Spark)’ 오픈 AI 모델 공개 (META)",
-      "snippet": "On October 15, 2026, Meta Platforms Inc (NASDAQ: META) announced the launch of Muse Spark Open, a cutting-edge AI model designed specifically for demanding codi",
-      "snippet_ko": "2026년 10월 15일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)는 까다로운 코딩 작업을 위해 특별히 설계된 최첨단 AI 모델인 ‘뮤즈 스파크 오픈(Muse Spark Open)’의 출시를 발표했습니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2985,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9126267/meta-unveils-muse-spark-open-ai-model-for-complex-coding-tasks-meta",
-      "cross_verified": true,
-      "published_at": "2026-10-15T19:56:41.000000Z"
-    },
-    {
-      "title": "Cantor Fitzgerald Sees Buying Opportunity in CoreWeave (CRWV) Amid Market Anxiety",
-      "title_ko": "칸토르 피츠제럴드, 시장 불안 속 코어위브(CRWV)에 매수 기회 포착",
-      "snippet": "On October 15, 2026, Cantor Fitzgerald issued commentary suggesting that investor concerns about CoreWeave Inc. (NASDAQ: CRWV) may be misplaced and highlighted",
-      "snippet_ko": "2026년 10월 15일, 캔터 피츠제럴드는 코어위브(CoreWeave Inc., 나스닥: CRWV)에 대한 투자자들의 우려가 근거가 없을 수도 있다는 내용의 논평을 발표했으며, 다음과 같은 점을 강조했습니다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.2582,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9126302/cantor-fitzgerald-sees-buying-opportunity-in-coreweave-crwv-amid-market-anxiety",
-      "cross_verified": true,
-      "published_at": "2026-10-15T20:25:40.000000Z"
     }
   ]
 }
