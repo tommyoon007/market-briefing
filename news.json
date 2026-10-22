@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-22T04:13:36.315878+00:00",
+  "updated_at": "2026-10-22T11:32:21.572276+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Kongsberg Automotive ASA (KGAUF) Q3 2026 Earnings Call Transcript",
+      "title_ko": "콩스베르그 오토모티브 ASA (KGAUF) 2026년 3분기 실적 발표 회의록",
+      "snippet": "Kongsberg Automotive ASA (KGAUF) Q3 2026 Earnings Call October 22, 2026 3:00 AM EDTCompany ParticipantsTherese Skurdal - Director Group Marketing...",
+      "snippet_ko": "콩스베르그 오토모티브 ASA (KGAUF) 2026년 3분기 실적 발표 전화회의, 2026년 10월 22일 오전 3:00 (EDT) 회사 참가자 테레세 스쿠르달 - 그룹 마케팅 이사...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4956224-kongsberg-automotive-asa-kgauf-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-22T11:04:00.000000Z"
+    },
+    {
+      "title": "Workiva Stock: Margins Are A Year Ahead Of Plan, The Stock Isn't (NYSE:WK)",
+      "title_ko": "Workiva 주가: 마진은 계획보다 1년 앞서지만, 주가는 그렇지 않다 (NYSE:WK)",
+      "snippet": "Workiva is a buy, with margin expansion and growth outpacing expectations; 2027 margin targets may be achieved a year early. Read more on WK stock here.",
+      "snippet_ko": "Workiva는 매수 추천 종목으로, 마진 확대와 성장세가 기대치를 상회하고 있으며, 2027년 마진 목표치가 1년 앞당겨 달성될 가능성이 있습니다. WK 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.2009,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4956275-workiva-margins-are-a-year-ahead-of-plan-the-stock-isnt",
+      "cross_verified": true,
+      "published_at": "2026-10-22T11:03:41.000000Z"
+    },
+    {
+      "title": "Essity AB (publ) 2026 Q3 - Results - Earnings Call Presentation (OTCMKTS:ETTYF) 2026-10-22",
+      "title_ko": "Essity AB (publ) 2026년 3분기 실적 - 실적 발표 - 실적 설명회 자료 (OTCMKTS:ETTYF) 2026-10-22",
+      "snippet": "2026-10-22. The following slide deck was published by Essity AB (publ) in conjunction with their 2026 Q3 earnings call.",
+      "snippet_ko": "2026년 10월 22일. 다음 슬라이드 자료는 Essity AB (publ)가 2026년 3분기 실적 발표와 함께 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4956292-essity-ab-publ-2026-q3-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-10-22T11:00:57.000000Z"
+    },
     {
       "title": "Coronado Global Resources Inc. (CODQL) Q3 2026 Earnings Call Transcript",
       "title_ko": "코로나도 글로벌 리소스(Coronado Global Resources Inc., CODQL) 2026년 3분기 실적 발표 전화 회의 기록",
@@ -1165,45 +1201,45 @@
       "url": "https://www.manilatimes.net/2026/10/13/tmt-newswire/globenewswire/melexis-transparency-declaration-by-invesco-ltd/2444203",
       "cross_verified": true,
       "published_at": "2026-10-13T05:05:49.000000Z"
-    },
-    {
-      "title": "Rocket Companies Inc (RKT) Shares Fall 5.3% -- What GF Score of 65 Tells Investors",
-      "title_ko": "로켓 컴퍼니즈(RKT) 주가 5.3% 하락… GF 점수 65점이 투자자들에게 시사하는 바는?",
-      "snippet": "On October 12, 2026, Rocket Companies Inc (RKT) shares fell by 5.3% to a current price of $10.87. This decline is part of a broader trend, with the stock experi",
-      "snippet_ko": "2026년 10월 12일, 로켓 컴퍼니즈(RKT)의 주가는 5.3% 하락하여 현재 10.87달러를 기록했습니다. 이러한 하락은 더 광범위한 추세의 일환으로, 해당 주식은",
-      "symbol": "",
-      "sentiment_score": 0.3251,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9119947/rocket-companies-inc-rkt-shares-fall-53-what-gf-score-of-65-tells-investors",
-      "cross_verified": true,
-      "published_at": "2026-10-12T22:29:31.000000Z"
-    },
-    {
-      "title": "Zscaler Inc (ZS) Stock Down 3.4% -- Now Undervalued? GF Score: 80/100",
-      "title_ko": "Zscaler Inc (ZS) 주가 3.4% 하락… 이제 저평가된 것일까? GF 점수: 80/100",
-      "snippet": "On October 12, 2026, Zscaler Inc (ZS) shares experienced a decline of 3.4%, bringing the current price to $225.78. Over the past year, the stock has fluctuated",
-      "snippet_ko": "2026년 10월 12일, Zscaler Inc(ZS) 주가는 3.4% 하락하여 현재 주가는 225.78달러를 기록했습니다. 지난 1년 동안 이 주가는 등락을 거듭했습니다.",
-      "symbol": "",
-      "sentiment_score": 0.3032,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9119945/zscaler-inc-zs-stock-down-34-now-undervalued-gf-score-80100",
-      "cross_verified": true,
-      "published_at": "2026-10-12T22:27:37.000000Z"
-    },
-    {
-      "title": "A Look at Ubiquiti Inc (UI) After 5.7% Decline -- GF Value $555.01 vs Price $619.56",
-      "title_ko": "5.7% 하락한 유비퀴티(UI) 현황 살펴보기 — GF 밸류 $555.01 vs 시가 $619.56",
-      "snippet": "On October 12, 2026, Ubiquiti Inc (UI) shares fell 5.7% to $619.56, amidst a 52-week trading range of $500.23 to $1099.99. The drop in price raises questions ab",
-      "snippet_ko": "2026년 10월 12일, Ubiquiti Inc(UI)의 주가는 52주 거래 범위인 500.23달러에서 1099.99달러 사이에서 5.7% 하락한 619.56달러를 기록했습니다. 이러한 주가 하락은 다음과 같은 의문을 제기합니다.",
-      "symbol": "",
-      "sentiment_score": 0.6421,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9119944/a-look-at-ubiquiti-inc-ui-after-57-decline-gf-value-55501-vs-price-61956",
-      "cross_verified": true,
-      "published_at": "2026-10-12T22:26:40.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Meta Platforms: Muse Gives Meta Its First Real AI Revenue Engine (NASDAQ:META)",
+      "title_ko": "메타 플랫폼스: ‘뮤즈’가 메타에 첫 번째 진정한 AI 수익 창출 동력을 제공하다 (나스닥: META)",
+      "snippet": "Meta Platforms is poised for margin-accretive AI monetization with Meta Muse, targeting both consumer and enterprise segments. Learn more about META stock here.",
+      "snippet_ko": "메타 플랫폼스는 소비자 및 기업 부문 모두를 겨냥한 ‘메타 뮤즈(Meta Muse)’를 통해 이익 마진을 높여줄 AI 수익화 전략을 추진할 준비를 마쳤습니다. META 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "META",
+      "sentiment_score": 0.17,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4956261-meta-platforms-muse-gives-meta-its-first-real-ai-revenue-engine",
+      "cross_verified": true,
+      "published_at": "2026-10-22T10:34:27.000000Z"
+    },
+    {
+      "title": "PHP security vulnerabilities prompt website shutdowns across Europe",
+      "title_ko": "PHP 보안 취약점으로 인해 유럽 전역에서 웹사이트 운영이 중단되고 있다",
+      "snippet": "Critical PHP vulnerabilities have prompted website shutdowns across Europe, a US-led response and protective measures from Cloudflare amid reports of early attacks.",
+      "snippet_ko": "PHP의 심각한 취약점으로 인해 유럽 전역에서 웹사이트가 중단되었으며, 초기 공격 사례가 보고되는 가운데 미국이 주도하는 대응 조치와 클라우드플레어의 보호 조치가 취해졌다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.6794,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/info-tech/europe-takes-government-websites-offline-over-critical-php-security-vulnerabilities/article71610290.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-22T06:22:57.000000Z"
+    },
+    {
+      "title": "PHP security flaws: US responds as Europe takes websites offline",
+      "title_ko": "PHP 보안 취약점: 유럽에서 웹사이트 접속 차단 조치에 미국도 대응 나서",
+      "snippet": "Two PHP security flaws have triggered a global alert, with the US coordinating a response, European websites going offline and Cloudflare reporting early attacks.",
+      "snippet_ko": "PHP의 두 가지 보안 결함으로 인해 전 세계적으로 경보가 발령되었으며, 미국은 대응 조치를 조율하고 있고, 유럽의 웹사이트들은 접속이 중단되었으며, 클라우드플레어는 초기 공격 사례를 보고했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.5142,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/info-tech/php-security-flaws-put-70-of-the-internet-at-risk-says-wiz/article71610292.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-22T06:01:29.000000Z"
+    },
     {
       "title": "Tiger Brokers Clinches Best Retail Broker in Singapore at SIAS Investors' Choice Awards 2026",
       "title_ko": "타이거 브로커스, ‘2026 SIAS 투자자 선택상’에서 싱가포르 최고의 소매 중개사 부문 수상",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9125685/amazon-launches-75-bee-ai-wristband-and-100-recorder",
       "cross_verified": true,
       "published_at": "2026-10-15T15:54:10.000000Z"
-    },
-    {
-      "title": "Citi Raises Meta Price Target to $895 Ahead of Q3 Earnings",
-      "title_ko": "씨티, 3분기 실적 발표를 앞두고 메타의 목표 주가를 895달러로 상향 조정",
-      "snippet": "Meta Platforms Inc. (META, Financials), the social-media giant, is getting another bullish call from Wall Street as expectations around its artificial-intellige",
-      "snippet_ko": "소셜 미디어 업계의 거물인 메타 플랫폼스(Meta Platforms Inc., META, 금융)가 인공지능에 대한 기대감으로 인해 월가로부터 또 한 번의 낙관적 전망을 받고 있다.",
-      "symbol": "META",
-      "sentiment_score": 0.0,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9125702/citi-raises-meta-price-target-to-895-ahead-of-q3-earnings",
-      "cross_verified": true,
-      "published_at": "2026-10-15T15:51:38.000000Z"
-    },
-    {
-      "title": "Elon Musk's Potential Tesla-SpaceX Merger: Barclays Predicts Impact on Voting Power",
-      "title_ko": "일론 머스크의 테슬라-스페이스X 합병 가능성: 바클레이즈, 의결권 영향 전망",
-      "snippet": "On October 15, 2026, Barclays analyst Dan Levy forecasted a potential merger announcement between Tesla Inc (TSLA) and SpaceX before December. This strategic mo",
-      "snippet_ko": "2026년 10월 15일, 바클레이즈의 애널리스트 댄 레비는 테슬라(TSLA)와 스페이스X가 12월 이전에 합병을 발표할 가능성이 있다고 전망했다. 이러한 전략적 모...",
-      "symbol": "TSLA",
-      "sentiment_score": 0.4663,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9125897/elon-musks-potential-teslaspacex-merger-barclays-predicts-impact-on-voting-power",
-      "cross_verified": true,
-      "published_at": "2026-10-15T16:13:39.000000Z"
-    },
-    {
-      "title": "ETF Activity: QQQ Leads With $6.35 Billion Inflow on Oct. 13",
-      "title_ko": "ETF 동향: 10월 13일, QQQ가 63억 5천만 달러의 자금 유입으로 선두를 달렸다",
-      "snippet": "ETF activity on Tuesday, Oct. 13, showed a clear tilt toward growth and small-cap exposure, with 291 ETFs reporting and 32,940 positions increased against 17,31",
-      "snippet_ko": "10월 13일 화요일 ETF 거래 동향은 성장주 및 소형주에 대한 투자 선호가 뚜렷하게 나타났으며, 보고된 291개 ETF 중 32,940건의 포지션이 증가한 반면 17,31건은 감소했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4895,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9125012/etf-activity-qqq-leads-with-635-billion-inflow-on-oct-13",
-      "cross_verified": true,
-      "published_at": "2026-10-15T11:00:11.000000Z"
     }
   ]
 }
