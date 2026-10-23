@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-23T00:29:29.939296+00:00",
+  "updated_at": "2026-10-23T07:16:53.788968+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Tractor Supply Company 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:TSCO) 2026-10-23",
+      "title_ko": "트랙터 서플라이 컴퍼니 2026년 3분기 실적 - 실적 발표 전화 회의 프레젠테이션 (NASDAQ:TSCO) 2026-10-23",
+      "snippet": "2026-10-23. The following slide deck was published by Tractor Supply Company in conjunction with their 2026 Q3 earnings call.",
+      "snippet_ko": "2026년 10월 23일. 다음 슬라이드 자료는 트랙터 서플라이 컴퍼니(Tractor Supply Company)가 2026년 3분기 실적 발표와 함께 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4956780-tractor-supply-company-2026-q3-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-10-23T06:03:32.000000Z"
+    },
+    {
+      "title": "New Zealand vs India 2nd T20I: Playing 11, live toss time (IST), streaming",
+      "title_ko": "뉴질랜드 대 인도 2차 T20I: 선발 라인업, 코인 토스 시간(인도 표준시), 생중계",
+      "snippet": "Vaibhav Sooryavanshi is likely to return to the playing 11 for the second T20I, with Ishan Kishan ruled out due to injury",
+      "snippet_ko": "이샨 키샨이 부상으로 결장함에 따라, 바이바브 수르야반시가 두 번째 T20I 경기에서 선발 라인업에 복귀할 것으로 보인다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/cricket/news/new-zealand-vs-india-2nd-t20i-playing-11-live-toss-time-ist-streaming-126102300351_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-23T05:50:27.000000Z"
+    },
+    {
+      "title": "France steps up security, deploys military to contain fresh protests",
+      "title_ko": "프랑스, 보안 강화 및 군 병력 투입으로 새로운 시위 확산 차단",
+      "snippet": "There will be 20% more police on the ground than last Saturday, according to the Interior Ministry",
+      "snippet_ko": "내무부에 따르면, 지난 토요일보다 현장에 배치되는 경찰 인원이 20% 늘어날 것이라고 한다.",
+      "symbol": "",
+      "sentiment_score": -0.8501,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/france-steps-up-security-deploys-military-to-contain-fresh-protests-126102300373_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-23T05:35:39.000000Z"
+    },
     {
       "title": "Mullen Group Ltd. (MTL:CA) Q3 2026 Earnings Call Transcript",
       "title_ko": "Mullen Group Ltd. (MTL:CA) 2026년 3분기 실적 발표 전화 회의 기록",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9123684/salesforce-crm-shares-dip-amid-moderate-bearish-sentiment-and-options-activity",
       "cross_verified": true,
       "published_at": "2026-10-14T17:25:54.000000Z"
-    },
-    {
-      "title": "Johnson & Johnson stock rout: What's driving the sharp decline? - J&J stock slides despite higher earnings guidance",
-      "title_ko": "존슨앤드존슨 주가 폭락: 급락의 원인은 무엇인가? - 실적 전망 상향 조정에도 J&J 주가 하락",
-      "snippet": "Johnson & Johnson shares fell sharply on October 13, with losses reaching about 6.8% during intraday trading, despite the healthcare giant raising its full-year earnings outlook. Investors focused on weak reported profits and uneven performance across its business segments. (Source: GuruFocus, Investing.com) J&J stock slides despite higher earnings guidance",
-      "snippet_ko": "10월 13일, 헬스케어 업계의 거대 기업인 존슨앤드존슨(Johnson & Johnson)이 연간 실적 전망치를 상향 조정했음에도 불구하고 주가는 급락했으며, 장중 한때 약 6.8%의 하락폭을 기록했다. 투자자들은 부진한 실적과 사업 부문별 성과 격차에 주목했다. (출처: GuruFocus, Investing.com) 실적 전망치 상향에도 J&J 주가 하락",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/johnson-amp-johnson-stock-rout-whats-driving-the-sharp-decline/slideshow/134935157.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-14T06:53:09.000000Z"
-    },
-    {
-      "title": "VodafoneZiggo Receives EU Commission Clearance For Tower Sale",
-      "title_ko": "보다폰 지고, 타워 매각에 대해 EU 집행위원회 승인 획득",
-      "snippet": "DENVER and AMSTERDAM, Oct. 14, 2026 (GLOBE NEWSWIRE) -- Liberty Global (Nasdaq: LBTYA, LBTYB, LBTYK) welcomes EU commission clearance of its sale of VodafoneZiggo’s passive tower assets to DigitalBridge, TD Greystone Infrastructure and L&G.",
-      "snippet_ko": "덴버 및 암스테르담, 2026년 10월 14일 (GLOBE NEWSWIRE) -- 리버티 글로벌(Liberty Global, 나스닥: LBTYA, LBTYB, LBTYK)은 보다폰지고(VodafoneZiggo)의 수동형 타워 자산을 디지털브리지(DigitalBridge), TD 그레이스톤 인프라(TD Greystone Infrastructure), L&G에 매각하는 거래에 대해 유럽연합(EU) 집행위원회의 승인을 받은 것을 환영합니다.",
-      "symbol": "",
-      "sentiment_score": 0.7055,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/14/tmt-newswire/globenewswire/vodafoneziggo-receives-eu-commission-clearance-for-tower-sale/2445247",
-      "cross_verified": true,
-      "published_at": "2026-10-14T06:11:19.000000Z"
-    },
-    {
-      "title": "Q3 2026 Citigroup Inc Earnings Call Transcript",
-      "title_ko": "2026년 3분기 씨티그룹(Citigroup Inc) 실적 발표 전화 회의 기록",
-      "snippet": "Oct 13, 2026 / 03:00PM GMTOperator Hello and welcome to Citi's third-quarter 2026 earnings call. Today's call will be hosted by Margo Pilic, Head of Citi Strate",
-      "snippet_ko": "2026년 10월 13일 / 오후 3:00 (GMT) 운영자: 안녕하십니까. 씨티의 2026년 3분기 실적 발표 전화 회의에 오신 것을 환영합니다. 오늘 회의는 씨티 스트래티지(Citi Strate)의 책임자인 마고 필릭(Margo Pilic) 씨가 진행합니다.",
-      "symbol": "",
-      "sentiment_score": 0.3922,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9121612/q3-2026-citigroup-inc-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-10-13T21:00:09.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "What It Is, 10 Types, Examples",
+      "title_ko": "정의, 10가지 유형, 예시",
+      "snippet": "Guide to what is Consensus Mechanism. Here, we explain the concept along with its types, examples, advantages & disadvantages.",
+      "snippet_ko": "컨센서스 메커니즘이란 무엇인가에 대한 안내. 여기서는 이 개념에 대해 그 유형, 예시, 장단점과 함께 설명합니다.",
+      "symbol": "INTC",
+      "sentiment_score": 0.0,
+      "source": "wallstreetmojo.com",
+      "url": "https://www.wallstreetmojo.com/consensus-mechanism/",
+      "cross_verified": true,
+      "published_at": "2026-10-23T05:30:00.000000Z"
+    },
+    {
+      "title": "Global Markets Braced for ECB Rate Hike and Tech Sector Realignment",
+      "title_ko": "세계 시장, ECB 금리 인상과 기술주 재편에 대비",
+      "snippet": "The European Central Bank is widely expected to pause its tightening cycle in October before implementing a final 25-basis-point interest rate increase in",
+      "snippet_ko": "유럽중앙은행(ECB)은 10월에 긴축 사이클을 잠시 중단한 뒤, 최종적으로 25베이시스포인트의 금리 인상을 단행할 것으로 널리 예상되고 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.0516,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/global-markets-braced-for-ecb-rate-hike-and-tech-sector-realignment/73474/",
+      "cross_verified": true,
+      "published_at": "2026-10-23T04:38:24.000000Z"
+    },
+    {
+      "title": "OpenAI shifts valuation to $1.25 trillion as funding talks near final stage",
+      "title_ko": "자금 조달 협상이 막바지에 접어들면서 OpenAI의 기업 가치가 1조 2,500억 달러로 상향 조정됐다",
+      "snippet": "The ChatGPT maker shifted the value discussed in the talks by $150 billion, from $1.4 trillion",
+      "snippet_ko": "ChatGPT 개발사는 협상에서 논의된 가치를 1조 4천억 달러에서 1,500억 달러만큼 조정했다.",
+      "symbol": "META",
+      "sentiment_score": 0.2507,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/openai-shifts-valuation-to-1-25-trillion-as-funding-talks-near-final-stage-126102300159_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-23T03:39:54.000000Z"
+    },
     {
       "title": "Global Markets Retreat on AI Spending Jitters and Middle East Conflict",
       "title_ko": "AI 투자에 대한 우려와 중동 분쟁으로 글로벌 시장 하락",
@@ -2367,42 +2403,6 @@
       "url": "https://www.business-standard.com/companies/news/india-s-family-offices-bet-on-homegrown-ai-firms-to-catch-up-with-us-china-126101600176_1.html",
       "cross_verified": true,
       "published_at": "2026-10-16T04:04:39.000000Z"
-    },
-    {
-      "title": "Senate Leadership Fund Raises $272.9M in Q3, Elon Musk Donates $158M; TSLA Insights",
-      "title_ko": "상원 지도부 기금, 3분기에 2억 7,290만 달러 모금… 일론 머스크, 1억 5,800만 달러 기부; TSLA 인사이트",
-      "snippet": "On October 16, 2026, the Senate Leadership Fund (SLF), a leading Republican super PAC, announced a record-breaking quarterly fundraising haul of $272.9 million",
-      "snippet_ko": "2026년 10월 16일, 공화당 계열의 주요 슈퍼 PAC인 상원 지도부 기금(SLF)은 분기 모금액으로 사상 최대인 2억 7,290만 달러를 기록했다고 발표했다.",
-      "symbol": "TSLA",
-      "sentiment_score": 0.5026,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9127247/senate-leadership-fund-raises-2729m-in-q3-elon-musk-donates-158m-tsla-insights",
-      "cross_verified": true,
-      "published_at": "2026-10-16T06:55:24.000000Z"
-    },
-    {
-      "title": "Tesla CEO Elon Musk Highlights China's Declining Oil Dependence",
-      "title_ko": "테슬라 CEO 엘론 머스크, 중국의 석유 의존도 감소 강조",
-      "snippet": "On October 16, 2026, Tesla CEO Elon Musk made headlines on social media platform X, commenting on China's decreasing reliance on oil. This statement followed an",
-      "snippet_ko": "2026년 10월 16일, 테슬라의 CEO 엘론 머스크는 소셜 미디어 플랫폼 ‘X’에서 중국의 석유 의존도 감소에 대해 언급하며 화제를 모았다. 이 발언은",
-      "symbol": "TSLA",
-      "sentiment_score": 0.4017,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9127246/tesla-ceo-elon-musk-highlights-chinas-declining-oil-dependence",
-      "cross_verified": true,
-      "published_at": "2026-10-16T06:51:48.000000Z"
-    },
-    {
-      "title": "U.S. Tech Coalition Pledges $330M for White House Ballroom; Nvidia (NVDA) Among Top Donors",
-      "title_ko": "미국 기술 기업 연합, 백악관 연회장 건립을 위해 3억 3천만 달러 기부 약속… 엔비디아(NVDA)가 주요 기부사 중 하나",
-      "snippet": "On October 15, 2026, a coalition of leading U.S. technology companies and individuals committed $330 million towards the White House ballroom initiative, with N",
-      "snippet_ko": "2026년 10월 15일, 미국의 주요 기술 기업 및 개인들로 구성된 연합체가 백악관 볼룸 이니셔티브에 3억 3천만 달러를 기부하기로 약속했으며, N",
-      "symbol": "AAPL",
-      "sentiment_score": 0.5982,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9126631/us-tech-coalition-pledges-330m-for-white-house-ballroom-nvidia-nvda-among-top-donors",
-      "cross_verified": true,
-      "published_at": "2026-10-15T23:01:00.000000Z"
     }
   ]
 }
