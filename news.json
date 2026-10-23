@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-23T07:16:53.788968+00:00",
+  "updated_at": "2026-10-23T13:15:47.528381+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Bank OZK: Buy Reaffirmed After Q3 Results Support Dividend Strength (NASDAQ:OZK)",
+      "title_ko": "뱅크 OZK: 3분기 실적이 배당금 지급 능력을 뒷받침함에 따라 ‘매수’ 추천 재확인 (나스닥: OZK)",
+      "snippet": "Bank OZK buy rating reaffirmed on dividend strength, low debt, and below-book valuation. Click here to read an analysis of OZK stock now.",
+      "snippet_ko": "Bank OZK에 대한 ‘매수’ 등급이 배당금 지급 능력, 낮은 부채 수준, 장부 가치보다 낮은 주가 평가 등을 근거로 재확인되었습니다. 지금 바로 OZK 주식에 대한 분석을 보시려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.7096,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4956804-bank-ozk-buy-reaffirmed-after-q3-results-support-dividend-strength",
+      "cross_verified": true,
+      "published_at": "2026-10-23T12:45:00.000000Z"
+    },
+    {
+      "title": "Republic Bancorp GAAP EPS of $1.59 misses by $0.06, revenue of $77M misses by $23.35M (NASDAQ:RBCAA)",
+      "title_ko": "리퍼블릭 뱅크코프(Republic Bancorp)의 GAAP 기준 주당순이익(EPS)은 1.59달러로 예상치보다 0.06달러 낮았으며, 매출은 7,700만 달러로 예상치보다 2,335만 달러 낮았다 (나스닥: RBCAA)",
+      "snippet": "Republic Bancorp press release (RBCAA): Q3 GAAP EPS of $1.59 misses by $0.06. Revenue of $77M (+7.4% Y/Y) misses by $23.35M.",
+      "snippet_ko": "리퍼블릭 뱅크코프(RBCAA) 보도자료: 3분기 GAAP 기준 주당순이익(EPS) 1.59달러는 예상치를 0.06달러 하회했다. 매출은 7,700만 달러(전년 동기 대비 7.4% 증가)로, 예상치를 2,335만 달러 하회했다.",
+      "symbol": "",
+      "sentiment_score": -0.4215,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4656550-republic-bancorp-gaap-eps-of-1_59-misses-by-0_06-revenue-of-77m-misses-by-23_35m",
+      "cross_verified": true,
+      "published_at": "2026-10-23T12:35:44.000000Z"
+    },
+    {
+      "title": "Tractor Supply Q3: Caution Is Warranted (Rating Downgrade) (NASDAQ:TSCO)",
+      "title_ko": "트랙터 서플라이 3분기 실적: 신중한 접근 필요 (등급 하향 조정) (나스닥:TSCO)",
+      "snippet": "Tractor Supply Company Q3 beat cautious forecasts, but weak same-store sales and macro pressures cloud the outlook. Read why TSCO stock is downgraded to a hold.",
+      "snippet_ko": "트랙터 서플라이 컴퍼니(Tractor Supply Company)의 3분기 실적이 신중한 전망치를 상회했으나, 부진한 동일 매장 매출과 거시경제적 압박으로 인해 전망이 불투명해졌습니다. TSCO 주식이 ‘보유(Hold)’로 하향 조정된 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": -0.1661,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4956872-tractor-supply-q3-caution-is-warranted-rating-downgrade",
+      "cross_verified": true,
+      "published_at": "2026-10-23T12:22:25.000000Z"
+    },
     {
       "title": "Tractor Supply Company 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:TSCO) 2026-10-23",
       "title_ko": "트랙터 서플라이 컴퍼니 2026년 3분기 실적 - 실적 발표 전화 회의 프레젠테이션 (NASDAQ:TSCO) 2026-10-23",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9124089/liquidia-corporation-lqda-shares-surge-27-after-global-settlement-with-united-therapeutics",
       "cross_verified": true,
       "published_at": "2026-10-14T22:01:52.000000Z"
-    },
-    {
-      "title": "Russell 2000 ETF breaks below major moving averages and tags a near 5-month low",
-      "title_ko": "러셀 2000 ETF가 주요 이동평균선을 하향 돌파하며 약 5개월 만의 최저치를 기록했습니다.",
-      "snippet": "IWM hits multi-month lows below key moving averages as RSI signals oversold small-cap weakness.",
-      "snippet_ko": "IWM이 주요 이동평균선을 하회하며 수개월 만에 최저치를 기록한 가운데, RSI는 소형주 시장의 약세를 나타내는 과매도 신호를 보내고 있다.",
-      "symbol": "",
-      "sentiment_score": -0.6597,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4653068-russell-2000-etf-breaks-below-major-moving-averages-and-tags-a-near-5-month-low",
-      "cross_verified": true,
-      "published_at": "2026-10-14T17:33:26.000000Z"
-    },
-    {
-      "title": "AeroVironment (AVAV) Signs MOU with Alpha Unmanned Systems to Boost JUMP 20 Support in Europe",
-      "title_ko": "에어로바이론먼트(AVAV), 유럽 내 JUMP 20 지원 확대를 위해 알파 무인 시스템즈와 양해각서(MOU) 체결",
-      "snippet": "On October 14, 2026, AeroVironment Inc (NASDAQ: AVAV) announced a memorandum of understanding with Alpha Unmanned Systems S.L. to explore collaboration aimed at",
-      "snippet_ko": "2026년 10월 14일, AeroVironment Inc(나스닥: AVAV)는 Alpha Unmanned Systems S.L.과 다음과 같은 목적을 위한 협력 방안을 모색하기 위한 양해각서(MOU)를 체결했다고 발표했습니다.",
-      "symbol": "",
-      "sentiment_score": 0.7041,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9123685/aerovironment-avav-signs-mou-with-alpha-unmanned-systems-to-boost-jump-20-support-in-europe",
-      "cross_verified": true,
-      "published_at": "2026-10-14T17:26:18.000000Z"
-    },
-    {
-      "title": "Salesforce (CRM) Shares Dip Amid Moderate Bearish Sentiment and Options Activity",
-      "title_ko": "세일즈포스(CRM) 주가, 소폭의 약세 심리와 옵션 거래 활동 속에 하락",
-      "snippet": "On October 14, 2026, Salesforce Inc (NYSE: CRM) experienced a decline of $2.06, closing near $235.96, reflecting a moderate bearish outlook among traders. The o",
-      "snippet_ko": "2026년 10월 14일, 세일즈포스(Salesforce Inc, NYSE: CRM) 주가는 2.06달러 하락하여 235.96달러 부근에서 장을 마감했으며, 이는 트레이더들 사이에서 다소 약세적인 전망이 반영된 결과였다. 이",
-      "symbol": "",
-      "sentiment_score": -0.1027,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9123684/salesforce-crm-shares-dip-amid-moderate-bearish-sentiment-and-options-activity",
-      "cross_verified": true,
-      "published_at": "2026-10-14T17:25:54.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Safe haven search is on Friday as investors keep rotating",
+      "title_ko": "투자자들이 계속해서 포트폴리오를 재조정함에 따라 금요일에는 안전자산 매수세가 이어지고 있다",
+      "snippet": "Here are the key things investors need to know to start the trading day.",
+      "snippet_ko": "오늘 장을 시작하기 전에 투자자들이 꼭 알아야 할 주요 사항들은 다음과 같습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4175,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/23/safe-haven-search-is-on-friday-as-investors-keep-rotating.html",
+      "cross_verified": true,
+      "published_at": "2026-10-23T11:05:13.000000Z"
+    },
+    {
+      "title": "Tech Resilience and Earnings Anticipation: Stock Market Today, October 23, 2026",
+      "title_ko": "기술주의 회복력과 실적 전망: 2026년 10월 23일 오늘의 주식 시장",
+      "snippet": "The U.S. stock market entered Friday, October 23, 2026, with a cautious but resilient tone as investors balanced a heavy earnings calendar against shifting",
+      "snippet_ko": "2026년 10월 23일 금요일, 미국 증시는 투자자들이 빽빽한 실적 발표 일정과 변화하는 시장 상황을 저울질하는 가운데, 신중한 분위기 속에서도 탄탄한 모습을 보이며 장을 열었다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2585,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-resilience-and-earnings-anticipation-stock-market-today-october-23-2026/73485/",
+      "cross_verified": true,
+      "published_at": "2026-10-23T10:07:16.000000Z"
+    },
+    {
+      "title": "WeShop Opens Share Claims for UK Members on November 23, Marking One Year on Nasdaq",
+      "title_ko": "WeShop, 11월 23일 영국 회원 대상 주식 청구 서비스 개시… 나스닥 상장 1주년 기념",
+      "snippet": "NEW YORK, Oct. 23, 2026 (GLOBE NEWSWIRE) -- WeShop Holdings Limited ('WeShop” or the 'Company”) (NASDAQ: WSHP), the community-owned shopping app on a mission to make shopping more rewarding, today announced that eligible UK members participating in the WeShop ShareBack™ Rewards Plan (the 'ShareBack Plan”) will be able to begin claiming the Company’s Class A ordinary shares on November 23, marking one year since WeShop’s Nasdaq listing.",
+      "snippet_ko": "뉴욕, 2026년 10월 23일 (GLOBE NEWSWIRE) -- WeShop Holdings Limited(이하 ‘WeShop’ 또는 ‘회사’)(NASDAQ: WSHP), 쇼핑을 더욱 보람 있게 만드는 것을 사명으로 하는 커뮤니티 소유의 쇼핑 앱인 WeShop은 오늘, WeShop ShareBack™ 리워드 플랜(이하 ‘ShareBack 플랜’)에 참여하는 자격을 갖춘 영국 회원들이 11월 23일부터 회사의 A종 보통주를 청구할 수 있게 될 것이라고 발표했습니다. 이는 WeShop이 나스닥에 상장된 지 1년이 되는 날입니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5574,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/weshop-opens-share-claims-for-uk-members-on-november-23-marking-one-year-on-nasdaq/2452605",
+      "cross_verified": true,
+      "published_at": "2026-10-23T09:17:16.000000Z"
+    },
     {
       "title": "What It Is, 10 Types, Examples",
       "title_ko": "정의, 10가지 유형, 예시",
@@ -2367,42 +2403,6 @@
       "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/networknews-audio-announces-audio-press-release-apr-discussing-ai-factories-that-turn-power-into-usable-compute-output/2447490",
       "cross_verified": true,
       "published_at": "2026-10-16T12:42:14.000000Z"
-    },
-    {
-      "title": "Michael Dell loses over $20 billion in a single day as Dell stock slumps 11%; loses 4th-richest person status",
-      "title_ko": "델 주가가 11% 급락하면서 마이클 델은 하루 만에 200억 달러 이상의 재산을 잃었고, 부자 순위 4위 자리도 내주게 되었다",
-      "snippet": "Dell briefly became the world's second-richest person, behind Elon Musk, after his net worth surpassed $270 billion.",
-      "snippet_ko": "델의 순자산이 2,700억 달러를 넘어선 후, 그는 잠시 엘론 머스크에 이어 세계에서 두 번째로 부유한 인물이 되었다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.5106,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/people/michael-dell-loses-over-20-billion-in-a-single-day-as-dell-stock-slumps-11-loses-4th-richest-person-status-11792125702948.html",
-      "cross_verified": true,
-      "published_at": "2026-10-16T05:24:32.000000Z"
-    },
-    {
-      "title": "Fed Chair Warsh Signals Data-Dependent Path, Highlights AI as “Most Consequential” Economic Shift",
-      "title_ko": "연준 의장 워시, 데이터에 따른 정책 경로 시사… AI를 “가장 중대한” 경제 변화로 지목",
-      "snippet": "Speaking at an IMF session in Bangkok, Federal Reserve Chairman Kevin Warsh maintained his signature \"quiet Fed\" approach, refusing to offer",
-      "snippet_ko": "방콕에서 열린 IMF 회의에서 연설한 케빈 워시 연방준비제도(Fed) 의장은 자신의 트레이드마크인 ‘조용한 연준’ 접근 방식을 고수하며, 이에 대한 언급을 거부했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.9556,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/fed-chair-warsh-signals-data-dependent-path-highlights-ai-as-most-consequential-economic-shift/73105/",
-      "cross_verified": true,
-      "published_at": "2026-10-16T04:08:12.000000Z"
-    },
-    {
-      "title": "India's family offices bet on homegrown AI firms to catch up with US, China",
-      "title_ko": "인도의 패밀리 오피스는 미국, 중국을 따라잡기 위해 자국 AI 기업들에 투자하고 있다",
-      "snippet": "Azim Premji's family office, QED Innovation Labs and Ranjan Pai's family office are backing homegrown AI firms, even as India's AI investment of over $15 bn between 2013 and 2025 trails US and China",
-      "snippet_ko": "2013년부터 2025년까지 인도의 AI 투자 규모가 150억 달러를 넘었음에도 미국과 중국에 뒤처지고 있는 상황이지만, 아짐 프렘지의 패밀리 오피스인 QED 이노베이션 랩스와 란잔 파이의 패밀리 오피스는 인도 토종 AI 기업들을 지원하고 있다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.1452,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/companies/news/india-s-family-offices-bet-on-homegrown-ai-firms-to-catch-up-with-us-china-126101600176_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-16T04:04:39.000000Z"
     }
   ]
 }
