@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-23T13:15:47.528381+00:00",
+  "updated_at": "2026-10-23T18:12:46.092975+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Rogers Communications: A Cash Flow Giant With Feet Of Clay (NYSE:RCI)",
+      "title_ko": "로저스 커뮤니케이션즈: 허술한 기반을 가진 현금 흐름의 거인 (NYSE:RCI)",
+      "snippet": "Rogers Communications remains a Buy, trading at a steep valuation discount despite robust free cash flow and undervalued sports assets. Click for more on RCI.",
+      "snippet_ko": "로저스 커뮤니케이션스는 견실한 자유 현금 흐름과 저평가된 스포츠 자산을 보유하고 있음에도 불구하고, 주가가 상당히 낮은 수준에서 거래되고 있어 여전히 ‘매수’ 추천을 유지합니다. RCI에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4957018-rogers-communications-a-cash-flow-giant-with-feet-of-clay",
+      "cross_verified": true,
+      "published_at": "2026-10-23T17:12:40.000000Z"
+    },
+    {
+      "title": "Valley National Bancorp: Balance Sheet Transformation Continues (NASDAQ:VLY)",
+      "title_ko": "밸리 내셔널 뱅크코프: 대차대조표 구조 개편 지속 (나스닥: VLY)",
+      "snippet": "Valley National Bancorp remains a buy, supported by balance sheet improvements, CRE reduction, and a robust capital position. Learn more about VLY stock here.",
+      "snippet_ko": "밸리 내셔널 뱅크코프(Valley National Bancorp)는 대차대조표 개선, 상업용 부동산(CRE) 축소, 견고한 자본 건전성을 바탕으로 여전히 매수 추천 종목으로 남아 있습니다. VLY 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.3352,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4957014-valley-national-bancorp-balance-sheet-transformation-continues",
+      "cross_verified": true,
+      "published_at": "2026-10-23T16:48:36.000000Z"
+    },
     {
       "title": "Bank OZK: Buy Reaffirmed After Q3 Results Support Dividend Strength (NASDAQ:OZK)",
       "title_ko": "뱅크 OZK: 3분기 실적이 배당금 지급 능력을 뒷받침함에 따라 ‘매수’ 추천 재확인 (나스닥: OZK)",
@@ -1177,33 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9124139/lqda-upgraded-by-lifesci-capital-price-target-announced-at-5900",
       "cross_verified": true,
       "published_at": "2026-10-14T22:31:33.000000Z"
-    },
-    {
-      "title": "Jaguar Health (JAGX) Announces Special Stock Dividend Ahead of October 16 Ex-Dividend Date",
-      "title_ko": "재규어 헬스(JAGX), 10월 16일 배당락일 앞두고 특별 주식배당 발표",
-      "snippet": "On October 14, 2026, Jaguar Health Inc (NASDAQ: JAGX) announced a special stock dividend issuance scheduled for October 15, 2026, to shareholders of record as o",
-      "snippet_ko": "2026년 10월 14일, 재규어 헬스(Jaguar Health Inc, 나스닥: JAGX)는 2026년 10월 15일자로, 해당 날짜 기준 주주들에게 특별 주식 배당을 실시할 예정이라고 발표했습니다.",
-      "symbol": "",
-      "sentiment_score": -0.079,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9124123/jaguar-health-jagx-announces-special-stock-dividend-ahead-of-october-16-exdividend-date",
-      "cross_verified": true,
-      "published_at": "2026-10-14T22:25:56.000000Z"
-    },
-    {
-      "title": "Liquidia Corporation (LQDA) Shares Surge 27% After Global Settlement with United Therapeutics",
-      "title_ko": "리퀴디아 코퍼레이션(LQDA), 유나이티드 테라퓨틱스와 전 세계적 합의 체결 후 주가 27% 급등",
-      "snippet": "On October 14, 2026, Liquidia Corporation (LQDA) saw its stock price jump nearly 27%, closing at $33.94 following the announcement of a global settlement resolv",
-      "snippet_ko": "2026년 10월 14일, 리퀴디아 코퍼레이션(LQDA)은 전 세계적 합의 해결안이 발표된 후 주가가 27% 가까이 급등하여 33.94달러에 장을 마감했다.",
-      "symbol": "",
-      "sentiment_score": 0.4825,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9124089/liquidia-corporation-lqda-shares-surge-27-after-global-settlement-with-united-therapeutics",
-      "cross_verified": true,
-      "published_at": "2026-10-14T22:01:52.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Alphabet (GOOGL): Investing Behind AI Demand and TPU Growth",
+      "title_ko": "알파벳(GOOGL): AI 수요와 TPU 성장에 주목한 투자",
+      "snippet": "Broyhill Asset Management, a Charlotte-based firm, issued its third-quarter 2026 investor letter. The letter can be downloaded here.",
+      "snippet_ko": "샬럿에 본사를 둔 브로이힐 자산운용(Broyhill Asset Management)이 2026년 3분기 투자자 서한을 발간했습니다. 해당 서한은 여기에서 다운로드할 수 있습니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2732,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/alphabet-googl-investing-behind-ai-demand-and-tpu-growth-1858551/",
+      "cross_verified": true,
+      "published_at": "2026-10-23T16:51:49.000000Z"
+    },
+    {
+      "title": "The Dow drops 500 points as fears of renewed Middle East fighting send oil soaring",
+      "title_ko": "중동에서 다시 전투가 벌어질 것이라는 우려로 유가가 급등하면서 다우지수가 500포인트 하락했다",
+      "snippet": "Blue chip stocks sold off on Friday as investors fretted over rising tensions between Iran and the US and looked ahead to the Fed's rate decision.",
+      "snippet_ko": "금요일, 투자자들이 이란과 미국 간의 긴장 고조를 우려하고 연방준비제도(Fed)의 금리 결정에 주목하면서 우량주들이 매도세를 보였다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3386,
+      "source": "businessinsider.com",
+      "url": "https://www.businessinsider.com/stock-market-dow-selloff-oil-prices-iran-war-2026-10",
+      "cross_verified": true,
+      "published_at": "2026-10-23T16:25:19.000000Z"
+    },
+    {
+      "title": "What we want to see when this data center stock reports earnings next week",
+      "title_ko": "다음 주 이 데이터센터 관련 기업이 실적을 발표할 때 우리가 주목해야 할 점",
+      "snippet": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "snippet_ko": "투자 동아리는 평일 매일 오전 10시 20분(미국 동부 표준시)에 “모닝 미팅”을 개최합니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3835,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/investingclub/2026/10/23/what-we-want-to-see-when-this-data-center-stock-reports-earnings-next-week.html",
+      "cross_verified": true,
+      "published_at": "2026-10-23T16:15:59.000000Z"
+    },
     {
       "title": "Safe haven search is on Friday as investors keep rotating",
       "title_ko": "투자자들이 계속해서 포트폴리오를 재조정함에 따라 금요일에는 안전자산 매수세가 이어지고 있다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9127439/waymo-to-launch-fully-autonomous-ridehailing-in-toronto-by-2028-impacting-alphabet-goog",
       "cross_verified": true,
       "published_at": "2026-10-16T11:56:57.000000Z"
-    },
-    {
-      "title": "Democratic Senators Question Meta's $6.6B AI Data Center Tax Credits (META)",
-      "title_ko": "민주당 상원의원들, 메타(META)의 66억 달러 규모 AI 데이터센터 세액 공제에 의문 제기",
-      "snippet": "On October 16, 2026, a group of seven Democratic senators publicly raised concerns about Meta Platforms Inc's (NASDAQ: META) use of federal research and develop",
-      "snippet_ko": "2026년 10월 16일, 민주당 소속 상원의원 7명으로 구성된 그룹이 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)의 연방 연구개발 자금 활용에 대해 공개적으로 우려를 제기했다.",
-      "symbol": "META",
-      "sentiment_score": 0.2319,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9127400/democratic-senators-question-metas-66b-ai-data-center-tax-credits-meta",
-      "cross_verified": true,
-      "published_at": "2026-10-16T11:25:47.000000Z"
-    },
-    {
-      "title": "Broadcom Stock Is Down 28%, And The Bar To Hit Its Target Is Lower Than You Think (AVGO)",
-      "title_ko": "브로드컴 주가가 28% 하락했는데, 목표 주가 달성 기준은 생각보다 낮다 (AVGO)",
-      "snippet": "Broadcom Inc. maintains a Strong Buy rating, with robust AI revenue growth and a clear path to its $115B 2027 target. Read more on AVGO stock here.",
-      "snippet_ko": "브로드컴(Broadcom Inc.)은 AI 매출이 견조하게 성장하고 있으며, 2027년까지 1,150억 달러라는 목표 달성을 위한 명확한 로드맵을 갖추고 있어 ‘강력 매수(Strong Buy)’ 등급을 유지하고 있습니다. AVGO 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "AVGO",
-      "sentiment_score": -0.3682,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4954721-broadcom-stock-is-down-28-percent-and-the-bar-to-hit-its-target-is-lower-than-you-think",
-      "cross_verified": true,
-      "published_at": "2026-10-16T11:25:11.000000Z"
-    },
-    {
-      "title": "NetworkNews Audio Announces Audio Press Release (APR) Discussing AI Factories That Turn Power into Usable Compute Output",
-      "title_ko": "NetworkNews Audio, 전력을 활용 가능한 컴퓨팅 출력으로 변환하는 AI 팩토리를 다룬 오디오 보도자료(APR) 발표",
-      "snippet": "AUSTIN, Texas, Oct. 16, 2026 (GLOBE NEWSWIRE) -- via IBN - NetworkNewsAudio announces the Audio Press Release (APR) titled 'Contracted Capacity Becomes Key Metric for AI Infrastructure Investors to Watch,” featuring AZIO AI Holdings Inc. (NASDAQ: AZIO)",
-      "snippet_ko": "텍사스주 오스틴, 2026년 10월 16일 (GLOBE NEWSWIRE) -- IBN을 통해 - NetworkNewsAudio는 AZIO AI Holdings Inc. (나스닥: AZIO)를 다룬 ‘계약 용량이 AI 인프라 투자자들이 주목해야 할 핵심 지표로 부상’이라는 제목의 오디오 보도자료(APR)를 발표했습니다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.3182,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/networknews-audio-announces-audio-press-release-apr-discussing-ai-factories-that-turn-power-into-usable-compute-output/2447490",
-      "cross_verified": true,
-      "published_at": "2026-10-16T12:42:14.000000Z"
     }
   ]
 }
