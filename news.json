@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-23T18:12:46.092975+00:00",
+  "updated_at": "2026-10-23T22:59:08.844826+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "This TSX stock could get a 73% boost from Carney and Ford's steel aid, analyst says",
+      "title_ko": "한 애널리스트는 카니와 포드의 철강 지원책으로 인해 이 TSX 상장주가가 73% 급등할 수 있다고 전망했다",
+      "snippet": "The Week in Stocks: Which stocks could win from expanded trade, what tax-loss selling candidates could also be buys and more. Read on.",
+      "snippet_ko": "이번 주 주식 시장: 무역 확대의 수혜주가 될 종목은 무엇일지, 세금 손실 실현 매도 대상 중 매수할 만한 종목은 무엇인지 등 다양한 내용을 살펴봅니다. 계속 읽어보세요.",
+      "symbol": "",
+      "sentiment_score": 0.6369,
+      "source": "thepost.on.ca",
+      "url": "https://financialpost.com/investing/tsx-stock-boost-carney-ford-steel-aid",
+      "cross_verified": true,
+      "published_at": "2026-10-23T21:54:26.000000Z"
+    },
+    {
+      "title": "ORIC Pharmaceuticals, Inc. (ORIC) Discusses Enozertinib Phase Ib Data and Commercial Opportunity in EGFR Atypical Non-Small Cell Lung Cancer Transcript",
+      "title_ko": "ORIC Pharmaceuticals, Inc. (ORIC), EGFR 비정형 비소세포폐암에 대한 에노제르티닙의 1b상 임상 데이터 및 상업적 기회 논의 (기사 전문)",
+      "snippet": "ORIC Pharmaceuticals, Inc. (ORIC) Discusses Enozertinib Phase Ib Data and Commercial Opportunity in EGFR Atypical Non-Small Cell Lung Cancer October 23,...",
+      "snippet_ko": "ORIC Pharmaceuticals, Inc. (ORIC), EGFR 비정형 비소세포폐암에 대한 에노제르티닙의 1b상 임상 데이터 및 상업적 기회 논의, 10월 23일,...",
+      "symbol": "",
+      "sentiment_score": 0.1639,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4956969-oric-pharmaceuticals-inc-oric-discusses-enozertinib-phase-ib-data-and-commercial-opportunity",
+      "cross_verified": true,
+      "published_at": "2026-10-23T21:27:17.000000Z"
+    },
+    {
+      "title": "[DowJonesToday]Dow Jones Plummets as Economic Uncertainty Weighs on Blue-Chip Giants",
+      "title_ko": "[DowJonesToday] 경제 불확실성이 우량 대기업들에 부담을 주면서 다우존스 지수가 급락했다",
+      "snippet": "The Dow Jones Industrial Average (^DJI) was down 652.82 (-1.23%) points today, closing at 52,215.16. This significant downturn was mirrored in the futures",
+      "snippet_ko": "다우존스 산업평균지수(^DJI)는 오늘 652.82포인트(-1.23%) 하락해 52,215.16으로 장을 마감했다. 이러한 큰 폭의 하락세는 선물 시장에서도 그대로 반영되었다.",
+      "symbol": "",
+      "sentiment_score": 0.6241,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/dowjonestodaydow-jones-plummets-as-economic-uncertainty-weighs-on-blue-chip-giants/73523/",
+      "cross_verified": true,
+      "published_at": "2026-10-23T21:09:10.000000Z"
+    },
     {
       "title": "Rogers Communications: A Cash Flow Giant With Feet Of Clay (NYSE:RCI)",
       "title_ko": "로저스 커뮤니케이션즈: 허술한 기반을 가진 현금 흐름의 거인 (NYSE:RCI)",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4954269-treasury-wine-estates-limited-tsryy-shareholder-analyst-call-transcript",
       "cross_verified": true,
       "published_at": "2026-10-15T03:34:40.000000Z"
-    },
-    {
-      "title": "A $6 bn deal signals major appetite for the India prize as global giants look to deepen exposure",
-      "title_ko": "60억 달러 규모의 거래는 글로벌 거대 기업들이 인도 시장에 대한 투자 비중을 확대하려는 움직임을 보여주며, 인도 시장에 대한 막대한 투자 열기를 시사한다.",
-      "snippet": "The sale of a controlling stake in IDBI Bank for around $6 billion is being viewed a pivotal moment in India's banking reform journey. The transaction received attention from a variety of global investors, highlighting their confidence in the nation's financial ecosystem. Experts predict this move may open doors to increased deal-making opportunities in the future.",
-      "snippet_ko": "약 60억 달러 규모로 IDBI 은행의 지배 지분이 매각된 것은 인도 은행 개혁 과정의 중대한 전환점으로 평가받고 있다. 이번 거래는 다양한 글로벌 투자자들의 관심을 끌었으며, 이는 인도의 금융 생태계에 대한 투자자들의 신뢰를 보여주는 것이다. 전문가들은 이번 조치가 향후 더 많은 인수합병 기회를 열어줄 것으로 전망하고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.7989,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/a-6-bn-deal-signals-major-appetite-for-the-india-prize-as-global-giants-look-to-deepen-exposure/articleshow/134956015.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-15T03:23:28.000000Z"
-    },
-    {
-      "title": "Vera Bradley Stock: Despite 140% Rally, Stock Is Still Undervalued (NASDAQ:VRA)",
-      "title_ko": "베라 브래들리 주가: 140% 급등에도 불구하고 여전히 저평가 상태 (나스닥: VRA)",
-      "snippet": "Buy Vera Bradley (VRA): stronger-than-expected 2QFY27 earnings, debt-free balance sheet, and cheap 0.6x forward P/S. See more details here.",
-      "snippet_ko": "베라 브래들리(VRA) 매수: 2027 회계연도 2분기 실적이 예상보다 호조를 보였으며, 부채가 없는 재무 구조를 갖추고 있고, 선행 매출 대비 주가(P/S)가 0.6배로 저평가되어 있습니다. 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.3715,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4954279-vera-bradley-despite-140-percent-rally-stock-still-undervalued",
-      "cross_verified": true,
-      "published_at": "2026-10-15T03:08:14.000000Z"
-    },
-    {
-      "title": "LQDA Upgraded by LifeSci Capital -- Price Target Announced at $59.00",
-      "title_ko": "LifeSci Capital, LQDA 등급 상향 조정 -- 목표주가 59.00달러로 발표",
-      "snippet": "Liquidia Corp (LQDA) Analyst Rating Update On October 2, 2026, Liquidia (LQDA) was upgraded to Outperform by LifeSci Capital. The firm's analyst, Gaurav Main",
-      "snippet_ko": "리퀴디아(LQDA) 애널리스트 평가 업데이트 2026년 10월 2일, 라이프사이 캐피털(LifeSci Capital)은 리퀴디아(LQDA)에 대한 투자 등급을 ‘아웃퍼폼(Outperform)’으로 상향 조정했습니다. 이 회사의 애널리스트 가우라브 메인(Gaurav Main)은",
-      "symbol": "",
-      "sentiment_score": 0.3717,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9124139/lqda-upgraded-by-lifesci-capital-price-target-announced-at-5900",
-      "cross_verified": true,
-      "published_at": "2026-10-14T22:31:33.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Tech and Financials Lead Modest Gains as Earnings Season Intensifies",
+      "title_ko": "실적 발표 시즌이 본격화되면서 기술주와 금융주가 소폭 상승을 주도했다",
+      "snippet": "U.S. equity markets showed resilience on Friday, October 23rd, 2026, as investors navigated a heavy slate of corporate earnings and monitored shifting",
+      "snippet_ko": "2026년 10월 23일 금요일, 미국 주식 시장은 투자자들이 잇따른 기업 실적 발표를 주시하고 변화하는 시장을 지켜보는 가운데 탄력적인 모습을 보였다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.0436,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-financials-lead-modest-gains-as-earnings-season-intensifies/73522/",
+      "cross_verified": true,
+      "published_at": "2026-10-23T21:07:18.000000Z"
+    },
+    {
+      "title": "US Markets Today: Dow ends 600 pts lower as AI doubts persist ahead of Fed meet",
+      "title_ko": "오늘 미국 증시: 연준 회의 앞두고 AI에 대한 의구심이 지속되며 다우지수는 600포인트 하락 마감",
+      "snippet": "US stocks ended lower after a turbulent week as fresh doubts over the AI trade weighed on sentiment. The Dow fell 1.25%, while the S&P 500 and Nasdaq also declined. Investors turned their focus to major earnings from Alphabet, Microsoft and Amazon, along with next weeks Federal Reserve meeting.",
+      "snippet_ko": "AI 관련 주식에 대한 새로운 의구심이 투자 심리를 위축시키면서, 격동의 한 주를 보낸 미국 증시는 하락세로 마감했다. 다우지수는 1.25% 하락했으며, S&P 500 지수와 나스닥 지수도 함께 하락했다. 투자자들은 알파벳, 마이크로소프트, 아마존의 주요 실적 발표와 다음 주 연방준비제도(Fed) 회의에 주목하고 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.128,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-dow-ends-600-pts-lower-as-ai-doubts-persist-ahead-of-fed-meet/articleshow/135155408.cms",
+      "cross_verified": true,
+      "published_at": "2026-10-23T20:23:03.000000Z"
+    },
+    {
+      "title": "Market Stability Prevails as Earnings Season Gains Momentum",
+      "title_ko": "실적 발표 시즌이 본격화되면서 시장 안정세가 이어지고 있다",
+      "snippet": "The U.S. stock market exhibited a sense of cautious optimism on Friday, October 23rd, 2026, as investors navigated a heavy day of corporate earnings and",
+      "snippet_ko": "2026년 10월 23일 금요일, 미국 증시는 투자자들이 기업 실적 발표가 쇄도하는 바쁜 하루를 헤쳐 나가는 가운데 신중한 낙관론을 보였으며,",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.4655,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/market-stability-prevails-as-earnings-season-gains-momentum-2/73518/",
+      "cross_verified": true,
+      "published_at": "2026-10-23T20:07:15.000000Z"
+    },
     {
       "title": "Alphabet (GOOGL): Investing Behind AI Demand and TPU Growth",
       "title_ko": "알파벳(GOOGL): AI 수요와 TPU 성장에 주목한 투자",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9127885/uk-cma-proposes-changes-to-apple-pay-taptopay-in-uk-impacting-aapl",
       "cross_verified": true,
       "published_at": "2026-10-16T16:50:30.000000Z"
-    },
-    {
-      "title": "Taiwan to Fund $4 Billion Texas Complex for AI, Nvidia Partners",
-      "title_ko": "대만, AI 전용 텍사스 복합단지에 40억 달러 투자… 엔비디아와 협력",
-      "snippet": "Taiwan plans to raise billions of dollars to develop industrial parks in the US that would build a base for a comprehensive supply chain for Nvidia Corp.",
-      "snippet_ko": "대만은 엔비디아(Nvidia Corp.)의 포괄적인 공급망 기반을 구축할 미국 내 산업단지 개발을 위해 수십억 달러를 조달할 계획이다.",
-      "symbol": "META",
-      "sentiment_score": 0.3604,
-      "source": "insurancejournal.com",
-      "url": "https://www.insurancejournal.com/news/southcentral/2026/10/16/889240.htm",
-      "cross_verified": true,
-      "published_at": "2026-10-16T16:15:47.000000Z"
-    },
-    {
-      "title": "Meta: The Capex Problem Is Starting To Look Like A Strategy (NASDAQ:META)",
-      "title_ko": "메타: 자본지출(Capex) 문제가 전략처럼 보이기 시작하고 있다 (나스닥: META)",
-      "snippet": "Meta Platforms is transitioning from a cash-burning lab to a coordinated AI-driven platform with multiple monetization paths. Read more on META stock here.",
-      "snippet_ko": "메타 플랫폼스는 자금을 낭비하던 연구소에서 다양한 수익 창출 경로를 갖춘 체계적인 AI 기반 플랫폼으로 전환하고 있습니다. META 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "META",
-      "sentiment_score": -0.0516,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4954820-meta-the-capex-problem-is-starting-to-look-like-a-strategy",
-      "cross_verified": true,
-      "published_at": "2026-10-16T16:10:05.000000Z"
-    },
-    {
-      "title": "Waymo to Launch Fully Autonomous Ride-Hailing in Toronto by 2028, Impacting Alphabet (GOOG)",
-      "title_ko": "웨이모, 2028년까지 토론토에서 완전 자율주행 차량 호출 서비스 출시 예정… 알파벳(GOOG)에 영향 미칠 전망",
-      "snippet": "On October 16, 2026, Alphabet Inc's autonomous driving division, Waymo, announced plans to launch fully autonomous ride-hailing services in Toronto by 2028. Thi",
-      "snippet_ko": "2026년 10월 16일, 알파벳(Alphabet Inc)의 자율주행 사업부인 웨이모(Waymo)는 2028년까지 토론토에서 완전 자율주행 차량 호출 서비스를 출시할 계획을 발표했습니다. 이",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.6359,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9127439/waymo-to-launch-fully-autonomous-ridehailing-in-toronto-by-2028-impacting-alphabet-goog",
-      "cross_verified": true,
-      "published_at": "2026-10-16T11:56:57.000000Z"
     }
   ]
 }
