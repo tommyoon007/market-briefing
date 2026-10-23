@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-22T21:23:59.046505+00:00",
+  "updated_at": "2026-10-23T00:29:29.939296+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Mullen Group Ltd. (MTL:CA) Q3 2026 Earnings Call Transcript",
+      "title_ko": "Mullen Group Ltd. (MTL:CA) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "Mullen Group Ltd. (MTL:CA) Q3 2026 Earnings Call October 22, 2026 10:00 AM EDTCompany ParticipantsMurray Mullen - Chairman & Senior Executive...",
+      "snippet_ko": "Mullen Group Ltd. (MTL:CA) 2026년 3분기 실적 발표 전화회의 2026년 10월 22일 오전 10:00 (EDT) 회사 참가자: Murray Mullen - 회장 겸 최고경영자...",
+      "symbol": "",
+      "sentiment_score": 0.3592,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4956487-mullen-group-ltd-mtl-ca-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-22T23:37:33.000000Z"
+    },
+    {
+      "title": "Century Next Financial Corporation Reports 3rd Quarter 2026 Results",
+      "title_ko": "센추리 넥스트 파이낸셜 코퍼레이션, 2026년 3분기 실적 발표",
+      "snippet": "RUSTON, La., Oct. 22, 2026 (GLOBE NEWSWIRE) --",
+      "snippet_ko": "루스턴(루이지애나주), 2026년 10월 22일 (GLOBE NEWSWIRE) --",
+      "symbol": "",
+      "sentiment_score": 0.185,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/century-next-financial-corporation-reports-3rd-quarter-2026-results/2452407",
+      "cross_verified": true,
+      "published_at": "2026-10-22T23:32:58.000000Z"
+    },
+    {
+      "title": "SB Financial signals 8%–8.5% 2027 loan growth as it targets a $2B-plus balance sheet (NASDAQ:SBFG)",
+      "title_ko": "SB 파이낸셜, 대차대조표 규모 20억 달러 이상 달성 목표와 함께 2027년 대출 증가율 8%~8.5% 전망 (나스닥:SBFG)",
+      "snippet": "SB Financial Q3 2026 earnings call: loan growth, fee income and margin gains offset higher expenses.",
+      "snippet_ko": "SB 파이낸셜 2026년 3분기 실적 발표: 대출 증가, 수수료 수입 및 마진 확대가 증가한 비용을 상쇄했다.",
+      "symbol": "",
+      "sentiment_score": 0.3818,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4656366-sb-financial-signals-8-percent-8_5-percent-2027-loan-growth-as-it-targets-a-2b-plus-balance",
+      "cross_verified": true,
+      "published_at": "2026-10-22T22:48:23.000000Z"
+    },
     {
       "title": "EHI: High Yield And Deep Discount Aren't Enough (NYSE:EHI)",
       "title_ko": "EHI: 높은 수익률과 큰 할인율만으로는 부족하다 (NYSE:EHI)",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9121612/q3-2026-citigroup-inc-earnings-call-transcript",
       "cross_verified": true,
       "published_at": "2026-10-13T21:00:09.000000Z"
-    },
-    {
-      "title": "Alector, Inc. Pipeline Webinar Transcript",
-      "title_ko": "Alector, Inc. 파이프라인 웨비나 녹취록",
-      "snippet": "Oct 13, 2026 / 03:00PM GMTOperator Good day and thank you for standing by. Welcome to the Elector Pipeline Webinar, Advancing Next Generation Medicines for Neur",
-      "snippet_ko": "2026년 10월 13일 / 오후 3:00 (GMT) 운영자: 안녕하십니까. 기다려 주셔서 감사합니다. ‘Elector Pipeline 웨비나: 신경계 질환을 위한 차세대 의약품 발전’에 오신 것을 환영합니다.",
-      "symbol": "",
-      "sentiment_score": 0.2248,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9121599/alector-inc-pipeline-webinar-transcript",
-      "cross_verified": true,
-      "published_at": "2026-10-13T21:00:06.000000Z"
-    },
-    {
-      "title": "TC Energy (TRP) Partners with First Nations on Coastal GasLink Pipeline Stake",
-      "title_ko": "TC Energy(TRP), 코스트럴 가스링크 파이프라인 지분 확보를 위해 원주민 부족과 파트너십 체결",
-      "snippet": "On October 13, 2026, TC Energy Corp (NYSE: TRP) announced a landmark agreement granting five First Nations an economic stake in the Coastal GasLink pipeline thr",
-      "snippet_ko": "2026년 10월 13일, TC Energy Corp(NYSE: TRP)는 5개 원주민 부족에게 코스트 가스링크(Coastal GasLink) 파이프라인에 대한 경제적 지분을 부여하는 획기적인 협약을 체결했다고 발표했습니다.",
-      "symbol": "",
-      "sentiment_score": 0.4856,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9121597/tc-energy-trp-partners-with-first-nations-on-coastal-gaslink-pipeline-stake",
-      "cross_verified": true,
-      "published_at": "2026-10-13T21:00:05.000000Z"
-    },
-    {
-      "title": "JPMorgan Chase (JPM) Files 8-K After 2026 Q3 Investor Presentation",
-      "title_ko": "JPMorgan Chase(JPM), 2026년 3분기 투자자 설명회 이후 8-K 보고서 제출",
-      "snippet": "JPMorgan Chase & Co. (JPM) filed a Form 8-K with the U.S. Securities and Exchange Commission on October 13, 2026, disclosing that the firm held an investor pre",
-      "snippet_ko": "JPMorgan Chase & Co. (JPM)는 2026년 10월 13일 미국 증권거래위원회(SEC)에 8-K 양식을 제출하여, 당사가 투자자 사전",
-      "symbol": "",
-      "sentiment_score": 0.1744,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9121074/jpmorgan-chase-jpm-files-8k-after-2026-q3-investor-presentation",
-      "cross_verified": true,
-      "published_at": "2026-10-13T15:30:07.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Global Markets Retreat on AI Spending Jitters and Middle East Conflict",
+      "title_ko": "AI 투자에 대한 우려와 중동 분쟁으로 글로벌 시장 하락",
+      "snippet": "Global equity markets faced a severe downturn on Thursday as investors grew skeptical of the returns on massive artificial intelligence investments. The",
+      "snippet_ko": "목요일, 투자자들이 막대한 인공지능 투자에 대한 수익성에 회의적인 태도를 보이면서 전 세계 주식 시장이 심각한 하락세를 겪었다. 이",
+      "symbol": "AAPL",
+      "sentiment_score": 0.1209,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/global-markets-retreat-on-ai-spending-jitters-and-middle-east-conflict/73458/",
+      "cross_verified": true,
+      "published_at": "2026-10-22T21:11:22.000000Z"
+    },
+    {
+      "title": "Earnings Season Intensifies: Tech and Industrial Giants Lead a Cautious Market Session",
+      "title_ko": "실적 발표 시즌 본격화: 기술 및 산업 분야 대기업들이 신중한 시장 분위기를 주도",
+      "snippet": "The U.S. stock market exhibited a cautious tone during Thursday’s session, October 22, 2026, as investors juggled a massive wave of corporate earnings reports",
+      "snippet_ko": "2026년 10월 22일 목요일 장중, 투자자들이 쏟아지는 기업 실적 발표를 주시하면서 미국 증시는 신중한 분위기를 보였다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2579,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/earnings-season-intensifies-tech-and-industrial-giants-lead-a-cautious-market-session/73457/",
+      "cross_verified": true,
+      "published_at": "2026-10-22T21:10:45.000000Z"
+    },
+    {
+      "title": "DraftKings Inc. (DKNG) Presents at NEXTPredict Summit NYC 2026 Transcript",
+      "title_ko": "DraftKings Inc. (DKNG), ‘NEXTPredict Summit NYC 2026’에서 발표: 발표 전문",
+      "snippet": "DraftKings Inc. (DKNG) NEXTPredict Summit NYC 2026 October 22, 2026 2:00 PM EDTCompany ParticipantsJason Robins - Co-Founder, Chairman & CEOConference...",
+      "snippet_ko": "DraftKings Inc. (DKNG) NEXTPredict Summit NYC 2026 2026년 10월 22일 오후 2:00 (EDT) 참가 기업 대표자 제이슨 로빈스 - 공동 창업자, 회장 겸 CEO 컨퍼런스...",
+      "symbol": "DKNG",
+      "sentiment_score": 0.1366,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4956624-draftkings-inc-dkng-presents-at-nextpredict-summit-nyc-2026-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-22T20:57:59.000000Z"
+    },
     {
       "title": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
       "title_ko": "메타가 저커버그를 캘리포니아에 잔류시키기 위해 체결한 계약이 선거를 앞두고 부유세 논쟁에 불을 지피고 있다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9126631/us-tech-coalition-pledges-330m-for-white-house-ballroom-nvidia-nvda-among-top-donors",
       "cross_verified": true,
       "published_at": "2026-10-15T23:01:00.000000Z"
-    },
-    {
-      "title": "Meta Launches Muse Spark Open, a Powerful Open-Source Model for Mac (META)",
-      "title_ko": "메타, Mac용 강력한 오픈소스 모델 ‘Muse Spark Open’ 출시 (META)",
-      "snippet": "On October 15, 2026, Meta Platforms Inc (META) announced the launch of its latest open-source model, Muse Spark Open, which is touted as the most powerful model",
-      "snippet_ko": "2026년 10월 15일, 메타 플랫폼스(META)는 가장 강력한 모델로 평가받는 최신 오픈소스 모델인 ‘뮤즈 스파크 오픈(Muse Spark Open)’의 출시를 발표했습니다.",
-      "symbol": "META",
-      "sentiment_score": 0.3972,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9126548/meta-launches-muse-spark-open-a-powerful-opensource-model-for-mac-meta",
-      "cross_verified": true,
-      "published_at": "2026-10-15T22:21:07.000000Z"
-    },
-    {
-      "title": "META Maintains Buy Rating by Citigroup -- Price Target Raised to $895",
-      "title_ko": "시티그룹, META에 대해 ‘매수’ 등급 유지 -- 목표주가 895달러로 상향 조정",
-      "snippet": "Meta Platforms Inc (META) Analyst Rating Update On October 31, 2023, Citigroup maintained a Buy rating on META, raising its price target to $895. This repres",
-      "snippet_ko": "메타 플랫폼스(META) 애널리스트 평가 업데이트 2023년 10월 31일, 씨티그룹은 META에 대한 ‘매수(Buy)’ 투자의견을 유지하면서 목표주가를 895달러로 상향 조정했습니다. 이는",
-      "symbol": "META",
-      "sentiment_score": 0.4653,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9126354/meta-maintains-buy-rating-by-citigroup-price-target-raised-to-895",
-      "cross_verified": true,
-      "published_at": "2026-10-15T21:31:38.000000Z"
-    },
-    {
-      "title": "Option Traders Show Slight Pessimism on Apple (AAPL) Ahead of Earnings",
-      "title_ko": "실적 발표를 앞둔 애플(AAPL)에 대해 옵션 거래자들이 소폭의 비관론을 보이고 있다",
-      "snippet": "On October 15, 2026, Apple Inc (AAPL) shares edged down by 40 cents to approximately $342.63 amid option market activity signaling a cautiously bearish sentimen",
-      "snippet_ko": "2026년 10월 15일, 애플(AAPL) 주가는 옵션 시장의 움직임이 신중한 약세 심리를 시사하는 가운데 40센트 소폭 하락해 약 342.63달러를 기록했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.316,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9126303/option-traders-show-slight-pessimism-on-apple-aapl-ahead-of-earnings",
-      "cross_verified": true,
-      "published_at": "2026-10-15T20:26:01.000000Z"
     }
   ]
 }
