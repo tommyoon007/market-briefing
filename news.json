@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-24T15:43:08.865964+00:00",
+  "updated_at": "2026-10-24T18:41:18.398143+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "eBay Earnings Preview: Innovation Tops GameStop Bid (NASDAQ:EBAY)",
+      "title_ko": "eBay 실적 전망: 혁신이 GameStop 인수 제안을 앞지르다 (NASDAQ:EBAY)",
+      "snippet": "eBay is trading at highs, driven by a return to growth and innovation in core categories like collectibles and live services. Click to read more about eBay.",
+      "snippet_ko": "eBay는 수집품 및 라이브 서비스와 같은 핵심 카테고리에서 성장세가 회복되고 혁신이 이어지면서 주가가 사상 최고치를 기록하고 있습니다. eBay에 대해 더 자세히 알아보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.6673,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4957235-ebay-earnings-preview-innovation-tops-gamestop-bid",
+      "cross_verified": true,
+      "published_at": "2026-10-24T16:17:51.000000Z"
+    },
     {
       "title": "Kotak Mahindra Bank, IDFC First PAT rise; Marginal dip in NIM on FCNR (B) inflows",
       "title_ko": "코탁 마힌드라 은행, IDFC 퍼스트의 순이익 증가… FCNR(B) 자금 유입으로 순이자마진 소폭 하락",
@@ -1189,21 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9126758/brent-oil-fluctuates-amid-supply-concerns-and-emergency-reserves-release",
       "cross_verified": true,
       "published_at": "2026-10-16T00:11:06.000000Z"
-    },
-    {
-      "title": "Is It Too Late to Buy Equifax Inc (EFX) After 7.2% Rally? GF Value Says Undervalued",
-      "title_ko": "7.2% 급등한 후에도 이퀴팩스(EFX)를 매수하기에는 너무 늦은 걸까? GF 밸류, “저평가됐다”고 분석",
-      "snippet": "On October 15, 2026, Equifax Inc (EFX) shares rose 7.2%, closing at $161.26. This movement brings the stock price within a 52-week range of $137.01 to $238.94,",
-      "snippet_ko": "2026년 10월 15일, 에퀴팩스(Equifax Inc, EFX) 주가는 7.2% 상승하여 161.26달러에 장을 마감했습니다. 이로써 주가는 52주 동안의 등락폭인 137.01달러에서 238.94달러 범위 내에 머물게 되었습니다.",
-      "symbol": "",
-      "sentiment_score": 0.3771,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9126754/is-it-too-late-to-buy-equifax-inc-efx-after-72-rally-gf-value-says-undervalued",
-      "cross_verified": true,
-      "published_at": "2026-10-16T00:08:19.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
+      "title_ko": "AI 투자 자금 조달에 대한 우려가 월가를 뒤흔들고 있다. 이에 따라 우리가 포트폴리오를 어떻게 조정하고 있는지 살펴보자.",
+      "snippet": "The rotation out of AI stocks benefited several defensive Club stocks.",
+      "snippet_ko": "AI 관련주에서 자금이 빠져나오면서 몇몇 방어주인 ‘클럽’ 종목들이 수혜를 입었다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.7257,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
+      "cross_verified": true,
+      "published_at": "2026-10-24T16:14:00.000000Z"
+    },
+    {
+      "title": "Fed Decision, Microsoft, Alphabet Earnings Highlight Blockbuster Week",
+      "title_ko": "연준의 결정, 마이크로소프트와 알파벳의 실적 발표가 이번 주 주요 화두로 떠오른다",
+      "snippet": "Preview the week ahead with the Fed decision, Q3 GDP, and Big Tech earnings in focus. Read here for more details.",
+      "snippet_ko": "연준의 결정, 3분기 GDP, 빅테크 기업들의 실적 발표가 주목받는 이번 주 전망을 미리 살펴보세요. 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.1135,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4957196-fed-decision-microsoft-alphabet-earnings-highlight-blockbuster-week",
+      "cross_verified": true,
+      "published_at": "2026-10-24T16:00:47.000000Z"
+    },
+    {
+      "title": "What they say on their India plans",
+      "title_ko": "인도 관련 계획에 대해 그들이 말하는 내용",
+      "snippet": "Discover insights from global CXOs on their strategic plans and perspectives regarding India during the latest earnings season.",
+      "snippet_ko": "최근 실적 발표 시즌을 맞아, 전 세계 최고경영진(CXO)들이 인도와 관련해 제시한 전략적 계획과 전망에 대한 통찰력을 확인해 보세요.",
+      "symbol": "NFLX",
+      "sentiment_score": 0.8313,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/what-they-say-on-their-india-plans/article71619481.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-24T16:06:51.000000Z"
+    },
     {
       "title": "Meta: The Ads Business Is Better Than Ever, But The Cash Flow Isn't (NASDAQ:META)",
       "title_ko": "메타: 광고 사업은 사상 최고 수준이지만, 현금 흐름은 그렇지 않다 (나스닥: META)",
@@ -2367,42 +2403,6 @@
       "url": "https://www.rediff.com/business/report/indian-it-stocks-surge-best-week-in-18-years-as-global-ai-sell-off-drives-investment/20261017.htm",
       "cross_verified": true,
       "published_at": "2026-10-17T11:04:56.000000Z"
-    },
-    {
-      "title": "US markets are weighed down by an extended sell-off in the tech sector",
-      "title_ko": "기술주 부문의 매도세가 장기화되면서 미국 증시가 압박을 받고 있다",
-      "snippet": "A broad sell-off in technology companies pulled stocks lower on Wall Street Friday, capping off the market’s worst week since late June.",
-      "snippet_ko": "금요일, 기술주들의 광범위한 매도세가 월가 주가를 끌어내리며, 6월 말 이후 최악의 한 주를 마감했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3861,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/17/business/foreign-business/us-markets-are-weighed-down-by-an-extended-sell-off-in-the-tech-sector/2447853",
-      "cross_verified": true,
-      "published_at": "2026-10-17T04:48:56.000000Z"
-    },
-    {
-      "title": "Apple says iPhone Duo demand extraordinary after delivery delays",
-      "title_ko": "애플, 배송 지연 이후 아이폰 듀오에 대한 수요가 폭발적이라고 밝혔다",
-      "snippet": "Apple’s iPhone Duo pre-orders soar with extraordinary demand, but shipping estimates slip to January amid supply delays.",
-      "snippet_ko": "애플의 ‘아이폰 듀오’ 사전 예약이 폭발적인 수요로 급증했으나, 공급 차질로 인해 배송 예정일이 1월로 미뤄졌다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.246,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/info-tech/apple-says-iphone-duo-demand-extraordinary-after-delivery-delays/article71595296.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-17T04:04:17.000000Z"
-    },
-    {
-      "title": "Apple appoints Meta veteran Scott Tucker to lead global litigation",
-      "title_ko": "애플, 메타 출신 스콧 터커를 글로벌 소송 담당 책임자로 임명",
-      "snippet": "Tucker will oversee commercial and patent litigation worldwide and legal matters involving Apple's financial services as the company faces mounting lawsuits under General Counsel Jennifer Newstead",
-      "snippet_ko": "터커는 제니퍼 뉴스테드 법무총괄의 지휘 아래, 애플이 점점 더 많은 소송에 직면함에 따라 전 세계의 상업 및 특허 소송과 애플의 금융 서비스와 관련된 법적 문제를 총괄하게 될 것이다.",
-      "symbol": "AAPL",
-      "sentiment_score": -0.0305,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/technology/tech-news/apple-appoints-meta-veteran-scott-tucker-to-lead-global-litigation-126101700133_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-17T03:48:47.000000Z"
     }
   ]
 }
