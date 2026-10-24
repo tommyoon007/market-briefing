@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-23T22:59:08.844826+00:00",
+  "updated_at": "2026-10-24T04:08:33.872373+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Fitch Forecasts Prolonged Ukraine Conflict; Howard Hughes Joins S&P SmallCap 600",
+      "title_ko": "피치, 우크라이나 분쟁 장기화 전망… 하워드 휴즈, S&P 스몰캡 600 지수에 편입",
+      "snippet": "Fitch Ratings has issued a sobering outlook for the Ukraine conflict, projecting that the war will likely continue through 2027. The agency noted that current",
+      "snippet_ko": "피치 레이팅스는 우크라이나 분쟁에 대해 냉정한 전망을 내놓으며, 전쟁이 2027년까지 계속될 가능성이 높다고 내다봤다. 이 기관은 현재",
+      "symbol": "",
+      "sentiment_score": 0.6999,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/fitch-forecasts-prolonged-ukraine-conflict-howard-hughes-joins-sp-smallcap-600/73526/",
+      "cross_verified": true,
+      "published_at": "2026-10-24T01:38:25.000000Z"
+    },
+    {
+      "title": "Vertex Pharmaceuticals Incorporated (VRTX) Presents at American Society of Nephrology (ASN) Kidney Week 2026 - Slideshow (NASDAQ:VRTX) 2026-10-23",
+      "title_ko": "버텍스 파마슈티컬스(Vertex Pharmaceuticals Incorporated, VRTX), 미국 신장학회(ASN) ‘키드니 위크 2026’에서 발표 - 슬라이드 쇼 (나스닥:VRTX) 2026년 10월 23일",
+      "snippet": "2026-10-23. The following slide deck was published by Vertex Pharmaceuticals Incorporated in conjunction with this event.",
+      "snippet_ko": "2026년 10월 23일. 다음 슬라이드 자료는 이번 행사와 관련하여 Vertex Pharmaceuticals Incorporated에서 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4957139-vertex-pharmaceuticals-incorporated-vrtx-presents-at-american-society-of-nephrology-asn",
+      "cross_verified": true,
+      "published_at": "2026-10-24T01:31:05.000000Z"
+    },
     {
       "title": "This TSX stock could get a 73% boost from Carney and Ford's steel aid, analyst says",
       "title_ko": "한 애널리스트는 카니와 포드의 철강 지원책으로 인해 이 TSX 상장주가가 73% 급등할 수 있다고 전망했다",
@@ -1177,33 +1201,33 @@
       "url": "https://www.gurufocus.com/news/9125008/nel-asa-nllsf-reports-q3-revenue-plunge-amid-rising-order-backlog",
       "cross_verified": true,
       "published_at": "2026-10-15T10:57:06.000000Z"
-    },
-    {
-      "title": "Energy Sector Hits 50% Gain Milestone; SPY Valuation Signals Moderate Overvaluation",
-      "title_ko": "에너지 부문, 50% 상승이라는 이정표 달성… SPY 평가, 소폭의 과대평가 신호",
-      "snippet": "On October 15, 2026, the energy sector achieved a remarkable 50% gain year-to-date in just 196 trading days, marking the fifth-fastest ascent to this milestone",
-      "snippet_ko": "2026년 10월 15일, 에너지 부문은 불과 196거래일 만에 연초 대비 50%라는 놀라운 상승률을 기록하며, 이 기록에 도달하는 데 있어 역대 다섯 번째로 빠른 상승세를 보였습니다.",
-      "symbol": "",
-      "sentiment_score": 0.1366,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9125005/energy-sector-hits-50-gain-milestone-spy-valuation-signals-moderate-overvaluation",
-      "cross_verified": true,
-      "published_at": "2026-10-15T10:56:06.000000Z"
-    },
-    {
-      "title": "Treasury Wine Estates Limited (TSRYY) Shareholder/Analyst Call Transcript",
-      "title_ko": "트레저리 와인 에스테이츠 리미티드(TSRYY) 주주·애널리스트 컨퍼런스콜 기록",
-      "snippet": "Treasury Wine Estates Limited (TSRYY) Shareholder/Analyst Call October 14, 2026 7:00 PM EDTCompany ParticipantsJohn MullenSamuel Andrew Fischer - MD, CEO...",
-      "snippet_ko": "트레저리 와인 에스테이츠 리미티드(TSRYY) 주주·애널리스트 컨퍼런스 콜 2026년 10월 14일 오후 7:00 (EDT) 회사 측 참석자: 존 멀렌, 사무엘 앤드류 피셔 - 대표이사 겸 최고경영자(CEO)...",
-      "symbol": "",
-      "sentiment_score": 0.4451,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4954269-treasury-wine-estates-limited-tsryy-shareholder-analyst-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-10-15T03:34:40.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "SpaceX’s $40 billion AI debt plan faces market turmoil. Can investors stomach the growing borrowing risks?",
+      "title_ko": "스페이스X의 400억 달러 규모 AI 부채 계획이 시장 혼란에 직면했다. 투자자들은 점점 커지는 차입 위험을 감당할 수 있을까?",
+      "snippet": "SpaceX’s efforts to finalize a $40 billion off-balance-sheet debt structure for its artificial intelligence buildout have been roiled by recent market turmoil that’s driven up sector-wide borrowing costs and complicated price talks.",
+      "snippet_ko": "스페이스X가 인공지능 인프라 확충을 위해 400억 달러 규모의 대차대조표 외 부채 구조를 확정하려는 노력은, 최근 시장 혼란으로 인해 업종 전반의 차입 비용이 상승하고 가격 협상이 복잡해지면서 차질을 빚고 있다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.0681,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/news/spacexs-40-billion-ai-debt-plan-faces-market-turmoil-can-investors-stomach-the-growing-borrowing-risks-11792809682686.html",
+      "cross_verified": true,
+      "published_at": "2026-10-24T02:52:14.000000Z"
+    },
+    {
+      "title": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+      "title_ko": "네오클라우드 업체들이 압박을 받고, 신용 리스크가 커지며, 솔리디그(Solidigm)가 기업공개(IPO)를 철회함에 따라 AI 인프라 확충에 혼란이 닥쳤다.",
+      "snippet": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
+      "snippet_ko": "이번 주 주가 폭락, 기업공개(IPO) 취소, 신용부도스왑(CDS) 스프레드 확대 등이 하이퍼스케일러 기업들의 실적 발표를 앞두고 분위기를 조성하고 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2734,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+      "cross_verified": true,
+      "published_at": "2026-10-23T22:49:04.000000Z"
+    },
     {
       "title": "Tech and Financials Lead Modest Gains as Earnings Season Intensifies",
       "title_ko": "실적 발표 시즌이 본격화되면서 기술주와 금융주가 소폭 상승을 주도했다",
@@ -2379,30 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9128095/evercore-isi-reaffirms-outperform-on-alphabet-goog-with-450-price-target-amid-ai-chip-growth",
       "cross_verified": true,
       "published_at": "2026-10-16T18:57:03.000000Z"
-    },
-    {
-      "title": "Options Traders Show Caution as Netflix (NFLX) Stock Dips Amid Elevated Volatility",
-      "title_ko": "변동성이 높아진 가운데 넷플릭스(NFLX) 주가가 하락하자 옵션 거래자들이 신중한 태도를 보이고 있다",
-      "snippet": "On October 16, 2026, Netflix Inc (NFLX) experienced a $2.18 decline in its stock price, closing near $70.46, as options market participants exhibited a cautious",
-      "snippet_ko": "2026년 10월 16일, 넷플릭스(NFLX)의 주가는 2.18달러 하락하여 70.46달러 부근에서 장을 마감했는데, 이는 옵션 시장 참여자들이 신중한 태도를 보였기 때문이다.",
-      "symbol": "NFLX",
-      "sentiment_score": 0.3114,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128199/options-traders-show-caution-as-netflix-nflx-stock-dips-amid-elevated-volatility",
-      "cross_verified": true,
-      "published_at": "2026-10-16T20:25:53.000000Z"
-    },
-    {
-      "title": "UK CMA Proposes Changes to Apple Pay Tap-to-Pay in UK, Impacting AAPL",
-      "title_ko": "영국 경쟁시장청(CMA), 영국 내 애플 페이 ‘탭 투 페이’ 서비스 변경안 제안… AAPL에 영향",
-      "snippet": "On October 16, 2026, the UK's Competition and Markets Authority (CMA) announced upcoming consultation proposals aimed at reducing Apple Inc.'s (NASDAQ: AAPL) do",
-      "snippet_ko": "2026년 10월 16일, 영국 경쟁·시장청(CMA)은 애플(NASDAQ: AAPL)의 도...를 줄이기 위한 향후 의견 수렴안을 발표했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3434,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9127885/uk-cma-proposes-changes-to-apple-pay-taptopay-in-uk-impacting-aapl",
-      "cross_verified": true,
-      "published_at": "2026-10-16T16:50:30.000000Z"
     }
   ]
 }
