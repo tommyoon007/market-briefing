@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-24T10:41:05.363347+00:00",
+  "updated_at": "2026-10-24T15:43:08.865964+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Kotak Mahindra Bank, IDFC First PAT rise; Marginal dip in NIM on FCNR (B) inflows",
+      "title_ko": "코탁 마힌드라 은행, IDFC 퍼스트의 순이익 증가… FCNR(B) 자금 유입으로 순이자마진 소폭 하락",
+      "snippet": "Kotak Mahindra Bank and IDFC First Bank post rising profits, NIM dips on FCNR(B) deposits; AU Small Finance Bank gains profit.",
+      "snippet_ko": "코탁 마힌드라 은행과 IDFC 퍼스트 은행은 이익이 증가했으나, FCNR(B) 예금으로 인해 순이자마진이 하락했으며, AU 스몰 파이낸스 은행은 이익을 기록했다.",
+      "symbol": "",
+      "sentiment_score": 0.8519,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/kotak-mahindra-bank-idfc-first-pat-rise-marginal-dip-in-nim-on-fcnr-b-inflows/article71620665.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-24T14:52:39.000000Z"
+    },
+    {
+      "title": "Sony 1000X THE COLLEXION Review: Premium design, flagship sound, but is it worth Rs 60,000?",
+      "title_ko": "소니 1000X THE COLLEXION 리뷰: 프리미엄 디자인, 플래그십급 사운드, 하지만 60,000루피의 가치가 있을까?",
+      "snippet": "Sony's new luxury headphones promise premium design, impressive sound and all-day comfort, but they cost Rs 20,000 more than the WH-1000XM6. After testing them across commutes, workouts and office calls, we found plenty to like, along with a few compromises that raise questions about whether the extra expense is truly worth it.",
+      "snippet_ko": "소니의 새로운 럭셔리 헤드폰은 고급스러운 디자인, 인상적인 사운드, 하루 종일 지속되는 착용감을 자랑하지만, WH-1000XM6보다 20,000루피 더 비쌉니다. 출퇴근길, 운동, 사무실 통화 등 다양한 상황에서 직접 테스트해 본 결과, 마음에 드는 점이 많았지만, 추가 비용을 지불할 만한 가치가 있는지 의문을 품게 만드는 몇 가지 단점도 발견했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.5483,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/sony-1000x-the-collexion-review-premium-design-flagship-sound-but-is-it-worth-rs-60000/articleshow/135172406.cms",
+      "cross_verified": true,
+      "published_at": "2026-10-24T14:38:04.000000Z"
+    },
+    {
+      "title": "Earnings Scorecard: Financials log 80% EPS beat rate vs. revenue this week",
+      "title_ko": "실적 평가표: 이번 주 금융업종, 매출 대비 주당순이익(EPS) 예상치 상회율 80% 기록",
+      "snippet": "Financial stocks beat the market on strong bank and insurer earnings.",
+      "snippet_ko": "은행과 보험사의 호실적에 힘입어 금융주가 시장 평균을 상회하는 성과를 기록했다.",
+      "symbol": "",
+      "sentiment_score": 0.3818,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4656570-earnings-scorecard-financials-log-80-eps-beat-rate-vs-revenue-this-week",
+      "cross_verified": true,
+      "published_at": "2026-10-24T14:15:14.000000Z"
+    },
     {
       "title": "Devon Energy Is Still A 'Compelling Energy Buy' After A 60% Return (NYSE:DVN)",
       "title_ko": "60%의 수익률을 기록한 후에도 데본 에너지(Devon Energy)는 여전히 ‘매력적인 에너지주’로 꼽힌다 (NYSE:DVN)",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9126754/is-it-too-late-to-buy-equifax-inc-efx-after-72-rally-gf-value-says-undervalued",
       "cross_verified": true,
       "published_at": "2026-10-16T00:08:19.000000Z"
-    },
-    {
-      "title": "PulteGroup Inc (PHM) Stock Up 3.3% and Still Undervalued -- GF Score: 94/100",
-      "title_ko": "PulteGroup Inc (PHM) 주가 3.3% 상승했으나 여전히 저평가 상태 -- GF 점수: 94/100",
-      "snippet": "On October 15, 2026, PulteGroup Inc (PHM) shares rose 3.3% today, bringing the current price to $112.99. The stock has traded within a 52-week range of $107.16",
-      "snippet_ko": "2026년 10월 15일, PulteGroup Inc(PHM)의 주가는 이날 3.3% 상승하여 현재 주가는 112.99달러를 기록했습니다. 이 주식은 지난 52주 동안 107.16달러의 등락폭 내에서 거래되었습니다.",
-      "symbol": "",
-      "sentiment_score": 0.4071,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9126734/pultegroup-inc-phm-stock-up-33-and-still-undervalued-gf-score-94100",
-      "cross_verified": true,
-      "published_at": "2026-10-15T23:57:43.000000Z"
-    },
-    {
-      "title": "Southwest Airlines (LUV) Unveils Enhanced Rapid Rewards Program and Fleetwide Starlink WiFi",
-      "title_ko": "사우스웨스트 항공(LUV), 개선된 ‘래피드 리워드(Rapid Rewards)’ 프로그램과 전 기종에 적용된 스타링크(Starlink) 와이파이 서비스 공개",
-      "snippet": "On October 15, 2026, Southwest Airlines Co (NYSE: LUV) announced a significant upgrade to its Rapid Rewards loyalty program alongside plans to introduce fleetwi",
-      "snippet_ko": "2026년 10월 15일, 사우스웨스트 항공(NYSE: LUV)은 자사의 ‘래피드 리워드(Rapid Rewards)’ 로열티 프로그램을 대폭 개선할 계획과 함께 기단 도입 계획을 발표했습니다.",
-      "symbol": "",
-      "sentiment_score": 0.658,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9125906/southwest-airlines-luv-unveils-enhanced-rapid-rewards-program-and-fleetwide-starlink-wifi",
-      "cross_verified": true,
-      "published_at": "2026-10-15T16:25:27.000000Z"
-    },
-    {
-      "title": "American Airlines (AAL) Set to Release Quarterly Earnings with High Volatility Expectations",
-      "title_ko": "아메리칸 항공(AAL), 변동성이 클 것으로 예상되는 분기 실적 발표 예정",
-      "snippet": "On October 15, 2026, American Airlines Group Inc (AAL) is set to announce its quarterly earnings on October 22. The options market indicates that investors anti",
-      "snippet_ko": "2026년 10월 15일, 아메리칸 항공 그룹(AAL)은 10월 22일에 분기 실적을 발표할 예정입니다. 옵션 시장 동향을 보면 투자자들은",
-      "symbol": "",
-      "sentiment_score": 0.0205,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9125891/american-airlines-aal-set-to-release-quarterly-earnings-with-high-volatility-expectations",
-      "cross_verified": true,
-      "published_at": "2026-10-15T16:11:03.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Meta: The Ads Business Is Better Than Ever, But The Cash Flow Isn't (NASDAQ:META)",
+      "title_ko": "메타: 광고 사업은 사상 최고 수준이지만, 현금 흐름은 그렇지 않다 (나스닥: META)",
+      "snippet": "Meta Platforms' revenue surged 26% as AI boosts ads, but CapEx, legal costs, and dilution risks pressure cash flow. Click here to read more of this META update.",
+      "snippet_ko": "AI가 광고 매출을 견인하며 메타 플랫폼스의 매출이 26% 급증했으나, 설비투자(CapEx), 법적 비용 및 희석 위험이 현금 흐름에 부담을 주고 있다. 이 META 관련 최신 소식을 더 자세히 보려면 여기를 클릭하세요.",
+      "symbol": "META",
+      "sentiment_score": 0.4404,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4957216-meta-the-ads-business-is-better-than-ever-the-cash-flow-isnt",
+      "cross_verified": true,
+      "published_at": "2026-10-24T12:56:24.000000Z"
+    },
+    {
+      "title": "Phase II Results of Sacituzumab Tirumotecan (sac-TMT) plus Pembrolizumab in Advanced Urothelial Carcinoma Presented at 2026 ESMO",
+      "title_ko": "진행성 요로상피암 환자를 대상으로 한 사시투주맙 티루모테칸(sac-TMT)과 펨브롤리주맙 병용 요법의 2상 임상시험 결과가 2026년 ESMO에서 발표되었다",
+      "snippet": "**media[1275079]**CHENGDU, China, Oct. 24, 2026 /PRNewswire/ -- Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd. ('Kelun-Biotech' or the 'Company', 6990.HK) announced that at the 2026 European Society for Medical Oncology (ESMO) Congress held in Madrid, updated results from the Phase II MK-2870-002/SKB264-II-06 study of sacituzumab tirumotecan (sac-TMT, also known as SKB264/MK-2870)(佳泰莱®) plus MSD's[1] anti-programmed cell death protein 1 (PD-1) monoclonal antibody pembrolizumab (KEYTRUDA®[2]) in locally advanced or metastatic urothelial carcinoma (la/mUC) were presented as a rapid oral report by Professor Xiaojie Bian from Fudan University Shanghai Cancer Center (4739RO; Rapid oral | Genitourinary Tumours, Renal and Urothelial).**media[1275080]**",
+      "snippet_ko": "**media[1275079]**중국 청두, 2026년 10월 24일 /PRNewswire/ -- 쓰촨 켈룬-바이오텍 바이오제약 유한공사(이하 ‘켈룬-바이오텍’ 또는 ‘회사’, 6990.HK)는 마드리드에서 개최된 2026년 유럽임상의학종양학회 (ESMO) 학술대회에서, 사시투주맙 티루모테칸(sac-TMT, SKB264/MK-2870으로도 알려짐)(佳泰莱®)와 MSD[1]의 항-프로그램된 세포사멸 단백질 1(PD-1) 단일클론 항체인 펨브롤리주맙(KEYTRUDA®[2])을 병용 투여한 2상 MK-2870-002/SKB264-II-06 임상시험의 최신 결과를 발표했다고 밝혔다.",
+      "symbol": "MRK",
+      "sentiment_score": 0.2294,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/24/tmt-newswire/pr-newswire/phase-ii-results-of-sacituzumab-tirumotecan-sac-tmt-plus-pembrolizumab-in-advanced-urothelial-carcinoma-presented-at-2026-esmo/2453273",
+      "cross_verified": true,
+      "published_at": "2026-10-24T12:26:31.000000Z"
+    },
+    {
+      "title": "OKXICE Tokenized Stocks: 22 of 62 Issuers Now Object",
+      "title_ko": "OKXICE 토큰화 주식: 62개 발행사 중 22곳이 현재 반대 의사를 표명",
+      "snippet": "Wells Fargo, Arm, Intuit, Moderna, Cisco and Marvell lift objections to OKXICE tokenized shares to 22 of the 62 companies listed under the SEC Innovation Exemption.",
+      "snippet_ko": "웰스 파고, ARM, 인튜이트, 모더나, 시스코, 마벨이 OKXICE 토큰화 주식에 대한 이의를 철회함에 따라, SEC 혁신 면제 조항에 따라 상장된 62개 기업 중 22개사가 이에 동의하게 되었다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.0873,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/wells-fargo-arm-and-intuit-join-objections-to-okxice-tokenized-stocks/",
+      "cross_verified": true,
+      "published_at": "2026-10-24T11:49:00.000000Z"
+    },
     {
       "title": "Phase II Results of Sacituzumab Tirumotecan (sac-TMT) plus Pembrolizumab in Advanced Urothelial Carcinoma Presented at 2026 ESMO",
       "title_ko": "진행성 요로상피암 환자를 대상으로 한 사시투주맙 티루모테칸(sac-TMT)과 펨브롤리주맙 병용 요법의 2상 임상시험 결과가 2026년 ESMO에서 발표되었다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.business-standard.com/technology/tech-news/apple-appoints-meta-veteran-scott-tucker-to-lead-global-litigation-126101700133_1.html",
       "cross_verified": true,
       "published_at": "2026-10-17T03:48:47.000000Z"
-    },
-    {
-      "title": "Amazon's AWS CFO Affirms Sustainable AI Investment Amid Market Concerns",
-      "title_ko": "시장 우려 속 아마존 AWS 최고재무책임자(CFO), 지속 가능한 AI 투자 의지 재확인",
-      "snippet": "On October 16, 2026, Amazon Web Services (AWS) CFO John Felton expressed confidence in the sustainability of spending on AI infrastructure and services, highlig",
-      "snippet_ko": "2026년 10월 16일, 아마존 웹 서비스(AWS)의 최고재무책임자(CFO) 존 펠턴은 AI 인프라 및 서비스에 대한 지출의 지속 가능성에 대한 확신을 표명하며, 특히",
-      "symbol": "AMZN",
-      "sentiment_score": 0.2107,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128384/amazons-aws-cfo-affirms-sustainable-ai-investment-amid-market-concerns",
-      "cross_verified": true,
-      "published_at": "2026-10-16T22:51:03.000000Z"
-    },
-    {
-      "title": "Broadcom Inc (AVGO) Stock Down 4.5% -- Now Undervalued? GF Score: 98/100",
-      "title_ko": "브로드컴(AVGO) 주가 4.5% 하락… 이제 저평가된 상태인가? GF 점수: 98/100",
-      "snippet": "On October 16, 2026, Broadcom Inc (AVGO) shares fell 4.5% to $328.75, continuing a trend that has seen the stock drop 9.1% over the past week and 6.5% over the",
-      "snippet_ko": "2026년 10월 16일, 브로드컴(Broadcom Inc, AVGO) 주가는 4.5% 하락한 328.75달러를 기록하며, 지난 일주일 동안 9.1%, 지난",
-      "symbol": "AVGO",
-      "sentiment_score": 0.5299,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128323/broadcom-inc-avgo-stock-down-45-now-undervalued-gf-score-98100",
-      "cross_verified": true,
-      "published_at": "2026-10-16T22:01:39.000000Z"
-    },
-    {
-      "title": "Meta Platforms Inc (META) Shares Fall 3.7% -- What GF Score of 99 Tells Investors",
-      "title_ko": "메타 플랫폼스(META) 주가 3.7% 하락… ‘99’라는 GF 점수가 투자자들에게 시사하는 바는?",
-      "snippet": "On October 16, 2026, Meta Platforms Inc (META) shares fell 3.7% to a current price of $709.33. The stock is trading within a 52-week range of $520.26 to $779.82",
-      "snippet_ko": "2026년 10월 16일, 메타 플랫폼스(META) 주가는 3.7% 하락하여 현재 주가는 709.33달러를 기록했습니다. 이 주식은 52주 동안 520.26달러에서 779.82달러 사이의 범위 내에서 거래되고 있습니다.",
-      "symbol": "META",
-      "sentiment_score": 0.4831,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128316/meta-platforms-inc-meta-shares-fall-37-what-gf-score-of-99-tells-investors",
-      "cross_verified": true,
-      "published_at": "2026-10-16T22:00:38.000000Z"
     }
   ]
 }
