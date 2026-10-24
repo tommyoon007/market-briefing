@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-24T04:08:33.872373+00:00",
+  "updated_at": "2026-10-24T10:41:05.363347+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Devon Energy Is Still A 'Compelling Energy Buy' After A 60% Return (NYSE:DVN)",
+      "title_ko": "60%의 수익률을 기록한 후에도 데본 에너지(Devon Energy)는 여전히 ‘매력적인 에너지주’로 꼽힌다 (NYSE:DVN)",
+      "snippet": "Devon Energy remains a compelling buy, supported by robust revenue and operating income growth and a disciplined portfolio strategy. Click for more on DVN.",
+      "snippet_ko": "데본 에너지(Devon Energy)는 견실한 매출 및 영업이익 성장과 체계적인 포트폴리오 전략을 바탕으로 여전히 매력적인 매수 대상입니다. DVN에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.4588,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4957187-devon-energy-is-still-a-compelling-energy-buy-after-a-60-percent-return",
+      "cross_verified": true,
+      "published_at": "2026-10-24T09:32:13.000000Z"
+    },
     {
       "title": "Fitch Forecasts Prolonged Ukraine Conflict; Howard Hughes Joins S&P SmallCap 600",
       "title_ko": "피치, 우크라이나 분쟁 장기화 전망… 하워드 휴즈, S&P 스몰캡 600 지수에 편입",
@@ -1189,21 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9125891/american-airlines-aal-set-to-release-quarterly-earnings-with-high-volatility-expectations",
       "cross_verified": true,
       "published_at": "2026-10-15T16:11:03.000000Z"
-    },
-    {
-      "title": "Nel ASA (NLLSF) Reports Q3 Revenue Plunge Amid Rising Order Backlog",
-      "title_ko": "넬 ASA(NLLSF), 주문 잔고 증가 속 3분기 매출 급감 기록",
-      "snippet": "On October 15, 2026, Nel ASA (OTCPK: NLLSF) released its Q3 financial results, revealing a steep decline in revenues alongside a substantial increase in order i",
-      "snippet_ko": "2026년 10월 15일, Nel ASA(OTCPK: NLLSF)는 3분기 실적을 발표하며, 매출이 급감한 반면 수주량은 크게 증가한 것으로 나타났습니다.",
-      "symbol": "",
-      "sentiment_score": 0.0533,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9125008/nel-asa-nllsf-reports-q3-revenue-plunge-amid-rising-order-backlog",
-      "cross_verified": true,
-      "published_at": "2026-10-15T10:57:06.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Phase II Results of Sacituzumab Tirumotecan (sac-TMT) plus Pembrolizumab in Advanced Urothelial Carcinoma Presented at 2026 ESMO",
+      "title_ko": "진행성 요로상피암 환자를 대상으로 한 사시투주맙 티루모테칸(sac-TMT)과 펨브롤리주맙 병용 요법의 2상 임상시험 결과가 2026년 ESMO에서 발표되었다",
+      "snippet": "/PRNewswire/ -- Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd. (\"Kelun-Biotech\" or the \"Company\", 6990.HK) announced that at the 2026 European Society for...",
+      "snippet_ko": "/PRNewswire/ -- 쓰촨 켈룬-바이오텍 바이오제약 유한공사(이하 “켈룬-바이오텍” 또는 “회사”, 6990.HK)는 2026년 유럽학회...",
+      "symbol": "MRK",
+      "sentiment_score": 0.2294,
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/apac/news-releases/phase-ii-results-of-sacituzumab-tirumotecan-sac-tmt-plus-pembrolizumab-in-advanced-urothelial-carcinoma-presented-at-2026-esmo-302918626.html",
+      "cross_verified": true,
+      "published_at": "2026-10-24T10:15:00.000000Z"
+    },
+    {
+      "title": "Meta: The Q4 Guide Is The Real Profit Warning (NASDAQ:META)",
+      "title_ko": "메타: 4분기 실적 가이던스가 진정한 실적 경고다 (NASDAQ:META)",
+      "snippet": "Meta Platforms' Q4 guidance shows strong revenue growth but weaker operating leverage and margin pressure. Click to read more on the META stock here.",
+      "snippet_ko": "메타 플랫폼스의 4분기 실적 전망은 매출이 크게 증가할 것으로 예상되지만, 영업 레버리지는 약화되고 마진 압박이 가중될 것으로 나타났습니다. META 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "META",
+      "sentiment_score": 0.128,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4957188-meta-the-q4-guide-is-the-real-profit-warning",
+      "cross_verified": true,
+      "published_at": "2026-10-24T09:42:40.000000Z"
+    },
+    {
+      "title": "Apple Inc. quickly sold out of its limited in-store inventory for the new iPhone Duo",
+      "title_ko": "애플은 신제품 ‘아이폰 듀오’의 매장 한정 재고가 순식간에 매진되었다.",
+      "snippet": "Apple’s iPhone Duo debuts amid limited supply and high demand as fans line up worldwide for a costly foldable reimagining.",
+      "snippet_ko": "애플의 ‘아이폰 듀오’가 공급 부족과 높은 수요 속에서 첫 선을 보였으며, 전 세계 팬들은 고가의 폴더블 신제품을 구매하기 위해 줄을 서고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2036,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/info-tech/apples-iphone-duo-hits-stores-in-face-of-short-supply-and-high-demand/article71619030.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-24T05:27:39.000000Z"
+    },
     {
       "title": "SpaceX’s $40 billion AI debt plan faces market turmoil. Can investors stomach the growing borrowing risks?",
       "title_ko": "스페이스X의 400억 달러 규모 AI 부채 계획이 시장 혼란에 직면했다. 투자자들은 점점 커지는 차입 위험을 감당할 수 있을까?",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9128316/meta-platforms-inc-meta-shares-fall-37-what-gf-score-of-99-tells-investors",
       "cross_verified": true,
       "published_at": "2026-10-16T22:00:38.000000Z"
-    },
-    {
-      "title": "Apple (AAPL) iPhone Duo Pre-Orders Signal Strong Demand with Extended Delivery Times",
-      "title_ko": "애플(AAPL)의 아이폰 듀오 사전 예약, 배송 기간 연장으로 강한 수요를 시사",
-      "snippet": "On October 16, 2026, Evercore ISI reported that pre-orders for Apple Inc's (NASDAQ: AAPL) new iPhone Duo began today, with delivery timelines stretching into la",
-      "snippet_ko": "2026년 10월 16일, 에버코어 ISI는 애플(NASDAQ: AAPL)의 신형 ‘아이폰 듀오’에 대한 사전 주문이 오늘 시작되었으며, 배송 일정은 11월까지 이어질 것이라고 보도했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.5158,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128166/apple-aapl-iphone-duo-preorders-signal-strong-demand-with-extended-delivery-times",
-      "cross_verified": true,
-      "published_at": "2026-10-16T19:50:34.000000Z"
-    },
-    {
-      "title": "NBA Betting Restrictions Impact DraftKings (DKNG) Stock Amid Market Concerns",
-      "title_ko": "시장 우려 속에서 NBA 베팅 제한 조치가 드래프트킹스(DKNG) 주가에 영향을 미치고 있다",
-      "snippet": "On October 16, 2026, the NBA announced new restrictions on certain betting options for the current season, directly affecting sportsbook operators including Dra",
-      "snippet_ko": "2026년 10월 16일, NBA는 이번 시즌의 특정 베팅 옵션에 대한 새로운 제한 조치를 발표했으며, 이는 Dra를 비롯한 스포츠북 운영사들에 직접적인 영향을 미쳤습니다.",
-      "symbol": "DKNG",
-      "sentiment_score": 0.2877,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128135/nba-betting-restrictions-impact-draftkings-dkng-stock-amid-market-concerns",
-      "cross_verified": true,
-      "published_at": "2026-10-16T19:26:09.000000Z"
-    },
-    {
-      "title": "Evercore ISI Reaffirms Outperform on Alphabet (GOOG) with $450 Price Target Amid AI Chip Growth",
-      "title_ko": "에버코어 ISI, AI 칩 성장세에 힘입어 알파벳(GOOG)에 대해 ‘아웃퍼폼’ 투자의견 재확인… 목표주가 450달러 제시",
-      "snippet": "On October 16, 2026, Evercore ISI reiterated its Outperform rating on Alphabet Inc (NASDAQ: GOOG), setting a price target of $450. The firm highlighted robust g",
-      "snippet_ko": "2026년 10월 16일, 에버코어 ISI는 알파벳(Alphabet Inc, 나스닥: GOOG)에 대한 ‘아웃퍼폼(Outperform)’ 투자의견을 재확인하고 목표주가를 450달러로 제시했다. 이 회사는 견실한 g",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.5992,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128095/evercore-isi-reaffirms-outperform-on-alphabet-goog-with-450-price-target-amid-ai-chip-growth",
-      "cross_verified": true,
-      "published_at": "2026-10-16T18:57:03.000000Z"
     }
   ]
 }
