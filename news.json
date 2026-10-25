@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-24T22:21:39.648815+00:00",
+  "updated_at": "2026-10-25T04:10:49.376461+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Sinking profits turn China's $3.5 trillion stock rout into a deeper trap",
+      "title_ko": "이익 감소로 인해 중국의 3.5조 달러 규모 주식 시장 폭락이 더 깊은 덫으로 변하고 있다",
+      "snippet": "The world's second-largest equities market has lost $3.5 trillion in value from a peak in May, data compiled by Bloomberg show",
+      "snippet_ko": "블룸버그가 집계한 자료에 따르면, 세계 2위 규모의 주식 시장은 지난 5월 최고점 대비 3조 5천억 달러의 시가총액이 감소한 것으로 나타났다",
+      "symbol": "",
+      "sentiment_score": 0.0599,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-a-deeper-trap-126102500055_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-25T02:48:06.000000Z"
+    },
+    {
+      "title": "Bloom Energy Stock: Strong Results Not Sufficient Overcome Deteriorating Picture (NYSE:BE)",
+      "title_ko": "블룸 에너지 주가: 호실적만으로는 악화되는 시장 전망을 극복하기에는 역부족 (NYSE:BE)",
+      "snippet": "Bloom Energy beat Q3 estimates and raised guidance again, but AI infrastructure risks cloud outlook.",
+      "snippet_ko": "블룸 에너지(Bloom Energy)는 3분기 실적 전망치를 상회했고 실적 전망치를 다시 상향 조정했으나, AI 인프라 관련 리스크가 전망을 어둡게 하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.4253,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4957285-bloom-energy-strong-results-not-sufficient-to-overcome-deteriorating-big-picture",
+      "cross_verified": true,
+      "published_at": "2026-10-25T01:52:29.000000Z"
+    },
+    {
+      "title": "IDEX Corporation Stock Is Growing Nicely, Not Enough To Justify Bullish Rating (NYSE:IEX)",
+      "title_ko": "IDEX Corporation의 주가는 순조롭게 상승하고 있으나, 강세 평가를 뒷받침하기에는 아직 부족하다 (NYSE:IEX)",
+      "snippet": "IDEX delivers strong revenue and profit growth, with raised 2026 guidance and improving demand.",
+      "snippet_ko": "IDEX는 매출과 이익이 견조한 성장세를 보였으며, 2026년 실적 전망치를 상향 조정하고 수요 회복세를 보이고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.5574,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4957284-idex-corporation-is-growing-nicely-but-not-enough-to-justify-bullish-rating",
+      "cross_verified": true,
+      "published_at": "2026-10-25T01:40:28.000000Z"
+    },
     {
       "title": "10 Dividend Stocks with the Highest Yield",
       "title_ko": "수익률이 가장 높은 배당주 10선",
@@ -1165,42 +1201,6 @@
       "url": "https://www.gurufocus.com/news/9128026/us-treasury-yields-under-pressure-amid-inflation-concerns",
       "cross_verified": true,
       "published_at": "2026-10-16T17:51:17.000000Z"
-    },
-    {
-      "title": "Two Sigma Investments Restructures Real Estate Division, Cuts Senior Staff",
-      "title_ko": "투 시그마 인베스트먼트, 부동산 부문 조직 개편 및 고위 간부 감원",
-      "snippet": "On October 16, 2026, Two Sigma Investments announced significant changes to its real estate division, including the departure of key leadership and a halt to fu",
-      "snippet_ko": "2026년 10월 16일, 투 시그마 인베스트먼트(Two Sigma Investments)는 핵심 경영진의 퇴사와 향후 사업 중단 등을 포함한 부동산 부문의 중대한 변화를 발표했습니다.",
-      "symbol": "",
-      "sentiment_score": 0.6791,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128025/two-sigma-investments-restructures-real-estate-division-cuts-senior-staff",
-      "cross_verified": true,
-      "published_at": "2026-10-16T17:50:53.000000Z"
-    },
-    {
-      "title": "H.C. Wainwright Maintains Buy on Omeros (OMER) Despite Regulatory Setback, Stock Drops 14%",
-      "title_ko": "H.C. 웨인라이트, 규제 관련 차질에도 오메로스(OMER)에 대해 ‘매수’ 추천 유지… 주가는 14% 하락",
-      "snippet": "On October 16, 2026, H.C. Wainwright reaffirmed its Buy rating on Omeros Corporation (NASDAQ: OMER) following a 14% decline in the stock after an unfavorable op",
-      "snippet_ko": "2026년 10월 16일, H.C. 웨인라이트는 부정적인 실적 발표 이후 주가가 14% 하락한 오메로스 코퍼레이션(NASDAQ: OMER)에 대해 ‘매수’ 투자의견을 재확인했다.",
-      "symbol": "",
-      "sentiment_score": 0.0812,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128024/hc-wainwright-maintains-buy-on-omeros-omer-despite-regulatory-setback-stock-drops-14",
-      "cross_verified": true,
-      "published_at": "2026-10-16T17:50:43.000000Z"
-    },
-    {
-      "title": "Integra LifeSciences to Highlight ENT and Instruments Portfolios and Sponsor New Clinical Research Presentations at AAO-HNSF 2026 Annual Meeting",
-      "title_ko": "인테그라 라이프사이언스, AAO-HNSF 2026 연례 학술대회에서 이비인후과 및 수술 기구 제품군을 집중 소개하고 새로운 임상 연구 발표를 후원할 예정",
-      "snippet": "Integra LifeSciences to Highlight ENT and Instruments Portfolios and Sponsor New Clinical Research Presentations at AAO-HNSF 2026 Annual Meeting",
-      "snippet_ko": "인테그라 라이프사이언스, AAO-HNSF 2026 연례 학술대회에서 이비인후과 및 수술 기구 제품군을 집중 소개하고 새로운 임상 연구 발표를 후원할 예정",
-      "symbol": "",
-      "sentiment_score": 0.4295,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/integra-lifesciences-to-highlight-ent-and-instruments-portfolios-and-sponsor-new-clinical-research-presentations-at-aao-hnsf-2026-annual-meeting/2447499",
-      "cross_verified": true,
-      "published_at": "2026-10-16T12:43:19.000000Z"
     }
   ],
   "portfolio_news": [
