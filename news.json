@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-25T18:50:21.006117+00:00",
+  "updated_at": "2026-10-25T22:24:24.140499+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Bon Secours Mercy Health Nears $6 Billion Deal for Surgery Partners (SGRY)",
+      "title_ko": "본 세쿠르 머시 헬스, 서저리 파트너스(SGRY) 인수에 60억 달러 규모 계약 체결 임박",
+      "snippet": "On October 25, 2026, Bon Secours Mercy Health is reportedly close to finalizing an acquisition of a controlling stake in Surgery Partners Inc (NASDAQ: SGRY), va",
+      "snippet_ko": "2026년 10월 25일, 본 세쿠르 머시 헬스(Bon Secours Mercy Health)가 서저리 파트너스(Surgery Partners Inc, 나스닥: SGRY)의 지배 지분 인수를 거의 마무리 단계에 접어든 것으로 알려졌다.",
+      "symbol": "",
+      "sentiment_score": 0.2571,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9141448/bon-secours-mercy-health-nears-6-billion-deal-for-surgery-partners-sgry",
+      "cross_verified": true,
+      "published_at": "2026-10-25T20:55:39.000000Z"
+    },
+    {
+      "title": "Genmab (GMAB) and Incyte Launch Trial for KRAS G12D Colorectal Cancer Therapy Combo",
+      "title_ko": "Genmab(GMAB)과 Incyte, KRAS G12D 대장암 치료제 병용 요법 임상시험 착수",
+      "snippet": "On October 25, 2026, Genmab AS (NASDAQ: GMAB) announced a clinical trial collaboration with Incyte Corporation to evaluate a combination of their investigationa",
+      "snippet_ko": "2026년 10월 25일, Genmab AS(나스닥: GMAB)는 Incyte Corporation과 공동으로 자사의 임상시험용 약물을 조합하여 평가하기 위한 임상시험 협력을 발표했습니다.",
+      "symbol": "",
+      "sentiment_score": -0.2604,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9141447/genmab-gmab-and-incyte-launch-trial-for-kras-g12d-colorectal-cancer-therapy-combo",
+      "cross_verified": true,
+      "published_at": "2026-10-25T20:55:19.000000Z"
+    },
+    {
+      "title": "United CEO Scott Kirby has another 'non-consensus opinion' besides a wealth tax: national service",
+      "title_ko": "유나이티드 항공의 스콧 커비 CEO는 부유세 외에도 또 다른 ‘주류 의견과 다른 견해’를 제시했는데, 바로 ‘국민 복무제’다.",
+      "snippet": "Scott Kirby caused a stir last week when he said the U.S. should have a national wealth tax, but the United Airlines CEO didn’t back down and also offered ano...",
+      "snippet_ko": "스콧 커비는 지난주 미국에 국가 차원의 부유세를 도입해야 한다고 말해 파문을 일으켰지만, 유나이티드 항공 CEO는 입장을 굽히지 않았을 뿐만 아니라 또 다른 제안을 내놓기도 했다...",
+      "symbol": "",
+      "sentiment_score": 0.886,
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/10/25/united-airlines-ceo-scott-kirby-wealth-tax-national-service-teacher-military-first-responder/",
+      "cross_verified": true,
+      "published_at": "2026-10-25T20:48:17.000000Z"
+    },
     {
       "title": "Marvell Technology (MRVL) Doubles Revolving Credit Facility to $3 Billion",
       "title_ko": "마벨 테크놀로지(MRVL), 회전 신용 한도를 30억 달러로 두 배 확대",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9128922/torontodominion-bank-td-gains-460-amid-dividend-focus-and-mixed-sector-sentiment",
       "cross_verified": true,
       "published_at": "2026-10-17T15:55:43.000000Z"
-    },
-    {
-      "title": "Sony: The Hardware Cycle Is Hiding A Better Earnings Mix (NYSE:SONY)",
-      "title_ko": "소니: 하드웨어 주기가 더 나은 수익 구조를 가리고 있다 (NYSE:SONY)",
-      "snippet": "Sony Group offers upside through diversified assets, recurring revenue streams, and capital-light strategies, trading at 17.8x forward earnings. Click for more.",
-      "snippet_ko": "소니 그룹은 다각화된 자산, 지속적인 수익원, 자본 효율이 높은 전략을 통해 상승 여력을 제공하며, 현재 예상 주당순이익(EPS)의 17.8배 수준에서 거래되고 있습니다. 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.1779,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4954965-sony-the-hardware-cycle-is-hiding-a-better-earnings-mix",
-      "cross_verified": true,
-      "published_at": "2026-10-17T10:42:16.000000Z"
-    },
-    {
-      "title": "What Moved Markets This Week",
-      "title_ko": "이번 주 시장을 움직인 요인",
-      "snippet": "U.S. stocks ended the week mixed amid volatility in tech stocks, bank earnings, and hotter-than-feared CPI data. Read more about this week's major events on Wall Street.",
-      "snippet_ko": "기술주 변동성, 은행 실적, 그리고 예상보다 높은 소비자물가지수(CPI) 수치 속에서 미국 증시는 혼조세를 보이며 한 주를 마감했습니다. 이번 주 월스트리트의 주요 소식에 대해 자세히 알아보세요.",
-      "symbol": "",
-      "sentiment_score": -0.1506,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4954971-what-moved-markets-this-week",
-      "cross_verified": true,
-      "published_at": "2026-10-17T10:35:57.000000Z"
-    },
-    {
-      "title": "Cohen & Steers, Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:CNS) 2026-10-17",
-      "title_ko": "Cohen & Steers, Inc. 2026년 3분기 실적 - 실적 발표 전화 회의 프레젠테이션 (NYSE:CNS) 2026-10-17",
-      "snippet": "2026-10-17. The following slide deck was published by Cohen & Steers, Inc.",
-      "snippet_ko": "2026년 10월 17일. 다음 슬라이드 자료는 Cohen & Steers, Inc.에서 발간한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4954932-cohen-and-steers-inc-2026-q3-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-10-17T05:30:34.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Bretton Fund Q3 2026 Shareholder Letter",
+      "title_ko": "브레튼 펀드 2026년 3분기 주주 서한",
+      "snippet": "Microsoft’s stock jumped 38% and Bretton Fund added 1.6% to performance, while SAP also added 1.6%. Ross was the other main contributor, adding 0.6%. Read more here.",
+      "snippet_ko": "마이크로소프트 주가는 38% 급등했으며, 브레튼 펀드는 수익률에 1.6%를 기여했고, SAP 역시 1.6%를 기여했습니다. 로스도 0.6%를 기여하며 주요 기여자 중 하나였습니다. 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.1597,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4957347-bretton-fund-q3-2026-shareholder-letter",
+      "cross_verified": true,
+      "published_at": "2026-10-25T20:17:00.000000Z"
+    },
+    {
+      "title": "Microsoft Stock Before Wednesday’s Results: The 45% Azure Guide, and $50 Billion Capex Quarter",
+      "title_ko": "수요일 실적 발표를 앞둔 마이크로소프트 주가: 45%의 애저 성장 전망과 분기 500억 달러 규모의 설비투자",
+      "snippet": "Microsoft (NASDAQ: MSFT) reports fiscal first-quarter 2027 earnings after the US market closes on Wednesday, October 28, with investors focused on three",
+      "snippet_ko": "마이크로소프트(NASDAQ: MSFT)는 10월 28일 수요일 미국 증시 장 마감 후 2027 회계연도 1분기 실적을 발표할 예정이며, 투자자들은 다음 세 가지에 주목하고 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.0163,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/microsoft-stock-before-wednesdays-results-the-45-azure-guide-and-50-billion-capex-quarter/",
+      "cross_verified": true,
+      "published_at": "2026-10-25T19:26:01.000000Z"
+    },
+    {
+      "title": "Meta Q3: Non-Recurring Charge Hit GAAP Earnings, Q4 Capex Will Jump Sharply (NASDAQ:META)",
+      "title_ko": "메타 3분기: 비경상 비용이 GAAP 기준 이익에 타격, 4분기 자본지출은 급증할 전망 (NASDAQ:META)",
+      "snippet": "Meta Platforms, Inc.'s 10% post-3Q drop looks overdone. Click for why AI-driven ad growth, easing cost fears, and attractive valuation make META a Strong Buy now.",
+      "snippet_ko": "메타 플랫폼스(Meta Platforms, Inc.)의 3분기 실적 발표 후 10% 하락은 과도한 반응으로 보입니다. AI 주도 광고 성장, 비용 부담 완화, 매력적인 기업 가치 등이 어우러져 현재 META를 ‘강력 매수’로 추천하는 이유를 확인하려면 여기를 클릭하세요.",
+      "symbol": "META",
+      "sentiment_score": 0.3125,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4957343-meta-q3-non-recurring-charge-hit-gaap-earnings-q4-capex-will-jump-sharply",
+      "cross_verified": true,
+      "published_at": "2026-10-25T19:13:49.000000Z"
+    },
     {
       "title": "Wall Street Brunch: Fed And Hyperscaler Earnings (undefined:MSFT)",
       "title_ko": "월스트리트 브런치: 연준과 하이퍼스케일러 기업 실적 (undefined:MSFT)",
@@ -2367,42 +2403,6 @@
       "url": "https://www.thehindubusinessline.com/markets/ai-trade-reversal-pierces-asias-star-picks-and-shovels-stocks/article71599069.ece",
       "cross_verified": true,
       "published_at": "2026-10-18T05:13:09.000000Z"
-    },
-    {
-      "title": "US markets weighed down by an extended sell-off in tech sector",
-      "title_ko": "기술주 부문의 매도세가 장기화되면서 미국 증시가 하락세를 보였다",
-      "snippet": "Stocks closed lower on Wall Street as more drops for big tech companies weighed on the market. The S&P 500 lost 1.1 per cent Friday, and the Nasdaq composite sank 2.1 per cent. Both posted their worst week since June. The Dow Jones Industrial Average didn’t do as badly, and fell 0.3 per cent. Chip companies pulled back some more as worries deepened about how long the frenzy over the artificial intelligence (AI) buildout will last. Micron Technology fell 5.6 per cent and Intel lost 5.8 per cent. European and Asian markets closed higher.",
-      "snippet_ko": "월가 증시는 대형 기술주들의 추가 하락이 시장에 부담을 주면서 하락세로 마감했다. 금요일 S&P 500 지수는 1.1% 하락했고, 나스닥 종합지수는 2.1% 떨어졌다. 두 지수 모두 6월 이후 최악의 주간 실적을 기록했다. 다우존스 산업평균지수는 그나마 양호한 모습을 보이며 0.3% 하락에 그쳤다. 인공지능(AI) 인프라 확충 열풍이 얼마나 지속될지에 대한 우려가 깊어지면서 반도체 기업들의 주가는 추가로 하락했다. 마이크론 테크놀로지는 5.6%, 인텔은 5.8% 각각 하락했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.1126,
-      "source": "jamaica-gleaner.com",
-      "url": "https://jamaica-gleaner.com/article/business/20261018/us-markets-weighed-down-extended-sell-tech-sector",
-      "cross_verified": true,
-      "published_at": "2026-10-18T05:10:14.000000Z"
-    },
-    {
-      "title": "Jim Cramer Sees a Telling Change in Broadcom’s (AVGO) Stock",
-      "title_ko": "짐 크레이머, 브로드컴(AVGO) 주가의 의미심장한 변화를 포착하다",
-      "snippet": "During the October 6 episode of Mad Money, a caller expressed frustration that Broadcom Inc.",
-      "snippet_ko": "10월 6일 방송된 ‘매드 머니’에서 한 청취자가 브로드컴(Broadcom Inc.)에 대해 불만을 토로했는데,",
-      "symbol": "AVGO",
-      "sentiment_score": 0.4048,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/jim-cramer-sees-a-telling-change-in-broadcoms-avgo-stock-1851042/",
-      "cross_verified": true,
-      "published_at": "2026-10-17T22:35:40.000000Z"
-    },
-    {
-      "title": "Broadcom’s $29 Billion AI Backstop: How Much Risk Does the Cash Flow Cover?",
-      "title_ko": "브로드컴의 290억 달러 규모 AI 안전망: 이 현금 흐름이 얼마나 많은 위험을 커버할 수 있을까?",
-      "snippet": "Broadcom Inc.",
-      "snippet_ko": "브로드컴(Broadcom Inc.)",
-      "symbol": "AVGO",
-      "sentiment_score": 0.4805,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/broadcoms-29-billion-ai-backstop-how-much-risk-does-the-cash-flow-cover-1855456/",
-      "cross_verified": true,
-      "published_at": "2026-10-17T22:11:20.000000Z"
     }
   ]
 }
