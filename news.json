@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-25T04:10:49.376461+00:00",
+  "updated_at": "2026-10-25T11:05:44.226334+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "From PCA to Prem Watsa: IDBI Bank's long road to privatisation",
+      "title_ko": "PCA에서 프렘 와츠아까지: IDBI 은행의 민영화로 향한 긴 여정",
+      "snippet": "Banks in a growing economy need patient, long-term foreign capital with good governance to meet credit demand",
+      "snippet_ko": "성장하는 경제권의 은행들은 신용 수요를 충족시키기 위해 건전한 지배구조를 갖춘 인내심 있는 장기 외국인 자본이 필요하다",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/opinion/columns/from-pca-to-prem-watsa-idbi-bank-s-long-road-to-privatisation-126102500372_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-25T10:07:55.000000Z"
+    },
+    {
+      "title": "Rupee's recovery faces hurdles from dollar demand, capital outflows",
+      "title_ko": "루피화 회복세, 달러 수요와 자본 유출로 난항 예상",
+      "snippet": "Global yields, hedging shifts and capital outflows add to pressure on the currency",
+      "snippet_ko": "전 세계 금리, 헤지 전략의 변화, 자본 유출이 해당 통화에 대한 압박을 가중시키고 있다",
+      "symbol": "",
+      "sentiment_score": -0.1908,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/finance/news/rupee-s-recovery-faces-hurdles-from-dollar-demand-capital-outflows-126102500370_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-25T10:04:32.000000Z"
+    },
+    {
+      "title": "Novartis: Faces A Tougher Test As Patent Losses And Pipeline Setbacks Mount (NYSE:NVS)",
+      "title_ko": "노바티스: 특허 만료와 신약 파이프라인의 차질이 잇따르며 더 큰 시련에 직면 (NYSE:NVS)",
+      "snippet": "Novartis reported 2Q26 revenue of $14.4 billion, as strong demand for newer medicines was largely offset by generic competition. See why NVS stock is a Hold.",
+      "snippet_ko": "노바티스는 2026년 2분기 매출이 144억 달러를 기록했다고 발표했는데, 신약에 대한 강력한 수요가 제네릭 의약품과의 경쟁으로 인해 상당 부분 상쇄되었기 때문이다. NVS 주식을 ‘보유(Hold)’로 평가하는 이유를 확인해 보자.",
+      "symbol": "",
+      "sentiment_score": -0.25,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4957306-novartis-strong-drug-growth-faces-tougher-test-patent-losses-pipeline-setbacks-mount",
+      "cross_verified": true,
+      "published_at": "2026-10-25T10:03:30.000000Z"
+    },
     {
       "title": "Sinking profits turn China's $3.5 trillion stock rout into a deeper trap",
       "title_ko": "이익 감소로 인해 중국의 3.5조 달러 규모 주식 시장 폭락이 더 깊은 덫으로 변하고 있다",
@@ -1165,45 +1201,21 @@
       "url": "https://www.gurufocus.com/news/9128511/stonex-group-inc-snex-shares-fall-46-what-gf-score-of-86-tells-investors",
       "cross_verified": true,
       "published_at": "2026-10-17T00:08:02.000000Z"
-    },
-    {
-      "title": "Compass (COMP) Files Antitrust Lawsuit Against California Regional MLS",
-      "title_ko": "컴패스(COMP), 캘리포니아 지역 MLS를 상대로 반독점 소송 제기",
-      "snippet": "On October 16, 2026, Compass Inc (NYSE: COMP) initiated legal proceedings in a federal court in Los Angeles against the California Regional Multiple Listing Ser",
-      "snippet_ko": "2026년 10월 16일, Compass Inc(NYSE: COMP)는 로스앤젤레스 연방 법원에서 캘리포니아 지역 다중 매물 목록 서비스(California Regional Multiple Listing Service)를 상대로 법적 절차를 개시했다.",
-      "symbol": "",
-      "sentiment_score": 0.2597,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128198/compass-comp-files-antitrust-lawsuit-against-california-regional-mls",
-      "cross_verified": true,
-      "published_at": "2026-10-16T20:25:28.000000Z"
-    },
-    {
-      "title": "Rosenblatt Sees 45% Upside in Super Micro Stock",
-      "title_ko": "로젠블랫, 슈퍼마이크로 주가에 45% 상승 여력 전망",
-      "snippet": "AI server maker Super Micro Computer Inc. (SMCI, Financials) may now be receiving some credit for resolving some of the challenges that have impacted on its pri",
-      "snippet_ko": "AI 서버 제조사인 슈퍼 마이크로 컴퓨터(Super Micro Computer Inc., SMCI, 재무 정보)는 자사의 주요 사업에 영향을 미쳤던 몇 가지 문제들을 해결한 공로를 인정받고 있는 것으로 보인다.",
-      "symbol": "",
-      "sentiment_score": 0.6124,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9127988/rosenblatt-sees-45-upside-in-super-micro-stock",
-      "cross_verified": true,
-      "published_at": "2026-10-16T20:22:29.000000Z"
-    },
-    {
-      "title": "US Treasury Yields Under Pressure Amid Inflation Concerns",
-      "title_ko": "인플레이션 우려 속에 미국 국채 수익률 하락 압력 받아",
-      "snippet": "On October 16, 2026, recent trends in U.S. long-term Treasury bonds may face challenges in sustaining their upward momentum. This backdrop of economic uncertain",
-      "snippet_ko": "2026년 10월 16일, 미국 장기 국채의 최근 상승세는 상승 모멘텀을 유지하는 데 어려움을 겪을 수 있습니다. 이러한 경제적 불확실성을 배경으로",
-      "symbol": "",
-      "sentiment_score": 0.2318,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128026/us-treasury-yields-under-pressure-amid-inflation-concerns",
-      "cross_verified": true,
-      "published_at": "2026-10-16T17:51:17.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "iPhone Duo Fails Durability Test, Sparks Concerns Over Quality",
+      "title_ko": "아이폰 듀오, 내구성 테스트에서 불합격… 품질에 대한 우려 제기",
+      "snippet": "On October 25, 2026, the iPhone Duo faced significant scrutiny after failing a durability test conducted by JerryRigEverything. This incident has raised concern",
+      "snippet_ko": "2026년 10월 25일, 아이폰 듀오는 JerryRigEverything이 실시한 내구성 테스트에서 불합격 판정을 받으며 큰 논란에 휩싸였습니다. 이 사건으로 인해 우려가 제기되고 있습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2606,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9141387/iphone-duo-fails-durability-test-sparks-concerns-over-quality",
+      "cross_verified": true,
+      "published_at": "2026-10-25T08:30:27.000000Z"
+    },
     {
       "title": "Nasdaq at 25,955: Fed, Microsoft, Alphabet Report Wednesday",
       "title_ko": "나스닥 25,955선: 수요일 연준, 마이크로소프트, 알파벳 실적 발표",
@@ -2391,18 +2403,6 @@
       "url": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
       "cross_verified": true,
       "published_at": "2026-10-17T12:46:21.000000Z"
-    },
-    {
-      "title": "Broadcom: Trading At A 37% Discount To My Fair Value (NASDAQ:AVGO)",
-      "title_ko": "브로드컴: 내 공정가치 대비 37% 할인된 가격에 거래 중 (나스닥: AVGO)",
-      "snippet": "Broadcom stock is rated \"Buy\" as the company is positioned as a premier technology leader, leveraging AI infrastructure. Click to learn more about AVGO.",
-      "snippet_ko": "브로드컴은 AI 인프라를 활용해 최고의 기술 선도 기업으로 자리매김하고 있어, 해당 주식에 대해 “매수” 등급이 부여되었습니다. AVGO에 대해 더 자세히 알아보려면 클릭하세요.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.5719,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4954239-broadcom-trading-at-a-37-percent-discount-to-my-fair-value",
-      "cross_verified": true,
-      "published_at": "2026-10-17T12:00:00.000000Z"
     }
   ]
 }
