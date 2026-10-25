@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-25T11:05:44.226334+00:00",
+  "updated_at": "2026-10-25T15:54:04.400064+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Moderna (MRNA) Shares Plunge Over 17% After Leak of Cancer Vaccine Data",
+      "title_ko": "암 백신 데이터 유출로 모더나(MRNA) 주가 17% 이상 급락",
+      "snippet": "On October 25, 2026, Moderna Inc (NASDAQ: MRNA) saw its stock price drop sharply by more than 17% following the premature release of preliminary data on its per",
+      "snippet_ko": "2026년 10월 25일, 모더나(Moderna Inc, 나스닥: MRNA)는 자사의 [제품명]에 대한 예비 데이터가 예정보다 일찍 공개된 후 주가가 17% 이상 급락했다.",
+      "symbol": "",
+      "sentiment_score": -0.0442,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9141411/moderna-mrna-shares-plunge-over-17-after-leak-of-cancer-vaccine-data",
+      "cross_verified": true,
+      "published_at": "2026-10-25T14:55:53.000000Z"
+    },
+    {
+      "title": "Polar LNG Executive Departures Amid Novatek Influence Concerns Weigh on POLR",
+      "title_ko": "노바텍의 영향력에 대한 우려 속에서 폴라 LNG 임원들의 연이은 사임, POLR 주가에 부담",
+      "snippet": "On October 25, 2026, Polar LNG, a fledgling liquefied natural gas venture linked to Polar Petroleum Corp (ticker: POLR), experienced multiple executive resignat",
+      "snippet_ko": "2026년 10월 25일, 폴라 페트롤리엄 코퍼레이션(티커: POLR)과 연계된 신생 액화천연가스(LNG) 벤처 기업인 폴라 LNG에서 여러 임원이 사임하는 사태가 발생했다.",
+      "symbol": "",
+      "sentiment_score": 0.1497,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9141410/polar-lng-executive-departures-amid-novatek-influence-concerns-weigh-on-polr",
+      "cross_verified": true,
+      "published_at": "2026-10-25T14:55:35.000000Z"
+    },
     {
       "title": "From PCA to Prem Watsa: IDBI Bank's long road to privatisation",
       "title_ko": "PCA에서 프렘 와츠아까지: IDBI 은행의 민영화로 향한 긴 여정",
@@ -1177,33 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9128519/maxlinear-inc-mxl-shares-fall-88-what-gf-score-of-59-tells-investors",
       "cross_verified": true,
       "published_at": "2026-10-17T00:14:29.000000Z"
-    },
-    {
-      "title": "A Look at Global E Online Ltd (GLBE) After 3.5% Decline -- GF Value $60.45 vs Price $38.82",
-      "title_ko": "3.5% 하락한 글로벌 E 온라인(GLBE) 현황 살펴보기 — GF 가치 $60.45 vs 시가 $38.82",
-      "snippet": "On October 16, 2026, Global E Online Ltd (GLBE) shares fell 3.5%, bringing the current price to $38.82. This decline is part of a broader trend, with the stock",
-      "snippet_ko": "2026년 10월 16일, Global E Online Ltd(GLBE)의 주가는 3.5% 하락하여 현재 주가는 38.82달러를 기록했습니다. 이러한 하락은 더 광범위한 추세의 일부로, 해당 주식은",
-      "symbol": "",
-      "sentiment_score": 0.5197,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128518/a-look-at-global-e-online-ltd-glbe-after-35-decline-gf-value-6045-vs-price-3882",
-      "cross_verified": true,
-      "published_at": "2026-10-17T00:13:23.000000Z"
-    },
-    {
-      "title": "StoneX Group Inc (SNEX) Shares Fall 4.6% -- What GF Score of 86 Tells Investors",
-      "title_ko": "StoneX Group Inc (SNEX) 주가 4.6% 하락 -- GF 점수 86점이 투자자들에게 시사하는 바",
-      "snippet": "On October 16, 2026, StoneX Group Inc (SNEX) shares fell 4.6% to a current price of $57.16. This decline is notable within the context of a 52-week range of $36",
-      "snippet_ko": "2026년 10월 16일, StoneX Group Inc(SNEX)의 주가는 4.6% 하락하여 현재 57.16달러를 기록했습니다. 이 하락폭은 52주 최고가와 최저가가 36달러인 점을 고려할 때 주목할 만합니다.",
-      "symbol": "",
-      "sentiment_score": 0.5011,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128511/stonex-group-inc-snex-shares-fall-46-what-gf-score-of-86-tells-investors",
-      "cross_verified": true,
-      "published_at": "2026-10-17T00:08:02.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Here are 4 big things we're watching in the stock market this week",
+      "title_ko": "이번 주 주식 시장에서 우리가 주목하고 있는 4가지 주요 사항은 다음과 같습니다.",
+      "snippet": "Peak earnings season, plus a Fed meeting and fresh inflation data.",
+      "snippet_ko": "실적 발표 성수기인 데다, 연방준비제도(Fed) 회의와 최신 물가 지표도 발표될 예정이다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.042,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/investingclub/2026/10/25/here-are-4-big-things-were-watching-in-the-stock-market-this-week.html",
+      "cross_verified": true,
+      "published_at": "2026-10-25T14:58:26.000000Z"
+    },
+    {
+      "title": "A Strong Quarter Behind A $9.9 Billion Legal Charge And $35 Billion Of Capex (NASDAQ:META)",
+      "title_ko": "99억 달러의 법적 비용과 350억 달러의 자본지출에도 불구하고 견조한 분기 실적 (NASDAQ:META)",
+      "snippet": "Meta Platforms looks undervalued despite heavy AI spending and legal charges. Click for more on META stock.",
+      "snippet_ko": "메타 플랫폼스는 막대한 AI 투자와 법적 비용에도 불구하고 주가가 저평가된 것으로 보인다. META 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "META",
+      "sentiment_score": 0.6058,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4957326-meta-strong-quarter-behind-9_9-billion-legal-charge-35-billion-capex",
+      "cross_verified": true,
+      "published_at": "2026-10-25T13:25:25.000000Z"
+    },
+    {
+      "title": "Elon Musk Net Worth: $923B Today, $1,018B or $876B",
+      "title_ko": "일론 머스크의 순자산: 현재 9,230억 달러, 1조 180억 달러 또는 8,760억 달러",
+      "snippet": "Forbes puts Elon Musk at $922.9 billion on 25 October after SpaceX closed at $147.49 and Tesla at $372.22. Fed-week levels $1,018 billion and $876 billion.",
+      "snippet_ko": "포브스는 10월 25일 스페이스X 주가가 147.49달러, 테슬라 주가가 372.22달러로 장을 마감한 후 엘론 머스크의 순자산을 9,229억 달러로 추산했다. 연방준비제도(Fed) 회의 주간의 순자산 규모는 각각 1조 180억 달러와 8,760억 달러였다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2673,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/elon-musk-net-worth-923-billion-sunday-spacex-147-tesla-372-fed-week-bull-1018-bear-876/",
+      "cross_verified": true,
+      "published_at": "2026-10-25T13:19:18.000000Z"
+    },
     {
       "title": "iPhone Duo Fails Durability Test, Sparks Concerns Over Quality",
       "title_ko": "아이폰 듀오, 내구성 테스트에서 불합격… 품질에 대한 우려 제기",
@@ -2367,42 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/jim-cramer-on-micron-mu-intel-intc-nothing-is-working-despite-good-businesses-strong-quarters-1855757/",
       "cross_verified": true,
       "published_at": "2026-10-17T18:53:24.000000Z"
-    },
-    {
-      "title": "Tesla Unveils Second-Generation Roadster, TSLA Showcases Innovative Technology",
-      "title_ko": "테슬라, 2세대 로드스터 공개… TSLA, 혁신적인 기술 선보여",
-      "snippet": "On October 17, 2026, Tesla Inc (TSLA) officially unveiled its second-generation electric supercar, the Roadster, after nearly nine years of anticipation. The la",
-      "snippet_ko": "2026년 10월 17일, 테슬라(TSLA)는 거의 9년 동안의 기대 끝에 2세대 전기 슈퍼카인 ‘로드스터’를 공식적으로 공개했다. 이 차는",
-      "symbol": "TSLA",
-      "sentiment_score": 0.5753,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9129001/tesla-unveils-secondgeneration-roadster-tsla-showcases-innovative-technology",
-      "cross_verified": true,
-      "published_at": "2026-10-17T22:10:32.000000Z"
-    },
-    {
-      "title": "Elon Musk Reflects on AI Focus After White House Exit, Impacting Tesla (TSLA)",
-      "title_ko": "일론 머스크, 백악관 방문 후 AI에 집중한 소회 밝히며 테슬라(TSLA)에 미치는 영향",
-      "snippet": "On October 17, 2026, Elon Musk expressed regret over not prioritizing artificial intelligence sooner following his brief 130-day tenure at the White House, whic",
-      "snippet_ko": "2026년 10월 17일, 엘론 머스크는 백악관에서 130일간의 짧은 재임 기간을 마친 후, 인공지능을 더 일찍 우선순위로 삼지 못한 것에 대해 유감을 표명했는데, 이는",
-      "symbol": "TSLA",
-      "sentiment_score": 0.5035,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128990/elon-musk-reflects-on-ai-focus-after-white-house-exit-impacting-tesla-tsla",
-      "cross_verified": true,
-      "published_at": "2026-10-17T18:55:21.000000Z"
-    },
-    {
-      "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
-      "title_ko": "버크셔 주가는 시장의 매도세에도 불구하고 반등하며, 버핏이 CEO직에서 물러나겠다고 밝힌 이후 최고치를 기록했다.",
-      "snippet": "Berkshire Hathaway shares are at their highest level since Warren Buffett told shareholders at the May 2025 annual meeting he planned to step down as CEO at the end of that year.",
-      "snippet_ko": "버크셔 해서웨이 주가는 워런 버핏이 2025년 5월 연례 주주총회에서 그해 말에 CEO직에서 물러날 계획이라고 주주들에게 밝힌 이후 최고치를 기록하고 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3957,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
-      "cross_verified": true,
-      "published_at": "2026-10-17T12:46:21.000000Z"
     }
   ]
 }
