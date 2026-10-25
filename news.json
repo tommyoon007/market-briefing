@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-25T15:54:04.400064+00:00",
+  "updated_at": "2026-10-25T18:50:21.006117+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Marvell Technology (MRVL) Doubles Revolving Credit Facility to $3 Billion",
+      "title_ko": "마벨 테크놀로지(MRVL), 회전 신용 한도를 30억 달러로 두 배 확대",
+      "snippet": "Marvell Technology, Inc. (MRVL) has significantly expanded its borrowing capacity, entering into a new revolving credit agreement that doubles its available cr",
+      "snippet_ko": "Marvell Technology, Inc. (MRVL)는 이용 가능한 신용 한도를 두 배로 늘리는 새로운 회전 신용 계약을 체결함으로써 차입 능력을 대폭 확대했다.",
+      "symbol": "",
+      "sentiment_score": 0.4148,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9141436/marvell-technology-mrvl-doubles-revolving-credit-facility-to-3-billion",
+      "cross_verified": true,
+      "published_at": "2026-10-25T18:00:09.000000Z"
+    },
+    {
+      "title": "AstraZeneca's AZN Reports Breakthrough in Stomach Cancer Treatment, Boosting Dividend Appeal",
+      "title_ko": "아스트라제네카의 AZN, 위암 치료 분야에서 획기적인 성과를 발표하며 배당 매력도 높여",
+      "snippet": "On October 25, 2026, AstraZeneca PLC (NYSE: AZN) announced promising clinical trial results for its investigational drug sonesitatug vedotin, which nearly doubl",
+      "snippet_ko": "2026년 10월 25일, 아스트라제네카 PLC(NYSE: AZN)는 자사의 임상시험용 신약인 소네시타투그 베도틴에 대한 유망한 임상시험 결과를 발표했는데, 이 약물은 거의 두 배에 달하는",
+      "symbol": "",
+      "sentiment_score": 0.3194,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9141435/astrazenecas-azn-reports-breakthrough-in-stomach-cancer-treatment-boosting-dividend-appeal",
+      "cross_verified": true,
+      "published_at": "2026-10-25T17:56:18.000000Z"
+    },
+    {
+      "title": "US-Canada Trade Talks Gain Momentum Amid SPY's Slight Overvaluation",
+      "title_ko": "SPY의 소폭 고평가 속 미-캐나다 무역 협상 탄력 받아",
+      "snippet": "On October 25, 2026, negotiations between the United States and Canada are intensifying, with White House economic adviser Kevin Hassett signaling a possible im",
+      "snippet_ko": "2026년 10월 25일, 미국과 캐나다 간의 협상이 격화되고 있는 가운데, 백악관 경제고문 케빈 하셋은 가능한 합의에 대한 신호를 보내고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.3298,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9141434/uscanada-trade-talks-gain-momentum-amid-spys-slight-overvaluation",
+      "cross_verified": true,
+      "published_at": "2026-10-25T17:55:58.000000Z"
+    },
     {
       "title": "Moderna (MRNA) Shares Plunge Over 17% After Leak of Cancer Vaccine Data",
       "title_ko": "암 백신 데이터 유출로 모더나(MRNA) 주가 17% 이상 급락",
@@ -1165,45 +1201,33 @@
       "url": "https://seekingalpha.com/article/4954932-cohen-and-steers-inc-2026-q3-results-earnings-call-presentation",
       "cross_verified": true,
       "published_at": "2026-10-17T05:30:34.000000Z"
-    },
-    {
-      "title": "CMC SWOT Analysis: Strong Growth Potential Revealed in 10-K Filing",
-      "title_ko": "CMC SWOT 분석: 10-K 제출 서류에서 드러난 강력한 성장 잠재력",
-      "snippet": "Strong revenue growth with net sales reaching $9.39 billion in 2026.Vertically integrated operations enhance cost efficiency and supply chain reliability.GF Sco",
-      "snippet_ko": "2026년 순매출이 93억 9천만 달러에 달하며 강력한 매출 성장을 기록했습니다. 수직 통합형 운영 체계를 통해 비용 효율성과 공급망 안정성이 강화되었습니다. GF Sco",
-      "symbol": "",
-      "sentiment_score": 0.6996,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128659/cmc-swot-analysis-strong-growth-potential-revealed-in-10k-filing",
-      "cross_verified": true,
-      "published_at": "2026-10-17T05:02:08.000000Z"
-    },
-    {
-      "title": "TRV SWOT Analysis: Financial Resilience Amidst Market Challenges Revealed in 10-Q Filing",
-      "title_ko": "TRV SWOT 분석: 10-Q 제출 자료를 통해 드러난 시장 난관 속의 재무적 회복력",
-      "snippet": "Strengths include disciplined underwriting and a strong market position in the insurance sector.Weaknesses are highlighted by a moderate GF Score and overvaluat",
-      "snippet_ko": "강점으로는 엄격한 보험 인수 기준과 보험 부문에서의 탄탄한 시장 입지가 꼽힌다. 약점으로는 다소 낮은 GF 점수와 과대평가된 점이 지적된다.",
-      "symbol": "",
-      "sentiment_score": 0.4008,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128658/trv-swot-analysis-financial-resilience-amidst-market-challenges-revealed-in-10q-filing",
-      "cross_verified": true,
-      "published_at": "2026-10-17T05:01:23.000000Z"
-    },
-    {
-      "title": "MaxLinear Inc (MXL) Shares Fall 8.8% -- What GF Score of 59 Tells Investors",
-      "title_ko": "맥스리니어(MXL) 주가 8.8% 하락… GF 점수 59점이 투자자들에게 시사하는 바는?",
-      "snippet": "On October 16, 2026, MaxLinear Inc (MXL) shares fell 8.8%, bringing the current price to $71.32. This decline comes as the stock has experienced significant vol",
-      "snippet_ko": "2026년 10월 16일, 맥스리니어(MaxLinear Inc, MXL) 주가는 8.8% 하락하여 현재 주가는 71.32달러를 기록했습니다. 이번 하락은 해당 주식이 상당한 변동성을 보인 가운데 발생한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.3884,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128519/maxlinear-inc-mxl-shares-fall-88-what-gf-score-of-59-tells-investors",
-      "cross_verified": true,
-      "published_at": "2026-10-17T00:14:29.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Wall Street Brunch: Fed And Hyperscaler Earnings (undefined:MSFT)",
+      "title_ko": "월스트리트 브런치: 연준과 하이퍼스케일러 기업 실적 (undefined:MSFT)",
+      "snippet": "The Fed is expected to hold rates steady Wednesday. Microsoft, Alphabet and Amazon earnings put AI spending under scrutiny. JetBlue creditors organize amid rising fuel costs.",
+      "snippet_ko": "연방준비제도(Fed)는 수요일 금리를 동결할 것으로 예상된다. 마이크로소프트, 알파벳, 아마존의 실적 발표로 AI 관련 지출이 주목받고 있다. 제트블루의 채권자들이 유류비 상승에 대응해 결집하고 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.0442,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4957334-wall-street-brunch-fed-and-hyperscaler-earnings",
+      "cross_verified": true,
+      "published_at": "2026-10-25T16:52:00.000000Z"
+    },
+    {
+      "title": "Weekend Market Report-10/25/26",
+      "title_ko": "주말 시장 보고서 - 10월 25일·26일",
+      "snippet": "Weekly scorecard (week ending Oct 23, 2026) S&P 500: −0.5% to 7,623.68 (second straight weekly loss) Nasdaq: −0.7% to 25,955.34 Dow: +0.4% to 52,215.16 (third straight weekly gain, despite Friday’s −1.23% dump) Russell 2000: +2.0% (clear outperformer) Equal-weight S&P outperformed the cap-weighted index as money rotated out…",
+      "snippet_ko": "주간 실적표 (2026년 10월 23일 종료 주) S&P 500: −0.5% 하락한 7,623.68 (2주 연속 주간 하락) 나스닥: −0.7% 하락한 25,955.34 다우: +0.4% 상승한 52,215.16 (금요일 −1.23% 급락에도 불구하고 3주 연속 주간 상승) 러셀 2000: +2.0% (명백한 우량주) 자금이 유출되면서 균등 가중 S&P 지수가 시가총액 가중 지수보다 우수한 성과를 기록했습니다…",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2338,
+      "source": "upsidetrader.com",
+      "url": "https://www.upsidetrader.com/2026/10/25/weekend-market-report-10-25-26/",
+      "cross_verified": true,
+      "published_at": "2026-10-25T16:03:34.000000Z"
+    },
     {
       "title": "Here are 4 big things we're watching in the stock market this week",
       "title_ko": "이번 주 주식 시장에서 우리가 주목하고 있는 4가지 주요 사항은 다음과 같습니다.",
@@ -2379,30 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/broadcoms-29-billion-ai-backstop-how-much-risk-does-the-cash-flow-cover-1855456/",
       "cross_verified": true,
       "published_at": "2026-10-17T22:11:20.000000Z"
-    },
-    {
-      "title": "Mastercard Launches Global Money Platform to Integrate Stablecoin Balances with Traditional Banking and Card Payments",
-      "title_ko": "마스터카드, 스테이블코인 잔고를 기존 은행 업무 및 카드 결제와 연동하는 글로벌 머니 플랫폼 출시",
-      "snippet": "Mastercard (NYSE: MA) has unveiled a new infrastructure offering designed to blend conventional financial tools with digital assets. On October 15, 2026, the",
-      "snippet_ko": "마스터카드(NYSE: MA)는 기존 금융 수단과 디지털 자산을 결합하도록 설계된 새로운 인프라 서비스를 공개했다. 2026년 10월 15일, 이",
-      "symbol": "MA",
-      "sentiment_score": 0.25,
-      "source": "crowdfundinsider.com",
-      "url": "https://www.crowdfundinsider.com/2026/10/318803-mastercard-launches-global-money-platform-to-integrate-stablecoin-balances-with-traditional-banking-and-card-payments/",
-      "cross_verified": true,
-      "published_at": "2026-10-18T02:44:15.000000Z"
-    },
-    {
-      "title": "Jim Cramer On Micron (MU) & Intel (INTC): Nothing Is Working Despite Good Businesses & Strong Quarters",
-      "title_ko": "짐 크레이머, 마이크론(MU)과 인텔(INTC)에 대해: 탄탄한 사업 기반과 호실적을 기록했음에도 불구하고 아무것도 제대로 풀리지 않고 있다",
-      "snippet": "Semiconductor giants Intel Corporation (NASDAQ:INTC) and Micron Technology, Inc. (NASDAQ:MU)'s shares have ended the week as part of yet another historic bloodbath for the semiconductor sector.",
-      "snippet_ko": "반도체 업계의 거물인 인텔(Intel Corporation, 나스닥: INTC)과 마이크론 테크놀로지(Micron Technology, Inc., 나스닥: MU)의 주가는 반도체 업계를 강타한 또 한 번의 역사적인 폭락 속에서 이번 주를 마감했다.",
-      "symbol": "INTC",
-      "sentiment_score": -0.4108,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/jim-cramer-on-micron-mu-intel-intc-nothing-is-working-despite-good-businesses-strong-quarters-1855757/",
-      "cross_verified": true,
-      "published_at": "2026-10-17T18:53:24.000000Z"
     }
   ]
 }
