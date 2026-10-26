@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-25T22:24:24.140499+00:00",
+  "updated_at": "2026-10-26T04:14:57.669636+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Canadian and Kiwi Dollars Rise Amid Monetary Policy Shifts; Jordan Security Forces Detain Kerak Attackers",
+      "title_ko": "통화 정책 변화 속에 캐나다 달러와 뉴질랜드 달러 상승… 요르단 보안군, 케라크 공격범들 체포",
+      "snippet": "The New Zealand Dollar (NZDUSD) gathered strength during Monday's early Asian session, trading near the 0.5700 level. This advance is driven by",
+      "snippet_ko": "뉴질랜드 달러(NZDUSD)는 월요일 아시아 장 초반 강세를 보이며 0.5700 수준 근처에서 거래되었습니다. 이러한 상승세는 다음 요인에 의해 주도되고 있습니다.",
+      "symbol": "",
+      "sentiment_score": 0.296,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/canadian-and-kiwi-dollars-rise-amid-monetary-policy-shifts-jordan-security-forces-detain-kerak-attackers/73596/",
+      "cross_verified": true,
+      "published_at": "2026-10-26T03:38:22.000000Z"
+    },
+    {
+      "title": "Waste Connections Inc (WCN) (Q3 2026) Earnings Call Highlights: Solid Waste Pricing Powers Beat-and-Raise Quarter Despite Fuel Headwinds",
+      "title_ko": "Waste Connections Inc (WCN) (2026년 3분기) 실적 발표 주요 내용: 연료비 상승이라는 역풍 속에서도 고형 폐기물 가격 인상이 실적 예상치를 상회하고 전망치를 상향 조정하는 분기 실적을 이끌었다",
+      "snippet": "Revenue: Q3 2026 revenue of $2.638 billion, up $180 million or 7.3% year-over-year; acquisitions net of divestitures contributed $53 million.Adjusted EBITDA: $8",
+      "snippet_ko": "매출: 2026년 3분기 매출은 26억 3,800만 달러로, 전년 동기 대비 1억 8,000만 달러(7.3%) 증가했으며, 인수 및 매각 차액을 제외한 순증분은 5,300만 달러를 기록했습니다. 조정 EBITDA: 8달러",
+      "symbol": "",
+      "sentiment_score": 0.0797,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9141524/waste-connections-inc-wcn-q3-2026-earnings-call-highlights-solid-waste-pricing-powers-beatandraise-quarter-despite-fuel-headwinds",
+      "cross_verified": true,
+      "published_at": "2026-10-26T03:01:12.000000Z"
+    },
+    {
+      "title": "Ingenia Communities Group (INGEF) Shares Surge 8.3% on AVID Property Group Takeover Proposal",
+      "title_ko": "AVID Property Group의 인수 제안에 힘입어 Ingenia Communities Group(INGEF) 주가 8.3% 급등",
+      "snippet": "On October 25, 2026, Ingenia Communities Group (INGEF) experienced an 8.3% jump in its stock price during Sydney trading following a takeover proposal from AVID",
+      "snippet_ko": "2026년 10월 25일, AVID의 인수 제안에 이어 시드니 증시에서 Ingenia Communities Group(INGEF)의 주가가 8.3% 급등했다.",
+      "symbol": "",
+      "sentiment_score": 0.5111,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9141521/ingenia-communities-group-ingef-shares-surge-83-on-avid-property-group-takeover-proposal",
+      "cross_verified": true,
+      "published_at": "2026-10-26T02:56:25.000000Z"
+    },
     {
       "title": "Bon Secours Mercy Health Nears $6 Billion Deal for Surgery Partners (SGRY)",
       "title_ko": "본 세쿠르 머시 헬스, 서저리 파트너스(SGRY) 인수에 60억 달러 규모 계약 체결 임박",
@@ -1165,45 +1201,45 @@
       "url": "https://www.insidermonkey.com/news/northrop-grumman-noc-is-down-this-year-and-trades-below-its-history-and-peers-time-to-buy-the-dip-1850090/",
       "cross_verified": true,
       "published_at": "2026-10-17T17:44:18.000000Z"
-    },
-    {
-      "title": "HHS Food Policy Talks Spotlight Risks for PepsiCo (PEP) Dividend Outlook",
-      "title_ko": "HHS 식품 정책 논의, 펩시코(PEP) 배당 전망에 대한 위험 요인 부각",
-      "snippet": "On October 17, 2026, Health and Human Services Secretary Robert F. Kennedy Jr. is scheduled to meet with senior White House officials to discuss U.S. food polic",
-      "snippet_ko": "2026년 10월 17일, 로버트 F. 케네디 주니어 보건복지부 장관은 백악관 고위 관계자들과 만나 미국의 식품 정책을 논의할 예정이다.",
-      "symbol": "",
-      "sentiment_score": 0.5078,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128924/hhs-food-policy-talks-spotlight-risks-for-pepsico-pep-dividend-outlook",
-      "cross_verified": true,
-      "published_at": "2026-10-17T15:56:19.000000Z"
-    },
-    {
-      "title": "Bank of America Upgrades Salesforce (CRM) to Buy with $285 Price Target Amid AI Optimism",
-      "title_ko": "뱅크 오브 아메리카, AI에 대한 긍정적 전망 속에 세일즈포스(CRM) 투자의견을 ‘매수’로 상향 조정하고 목표주가 285달러 제시",
-      "snippet": "On October 17, 2026, Bank of America upgraded Salesforce Inc (NYSE: CRM) from Underperform to Buy, raising its price target to $285 from $160. This bullish revi",
-      "snippet_ko": "2026년 10월 17일, 뱅크 오브 아메리카는 세일즈포스(NYSE: CRM)에 대한 투자의견을 ‘언더퍼폼(Underperform)’에서 ‘매수(Buy)’로 상향 조정하고, 목표 주가를 160달러에서 285달러로 상향 조정했다. 이러한 낙관적인 재평가",
-      "symbol": "",
-      "sentiment_score": 0.6038,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128923/bank-of-america-upgrades-salesforce-crm-to-buy-with-285-price-target-amid-ai-optimism",
-      "cross_verified": true,
-      "published_at": "2026-10-17T15:56:00.000000Z"
-    },
-    {
-      "title": "Toronto-Dominion Bank (TD) Gains 4.60% Amid Dividend Focus and Mixed Sector Sentiment",
-      "title_ko": "배당금에 대한 관심이 높아지고 업종 전반의 시장 심리가 엇갈리는 가운데 토론토-도미니언 은행(TD) 주가가 4.60% 상승했다",
-      "snippet": "On October 17, 2026, Toronto-Dominion Bank (NYSE: TD) saw its stock rise 4.60% over the past week, closing at $120.39 despite a slight daily dip of 0.27%. This",
-      "snippet_ko": "2026년 10월 17일, 토론토-도미니언 은행(NYSE: TD)의 주가는 지난 한 주 동안 4.60% 상승했으며, 당일 0.27% 소폭 하락했음에도 불구하고 120.39달러에 장을 마감했습니다. 이는",
-      "symbol": "",
-      "sentiment_score": 0.2785,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128922/torontodominion-bank-td-gains-460-amid-dividend-focus-and-mixed-sector-sentiment",
-      "cross_verified": true,
-      "published_at": "2026-10-17T15:55:43.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Asian shares cautious ahead of central bank meetings, AI earnings",
+      "title_ko": "중앙은행 회의와 AI 기업 실적 발표를 앞두고 아시아 증시, 신중한 흐름",
+      "snippet": "Japan's Nikkei dipped 0.8%, after losing 4.0% last week, while South Korea fell 0.4%, having shed almost 19% so far this month",
+      "snippet_ko": "일본 니케이 지수는 지난주 4.0% 하락한 데 이어 0.8% 하락했으며, 한국 증시는 이달 들어 지금까지 거의 19%나 하락한 가운데 0.4% 하락했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.19,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/markets/news/asian-shares-cautious-ahead-of-central-bank-meetings-ai-earnings-126102600044_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-26T02:30:15.000000Z"
+    },
+    {
+      "title": "Intel Enhances Semiconductor Operations with AI Efficiency (INTC)",
+      "title_ko": "인텔, AI를 활용한 효율성 제고를 통해 반도체 사업 강화 (INTC)",
+      "snippet": "On October 25, 2026, Intel Corp (NASDAQ: INTC) announced significant advancements in its semiconductor manufacturing processes through the integration of AI tec",
+      "snippet_ko": "2026년 10월 25일, 인텔(Intel Corp, 나스닥: INTC)은 AI 기술의 통합을 통해 반도체 제조 공정에서 상당한 진전을 이뤘다고 발표했습니다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.1768,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9141503/intel-enhances-semiconductor-operations-with-ai-efficiency-intc",
+      "cross_verified": true,
+      "published_at": "2026-10-26T01:30:33.000000Z"
+    },
+    {
+      "title": "Apple reports ₹650 crore India software revenue in FY26",
+      "title_ko": "애플, 2026 회계연도 인도 소프트웨어 매출 650 크로르 루피 기록",
+      "snippet": "Apple Operations India generated a revenue of ₹650 crore in FY26 through software development and global support initiatives. The company's total revenue from various activities exceeded ₹1,400 crore, a significant increase from the previous year. Manufacturing support revenue nearly doubled, indicating a restructuring of Apple's operations in India. This growth suggests that Apple is positioning its Indian subsidiary as a major global engineering hub.",
+      "snippet_ko": "애플 오퍼레이션스 인디아는 소프트웨어 개발 및 글로벌 지원 사업을 통해 26 회계연도에 65억 루피의 매출을 올렸습니다. 다양한 활동을 통해 창출된 이 회사의 총 매출은 140억 루피를 넘어섰으며, 이는 전년 대비 상당한 증가세를 보였습니다. 제조 지원 매출은 거의 두 배로 증가했으며, 이는 애플의 인도 사업 구조 조정이 진행 중임을 시사합니다. 이러한 성장세는 애플이 인도 자회사를 주요 글로벌 엔지니어링 허브로 자리매김하고 있음을 보여줍니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4517,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/apple-reports-650-crore-india-software-revenue-in-fy26/articleshow/135197101.cms",
+      "cross_verified": true,
+      "published_at": "2026-10-26T00:00:00.000000Z"
+    },
     {
       "title": "Bretton Fund Q3 2026 Shareholder Letter",
       "title_ko": "브레튼 펀드 2026년 3분기 주주 서한",
@@ -2367,42 +2403,6 @@
       "url": "https://seekingalpha.com/article/4955041-broadcom-crashed-from-495-to-328-im-buying-the-sell-off",
       "cross_verified": true,
       "published_at": "2026-10-18T13:30:00.000000Z"
-    },
-    {
-      "title": "FTSE 100 at 10,881.90, up 3.13% per Dow Jones: Did Bailey do it?",
-      "title_ko": "다우존스에 따르면 FTSE 100 지수는 10,881.90을 기록하며 3.13% 상승했다: 베일리가 이룬 성과일까?",
-      "snippet": "FTSE 100 closed at 10,881.90, up 3.13% on the week per Dow Jones. Friday was only 0.38%, so the chip-light mix, not Bailey in Bangkok, did the week's gain.",
-      "snippet_ko": "다우존스에 따르면 FTSE 100 지수는 10,881.90으로 마감하며 전주 대비 3.13% 상승했다. 금요일 상승폭은 0.38%에 불과했으므로, 이번 주 상승세는 방콕에 있는 베일리가 아니라 반도체 관련주가 적은 구성 덕분이었다.",
-      "symbol": "TSLA",
-      "sentiment_score": 0.0275,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/ftse-100-10881-90-up-3-13-percent-week-dow-jones/",
-      "cross_verified": true,
-      "published_at": "2026-10-18T14:53:29.000000Z"
-    },
-    {
-      "title": "Apple (AAPL) Maintains Neutral Rating Amid Mixed Market Signals",
-      "title_ko": "애플(AAPL), 엇갈리는 시장 신호 속에서도 ‘중립’ 등급 유지",
-      "snippet": "On October 18, 2026, UBS reaffirmed a \"Neutral\" rating for Apple Inc (AAPL) with a target price of $296, indicating a potential downside of approximately 14.1%",
-      "snippet_ko": "2026년 10월 18일, UBS는 애플(AAPL)에 대해 ‘중립(Neutral)’ 투자의견을 재확인하고 목표주가를 296달러로 제시했으며, 이는 약 14.1%의 하락 여지가 있음을 시사했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.1276,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9129035/apple-aapl-maintains-neutral-rating-amid-mixed-market-signals",
-      "cross_verified": true,
-      "published_at": "2026-10-18T08:10:55.000000Z"
-    },
-    {
-      "title": "AI trade reversal pierces Asia’s star picks-and-shovels stocks",
-      "title_ko": "AI 관련 매도 전환이 아시아의 유망 ‘픽 앤 쇼벨’ 종목들을 강타했다",
-      "snippet": "The pressure intensified last week as oil surged to $110 a barrel for the first time since May, stoking inflation concerns, and investors turned their attention to the trillions of dollars being borrowed to build AI infrastructure",
-      "snippet_ko": "지난주 유가가 5월 이후 처음으로 배럴당 110달러까지 치솟으며 인플레이션 우려가 고조되자 압박이 가중되었고, 투자자들은 AI 인프라 구축을 위해 차입된 수조 달러 규모의 자금에 주목하기 시작했다.",
-      "symbol": "AVGO",
-      "sentiment_score": -0.3442,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/markets/ai-trade-reversal-pierces-asias-star-picks-and-shovels-stocks/article71599069.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-18T05:13:09.000000Z"
     }
   ]
 }
