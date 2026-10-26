@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-26T04:14:57.669636+00:00",
+  "updated_at": "2026-10-26T12:39:24.164402+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Is TD Overvalued? DCF Says Worth $90",
+      "title_ko": "TD의 주가가 과대평가되었을까? DCF 분석에 따르면 가치는 90달러다",
+      "snippet": "On October 26, 2026, we delve into the DCF analysis for The Toronto-Dominion Bank (TD), a financial institution that has shown impressive price performance rece",
+      "snippet_ko": "2026년 10월 26일, 우리는 인상적인 주가 상승세를 보여온 금융 기관인 토론토-도미니언 은행(TD)에 대한 DCF 분석을 심층적으로 살펴봅니다.",
+      "symbol": "",
+      "sentiment_score": 0.8481,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9142116/is-td-overvalued-dcf-says-worth-90",
+      "cross_verified": true,
+      "published_at": "2026-10-26T12:27:08.000000Z"
+    },
+    {
+      "title": "WuXi AppTec (WUXAY) Reports Strong 9-Month Growth, Raises Full-Year Revenue Guidance",
+      "title_ko": "우시 앱텍(WUXAY), 9개월간 견조한 성장세 기록… 연간 매출 전망치 상향 조정",
+      "snippet": "On October 26, 2026, WuXi AppTec Co Ltd (OTCPK: WUXAY) announced robust financial results for the nine months ended September 30, 2026, highlighted by significa",
+      "snippet_ko": "2026년 10월 26일, 우시 앱텍(WuXi AppTec Co Ltd, OTCPK: WUXAY)은 2026년 9월 30일로 종료된 9개월간의 견실한 재무 실적을 발표했으며, 특히 주목할 만한 점은",
+      "symbol": "",
+      "sentiment_score": 0.7757,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9142030/wuxi-apptec-wuxay-reports-strong-9month-growth-raises-fullyear-revenue-guidance",
+      "cross_verified": true,
+      "published_at": "2026-10-26T11:57:47.000000Z"
+    },
+    {
+      "title": "Agree Realty: Not Much Has Changed Except A Better Entry Point (NYSE:ADC)",
+      "title_ko": "Agree Realty: 더 나은 매수 시점이 생긴 것 외에는 별다른 변화가 없다 (NYSE:ADC)",
+      "snippet": "Agree Realty looks attractive for income investors with a near 5% yield, strong balance sheet, and potential double-digit returns. Learn more about ADC stock here.",
+      "snippet_ko": "Agree Realty는 약 5%의 배당 수익률, 견실한 재무 구조, 두 자릿수 수익률 달성 가능성을 갖추고 있어 소득형 투자자들에게 매력적인 종목으로 보입니다. ADC 주식에 대해 더 자세히 알아보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.3214,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4957380-agree-realty-not-much-has-changed-except-a-better-entry-point",
+      "cross_verified": true,
+      "published_at": "2026-10-26T11:45:39.000000Z"
+    },
     {
       "title": "Canadian and Kiwi Dollars Rise Amid Monetary Policy Shifts; Jordan Security Forces Detain Kerak Attackers",
       "title_ko": "통화 정책 변화 속에 캐나다 달러와 뉴질랜드 달러 상승… 요르단 보안군, 케라크 공격범들 체포",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9128999/elon-musk-acknowledges-distraction-from-ai-focus",
       "cross_verified": true,
       "published_at": "2026-10-17T21:50:39.000000Z"
-    },
-    {
-      "title": "Trump Rally in Kentucky Boosts GOP Amid Midterm Elections",
-      "title_ko": "켄터키주에서 열린 트럼프 유세, 중간선거를 앞두고 공화당에 탄력을 불어넣다",
-      "snippet": "On October 17, 2026, former President Donald Trump energized Republican supporters during a rally in Kentucky as they approach the midterm elections. In this co",
-      "snippet_ko": "2026년 10월 17일, 도널드 트럼프 전 대통령은 켄터키주에서 열린 집회에서 중간선거를 앞두고 공화당 지지자들에게 열기를 불어넣었다. 이 행사에서",
-      "symbol": "",
-      "sentiment_score": 0.1885,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128998/trump-rally-in-kentucky-boosts-gop-amid-midterm-elections",
-      "cross_verified": true,
-      "published_at": "2026-10-17T21:10:32.000000Z"
-    },
-    {
-      "title": "Real Estate Stocks Rally as Rate Hike Odds Drop; SPY Valuation and Guru Activity in Focus",
-      "title_ko": "금리 인상 가능성 낮아지며 부동산주 강세… SPY의 밸류에이션과 전문가들의 동향 주목",
-      "snippet": "On October 17, 2026, real estate stocks surged following a marked decline in the probability of a Federal Reserve interest rate increase at the upcoming FOMC me",
-      "snippet_ko": "2026년 10월 17일, 다가오는 FOMC 회의에서 연방준비제도(Fed)가 금리를 인상할 가능성이 현저히 낮아지자 부동산 관련 주가가 급등했다.",
-      "symbol": "",
-      "sentiment_score": 0.2294,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128988/real-estate-stocks-rally-as-rate-hike-odds-drop-spy-valuation-and-guru-activity-in-focus",
-      "cross_verified": true,
-      "published_at": "2026-10-17T17:55:42.000000Z"
-    },
-    {
-      "title": "Northrop Grumman (NOC) Is Down This Year and Trades Below Its History and Peers. Time to Buy the Dip?",
-      "title_ko": "노스롭 그루먼(NOC)은 올해 주가가 하락했으며, 역사적 평균 및 동종 업계 평균보다 낮은 수준에서 거래되고 있다. 지금이 저점 매수 기회일까?",
-      "snippet": "The defense industry is experiencing one of the strongest demand cycles in recent times.",
-      "snippet_ko": "방위 산업은 최근 들어 가장 강력한 수요 호황기를 맞이하고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.2618,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/northrop-grumman-noc-is-down-this-year-and-trades-below-its-history-and-peers-time-to-buy-the-dip-1850090/",
-      "cross_verified": true,
-      "published_at": "2026-10-17T17:44:18.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Traders are looking on the bright side despite last week’s carnage in tech stocks",
+      "title_ko": "지난주 기술주 시장이 대혼란을 겪었음에도 불구하고 투자자들은 긍정적인 측면을 주목하고 있다",
+      "snippet": "Talks between Saudi Arabia and Iran are ongoing, and the credit ratings agency Moody’s left France’s credit rating unchanged from before the riots.",
+      "snippet_ko": "사우디아라비아와 이란 간의 회담이 진행 중이며, 신용평가사 무디스는 폭동 이전과 마찬가지로 프랑스의 신용등급을 동결했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3215,
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/10/26/traders-looking-bright-side-despite-last-weeks-carnage-tech-stocks/",
+      "cross_verified": true,
+      "published_at": "2026-10-26T11:25:34.000000Z"
+    },
+    {
+      "title": "INVESCO QQQ Trust (QQQ) Sells $14.3 Million More NVIDIA on Thursday",
+      "title_ko": "인베스코 QQQ 트러스트(QQQ), 목요일 엔비디아 주식 1,430만 달러어치 추가 매도",
+      "snippet": "INVESCO QQQ Trust (QQQ) was the sole ETF selling on Thursday, Oct. 22, with no ETFs buying. QQQ recorded $175.9 million in gross ETF activity, all of it on the",
+      "snippet_ko": "10월 22일 목요일, 인베스코 QQQ 트러스트(QQQ)는 매도된 유일한 ETF였으며, 매수된 ETF는 없었습니다. QQQ는 총 1억 7,590만 달러 규모의 ETF 거래량을 기록했는데, 이 중 전량이",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2641,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9141992/invesco-qqq-trust-qqq-sells-143-million-more-nvidia-on-thursday",
+      "cross_verified": true,
+      "published_at": "2026-10-26T11:05:20.000000Z"
+    },
+    {
+      "title": "State Street Tech Select SPDR (XLK) Adds NVIDIA and Apple on Thursday",
+      "title_ko": "스테이트 스트리트 테크 셀렉트 SPDR(XLK), 목요일 엔비디아와 애플을 편입",
+      "snippet": "State Street Technology Select Sector SPDR ETF (XLK) was the sole mover in Thursday's session, buying $191.4 million of stock across all 75 of its positions and",
+      "snippet_ko": "목요일 장에서 스테이트 스트리트 테크놀로지 셀렉트 섹터 SPDR ETF(XLK)만이 움직임을 보였으며, 보유 중인 75개 종목 전부에 걸쳐 1억 9,140만 달러 상당의 주식을 매수했고,",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3927,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9141986/state-street-tech-select-spdr-xlk-adds-nvidia-and-apple-on-thursday",
+      "cross_verified": true,
+      "published_at": "2026-10-26T11:04:51.000000Z"
+    },
     {
       "title": "Asian shares cautious ahead of central bank meetings, AI earnings",
       "title_ko": "중앙은행 회의와 AI 기업 실적 발표를 앞두고 아시아 증시, 신중한 흐름",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9129063/elon-musk-unveils-sentient-tesla-roadster-with-autonomous-stunt-capabilities-tsla",
       "cross_verified": true,
       "published_at": "2026-10-18T17:55:55.000000Z"
-    },
-    {
-      "title": "McDonald's: An Underrated Opportunity Hiding In Plain Sight (NYSE:MCD)",
-      "title_ko": "맥도날드: 눈에 띄는 곳에 숨겨진 저평가된 투자 기회 (NYSE:MCD)",
-      "snippet": "McDonald's increased its quarterly dividend to $1.93, $7.72 annualized, marking its 50th consecutive year of dividend increases. See why MCD stock is a Buy.",
-      "snippet_ko": "맥도날드는 분기 배당금을 1.93달러로 인상했으며, 이는 연환산 시 7.72달러에 해당합니다. 이로써 맥도날드는 50년 연속 배당금 인상을 기록했습니다. MCD 주식을 매수해야 하는 이유를 확인해 보세요.",
-      "symbol": "MCD",
-      "sentiment_score": 0.1531,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4955061-mcdonalds-an-underrated-opportunity-hiding-in-plain-sight",
-      "cross_verified": true,
-      "published_at": "2026-10-18T14:17:34.000000Z"
-    },
-    {
-      "title": "Broadcom: Market Misunderstanding Is Baffling, But Don't Be Fooled (NASDAQ:AVGO)",
-      "title_ko": "브로드컴: 시장의 오해는 의아스럽지만, 속지 마십시오 (나스닥: AVGO)",
-      "snippet": "Broadcom remains a Buy as AI chip demand from OpenAI/Anthropic supports growth; at ~20x earnings, a sell-off looks overdone. Click for more on AVGO stock.",
-      "snippet_ko": "오픈AI(OpenAI)와 앤트로픽(Anthropic)의 AI 칩 수요가 성장을 뒷받침함에 따라 브로드컴(Broadcom)은 여전히 ‘매수’ 추천을 유지하며, 주가수익비율(PER)이 약 20배 수준인 점을 고려할 때 최근의 주가 하락은 과도한 것으로 보입니다. AVGO 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "AVGO",
-      "sentiment_score": -0.325,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4955057-broadcom-market-misunderstanding-is-baffling-but-dont-be-fooled",
-      "cross_verified": true,
-      "published_at": "2026-10-18T13:54:33.000000Z"
-    },
-    {
-      "title": "Broadcom Crashed From $495 To $328 - I'm Buying The Sell-Off (NASDAQ:AVGO)",
-      "title_ko": "브로드컴 주가, 495달러에서 328달러로 급락 - 매도 물량에 매수할 예정 (나스닥:AVGO)",
-      "snippet": "Broadcom's custom silicon and software segments position it to benefit from capital-constrained AI infrastructure spending. Read why AVGO stock is a Strong Buy.",
-      "snippet_ko": "브로드컴의 맞춤형 반도체 및 소프트웨어 사업 부문은 자본 제약으로 인한 AI 인프라 투자 감소 상황에서도 이점을 누릴 수 있는 입지를 마련해 줍니다. AVGO 주식을 ‘강력 매수’로 추천하는 이유를 확인해 보세요.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4955041-broadcom-crashed-from-495-to-328-im-buying-the-sell-off",
-      "cross_verified": true,
-      "published_at": "2026-10-18T13:30:00.000000Z"
     }
   ]
 }
