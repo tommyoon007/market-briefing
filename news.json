@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-26T19:49:11.814207+00:00",
+  "updated_at": "2026-10-26T23:40:36.830206+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Kforce Inc Reports Q3 2026 Earnings: EPS of $0.90 and Revenue of $357.8 Million Surpass Expectations",
+      "title_ko": "Kforce Inc, 2026년 3분기 실적 발표: 주당 순이익(EPS) 0.90달러, 매출 3억 5,780만 달러로 시장 예상치를 상회",
+      "snippet": "Kforce Inc (KFRC) released its 8-K filing on October 26, 2026, announcing noteworthy financial results for the third quarter of 2026. The company reported reven",
+      "snippet_ko": "Kforce Inc(KFRC)는 2026년 10월 26일 8-K 보고서를 제출하며, 2026년 3분기 주목할 만한 재무 실적을 발표했습니다. 이 회사는 매출을 보고했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.2999,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9143378/kforce-inc-reports-q3-2026-earnings-eps-of-090-and-revenue-of-3578-million-surpass-expectations",
+      "cross_verified": true,
+      "published_at": "2026-10-26T23:40:54.000000Z"
+    },
+    {
+      "title": "A Look at Richardson Electronics Ltd (RELL) After 4.9% Gain -- GF Value $12.77 vs Price $18.54",
+      "title_ko": "4.9% 상승 후 리처드슨 일렉트로닉스(RELL) 살펴보기 — GF 밸류 $12.77 대 시세 $18.54",
+      "snippet": "On October 26, 2026, Richardson Electronics Ltd (RELL) shares rose 4.9%, currently trading at $18.54. Over the past year, the stock has experienced a significan",
+      "snippet_ko": "2026년 10월 26일, 리처드슨 일렉트로닉스(RELL)의 주가는 4.9% 상승하여 현재 주당 18.54달러에 거래되고 있습니다. 지난 1년 동안 이 주식은 상당한",
+      "symbol": "",
+      "sentiment_score": 0.5017,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9143375/a-look-at-richardson-electronics-ltd-rell-after-49-gain-gf-value-1277-vs-price-1854",
+      "cross_verified": true,
+      "published_at": "2026-10-26T23:40:48.000000Z"
+    },
+    {
+      "title": "Hawkins Inc Reports Q2 FY 2027 Earnings: EPS of $1.34 on Revenue of $313.8 Million, Exceeding Analyst Estimates",
+      "title_ko": "호킨스(Hawkins Inc), 2027 회계연도 2분기 실적 발표: 매출 3억 1,380만 달러, 주당 순이익(EPS) 1.34달러로 애널리스트 예상치를 상회",
+      "snippet": "Hawkins Inc (HWKN) released its 8-K filing for the second quarter of fiscal year 2027 on October 26, 2026, showcasing impressive growth and operational efficien",
+      "snippet_ko": "호킨스(Hawkins Inc, HWKN)는 2026년 10월 26일 2027 회계연도 2분기 8-K 보고서를 제출하며, 인상적인 성장세와 운영 효율성을 보여주었습니다.",
+      "symbol": "",
+      "sentiment_score": 0.3984,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9143376/hawkins-inc-reports-q2-fy-2027-earnings-eps-of-134-on-revenue-of-3138-million-exceeding-analyst-estimates",
+      "cross_verified": true,
+      "published_at": "2026-10-26T23:40:48.000000Z"
+    },
     {
       "title": "Nevis Raises $70 Million Series B",
       "title_ko": "네비스, 7,000만 달러 규모의 시리즈 B 투자 유치",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9129043/bumble-bmbl-stock-surges-over-100-after-13b-acquisition-announcement-by-ithaca-holdings",
       "cross_verified": true,
       "published_at": "2026-10-18T14:55:24.000000Z"
-    },
-    {
-      "title": "3 Strategies for Using Points to Book Flights and Hotels",
-      "title_ko": "포인트로 항공권과 호텔을 예약하는 3가지 전략",
-      "snippet": "Taryn White has used airline miles and credit card points to book flights to places like Bali, Prague, and Johannesburg. She shares her top tips.",
-      "snippet_ko": "타린 화이트는 항공 마일과 신용카드 포인트를 활용해 발리, 프라하, 요하네스버그 등으로 가는 항공편을 예약했습니다. 그녀가 유용한 팁을 소개합니다.",
-      "symbol": "",
-      "sentiment_score": 0.9468,
-      "source": "businessinsider.com",
-      "url": "https://www.businessinsider.com/credit-card-airline-points-maximizing-strategies-travel-book-flights-hotels-2026-10",
-      "cross_verified": true,
-      "published_at": "2026-10-18T09:08:26.000000Z"
-    },
-    {
-      "title": "First Financial: Acquisitions Drive 2027 Growth (NASDAQ:THFF)",
-      "title_ko": "퍼스트 파이낸셜: 인수합병이 2027년 성장을 견인 (나스닥:THFF)",
-      "snippet": "First Financial: P/B discount, strong NIM and CET1, and 3.04% dividend yield. Click for more on THFF stock.",
-      "snippet_ko": "퍼스트 파이낸셜: P/B 할인, 견실한 순이자마진(NIM) 및 CET1, 3.04%의 배당수익률. THFF 주식에 대한 자세한 내용을 보려면 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.1909,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4955032-first-financial-stock-acquisitions-drive-2027-growth",
-      "cross_verified": true,
-      "published_at": "2026-10-18T08:56:54.000000Z"
-    },
-    {
-      "title": "Southeast Asia IPO Market Gains Traction with $1 Billion Mynt Listing",
-      "title_ko": "10억 달러 규모의 Mynt 상장으로 동남아시아 IPO 시장이 활기를 띠고 있다",
-      "snippet": "The Southeast Asian initial public offering (IPO) market is experiencing a significant revival, headlined by the nearly $1 billion listing of Mynt. As the",
-      "snippet_ko": "Mynt의 약 10억 달러 규모 상장을 필두로 동남아시아 기업공개(IPO) 시장이 상당한 활기를 되찾고 있다. 이에 따라",
-      "symbol": "",
-      "sentiment_score": 0.9001,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/southeast-asia-ipo-market-gains-traction-with-1-billion-mynt-listing/73181/",
-      "cross_verified": true,
-      "published_at": "2026-10-18T03:38:15.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Merck & Co., Inc. (MRK) Shareholder/Analyst Call Transcript",
+      "title_ko": "머크 앤 컴퍼니(Merck & Co., Inc., MRK) 주주·애널리스트 컨퍼런스콜 기록",
+      "snippet": "Merck & Co., Inc. (MRK) Shareholder/Analyst Call October 26, 2026 2:30 PM EDTCompany ParticipantsPeter Dannenbaum - Vice President of Investor...",
+      "snippet_ko": "머크 앤 컴퍼니(Merck & Co., Inc., MRK) 주주·애널리스트 컨퍼런스 콜, 2026년 10월 26일 오후 2시 30분(EDT) 회사 측 참석자: 피터 단넨바움(Peter Dannenbaum) - 투자자 관계 부사장...",
+      "symbol": "MRK",
+      "sentiment_score": 0.3953,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4957628-merck-and-co-inc-mrk-shareholder-analyst-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-26T22:09:54.000000Z"
+    },
+    {
+      "title": "U.S. Stocks Rise as Tech Rebounds; Alphabet (GOOGL) Awaits Q3 Earnings Amid AI Investment Peak",
+      "title_ko": "기술주 반등에 힘입어 미국 증시 상승… 알파벳(GOOGL), AI 투자 정점 속에서 3분기 실적 발표 앞두고",
+      "snippet": "On October 26, 2026, U.S. equity markets advanced, led by a rebound in technology shares as investor worries over AI spending eased. Alphabet Inc (GOOGL) is in",
+      "snippet_ko": "2026년 10월 26일, 인공지능(AI) 관련 지출에 대한 투자자들의 우려가 완화되면서 기술주 반등에 힘입어 미국 주식시장이 상승세를 보였다. 알파벳(Alphabet Inc, GOOGL)은",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3305,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9143066/us-stocks-rise-as-tech-rebounds-alphabet-googl-awaits-q3-earnings-amid-ai-investment-peak",
+      "cross_verified": true,
+      "published_at": "2026-10-26T22:00:29.000000Z"
+    },
+    {
+      "title": "Merck's Sacituzumab Tirumotecan Trial Shows Promising Results for Endometrial Cancer (MRK)",
+      "title_ko": "머크(Merck)의 사시투주맙-티루모테칸 임상시험, 자궁내막암 치료에서 유망한 결과 보여 (MRK)",
+      "snippet": "On October 26, 2026, Merck & Co Inc (NYSE: MRK) announced positive Phase 3 clinical trial results for sacituzumab tirumotecan (sac-TMT), demonstrating significa",
+      "snippet_ko": "2026년 10월 26일, 머크 앤 컴퍼니(Merck & Co Inc, NYSE: MRK)는 사시투주맙 티루모테칸(sac-TMT)에 대한 3상 임상시험 결과가 긍정적임을 발표하며, 이 약물이 상당한",
+      "symbol": "MRK",
+      "sentiment_score": 0.3851,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9143021/mercks-sacituzumab-tirumotecan-trial-shows-promising-results-for-endometrial-cancer-mrk",
+      "cross_verified": true,
+      "published_at": "2026-10-26T21:55:52.000000Z"
+    },
     {
       "title": "Goldman Sachs Drops Stark Forecast for AI Stocks",
       "title_ko": "골드만삭스, AI 관련주에 대한 극단적인 전망을 철회",
@@ -2367,42 +2403,6 @@
       "url": "https://www.crowdfundinsider.com/2026/10/319314-coreweave-broadcom-verizon-others-object-to-tokenized-share-trading-on-okxice/",
       "cross_verified": true,
       "published_at": "2026-10-18T21:47:50.000000Z"
-    },
-    {
-      "title": "Alphabet's Google Advances Quantum Computing Accuracy, GOOGL Valuation Remains Elevated",
-      "title_ko": "알파벳 산하의 구글, 양자 컴퓨팅 정확도 향상… GOOGL 주가 평가액은 여전히 높은 수준",
-      "snippet": "On October 18, 2026, Alphabet Inc (NASDAQ: GOOGL) announced a significant breakthrough in quantum computing technology, achieving a 40-fold reduction in errors",
-      "snippet_ko": "2026년 10월 18일, 알파벳(Alphabet Inc, 나스닥: GOOGL)은 양자 컴퓨팅 기술 분야에서 획기적인 성과를 달성해 오류율을 40분의 1로 줄였다고 발표했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.4178,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9129068/alphabets-google-advances-quantum-computing-accuracy-googl-valuation-remains-elevated",
-      "cross_verified": true,
-      "published_at": "2026-10-18T20:55:25.000000Z"
-    },
-    {
-      "title": "OKX’s Tokenized Stocks Hit a Wall: Broadcom, CoreWeave, Verizon Among Nine Companies Objecting",
-      "title_ko": "OKX의 토큰화된 주식, 난관에 봉착: 브로드컴, 코어위브, 버라이즌 등 9개사가 반대 의사를 표명",
-      "snippet": "Nine companies, including Broadcom, CoreWeave, Verizon and UnitedHealth Group, have formally objected to plans by OKXICE to offer tokenized versions of their",
-      "snippet_ko": "브로드컴, 코어위브, 버라이즌, 유나이티드헬스 그룹 등 9개 기업이 OKXICE가 자사 자산을 토큰화한 버전을 제공하려는 계획에 대해 공식적으로 이의를 제기했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.1218,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/okxs-tokenized-stocks-hit-a-wall-broadcom-coreweave-verizon-among-nine-companies-objecting/",
-      "cross_verified": true,
-      "published_at": "2026-10-18T15:38:29.000000Z"
-    },
-    {
-      "title": "Alphabet’s (GOOGL) Low P/E Is Misleading, but the AI Opportunity Is Real",
-      "title_ko": "알파벳(GOOGL)의 낮은 주가수익비율(P/E)은 오해의 소지가 있지만, AI 분야의 성장 기회는 분명하다",
-      "snippet": "Alphabet Inc. (NASDAQ:GOOGL) has surged 3.43% over the last six months, as of October 15.",
-      "snippet_ko": "알파벳(Alphabet Inc.)(나스닥:GOOGL)의 주가는 10월 15일 기준으로 지난 6개월 동안 3.43% 급등했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.4949,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/alphabets-googl-low-p-e-is-misleading-but-the-ai-opportunity-is-real-1855278/",
-      "cross_verified": true,
-      "published_at": "2026-10-18T14:39:08.000000Z"
     }
   ]
 }
