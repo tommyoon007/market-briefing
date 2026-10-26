@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-26T12:39:24.164402+00:00",
+  "updated_at": "2026-10-26T19:49:11.814207+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Nevis Raises $70 Million Series B",
+      "title_ko": "네비스, 7,000만 달러 규모의 시리즈 B 투자 유치",
+      "snippet": "NEW YORK, NY, Nevis, the AI operating system for wealth management, announced its $70 million Series B.",
+      "snippet_ko": "뉴욕(NY) — 자산 관리용 AI 운영 체제인 네비스(Nevis)가 7,000만 달러 규모의 시리즈 B 투자 유치 소식을 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.4939,
+      "source": "vcnewsdaily.com",
+      "url": "https://vcnewsdaily.com/nevis/venture-capital-funding/ysdptctwwv",
+      "cross_verified": true,
+      "published_at": "2026-10-26T19:38:32.000000Z"
+    },
+    {
+      "title": "Mega and Large Investors Pull Back from Housing Market, Become Net Sellers, Small Investors Continue to Pile In",
+      "title_ko": "대규모 및 대형 투자자들이 주택 시장에서 발을 빼며 순매도자로 전환한 반면, 소액 투자자들은 계속해서 몰려들고 있다",
+      "snippet": "Who is the smart money, after the home-price explosion? Mega-investors have been retreating from buying existing homes scattered all over the place, and have b...",
+      "snippet_ko": "주택 가격이 급등한 이후, 과연 누가 현명한 투자자일까? 거물급 투자자들은 여기저기 흩어져 있는 기존 주택 매입에서 발을 빼고 있으며, 대신...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "wolfstreet.com",
+      "url": "https://wolfstreet.com/2026/10/26/mega-and-large-investors-pull-back-from-housing-market-become-net-sellers-small-investors-continue-to-pile-in/",
+      "cross_verified": true,
+      "published_at": "2026-10-26T19:13:11.000000Z"
+    },
     {
       "title": "Is TD Overvalued? DCF Says Worth $90",
       "title_ko": "TD의 주가가 과대평가되었을까? DCF 분석에 따르면 가치는 90달러다",
@@ -1177,33 +1201,45 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/southeast-asia-ipo-market-gains-traction-with-1-billion-mynt-listing/73181/",
       "cross_verified": true,
       "published_at": "2026-10-18T03:38:15.000000Z"
-    },
-    {
-      "title": "TSMC Stock: The AI Boom Is Bigger And Longer Than Expected (NYSE:TSM)",
-      "title_ko": "TSMC 주가: AI 붐이 예상보다 더 크고 오래 지속될 전망 (NYSE:TSM)",
-      "snippet": "TSMC (TSM) posts strong growth on AI demand and N2/N3 expansion; AI accelerators could boost 2027 revenue.",
-      "snippet_ko": "TSMC(TSM)는 AI 수요와 N2/N3 공정 확장으로 견조한 성장세를 기록했으며, AI 가속기가 2027년 매출을 끌어올릴 것으로 보인다.",
-      "symbol": "",
-      "sentiment_score": 0.1797,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4955010-tsmc-the-ai-boom-is-bigger-and-longer-than-expected",
-      "cross_verified": true,
-      "published_at": "2026-10-18T02:26:53.000000Z"
-    },
-    {
-      "title": "Elon Musk Acknowledges Distraction from AI Focus",
-      "title_ko": "일론 머스크, AI에 대한 집중력이 흐트러졌음을 인정",
-      "snippet": "On October 17, 2026, Elon Musk acknowledged that he has strayed from his core responsibilities, spending excessive time on political matters related to his comp",
-      "snippet_ko": "2026년 10월 17일, 일론 머스크는 자신의 핵심 업무에서 벗어나, 자신이 이끄는 기업과 관련된 정치적 문제에 지나치게 많은 시간을 할애해 왔음을 인정했다.",
-      "symbol": "",
-      "sentiment_score": 0.103,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9128999/elon-musk-acknowledges-distraction-from-ai-focus",
-      "cross_verified": true,
-      "published_at": "2026-10-17T21:50:39.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Goldman Sachs Drops Stark Forecast for AI Stocks",
+      "title_ko": "골드만삭스, AI 관련주에 대한 극단적인 전망을 철회",
+      "snippet": "Goldman Sachs is warning that the artificial intelligence investment boom could reach a crucial turning point before 2026 ends, with the economic boost from hyp",
+      "snippet_ko": "골드만삭스는 인공지능 투자 붐이 2026년이 끝나기 전에 중대한 전환점을 맞이할 수 있다고 경고하며, 이로 인한 경제적 부양 효과는…",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.6422,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9142494/goldman-sachs-drops-stark-forecast-for-ai-stocks",
+      "cross_verified": true,
+      "published_at": "2026-10-26T19:20:59.000000Z"
+    },
+    {
+      "title": "Meta Platforms (META) Plans $95 Billion Equity Raise to Bridge 2027 Funding Gap",
+      "title_ko": "메타 플랫폼스(META), 2027년 자금 부족을 메우기 위해 950억 달러 규모의 자본 조달 계획",
+      "snippet": "On October 26, 2026, Meta Platforms Inc (NASDAQ: META) announced a plan to raise up to $95 billion through equity financing, exceeding market expectations and a",
+      "snippet_ko": "2026년 10월 26일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)는 주식 발행을 통해 최대 950억 달러를 조달할 계획을 발표했는데, 이는 시장 예상치를 웃도는 수준이며,",
+      "symbol": "META",
+      "sentiment_score": 0.0,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9142872/meta-platforms-meta-plans-95-billion-equity-raise-to-bridge-2027-funding-gap",
+      "cross_verified": true,
+      "published_at": "2026-10-26T19:02:45.000000Z"
+    },
+    {
+      "title": "Meta Platforms Launches $35 Billion Offering to Boost AI Investments (META)",
+      "title_ko": "메타 플랫폼스, AI 투자 확대를 위해 350억 달러 규모 자금 조달에 나서 (META)",
+      "snippet": "On October 26, 2026, Meta Platforms Inc (NASDAQ: META) announced underwritten offerings totaling approximately $35 billion, comprising $22.5 billion in Class A",
+      "snippet_ko": "2026년 10월 26일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)는 총 약 350억 달러 규모의 인수 보증 공모를 발표했으며, 이 중 225억 달러는 A급 주식",
+      "symbol": "META",
+      "sentiment_score": 0.296,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9142824/meta-platforms-launches-35-billion-offering-to-boost-ai-investments-meta",
+      "cross_verified": true,
+      "published_at": "2026-10-26T18:55:24.000000Z"
+    },
     {
       "title": "Traders are looking on the bright side despite last week’s carnage in tech stocks",
       "title_ko": "지난주 기술주 시장이 대혼란을 겪었음에도 불구하고 투자자들은 긍정적인 측면을 주목하고 있다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/alphabets-googl-low-p-e-is-misleading-but-the-ai-opportunity-is-real-1855278/",
       "cross_verified": true,
       "published_at": "2026-10-18T14:39:08.000000Z"
-    },
-    {
-      "title": "Amazon (AMZN) Is A Proven Capital Allocator. But Can it Pass Its $220 Billion Test?",
-      "title_ko": "아마존(AMZN)은 검증된 자본 배분 능력을 갖춘 기업이다. 하지만 2,200억 달러 규모의 시험을 통과할 수 있을까?",
-      "snippet": "Amazon.com, Inc. (NASDAQ:AMZN) has been flat during the last six months, as of October 15.",
-      "snippet_ko": "10월 15일 기준으로, Amazon.com, Inc. (나스닥: AMZN)의 주가는 지난 6개월 동안 보합세를 보였습니다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.7363,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/amazon-amzn-is-a-proven-capital-allocator-but-can-it-pass-its-220-billion-test-1855291/",
-      "cross_verified": true,
-      "published_at": "2026-10-18T14:38:21.000000Z"
-    },
-    {
-      "title": "China's Export Controls on Solar Tech May Challenge Tesla's Global Expansion (TSLA)",
-      "title_ko": "중국의 태양광 기술 수출 통제가 테슬라(TSLA)의 글로벌 확장 계획에 걸림돌이 될 수 있다",
-      "snippet": "On October 18, 2026, China announced plans to impose export controls on 12 critical solar equipment manufacturing technologies, a move that could complicate ove",
-      "snippet_ko": "2026년 10월 18일, 중국은 12가지 핵심 태양광 장비 제조 기술에 대해 수출 통제를 실시할 계획을 발표했는데, 이 조치는 향후 상황을 복잡하게 만들 수 있다.",
-      "symbol": "TSLA",
-      "sentiment_score": 0.5124,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9129064/chinas-export-controls-on-solar-tech-may-challenge-teslas-global-expansion-tsla",
-      "cross_verified": true,
-      "published_at": "2026-10-18T17:56:13.000000Z"
-    },
-    {
-      "title": "Elon Musk Unveils \"Sentient\" Tesla Roadster with Autonomous Stunt Capabilities (TSLA)",
-      "title_ko": "일론 머스크, 자율 주행 스턴트 기능을 갖춘 “지각 능력을 가진” 테슬라 로드스터 공개 (TSLA)",
-      "snippet": "On October 18, 2026, Tesla Inc (TSLA) CEO Elon Musk announced that the upcoming Tesla Roadster will feature \"sentient\" capabilities, enabling it to autonomously",
-      "snippet_ko": "2026년 10월 18일, 테슬라(TSLA)의 CEO 엘론 머스크는 곧 출시될 테슬라 로드스터가 “지각 능력”을 갖추게 되어 자율적으로",
-      "symbol": "TSLA",
-      "sentiment_score": 0.5013,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9129063/elon-musk-unveils-sentient-tesla-roadster-with-autonomous-stunt-capabilities-tsla",
-      "cross_verified": true,
-      "published_at": "2026-10-18T17:55:55.000000Z"
     }
   ]
 }
