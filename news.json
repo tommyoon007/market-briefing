@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-27T04:33:42.618599+00:00",
+  "updated_at": "2026-10-27T11:55:09.165390+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Cellectar Biosciences Reports Case Study Highlighting Complete Response Lasting More Than Eight Years in Heavily Pretreated DLBCL Patient Treated with Iopofosine I 131",
+      "title_ko": "셀렉타 바이오사이언스, 이오포포신 I-131 치료를 받은 다중 전처치 이력이 있는 DLBCL 환자에서 8년 이상 지속된 완전 관해 사례를 다룬 사례 연구 발표",
+      "snippet": "Durable Complete Response Achieved with Single Administration of Iopofosine I 131",
+      "snippet_ko": "이오포포신 I 131의 1회 투여로 지속적인 완전 반응 달성",
+      "symbol": "",
+      "sentiment_score": -0.1686,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/27/tmt-newswire/globenewswire/cellectar-biosciences-reports-case-study-highlighting-complete-response-lasting-more-than-eight-years-in-heavily-pretreated-dlbcl-patient-treated-with-iopofosine-i-131/2454873",
+      "cross_verified": true,
+      "published_at": "2026-10-27T11:25:31.000000Z"
+    },
+    {
+      "title": "Marex appoints Kory Sorenson to Group Board",
+      "title_ko": "마렉스, 코리 소렌슨을 그룹 이사회 이사로 선임",
+      "snippet": "NEW YORK, Oct. 27, 2026 (GLOBE NEWSWIRE) -- Marex Group Limited (‘Marex’ or the ‘Group’, NASDAQ: MRX), the diversified global financial services platform, today announces that Kory Sorenson will join the Group Board with effect from 2 November 2026.",
+      "snippet_ko": "뉴욕, 2026년 10월 27일 (GLOBE NEWSWIRE) -- 다각화된 글로벌 금융 서비스 플랫폼인 마렉스 그룹 리미티드(Marex Group Limited, 이하 ‘마렉스’ 또는 ‘그룹’, 나스닥: MRX)는 오늘 코리 소렌슨(Kory Sorenson)이 2026년 11월 2일부로 그룹 이사회에 합류할 것이라고 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.743,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/27/tmt-newswire/globenewswire/marex-appoints-kory-sorenson-to-group-board/2454858",
+      "cross_verified": true,
+      "published_at": "2026-10-27T11:08:11.000000Z"
+    },
     {
       "title": "Anthropic's potential mega IPO joins ranks of world's biggest listings",
       "title_ko": "앤트로픽의 잠재적 초대형 기업공개(IPO)가 세계 최대 규모의 상장 사례 대열에 합류한다",
@@ -1177,33 +1201,45 @@
       "url": "https://seekingalpha.com/news/4653774-agnc-investment-q3-2026-earnings-preview",
       "cross_verified": true,
       "published_at": "2026-10-18T21:35:00.000000Z"
-    },
-    {
-      "title": "Align Technology (ALGN) Wins European Patent Infringement Ruling Against Angelalign",
-      "title_ko": "Align Technology(ALGN), Angelalign을 상대로 한 유럽 특허 침해 소송에서 승소",
-      "snippet": "On October 18, 2026, Align Technology Inc (NASDAQ: ALGN) announced a favorable ruling from the Unified Patent Court in Paris, which found that Angelalign's Torq",
-      "snippet_ko": "2026년 10월 18일, Align Technology Inc(나스닥: ALGN)는 파리 통합특허법원이 Angelalign의 Torq에 대해",
-      "symbol": "",
-      "sentiment_score": 0.6131,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9129061/align-technology-algn-wins-european-patent-infringement-ruling-against-angelalign",
-      "cross_verified": true,
-      "published_at": "2026-10-18T17:55:22.000000Z"
-    },
-    {
-      "title": "Walmart (WMT) Faces Data Privacy Concerns Amid Digital Pricing Tech Adoption",
-      "title_ko": "월마트(WMT), 디지털 가격 책정 기술 도입 속 개인정보 보호 우려에 직면",
-      "snippet": "On October 18, 2026, as retailers including Walmart (WMT) increasingly implement digital shelf labels and pricing software, concerns have emerged about the exte",
-      "snippet_ko": "2026년 10월 18일, 월마트(WMT)를 비롯한 소매업체들이 디지털 진열대 라벨과 가격 표시 소프트웨어를 점점 더 많이 도입함에 따라, 이에 대한 우려가 제기되고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.3142,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9129045/walmart-wmt-faces-data-privacy-concerns-amid-digital-pricing-tech-adoption",
-      "cross_verified": true,
-      "published_at": "2026-10-18T14:56:00.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Meta Stock: $25B Priced at $625, 6.5% Preferred",
+      "title_ko": "메타 주식: 250억 달러 규모, 주당 625달러, 우선주 6.5%",
+      "snippet": "Meta stock priced $25bn of common at $625 and a 6.5% preferred, but the forward sale means no cash until November 2027. Just $12.5bn lands this month.",
+      "snippet_ko": "메타는 보통주 250억 달러어치를 주당 625달러에, 우선주를 6.5% 금리로 발행했으나, 선매매 계약으로 인해 2027년 11월까지는 현금을 확보할 수 없다. 이번 달에는 고작 125억 달러만 유입된다.",
+      "symbol": "AVGO",
+      "sentiment_score": -0.0894,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/meta-stock-25-billion-priced-625-preferred/",
+      "cross_verified": true,
+      "published_at": "2026-10-27T11:10:41.000000Z"
+    },
+    {
+      "title": "Celestica stock prediction: $324.78 bull, $141.95 bear",
+      "title_ko": "셀레스티카 주가 전망: 강세 $324.78, 약세 $141.95",
+      "snippet": "Celestica closed at $246.65 on Monday. The $324.78 bull and $141.95 bear leave the base under that NYSE close, so the after-hours jump is not year-end.",
+      "snippet_ko": "셀레스티카는 월요일 종가 246.65달러를 기록했습니다. 324.78달러의 강세선과 141.95달러의 약세선이 뉴욕증권거래소(NYSE) 종가보다 낮은 위치에 있어, 장 후 급등은 연말 상승세가 아닙니다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.14,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/celestica-stock-prediction-246-65-close-324-78-bull-141-95-bear/",
+      "cross_verified": true,
+      "published_at": "2026-10-27T11:06:49.000000Z"
+    },
+    {
+      "title": "deVere CEO: Anthropic $2T IPO Hopes Are 'Nuts'",
+      "title_ko": "deVere CEO: Anthropic의 2조 달러 규모 IPO 기대는 ‘터무니없다’",
+      "snippet": "deVere CEO Nigel Green calls a $2 trillion Anthropic IPO valuation nuts after an S-1 showing $16.3B H1 revenue and an $80.7B net loss.",
+      "snippet_ko": "deVere의 CEO 나이젤 그린은 S-1 서류에 1분기 매출 163억 달러와 807억 달러의 순손실이 명시된 것을 두고, 앤트로픽의 2조 달러 기업가치를 ‘터무니없다’고 일축했다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.0,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/devere-ceo-calls-anthropics-reported-2-trillion-ipo-valuation-nuts/",
+      "cross_verified": true,
+      "published_at": "2026-10-27T10:58:22.000000Z"
+    },
     {
       "title": "Broadcom (AVGO) Secures $63 Billion AI Debt Financing for Anthropic",
       "title_ko": "브로드컴(AVGO), 앤트로픽을 위해 630억 달러 규모의 AI 차입 자금 조달 확보",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9129982/apple-aapl-announces-second-october-event-featuring-new-macbook-pro-models",
       "cross_verified": true,
       "published_at": "2026-10-19T17:57:45.000000Z"
-    },
-    {
-      "title": "Tenstorrent secures $1.5 billion USD at $6.2-billion valuation to challenge GPU dominance",
-      "title_ko": "텐스토렌트, GPU 시장의 지배력에 도전하기 위해 기업 가치 62억 달러 기준으로 15억 달러 투자 유치",
-      "snippet": "Canadian-founded, US-based AI hardware company Tenstorrent announced it has closed $1.5 billion USD in Series E funding to fuel its global expansion plans.",
-      "snippet_ko": "캐나다에서 설립되어 미국에 본사를 둔 AI 하드웨어 기업 텐스토렌트(Tenstorrent)는 글로벌 확장 계획을 추진하기 위해 15억 달러 규모의 시리즈 E 투자 유치를 완료했다고 발표했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4409,
-      "source": "betakit.com",
-      "url": "https://betakit.com/tenstorrent-secures-1-5-billion-usd-at-6-2-billion-valuation-to-challenge-gpu-dominance/",
-      "cross_verified": true,
-      "published_at": "2026-10-19T12:10:52.000000Z"
-    },
-    {
-      "title": "MRK DCF Analysis: Intrinsic Value $43 vs Price $146",
-      "title_ko": "MRK DCF 분석: 내재가치 43달러 대 주가 146달러",
-      "snippet": "On October 19, 2026, we conducted a DCF analysis for Merck & Co Inc (MRK), a company that has shown impressive price performance over the past year, with a 79.0",
-      "snippet_ko": "2026년 10월 19일, 우리는 지난 1년간 79.0%의 인상적인 주가 상승률을 기록한 머크 앤 컴퍼니(Merck & Co Inc, MRK)에 대한 DCF 분석을 실시했습니다.",
-      "symbol": "MRK",
-      "sentiment_score": 0.6432,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9129424/mrk-dcf-analysis-intrinsic-value-43-vs-price-146",
-      "cross_verified": true,
-      "published_at": "2026-10-19T12:10:08.000000Z"
-    },
-    {
-      "title": "Is AVGO Overvalued? DCF Says Worth $225",
-      "title_ko": "AVGO는 과대평가되었을까? DCF 분석에 따르면 주가는 225달러 수준",
-      "snippet": "On October 19, 2026, we delve into the DCF analysis for Broadcom Inc (AVGO), a company that has seen a decline in its stock price performance recently. Over the",
-      "snippet_ko": "2026년 10월 19일, 최근 주가 실적이 부진한 브로드컴(Broadcom Inc, AVGO)에 대한 DCF 분석을 심층적으로 살펴봅니다. 지난",
-      "symbol": "AVGO",
-      "sentiment_score": 0.6142,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9129409/is-avgo-overvalued-dcf-says-worth-225",
-      "cross_verified": true,
-      "published_at": "2026-10-19T12:03:48.000000Z"
     }
   ]
 }
