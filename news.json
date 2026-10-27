@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-26T23:40:36.830206+00:00",
+  "updated_at": "2026-10-27T04:33:42.618599+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Anthropic's potential mega IPO joins ranks of world's biggest listings",
+      "title_ko": "앤트로픽의 잠재적 초대형 기업공개(IPO)가 세계 최대 규모의 상장 사례 대열에 합류한다",
+      "snippet": "Anthropic’s US IPO filing signals potential one of the largest Debuts, reshaping markets, investor flows, and the AI stock narrative.",
+      "snippet_ko": "앤트로픽의 미국 기업공개(IPO) 신청은 사상 최대 규모의 상장 중 하나가 될 가능성을 시사하며, 시장과 투자자 자금 흐름, 그리고 AI 관련 주식에 대한 투자 심리를 재편할 전망이다.",
+      "symbol": "",
+      "sentiment_score": 0.7096,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/markets/anthropics-potential-mega-ipo-joins-ranks-of-worlds-biggest-listings/article71629628.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-27T03:32:13.000000Z"
+    },
     {
       "title": "Kforce Inc Reports Q3 2026 Earnings: EPS of $0.90 and Revenue of $357.8 Million Surpass Expectations",
       "title_ko": "Kforce Inc, 2026년 3분기 실적 발표: 주당 순이익(EPS) 0.90달러, 매출 3억 5,780만 달러로 시장 예상치를 상회",
@@ -1189,21 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9129045/walmart-wmt-faces-data-privacy-concerns-amid-digital-pricing-tech-adoption",
       "cross_verified": true,
       "published_at": "2026-10-18T14:56:00.000000Z"
-    },
-    {
-      "title": "Bumble (BMBL) Stock Surges Over 100% After $1.3B Acquisition Announcement by Ithaca Holdings",
-      "title_ko": "이타카 홀딩스의 13억 달러 규모 인수 발표에 힘입어 범블(BMBL) 주가가 100% 이상 급등했다",
-      "snippet": "On October 18, 2026, Bumble Inc (NASDAQ: BMBL) saw its shares more than double following the announcement of a $1.3 billion all-cash acquisition by Ithaca Holdi",
-      "snippet_ko": "2026년 10월 18일, Bumble Inc(나스닥: BMBL)는 Ithaca Holdi가 13억 달러 규모의 전액 현금 인수를 발표함에 따라 주가가 두 배 이상 급등했다.",
-      "symbol": "",
-      "sentiment_score": 0.1379,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9129043/bumble-bmbl-stock-surges-over-100-after-13b-acquisition-announcement-by-ithaca-holdings",
-      "cross_verified": true,
-      "published_at": "2026-10-18T14:55:24.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Broadcom (AVGO) Secures $63 Billion AI Debt Financing for Anthropic",
+      "title_ko": "브로드컴(AVGO), 앤트로픽을 위해 630억 달러 규모의 AI 차입 자금 조달 확보",
+      "snippet": "On October 26, 2026, Broadcom Inc. (AVGO) announced a significant financing deal that will support the AI startup Anthropic, securing over $40 billion in debt f",
+      "snippet_ko": "2026년 10월 26일, 브로드컴(Broadcom Inc., AVGO)은 AI 스타트업 앤트로픽(Anthropic)을 지원하기 위한 대규모 자금 조달 계약을 발표했으며, 이를 통해 400억 달러 이상의 차입금을 확보했다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.3518,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9143599/broadcom-avgo-secures-63-billion-ai-debt-financing-for-anthropic",
+      "cross_verified": true,
+      "published_at": "2026-10-27T04:30:39.000000Z"
+    },
+    {
+      "title": "Baillie Gifford Trims ODDITY Tech Ltd (ODD) Stake -- Shares Look 55% Undervalued on GF Value",
+      "title_ko": "베일리 기포드, ODDITY Tech Ltd(ODD) 지분 축소 -- GF Value 기준 주가, 55% 저평가된 것으로 분석",
+      "snippet": "A Small Trim Within a Long-Term Framework Baillie Gifford (Trades, Portfolio) reduced its position in ODDITY Tech Ltd (ODD) on 2026-09-30, selling 398,467 share",
+      "snippet_ko": "장기 투자 전략 하에서의 소폭 조정: 베일리 기포드(거래 내역, 포트폴리오)는 2026년 9월 30일 ODDITY Tech Ltd(ODD)에 대한 보유 지분을 축소하며 398,467주를 매도했다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.5423,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9143587/baillie-gifford-trims-oddity-tech-ltd-odd-stake-shares-look-55-undervalued-on-gf-value",
+      "cross_verified": true,
+      "published_at": "2026-10-27T03:33:52.000000Z"
+    },
+    {
+      "title": "Apple’s Foldable iPhone Duo Draws Early Complaints of the Screen Cracking",
+      "title_ko": "애플의 접이식 아이폰 2종, 출시 초기부터 화면 파손 관련 불만 제기",
+      "snippet": "Apple’s foldable iPhone Duo faces early complaints of inner display cracks, with users reporting crunching sounds and immediate screen damage.",
+      "snippet_ko": "애플의 폴더블 아이폰 듀오가 출시 초기부터 내부 디스플레이 균열에 대한 불만을 겪고 있으며, 사용자들은 바스락거리는 소리가 나더니 곧바로 화면이 파손되었다고 보고하고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.2603,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/info-tech/apples-foldable-iphone-duo-draws-early-complaints-of-the-screen-cracking/article71629607.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-27T03:14:49.000000Z"
+    },
     {
       "title": "Merck & Co., Inc. (MRK) Shareholder/Analyst Call Transcript",
       "title_ko": "머크 앤 컴퍼니(Merck & Co., Inc., MRK) 주주·애널리스트 컨퍼런스콜 기록",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9129409/is-avgo-overvalued-dcf-says-worth-225",
       "cross_verified": true,
       "published_at": "2026-10-19T12:03:48.000000Z"
-    },
-    {
-      "title": "Outrage as Meta mistakenly suspends ‘No Kings Coalition’ Instagram account: What is this anti-Trump group?",
-      "title_ko": "메타가 ‘노 킹스 코알리션’ 인스타그램 계정을 실수로 정지시키자 분노가 일고 있다: 이 반트럼프 단체는 무엇인가?",
-      "snippet": "The No Kings movement’s account went dark for several hours while protests focused on increasing early voter turnout were underway, sparking censorship fears.",
-      "snippet_ko": "조기 투표 참여율 제고를 목표로 한 시위가 진행되는 동안 ‘노 킹스(No Kings)’ 운동 측의 계정이 몇 시간 동안 비활성화되면서, 검열에 대한 우려가 제기되었다.",
-      "symbol": "META",
-      "sentiment_score": -0.5719,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/news/us-news/outrage-as-meta-mistakenly-suspends-no-kings-coalition-instagram-account-what-is-this-anti-trump-group-11792372244270.html",
-      "cross_verified": true,
-      "published_at": "2026-10-19T01:21:41.000000Z"
-    },
-    {
-      "title": "Meta (META) Reports Earnings Amid Market Concerns",
-      "title_ko": "메타(META), 시장의 우려 속에서 실적 발표",
-      "snippet": "On October 18, 2026, the earnings season for tech stocks is in full swing, with Meta Platforms Inc (META) poised to report its quarterly results ahead of major",
-      "snippet_ko": "2026년 10월 18일, 기술주 실적 발표 시즌이 한창인 가운데, 메타 플랫폼스(META)가 주요 기업들보다 앞서 분기 실적을 발표할 예정입니다.",
-      "symbol": "META",
-      "sentiment_score": 0.3185,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9129115/meta-meta-reports-earnings-amid-market-concerns",
-      "cross_verified": true,
-      "published_at": "2026-10-19T01:11:33.000000Z"
-    },
-    {
-      "title": "CoreWeave, Broadcom, Verizon, Others Object to Tokenized Share Trading on OKXICE",
-      "title_ko": "코어위브, 브로드컴, 버라이즌 등, OKXICE의 토큰화 주식 거래에 반대",
-      "snippet": "Several US-listed companies have submitted formal objections that prevent tokenized versions of their shares from trading on OKXICE, a planned Tokenized",
-      "snippet_ko": "미국에 상장된 여러 기업이 자사 주식의 토큰화된 버전이 계획 중인 토큰화 거래소인 OKXICE에서 거래되는 것을 막기 위해 공식 이의를 제기했다.",
-      "symbol": "AAPL",
-      "sentiment_score": -0.149,
-      "source": "crowdfundinsider.com",
-      "url": "https://www.crowdfundinsider.com/2026/10/319314-coreweave-broadcom-verizon-others-object-to-tokenized-share-trading-on-okxice/",
-      "cross_verified": true,
-      "published_at": "2026-10-18T21:47:50.000000Z"
     }
   ]
 }
