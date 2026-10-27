@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-27T11:55:09.165390+00:00",
+  "updated_at": "2026-10-27T17:49:56.121417+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "SoFi Technologies Stock Jumps 15% After Strong Q3 Results And Raised Outlook",
+      "title_ko": "SoFi Technologies, 호조인 3분기 실적과 상향 조정된 전망에 힘입어 주가 15% 급등",
+      "snippet": "SoFi Technologies, Inc. (SOFI) is up 15.46 percent, gaining $2.23 to $16.69 on Tuesday. The rise follows strong third-quarter results, with net income increasing to $240.",
+      "snippet_ko": "SoFi Technologies, Inc. (SOFI)의 주가는 화요일 15.46% 상승하며 2.23달러 오른 16.69달러를 기록했다. 이번 상승은 3분기 실적이 호조를 보인 데 따른 것으로, 순이익은 240달러로 증가했다.",
+      "symbol": "",
+      "sentiment_score": 0.4977,
+      "source": "rttnews.com",
+      "url": "https://www.rttnews.com/story.aspx?Id=3703692",
+      "cross_verified": true,
+      "published_at": "2026-10-27T17:13:25.000000Z"
+    },
+    {
+      "title": "Hubbell Incorporated (HUBB) Q3 2026 Earnings Call Transcript",
+      "title_ko": "허벨 인코포레이티드(HUBB) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "Hubbell Incorporated (HUBB) Q3 2026 Earnings Call October 27, 2026 10:00 AM EDTCompany ParticipantsDaniel Innamorato - Director of Investor RelationsGerben...",
+      "snippet_ko": "허벨 인코퍼레이티드(HUBB) 2026년 3분기 실적 발표 전화회의 2026년 10월 27일 오전 10:00 (EDT) 회사 참석자: 다니엘 인나모라토 - 투자자 관계 이사, 게르벤...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4958034-hubbell-incorporated-hubb-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-27T17:10:26.000000Z"
+    },
+    {
+      "title": "Xylem Inc. (XYL) Q3 2026 Earnings Call Transcript",
+      "title_ko": "Xylem Inc. (XYL) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "Xylem Inc. (XYL) Q3 2026 Earnings Call October 27, 2026 9:00 AM EDTCompany ParticipantsGregory GiomettiMatthew Pine - CEO, President & DirectorAndrea...",
+      "snippet_ko": "Xylem Inc. (XYL) 2026년 3분기 실적 발표 컨퍼런스 콜, 2026년 10월 27일 오전 9:00 (EDT) 회사 참가자: 그레고리 지오메티, 매튜 파인 - CEO, 사장 겸 이사, 안드레아...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4957995-xylem-inc-xyl-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-27T17:10:20.000000Z"
+    },
     {
       "title": "Cellectar Biosciences Reports Case Study Highlighting Complete Response Lasting More Than Eight Years in Heavily Pretreated DLBCL Patient Treated with Iopofosine I 131",
       "title_ko": "셀렉타 바이오사이언스, 이오포포신 I-131 치료를 받은 다중 전처치 이력이 있는 DLBCL 환자에서 8년 이상 지속된 완전 관해 사례를 다룬 사례 연구 발표",
@@ -1165,45 +1201,45 @@
       "url": "https://economictimes.indiatimes.com/magazines/panache/victorias-secret-fashion-show-2026-bella-hadids-runway-look-katseyes-performance-and-all-the-models-who-walked/articleshow/135037977.cms",
       "cross_verified": true,
       "published_at": "2026-10-19T03:10:47.000000Z"
-    },
-    {
-      "title": "United Airlines CEO Defends Fare Hikes Amid Rising Costs; UAL Stock Fairly Valued at $96.10",
-      "title_ko": "유나이티드 항공 CEO, 비용 상승 속 운임 인상 옹호… UAL 주가, 96.10달러가 적정 가치",
-      "snippet": "On October 18, 2026, United Airlines Holdings Inc (ticker: UAL) CEO Scott Kirby addressed the company's recent fare increases and additional fees for preferred",
-      "snippet_ko": "2026년 10월 18일, 유나이티드 항공 홀딩스(United Airlines Holdings Inc, 티커: UAL)의 스콧 커비(Scott Kirby) 최고경영자(CEO)는 최근 시행된 운임 인상 및 프리미엄 서비스에 대한 추가 수수료에 대해 언급했다.",
-      "symbol": "",
-      "sentiment_score": -0.2009,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9129073/united-airlines-ceo-defends-fare-hikes-amid-rising-costs-ual-stock-fairly-valued-at-9610",
-      "cross_verified": true,
-      "published_at": "2026-10-18T21:55:40.000000Z"
-    },
-    {
-      "title": "Carrefour (CRRFY) Faces Operational Disruptions Amid Protests, Dividend Sustainability in Focus",
-      "title_ko": "카르푸(CRRFY), 시위로 인한 운영 차질에 직면… 배당금 지속 가능성에 주목",
-      "snippet": "On October 18, 2026, French retail giant Carrefour (CRRFY) reported significant damage to its operations following widespread protests across France targeting r",
-      "snippet_ko": "2026년 10월 18일, 프랑스의 대형 유통업체 까르푸(CRRFY)는 프랑스 전역에서 벌어진 시위로 인해 사업에 상당한 타격을 입었다고 밝혔다. 이 시위는 r을 겨냥한 것이었다.",
-      "symbol": "",
-      "sentiment_score": 0.1977,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9129072/carrefour-crrfy-faces-operational-disruptions-amid-protests-dividend-sustainability-in-focus",
-      "cross_verified": true,
-      "published_at": "2026-10-18T21:55:22.000000Z"
-    },
-    {
-      "title": "AGNC Investment Q3 2026 Earnings Preview (NASDAQ:AGNC)",
-      "title_ko": "AGNC 투자, 2026년 3분기 실적 전망 (나스닥:AGNC)",
-      "snippet": "AGNC Investment (AGNC) reports Q3 earnings Oct 19 after close.",
-      "snippet_ko": "AGNC 인베스트먼트(AGNC)는 10월 19일 장 마감 후 3분기 실적을 발표할 예정이다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4653774-agnc-investment-q3-2026-earnings-preview",
-      "cross_verified": true,
-      "published_at": "2026-10-18T21:35:00.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Wall Street Lunch: Sentiment Improves; All About Earnings",
+      "title_ko": "월스트리트 런치: 시장 심리가 호전되고 있다; 모든 것은 실적에 달려 있다",
+      "snippet": "Two-day rally in tech, big earnings coming this week.",
+      "snippet_ko": "기술주, 이틀 연속 상승세… 이번 주 주요 기업 실적 발표 예정.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.4215,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4958098-wall-street-lunch-sentiment-improves-all-about-earnings",
+      "cross_verified": true,
+      "published_at": "2026-10-27T16:49:00.000000Z"
+    },
+    {
+      "title": "The Coca-Cola Company (KO) Q3 2026 Earnings Call Transcript",
+      "title_ko": "코카콜라(KO) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "The Coca-Cola Company (KO) Q3 2026 Earnings Call October 27, 2026 8:30 AM EDTCompany ParticipantsTodd Beiger - VP & Head of Investor RelationsHenrique...",
+      "snippet_ko": "코카콜라 컴퍼니(KO) 2026년 3분기 실적 발표 전화회의 2026년 10월 27일 오전 8시 30분(EDT) 회사 참석자: 토드 베이거 - 부사장 겸 투자자 관계 총괄, 헨리케...",
+      "symbol": "KO",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4957976-the-coca-cola-company-ko-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-27T16:30:12.000000Z"
+    },
+    {
+      "title": "Tech and AI Sectors Surge as Earnings Season Hits High Gear",
+      "title_ko": "실적 발표 시즌이 본격화되면서 기술 및 AI 부문이 급등하고 있다",
+      "snippet": "The U.S. stock market exhibited robust bullish momentum during midday trading on Tuesday, October 27th, 2026. Investors appear to be shaking off recent",
+      "snippet_ko": "2026년 10월 27일 화요일 정오 거래 시간 동안 미국 증시는 강력한 상승세를 보였다. 투자자들은 최근의",
+      "symbol": "AAPL",
+      "sentiment_score": 0.0391,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-ai-sectors-surge-as-earnings-season-hits-high-gear/73695/",
+      "cross_verified": true,
+      "published_at": "2026-10-27T16:07:15.000000Z"
+    },
     {
       "title": "Meta Stock: $25B Priced at $625, 6.5% Preferred",
       "title_ko": "메타 주식: 250억 달러 규모, 주당 625달러, 우선주 6.5%",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9130271/meta-platforms-meta-prepares-earnings-release-amid-ai-investment-concerns",
       "cross_verified": true,
       "published_at": "2026-10-19T21:58:44.000000Z"
-    },
-    {
-      "title": "Apple Is Winning on Price, Not Units, KeyBanc Survey Suggests",
-      "title_ko": "키뱅크(KeyBanc) 조사 결과, 애플은 판매량보다는 가격 경쟁에서 우위를 점하고 있는 것으로 나타났다",
-      "snippet": "iPhone manufacturer Apple Inc (AAPL, Financials) is reporting increased early interest in the iPhone 18, but a KeyBanc survey predicts demand may weaken after t",
-      "snippet_ko": "아이폰 제조사인 애플(Apple Inc, AAPL, 금융)은 아이폰 18에 대한 초기 관심이 높아지고 있다고 밝혔으나, 키뱅크(KeyBanc)의 설문조사에 따르면 t 이후 수요가 약화될 수 있을 것으로 전망된다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3084,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9129799/apple-is-winning-on-price-not-units-keybanc-survey-suggests",
-      "cross_verified": true,
-      "published_at": "2026-10-19T18:06:10.000000Z"
-    },
-    {
-      "title": "Amazon Is Attacking Nvidia's Strongest Moat: CUDA",
-      "title_ko": "아마존이 엔비디아의 가장 강력한 경쟁 우위인 CUDA를 공략하고 있다",
-      "snippet": "Cloud and e-commerce behemoth Amazon.com Inc. (AMZN, Financials) is making a more direct run at Nvidia in AI computing.Amazon's Annapurna Labs is announcing Tor",
-      "snippet_ko": "클라우드 및 전자상거래 분야의 거대 기업인 아마존닷컴(Amazon.com Inc., AMZN, 금융)이 AI 컴퓨팅 분야에서 엔비디아(Nvidia)를 상대로 더욱 직접적인 공세를 펼치고 있다. 아마존 산하의 아나푸르나 랩스(Annapurna Labs)는 ‘Tor’를 발표할 예정이다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.0,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9129699/amazon-is-attacking-nvidias-strongest-moat-cuda",
-      "cross_verified": true,
-      "published_at": "2026-10-19T18:03:16.000000Z"
-    },
-    {
-      "title": "Apple (AAPL) Announces Second October Event Featuring New MacBook Pro Models",
-      "title_ko": "애플(AAPL), 새로운 맥북 프로 모델을 선보일 10월 두 번째 행사 개최 발표",
-      "snippet": "On October 19, 2026, Apple Inc (AAPL) announced a second October event set for October 28 at 10 a.m. P.T. in Los Angeles, themed ”Pro and tell.” The event i",
-      "snippet_ko": "2026년 10월 19일, 애플(AAPL)은 10월 28일 오전 10시(태평양 표준시) 로스앤젤레스에서 “Pro and tell”을 주제로 두 번째 10월 행사를 개최한다고 발표했습니다. 이 행사는",
-      "symbol": "AAPL",
-      "sentiment_score": 0.397,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9129982/apple-aapl-announces-second-october-event-featuring-new-macbook-pro-models",
-      "cross_verified": true,
-      "published_at": "2026-10-19T17:57:45.000000Z"
     }
   ]
 }
