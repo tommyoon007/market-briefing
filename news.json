@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-27T17:49:56.121417+00:00",
+  "updated_at": "2026-10-27T22:01:45.357041+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Phillips Edison & Company, Inc. (PECO) Q3 2026 Earnings Call Transcript",
+      "title_ko": "필립스 에디슨 앤 컴퍼니(PECO) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "Phillips Edison & Company, Inc. (PECO) Q3 2026 Earnings Call October 27, 2026 12:00 PM EDTCompany ParticipantsKimberly Green - Senior VP & Head of...",
+      "snippet_ko": "필립스 에디슨 앤 컴퍼니(Phillips Edison & Company, Inc., PECO) 2026년 3분기 실적 발표 컨퍼런스 콜 2026년 10월 27일 오후 12:00 (EDT) 회사 참가자 킴벌리 그린 - 수석 부사장 겸 ...",
+      "symbol": "",
+      "sentiment_score": 0.4329,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4958223-phillips-edison-and-company-inc-peco-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-27T21:29:53.000000Z"
+    },
+    {
+      "title": "North American Construction Group Ltd. Third Quarter Results Conference Call and Webcast Notification",
+      "title_ko": "노스 아메리칸 컨스트럭션 그룹(North American Construction Group Ltd.) 3분기 실적 발표 컨퍼런스 콜 및 웹캐스트 안내",
+      "snippet": "ACHESON, Alberta, Oct. 27, 2026 (GLOBE NEWSWIRE) — North American Construction Group Ltd. (“NACG” or “the Company”) (TSX:NOA.TO/NYSE:NOA) announced today that it …",
+      "snippet_ko": "앨버타주 애치슨, 2026년 10월 27일 (GLOBE NEWSWIRE) — North American Construction Group Ltd. (“NACG” 또는 “회사”) (TSX:NOA.TO/NYSE:NOA)는 오늘 다음과 같이 발표했습니다…",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "financialpost.com",
+      "url": "https://financialpost.com/globe-newswire/north-american-construction-group-ltd-third-quarter-results-conference-call-and-webcast-notification-7",
+      "cross_verified": true,
+      "published_at": "2026-10-27T21:19:57.000000Z"
+    },
+    {
+      "title": "Fairfax Announces Conference Call",
+      "title_ko": "페어팩스, 컨퍼런스 콜 개최 발표",
+      "snippet": "TORONTO, Oct. 27, 2026 (GLOBE NEWSWIRE) — Fairfax Financial Holdings Limited (TSX: FFH and FFH.U) will hold a conference call at 8:30 a.m. Eastern Time on Wednesd…",
+      "snippet_ko": "토론토, 2026년 10월 27일 (GLOBE NEWSWIRE) — 페어팩스 파이낸셜 홀딩스 리미티드(Fairfax Financial Holdings Limited, TSX: FFH 및 FFH.U)는 수요일 오전 8시 30분(동부 표준시)에 컨퍼런스 콜을 개최할 예정입니다…",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "financialpost.com",
+      "url": "https://financialpost.com/globe-newswire/fairfax-announces-conference-call-21",
+      "cross_verified": true,
+      "published_at": "2026-10-27T21:06:39.000000Z"
+    },
     {
       "title": "SoFi Technologies Stock Jumps 15% After Strong Q3 Results And Raised Outlook",
       "title_ko": "SoFi Technologies, 호조인 3분기 실적과 상향 조정된 전망에 힘입어 주가 15% 급등",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9129454/ani-pharmaceuticals-anip-launches-generic-duloxetine-capsules-targeting-247m-market",
       "cross_verified": true,
       "published_at": "2026-10-19T12:25:20.000000Z"
-    },
-    {
-      "title": "‘Keep expectations low’: Anand Mahindra’s nostalgic post about visiting Rishikesh gets mixed response on social media",
-      "title_ko": "‘기대를 낮게 가져라’: 아난드 마힌드라의 리시케시 방문에 대한 향수 어린 게시물이 소셜 미디어에서 엇갈린 반응을 불러일으키고 있다",
-      "snippet": "Anand Mahindra shared nostalgic memories of Rishikesh, recalling its restaurants and hills from his filmmaking days. Social media users responded with their own memories and reflections on the changes.",
-      "snippet_ko": "아난드 마힌드라는 영화 제작 시절을 회상하며 리시케시의 식당과 언덕에 대한 향수 어린 추억을 나누었다. 이에 소셜 미디어 이용자들은 각자의 추억을 공유하고, 그곳의 변화에 대한 소감을 밝혔다.",
-      "symbol": "",
-      "sentiment_score": 0.1027,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/news/trends/keep-expectations-low-anand-mahindra-s-nostalgic-post-about-visiting-rishikesh-gets-mixed-response-on-social-media-11792380379249.html",
-      "cross_verified": true,
-      "published_at": "2026-10-19T03:32:58.000000Z"
-    },
-    {
-      "title": "U-turn from regulator may be new lifeline to Indian derivatives",
-      "title_ko": "규제 당국의 정책 전환이 인도 파생상품 시장에 새로운 활로 마련될 수 있다",
-      "snippet": "The return of a stable settlement system in India's equity-derivatives market could signal a promising recovery. Following the tumultuous closure auction process introduced in August, regulators are aiming to restore order. Market players are optimistic that this newfound clarity will not only enhance trader confidence but also boost derivatives trading volumes over time.",
-      "snippet_ko": "인도 주식 파생상품 시장에 안정적인 정산 시스템이 재도입된 것은 유망한 회복의 신호일 수 있다. 지난 8월 도입된 혼란스러운 마감 경매 절차에 이어, 규제 당국은 질서를 회복하는 데 주력하고 있다. 시장 참여자들은 이러한 새로운 명확성이 트레이더들의 신뢰를 높일 뿐만 아니라, 시간이 지남에 따라 파생상품 거래량도 증가시킬 것이라고 낙관하고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.6597,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/u-turn-from-regulator-may-be-new-lifeline-to-indian-derivatives/articleshow/135038625.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-19T03:17:36.000000Z"
-    },
-    {
-      "title": "Victoria’s Secret Fashion Show 2026: Bella Hadid’s runway look, KATSEYE’s performance and all the models who walked",
-      "title_ko": "2026 빅토리아 시크릿 패션쇼: 벨라 하디드의 런웨이 룩, KATSEYE의 공연, 그리고 런웨이를 밟은 모든 모델들",
-      "snippet": "Hadid walked the Victorias Secret Fashion Show runway on October 18, joining her sister Gigi Hadid, Adriana Lima and other top models in California. The 2026 event featured floral-inspired looks, the debut of new Angel Solange Omon, and performances by KATSEYE, Megan Thee Stallion, Tate McRae and Megan Moroney.",
-      "snippet_ko": "하디드는 10월 18일 캘리포니아에서 열린 빅토리아 시크릿 패션쇼 런웨이에 올라, 언니 지기 하디드, 아드리아나 리마 및 다른 톱모델들과 함께 무대를 빛냈다. 2026년 행사에서는 꽃에서 영감을 받은 룩들이 선보였으며, 새로운 ‘엔젤’ 솔랑주 오몬의 데뷔 무대와 KATSEYE, 메건 더 스탤리온, 테이트 맥레이, 메건 모로니의 공연이 펼쳐졌다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/victorias-secret-fashion-show-2026-bella-hadids-runway-look-katseyes-performance-and-all-the-models-who-walked/articleshow/135037977.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-19T03:10:47.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "US stocks today: US stocks end higher as AI rally lifts Nasdaq ahead of Fed decision",
+      "title_ko": "오늘 미국 증시: 연준 결정 앞두고 AI 관련주 강세로 나스닥이 상승하며 미국 증시 상승 마감",
+      "snippet": "US stocks saw gains as renewed optimism about artificial intelligence lifted chipmakers while corporate earnings were evaluated. Although concerns about AI spending persist, news of Anthropic's IPO provided a relief rally for the sector. The Federal Reserve began its policy meeting, with expectations for interest rates to remain unchanged. Nearly half of S&P 500 companies reported earnings, with many exceeding estimates while some major firms faced declines.",
+      "snippet_ko": "인공지능(AI)에 대한 낙관론이 재점화되며 반도체 업체들의 주가가 상승한 가운데, 기업 실적에 대한 평가가 이어지면서 미국 증시는 상승세를 보였다. AI 투자에 대한 우려는 여전히 남아 있지만, 앤트로픽(Anthropic)의 기업공개(IPO) 소식은 해당 업종에 안도 랠리를 불러일으켰다. 연방준비제도(Fed)는 정책 회의를 시작했으며, 금리는 동결될 것으로 예상된다. S&P 500 지수 구성 기업 중 거의 절반이 실적을 발표했는데, 많은 기업이 예상치를 상회한 반면 일부 주요 기업들은 실적 부진을 기록했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.1027,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-ai-rally-lifts-nasdaq-ahead-of-fed-decision/articleshow/135245403.cms",
+      "cross_verified": true,
+      "published_at": "2026-10-27T20:16:54.000000Z"
+    },
+    {
+      "title": "AVGO Stock Rises as $63 Billion Anthropic Deal Advances",
+      "title_ko": "630억 달러 규모의 앤트로픽 인수 거래가 진전되면서 AVGO 주가 상승",
+      "snippet": "Broadcom (NASDAQ: AVGO) shares extended their gains on Tuesday after Bank of America, Citi, Morgan Stanley and Blackstone committed to a $63 billion financing",
+      "snippet_ko": "화요일, 뱅크 오브 아메리카, 씨티, 모건 스탠리, 블랙스톤이 630억 달러 규모의 자금 조달을 약속함에 따라 브로드컴(나스닥: AVGO) 주가는 상승세를 이어갔다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.4535,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/avgo-stock-rises-as-63-billion-anthropic-deal-advances/",
+      "cross_verified": true,
+      "published_at": "2026-10-27T20:12:36.000000Z"
+    },
+    {
+      "title": "Tech and Energy Sectors Diverge as Earnings Season Intensifies",
+      "title_ko": "실적 발표 시즌이 본격화되면서 기술주와 에너지주 간 격차가 벌어지고 있다",
+      "snippet": "The U.S. stock market exhibited a cautious but slightly positive tone on Tuesday, October 27th, 2026, as investors balanced optimistic earnings from blue-chip",
+      "snippet_ko": "2026년 10월 27일 화요일, 미국 증시는 투자자들이 우량주들의 긍정적인 실적 발표와",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.0055,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-energy-sectors-diverge-as-earnings-season-intensifies/73706/",
+      "cross_verified": true,
+      "published_at": "2026-10-27T20:07:23.000000Z"
+    },
     {
       "title": "Wall Street Lunch: Sentiment Improves; All About Earnings",
       "title_ko": "월스트리트 런치: 시장 심리가 호전되고 있다; 모든 것은 실적에 달려 있다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9130822/chip-stocks-rebound-amid-ai-spending-concerns-mu-nvda-and-more",
       "cross_verified": true,
       "published_at": "2026-10-20T04:00:28.000000Z"
-    },
-    {
-      "title": "Jim Cramer says don't chase the AI rebound just yet. Here's what needs to happen first",
-      "title_ko": "짐 크레이머는 아직 AI 관련 종목의 반등을 쫓아서는 안 된다고 말합니다. 먼저 이런 일이 일어나야 합니다.",
-      "snippet": "CNBC’s Jim Cramer warned investors against rushing back into AI stocks quite yet.",
-      "snippet_ko": "CNBC의 짐 크레이머는 투자자들에게 아직은 서둘러 AI 관련주에 다시 투자하지 말라고 경고했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.6962,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/19/jim-cramer-dont-chase-ai-rebound-yet.html",
-      "cross_verified": true,
-      "published_at": "2026-10-19T22:46:33.000000Z"
-    },
-    {
-      "title": "Is Amazon.com Inc (AMZN) Overvalued After 5.0% Rally? GF Value Says Overvalued",
-      "title_ko": "5.0% 상승세를 보인 후 아마존닷컴(AMZN)의 주가가 과대평가된 것일까? GF 밸류는 과대평가되었다고 분석한다",
-      "snippet": "On October 19, 2026, Amazon.com Inc (AMZN) shares rose 5.0% to $262.45, reflecting a robust performance within its 52-week range of $196.00 to $287.20. This rec",
-      "snippet_ko": "2026년 10월 19일, 아마존닷컴(Amazon.com Inc, AMZN) 주가는 5.0% 상승한 262.45달러를 기록했으며, 이는 196.00달러에서 287.20달러 사이의 52주 등락폭 내에서 견조한 실적을 반영한 것이다. 이 상승세는...",
-      "symbol": "AMZN",
-      "sentiment_score": 0.7064,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9130309/is-amazoncom-inc-amzn-overvalued-after-50-rally-gf-value-says-overvalued",
-      "cross_verified": true,
-      "published_at": "2026-10-19T22:00:44.000000Z"
-    },
-    {
-      "title": "Meta Platforms (META) Prepares Earnings Release Amid AI Investment Concerns",
-      "title_ko": "메타 플랫폼스(META), AI 투자 우려 속 실적 발표 준비",
-      "snippet": "On October 19, 2026, Meta Platforms Inc (NASDAQ: META) is poised to report its latest earnings results, drawing investor attention amid ongoing debates about th",
-      "snippet_ko": "2026년 10월 19일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)가 최신 실적 보고를 앞두고 있으며, 이에 대한 논쟁이 계속되는 가운데 투자자들의 관심이 쏠리고 있다.",
-      "symbol": "META",
-      "sentiment_score": 0.6486,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9130271/meta-platforms-meta-prepares-earnings-release-amid-ai-investment-concerns",
-      "cross_verified": true,
-      "published_at": "2026-10-19T21:58:44.000000Z"
     }
   ]
 }
