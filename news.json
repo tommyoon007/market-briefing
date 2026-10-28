@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-28T05:06:44.414703+00:00",
+  "updated_at": "2026-10-28T12:31:56.926813+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "CMS Energy - A $24 Billion Capital Plan Doesn't Guarantee Shareholder Returns (NYSE:CMS)",
+      "title_ko": "CMS Energy - 240억 달러 규모의 자본 투자 계획이 주주 수익을 보장하지는 않는다 (NYSE:CMS)",
+      "snippet": "CMS Energy is rated 'Hold' with a $54/share price target, reflecting limited upside at current valuations. Read more on CMS stock here.",
+      "snippet_ko": "CMS Energy는 현재 주가 수준에서 상승 여력이 제한적임을 반영해 ‘보유(Hold)’ 등급과 주당 54달러의 목표 주가를 부여받았습니다. CMS 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": -0.0754,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4958450-cms-energy-a-24-billion-capital-plan-doesnt-guarantee-shareholder-returns",
+      "cross_verified": true,
+      "published_at": "2026-10-28T12:00:41.000000Z"
+    },
+    {
+      "title": "Xylem Stock: Near Term Headwinds Are Real, But So Is The Overreaction (NYSE:XYL)",
+      "title_ko": "자일럼(Xylem) 주가: 단기적인 역풍은 분명하지만, 과잉 반응 역시 사실이다 (NYSE:XYL)",
+      "snippet": "Xylem stock looks undervalued after a 30% YTD drop, weak Q3, and lower FY26 guidance. Read here for a detailed analysis of XYL stock.",
+      "snippet_ko": "Xylem 주가는 연초 대비 30% 하락, 부진한 3분기 실적, 그리고 2026 회계연도 실적 전망 하향 조정 등으로 인해 저평가된 것으로 보입니다. XYL 주식에 대한 자세한 분석은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": -0.2132,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4958370-xylem-q3-near-term-headwinds-are-real-but-so-is-the-overreaction",
+      "cross_verified": true,
+      "published_at": "2026-10-28T12:00:27.000000Z"
+    },
+    {
+      "title": "The luxury category experiences significant shifts in value across Interbrand’s Best Global Brands 2026",
+      "title_ko": "인터브랜드의 ‘2026년 세계 최고의 브랜드(Best Global Brands 2026)’ 평가에서 럭셔리 부문은 브랜드 가치 측면에서 상당한 변화를 보이고 있다.",
+      "snippet": "Interbrand, the world’s leading brand consultancy, today released its annual Best Global Brands report, with this year’s luxury analysis highlighting a sector",
+      "snippet_ko": "세계 최고의 브랜드 컨설팅 기업인 인터브랜드(Interbrand)는 오늘 연례 ‘베스트 글로벌 브랜드(Best Global Brands)’ 보고서를 발표했으며, 올해의 럭셔리 부문 분석에서는 해당 분야를 집중 조명했다.",
+      "symbol": "",
+      "sentiment_score": 0.8074,
+      "source": "retailtimes.co.uk",
+      "url": "https://retailtimes.co.uk/the-luxury-category-experiences-significant-shifts-in-value-across-interbrands-best-global-brands-2026/",
+      "cross_verified": true,
+      "published_at": "2026-10-28T12:00:15.000000Z"
+    },
     {
       "title": "The Market's Most Reliable Warning Light Is Flashing Red",
       "title_ko": "시장에서 가장 신뢰할 수 있는 경고등이 빨간색으로 깜빡이고 있다",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9130118/ni-maintained-by-bmo-capital-price-target-raised-to-4800",
       "cross_verified": true,
       "published_at": "2026-10-19T19:04:54.000000Z"
-    },
-    {
-      "title": "Bawag Group AG (BWAGF) Q3 2026 Earnings Call Highlights: Strong Profitability With 27% ROTE Amid Deposit and Margin Pressures",
-      "title_ko": "Bawag Group AG (BWAGF) 2026년 3분기 실적 발표 주요 내용: 예금 및 마진 압박 속에서도 27%의 ROTE를 기록한 견고한 수익성",
-      "snippet": "Release Date: October 19, 2026For the complete transcript of the earnings call, please refer to the full earnings call transcript. Positive Points Bawag Group A",
-      "snippet_ko": "발표일: 2026년 10월 19일. 실적 발표 회의의 전체 기록은 실적 발표 회의 전문을 참조하시기 바랍니다. 긍정적 요인: 바와그 그룹 A",
-      "symbol": "",
-      "sentiment_score": 0.5205,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9130101/bawag-group-ag-bwagf-q3-2026-earnings-call-highlights-strong-profitability-with-27-rote-amid-deposit-and-margin-pressures",
-      "cross_verified": true,
-      "published_at": "2026-10-19T19:00:21.000000Z"
-    },
-    {
-      "title": "Xencor (XNCR) Advances XmAb819 Trial for Advanced ccRCC, Eyes Phase 3 Study",
-      "title_ko": "젠코어(XNCR), 진행성 ccRCC에 대한 XmAb819 임상시험 추진… 3상 연구 계획",
-      "snippet": "On October 19, 2026, Xencor Inc (NASDAQ: XNCR) announced upcoming data presentations from its Phase 1 clinical trial evaluating XmAb819, a bispecific antibody t",
-      "snippet_ko": "2026년 10월 19일, Xencor Inc(나스닥: XNCR)는 이중특이성 항체인 XmAb819를 평가하는 1상 임상시험의 데이터 발표 일정을 공개했습니다.",
-      "symbol": "",
-      "sentiment_score": 0.1454,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9129459/xencor-xncr-advances-xmab819-trial-for-advanced-ccrcc-eyes-phase-3-study",
-      "cross_verified": true,
-      "published_at": "2026-10-19T12:26:54.000000Z"
-    },
-    {
-      "title": "METiS TechBio Partners with Eli Lilly (LLY) to Advance Lipid Nanoparticle Delivery Systems",
-      "title_ko": "METiS TechBio, 엘리 릴리(LLY)와 제휴하여 지질 나노입자 전달 시스템 개발 추진",
-      "snippet": "On October 19, 2026, METiS TechBio announced a strategic collaboration with Eli Lilly and Co (NYSE: LLY) to co-develop innovative lipid nanoparticle-based deliv",
-      "snippet_ko": "2026년 10월 19일, METiS TechBio는 일라이 릴리 앤 컴퍼니(Eli Lilly and Co, NYSE: LLY)와 혁신적인 지질 나노입자 기반 전달 체계를 공동 개발하기 위한 전략적 제휴를 체결했다고 발표했다.",
-      "symbol": "",
-      "sentiment_score": 0.4404,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9129457/metis-techbio-partners-with-eli-lilly-lly-to-advance-lipid-nanoparticle-delivery-systems",
-      "cross_verified": true,
-      "published_at": "2026-10-19T12:26:14.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Meta: AI Spending Leaves Little Margin Of Safety (Rating Downgrade) (NASDAQ:META)",
+      "title_ko": "메타: AI 투자로 인해 안전 마진이 거의 남아 있지 않다 (신용등급 하향 조정) (나스닥:META)",
+      "snippet": "Meta Platforms, Inc. downgraded to Hold as AI spending pressures free cash flow and valuation looks stretched. Read more on META stock here.",
+      "snippet_ko": "메타 플랫폼스(Meta Platforms, Inc.)가 AI 관련 지출로 인해 자유 현금 흐름에 압박을 받고 있으며, 기업 가치가 과대평가된 것으로 보여 투자 등급이 ‘보유(Hold)’로 하향 조정되었습니다. META 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "META",
+      "sentiment_score": 0.1813,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4958441-meta-ai-spending-leaves-little-margin-of-safety-rating-downgrade",
+      "cross_verified": true,
+      "published_at": "2026-10-28T11:35:17.000000Z"
+    },
+    {
+      "title": "Pause Now, Hike Later?",
+      "title_ko": "지금은 잠시 쉬고, 나중에 하이킹을 할까?",
+      "snippet": "Wall Street Breakfast previews today’s Fed decision, December rate hike odds, and key market movers.",
+      "snippet_ko": "‘월스트리트 브렉퍼스트’에서는 오늘 발표될 연준의 결정, 12월 금리 인상 가능성, 그리고 시장의 주요 변동 요인들을 미리 살펴봅니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.3728,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4958395-pause-now-hike-later",
+      "cross_verified": true,
+      "published_at": "2026-10-28T11:30:09.000000Z"
+    },
+    {
+      "title": "Apple bets MacBook Pro buyers will pay more for touch screens",
+      "title_ko": "애플은 맥북 프로 구매자들이 터치스크린을 위해 더 많은 비용을 지불할 것이라고 내다보고 있다",
+      "snippet": "Apple unveils pricey 14/16-inch MacBook Pro with OLED touch screens, Dynamic Island, and higher starting prices at the Pro and Tell event.",
+      "snippet_ko": "애플은 ‘Pro and Tell’ 행사에서 OLED 터치 스크린과 다이내믹 아일랜드를 탑재하고 시작 가격이 인상된 고가의 14인치 및 16인치 맥북 프로를 공개했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.0166,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/info-tech/apple-bets-macbook-pro-buyers-will-pay-more-for-touch-screens/article71635566.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-28T11:17:19.000000Z"
+    },
     {
       "title": "IT stocks drag Sensex, Nifty lower at open; Jio Platforms debut, Fed decision in focus",
       "title_ko": "개장 초반 IT주 하락으로 센섹스·니프티 지수 하락…지오 플랫폼스 상장, 연준 결정에 이목 집중",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9131176/loop-capital-downgrades-apple-aapl-to-hold-cuts-price-target-amid-shipment-cuts",
       "cross_verified": true,
       "published_at": "2026-10-20T10:50:21.000000Z"
-    },
-    {
-      "title": "Stocks sell off globally as crisis grips France and Saudi Arabia cancels ‘Davos in the Desert’",
-      "title_ko": "프랑스에 위기가 닥치고 사우디아라비아가 ‘사막의 다보스’ 행사를 취소함에 따라 전 세계 주식 시장이 급락했다.",
-      "snippet": "Traders sold off after oil hit $111 per barrel this morning, an AI IPO in South Korea lost 30% on its debut, and the yield on the French 10-year bond hit 4.94%, a level it has not seen since 2002.",
-      "snippet_ko": "오늘 아침 원유 가격이 배럴당 111달러를 기록하자 투자자들이 매도에 나섰고, 한국에서 상장한 한 AI 기업의 주가는 데뷔 첫날 30%나 급락했으며, 프랑스 10년물 국채 수익률은 2002년 이후 처음으로 4.94%를 기록했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.0175,
-      "source": "fortune.com",
-      "url": "https://fortune.com/2026/10/20/stocks-sell-off-globally-crisis-grips-france-saudi-arabia-cancels-davos-in-the-desert/",
-      "cross_verified": true,
-      "published_at": "2026-10-20T10:12:57.000000Z"
-    },
-    {
-      "title": "Mestag Therapeutics Appoints Philip Astley-Sparke and Victor Sandor, M.D.C.M., to its Board of Directors",
-      "title_ko": "메스타그 테라퓨틱스, 필립 애슬리-스파크와 빅터 샌도르(M.D.C.M.)를 이사회 이사로 선임",
-      "snippet": "-- Mr. Astley-Sparke brings more than two decades of biotech leadership, having scaled several highly innovative transatlantic companies, including Replimune, uniQure and BioVex",
-      "snippet_ko": "-- 애슬리-스파크 씨는 20년 넘게 생명공학 분야에서 리더십을 발휘해 왔으며, Replimune, uniQure, BioVex 등 혁신적인 대서양 양측 기업 여러 곳을 성장시킨 경험이 있습니다.",
-      "symbol": "MRK",
-      "sentiment_score": 0.4102,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/20/tmt-newswire/globenewswire/mestag-therapeutics-appoints-philip-astley-sparke-and-victor-sandor-mdcm-to-its-board-of-directors/2449410",
-      "cross_verified": true,
-      "published_at": "2026-10-20T07:43:16.000000Z"
-    },
-    {
-      "title": "Global Market Today: Asian stocks decline in break from US chip rally",
-      "title_ko": "오늘의 세계 시장: 미국 반도체주 강세와 달리 아시아 증시 하락",
-      "snippet": "Losses were led by a more than 2% drop in South Koreas Kospi Index — a bellwether for artificial intelligence investments — as chip heavyweight SK Hynix Inc. headed for its lowest close since April. Data-center infrastructure company Elice Inc. plunged as much as 32% in its trading debut in Seoul.",
-      "snippet_ko": "인공지능 투자의 선행 지표로 꼽히는 한국의 코스피 지수가 2% 이상 하락하며 시장 하락을 주도했는데, 이는 반도체 업계의 거물인 SK하이닉스가 4월 이후 최저 종가를 기록했기 때문이다. 데이터센터 인프라 기업인 엘리스는 서울 증시 상장 첫날 주가가 한때 32%나 급락했다.",
-      "symbol": "META",
-      "sentiment_score": 0.6581,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-decline-in-break-from-us-chip-rally/articleshow/135059346.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-20T01:31:55.000000Z"
     }
   ]
 }
