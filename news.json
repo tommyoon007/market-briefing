@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-28T12:31:56.926813+00:00",
+  "updated_at": "2026-10-28T19:24:57.780353+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Hawkins Inc (HWKN) Shows Strong Momentum as Q3 Earnings Season Begins",
+      "title_ko": "호킨스(Hawkins Inc, HWKN), 3분기 실적 발표 시즌 시작과 함께 강력한 상승세를 보이고 있다",
+      "snippet": "On October 28, 2026, Hawkins Inc (NASDAQ: HWKN) emerges as a notable stock amid the start of the third-quarter earnings season, distinguished by a Relative Stre",
+      "snippet_ko": "2026년 10월 28일, 호킨스(Hawkins Inc, 나스닥: HWKN)는 3분기 실적 발표 시즌이 시작되는 가운데 ‘상대적 강세’를 보이며 주목할 만한 종목으로 부상하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.6674,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9148124/hawkins-inc-hwkn-shows-strong-momentum-as-q3-earnings-season-begins",
+      "cross_verified": true,
+      "published_at": "2026-10-28T18:58:24.000000Z"
+    },
     {
       "title": "CMS Energy - A $24 Billion Capital Plan Doesn't Guarantee Shareholder Returns (NYSE:CMS)",
       "title_ko": "CMS Energy - 240억 달러 규모의 자본 투자 계획이 주주 수익을 보장하지는 않는다 (NYSE:CMS)",
@@ -1189,21 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9130128/eyepoint-pharmaceuticals-eypt-faces-major-setback-as-lucia-trial-misses-endpoint-stock-under-pressure",
       "cross_verified": true,
       "published_at": "2026-10-19T19:25:28.000000Z"
-    },
-    {
-      "title": "NI Maintained by BMO Capital -- Price Target Raised to $48.00",
-      "title_ko": "BMO 캐피털, NI에 대해 ‘보유’ 등급 유지 -- 목표주가 48.00달러로 상향 조정",
-      "snippet": "NiSource (NI) Analyst Rating Update On October 19, 2026, BMO Capital analyst James Thalacker maintained his \"Outperform\" rating on NiSource (NI) and raised t",
-      "snippet_ko": "NiSource(NI) 애널리스트 평가 업데이트 2026년 10월 19일, BMO 캐피털의 애널리스트 제임스 탈라커는 NiSource(NI)에 대한 ‘Outperform’ 평가를 유지하고 목표 주가를 상향 조정했다.",
-      "symbol": "",
-      "sentiment_score": 0.5122,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9130118/ni-maintained-by-bmo-capital-price-target-raised-to-4800",
-      "cross_verified": true,
-      "published_at": "2026-10-19T19:04:54.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Meta Platforms (META) Faces New Mental Health Lawsuit as Trial Begins in Los Angeles",
+      "title_ko": "로스앤젤레스에서 재판이 시작되는 가운데, 메타 플랫폼스(META)가 새로운 정신 건강 관련 소송에 직면했다",
+      "snippet": "On October 28, 2026, Meta Platforms Inc (NASDAQ: META) and Snap Inc entered a high-profile legal battle over allegations that their social media platforms have",
+      "snippet_ko": "2026년 10월 28일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)와 스냅(Snap Inc)은 자사의 소셜 미디어 플랫폼이",
+      "symbol": "META",
+      "sentiment_score": -0.266,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9148123/meta-platforms-meta-faces-new-mental-health-lawsuit-as-trial-begins-in-los-angeles",
+      "cross_verified": true,
+      "published_at": "2026-10-28T18:58:09.000000Z"
+    },
+    {
+      "title": "Google (GOOG) Shares Rise After Launch of Gemini 4 Carbon AI Model",
+      "title_ko": "구글(GOOG), ‘제미니 4’ 탄소 AI 모델 출시 후 주가 상승",
+      "snippet": "On October 28, 2026, Alphabet Inc's stock (GOOG) gained approximately 1.5% in early afternoon trading following the announcement of its latest AI innovation, th",
+      "snippet_ko": "2026년 10월 28일, 알파벳(Alphabet Inc)의 주가(GOOG)는 최신 AI 혁신 기술인 th의 발표에 힘입어 오후 초반 거래에서 약 1.5% 상승했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2371,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9148122/google-goog-shares-rise-after-launch-of-gemini-4-carbon-ai-model",
+      "cross_verified": true,
+      "published_at": "2026-10-28T18:57:54.000000Z"
+    },
+    {
+      "title": "Investing in US stocks from India? How much can you invest, can you directly apply for IPOs? Complete guide here",
+      "title_ko": "인도에서 미국 주식에 투자하고 싶으신가요? 얼마까지 투자할 수 있으며, IPO에 직접 신청할 수 있을까요? 여기에서 전체 가이드를 확인하세요.",
+      "snippet": "Indian residents can invest in foreign stocks through the RBI’s Liberalised Remittance Scheme. Here's how much one can invest per year and whether Indians can directly apply for foreign IPOs.",
+      "snippet_ko": "인도 거주자는 인도 중앙은행(RBI)의 ‘자유화 송금 제도(Liberalised Remittance Scheme)’를 통해 해외 주식에 투자할 수 있습니다. 연간 투자 한도액과 인도인이 해외 기업공개(IPO)에 직접 신청할 수 있는지 여부에 대해 알아보겠습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.8074,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/money/investing-in-us-stocks-from-india-how-much-can-you-invest-can-you-directly-apply-for-ipos-complete-guide-here-11793206657624.html",
+      "cross_verified": true,
+      "published_at": "2026-10-28T18:29:32.000000Z"
+    },
     {
       "title": "Meta: AI Spending Leaves Little Margin Of Safety (Rating Downgrade) (NASDAQ:META)",
       "title_ko": "메타: AI 투자로 인해 안전 마진이 거의 남아 있지 않다 (신용등급 하향 조정) (나스닥:META)",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9132037/intel-intc-seeks-fcc-waiver-for-foreign-robotics-amid-semiconductor-production-challenges",
       "cross_verified": true,
       "published_at": "2026-10-20T15:57:54.000000Z"
-    },
-    {
-      "title": "Google Cloud Outage Hits UK Banks and Public Services",
-      "title_ko": "구글 클라우드 서비스 중단으로 영국 은행 및 공공 서비스에 차질 발생",
-      "snippet": "Alphabet Inc. (GOOGL, Financials), the parent company of Google Cloud, was under renewed scrutiny after an outage in its London cloud area impacted banking and",
-      "snippet_ko": "구글 클라우드의 모회사인 알파벳(Alphabet Inc., GOOGL, 금융)은 런던 클라우드 지역의 서비스 중단 사태가 은행업 등에 영향을 미치면서 다시 한 번 주목을 받았다.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.0766,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9131465/google-cloud-outage-hits-uk-banks-and-public-services",
-      "cross_verified": true,
-      "published_at": "2026-10-20T15:10:41.000000Z"
-    },
-    {
-      "title": "Broadcom (AVGO) Secures 10-Year Deal with NTT DOCOMO to Upgrade Private Cloud Infrastructure",
-      "title_ko": "브로드컴(AVGO), NTT 도코모와 프라이빗 클라우드 인프라 업그레이드를 위한 10년 계약 체결",
-      "snippet": "On October 20, 2026, Broadcom Inc (NASDAQ: AVGO) announced a landmark 10-year agreement with telecom giant NTT DOCOMO to enhance the operator's private cloud in",
-      "snippet_ko": "2026년 10월 20일, 브로드컴(Broadcom Inc, 나스닥: AVGO)은 통신 업계의 거대 기업인 NTT 도코모와 해당 통신사의 프라이빗 클라우드를 강화하기 위한 획기적인 10년 계약을 체결했다고 발표했습니다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.4844,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9131891/broadcom-avgo-secures-10year-deal-with-ntt-docomo-to-upgrade-private-cloud-infrastructure",
-      "cross_verified": true,
-      "published_at": "2026-10-20T15:00:08.000000Z"
-    },
-    {
-      "title": "Loop Capital Downgrades Apple (AAPL) to Hold, Cuts Price Target Amid Shipment Cuts",
-      "title_ko": "루프 캐피털, 출하량 감소 속에 애플(AAPL) 투자의견을 ‘보유’로 하향 조정하고 목표주가 인하",
-      "snippet": "On October 20, 2026, Loop Capital analyst Ananda Baruah revised the rating on Apple Inc. (NASDAQ: AAPL) from Buy to Hold and lowered the price target from $370",
-      "snippet_ko": "2026년 10월 20일, 루프 캐피털(Loop Capital)의 애널리스트 아난다 바루아(Ananda Baruah)는 애플(Apple Inc., 나스닥: AAPL)에 대한 투자의견을 ‘매수(Buy)’에서 ‘보유(Hold)’로 하향 조정하고, 목표 주가를 370달러에서 낮췄다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.0926,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9131176/loop-capital-downgrades-apple-aapl-to-hold-cuts-price-target-amid-shipment-cuts",
-      "cross_verified": true,
-      "published_at": "2026-10-20T10:50:21.000000Z"
     }
   ]
 }
