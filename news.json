@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-27T22:01:45.357041+00:00",
+  "updated_at": "2026-10-28T05:06:44.414703+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "The Market's Most Reliable Warning Light Is Flashing Red",
+      "title_ko": "시장에서 가장 신뢰할 수 있는 경고등이 빨간색으로 깜빡이고 있다",
+      "snippet": "For the last three years, junk stocks beat quality stocks by the widest margin ever. From November 2023 through June 2026, a portfolio that owned America’s highest-quality businesses and sold sh",
+      "snippet_ko": "지난 3년 동안 저품질 주식은 고품질 주식을 사상 최대 격차로 앞질렀다. 2023년 11월부터 2026년 6월까지, 미국 내 최고 품질의 기업들을 보유하면서 저품질 주식을 매도한 포트폴리오는…",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "realclearmarkets.com",
+      "url": "https://www.realclearmarkets.com/articles/2026/10/28/the_markets_most_reliable_warning_light_is_flashing_red_1213848.html",
+      "cross_verified": true,
+      "published_at": "2026-10-28T05:00:00.000000Z"
+    },
     {
       "title": "Phillips Edison & Company, Inc. (PECO) Q3 2026 Earnings Call Transcript",
       "title_ko": "필립스 에디슨 앤 컴퍼니(PECO) 2026년 3분기 실적 발표 전화 회의 기록",
@@ -1189,21 +1201,57 @@
       "url": "https://www.gurufocus.com/news/9129457/metis-techbio-partners-with-eli-lilly-lly-to-advance-lipid-nanoparticle-delivery-systems",
       "cross_verified": true,
       "published_at": "2026-10-19T12:26:14.000000Z"
-    },
-    {
-      "title": "ANI Pharmaceuticals (ANIP) Launches Generic Duloxetine Capsules Targeting $247M Market",
-      "title_ko": "ANI 파마슈티컬스(ANIP), 2억 4,700만 달러 규모의 시장을 겨냥한 둘록세틴 제네릭 캡슐 출시",
-      "snippet": "On October 19, 2026, ANI Pharmaceuticals Inc (NASDAQ: ANIP) announced the commercial launch of its Duloxetine Delayed-Release Capsules in 20 mg, 30 mg, and 60 m",
-      "snippet_ko": "2026년 10월 19일, ANI Pharmaceuticals Inc(나스닥: ANIP)는 20mg, 30mg, 60mg 용량의 둘록세틴 서방형 캡슐의 상용화를 발표했습니다.",
-      "symbol": "",
-      "sentiment_score": 0.1105,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9129454/ani-pharmaceuticals-anip-launches-generic-duloxetine-capsules-targeting-247m-market",
-      "cross_verified": true,
-      "published_at": "2026-10-19T12:25:20.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "IT stocks drag Sensex, Nifty lower at open; Jio Platforms debut, Fed decision in focus",
+      "title_ko": "개장 초반 IT주 하락으로 센섹스·니프티 지수 하락…지오 플랫폼스 상장, 연준 결정에 이목 집중",
+      "snippet": "Indian equities open lower as IT stocks drag Sensex/Nifty; Jio Platforms debut amid Fed decision focus and global macro cues.",
+      "snippet_ko": "IT주들이 센섹스·니프티 지수를 끌어내리며 인도 증시가 약세로 출발했다. 연준의 결정과 글로벌 거시경제 동향에 관심이 쏠리는 가운데, 지오 플랫폼스가 상장 첫날 거래를 시작했다.",
+      "symbol": "AVGO",
+      "sentiment_score": -0.0492,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/markets/it-stocks-drag-sensex-nifty-lower-at-open-jio-platforms-debut-fed-decision-in-focus/article71634253.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-28T04:11:47.000000Z"
+    },
+    {
+      "title": "OpenAI plans to buy chips from Google as part of its AI build-out",
+      "title_ko": "오픈AI는 AI 인프라 확충의 일환으로 구글로부터 칩을 구매할 계획이다",
+      "snippet": "The move reflects OpenAI's multipronged bid to quickly add more AI processing power",
+      "snippet_ko": "이번 조치는 OpenAI가 AI 처리 능력을 신속하게 확대하기 위해 다각적으로 추진 중인 노력을 반영한 것이다",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.5294,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/technology/artificial-intelligence/openai-plans-to-buy-chips-from-google-as-part-of-its-ai-build-out-126102800194_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-28T03:37:16.000000Z"
+    },
+    {
+      "title": "Sprite Expands Global Basketball Footprint with NBA’s Nikola Jokić and New \"Never Stop Refreshing The Game\" Platform",
+      "title_ko": "스프라이트, NBA의 니콜라 요키치와 새로운 ‘Never Stop Refreshing The Game’ 플랫폼을 통해 글로벌 농구 시장 진출 확대",
+      "snippet": "Building on its basketball partnerships announced in March, Sprite unites three-time MVP and NBA Champion Nikola Jokić with Olympic Gold Medalist and NBA superstar Anthony Edwards to lead a global movement celebrating the continuous evolution of basketball culture.",
+      "snippet_ko": "스프라이트는 지난 3월에 발표한 농구 파트너십을 바탕으로, 3회 MVP이자 NBA 챔피언인 니콜라 요키치와 올림픽 금메달리스트이자 NBA 슈퍼스타인 앤서니 에드워즈를 한데 모아, 끊임없이 진화하는 농구 문화를 기념하는 글로벌 캠페인을 주도합니다.",
+      "symbol": "KO",
+      "sentiment_score": 0.0,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/10/28/tmt-newswire/media-outreach-newswire/sprite-expands-global-basketball-footprint-with-nbas-nikola-joki-and-new-never-stop-refreshing-the-game-platform/2455624",
+      "cross_verified": true,
+      "published_at": "2026-10-27T22:01:32.000000Z"
+    },
+    {
+      "title": "Visa earnings beats estimates as payments volume rises 9%",
+      "title_ko": "결제 처리량이 9% 증가함에 따라 비자 실적, 시장 예상치를 상회",
+      "snippet": "The company’s payments volume increased to $4.08 trillion, up from $3.73 trillion during the period last year",
+      "snippet_ko": "이 회사의 결제 처리액은 작년 같은 기간의 3조 7,300억 달러에서 4조 800억 달러로 증가했다.",
+      "symbol": "V",
+      "sentiment_score": 0.296,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/companies/visa-earnings-beats-estimates-as-payments-volume-rises-9/article71634193.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-28T04:15:54.000000Z"
+    },
     {
       "title": "US stocks today: US stocks end higher as AI rally lifts Nasdaq ahead of Fed decision",
       "title_ko": "오늘 미국 증시: 연준 결정 앞두고 AI 관련주 강세로 나스닥이 상승하며 미국 증시 상승 마감",
@@ -2355,54 +2403,6 @@
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-decline-in-break-from-us-chip-rally/articleshow/135059346.cms",
       "cross_verified": true,
       "published_at": "2026-10-20T01:31:55.000000Z"
-    },
-    {
-      "title": "Broadcom to Advance NTT DOCOMO’s Private Cloud with VMware Cloud Foundation",
-      "title_ko": "브로드컴, VMware Cloud Foundation을 통해 NTT 도코모의 프라이빗 클라우드 발전 지원",
-      "snippet": "Company’s First 10-year VMware Software Agreement in Japan Strengthens Infrastructure Resilience and Lays the Foundation for Next-generation Services",
-      "snippet_ko": "일본에서 체결된 회사 최초의 10년짜리 VMware 소프트웨어 계약으로 인프라 복원력을 강화하고 차세대 서비스를 위한 기반을 마련했다",
-      "symbol": "AVGO",
-      "sentiment_score": 0.4081,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/20/tmt-newswire/globenewswire/broadcom-to-advance-ntt-docomos-private-cloud-with-vmware-cloud-foundation/2449263",
-      "cross_verified": true,
-      "published_at": "2026-10-20T01:21:00.000000Z"
-    },
-    {
-      "title": "Waymo Expands Fleet to 20,000 Vehicles with $5 Billion Funding",
-      "title_ko": "웨이모, 50억 달러 자금 조달로 차량 대수를 2만 대로 확대",
-      "snippet": "On October 19, 2026, Waymo, the autonomous driving division of Alphabet Inc. (GOOGL), announced plans to expand its fleet from 4,000 to 20,000 vehicles by the e",
-      "snippet_ko": "2026년 10월 19일, 알파벳(Alphabet Inc., GOOGL)의 자율주행 사업부인 웨이모(Waymo)는 올해 말까지 차량 대수를 4,000대에서 20,000대로 확대할 계획을 발표했습니다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.4135,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9130716/waymo-expands-fleet-to-20000-vehicles-with-5-billion-funding",
-      "cross_verified": true,
-      "published_at": "2026-10-20T01:10:42.000000Z"
-    },
-    {
-      "title": "Tesla (TSLA) Set to Release Q3 2026 Earnings Amidst Mixed Analyst Views",
-      "title_ko": "테슬라(TSLA), 애널리스트들의 엇갈린 전망 속 2026년 3분기 실적 발표 예정",
-      "snippet": "On October 19, 2026, Tesla Inc (TSLA) is set to release its Q3 2026 earnings report after the market closes. Analysts are keen to see if the company can reverse",
-      "snippet_ko": "2026년 10월 19일, 테슬라(TSLA)는 장 마감 후 2026년 3분기 실적 보고서를 발표할 예정이다. 애널리스트들은 이 회사가 반등할 수 있을지 주목하고 있다.",
-      "symbol": "TSLA",
-      "sentiment_score": 0.1955,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9130823/tesla-tsla-set-to-release-q3-2026-earnings-amidst-mixed-analyst-views",
-      "cross_verified": true,
-      "published_at": "2026-10-20T04:00:53.000000Z"
-    },
-    {
-      "title": "Chip Stocks Rebound Amid AI Spending Concerns: MU, NVDA, and More",
-      "title_ko": "AI 투자 우려 속 반도체주 반등: MU, NVDA 등",
-      "snippet": "On October 19, 2026, investors are reassessing the sustainability of AI spending after a period of heavy selling pressure. Chip stocks, including Micron Technol",
-      "snippet_ko": "2026년 10월 19일, 투자자들은 한동안 이어진 강력한 매도 압력 이후 AI 관련 지출의 지속 가능성을 재평가하고 있다. 마이크론 테크놀로지를 비롯한 반도체 관련주들은",
-      "symbol": "NVDA",
-      "sentiment_score": 0.0987,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9130822/chip-stocks-rebound-amid-ai-spending-concerns-mu-nvda-and-more",
-      "cross_verified": true,
-      "published_at": "2026-10-20T04:00:28.000000Z"
     }
   ]
 }
