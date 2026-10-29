@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-29T05:34:02.529574+00:00",
+  "updated_at": "2026-10-29T12:42:58.392005+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Nucor: Tariff Tailwinds And New Capacity Set Up A Stronger 2027 (NYSE:NUE)",
+      "title_ko": "Nucor: 관세 호재와 신규 생산 능력 확충으로 2027년 더욱 견고한 실적 전망 (NYSE:NUE)",
+      "snippet": "See why Nucor looks poised for FY27 growth as tariffs, new steel capacity, and margin gains support a strong outlook—read the key risks and upside.",
+      "snippet_ko": "관세, 신규 철강 생산 능력, 마진 확대가 긍정적인 전망을 뒷받침함에 따라 Nucor가 2027 회계연도에 성장을 이룰 것으로 보이는 이유를 확인해 보세요. 주요 위험 요인과 상승 여력도 함께 살펴보세요.",
+      "symbol": "",
+      "sentiment_score": 0.5946,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4959195-nucor-tariff-tailwinds-new-capacity-set-up-stronger-2027",
+      "cross_verified": true,
+      "published_at": "2026-10-29T11:56:19.000000Z"
+    },
+    {
+      "title": "FirstEnergy Is A Buy, But Not Quite The Best One (NYSE:FE)",
+      "title_ko": "FirstEnergy는 매수할 만한 종목이지만, 최고의 선택은 아니다 (NYSE:FE)",
+      "snippet": "Regulatory and demographic headwinds persist for FirstEnergy, but management expresses high confidence in project approvals. Read why FE stock is a Buy.",
+      "snippet_ko": "퍼스트에너지(FirstEnergy)는 규제 및 인구 구조적 역풍에 직면해 있지만, 경영진은 프로젝트 승인에 대해 높은 자신감을 보이고 있습니다. FE 주식을 ‘매수’로 추천하는 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.1587,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4959075-firstenergy-q3-buy-but-not-quite-the-best-one",
+      "cross_verified": true,
+      "published_at": "2026-10-29T11:45:37.000000Z"
+    },
     {
       "title": "Sai Pallavi wants her future husband to be a good cook. Ramayana actress shares 5 qualities she values in a life partner",
       "title_ko": "사이 팔라비는 미래의 남편이 요리를 잘하는 사람이길 바란다. 드라마 ‘라마야나’에 출연한 이 여배우는 인생의 동반자에게서 중요하게 여기는 5가지 자질을 밝혔다.",
@@ -1177,33 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9132080/td-cowen-upgrades-blackrock-blk-to-buy-citing-strong-eps-growth-potential",
       "cross_verified": true,
       "published_at": "2026-10-20T16:03:01.000000Z"
-    },
-    {
-      "title": "Mercantile Bank (MBWM) Q3 Earnings Beat Expectations, Highlighting Dividend Sustainability",
-      "title_ko": "머컨타일 은행(MBWM), 3분기 실적 예상치 상회…배당 지속 가능성 부각",
-      "snippet": "On October 20, 2026, Mercantile Bank Corp (MBWM) reported third-quarter non-GAAP earnings per share of $1.42, surpassing analyst estimates by $0.07. The bank's",
-      "snippet_ko": "2026년 10월 20일, 머컨타일 뱅크 코퍼레이션(MBWM)은 3분기 비GAAP 주당 순이익이 1.42달러를 기록해 애널리스트들의 예상치를 0.07달러 상회했다고 발표했다. 이 은행의",
-      "symbol": "",
-      "sentiment_score": 0.5848,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9131181/mercantile-bank-mbwm-q3-earnings-beat-expectations-highlighting-dividend-sustainability",
-      "cross_verified": true,
-      "published_at": "2026-10-20T10:56:00.000000Z"
-    },
-    {
-      "title": "3M (MMM) Shares Rise on Expanded Amazon Deal and Optical Manufacturing Stake",
-      "title_ko": "3M(MMM) 주가, 아마존과의 계약 확대 및 광학 제조 부문 지분 확보 소식에 상승",
-      "snippet": "On October 20, 2026, 3M Co (NYSE: MMM) shares gained 4% following the announcement of an expanded agreement to supply optical connectivity and data center hardw",
-      "snippet_ko": "2026년 10월 20일, 3M Co(NYSE: MMM)는 광학 연결 및 데이터 센터 하드웨어 공급 계약을 확대한다는 발표에 힘입어 주가가 4% 상승했다.",
-      "symbol": "",
-      "sentiment_score": 0.6378,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9131180/3m-mmm-shares-rise-on-expanded-amazon-deal-and-optical-manufacturing-stake",
-      "cross_verified": true,
-      "published_at": "2026-10-20T10:55:41.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Meta: Strong Quarter, Bright Outlook, But What About The Dividend? (NASDAQ:META)",
+      "title_ko": "메타: 호조였던 분기 실적, 밝은 전망, 하지만 배당금은 어떨까? (나스닥:META)",
+      "snippet": "Meta Platforms beat Q3 earnings, but rising AI spending may limit near-term dividend growth. Discover more about META in this detailed update on the stock.",
+      "snippet_ko": "메타 플랫폼스(Meta Platforms)는 3분기 실적이 시장 예상을 상회했으나, AI 관련 지출 증가로 인해 단기적인 배당금 성장세가 제한될 수 있습니다. 이 주식에 대한 상세한 최신 정보를 통해 META에 대해 더 자세히 알아보세요.",
+      "symbol": "META",
+      "sentiment_score": -0.0766,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4958145-meta-strong-quarter-bright-outlook-but-what-about-the-dividend",
+      "cross_verified": true,
+      "published_at": "2026-10-29T11:45:00.000000Z"
+    },
+    {
+      "title": "Alphabet drags on Nasdaq futures as the stock faces a record post-earnings loss",
+      "title_ko": "알파벳이 실적 발표 후 사상 최대의 하락세를 기록하면서 나스닥 선물 지수를 끌어내리고 있다",
+      "snippet": "Concerns rise that the Google-parent is taking a hit from AI competition",
+      "snippet_ko": "구글의 모회사가 AI 경쟁으로 인해 타격을 입고 있다는 우려가 커지고 있다",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.1578,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/29/alphabet-nasdaq-futures-record-post-earnings-loss.html",
+      "cross_verified": true,
+      "published_at": "2026-10-29T11:41:06.000000Z"
+    },
+    {
+      "title": "JPMorgan, Microsoft, Google and 30 Other Companies Object to OKX-ICE Tokenized Stock Trading",
+      "title_ko": "JPMorgan, Microsoft, Google 및 기타 30개 기업, OKX-ICE의 토큰화된 주식 거래에 반대",
+      "snippet": "JPMorgan Chase, Microsoft, Alphabet and 30 other publicly traded companies have formally objected to having their shares traded as blockchain-based tokens on",
+      "snippet_ko": "JPMorgan Chase, Microsoft, Alphabet 및 기타 30개의 상장 기업들이 자사 주식이 블록체인 기반 토큰으로 거래되는 것에 대해 공식적으로 반대 입장을 표명했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2044,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/jpmorgan-microsoft-google-and-30-other-companies-object-to-okx-ice-tokenized-stock-trading/",
+      "cross_verified": true,
+      "published_at": "2026-10-29T11:36:10.000000Z"
+    },
     {
       "title": "Tech Giants Battle for Short-Drama Market Share as Global Markets Face Volatility",
       "title_ko": "세계 시장이 변동성을 겪는 가운데, 기술 대기업들이 단편 드라마 시장 점유율을 놓고 치열한 경쟁을 벌이고 있다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.thehindubusinessline.com/companies/spacex-tesla-boards-study-possible-35-trillion-merger/article71607181.ece",
       "cross_verified": true,
       "published_at": "2026-10-21T11:29:49.000000Z"
-    },
-    {
-      "title": "Anthropic may spend $750 billion on computing costs as IPO plans advance",
-      "title_ko": "안트로픽, 기업공개(IPO) 계획이 진행됨에 따라 컴퓨팅 비용으로 7,500억 달러를 지출할 전망",
-      "snippet": "The artificial intelligence firm had a net loss of $80.7 billion in the first half of 2026",
-      "snippet_ko": "이 인공지능 기업은 2026년 상반기 807억 달러의 순손실을 기록했다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.1779,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/technology/artificial-intelligence/anthropic-may-spend-750-billion-on-computing-costs-as-ipo-plans-advance-126102100107_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-21T03:11:37.000000Z"
-    },
-    {
-      "title": "Global Market Today: Asian shares, US futures rise on AI-trade revival",
-      "title_ko": "오늘의 세계 시장: AI·무역 호재에 힘입어 아시아 증시와 미국 선물 지수 상승",
-      "snippet": "The MSCI Asia Pacific Index climbed 0.6% with shares gaining in South Korea and Japan. The Kospi Index rose 1.9%, rebounding after one of the countrys worst IPO debuts on record.",
-      "snippet_ko": "MSCI 아시아 태평양 지수는 한국과 일본의 주가가 상승함에 따라 0.6% 상승했다. 코스피 지수는 한국 역사상 최악의 기업공개(IPO) 데뷔 사례 중 하나를 기록한 후 반등하며 1.9% 상승했다.",
-      "symbol": "META",
-      "sentiment_score": 0.0845,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-us-futures-rise-on-ai-trade-revival/articleshow/135079128.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-21T01:00:20.000000Z"
-    },
-    {
-      "title": "US Market Update: Major Moves in Stocks Amid Earnings Optimism",
-      "title_ko": "미국 시장 동향: 실적 호조에 힘입어 주요 종목들 큰 폭의 등락",
-      "snippet": "On October 20, 2026, the US stock market exhibited mixed performance, with the Nasdaq slightly down while the Dow Jones surged by 500 points, driven by optimist",
-      "snippet_ko": "2026년 10월 20일, 미국 증시는 혼조세를 보였는데, 나스닥은 소폭 하락한 반면 다우존스는 낙관론에 힘입어 500포인트 급등했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4988,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9132897/us-market-update-major-moves-in-stocks-amid-earnings-optimism",
-      "cross_verified": true,
-      "published_at": "2026-10-20T23:50:26.000000Z"
     }
   ]
 }
