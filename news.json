@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-29T12:42:58.392005+00:00",
+  "updated_at": "2026-10-29T19:28:57.744733+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Avnet: A Compelling Buy Ahead Of Q1 Earnings (NASDAQ:AVT)",
+      "title_ko": "Avnet: 1분기 실적 발표를 앞두고 매력적인 매수 기회 (NASDAQ:AVT)",
+      "snippet": "Why Avnet earns a buy rating: record Q4 sales, rising margins, strong EPS growth, and attractive valuation. Click for more on AVT stock.",
+      "snippet_ko": "Avnet이 ‘매수’ 등급을 받은 이유: 4분기 사상 최대 매출, 마진 확대, 견조한 주당순이익(EPS) 성장, 매력적인 주가 평가. AVT 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.4128,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4959563-avnet-a-compelling-buy-ahead-of-q1-earnings",
+      "cross_verified": true,
+      "published_at": "2026-10-29T18:46:07.000000Z"
+    },
+    {
+      "title": "Plexus forecasts FY2027 revenue growth in the mid- to upper teens and sets new 6.5% to 7% non-GAAP operating margin goal (NASDAQ:PLXS)",
+      "title_ko": "플렉서스(Plexus), 2027 회계연도 매출 성장률을 10%대 중후반으로 전망하며, 비GAAP 기준 영업이익률 목표를 6.5%~7%로 새롭게 설정 (나스닥: PLXS)",
+      "snippet": "Plexus Q4 2026 earnings: record revenue, raised FY2027 growth outlook, and higher margin targets.",
+      "snippet_ko": "플렉서스 2026년 4분기 실적: 사상 최대 매출 달성, 2027 회계연도 성장 전망 상향 조정, 마진 목표치 상향.",
+      "symbol": "",
+      "sentiment_score": 0.3818,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4660650-plexus-forecasts-fy2027-revenue-growth-in-the-mid-to-upper-teens-and-sets-new-6_5-percent-to",
+      "cross_verified": true,
+      "published_at": "2026-10-29T18:42:01.000000Z"
+    },
     {
       "title": "Nucor: Tariff Tailwinds And New Capacity Set Up A Stronger 2027 (NYSE:NUE)",
       "title_ko": "Nucor: 관세 호재와 신규 생산 능력 확충으로 2027년 더욱 견고한 실적 전망 (NYSE:NUE)",
@@ -1177,33 +1201,45 @@
       "url": "https://seekingalpha.com/article/4955565-wall-street-lunch-ual-ceo-says-private-jet-crowd-should-pay-more-tax",
       "cross_verified": true,
       "published_at": "2026-10-20T16:05:00.000000Z"
-    },
-    {
-      "title": "Heartland Express (HTLD) Reports Q3 Results with Revenue Decline and Operating Ratio Improvement",
-      "title_ko": "하트랜드 익스프레스(HTLD), 매출 감소와 영업비율 개선이 나타난 3분기 실적 발표",
-      "snippet": "On October 20, 2026, Heartland Express Inc (NASDAQ: HTLD) released its third-quarter earnings, showing a modest GAAP EPS of $0.01 that missed analyst expectatio",
-      "snippet_ko": "2026년 10월 20일, 하트랜드 익스프레스(Heartland Express Inc, 나스닥: HTLD)는 3분기 실적을 발표했는데, GAAP 기준 주당 순이익(EPS)이 0.01달러로 소폭 증가했으나 애널리스트들의 기대치를 하회했다.",
-      "symbol": "",
-      "sentiment_score": 0.3428,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9132081/heartland-express-htld-reports-q3-results-with-revenue-decline-and-operating-ratio-improvement",
-      "cross_verified": true,
-      "published_at": "2026-10-20T16:03:25.000000Z"
-    },
-    {
-      "title": "TD Cowen Upgrades BlackRock (BLK) to Buy, Citing Strong EPS Growth Potential",
-      "title_ko": "TD 코웬, 강력한 주당순이익(EPS) 성장 잠재력을 근거로 블랙록(BLK)의 투자 등급을 ‘매수’로 상향 조정",
-      "snippet": "On October 20, 2026, TD Cowen upgraded BlackRock Inc (NYSE: BLK) from Hold to Buy, highlighting the asset manager's potential to surpass $100 in earnings per sh",
-      "snippet_ko": "2026년 10월 20일, TD 코웬은 블랙록(BlackRock Inc, NYSE: BLK)에 대한 투자의견을 ‘보유(Hold)’에서 ‘매수(Buy)’로 상향 조정하며, 이 자산운용사의 주당 순이익이 100달러를 넘어설 잠재력을 강조했습니다.",
-      "symbol": "",
-      "sentiment_score": 0.7238,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9132080/td-cowen-upgrades-blackrock-blk-to-buy-citing-strong-eps-growth-potential",
-      "cross_verified": true,
-      "published_at": "2026-10-20T16:03:01.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Alphabet: Search Queries Are Up, But Who's Asking Matters (Rating Downgrade) (GOOGL)",
+      "title_ko": "알파벳: 검색 쿼리는 증가했으나, 누가 검색하느냐가 관건 (신용등급 하향 조정) (GOOGL)",
+      "snippet": "Alphabet Inc. faces slowing search growth, AI-driven query shifts, and rising risk, but Cloud and YouTube stay strong. Click for this GOOGL earnings update.",
+      "snippet_ko": "알파벳(Alphabet Inc.)은 검색 성장세 둔화, AI에 따른 검색어 변화, 그리고 위험 요인의 증가에 직면해 있지만, 클라우드와 유튜브는 여전히 견조한 모습을 보이고 있습니다. GOOGL 실적 업데이트를 보려면 여기를 클릭하세요.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.0258,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4959562-alphabet-search-queries-are-up-but-whos-asking-matters-rating-downgrade",
+      "cross_verified": true,
+      "published_at": "2026-10-29T18:40:52.000000Z"
+    },
+    {
+      "title": "Merck & Co., Inc. (MRK) Q3 2026 Earnings Call Transcript",
+      "title_ko": "머크 앤 컴퍼니(Merck & Co., Inc., MRK) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "Merck & Co., Inc. (MRK) Q3 2026 Earnings Call October 29, 2026 9:00 AM EDTCompany ParticipantsPeter Dannenbaum - Vice President of Investor...",
+      "snippet_ko": "머크 앤 컴퍼니(Merck & Co., Inc., MRK) 2026년 3분기 실적 발표 컨퍼런스 콜, 2026년 10월 29일 오전 9:00 (EDT) 회사 측 참석자: 피터 단넨바움(Peter Dannenbaum) - 투자자 관계 부사장...",
+      "symbol": "MRK",
+      "sentiment_score": 0.3352,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4959407-merck-and-co-inc-mrk-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-29T18:09:05.000000Z"
+    },
+    {
+      "title": "Tech Sector Slump Drags Nasdaq Lower as Earnings Season Hits Fever Pitch",
+      "title_ko": "실적 발표 시즌이 한창인 가운데, 기술주 부진이 나스닥 지수를 끌어내렸다",
+      "snippet": "The U.S. stock market experienced a bifurcated session on Thursday, October 29th, 2026, as a sharp sell-off in mega-cap technology names pressured the broader",
+      "snippet_ko": "2026년 10월 29일 목요일, 미국 증시는 초대형 기술주들의 급격한 매도세가 시장 전반에 압박을 가하면서 혼조세를 보였습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5746,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-sector-slump-drags-nasdaq-lower-as-earnings-season-hits-fever-pitch/73830/",
+      "cross_verified": true,
+      "published_at": "2026-10-29T18:07:17.000000Z"
+    },
     {
       "title": "Meta: Strong Quarter, Bright Outlook, But What About The Dividend? (NASDAQ:META)",
       "title_ko": "메타: 호조였던 분기 실적, 밝은 전망, 하지만 배당금은 어떨까? (나스닥:META)",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9134678/meta-meta-and-tesla-tsla-bullish-sentiment-ahead-of-earnings-reports",
       "cross_verified": true,
       "published_at": "2026-10-21T18:10:41.000000Z"
-    },
-    {
-      "title": "Tokenized stock trading takes off overseas as Goldman, other U.S. companies object",
-      "title_ko": "골드만삭스 등 미국 기업들의 반발 속에서도 해외에서는 토큰화된 주식 거래가 본격화되고 있다",
-      "snippet": "Tokenized stocks are gaining momentum in international markets, even as major U.S. companies are pushing back against efforts to introduce them domestically.",
-      "snippet_ko": "미국 주요 기업들이 국내에서 토큰화된 주식을 도입하려는 움직임에 반대하고 있음에도 불구하고, 국제 시장에서는 토큰화된 주식의 확산세가 가속화되고 있다.",
-      "symbol": "MCD",
-      "sentiment_score": 0.5994,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/21/tokenized-stocks-us-companies-object.html",
-      "cross_verified": true,
-      "published_at": "2026-10-21T12:33:34.000000Z"
-    },
-    {
-      "title": "Merck (MRK) Gains European Commission Approval for KEYTRUDA Combination in Bladder Cancer",
-      "title_ko": "머크(MRK), 방광암 치료용 키트루다 병용 요법에 대해 유럽연합 집행위원회 승인 획득",
-      "snippet": "On October 21, 2026, Merck & Co Inc (NYSE: MRK) announced that the European Commission has approved its anti-PD-1 therapy KEYTRUDA in combination with Padcev fo",
-      "snippet_ko": "2026년 10월 21일, 머크 앤 컴퍼니(Merck & Co Inc, NYSE: MRK)는 유럽연합 집행위원회가 자사의 항-PD-1 치료제 ‘키트루다(KEYTRUDA)’와 ‘파드세브(Padcev)’의 병용 요법을 승인했다고 발표했다.",
-      "symbol": "MRK",
-      "sentiment_score": 0.2514,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9133764/merck-mrk-gains-european-commission-approval-for-keytruda-combination-in-bladder-cancer",
-      "cross_verified": true,
-      "published_at": "2026-10-21T12:25:50.000000Z"
-    },
-    {
-      "title": "SpaceX, Tesla boards study possible $3.5 trillion merger",
-      "title_ko": "스페이스X와 테슬라 이사회, 3조 5천억 달러 규모 합병 가능성 검토",
-      "snippet": "SpaceX and Tesla boards form independent committees to explore a potential $3.5 trillion merger, a blockbuster spanning AI, rockets, and EVs.",
-      "snippet_ko": "스페이스X와 테슬라 이사회가 3조 5천억 달러 규모의 합병 가능성을 검토하기 위해 독립 위원회를 구성했다. 이는 인공지능, 로켓, 전기차 분야를 아우르는 초대형 합병案이다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.4713,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/companies/spacex-tesla-boards-study-possible-35-trillion-merger/article71607181.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-21T11:29:49.000000Z"
     }
   ]
 }
