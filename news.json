@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-29T19:28:57.744733+00:00",
+  "updated_at": "2026-10-29T23:52:14.036677+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Anheuser-Busch InBev SA/NV (BUD) Q3 2026 Earnings Call Transcript",
+      "title_ko": "안호이저-부시 인베브 SA/NV (BUD) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "Anheuser-Busch InBev SA/NV (BUD) Q3 2026 Earnings Call October 29, 2026 9:00 AM EDTCompany ParticipantsMichel Doukeris - Global Chief Executive...",
+      "snippet_ko": "안호이저-부시 인베브 SA/NV (BUD) 2026년 3분기 실적 발표 컨퍼런스 콜, 2026년 10월 29일 오전 9:00 (EDT) 회사 참가자: 미셸 두케리스 - 글로벌 최고경영자...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4959654-anheuser-busch-inbev-sa-nv-bud-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-29T23:28:39.000000Z"
+    },
+    {
+      "title": "Illumina, Inc. (ILMN) Q3 2026 Earnings Call Transcript",
+      "title_ko": "일루미나(Illumina, Inc.) (ILMN) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "Illumina, Inc. (ILMN) Q3 2026 Earnings Call October 29, 2026 4:30 PM EDTCompany ParticipantsConor Noel McNamara - VP of Investor RelationsJacob Thaysen -...",
+      "snippet_ko": "일루미나(Illumina, Inc., ILMN) 2026년 3분기 실적 발표 컨퍼런스 콜, 2026년 10월 29일 오후 4시 30분(EDT) 회사 참가자: 코너 노엘 맥나마라(Conor Noel McNamara) - 투자자 관계 부사장, 제이콥 테이슨(Jacob Thaysen) -...",
+      "symbol": "",
+      "sentiment_score": 0.4037,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4959778-illumina-inc-ilmn-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-29T23:28:33.000000Z"
+    },
     {
       "title": "Avnet: A Compelling Buy Ahead Of Q1 Earnings (NASDAQ:AVT)",
       "title_ko": "Avnet: 1분기 실적 발표를 앞두고 매력적인 매수 기회 (NASDAQ:AVT)",
@@ -1177,33 +1201,45 @@
       "url": "https://seekingalpha.com/news/4654956-m-and-t-bank-corporation-fix-to-flt-pfd-h-declares-0_3515-dividend",
       "cross_verified": true,
       "published_at": "2026-10-20T20:55:52.000000Z"
-    },
-    {
-      "title": "M&T Bank Corporation 7.5% DEP SHS J declares $0.4688 dividend (NYSE:MTB.PR.J)",
-      "title_ko": "M&T Bank Corporation의 7.5% DEP SHS J가 0.4688달러의 배당금을 선언했습니다 (NYSE:MTB.PR.J)",
-      "snippet": "M&T Bank (MTB.PR.J) declares $0.4688 quarterly dividend with 7.4% forward yield; payable Dec 15, ex-div Dec 1.",
-      "snippet_ko": "M&T Bank(MTB.PR.J)는 분기 배당금으로 0.4688달러를 선언했으며, 예상 배당수익률은 7.4%입니다. 배당금은 12월 15일에 지급되며, 배당락일은 12월 1일입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4654954-m-and-t-bank-corporation-7_5-percent-dep-shs-j-declares-0_4688-dividend",
-      "cross_verified": true,
-      "published_at": "2026-10-20T20:55:13.000000Z"
-    },
-    {
-      "title": "Wall Street Lunch: UAL CEO Says Private Jet Crowd Should Pay More Tax (undefined:UAL)",
-      "title_ko": "월스트리트 런치: UAL CEO, 개인 제트기 이용객은 세금을 더 내야 한다고 밝혀 (undefined:UAL)",
-      "snippet": "United Airlines CEO Scott Kirby backs a national wealth tax. ‘Magic: The Gathering’ drives Hasbro beat. OpenAI races to raise $30B ahead of Anthropic IPO.",
-      "snippet_ko": "유나이티드 항공의 스콧 커비 CEO가 전국적인 부유세 도입을 지지했다. ‘매직: 더 개더링’이 해즈브로의 실적 호조를 이끌었다. 오픈AI는 앤트로픽의 기업공개(IPO)를 앞두고 300억 달러 자금 조달에 박차를 가하고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.5574,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4955565-wall-street-lunch-ual-ceo-says-private-jet-crowd-should-pay-more-tax",
-      "cross_verified": true,
-      "published_at": "2026-10-20T16:05:00.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Amazon: Fear Is Back, But I'm Buying The Pullback (NASDAQ:AMZN)",
+      "title_ko": "아마존: 공포가 다시 찾아왔지만, 주가가 조정될 때 매수할 생각이다 (나스닥:AMZN)",
+      "snippet": "Amazon.com, Inc. earnings missed, but AWS growth, AI demand, and long-term upside stand out. Click for this AMZN update and see why I am bullish.",
+      "snippet_ko": "Amazon.com, Inc.의 실적이 기대에 미치지 못했지만, AWS의 성장세, AI 수요, 그리고 장기적인 상승 여력이 두드러집니다. 이 AMZN 관련 최신 소식을 확인하시고 제가 왜 낙관적인지 알아보세요.",
+      "symbol": "AMZN",
+      "sentiment_score": -0.0903,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4959802-amazon-fear-is-back-but-im-buying-the-pullback",
+      "cross_verified": true,
+      "published_at": "2026-10-29T23:30:29.000000Z"
+    },
+    {
+      "title": "We're cutting our Amazon price target after a rough quarter. But it isn't all bad",
+      "title_ko": "어려운 분기를 보낸 후 아마존의 목표 주가를 하향 조정합니다. 하지만 모든 것이 나쁜 것만은 아닙니다.",
+      "snippet": "Amazon on Thursday evening delivered a rare double miss.",
+      "snippet_ko": "아마존은 목요일 저녁, 이례적으로 두 가지 지표를 모두 하회하는 실적을 기록했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.5392,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/investingclub/2026/10/29/were-cutting-our-amazon-price-target-after-a-tough-quarter-but-it-isnt-all-bad.html",
+      "cross_verified": true,
+      "published_at": "2026-10-29T23:08:37.000000Z"
+    },
+    {
+      "title": "US Stock Futures Slide Amid Big Tech Earnings; Chinese Semiconductor Firms Launch Major IPOs",
+      "title_ko": "대형 기술 기업 실적 발표 속 미국 주식 선물 하락…중국 반도체 기업들 대규모 기업공개(IPO) 착수",
+      "snippet": "US stock index futures signaled a sharp opening decline on Thursday as investors reacted to a wave of high-stakes corporate earnings. The Nasdaq 100 futures",
+      "snippet_ko": "목요일 미국 주가 지수 선물은 투자자들이 잇달아 발표된 주요 기업들의 실적에 반응하면서 개장 초반 급락할 조짐을 보였다. 나스닥 100 선물은",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.4541,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/us-stock-futures-slide-amid-big-tech-earnings-chinese-semiconductor-firms-launch-major-ipos/73845/",
+      "cross_verified": true,
+      "published_at": "2026-10-29T22:38:24.000000Z"
+    },
     {
       "title": "Alphabet: Search Queries Are Up, But Who's Asking Matters (Rating Downgrade) (GOOGL)",
       "title_ko": "알파벳: 검색 쿼리는 증가했으나, 누가 검색하느냐가 관건 (신용등급 하향 조정) (GOOGL)",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9133918/the-magnificent-7-are-splitting-apart-heres-whos-winning",
       "cross_verified": true,
       "published_at": "2026-10-21T22:13:15.000000Z"
-    },
-    {
-      "title": "VERSANT Licenses E!'s The Golden Life to Hulu, Boosting Disney's Streaming Content (DIS)",
-      "title_ko": "버산트(VERSANT), E!의 ‘더 골든 라이프’를 훌루(Hulu)에 라이선스 제공… 디즈니(DIS)의 스트리밍 콘텐츠 강화",
-      "snippet": "On October 21, 2026, VERSANT secured a licensing agreement to bring the first season of E!'s reality series The Golden Life to Hulu, a key streaming platform un",
-      "snippet_ko": "2026년 10월 21일, VERSANT는 E!의 리얼리티 시리즈 《The Golden Life》의 첫 시즌을 주요 스트리밍 플랫폼인 Hulu에 방영하기 위한 라이선스 계약을 체결했습니다.",
-      "symbol": "DIS",
-      "sentiment_score": 0.2107,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9134685/versant-licenses-es-the-golden-life-to-hulu-boosting-disneys-streaming-content-dis",
-      "cross_verified": true,
-      "published_at": "2026-10-21T18:26:15.000000Z"
-    },
-    {
-      "title": "Senators Seek Google CEO's Insight on AI Impact on Youth; GOOG Faces Scrutiny",
-      "title_ko": "상원의원들, 인공지능이 청소년에 미치는 영향에 대한 구글 CEO의 견해 청취… GOOG, 면밀한 조사에 직면",
-      "snippet": "On October 21, 2026, U.S. Senators Richard Blum (Trades, Portfolio)enthal and Josh Hawley formally requested information from Alphabet Inc's CEO Sundar Pichai r",
-      "snippet_ko": "2026년 10월 21일, 리처드 블룸(거래, 포트폴리오)엔탈과 조쉬 홀리 미국 상원의원은 알파벳(Alphabet Inc)의 CEO 순다르 피차이에게 공식적으로 정보 제공을 요청했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.315,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9134683/senators-seek-google-ceos-insight-on-ai-impact-on-youth-goog-faces-scrutiny",
-      "cross_verified": true,
-      "published_at": "2026-10-21T18:25:32.000000Z"
-    },
-    {
-      "title": "Meta (META) and Tesla (TSLA) Bullish Sentiment Ahead of Earnings Reports",
-      "title_ko": "실적 발표를 앞둔 메타(META)와 테슬라(TSLA)에 대한 낙관적 전망",
-      "snippet": "On October 21, 2026, following a significant rise in SpaceX's stock post-earnings, bullish sentiment is building for Meta Platforms Inc (META) and Tesla ahead o",
-      "snippet_ko": "2026년 10월 21일, 실적이 발표된 후 스페이스X(SpaceX) 주가가 크게 상승함에 따라, 메타 플랫폼스(META)와 테슬라에 대한 낙관적인 전망이 고조되고 있다.",
-      "symbol": "META",
-      "sentiment_score": 0.4892,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9134678/meta-meta-and-tesla-tsla-bullish-sentiment-ahead-of-earnings-reports",
-      "cross_verified": true,
-      "published_at": "2026-10-21T18:10:41.000000Z"
     }
   ]
 }
