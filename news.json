@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-30T12:34:16.882630+00:00",
+  "updated_at": "2026-10-30T19:06:01.123050+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "BofA Hires Senior Power Banker Manheimer From Morgan Stanley",
+      "title_ko": "BofA, 모건 스탠리 출신의 베테랑 파워 뱅커 맨하이머 영입",
+      "snippet": "Eddie Manheimer is joining Bank of America Corp. as head of global power and utilities investment banking from Morgan Stanley, as the firm invests in senior talent around AI-related energy and infrastructure dealmaking.",
+      "snippet_ko": "뱅크 오브 아메리카(Bank of America Corp.)가 AI 관련 에너지 및 인프라 거래 분야에서 유능한 인재 영입에 나서면서, 에디 만하이머(Eddie Manheimer)가 모건 스탠리(Morgan Stanley)에서 이직해 글로벌 전력 및 유틸리티 투자은행 부문 책임자로 합류한다.",
+      "symbol": "",
+      "sentiment_score": 0.7783,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/bofa-hires-senior-power-banker-manheimer-from-morgan-stanley-11793385102995.html",
+      "cross_verified": true,
+      "published_at": "2026-10-30T18:31:42.000000Z"
+    },
+    {
+      "title": "Cresco Labs Inc. (CRLBF) Shareholder/Analyst Call Prepared Remarks Transcript",
+      "title_ko": "크레스코 랩스(Cresco Labs Inc., CRLBF) 주주·애널리스트 컨퍼런스콜 사전 준비 발언 전문",
+      "snippet": "Cresco Labs Inc. (CRLBF) Shareholder/Analyst Call October 30, 2026 1:00 PM EDTCompany ParticipantsThomas J.",
+      "snippet_ko": "크레스코 랩스(Cresco Labs Inc., CRLBF) 주주·애널리스트 컨퍼런스 콜 2026년 10월 30일 오후 1:00 (EDT) 회사 측 참석자: 토마스 J.",
+      "symbol": "",
+      "sentiment_score": 0.4586,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960402-cresco-labs-inc-crlbf-shareholder-analyst-call-prepared-remarks-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-30T18:19:10.000000Z"
+    },
+    {
+      "title": "MasTec, Inc. (MTZ) Q3 2026 Earnings Call Transcript",
+      "title_ko": "MasTec, Inc. (MTZ) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "MasTec, Inc. (MTZ) Q3 2026 Earnings Call October 30, 2026 9:00 AM EDTCompany ParticipantsAti ModakJose Mas - CEO & DirectorPaul Dimarco - Executive VP...",
+      "snippet_ko": "MasTec, Inc. (MTZ) 2026년 3분기 실적 발표 전화 회의 2026년 10월 30일 오전 9:00 (EDT) 회사 참가자: Ati Modak, Jose Mas - CEO 겸 이사, Paul Dimarco - 전무 부사장...",
+      "symbol": "",
+      "sentiment_score": 0.4329,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960267-mastec-inc-mtz-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-30T18:18:26.000000Z"
+    },
     {
       "title": "EWC: A Lower Tech Weighting Suddenly Seems Very Smart (NYSEARCA:EWC)",
       "title_ko": "EWC: 기술주 비중을 낮춘 전략이 갑자기 매우 현명해 보인다 (NYSEARCA:EWC)",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9133821/philip-morris-international-pm-reports-q3-earnings-beat-dividend-sustainability-in-focus",
       "cross_verified": true,
       "published_at": "2026-10-21T12:59:05.000000Z"
-    },
-    {
-      "title": "NextEra Energy (NEE) Reports Q3 Earnings: Dividend Sustainability in Focus",
-      "title_ko": "넥스트에라 에너지(NEE), 3분기 실적 발표: 배당금 지속 가능성에 주목",
-      "snippet": "On October 21, 2026, NextEra Energy Inc (NYSE: NEE) released its third-quarter financial results, delivering a mixed performance that highlights the company's o",
-      "snippet_ko": "2026년 10월 21일, 넥스트에라 에너지(NextEra Energy Inc, NYSE: NEE)는 3분기 실적을 발표했는데, 이 실적은 회사의 o를 여실히 보여주는 엇갈린 성과를 보였으며...",
-      "symbol": "",
-      "sentiment_score": 0.5566,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9133820/nextera-energy-nee-reports-q3-earnings-dividend-sustainability-in-focus",
-      "cross_verified": true,
-      "published_at": "2026-10-21T12:58:48.000000Z"
-    },
-    {
-      "title": "Ally Financial Inc (ALLY) (Q3 2026) Earnings Call Highlights: Strong EPS Growth, Dividend Hike and Resilient Credit Outlook",
-      "title_ko": "앨리 파이낸셜(Ally Financial Inc, ALLY) (2026년 3분기) 실적 발표 주요 내용: 견조한 주당순이익(EPS) 성장, 배당금 인상 및 탄탄한 신용 전망",
-      "snippet": "Adjusted EPS: $1.34, up 16% year over year.Adjusted Net Revenue: $2.3 billion, up 9% year over year.Net Financing Revenue (excl. OID): $1.8 billion, up 10% year",
-      "snippet_ko": "조정 주당 순이익(EPS): 1.34달러, 전년 동기 대비 16% 증가. 조정 순매출: 23억 달러, 전년 동기 대비 9% 증가. 순금융수익(OID 제외): 18억 달러, 전년 동기 대비 10% 증가",
-      "symbol": "",
-      "sentiment_score": 0.8176,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9133447/ally-financial-inc-ally-q3-2026-earnings-call-highlights-strong-eps-growth-dividend-hike-and-resilient-credit-outlook",
-      "cross_verified": true,
-      "published_at": "2026-10-21T07:00:45.000000Z"
-    },
-    {
-      "title": "Kopin Corporation (KOPN) Discusses the Trillion Dollar AI Interconnect Opportunity and Neural I/O in Next-Generation Data Centers Transcript",
-      "title_ko": "코핀 코퍼레이션(KOPN), 1조 달러 규모의 AI 상호연결 시장 기회와 차세대 데이터 센터의 뉴럴 I/O에 대해 논의한 회의록",
-      "snippet": "Kopin Corporation (KOPN) Discusses the Trillion Dollar AI Interconnect Opportunity and Neural I/O in Next-Generation Data Centers October 20, 2026 11:00 AM...",
-      "snippet_ko": "코핀 코퍼레이션(KOPN), 1조 달러 규모의 AI 상호연결 시장 기회와 차세대 데이터 센터의 뉴럴 I/O에 대해 논의 2026년 10월 20일 오전 11:00...",
-      "symbol": "",
-      "sentiment_score": 0.4215,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4955749-kopin-corporation-kopn-discusses-the-trillion-dollar-ai-interconnect-opportunity-and-neural-i",
-      "cross_verified": true,
-      "published_at": "2026-10-21T06:44:21.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Tech Rout Drags Major Indexes Lower as Semiconductor Sell-Off Intensifies",
+      "title_ko": "반도체 매도세가 거세지면서 기술주 약세가 주요 지수를 끌어내렸다",
+      "snippet": "U.S. equity markets faced significant downward pressure during Friday afternoon trading, as a sharp retreat in the technology sector weighed heavily on the",
+      "snippet_ko": "금요일 오후 거래에서 미국 주식 시장은 기술주 부문의 급격한 하락이 시장에 큰 부담을 주면서 상당한 하락 압력을 받았습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2283,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-rout-drags-major-indexes-lower-as-semiconductor-sell-off-intensifies/73893/",
+      "cross_verified": true,
+      "published_at": "2026-10-30T18:07:16.000000Z"
+    },
+    {
+      "title": "Amazon: Wall Street Hates The Bill, I Like The Price (NASDAQ:AMZN)",
+      "title_ko": "아마존: 월스트리트는 이 법안을 싫어하지만, 나는 주가가 마음에 든다 (나스닥:AMZN)",
+      "snippet": "Amazon.com, Inc. remains a Buy as AWS growth, retail gains, and ad momentum offset capex concerns. Click for this AMZN earnings update.",
+      "snippet_ko": "AWS의 성장세, 소매 부문의 호조, 광고 부문의 상승세가 설비투자(Capex)에 대한 우려를 상쇄함에 따라 Amazon.com, Inc.에 대한 투자의견은 여전히 ‘매수’를 유지합니다. AMZN 실적 업데이트를 보려면 여기를 클릭하세요.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.5436,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960338-amazon-wall-street-hates-the-bill-i-like-the-price",
+      "cross_verified": true,
+      "published_at": "2026-10-30T17:21:48.000000Z"
+    },
+    {
+      "title": "Intel stock plunges 30% as weak PC demand and AI costs trigger global chip selloff",
+      "title_ko": "PC 수요 부진과 AI 관련 비용 증가로 전 세계 반도체 매도세가 이어지며 인텔 주가가 30% 급락했다",
+      "snippet": "Intel shares plunged 30% after the chipmaker issued a weak fourth-quarter revenue forecast and warned of negative cash flow for the year. The warning triggered a global semiconductor selloff, with Nvidia, AMD and other chip stocks declining as weak PC demand and rising AI infrastructure costs weighed on sentiment.",
+      "snippet_ko": "반도체 제조사 인텔이 부진한 4분기 매출 전망을 발표하고 올해 현금 흐름이 마이너스를 기록할 것이라고 경고하자, 인텔 주가는 30% 급락했다. 이 경고로 전 세계 반도체 주식 시장에 매도 물결이 일었고, PC 수요 부진과 AI 인프라 비용 상승이 투자 심리에 부담을 주면서 엔비디아, AMD 등 다른 반도체 관련주들도 하락세를 보였다.",
+      "symbol": "AVGO",
+      "sentiment_score": -0.115,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/intel-plunges-25-as-weak-pc-demand-and-ai-costs-trigger-global-chip-selloff/articleshow/135371230.cms",
+      "cross_verified": true,
+      "published_at": "2026-10-30T17:07:17.000000Z"
+    },
     {
       "title": "Tech scare trade hits Nasdaq futures while crypto reels from its biggest-ever hack",
       "title_ko": "기술주 매도세가 나스닥 선물 시장에 타격을 주는 가운데, 암호화폐 시장은 사상 최대 규모의 해킹 사태로 큰 타격을 입었다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.businessinsider.com/stock-market-today-tech-sell-off-meta-tesla-oil-prices-2026-10",
       "cross_verified": true,
       "published_at": "2026-10-22T14:08:00.000000Z"
-    },
-    {
-      "title": "Meta Platforms: Muse Gives Meta Its First Real AI Revenue Engine (NASDAQ:META)",
-      "title_ko": "메타 플랫폼스: ‘뮤즈’가 메타에 첫 번째 진정한 AI 수익 창출 동력을 제공하다 (나스닥: META)",
-      "snippet": "Meta Platforms is poised for margin-accretive AI monetization with Meta Muse, targeting both consumer and enterprise segments. Learn more about META stock here.",
-      "snippet_ko": "메타 플랫폼스는 소비자 및 기업 부문 모두를 겨냥한 ‘메타 뮤즈(Meta Muse)’를 통해 이익 마진을 높여줄 AI 수익화 전략을 추진할 준비를 마쳤습니다. META 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "META",
-      "sentiment_score": 0.17,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4956261-meta-platforms-muse-gives-meta-its-first-real-ai-revenue-engine",
-      "cross_verified": true,
-      "published_at": "2026-10-22T10:34:27.000000Z"
-    },
-    {
-      "title": "PHP security vulnerabilities prompt website shutdowns across Europe",
-      "title_ko": "PHP 보안 취약점으로 인해 유럽 전역에서 웹사이트 운영이 중단되고 있다",
-      "snippet": "Critical PHP vulnerabilities have prompted website shutdowns across Europe, a US-led response and protective measures from Cloudflare amid reports of early attacks.",
-      "snippet_ko": "PHP의 심각한 취약점으로 인해 유럽 전역에서 웹사이트가 중단되었으며, 초기 공격 사례가 보고되는 가운데 미국이 주도하는 대응 조치와 클라우드플레어의 보호 조치가 취해졌다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.6794,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/info-tech/europe-takes-government-websites-offline-over-critical-php-security-vulnerabilities/article71610290.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-22T06:22:57.000000Z"
-    },
-    {
-      "title": "PHP security flaws: US responds as Europe takes websites offline",
-      "title_ko": "PHP 보안 취약점: 유럽에서 웹사이트 접속 차단 조치에 미국도 대응 나서",
-      "snippet": "Two PHP security flaws have triggered a global alert, with the US coordinating a response, European websites going offline and Cloudflare reporting early attacks.",
-      "snippet_ko": "PHP의 두 가지 보안 결함으로 인해 전 세계적으로 경보가 발령되었으며, 미국은 대응 조치를 조율하고 있고, 유럽의 웹사이트들은 접속이 중단되었으며, 클라우드플레어는 초기 공격 사례를 보고했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.5142,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/info-tech/php-security-flaws-put-70-of-the-internet-at-risk-says-wiz/article71610292.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-22T06:01:29.000000Z"
     }
   ]
 }
