@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-29T23:52:14.036677+00:00",
+  "updated_at": "2026-10-30T05:18:16.145830+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Stock news: Air Canada lowers outlook as fuel costs climb, Teck profits jump",
+      "title_ko": "주식 뉴스: 에어 캐나다, 유류비 상승으로 실적 전망 하향 조정…텍, 이익 급증",
+      "snippet": "Rising fuel costs weigh on Air Canada's outlook, while higher copper and zinc prices lift Teck's profits. Here's what else made headlines this week.",
+      "snippet_ko": "연료비 상승이 에어 캐나다의 전망에 부담을 주는 반면, 구리 및 아연 가격 상승은 테크의 이익을 끌어올리고 있습니다. 이번 주 다른 주요 뉴스는 다음과 같습니다.",
+      "symbol": "",
+      "sentiment_score": 0.6403,
+      "source": "moneysense.ca",
+      "url": "https://www.moneysense.ca/save/investing/stock-news-oct-30-2026/",
+      "cross_verified": true,
+      "published_at": "2026-10-30T04:55:07.000000Z"
+    },
+    {
+      "title": "The Ritz-Carlton, Bali Advances Its Commitment to Responsible Luxury with Green Key Certification",
+      "title_ko": "발리 리츠칼튼, ‘그린 키(Green Key)’ 인증 획득으로 책임 있는 럭셔리에 대한 의지를 다져나가다",
+      "snippet": "/PRNewswire/ -- The Ritz-Carlton, Bali has been awarded Green Key certification, an internationally recognized standard for environmental responsibility and...",
+      "snippet_ko": "/PRNewswire/ -- 발리 리츠칼튼이 환경 책임에 대한 국제적으로 인정받는 기준인 ‘그린 키(Green Key)’ 인증을 획득했으며...",
+      "symbol": "",
+      "sentiment_score": 0.4767,
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/apac/news-releases/the-ritz-carlton-bali-advances-its-commitment-to-responsible-luxury-with-green-key-certification-302924568.html",
+      "cross_verified": true,
+      "published_at": "2026-10-30T04:47:00.000000Z"
+    },
+    {
+      "title": "Hercules Capital, Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:HTGC) 2026-10-30",
+      "title_ko": "Hercules Capital, Inc. 2026년 3분기 실적 - 실적 발표 전화 회의 프레젠테이션 (NYSE:HTGC) 2026-10-30",
+      "snippet": "2026-10-30. The following slide deck was published by Hercules Capital, Inc.",
+      "snippet_ko": "2026년 10월 30일. 다음 슬라이드 자료는 Hercules Capital, Inc.에서 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4959942-hercules-capital-inc-2026-q3-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-10-30T04:07:17.000000Z"
+    },
     {
       "title": "Anheuser-Busch InBev SA/NV (BUD) Q3 2026 Earnings Call Transcript",
       "title_ko": "안호이저-부시 인베브 SA/NV (BUD) 2026년 3분기 실적 발표 전화 회의 기록",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9132937/apple-hospitality-reit-inc-aple-shares-surge-36-what-gf-score-of-84-tells-investors",
       "cross_verified": true,
       "published_at": "2026-10-21T00:12:09.000000Z"
-    },
-    {
-      "title": "A Look at Enphase Energy Inc (ENPH) After 5.2% Gain -- GF Value $52.32 vs Price $32.23",
-      "title_ko": "5.2% 상승 후 엔페이즈 에너지(ENPH) 살펴보기 — GF 목표주가 52.32달러 vs 현재 주가 32.23달러",
-      "snippet": "On October 20, 2026, Enphase Energy Inc (ENPH) shares rose 5.2% today, currently trading at $32.23. The stock has fluctuated within a 52-week range of $25.78 to",
-      "snippet_ko": "2026년 10월 20일, 엔페이즈 에너지(Enphase Energy Inc, ENPH) 주가는 오늘 5.2% 상승하여 현재 32.23달러에 거래되고 있습니다. 이 주식은 지난 52주 동안 25.78달러에서",
-      "symbol": "",
-      "sentiment_score": 0.4911,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9132936/a-look-at-enphase-energy-inc-enph-after-52-gain-gf-value-5232-vs-price-3223",
-      "cross_verified": true,
-      "published_at": "2026-10-21T00:11:07.000000Z"
-    },
-    {
-      "title": "JPMorgan invests $5B in companies critical to US national security",
-      "title_ko": "JPMorgan, 미국 국가 안보에 핵심적인 기업에 50억 달러 투자",
-      "snippet": "JPMorgan Chase invested $5 billion in companies underpinning U.S. national security, supporting defense technology, critical minerals, cybersecurity, AI and quantum computing.",
-      "snippet_ko": "JPMorgan Chase는 미국의 국가 안보를 뒷받침하는 기업들에 50억 달러를 투자하여 방위 기술, 핵심 광물, 사이버 보안, 인공지능 및 양자 컴퓨팅 분야를 지원했다.",
-      "symbol": "",
-      "sentiment_score": 0.713,
-      "source": "foxbusiness.com",
-      "url": "https://www.foxbusiness.com/economy/jpmorgan-invests-5b-companies-critical-us-national-security",
-      "cross_verified": true,
-      "published_at": "2026-10-20T20:59:39.000000Z"
-    },
-    {
-      "title": "M&T Bank Corporation FIX TO FLT PFD H declares $0.3515 dividend (NYSE:MTB.PR.H)",
-      "title_ko": "M&T Bank Corporation의 FIX TO FLT PFD H가 0.3515달러의 배당금을 선언했습니다 (NYSE:MTB.PR.H)",
-      "snippet": "M&T Bank’s MTB.PR.H preferred declares a $0.3515 quarterly dividend. See key dates, yield, and dividend charts—check if you qualify before Dec.",
-      "snippet_ko": "M&T Bank의 MTB.PR.H 우선주는 분기 배당금으로 0.3515달러를 지급한다고 발표했습니다. 주요 일정, 수익률 및 배당금 차트를 확인해 보시고, 12월 이전에 배당금 수령 자격이 되는지 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4654956-m-and-t-bank-corporation-fix-to-flt-pfd-h-declares-0_3515-dividend",
-      "cross_verified": true,
-      "published_at": "2026-10-20T20:55:52.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Markets open flat amid tech sell-off, crude surge; Trent leads Nifty gainers",
+      "title_ko": "기술주 매도세와 원유 가격 급등 속 증시 보합 출발… 트렌트, 니프티 상승 종목 선두",
+      "snippet": "Markets open flat as tech selloff and rising oil temper gains; Trent leads Nifty movers amid mixed global cues.",
+      "snippet_ko": "기술주 매도세와 유가 상승으로 상승세가 주춤한 가운데 시장은 보합세로 개장했다. 세계 증시가 혼조세를 보이는 가운데 트렌트(Trent)가 니프티(Nifty) 상승 종목 중 가장 큰 변동폭을 기록했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.6908,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/markets/markets-open-flat-amid-tech-sell-off-crude-surge-trent-leads-nifty-gainers/article71643564.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-30T04:06:31.000000Z"
+    },
+    {
+      "title": "AI investment: Tech firms take fresh hit as earnings misses fan AI fears",
+      "title_ko": "AI 투자: 실적 부진이 AI에 대한 우려를 부추기며 기술 기업들이 또다시 타격을 입었다",
+      "snippet": "Tech firms were again on the back foot Friday after another round of disappointing earnings from Wall Street titans fanned already deep concerns about the AI investment boom.",
+      "snippet_ko": "월가의 거물 기업들이 또다시 실망스러운 실적을 발표하면서, 이미 깊어지고 있던 인공지능(AI) 투자 붐에 대한 우려를 더욱 부추긴 탓에, 금요일 기술 기업들은 다시 한 번 수세에 몰렸다.",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.8658,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tech-firms-take-fresh-hit-as-earnings-misses-fan-ai-fears/articleshow/135340519.cms",
+      "cross_verified": true,
+      "published_at": "2026-10-30T02:55:57.000000Z"
+    },
+    {
+      "title": "Stock Market LIVE: GIFT Nifty signals negative open; Asia markets tumble on tech shares selloff",
+      "title_ko": "주식 시장 실시간: GIFT Nifty, 하락 출발 신호… 아시아 증시, 기술주 매도세에 급락",
+      "snippet": "Sensex Today | Stock Market LIVE Updates Friday: The GIFT Nifty indicated a negative open for the Nifty50 index. Asian markets were trading lower in early deals",
+      "snippet_ko": "오늘의 센섹스 | 금요일 주식 시장 실시간 업데이트: GIFT Nifty는 Nifty50 지수가 약세로 출발할 것임을 시사했다. 아시아 증시는 장 초반 하락세를 보였다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.1212,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-q2-results-october-30-126103000074_1.html",
+      "cross_verified": true,
+      "published_at": "2026-10-30T02:23:30.000000Z"
+    },
     {
       "title": "Amazon: Fear Is Back, But I'm Buying The Pullback (NASDAQ:AMZN)",
       "title_ko": "아마존: 공포가 다시 찾아왔지만, 주가가 조정될 때 매수할 생각이다 (나스닥:AMZN)",
@@ -2367,42 +2403,6 @@
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-as-oil-rally-ai-concerns-weigh-on-sentiment/articleshow/135103506.cms",
       "cross_verified": true,
       "published_at": "2026-10-22T00:57:04.000000Z"
-    },
-    {
-      "title": "Meta Platforms (META) Reports 3.64 Billion Daily Users Amid Strong Engagement and Muse Launch",
-      "title_ko": "메타 플랫폼스(META), 높은 사용자 참여도와 ‘뮤즈’ 출시 속에 일일 사용자 수 36억 4천만 명 기록",
-      "snippet": "On October 21, 2026, Meta Platforms Inc (NASDAQ: META) announced its family of apps now reaches 3.64 billion daily users, with record engagement on Facebook and",
-      "snippet_ko": "2026년 10월 21일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)는 자사 앱 제품군의 일일 사용자 수가 36억 4천만 명에 달하며, 페이스북에서는 사상 최대의 이용 참여도를 기록했다고 발표했으며,",
-      "symbol": "META",
-      "sentiment_score": 0.872,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9135214/meta-platforms-meta-reports-364-billion-daily-users-amid-strong-engagement-and-muse-launch",
-      "cross_verified": true,
-      "published_at": "2026-10-21T22:28:02.000000Z"
-    },
-    {
-      "title": "AI Stocks Face Challenges, Market Observes Potential Rebound",
-      "title_ko": "AI 관련주, 난관에 직면… 시장에서는 반등 가능성 전망",
-      "snippet": "On October 21, 2026, the market showed signs of recovery after a significant decline in AI-related stocks, but financial expert Jim Cramer cautioned investors a",
-      "snippet_ko": "2026년 10월 21일, AI 관련 주가가 크게 하락한 후 시장이 회복 조짐을 보였으나, 금융 전문가 짐 크레이머는 투자자들에게 다음과 같이 경고했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2477,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9135197/ai-stocks-face-challenges-market-observes-potential-rebound",
-      "cross_verified": true,
-      "published_at": "2026-10-21T22:20:30.000000Z"
-    },
-    {
-      "title": "The Magnificent 7 Are Splitting Apart. Here's Who's Winning",
-      "title_ko": "'위대한 7인'이 뿔뿔이 흩어지고 있다. 승자는 누구일까",
-      "snippet": "Apple Inc. (AAPL, Financials), the iPhone maker, stands out as the most consistent Magnificent Seven performer even as short-term leadership shifts across the g",
-      "snippet_ko": "아이폰 제조사인 애플(Apple Inc., AAPL, 금융업)은 단기적인 주도권이 시장 전반에 걸쳐 바뀌는 상황에서도 ‘매그니피센트 세븐’ 중 가장 꾸준한 실적을 보이는 기업으로 두각을 나타내고 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.8336,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9133918/the-magnificent-7-are-splitting-apart-heres-whos-winning",
-      "cross_verified": true,
-      "published_at": "2026-10-21T22:13:15.000000Z"
     }
   ]
 }
