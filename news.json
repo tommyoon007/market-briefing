@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-30T05:18:16.145830+00:00",
+  "updated_at": "2026-10-30T12:34:16.882630+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "EWC: A Lower Tech Weighting Suddenly Seems Very Smart (NYSEARCA:EWC)",
+      "title_ko": "EWC: 기술주 비중을 낮춘 전략이 갑자기 매우 현명해 보인다 (NYSEARCA:EWC)",
+      "snippet": "Buy iShares MSCI Canada ETF for stable large-cap exposure as rate hikes and high energy prices boost Canadian banks and exports.",
+      "snippet_ko": "금리 인상과 높은 에너지 가격이 캐나다 은행 및 수출 산업에 호재로 작용함에 따라, 안정적인 대형주 투자 기회를 얻기 위해 iShares MSCI Canada ETF를 매수하세요.",
+      "symbol": "",
+      "sentiment_score": 0.0484,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4959936-ewc-a-lower-tech-weighting-suddenly-seems-very-smart",
+      "cross_verified": true,
+      "published_at": "2026-10-30T12:00:00.000000Z"
+    },
+    {
+      "title": "Gilead Sciences Stock: Why I Remain Bullish After Q3 (NASDAQ:GILD)",
+      "title_ko": "길리어드 사이언스 주가: 3분기 실적 발표 후에도 여전히 낙관적인 이유 (NASDAQ:GILD)",
+      "snippet": "Gilead Sciences had a strong Q3, while successfully shifting its R&D focus from HIV to the immunology market. Read why GILD stock is a buy.",
+      "snippet_ko": "길리어드 사이언스는 3분기에 호실적을 기록했으며, 연구개발(R&D)의 초점을 HIV에서 면역학 시장으로 성공적으로 전환했습니다. GILD 주식을 매수해야 하는 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960108-gilead-sciences-why-i-remain-bullish-after-q3",
+      "cross_verified": true,
+      "published_at": "2026-10-30T11:21:30.000000Z"
+    },
+    {
+      "title": "ChoiceOne Financial Services GAAP EPS of $0.97 beats by $0.04, revenue of $45.18M beats by $0.68M (NASDAQ:COFS)",
+      "title_ko": "ChoiceOne Financial Services의 GAAP 주당 순이익(EPS)은 0.97달러로 시장 예상치를 0.04달러 상회했으며, 매출은 4,518만 달러로 시장 예상치를 68만 달러 상회했다 (나스닥: COFS).",
+      "snippet": "ChoiceOne Financial Services press release (COFS): Q3 GAAP EPS of $0.97 beats by $0.04. Revenue of $45.18M (+1.0% Y/Y) beats by $0.68M.",
+      "snippet_ko": "ChoiceOne Financial Services(COFS) 보도자료: 3분기 GAAP 기준 주당 순이익(EPS)은 0.97달러로 시장 예상치를 0.04달러 상회했다. 매출은 4,518만 달러(전년 동기 대비 1.0% 증가)로 시장 예상치를 68만 달러 상회했다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4661326-choiceone-financial-services-gaap-eps-of-0_97-beats-by-0_04-revenue-of-45_18m-beats-by-0_68m",
+      "cross_verified": true,
+      "published_at": "2026-10-30T11:21:16.000000Z"
+    },
     {
       "title": "Stock news: Air Canada lowers outlook as fuel costs climb, Teck profits jump",
       "title_ko": "주식 뉴스: 에어 캐나다, 유류비 상승으로 실적 전망 하향 조정…텍, 이익 급증",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4955749-kopin-corporation-kopn-discusses-the-trillion-dollar-ai-interconnect-opportunity-and-neural-i",
       "cross_verified": true,
       "published_at": "2026-10-21T06:44:21.000000Z"
-    },
-    {
-      "title": "Calix, Inc. (CALX) Analyst/Investor Day Prepared Remarks Transcript",
-      "title_ko": "Calix, Inc. (CALX) 애널리스트·투자자 설명회 사전 준비 발언 전문",
-      "snippet": "Calix, Inc. (CALX) Analyst/Investor Day October 20, 2026 1:00 PM EDTCompany ParticipantsMichael Weening - CEO, President & DirectorJuergen Lindner -...",
-      "snippet_ko": "Calix, Inc. (CALX) 애널리스트·투자자 설명회 2026년 10월 20일 오후 1:00 (EDT) 회사 참석자 마이클 위닝 - CEO, 사장 겸 이사 유르겐 린드너 -...",
-      "symbol": "",
-      "sentiment_score": 0.2263,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4955653-calix-inc-calx-analyst-investor-day-prepared-remarks-transcript",
-      "cross_verified": true,
-      "published_at": "2026-10-21T06:34:05.000000Z"
-    },
-    {
-      "title": "Is It Too Late to Buy Itron Inc (ITRI) After 3.0% Rally? GF Value Says Undervalued",
-      "title_ko": "3.0% 상승세 이후 아이트론(ITRI) 매수는 너무 늦은 걸까? GF 밸류, “저평가됐다”고 분석",
-      "snippet": "On October 20, 2026, Itron Inc (ITRI) shares rose 3.0% today, trading at $84.62 within a 52-week range of $77.77 to $142.00. Despite this positive movement, the",
-      "snippet_ko": "2026년 10월 20일, 아이트론(Itron Inc, ITRI) 주가는 이날 3.0% 상승하여 52주 최고가 142.00달러에서 최저가 77.77달러 사이의 범위 내에서 84.62달러에 거래되었습니다. 이러한 긍정적인 움직임에도 불구하고,",
-      "symbol": "",
-      "sentiment_score": 0.6379,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9132952/is-it-too-late-to-buy-itron-inc-itri-after-30-rally-gf-value-says-undervalued",
-      "cross_verified": true,
-      "published_at": "2026-10-21T00:25:22.000000Z"
-    },
-    {
-      "title": "Apple Hospitality REIT Inc (APLE) Shares Surge 3.6% -- What GF Score of 84 Tells Investors",
-      "title_ko": "애플 호스피탈리티 REIT(APLE) 주가 3.6% 급등 -- GF 점수 84점이 투자자들에게 시사하는 바는?",
-      "snippet": "On October 20, 2026, Apple Hospitality REIT Inc (APLE) shares rose 3.6%, currently trading at $17.82. The stock has experienced significant price movement, with",
-      "snippet_ko": "2026년 10월 20일, 애플 호스피탈리티 REIT Inc(APLE)의 주가는 3.6% 상승하여 현재 17.82달러에 거래되고 있습니다. 이 주식은 상당한 가격 변동을 보였으며,",
-      "symbol": "",
-      "sentiment_score": 0.5394,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9132937/apple-hospitality-reit-inc-aple-shares-surge-36-what-gf-score-of-84-tells-investors",
-      "cross_verified": true,
-      "published_at": "2026-10-21T00:12:09.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Tech scare trade hits Nasdaq futures while crypto reels from its biggest-ever hack",
+      "title_ko": "기술주 매도세가 나스닥 선물 시장에 타격을 주는 가운데, 암호화폐 시장은 사상 최대 규모의 해킹 사태로 큰 타격을 입었다",
+      "snippet": "Amazon and Intel worsen the sell-off with disappointing earnings releases",
+      "snippet_ko": "아마존과 인텔, 기대에 미치지 못한 실적 발표로 주가 폭락세 심화",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2579,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/30/tech-trade-nasdaq-futures-crypto-hack.html",
+      "cross_verified": true,
+      "published_at": "2026-10-30T10:36:55.000000Z"
+    },
+    {
+      "title": "Nasdaq futures tumble over 2% as Amazon, Intel stoke AI spending concerns",
+      "title_ko": "아마존과 인텔이 AI 투자에 대한 우려를 부추기면서 나스닥 선물 지수가 2% 이상 급락했다",
+      "snippet": "U.S. stock futures tumbled as Amazon's rising AI investments and Intel's cash burn warning heightened concerns over infrastructure costs, borrowing expenses and profitability. Technology stocks slumped, while investors reassessed AI valuations, capital expenditure and sustainable returns.",
+      "snippet_ko": "아마존의 AI 투자 확대와 인텔의 현금 소모 경고로 인해 인프라 비용, 차입 비용 및 수익성에 대한 우려가 커지면서 미국 주식 선물 가격이 급락했다. 투자자들이 AI 기업들의 기업 가치, 자본 지출 및 지속 가능한 수익성을 재평가하는 가운데 기술주들이 폭락했다.",
+      "symbol": "AVGO",
+      "sentiment_score": -0.3963,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-futures-tumble-over-2-as-amazon-intel-stoke-ai-spending-concerns/articleshow/135356130.cms",
+      "cross_verified": true,
+      "published_at": "2026-10-30T10:19:18.000000Z"
+    },
+    {
+      "title": "Tech Rout Drags Nasdaq Lower as Intel Plummets; Energy Giants Exxon and Chevron Report Earnings",
+      "title_ko": "인텔 주가 급락으로 기술주 부진이 나스닥 지수를 끌어내리다; 에너지 대기업 엑슨과 셰브론, 실적 발표",
+      "snippet": "The U.S. stock market is facing significant headwinds this Friday, October 30th, 2026, as a sharp sell-off in the technology sector weighs heavily on the",
+      "snippet_ko": "2026년 10월 30일 금요일, 미국 주식 시장은 기술주 부문의 급격한 매도세가 시장에 큰 부담을 주면서 상당한 역풍에 직면해 있습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2836,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-rout-drags-nasdaq-lower-as-intel-plummets-energy-giants-exxon-and-chevron-report-earnings/73867/",
+      "cross_verified": true,
+      "published_at": "2026-10-30T10:07:13.000000Z"
+    },
     {
       "title": "Markets open flat amid tech sell-off, crude surge; Trent leads Nifty gainers",
       "title_ko": "기술주 매도세와 원유 가격 급등 속 증시 보합 출발… 트렌트, 니프티 상승 종목 선두",
@@ -2367,42 +2403,6 @@
       "url": "https://www.thehindubusinessline.com/info-tech/php-security-flaws-put-70-of-the-internet-at-risk-says-wiz/article71610292.ece",
       "cross_verified": true,
       "published_at": "2026-10-22T06:01:29.000000Z"
-    },
-    {
-      "title": "Tiger Brokers Clinches Best Retail Broker in Singapore at SIAS Investors' Choice Awards 2026",
-      "title_ko": "타이거 브로커스, ‘2026 SIAS 투자자 선택상’에서 싱가포르 최고의 소매 중개사 부문 수상",
-      "snippet": "Recognised by the Securities Investors Association (Singapore) with the Best Retail Broker Award, following an evaluation of brokerage firms in Singapore,...",
-      "snippet_ko": "싱가포르 증권투자자협회(Securities Investors Association (Singapore))가 싱가포르 내 증권사들을 평가한 결과, ‘최우수 소매 중개사상’을 수상했으며,...",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3253,
-      "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/apac/news-releases/tiger-brokers-clinches-best-retail-broker-in-singapore-at-sias-investors-choice-awards-2026-302916221.html",
-      "cross_verified": true,
-      "published_at": "2026-10-22T02:00:00.000000Z"
-    },
-    {
-      "title": "Broadcom's M&A Strategy Is A Value Play (NASDAQ:AVGO)",
-      "title_ko": "브로드컴의 M&A 전략은 가치 투자 전략이다 (나스닥: AVGO)",
-      "snippet": "Broadcom's financial health remains strong, with leverage declining post-acquisitions. Click here to find out why I rate AVGO stock a Strong Buy.",
-      "snippet_ko": "브로드컴의 재무 건전성은 여전히 견고하며, 인수 이후 부채 비율이 감소하고 있습니다. 제가 AVGO 주식을 ‘강력 매수’로 평가하는 이유를 알아보려면 여기를 클릭하세요.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.5349,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4956125-broadcom-stock-merger-acquisition-strategy-value-play",
-      "cross_verified": true,
-      "published_at": "2026-10-22T01:33:49.000000Z"
-    },
-    {
-      "title": "Global Market Today: Asian stocks mixed as oil rally, AI concerns weigh on sentiment",
-      "title_ko": "오늘의 세계 시장: 유가 상승과 AI에 대한 우려가 투자 심리에 부담을 주며 아시아 증시는 혼조세를 보임",
-      "snippet": "Contracts for the Nasdaq 100 Index slipped 0.6% and those for the S&P 500 dropped 0.4% in early Asian trading following a split set of results from Tesla Inc. and Meta Platforms Inc. The automakers shares fell 3.1% in post-market trading after cutting its capital-spending forecast. Meta Platforms, however, rose 2% after hours as the company boosted its bet on AI with spending outlook.",
-      "snippet_ko": "테슬라와 메타 플랫폼스의 엇갈린 실적 발표에 따라, 아시아 장 초반 나스닥 100 지수 선물은 0.6% 하락했고, S&P 500 지수 선물은 0.4% 떨어졌다. 테슬라는 자본 지출 전망치를 하향 조정한 후 장 마감 후 거래에서 주가가 3.1% 하락했다. 반면 메타 플랫폼스는 지출 전망을 통해 인공지능(AI) 분야에 대한 투자를 확대함에 따라 장 마감 후 거래에서 주가가 2% 상승했다.",
-      "symbol": "META",
-      "sentiment_score": 0.1779,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-as-oil-rally-ai-concerns-weigh-on-sentiment/articleshow/135103506.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-22T00:57:04.000000Z"
     }
   ]
 }
