@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-31T11:59:58.667466+00:00",
+  "updated_at": "2026-10-31T17:13:39.830802+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "[MI, NV, TX, VA] InTouch Credit Union $100 Referral Bonus",
+      "title_ko": "[미시간, 네바다, 텍사스, 버지니아] InTouch 신용조합 $100 추천 보너스",
+      "snippet": "InTouch Credit Union is offering a $100 referral bonus for both parties when the new member opens a new checking account and completes one of the following…",
+      "snippet_ko": "InTouch Credit Union은 신규 회원이 새 당좌예금 계좌를 개설하고 다음 중 하나를 완료할 경우, 추천인과 추천받은 사람 모두에게 100달러의 추천 보너스를 제공합니다…",
+      "symbol": "",
+      "sentiment_score": 0.7215,
+      "source": "doctorofcredit.com",
+      "url": "https://www.doctorofcredit.com/mi-nv-tx-va-intouch-credit-union-100-referral-bonus-direct-deposit-optional/",
+      "cross_verified": true,
+      "published_at": "2026-10-31T17:00:25.000000Z"
+    },
+    {
+      "title": "India or US, innovation is the only game in town for investors",
+      "title_ko": "인도든 미국이든, 투자자들에게 있어 혁신이 유일한 선택지다",
+      "snippet": "Investors debate India vs US, urging India to boost innovation as profits exist but groundbreaking tech leadership remains scarce.",
+      "snippet_ko": "투자자들은 인도와 미국을 두고 논쟁을 벌이며, 수익성은 있지만 획기적인 기술 리더십은 여전히 부족한 상황에서 인도가 혁신을 강화해야 한다고 촉구하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.7845,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/portfolio/india-or-us-innovation-is-the-only-game-in-town-for-investors/article71650406.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-31T16:15:51.000000Z"
+    },
     {
       "title": "GoDaddy Stock: Sell The Recent Rebound As Growth Slows (Rating Downgrade) (NYSE:GDDY)",
       "title_ko": "GoDaddy 주가: 성장세 둔화로 최근 반등 시 매도 권고 (투자의견 하향 조정) (NYSE:GDDY)",
@@ -1177,33 +1201,57 @@
       "url": "https://seekingalpha.com/article/4956123-coronado-global-resources-inc-codql-q3-2026-earnings-call-transcript",
       "cross_verified": true,
       "published_at": "2026-10-22T02:54:10.000000Z"
-    },
-    {
-      "title": "Texas Capital Bancshares, Inc. (TCBI) Q3 2026 Earnings Call Transcript",
-      "title_ko": "텍사스 캐피탈 뱅크셰어스(TCBI) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "Texas Capital Bancshares, Inc. (TCBI) Q3 2026 Earnings Call October 21, 2026 5:00 PM EDTCompany ParticipantsJocelyn Kukulka - Head of Investor Relations and...",
-      "snippet_ko": "텍사스 캐피탈 뱅크셰어스(TCBI) 2026년 3분기 실적 발표 전화회의, 2026년 10월 21일 오후 5:00 (EDT) 회사 참가자: 조슬린 쿠쿨카 - 투자자 관계 책임자 및...",
-      "symbol": "",
-      "sentiment_score": 0.4375,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4956101-texas-capital-bancshares-inc-tcbi-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-10-22T02:54:06.000000Z"
-    },
-    {
-      "title": "SAP SE (SAP) Q3 2026 Earnings Call Transcript",
-      "title_ko": "SAP SE(SAP) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "SAP SE (SAP) Q3 2026 Earnings Call October 21, 2026 5:00 PM EDTCompany ParticipantsAlexandra Kasper Steiger - Global Head of Investor RelationsChristian...",
-      "snippet_ko": "SAP SE (SAP) 2026년 3분기 실적 발표 컨퍼런스 콜 2026년 10월 21일 오후 5:00 (EDT) 회사 측 참석자: 알렉산드라 카스퍼 슈타이거 - 글로벌 투자자 관계 총괄 크리스티안...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4956103-sap-se-sap-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-10-22T02:54:02.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Stocks started the week with promise but ended in despair. Our take on the big reversal",
+      "title_ko": "주가는 희망적인 분위기로 한 주를 시작했으나 절망 속에 마감했다. 이번 큰 반전에 대한 우리의 분석",
+      "snippet": "Big Tech earnings reignited AI spending fears, sending investors into defensive stocks.",
+      "snippet_ko": "빅테크 기업들의 실적 발표로 인해 AI 관련 지출에 대한 우려가 다시 고조되면서, 투자자들은 방어주 쪽으로 몰렸다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2294,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/investingclub/2026/10/31/stocks-started-the-week-with-promise-but-ended-in-despair.html",
+      "cross_verified": true,
+      "published_at": "2026-10-31T15:37:11.000000Z"
+    },
+    {
+      "title": "Buy Almonty: This Tungsten Champion Is A Potential Winner (NASDAQ:ALM)",
+      "title_ko": "알몬티 매수: 이 텅스텐 업계 선두주자는 유망한 투자 대상이다 (나스닥: ALM)",
+      "snippet": "Almonty Industries is positioned to become the largest Western-aligned tungsten producer as China tightens export controls. Read why ALM stock is a strong buy",
+      "snippet_ko": "중국이 수출 통제를 강화함에 따라 알몬티 인더스트리즈는 서방 진영 최대의 텅스텐 생산 기업이 될 전망입니다. ALM 주식을 강력 매수해야 하는 이유를 확인하세요.",
+      "symbol": "MP",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960621-buy-almonty-this-tungsten-champion-potential-winner",
+      "cross_verified": true,
+      "published_at": "2026-10-31T13:06:59.000000Z"
+    },
+    {
+      "title": "Alphabet: Market Misunderstanding Baffling; Don't Be Fooled (NASDAQ:GOOG)",
+      "title_ko": "알파벳: 시장의 오해는 의아할 따름, 속지 마세요 (나스닥:GOOG)",
+      "snippet": "Alphabet stock is down sharply, but strong margins, cloud growth, and AI investment may support long-term upside. Click to read in detail about the GOOG stock.",
+      "snippet_ko": "알파벳 주가는 급락했으나, 견실한 마진, 클라우드 사업 성장, 그리고 AI 투자가 장기적인 상승세를 뒷받침할 수 있습니다. GOOG 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.1828,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960618-alphabet-market-misunderstanding-baffling-but-do-not-be-fooled",
+      "cross_verified": true,
+      "published_at": "2026-10-31T12:55:40.000000Z"
+    },
+    {
+      "title": "Microsoft Q1: CROCI Says My 'Trim, Not Exit' Thesis Remains Firmly In Place (NASDAQ:MSFT)",
+      "title_ko": "마이크로소프트 1분기 실적: CROCI, “철수(Exit)가 아닌 구조조정(Trim)”이라는 나의 주장이 여전히 확고히 유효하다고 밝혀 (NASDAQ:MSFT)",
+      "snippet": "Microsoft faces near-term upside risks as AI CapEx pressures cash returns and margins. Click to read more about the MSFT stock here.",
+      "snippet_ko": "AI 관련 자본지출(CapEx)이 현금 수익과 마진에 부담을 주면서 마이크로소프트는 단기적으로 상승 압력을 받고 있습니다. MSFT 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "MSFT",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960643-microsoft-q1-croci-says-my-trim-not-exit-thesis-remains-firmly-in-place",
+      "cross_verified": true,
+      "published_at": "2026-10-31T16:07:02.000000Z"
+    },
     {
       "title": "Fears over $828 billion AI capex spending spree help wipe $1 trillion from Nasdaq 100",
       "title_ko": "8,280억 달러 규모의 AI 설비투자 붐에 대한 우려로 나스닥 100 지수가 1조 달러나 증발했다",
@@ -2355,54 +2403,6 @@
       "url": "https://www.wallstreetmojo.com/consensus-mechanism/",
       "cross_verified": true,
       "published_at": "2026-10-23T05:30:00.000000Z"
-    },
-    {
-      "title": "Global Markets Braced for ECB Rate Hike and Tech Sector Realignment",
-      "title_ko": "세계 시장, ECB 금리 인상과 기술주 재편에 대비",
-      "snippet": "The European Central Bank is widely expected to pause its tightening cycle in October before implementing a final 25-basis-point interest rate increase in",
-      "snippet_ko": "유럽중앙은행(ECB)은 10월에 긴축 사이클을 잠시 중단한 뒤, 최종적으로 25베이시스포인트의 금리 인상을 단행할 것으로 널리 예상되고 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.0516,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/global-markets-braced-for-ecb-rate-hike-and-tech-sector-realignment/73474/",
-      "cross_verified": true,
-      "published_at": "2026-10-23T04:38:24.000000Z"
-    },
-    {
-      "title": "OpenAI shifts valuation to $1.25 trillion as funding talks near final stage",
-      "title_ko": "자금 조달 협상이 막바지에 접어들면서 OpenAI의 기업 가치가 1조 2,500억 달러로 상향 조정됐다",
-      "snippet": "The ChatGPT maker shifted the value discussed in the talks by $150 billion, from $1.4 trillion",
-      "snippet_ko": "ChatGPT 개발사는 협상에서 논의된 가치를 1조 4천억 달러에서 1,500억 달러만큼 조정했다.",
-      "symbol": "META",
-      "sentiment_score": 0.2507,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/openai-shifts-valuation-to-1-25-trillion-as-funding-talks-near-final-stage-126102300159_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-23T03:39:54.000000Z"
-    },
-    {
-      "title": "Global Markets Retreat on AI Spending Jitters and Middle East Conflict",
-      "title_ko": "AI 투자에 대한 우려와 중동 분쟁으로 글로벌 시장 하락",
-      "snippet": "Global equity markets faced a severe downturn on Thursday as investors grew skeptical of the returns on massive artificial intelligence investments. The",
-      "snippet_ko": "목요일, 투자자들이 막대한 인공지능 투자에 대한 수익성에 회의적인 태도를 보이면서 전 세계 주식 시장이 심각한 하락세를 겪었다. 이",
-      "symbol": "AAPL",
-      "sentiment_score": 0.1209,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/global-markets-retreat-on-ai-spending-jitters-and-middle-east-conflict/73458/",
-      "cross_verified": true,
-      "published_at": "2026-10-22T21:11:22.000000Z"
-    },
-    {
-      "title": "Earnings Season Intensifies: Tech and Industrial Giants Lead a Cautious Market Session",
-      "title_ko": "실적 발표 시즌 본격화: 기술 및 산업 분야 대기업들이 신중한 시장 분위기를 주도",
-      "snippet": "The U.S. stock market exhibited a cautious tone during Thursday’s session, October 22, 2026, as investors juggled a massive wave of corporate earnings reports",
-      "snippet_ko": "2026년 10월 22일 목요일 장중, 투자자들이 쏟아지는 기업 실적 발표를 주시하면서 미국 증시는 신중한 분위기를 보였다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2579,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/earnings-season-intensifies-tech-and-industrial-giants-lead-a-cautious-market-session/73457/",
-      "cross_verified": true,
-      "published_at": "2026-10-22T21:10:45.000000Z"
     }
   ]
 }
