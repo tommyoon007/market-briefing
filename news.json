@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-31T05:01:04.853260+00:00",
+  "updated_at": "2026-10-31T11:59:58.667466+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "GoDaddy Stock: Sell The Recent Rebound As Growth Slows (Rating Downgrade) (NYSE:GDDY)",
+      "title_ko": "GoDaddy 주가: 성장세 둔화로 최근 반등 시 매도 권고 (투자의견 하향 조정) (NYSE:GDDY)",
+      "snippet": "GoDaddy shares have surged, but slowing growth, AI doubts, debt risk, and rising competition weaken the outlook. Read why GDDY stock is downgraded to a hold.",
+      "snippet_ko": "GoDaddy 주가는 급등했으나, 성장세 둔화, AI에 대한 의구심, 부채 위험, 그리고 치열해지는 경쟁으로 인해 전망이 어두워지고 있습니다. GDDY 주식이 ‘보유(Hold)’로 하향 조정된 이유를 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.3818,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960599-godaddy-sell-recent-rebound-as-growth-slows",
+      "cross_verified": true,
+      "published_at": "2026-10-31T11:09:59.000000Z"
+    },
+    {
+      "title": "Rio Tinto: Commodity Risks Keep Us Neutral (NYSE:RIO)",
+      "title_ko": "리오 틴토: 원자재 리스크로 인해 중립적 전망 유지 (NYSE:RIO)",
+      "snippet": "Rio Tinto gets a reiterated neutral rating as our normalized EBITDA valuation offers only modest upside. Discover more on the RIO stock in this analysis.",
+      "snippet_ko": "리오 틴토(Rio Tinto)에 대해 중립(Neutral) 등급을 재확인합니다. 당사의 정상화 EBITDA 기반 평가에 따르면 상승 여력이 미미하기 때문입니다. 이 분석 보고서에서 RIO 주식에 대한 자세한 내용을 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": -0.2732,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960591-rio-tinto-commodity-risks-keep-us-neutral",
+      "cross_verified": true,
+      "published_at": "2026-10-31T10:54:35.000000Z"
+    },
     {
       "title": "Stepan Company 2026 Q3 - Results - Earnings Call Presentation (NYSE:SCL) 2026-10-30",
       "title_ko": "스테판 컴퍼니 2026년 3분기 - 실적 - 실적 발표회 프레젠테이션 (NYSE:SCL) 2026-10-30",
@@ -1177,33 +1201,57 @@
       "url": "https://seekingalpha.com/article/4956103-sap-se-sap-q3-2026-earnings-call-transcript",
       "cross_verified": true,
       "published_at": "2026-10-22T02:54:02.000000Z"
-    },
-    {
-      "title": "Is It Too Late to Buy Vistra Corp (VST) After 3.9% Rally? GF Value Says Undervalued",
-      "title_ko": "3.9% 상승한 지금, 비스트라 코퍼레이션(VST) 매수는 너무 늦은 걸까? GF 밸류, “저평가됐다”고 분석",
-      "snippet": "On October 21, 2026, Vistra Corp (VST) shares rose 3.9% to a current price of $156.14, reflecting a 52-week range between $132.66 and $203.66. Despite today's p",
-      "snippet_ko": "2026년 10월 21일, 비스트라 코퍼레이션(VST)의 주가는 3.9% 상승하여 현재 156.14달러를 기록했으며, 이는 52주 동안 132.66달러에서 203.66달러 사이의 등락을 보인 것을 반영한 것입니다. 오늘의 주가 변동에도 불구하고",
-      "symbol": "",
-      "sentiment_score": 0.6813,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9135218/is-it-too-late-to-buy-vistra-corp-vst-after-39-rally-gf-value-says-undervalued",
-      "cross_verified": true,
-      "published_at": "2026-10-21T22:29:41.000000Z"
-    },
-    {
-      "title": "Sonoco Products Co (SON) Reports Q3 Revenue Miss Amid Inflation and Drought Challenges",
-      "title_ko": "소노코 프로덕츠(SON), 인플레이션과 가뭄으로 인한 어려움 속에서 3분기 매출 예상치 미달 기록",
-      "snippet": "On October 21, 2026, Sonoco Products Co (NYSE: SON) announced third-quarter revenue of $2 billion, falling short of the expected $2.08 billion. The company cite",
-      "snippet_ko": "2026년 10월 21일, 소노코 프로덕츠(Sonoco Products Co, NYSE: SON)는 3분기 매출이 20억 달러를 기록했다고 발표했으나, 이는 예상치인 20억 8천만 달러에 미치지 못했다. 회사는 그 이유로",
-      "symbol": "",
-      "sentiment_score": -0.0105,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9135215/sonoco-products-co-son-reports-q3-revenue-miss-amid-inflation-and-drought-challenges",
-      "cross_verified": true,
-      "published_at": "2026-10-21T22:28:20.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Fears over $828 billion AI capex spending spree help wipe $1 trillion from Nasdaq 100",
+      "title_ko": "8,280억 달러 규모의 AI 설비투자 붐에 대한 우려로 나스닥 100 지수가 1조 달러나 증발했다",
+      "snippet": "Five tech giants are set to spend as much as $828 billion this year on infrastructure as the AI race eats into cash flow and rattles Wall Street.",
+      "snippet_ko": "AI 경쟁이 현금 흐름을 잠식하고 월가를 뒤흔들면서, 5대 기술 대기업들이 올해 인프라에 최대 8,280억 달러를 지출할 전망이다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3899,
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/10/31/big-tech-ai-capital-spending-spree/",
+      "cross_verified": true,
+      "published_at": "2026-10-31T10:44:00.000000Z"
+    },
+    {
+      "title": "What Moved Markets This Week",
+      "title_ko": "이번 주 시장을 움직인 요인",
+      "snippet": "Major U.S. stock indices fell this week amid a deep tech selloff, with some chip names losing as much as 30%. Read more about this week's major events on Wall Street.",
+      "snippet_ko": "이번 주 미국 주요 주가지수는 기술주 매도세가 거세지면서 하락세를 보였으며, 일부 반도체 관련 종목은 최대 30%까지 떨어졌습니다. 이번 주 월스트리트의 주요 사건들에 대해 자세히 알아보세요.",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.034,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960607-what-moved-markets-this-week",
+      "cross_verified": true,
+      "published_at": "2026-10-31T10:38:44.000000Z"
+    },
+    {
+      "title": "Alphabet Stock: The Worst Day In Its History, And The Cheapest It Has Looked In A While",
+      "title_ko": "알파벳 주가: 사상 최악의 하루, 그리고 최근 들어 가장 저렴해 보이는 수준",
+      "snippet": "Alphabet is rated Buy with a $325 12-month price target, reflecting 15% upside from current levels. Read more on GOOG stock here.",
+      "snippet_ko": "알파벳은 ‘매수’ 등급을 받았으며, 12개월 목표 주가는 325달러로, 현재 주가 대비 15%의 상승 여력을 반영하고 있습니다. GOOG 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.7554,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960568-alphabet-the-worst-day-in-its-history-and-the-cheapest-it-has-looked-in-a-while",
+      "cross_verified": true,
+      "published_at": "2026-10-31T08:19:28.000000Z"
+    },
+    {
+      "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
+      "title_ko": "앤트로픽의 나스닥 상장 과정이 훨씬 더 험난해졌다",
+      "snippet": "Concerning projections from hyperscalers this week punished tech stocks and pushed the Nasdaq to its first three-week losing streak since March.",
+      "snippet_ko": "이번 주 하이퍼스케일러들의 실적 전망 발표로 인해 기술주들이 타격을 입었고, 나스닥 지수는 3월 이후 처음으로 3주 연속 하락세를 기록했다.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.0746,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
+      "cross_verified": true,
+      "published_at": "2026-10-31T11:00:01.000000Z"
+    },
     {
       "title": "Nasdaq bleeds: Faces $2 trillion wipeout in October",
       "title_ko": "나스닥, 큰 타격: 10월 2조 달러 규모 시가총액 증발 위기",
@@ -2355,54 +2403,6 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/earnings-season-intensifies-tech-and-industrial-giants-lead-a-cautious-market-session/73457/",
       "cross_verified": true,
       "published_at": "2026-10-22T21:10:45.000000Z"
-    },
-    {
-      "title": "DraftKings Inc. (DKNG) Presents at NEXTPredict Summit NYC 2026 Transcript",
-      "title_ko": "DraftKings Inc. (DKNG), ‘NEXTPredict Summit NYC 2026’에서 발표: 발표 전문",
-      "snippet": "DraftKings Inc. (DKNG) NEXTPredict Summit NYC 2026 October 22, 2026 2:00 PM EDTCompany ParticipantsJason Robins - Co-Founder, Chairman & CEOConference...",
-      "snippet_ko": "DraftKings Inc. (DKNG) NEXTPredict Summit NYC 2026 2026년 10월 22일 오후 2:00 (EDT) 참가 기업 대표자 제이슨 로빈스 - 공동 창업자, 회장 겸 CEO 컨퍼런스...",
-      "symbol": "DKNG",
-      "sentiment_score": 0.1366,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4956624-draftkings-inc-dkng-presents-at-nextpredict-summit-nyc-2026-transcript",
-      "cross_verified": true,
-      "published_at": "2026-10-22T20:57:59.000000Z"
-    },
-    {
-      "title": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
-      "title_ko": "메타가 저커버그를 캘리포니아에 잔류시키기 위해 체결한 계약이 선거를 앞두고 부유세 논쟁에 불을 지피고 있다",
-      "snippet": "With less than two weeks before the midterm elections, Meta made clear that Mark Zuckerberg is staying in California if the wealth tax passes.",
-      "snippet_ko": "중간선거를 2주도 채 남기지 않은 시점에서, 메타는 부유세가 통과될 경우 마크 저커버그가 캘리포니아에 남을 것임을 분명히 했다.",
-      "symbol": "META",
-      "sentiment_score": -0.296,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
-      "cross_verified": true,
-      "published_at": "2026-10-22T20:37:32.000000Z"
-    },
-    {
-      "title": "Tech and Semiconductors Lead Modest Gains Amid Heavy Earnings Volume",
-      "title_ko": "실적 발표가 쇄도하는 가운데, 기술주와 반도체주가 소폭 상승을 주도했다",
-      "snippet": "The U.S. stock market maintained a cautious but positive trajectory on Thursday, October 22nd, 2026, as investors navigated a dense thicket of corporate",
-      "snippet_ko": "2026년 10월 22일 목요일, 미국 증시는 투자자들이 복잡한 기업 실적 발표를 헤쳐 나가는 가운데 신중하면서도 긍정적인 흐름을 이어갔다.",
-      "symbol": "META",
-      "sentiment_score": 0.204,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-semiconductors-lead-modest-gains-amid-heavy-earnings-volume/73453/",
-      "cross_verified": true,
-      "published_at": "2026-10-22T20:07:14.000000Z"
-    },
-    {
-      "title": "Governments, firms rush to patch PHP flaws as cyberattacks surge globally",
-      "title_ko": "전 세계적으로 사이버 공격이 급증함에 따라 각국 정부와 기업들이 PHP 취약점을 서둘러 보완하고 있다",
-      "snippet": "Governments and companies worldwide are racing to patch critical PHP vulnerabilities as hackers launch millions of attempted attacks, disrupting public services and banking operations.",
-      "snippet_ko": "해커들이 수백만 건의 공격 시도를 감행하며 공공 서비스와 은행 업무에 차질을 빚게 하는 가운데, 전 세계 정부와 기업들이 심각한 PHP 취약점을 패치하기 위해 분주히 움직이고 있다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.25,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/governments-firms-rush-to-patch-php-flaws-as-cyberattacks-surge-globally-126102201717_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-22T18:29:57.000000Z"
     }
   ]
 }
