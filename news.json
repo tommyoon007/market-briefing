@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-31T17:13:39.830802+00:00",
+  "updated_at": "2026-10-31T21:16:41.774181+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Global Markets React to Massive Crypto Breach and Corporate Restructuring",
+      "title_ko": "전 세계 시장, 대규모 암호화폐 해킹 사건과 기업 구조조정에 반응",
+      "snippet": "The cryptocurrency market was sent into a tailspin this week following reports of a $6.3 billion hack targeting Binance (BNB), the world’s largest digital",
+      "snippet_ko": "이번 주, 세계 최대의 디지털 자산 거래소인 바이낸스(BNB)를 대상으로 한 63억 달러 규모의 해킹 사건이 보도되면서 암호화폐 시장이 급락세를 보였다.",
+      "symbol": "",
+      "sentiment_score": 0.1012,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/global-markets-react-to-massive-crypto-breach-and-corporate-restructuring/73940/",
+      "cross_verified": true,
+      "published_at": "2026-10-31T20:38:17.000000Z"
+    },
+    {
+      "title": "Palfinger AG (PLFRF) Q3 2026 Earnings Call Transcript",
+      "title_ko": "Palfinger AG (PLFRF) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "Palfinger AG (PLFRF) Q3 2026 Earnings Call October 27, 2026 8:00 PM EDTCompany ParticipantsAndreas Klauser - CEO & Chairman of the Executive BoardFelix...",
+      "snippet_ko": "Palfinger AG (PLFRF) 2026년 3분기 실적 발표 전화회의 2026년 10월 27일 오후 8:00 (EDT) 회사 참석자 안드레아스 클라우저 - CEO 겸 집행위원회 의장 펠릭스...",
+      "symbol": "",
+      "sentiment_score": 0.5572,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960660-palfinger-ag-plfrf-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-31T18:58:29.000000Z"
+    },
+    {
+      "title": "YPF Sociedad Anónima (YPF) Q3 2026 Earnings Call Transcript",
+      "title_ko": "YPF Sociedad Anónima (YPF) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "YPF Sociedad Anónima (YPF) Q3 2026 Earnings Call October 29, 2026 9:00 AM EDTCompany ParticipantsMargarita Chun - Investor Relations OfficerHoracio Marin -...",
+      "snippet_ko": "YPF Sociedad Anónima (YPF) 2026년 3분기 실적 발표 전화회의 2026년 10월 29일 오전 9:00 (EDT) 회사 참가자 마르가리타 춘 - 투자자 관계 담당자 호라시오 마린 -...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4959693-ypf-sociedad-anonima-ypf-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-10-31T18:38:26.000000Z"
+    },
     {
       "title": "[MI, NV, TX, VA] InTouch Credit Union $100 Referral Bonus",
       "title_ko": "[미시간, 네바다, 텍사스, 버지니아] InTouch 신용조합 $100 추천 보너스",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4956224-kongsberg-automotive-asa-kgauf-q3-2026-earnings-call-transcript",
       "cross_verified": true,
       "published_at": "2026-10-22T11:04:00.000000Z"
-    },
-    {
-      "title": "Workiva Stock: Margins Are A Year Ahead Of Plan, The Stock Isn't (NYSE:WK)",
-      "title_ko": "Workiva 주가: 마진은 계획보다 1년 앞서지만, 주가는 그렇지 않다 (NYSE:WK)",
-      "snippet": "Workiva is a buy, with margin expansion and growth outpacing expectations; 2027 margin targets may be achieved a year early. Read more on WK stock here.",
-      "snippet_ko": "Workiva는 매수 추천 종목으로, 마진 확대와 성장세가 기대치를 상회하고 있으며, 2027년 마진 목표치가 1년 앞당겨 달성될 가능성이 있습니다. WK 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.2009,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4956275-workiva-margins-are-a-year-ahead-of-plan-the-stock-isnt",
-      "cross_verified": true,
-      "published_at": "2026-10-22T11:03:41.000000Z"
-    },
-    {
-      "title": "Essity AB (publ) 2026 Q3 - Results - Earnings Call Presentation (OTCMKTS:ETTYF) 2026-10-22",
-      "title_ko": "Essity AB (publ) 2026년 3분기 실적 - 실적 발표 - 실적 설명회 자료 (OTCMKTS:ETTYF) 2026-10-22",
-      "snippet": "2026-10-22. The following slide deck was published by Essity AB (publ) in conjunction with their 2026 Q3 earnings call.",
-      "snippet_ko": "2026년 10월 22일. 다음 슬라이드 자료는 Essity AB (publ)가 2026년 3분기 실적 발표와 함께 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4956292-essity-ab-publ-2026-q3-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-10-22T11:00:57.000000Z"
-    },
-    {
-      "title": "Coronado Global Resources Inc. (CODQL) Q3 2026 Earnings Call Transcript",
-      "title_ko": "코로나도 글로벌 리소스(Coronado Global Resources Inc., CODQL) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "Coronado Global Resources Inc. (CODQL) Q3 2026 Earnings Call October 21, 2026 7:00 PM EDTCompany ParticipantsBarend Van Der Merwe - CEO & MDSandeep...",
-      "snippet_ko": "코로나도 글로벌 리소스(Coronado Global Resources Inc., CODQL) 2026년 3분기 실적 발표 컨퍼런스 콜, 2026년 10월 21일 오후 7:00 (EDT) 회사 참가자: 바렌드 반 데르 메르베(Barend Van Der Merwe) - CEO 겸 MDS, 산딥(Sandeep)...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4956123-coronado-global-resources-inc-codql-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-10-22T02:54:10.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Alphabet: Noisy Q3 Metrics Meet Outsized Cloud Opportunities - Deep Value Buy (GOOG)",
+      "title_ko": "알파벳: 3분기 실적 지표는 부진했으나 클라우드 분야의 막대한 성장 기회가 기대됨 - 딥 밸류 매수 (GOOG)",
+      "snippet": "Why Alphabet Inc.’s selloff may be a buying opportunity: AI-driven cloud growth, deep value metrics, key risks, and long-term upside. Click for this GOOG update.",
+      "snippet_ko": "알파벳(Alphabet Inc.)의 주가 급락이 매수 기회일 수 있는 이유: AI 주도 클라우드 성장, 높은 가치 지표, 주요 위험 요인, 그리고 장기적인 상승 여력. GOOG 관련 최신 정보를 보려면 여기를 클릭하세요.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.1486,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960433-alphabet-noisy-q3-metrics-meet-outsized-cloud-opportunities-deep-value-buy",
+      "cross_verified": true,
+      "published_at": "2026-10-31T18:00:00.000000Z"
+    },
+    {
+      "title": "What should investors glean from Anthropic’s prospectus?",
+      "title_ko": "투자자들은 앤트로픽의 투자설명서에서 무엇을 파악해야 할까?",
+      "snippet": "Glimpse key takeaways from Anthropic’s IPO prospectus: business model, costs, growth prospects, risks, and potential valuation risks.",
+      "snippet_ko": "Anthropic의 기업공개(IPO) 투자설명서에서 주요 내용을 살펴보세요: 비즈니스 모델, 비용, 성장 전망, 위험 요소, 그리고 잠재적인 기업가치 평가 위험.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.4429,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/portfolio/big-story/what-should-investors-glean-from-anthropics-prospectus/article71646095.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-31T16:58:54.000000Z"
+    },
+    {
+      "title": "What they say on their India plans",
+      "title_ko": "인도 관련 계획에 대해 그들이 말하는 내용",
+      "snippet": "Discover insights from global CXOs on their strategic plans and perspectives regarding India during the latest earnings season.",
+      "snippet_ko": "최근 실적 발표 시즌을 맞아, 전 세계 최고경영진(CXO)들이 인도에 대해 제시한 전략적 계획과 전망에 대한 통찰력을 확인해 보세요.",
+      "symbol": "MA",
+      "sentiment_score": 0.418,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/what-they-say-on-their-india-plans/article71648511.ece",
+      "cross_verified": true,
+      "published_at": "2026-10-31T16:24:17.000000Z"
+    },
     {
       "title": "Stocks started the week with promise but ended in despair. Our take on the big reversal",
       "title_ko": "주가는 희망적인 분위기로 한 주를 시작했으나 절망 속에 마감했다. 이번 큰 반전에 대한 우리의 분석",
@@ -2367,42 +2403,6 @@
       "url": "https://www.cnbc.com/2026/10/23/safe-haven-search-is-on-friday-as-investors-keep-rotating.html",
       "cross_verified": true,
       "published_at": "2026-10-23T11:05:13.000000Z"
-    },
-    {
-      "title": "Tech Resilience and Earnings Anticipation: Stock Market Today, October 23, 2026",
-      "title_ko": "기술주의 회복력과 실적 전망: 2026년 10월 23일 오늘의 주식 시장",
-      "snippet": "The U.S. stock market entered Friday, October 23, 2026, with a cautious but resilient tone as investors balanced a heavy earnings calendar against shifting",
-      "snippet_ko": "2026년 10월 23일 금요일, 미국 증시는 투자자들이 빽빽한 실적 발표 일정과 변화하는 시장 상황을 저울질하는 가운데, 신중한 분위기 속에서도 탄탄한 모습을 보이며 장을 열었다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2585,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-resilience-and-earnings-anticipation-stock-market-today-october-23-2026/73485/",
-      "cross_verified": true,
-      "published_at": "2026-10-23T10:07:16.000000Z"
-    },
-    {
-      "title": "WeShop Opens Share Claims for UK Members on November 23, Marking One Year on Nasdaq",
-      "title_ko": "WeShop, 11월 23일 영국 회원 대상 주식 청구 서비스 개시… 나스닥 상장 1주년 기념",
-      "snippet": "NEW YORK, Oct. 23, 2026 (GLOBE NEWSWIRE) -- WeShop Holdings Limited ('WeShop” or the 'Company”) (NASDAQ: WSHP), the community-owned shopping app on a mission to make shopping more rewarding, today announced that eligible UK members participating in the WeShop ShareBack™ Rewards Plan (the 'ShareBack Plan”) will be able to begin claiming the Company’s Class A ordinary shares on November 23, marking one year since WeShop’s Nasdaq listing.",
-      "snippet_ko": "뉴욕, 2026년 10월 23일 (GLOBE NEWSWIRE) -- WeShop Holdings Limited(이하 ‘WeShop’ 또는 ‘회사’)(NASDAQ: WSHP), 쇼핑을 더욱 보람 있게 만드는 것을 사명으로 하는 커뮤니티 소유의 쇼핑 앱인 WeShop은 오늘, WeShop ShareBack™ 리워드 플랜(이하 ‘ShareBack 플랜’)에 참여하는 자격을 갖춘 영국 회원들이 11월 23일부터 회사의 A종 보통주를 청구할 수 있게 될 것이라고 발표했습니다. 이는 WeShop이 나스닥에 상장된 지 1년이 되는 날입니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.5574,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/weshop-opens-share-claims-for-uk-members-on-november-23-marking-one-year-on-nasdaq/2452605",
-      "cross_verified": true,
-      "published_at": "2026-10-23T09:17:16.000000Z"
-    },
-    {
-      "title": "What It Is, 10 Types, Examples",
-      "title_ko": "정의, 10가지 유형, 예시",
-      "snippet": "Guide to what is Consensus Mechanism. Here, we explain the concept along with its types, examples, advantages & disadvantages.",
-      "snippet_ko": "컨센서스 메커니즘이란 무엇인가에 대한 안내. 여기서는 이 개념에 대해 그 유형, 예시, 장단점과 함께 설명합니다.",
-      "symbol": "INTC",
-      "sentiment_score": 0.0,
-      "source": "wallstreetmojo.com",
-      "url": "https://www.wallstreetmojo.com/consensus-mechanism/",
-      "cross_verified": true,
-      "published_at": "2026-10-23T05:30:00.000000Z"
     }
   ]
 }
