@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-01T08:58:45.928756+00:00",
+  "updated_at": "2026-11-01T16:42:01.828031+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Financial Institutions Stock: Despite Disappointing Q3 Big Picture Compelling(NASDAQ:FISI)",
+      "title_ko": "금융주: 3분기 실적은 실망스러웠으나 전반적인 전망은 매력적(나스닥:FISI)",
+      "snippet": "Financial institutions' Q3 earnings missed, but record net interest income, stable margin, and a loan cash flow outlook support a Buy. Click for more on FISI stock.",
+      "snippet_ko": "금융사들의 3분기 실적은 기대에 미치지 못했으나, 사상 최대의 순이자수익, 안정적인 마진, 그리고 대출 현금 흐름 전망을 고려할 때 ‘매수’ 의견을 유지합니다. FISI 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "",
+      "sentiment_score": 0.1642,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960726-financial-institutions-despite-disappointing-q3-big-picture-still-compelling",
+      "cross_verified": true,
+      "published_at": "2026-11-01T15:47:03.000000Z"
+    },
+    {
+      "title": "Lemonade loses fizz despite high growth",
+      "title_ko": "레모네이드, 높은 성장세에도 기세가 꺾이다",
+      "snippet": "The share price of Israeli digital insurance company fell 6.55% on Fridsay to its lowest level in more than a year.",
+      "snippet_ko": "이스라엘의 한 디지털 보험사의 주가는 금요일 6.55% 하락하며 1년여 만에 최저치를 기록했다.",
+      "symbol": "",
+      "sentiment_score": 0.0348,
+      "source": "en.globes.co.il",
+      "url": "https://en.globes.co.il/en/article-lemonade-loses-fizz-despite-high-growth-1001561619",
+      "cross_verified": true,
+      "published_at": "2026-11-01T15:32:03.000000Z"
+    },
+    {
+      "title": "Brandywine Realty Trust: The Philly Skyline Is Paying Me +10% (NYSE:BDN)",
+      "title_ko": "브랜디와인 리얼티 트러스트: 필라델피아의 스카이라인이 나에게 +10%의 수익을 안겨주고 있다 (NYSE:BDN)",
+      "snippet": "Brandywine Realty Trust looks deeply undervalued as asset sales, debt reduction, and strong office valuations boost upside. Read the full analysis of BDN here.",
+      "snippet_ko": "브랜디와인 리얼티 트러스트는 자산 매각, 부채 감축, 그리고 사무실 자산 가치의 강세가 상승 여력을 높여주면서 주가가 현저히 저평가된 것으로 보입니다. BDN에 대한 전체 분석은 여기에서 확인하세요.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960475-brandywine-realty-trust-philly-skyline-paying-me-10-percent",
+      "cross_verified": true,
+      "published_at": "2026-11-01T15:15:00.000000Z"
+    },
     {
       "title": "Rogers Corporation: The Turnaround Is Now Real, The Valuation Still Isn't (NYSE:ROG)",
       "title_ko": "로저스 코퍼레이션: 실적 회복은 이제 현실이 되었지만, 기업 가치는 여전히 그렇지 않다 (NYSE:ROG)",
@@ -1165,45 +1201,45 @@
       "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/century-next-financial-corporation-reports-3rd-quarter-2026-results/2452407",
       "cross_verified": true,
       "published_at": "2026-10-22T23:32:58.000000Z"
-    },
-    {
-      "title": "SB Financial signals 8%–8.5% 2027 loan growth as it targets a $2B-plus balance sheet (NASDAQ:SBFG)",
-      "title_ko": "SB 파이낸셜, 대차대조표 규모 20억 달러 이상 달성 목표와 함께 2027년 대출 증가율 8%~8.5% 전망 (나스닥:SBFG)",
-      "snippet": "SB Financial Q3 2026 earnings call: loan growth, fee income and margin gains offset higher expenses.",
-      "snippet_ko": "SB 파이낸셜 2026년 3분기 실적 발표: 대출 증가, 수수료 수입 및 마진 확대가 증가한 비용을 상쇄했다.",
-      "symbol": "",
-      "sentiment_score": 0.3818,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4656366-sb-financial-signals-8-percent-8_5-percent-2027-loan-growth-as-it-targets-a-2b-plus-balance",
-      "cross_verified": true,
-      "published_at": "2026-10-22T22:48:23.000000Z"
-    },
-    {
-      "title": "EHI: High Yield And Deep Discount Aren't Enough (NYSE:EHI)",
-      "title_ko": "EHI: 높은 수익률과 큰 할인율만으로는 부족하다 (NYSE:EHI)",
-      "snippet": "Western Asset Global High Income Fund trades at a deep discount with a 15% yield, but rate and leverage risks loom. Read the full CEF analysis here.",
-      "snippet_ko": "웨스턴 애셋 글로벌 하이 인컴 펀드는 15%의 수익률을 기록하며 상당한 할인율로 거래되고 있지만, 금리 및 레버리지 리스크가 도사리고 있습니다. CEF에 대한 전체 분석은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.1439,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4956623-ehi-high-yield-and-deep-discount-arent-enough",
-      "cross_verified": true,
-      "published_at": "2026-10-22T20:13:37.000000Z"
-    },
-    {
-      "title": "[DowJonesToday]Dow Jones Inches Higher Amid Mixed Earnings and Economic Resilience",
-      "title_ko": "[DowJonesToday] 혼조세를 보이는 기업 실적과 경제의 회복력 속에 다우존스 지수 소폭 상승",
-      "snippet": "The Dow Jones Industrial Average (^DJI) was up 11.89 (0.02%) points today, closing at a record level of 52,867.98. This marginal gain reflected a cautious",
-      "snippet_ko": "다우존스 산업평균지수(^DJI)는 오늘 11.89포인트(0.02%) 상승해 사상 최고치인 52,867.98로 장을 마감했다. 이러한 소폭 상승은 신중한",
-      "symbol": "",
-      "sentiment_score": 0.6486,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/dowjonestodaydow-jones-inches-higher-amid-mixed-earnings-and-economic-resilience-2/73455/",
-      "cross_verified": true,
-      "published_at": "2026-10-22T20:09:08.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Wall Street Brunch: Midterms, Jobs And Apple (null:US10Y)",
+      "title_ko": "월스트리트 브런치: 중간선거, 고용 시장, 그리고 애플 (null:US10Y)",
+      "snippet": "Voters head to the polls with odds favoring a Dem sweep. Nonfarm payrolls seen up 65K for October. Apple, AMD and Palantir earnings test battered tech stocks.",
+      "snippet_ko": "민주당 압승 가능성이 높은 가운데 유권자들이 투표소로 향하고 있다. 10월 비농업 부문 고용은 6만5천 명 증가한 것으로 예상된다. 애플, AMD, 팔란티어의 실적 발표가 타격을 입은 기술주들의 향방을 가늠할 전망이다.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.0759,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960724-wall-street-brunch-midterms-jobs-and-apple",
+      "cross_verified": true,
+      "published_at": "2026-11-01T14:45:00.000000Z"
+    },
+    {
+      "title": "From Near Miss To Crown Jewel: The Rise, Reign And Road Ahead For Merck's Keytruda",
+      "title_ko": "아슬아슬한 실패에서 최고의 보석으로: 머크의 ‘키트루다’의 부상, 전성기, 그리고 앞으로의 전망",
+      "snippet": "Every great tale has a beginning, but not every beginning offers a glimpse of the greatness that may lie ahead. Some journeys begin with an uncertain future only to unfold into extraordinary stories.",
+      "snippet_ko": "모든 위대한 이야기에는 시작이 있지만, 모든 시작이 앞으로 펼쳐질 위대함을 엿보게 해주는 것은 아닙니다. 어떤 여정은 불확실한 미래로 시작되지만, 결국은 놀라운 이야기로 펼쳐지기도 합니다.",
+      "symbol": "MRK",
+      "sentiment_score": 0.3246,
+      "source": "rttnews.com",
+      "url": "https://www.rttnews.com/3706877/from-near-miss-to-crown-jewel-the-rise-reign-and-road-ahead-for-merck-s-keytruda.aspx?type=ts",
+      "cross_verified": true,
+      "published_at": "2026-11-01T14:26:16.000000Z"
+    },
+    {
+      "title": "Logical-Invest market investment outlook for November 2026",
+      "title_ko": "2026년 11월 로지컬-인베스트 시장 투자 전망",
+      "snippet": "Logical Invest investment and Tactical Asset Allocation strategies November 2026",
+      "snippet_ko": "로지컬 인베스트의 투자 및 전술적 자산 배분 전략, 2026년 11월",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.9274,
+      "source": "logical-invest.com",
+      "url": "https://logical-invest.com/logical-invest-market-investment-outlook-for-november-2026/",
+      "cross_verified": true,
+      "published_at": "2026-11-01T13:12:09.000000Z"
+    },
     {
       "title": "Market Alert: Bond Investors Sidelined by Midterms; Tudor Quant Spinout Eyes $9B Record",
       "title_ko": "시장 알림: 중간선거 여파로 채권 투자자들 관망세… 튜더 퀀트 분사 기업, 90억 달러 규모 사상 최대 기록 노린다",
@@ -2367,42 +2403,6 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-financials-lead-modest-gains-as-earnings-season-intensifies/73522/",
       "cross_verified": true,
       "published_at": "2026-10-23T21:07:18.000000Z"
-    },
-    {
-      "title": "US Markets Today: Dow ends 600 pts lower as AI doubts persist ahead of Fed meet",
-      "title_ko": "오늘 미국 증시: 연준 회의 앞두고 AI에 대한 의구심이 지속되며 다우지수는 600포인트 하락 마감",
-      "snippet": "US stocks ended lower after a turbulent week as fresh doubts over the AI trade weighed on sentiment. The Dow fell 1.25%, while the S&P 500 and Nasdaq also declined. Investors turned their focus to major earnings from Alphabet, Microsoft and Amazon, along with next weeks Federal Reserve meeting.",
-      "snippet_ko": "AI 관련 주식에 대한 새로운 의구심이 투자 심리를 위축시키면서, 격동의 한 주를 보낸 미국 증시는 하락세로 마감했다. 다우지수는 1.25% 하락했으며, S&P 500 지수와 나스닥 지수도 함께 하락했다. 투자자들은 알파벳, 마이크로소프트, 아마존의 주요 실적 발표와 다음 주 연방준비제도(Fed) 회의에 주목하고 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.128,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-dow-ends-600-pts-lower-as-ai-doubts-persist-ahead-of-fed-meet/articleshow/135155408.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-23T20:23:03.000000Z"
-    },
-    {
-      "title": "Market Stability Prevails as Earnings Season Gains Momentum",
-      "title_ko": "실적 발표 시즌이 본격화되면서 시장 안정세가 이어지고 있다",
-      "snippet": "The U.S. stock market exhibited a sense of cautious optimism on Friday, October 23rd, 2026, as investors navigated a heavy day of corporate earnings and",
-      "snippet_ko": "2026년 10월 23일 금요일, 미국 증시는 투자자들이 기업 실적 발표가 쇄도하는 바쁜 하루를 헤쳐 나가는 가운데 신중한 낙관론을 보였으며,",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.4655,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/market-stability-prevails-as-earnings-season-gains-momentum-2/73518/",
-      "cross_verified": true,
-      "published_at": "2026-10-23T20:07:15.000000Z"
-    },
-    {
-      "title": "Alphabet (GOOGL): Investing Behind AI Demand and TPU Growth",
-      "title_ko": "알파벳(GOOGL): AI 수요와 TPU 성장에 주목한 투자",
-      "snippet": "Broyhill Asset Management, a Charlotte-based firm, issued its third-quarter 2026 investor letter. The letter can be downloaded here.",
-      "snippet_ko": "샬럿에 본사를 둔 브로이힐 자산운용(Broyhill Asset Management)이 2026년 3분기 투자자 서한을 발간했습니다. 해당 서한은 여기에서 다운로드할 수 있습니다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2732,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/alphabet-googl-investing-behind-ai-demand-and-tpu-growth-1858551/",
-      "cross_verified": true,
-      "published_at": "2026-10-23T16:51:49.000000Z"
     }
   ]
 }
