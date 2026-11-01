@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-01T16:42:01.828031+00:00",
+  "updated_at": "2026-11-01T21:54:33.987527+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "CSX (CSX) vs. UNP and NSC: Can New Leadership Turn Efficiency Gains Into Lasting Growth?",
+      "title_ko": "CSX(CSX) 대 UNP 및 NSC: 새로운 경영진이 효율성 향상을 지속적인 성장으로 이어갈 수 있을까?",
+      "snippet": "Is CSX a good stock to buy? We came across a bullish thesis on CSX Corporation on Astute Optics - US’s Substack. In this article, we will summarize the bulls’ thesis on CSX.",
+      "snippet_ko": "CSX는 매수할 만한 주식일까요? 저희는 Astute Optics - US의 Substack에서 CSX Corporation에 대한 낙관적인 분석을 발견했습니다. 이 글에서는 CSX에 대한 낙관론자들의 주장을 요약해 보겠습니다.",
+      "symbol": "",
+      "sentiment_score": 0.7785,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/csx-csx-vs-unp-and-nsc-can-new-leadership-turn-efficiency-gains-into-lasting-growth-1841870/",
+      "cross_verified": true,
+      "published_at": "2026-11-01T19:35:09.000000Z"
+    },
+    {
+      "title": "Analysts: Inflation likely hit 7.7% in Oct",
+      "title_ko": "분석가들: 10월 인플레이션율 7.7%에 달했을 것으로 보인다",
+      "snippet": "INLATION may have accelerated further in October as higher transport, fuel and food costs, coupled with the weakening peso, added to price pressures, economists said, potentially prompting the Bangko Sentral ng Pilipinas (BSP) to raise interest rates again in December.",
+      "snippet_ko": "경제학자들은 10월 들어 운송비, 연료비, 식료품비 상승에 페소화 약세가 더해져 물가 상승 압력이 가중되면서 인플레이션이 더욱 가속화되었을 가능성이 있다고 밝혔으며, 이로 인해 필리핀 중앙은행(BSP)이 12월에 다시 금리를 인상할 수도 있다고 전망했다.",
+      "symbol": "",
+      "sentiment_score": -0.5423,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/11/02/business/top-business/analysts-inflation-likely-hit-77-in-oct/2459022",
+      "cross_verified": true,
+      "published_at": "2026-11-01T19:19:09.000000Z"
+    },
     {
       "title": "Financial Institutions Stock: Despite Disappointing Q3 Big Picture Compelling(NASDAQ:FISI)",
       "title_ko": "금융주: 3분기 실적은 실망스러웠으나 전반적인 전망은 매력적(나스닥:FISI)",
@@ -1177,33 +1201,45 @@
       "url": "https://www.business-standard.com/world-news/france-steps-up-security-deploys-military-to-contain-fresh-protests-126102300373_1.html",
       "cross_verified": true,
       "published_at": "2026-10-23T05:35:39.000000Z"
-    },
-    {
-      "title": "Mullen Group Ltd. (MTL:CA) Q3 2026 Earnings Call Transcript",
-      "title_ko": "Mullen Group Ltd. (MTL:CA) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "Mullen Group Ltd. (MTL:CA) Q3 2026 Earnings Call October 22, 2026 10:00 AM EDTCompany ParticipantsMurray Mullen - Chairman & Senior Executive...",
-      "snippet_ko": "Mullen Group Ltd. (MTL:CA) 2026년 3분기 실적 발표 전화회의 2026년 10월 22일 오전 10:00 (EDT) 회사 참가자: Murray Mullen - 회장 겸 최고경영자...",
-      "symbol": "",
-      "sentiment_score": 0.3592,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4956487-mullen-group-ltd-mtl-ca-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-10-22T23:37:33.000000Z"
-    },
-    {
-      "title": "Century Next Financial Corporation Reports 3rd Quarter 2026 Results",
-      "title_ko": "센추리 넥스트 파이낸셜 코퍼레이션, 2026년 3분기 실적 발표",
-      "snippet": "RUSTON, La., Oct. 22, 2026 (GLOBE NEWSWIRE) --",
-      "snippet_ko": "루스턴(루이지애나주), 2026년 10월 22일 (GLOBE NEWSWIRE) --",
-      "symbol": "",
-      "sentiment_score": 0.185,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/century-next-financial-corporation-reports-3rd-quarter-2026-results/2452407",
-      "cross_verified": true,
-      "published_at": "2026-10-22T23:32:58.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Weekend Market Report- 11/1/26-Tech Wreck",
+      "title_ko": "주말 시장 보고서 - 11/1/26 - 기술주 폭락",
+      "snippet": "It was a rough week for anything tied to the AI trade, and Friday made sure the damage stuck. The major indexes finished lower, but the real story was the split under the surface: a handful of large technology names got punished while the rest of the market largely held…",
+      "snippet_ko": "AI 관련 종목 전반에 걸쳐 힘든 한 주였으며, 금요일 장은 이러한 타격이 고착화되도록 만들었습니다. 주요 지수는 하락세로 마감했지만, 진짜 핵심은 표면 아래에서 드러난 양극화 현상이었습니다. 소수의 대형 기술주들이 큰 타격을 입은 반면, 나머지 시장은 대체로 선방하는 모습을 보였습니다…",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.3463,
+      "source": "upsidetrader.com",
+      "url": "https://www.upsidetrader.com/2026/11/01/weekend-market-report-11-1-26/",
+      "cross_verified": true,
+      "published_at": "2026-11-01T18:59:17.000000Z"
+    },
+    {
+      "title": "Alphabet: This Isn't Time To Buy The Dip (Rating Downgrade) (NASDAQ:GOOGL)",
+      "title_ko": "알파벳: 지금은 주가가 하락했을 때 매수할 때가 아니다 (투자의견 하향 조정) (나스닥:GOOGL)",
+      "snippet": "Alphabet cut to hold after a steep post-earnings drop as Search growth slows and AI monetization risks rise.",
+      "snippet_ko": "알파벳은 검색 부문 성장세가 둔화되고 AI 수익화 리스크가 높아지면서 실적 발표 후 급락한 뒤 ‘보유’ 등급으로 하향 조정됐다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960730-alphabet-not-time-to-buy-dip-rating-downgrade",
+      "cross_verified": true,
+      "published_at": "2026-11-01T16:34:32.000000Z"
+    },
+    {
+      "title": "Intel Stock: PC Demand Destruction Meets AI Supply Headwinds Profit Taking (NASDAQ:INTC)",
+      "title_ko": "인텔 주가: PC 수요 감소와 AI 공급 차질이 겹치며 이익 실현 매물 증가 (나스닥:INTC)",
+      "snippet": "Intel faces prolonged PC demand weakness, server CPU share pressure, and FY2027 cash flow risks.",
+      "snippet_ko": "인텔은 장기화되는 PC 수요 부진, 서버용 CPU 시장 점유율 압박, 그리고 2027 회계연도 현금 흐름 위험에 직면해 있다.",
+      "symbol": "INTC",
+      "sentiment_score": -0.3027,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960729-intel-pc-demand-destruction-meets-ai-supply-headwinds-profit-taking-continues",
+      "cross_verified": true,
+      "published_at": "2026-11-01T16:28:56.000000Z"
+    },
     {
       "title": "Wall Street Brunch: Midterms, Jobs And Apple (null:US10Y)",
       "title_ko": "월스트리트 브런치: 중간선거, 고용 시장, 그리고 애플 (null:US10Y)",
@@ -2367,42 +2403,6 @@
       "url": "https://www.thehindubusinessline.com/info-tech/apples-iphone-duo-hits-stores-in-face-of-short-supply-and-high-demand/article71619030.ece",
       "cross_verified": true,
       "published_at": "2026-10-24T05:27:39.000000Z"
-    },
-    {
-      "title": "SpaceX’s $40 billion AI debt plan faces market turmoil. Can investors stomach the growing borrowing risks?",
-      "title_ko": "스페이스X의 400억 달러 규모 AI 부채 계획이 시장 혼란에 직면했다. 투자자들은 점점 커지는 차입 위험을 감당할 수 있을까?",
-      "snippet": "SpaceX’s efforts to finalize a $40 billion off-balance-sheet debt structure for its artificial intelligence buildout have been roiled by recent market turmoil that’s driven up sector-wide borrowing costs and complicated price talks.",
-      "snippet_ko": "스페이스X가 인공지능 인프라 확충을 위해 400억 달러 규모의 대차대조표 외 부채 구조를 확정하려는 노력은, 최근 시장 혼란으로 인해 업종 전반의 차입 비용이 상승하고 가격 협상이 복잡해지면서 차질을 빚고 있다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.0681,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/news/spacexs-40-billion-ai-debt-plan-faces-market-turmoil-can-investors-stomach-the-growing-borrowing-risks-11792809682686.html",
-      "cross_verified": true,
-      "published_at": "2026-10-24T02:52:14.000000Z"
-    },
-    {
-      "title": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
-      "title_ko": "네오클라우드 업체들이 압박을 받고, 신용 리스크가 커지며, 솔리디그(Solidigm)가 기업공개(IPO)를 철회함에 따라 AI 인프라 확충에 혼란이 닥쳤다.",
-      "snippet": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
-      "snippet_ko": "이번 주 주가 폭락, 기업공개(IPO) 취소, 신용부도스왑(CDS) 스프레드 확대 등이 하이퍼스케일러 기업들의 실적 발표를 앞두고 분위기를 조성하고 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2734,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
-      "cross_verified": true,
-      "published_at": "2026-10-23T22:49:04.000000Z"
-    },
-    {
-      "title": "Tech and Financials Lead Modest Gains as Earnings Season Intensifies",
-      "title_ko": "실적 발표 시즌이 본격화되면서 기술주와 금융주가 소폭 상승을 주도했다",
-      "snippet": "U.S. equity markets showed resilience on Friday, October 23rd, 2026, as investors navigated a heavy slate of corporate earnings and monitored shifting",
-      "snippet_ko": "2026년 10월 23일 금요일, 미국 주식 시장은 투자자들이 잇따른 기업 실적 발표를 주시하고 변화하는 시장을 지켜보는 가운데 탄력적인 모습을 보였다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.0436,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-financials-lead-modest-gains-as-earnings-season-intensifies/73522/",
-      "cross_verified": true,
-      "published_at": "2026-10-23T21:07:18.000000Z"
     }
   ]
 }
