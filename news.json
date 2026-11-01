@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-31T21:16:41.774181+00:00",
+  "updated_at": "2026-11-01T00:51:58.232018+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Matsui Securities Co., Ltd. 2027 Q2 - Results - Earnings Call Presentation (OTCMKTS:MAUSY) 2026-10-31",
+      "title_ko": "마츠이 증권 주식회사 2027년 2분기 - 실적 - 실적 발표회 프레젠테이션 (OTCMKTS:MAUSY) 2026-10-31",
+      "snippet": "2026-10-31. The following slide deck was published by Matsui Securities Co., Ltd.",
+      "snippet_ko": "2026년 10월 31일. 다음 슬라이드 자료는 마츠이 증권 주식회사에서 발간한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960684-matsui-securities-co-ltd-2027-q2-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-10-31T23:17:20.000000Z"
+    },
+    {
+      "title": "Central Japan Railway Company 2027 Q2 - Results - Earnings Call Presentation (OTCMKTS:CJPRY) 2026-10-31",
+      "title_ko": "센트럴 재팬 철도(Central Japan Railway Company) 2027년 2분기 실적 - 실적 발표 - 실적 설명회 자료 (OTCMKTS:CJPRY) 2026-10-31",
+      "snippet": "2026-10-31. The following slide deck was published by Central Japan Railway Company in conjunction with their 2027 Q2 earnings call.",
+      "snippet_ko": "2026년 10월 31일. 다음 슬라이드 자료는 중앙일본철도주식회사가 2027년 2분기 실적 발표와 함께 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960683-central-japan-railway-company-2027-q2-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-10-31T23:16:06.000000Z"
+    },
+    {
+      "title": "Federal National Mortgage Association 2026 Q3 - Results - Earnings Call Presentation (OTCMKTS:FNMA) 2026-10-31",
+      "title_ko": "연방국민주거담보협회(Federal National Mortgage Association) 2026년 3분기 실적 - 실적 발표 전화회의 프레젠테이션 (OTCMKTS:FNMA) 2026-10-31",
+      "snippet": "2026-10-31. The following slide deck was published by Federal National Mortgage Association in conjunction with their 2026 Q3 earnings call.",
+      "snippet_ko": "2026년 10월 31일. 다음 슬라이드 자료는 연방국민주택모기지협회(Federal National Mortgage Association)가 2026년 3분기 실적 발표와 함께 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960682-federal-national-mortgage-association-2026-q3-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-10-31T23:15:47.000000Z"
+    },
     {
       "title": "Global Markets React to Massive Crypto Breach and Corporate Restructuring",
       "title_ko": "전 세계 시장, 대규모 암호화폐 해킹 사건과 기업 구조조정에 반응",
@@ -1165,45 +1201,21 @@
       "url": "https://seekingalpha.com/article/4956483-att-investors-still-boiling-alive",
       "cross_verified": true,
       "published_at": "2026-10-22T16:21:05.000000Z"
-    },
-    {
-      "title": "Valley National Bancorp (VLY) Q3 2026 Earnings Call Transcript",
-      "title_ko": "밸리 내셔널 뱅크코프(VLY) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "Valley National Bancorp (VLY) Q3 2026 Earnings Call October 22, 2026 8:30 AM EDTCompany ParticipantsAndrew Jianette - Investor Relations ExecutiveIra...",
-      "snippet_ko": "밸리 내셔널 뱅크코프(VLY) 2026년 3분기 실적 발표 전화회의, 2026년 10월 22일 오전 8시 30분(EDT) 회사 참가자: 앤드류 지아네트 - 투자자 관계 담당 임원, 아이라...",
-      "symbol": "",
-      "sentiment_score": 0.4531,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4956407-valley-national-bancorp-vly-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-10-22T16:17:27.000000Z"
-    },
-    {
-      "title": "Clicks Group Limited (CLCGY) Q4 2026 Earnings Call Transcript",
-      "title_ko": "클릭스 그룹 리미티드(CLCGY) 2026년 4분기 실적 발표 전화 회의 기록",
-      "snippet": "Clicks Group Limited (CLCGY) Q4 2026 Earnings Call October 22, 2026 6:00 AM EDTCompany ParticipantsBertina Engelbrecht - CEO & Executive DirectorGordon...",
-      "snippet_ko": "클릭스 그룹 리미티드(CLCGY) 2026년 4분기 실적 발표 전화회의 2026년 10월 22일 오전 6:00 (EDT) 회사 참가자 베르티나 엥겔브레히트 - CEO 겸 집행이사 고든...",
-      "symbol": "",
-      "sentiment_score": 0.2742,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4956523-clicks-group-limited-clcgy-q4-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-10-22T16:17:17.000000Z"
-    },
-    {
-      "title": "Kongsberg Automotive ASA (KGAUF) Q3 2026 Earnings Call Transcript",
-      "title_ko": "콩스베르그 오토모티브 ASA (KGAUF) 2026년 3분기 실적 발표 회의록",
-      "snippet": "Kongsberg Automotive ASA (KGAUF) Q3 2026 Earnings Call October 22, 2026 3:00 AM EDTCompany ParticipantsTherese Skurdal - Director Group Marketing...",
-      "snippet_ko": "콩스베르그 오토모티브 ASA (KGAUF) 2026년 3분기 실적 발표 전화회의, 2026년 10월 22일 오전 3:00 (EDT) 회사 참가자 테레세 스쿠르달 - 그룹 마케팅 이사...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4956224-kongsberg-automotive-asa-kgauf-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-10-22T11:04:00.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Here’s Why Janus Henderson is Bullish On Meta Platforms, Inc. (META)",
+      "title_ko": "자누스 헨더슨이 메타 플랫폼스(META)에 대해 낙관적인 전망을 내놓는 이유는 다음과 같습니다.",
+      "snippet": "Janus Henderson, an investment management company, released its \"Global Sustainable Equity Fund \" Q3 2026 investor letter. A copy of the letter can be downloaded here.",
+      "snippet_ko": "투자 운용사인 야누스 헨더슨(Janus Henderson)이 “글로벌 지속가능 주식 펀드(Global Sustainable Equity Fund)”의 2026년 3분기 투자자 서한을 발표했습니다. 해당 서한의 사본은 여기에서 다운로드할 수 있습니다.",
+      "symbol": "META",
+      "sentiment_score": 0.0,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/heres-why-janus-henderson-is-bullish-on-meta-platforms-inc-meta-1860394/",
+      "cross_verified": true,
+      "published_at": "2026-10-31T21:20:34.000000Z"
+    },
     {
       "title": "Alphabet: Noisy Q3 Metrics Meet Outsized Cloud Opportunities - Deep Value Buy (GOOG)",
       "title_ko": "알파벳: 3분기 실적 지표는 부진했으나 클라우드 분야의 막대한 성장 기회가 기대됨 - 딥 밸류 매수 (GOOG)",
@@ -2391,18 +2403,6 @@
       "url": "https://www.cnbc.com/investingclub/2026/10/23/what-we-want-to-see-when-this-data-center-stock-reports-earnings-next-week.html",
       "cross_verified": true,
       "published_at": "2026-10-23T16:15:59.000000Z"
-    },
-    {
-      "title": "Safe haven search is on Friday as investors keep rotating",
-      "title_ko": "투자자들이 계속해서 포트폴리오를 재조정함에 따라 금요일에는 안전자산 매수세가 이어지고 있다",
-      "snippet": "Here are the key things investors need to know to start the trading day.",
-      "snippet_ko": "오늘 장을 시작하기 전에 투자자들이 꼭 알아야 할 주요 사항들은 다음과 같습니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4175,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/23/safe-haven-search-is-on-friday-as-investors-keep-rotating.html",
-      "cross_verified": true,
-      "published_at": "2026-10-23T11:05:13.000000Z"
     }
   ]
 }
