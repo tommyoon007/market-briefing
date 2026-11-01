@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-01T00:51:58.232018+00:00",
+  "updated_at": "2026-11-01T08:58:45.928756+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Rogers Corporation: The Turnaround Is Now Real, The Valuation Still Isn't (NYSE:ROG)",
+      "title_ko": "로저스 코퍼레이션: 실적 회복은 이제 현실이 되었지만, 기업 가치는 여전히 그렇지 않다 (NYSE:ROG)",
+      "snippet": "Rogers Corporation (ROG) delivered strong 3Q results, with revenue up nearly double digits and EPS up over 54% YoY.",
+      "snippet_ko": "로저스 코퍼레이션(ROG)은 3분기 실적이 호조를 보였으며, 매출은 두 자릿수에 가까운 증가율을 기록했고 주당순이익(EPS)은 전년 동기 대비 54% 이상 증가했습니다.",
+      "symbol": "",
+      "sentiment_score": -0.2384,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960700-rogers-corporation-the-turnaround-is-now-real-the-valuation-still-isnt",
+      "cross_verified": true,
+      "published_at": "2026-11-01T05:13:24.000000Z"
+    },
     {
       "title": "Matsui Securities Co., Ltd. 2027 Q2 - Results - Earnings Call Presentation (OTCMKTS:MAUSY) 2026-10-31",
       "title_ko": "마츠이 증권 주식회사 2027년 2분기 - 실적 - 실적 발표회 프레젠테이션 (OTCMKTS:MAUSY) 2026-10-31",
@@ -1189,21 +1201,33 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/dowjonestodaydow-jones-inches-higher-amid-mixed-earnings-and-economic-resilience-2/73455/",
       "cross_verified": true,
       "published_at": "2026-10-22T20:09:08.000000Z"
-    },
-    {
-      "title": "AT&T Investors Are Still Boiling Alive (NYSE:T)",
-      "title_ko": "AT&T 투자자들은 여전히 고통 속에 있다 (NYSE:T)",
-      "snippet": "AT&T tops earnings, but fiber pricing pressure, rising debt, and weak growth cloud the outlook. Read the latest analysis on the stock here.",
-      "snippet_ko": "AT&T는 실적이 호조를 보였으나, 광섬유 요금에 대한 압박, 부채 증가, 성장세 둔화 등으로 인해 전망이 불투명해졌습니다. 이 종목에 대한 최신 분석은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.3818,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4956483-att-investors-still-boiling-alive",
-      "cross_verified": true,
-      "published_at": "2026-10-22T16:21:05.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Market Alert: Bond Investors Sidelined by Midterms; Tudor Quant Spinout Eyes $9B Record",
+      "title_ko": "시장 알림: 중간선거 여파로 채권 투자자들 관망세… 튜더 퀀트 분사 기업, 90억 달러 규모 사상 최대 기록 노린다",
+      "snippet": "Fixed income investors are halting fresh trades as the US prepares for midterm elections that could redefine federal spending and AI regulation. Major fund",
+      "snippet_ko": "미국이 연방 지출과 AI 규제를 재정의할 수 있는 중간선거를 앞두고 있는 가운데, 채권 투자자들은 신규 거래를 중단하고 있다. 주요 펀드",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2023,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/market-alert-bond-investors-sidelined-by-midterms-tudor-quant-spinout-eyes-9b-record/73950/",
+      "cross_verified": true,
+      "published_at": "2026-11-01T06:08:28.000000Z"
+    },
+    {
+      "title": "Intel Erupts, And It's About Time (NASDAQ:INTC)",
+      "title_ko": "인텔이 급등, 드디어 때가 왔다 (나스닥: INTC)",
+      "snippet": "Intel (INTC) is down 35% since my last analysis, now trading near fair value but not yet a Buy.",
+      "snippet_ko": "인텔(INTC)은 제가 지난번 분석을 발표한 이후 35% 하락했으며, 현재 적정 가치 수준 근처에서 거래되고 있지만 아직 ‘매수’ 추천 단계는 아닙니다.",
+      "symbol": "INTC",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960702-intel-erupts-and-its-about-time",
+      "cross_verified": true,
+      "published_at": "2026-11-01T05:42:00.000000Z"
+    },
     {
       "title": "Here’s Why Janus Henderson is Bullish On Meta Platforms, Inc. (META)",
       "title_ko": "자누스 헨더슨이 메타 플랫폼스(META)에 대해 낙관적인 전망을 내놓는 이유는 다음과 같습니다.",
@@ -2379,30 +2403,6 @@
       "url": "https://www.insidermonkey.com/news/alphabet-googl-investing-behind-ai-demand-and-tpu-growth-1858551/",
       "cross_verified": true,
       "published_at": "2026-10-23T16:51:49.000000Z"
-    },
-    {
-      "title": "The Dow drops 500 points as fears of renewed Middle East fighting send oil soaring",
-      "title_ko": "중동에서 다시 전투가 벌어질 것이라는 우려로 유가가 급등하면서 다우지수가 500포인트 하락했다",
-      "snippet": "Blue chip stocks sold off on Friday as investors fretted over rising tensions between Iran and the US and looked ahead to the Fed's rate decision.",
-      "snippet_ko": "금요일, 투자자들이 이란과 미국 간의 긴장 고조를 우려하고 연방준비제도(Fed)의 금리 결정에 주목하면서 우량주들이 매도세를 보였다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3386,
-      "source": "businessinsider.com",
-      "url": "https://www.businessinsider.com/stock-market-dow-selloff-oil-prices-iran-war-2026-10",
-      "cross_verified": true,
-      "published_at": "2026-10-23T16:25:19.000000Z"
-    },
-    {
-      "title": "What we want to see when this data center stock reports earnings next week",
-      "title_ko": "다음 주 이 데이터센터 관련 기업이 실적을 발표할 때 우리가 주목해야 할 점",
-      "snippet": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "snippet_ko": "투자 동아리는 평일 매일 오전 10시 20분(미국 동부 표준시)에 “모닝 미팅”을 개최합니다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3835,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/investingclub/2026/10/23/what-we-want-to-see-when-this-data-center-stock-reports-earnings-next-week.html",
-      "cross_verified": true,
-      "published_at": "2026-10-23T16:15:59.000000Z"
     }
   ]
 }
