@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-02T09:11:23.513185+00:00",
+  "updated_at": "2026-11-02T20:08:52.661268+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Dow Gains Momentum as Energy Slumps; Tech Braces for Apple Earnings",
+      "title_ko": "에너지주 약세 속 다우지수는 상승세 이어가… 기술주, 애플 실적 발표 앞두고 긴장",
+      "snippet": "U.S. equity markets displayed a bifurcated performance during Monday afternoon trading on November 2nd, 2026. While blue-chip stocks found support from strong",
+      "snippet_ko": "2026년 11월 2일 월요일 오후 거래에서 미국 주식 시장은 엇갈린 흐름을 보였다. 우량주들은 강력한",
+      "symbol": "",
+      "sentiment_score": 0.4059,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/dow-gains-momentum-as-energy-slumps-tech-braces-for-apple-earnings/74024/",
+      "cross_verified": true,
+      "published_at": "2026-11-02T19:07:15.000000Z"
+    },
+    {
+      "title": "True Corporation Public Company Limited (TCPFF) Q3 2026 Earnings Call Transcript",
+      "title_ko": "트루 코퍼레이션 퍼블릭 컴퍼니 리미티드(TCPFF) 2026년 3분기 실적 발표 회의록",
+      "snippet": "True Corporation Public Company Limited (TCPFF) Q3 2026 Earnings Call November 2, 2026 3:00 AM ESTCompany ParticipantsNaureen Quayum - Head of Investor...",
+      "snippet_ko": "트루 코퍼레이션 퍼블릭 컴퍼니 리미티드(TCPFF) 2026년 3분기 실적 발표 전화회의 2026년 11월 2일 오전 3:00 (미국 동부 표준시) 회사 참가자: 나우린 콰윔 - 투자자 관계 책임자...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960912-true-corporation-public-company-limited-tcpff-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-02T18:58:35.000000Z"
+    },
     {
       "title": "Nuveen Enhanced Yield 1-5 Year U.S. Aggregate Bond ETF (NUSA) Declares $0.0802 Dividend with 4.75% SEC Yield",
       "title_ko": "누빈(Nuveen) 엔핸스드 예일드 1~5년 만기 미국 종합 채권 ETF(NUSA)가 0.0802달러의 배당금을 선언했으며, SEC 기준 수익률은 4.75%입니다.",
@@ -1177,33 +1201,45 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/dowjonestodaydow-jones-plummets-as-economic-uncertainty-weighs-on-blue-chip-giants/73523/",
       "cross_verified": true,
       "published_at": "2026-10-23T21:09:10.000000Z"
-    },
-    {
-      "title": "Rogers Communications: A Cash Flow Giant With Feet Of Clay (NYSE:RCI)",
-      "title_ko": "로저스 커뮤니케이션즈: 허술한 기반을 가진 현금 흐름의 거인 (NYSE:RCI)",
-      "snippet": "Rogers Communications remains a Buy, trading at a steep valuation discount despite robust free cash flow and undervalued sports assets. Click for more on RCI.",
-      "snippet_ko": "로저스 커뮤니케이션스는 견실한 자유 현금 흐름과 저평가된 스포츠 자산을 보유하고 있음에도 불구하고, 주가가 상당히 낮은 수준에서 거래되고 있어 여전히 ‘매수’ 추천을 유지합니다. RCI에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4957018-rogers-communications-a-cash-flow-giant-with-feet-of-clay",
-      "cross_verified": true,
-      "published_at": "2026-10-23T17:12:40.000000Z"
-    },
-    {
-      "title": "Valley National Bancorp: Balance Sheet Transformation Continues (NASDAQ:VLY)",
-      "title_ko": "밸리 내셔널 뱅크코프: 대차대조표 구조 개편 지속 (나스닥: VLY)",
-      "snippet": "Valley National Bancorp remains a buy, supported by balance sheet improvements, CRE reduction, and a robust capital position. Learn more about VLY stock here.",
-      "snippet_ko": "밸리 내셔널 뱅크코프(Valley National Bancorp)는 대차대조표 개선, 상업용 부동산(CRE) 축소, 견고한 자본 건전성을 바탕으로 여전히 매수 추천 종목으로 남아 있습니다. VLY 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.3352,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4957014-valley-national-bancorp-balance-sheet-transformation-continues",
-      "cross_verified": true,
-      "published_at": "2026-10-23T16:48:36.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Amazon Vs. Alphabet: The $420B AI Capex Squeeze Leaves Both At Hold (NASDAQ:AMZN)",
+      "title_ko": "아마존 대 알파벳: 4,200억 달러 규모의 AI 설비투자 압박으로 양사 모두 ‘보유’ 등급 유지 (나스닥:AMZN)",
+      "snippet": "Amazon.com, Inc. and Alphabet Inc. earn Hold ratings as AI-driven cloud growth lifts profits, but capex clouds cash flow. Click for an AMZN and GOOG comparison.",
+      "snippet_ko": "Amazon.com, Inc.와 Alphabet Inc.는 AI 주도형 클라우드 성장에 힘입어 이익이 증가했으나, 설비투자(capex)로 인해 현금 흐름이 위축되면서 ‘보유(Hold)’ 등급을 받았다. AMZN과 GOOG를 비교해 보려면 여기를 클릭하세요.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.3511,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4961060-amazon-vs-alphabet-the-420b-ai-capex-squeeze-leaves-both-at-hold",
+      "cross_verified": true,
+      "published_at": "2026-11-02T19:02:53.000000Z"
+    },
+    {
+      "title": "Apple reports after the bell. Options traders expect a big move",
+      "title_ko": "애플은 장 마감 후 실적을 발표한다. 옵션 거래자들은 큰 변동이 있을 것으로 예상하고 있다.",
+      "snippet": "Apple reports after the bell. Options traders expect a big move.",
+      "snippet_ko": "애플은 장 마감 후 실적을 발표한다. 옵션 거래자들은 큰 변동이 있을 것으로 예상하고 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.7096,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/02/apple-reports-after-the-bell-options-traders-expect-a-big-move.html",
+      "cross_verified": true,
+      "published_at": "2026-11-02T18:19:03.000000Z"
+    },
+    {
+      "title": "Options traders are getting anxious on Palantir and Apple ahead of earnings",
+      "title_ko": "실적 발표를 앞두고 옵션 거래자들은 팔란티어와 애플에 대해 불안감을 느끼고 있다",
+      "snippet": "Apple, Palantir puts were in demand ahead of earnings.",
+      "snippet_ko": "실적 발표를 앞두고 애플과 팔란티어의 풋옵션에 대한 수요가 높았다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.1064,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/02/options-traders-are-getting-anxious-on-palantir-and-apple-ahead-of-earnings.html",
+      "cross_verified": true,
+      "published_at": "2026-11-02T18:16:02.000000Z"
+    },
     {
       "title": "Is the AI investment boom losing steam? What is driving the sell-off",
       "title_ko": "AI 투자 붐이 주춤하고 있는 것일까? 매도세를 이끄는 요인은 무엇인가",
@@ -2367,42 +2403,6 @@
       "url": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
       "cross_verified": true,
       "published_at": "2026-10-24T16:14:00.000000Z"
-    },
-    {
-      "title": "Fed Decision, Microsoft, Alphabet Earnings Highlight Blockbuster Week",
-      "title_ko": "연준의 결정, 마이크로소프트와 알파벳의 실적 발표가 이번 주 주요 화두로 떠오른다",
-      "snippet": "Preview the week ahead with the Fed decision, Q3 GDP, and Big Tech earnings in focus. Read here for more details.",
-      "snippet_ko": "연준의 결정, 3분기 GDP, 빅테크 기업들의 실적 발표가 주목받는 이번 주 전망을 미리 살펴보세요. 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.1135,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4957196-fed-decision-microsoft-alphabet-earnings-highlight-blockbuster-week",
-      "cross_verified": true,
-      "published_at": "2026-10-24T16:00:47.000000Z"
-    },
-    {
-      "title": "What they say on their India plans",
-      "title_ko": "인도 관련 계획에 대해 그들이 말하는 내용",
-      "snippet": "Discover insights from global CXOs on their strategic plans and perspectives regarding India during the latest earnings season.",
-      "snippet_ko": "최근 실적 발표 시즌을 맞아, 전 세계 최고경영진(CXO)들이 인도와 관련해 제시한 전략적 계획과 전망에 대한 통찰력을 확인해 보세요.",
-      "symbol": "NFLX",
-      "sentiment_score": 0.8313,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/what-they-say-on-their-india-plans/article71619481.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-24T16:06:51.000000Z"
-    },
-    {
-      "title": "Meta: The Ads Business Is Better Than Ever, But The Cash Flow Isn't (NASDAQ:META)",
-      "title_ko": "메타: 광고 사업은 사상 최고 수준이지만, 현금 흐름은 그렇지 않다 (나스닥: META)",
-      "snippet": "Meta Platforms' revenue surged 26% as AI boosts ads, but CapEx, legal costs, and dilution risks pressure cash flow. Click here to read more of this META update.",
-      "snippet_ko": "AI가 광고 매출을 견인하며 메타 플랫폼스의 매출이 26% 급증했으나, 설비투자(CapEx), 법적 비용 및 희석 위험이 현금 흐름에 부담을 주고 있다. 이 META 관련 최신 소식을 더 자세히 보려면 여기를 클릭하세요.",
-      "symbol": "META",
-      "sentiment_score": 0.4404,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4957216-meta-the-ads-business-is-better-than-ever-the-cash-flow-isnt",
-      "cross_verified": true,
-      "published_at": "2026-10-24T12:56:24.000000Z"
     }
   ]
 }
