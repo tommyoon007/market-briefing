@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-01T21:54:33.987527+00:00",
+  "updated_at": "2026-11-02T01:24:46.885505+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "HUTCHMED Announces Regulatory Filings Accepted for Review for ORPATHYS® plus TAGRISSO® in MET-Driven EGFR-Mutated Lung Cancer in Europe and Japan",
+      "title_ko": "HUTCHMED, 유럽 및 일본에서 MET 유발 EGFR 돌연변이 폐암에 대한 ORPATHYS®와 TAGRISSO® 병용 요법의 규제 신청서가 심사 접수되었다고 발표",
+      "snippet": "- Follows US FDA new drug application submission in September 2026, marking important global regulatory progress -",
+      "snippet_ko": "- 2026년 9월 미국 FDA에 신약 허가 신청서를 제출함에 따라, 글로벌 규제 측면에서 중요한 진전을 이루게 되었습니다 -",
+      "symbol": "",
+      "sentiment_score": 0.3198,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/11/02/tmt-newswire/globenewswire/hutchmed-announces-regulatory-filings-accepted-for-review-for-orpathys-plus-tagrisso-in-met-driven-egfr-mutated-lung-cancer-in-europe-and-japan/2459058",
+      "cross_verified": true,
+      "published_at": "2026-11-02T00:21:09.000000Z"
+    },
+    {
+      "title": "Mesoblast Board Changes",
+      "title_ko": "메소블라스트 이사회 변경 사항",
+      "snippet": "NEW YORK, Nov. 01, 2026 (GLOBE NEWSWIRE) -- Mesoblast Limited (Nasdaq:MESO; ASX:MSB), global leader in allogeneic cellular medicines for inflammatory diseases, today announced rotational changes and retirement of certain members of its Board, and reiterated its intention to add new members with the requisite global commercial experience in the biopharmaceutical sector in line with its next phase of commercial delivery and growth.",
+      "snippet_ko": "뉴욕, 2026년 11월 1일 (GLOBE NEWSWIRE) -- 염증성 질환을 위한 동종 세포 치료제 분야의 글로벌 선도 기업인 메소블라스트 리미티드(Mesoblast Limited, 나스닥: MESO; ASX:MSB)는 오늘 이사회 구성원의 순환 교체 및 일부 이사의 퇴임을 발표했으며, 향후 상업화 및 성장 단계에 발맞춰 바이오의약품 분야에서 필요한 글로벌 상업적 경험을 갖춘 신규 이사를 영입할 의향을 재차 밝혔다.",
+      "symbol": "",
+      "sentiment_score": 0.3947,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/11/02/tmt-newswire/globenewswire/mesoblast-board-changes/2459056",
+      "cross_verified": true,
+      "published_at": "2026-11-02T00:01:02.000000Z"
+    },
+    {
+      "title": "KKR, Singtel and Tata Communications put data centre company STT GDC India up for sale at over $5.5 billion",
+      "title_ko": "KKR, 싱텔, 타타 커뮤니케이션스가 데이터 센터 기업 STT GDC 인디아를 55억 달러 이상에 매각하기로 했다.",
+      "snippet": "In a significant move, KKR, Singtel, and Tata Communications are gearing up to offload STT Global Data Centres India, anticipating a valuation that could surpass $5.5 billion. This initiative underscores their intent to bolster capital and refine strategic objectives. With 34 data centres in operation, STT GDC India stands as a leading co-location service provider, well-poised to capitalize on the escalating appetite for data infrastructure amidst evolving tech trends.",
+      "snippet_ko": "KKR, 싱텔(Singtel), 타타 커뮤니케이션즈(Tata Communications)는 STT 글로벌 데이터 센터 인디아(STT Global Data Centres India)를 매각하기 위해 준비에 박차를 가하고 있으며, 이 회사의 기업 가치가 55억 달러를 넘어설 것으로 예상되는 가운데 이는 매우 중요한 움직임으로 평가된다. 이번 조치는 자본을 확충하고 전략적 목표를 재정립하려는 이들의 의지를 여실히 보여준다. 34개의 데이터 센터를 운영 중인 STT GDC 인도는 선도적인 코로케이션 서비스 제공업체로서, 변화하는 기술 트렌드 속에서 데이터 인프라에 대한 수요가 급증하는 상황을 효과적으로 활용할 수 있는 유리한 입지를 갖추고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/kkr-singtel-and-tata-communications-want-to-sell-data-centre-company-stt-gdc-india-for-over-5-5-billion/articleshow/135435827.cms",
+      "cross_verified": true,
+      "published_at": "2026-11-02T00:00:00.000000Z"
+    },
     {
       "title": "CSX (CSX) vs. UNP and NSC: Can New Leadership Turn Efficiency Gains Into Lasting Growth?",
       "title_ko": "CSX(CSX) 대 UNP 및 NSC: 새로운 경영진이 효율성 향상을 지속적인 성장으로 이어갈 수 있을까?",
@@ -1165,45 +1201,33 @@
       "url": "https://seekingalpha.com/article/4956872-tractor-supply-q3-caution-is-warranted-rating-downgrade",
       "cross_verified": true,
       "published_at": "2026-10-23T12:22:25.000000Z"
-    },
-    {
-      "title": "Tractor Supply Company 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:TSCO) 2026-10-23",
-      "title_ko": "트랙터 서플라이 컴퍼니 2026년 3분기 실적 - 실적 발표 전화 회의 프레젠테이션 (NASDAQ:TSCO) 2026-10-23",
-      "snippet": "2026-10-23. The following slide deck was published by Tractor Supply Company in conjunction with their 2026 Q3 earnings call.",
-      "snippet_ko": "2026년 10월 23일. 다음 슬라이드 자료는 트랙터 서플라이 컴퍼니(Tractor Supply Company)가 2026년 3분기 실적 발표와 함께 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4956780-tractor-supply-company-2026-q3-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-10-23T06:03:32.000000Z"
-    },
-    {
-      "title": "New Zealand vs India 2nd T20I: Playing 11, live toss time (IST), streaming",
-      "title_ko": "뉴질랜드 대 인도 2차 T20I: 선발 라인업, 코인 토스 시간(인도 표준시), 생중계",
-      "snippet": "Vaibhav Sooryavanshi is likely to return to the playing 11 for the second T20I, with Ishan Kishan ruled out due to injury",
-      "snippet_ko": "이샨 키샨이 부상으로 결장함에 따라, 바이바브 수르야반시가 두 번째 T20I 경기에서 선발 라인업에 복귀할 것으로 보인다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/cricket/news/new-zealand-vs-india-2nd-t20i-playing-11-live-toss-time-ist-streaming-126102300351_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-23T05:50:27.000000Z"
-    },
-    {
-      "title": "France steps up security, deploys military to contain fresh protests",
-      "title_ko": "프랑스, 보안 강화 및 군 병력 투입으로 새로운 시위 확산 차단",
-      "snippet": "There will be 20% more police on the ground than last Saturday, according to the Interior Ministry",
-      "snippet_ko": "내무부에 따르면, 지난 토요일보다 현장에 배치되는 경찰 인원이 20% 늘어날 것이라고 한다.",
-      "symbol": "",
-      "sentiment_score": -0.8501,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/france-steps-up-security-deploys-military-to-contain-fresh-protests-126102300373_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-23T05:35:39.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Amazon.com, Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:AMZN) 2026-11-01",
+      "title_ko": "Amazon.com, Inc. 2026년 3분기 - 실적 - 실적 발표 전화 회의 프레젠테이션 (NASDAQ:AMZN) 2026-11-01",
+      "snippet": "2026-11-01. The following slide deck was published by Amazon.com, Inc.",
+      "snippet_ko": "2026년 11월 1일. 다음 슬라이드 자료는 Amazon.com, Inc.에서 공개한 것입니다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960778-amazon-com-inc-2026-q3-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-11-01T23:20:51.000000Z"
+    },
+    {
+      "title": "US Stock Market prediction: S&P 500, Nasdaq, Dow Jones, Russell 2000 set for surprise opening on Monday, Apple, AMD, Palantir, Qualcomm other stocks to follow",
+      "title_ko": "미국 주식 시장 전망: S&P 500, 나스닥, 다우존스, 러셀 2000 지수가 월요일 깜짝 개장할 전망, 애플, AMD, 팔란티어, 퀄컴 등 주요 종목 동향 주목",
+      "snippet": "Wall Street today: U.S. war with Iran has been ongoing since February and has essentially shut down the vital Strait of Hormuz.",
+      "snippet_ko": "오늘의 월스트리트: 미국과 이란 간의 전쟁은 지난 2월부터 계속되어 왔으며, 이로 인해 전략적 요충지인 호르무즈 해협이 사실상 봉쇄된 상태다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.1632,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-prediction-sp-500-nasdaq-dow-jones-russell-2000-set-for-surprise-opening-on-monday-apple-amd-palantir-qualcomm-other-stocks-to-follow/articleshow/135440386.cms",
+      "cross_verified": true,
+      "published_at": "2026-11-01T23:02:15.000000Z"
+    },
     {
       "title": "Weekend Market Report- 11/1/26-Tech Wreck",
       "title_ko": "주말 시장 보고서 - 11/1/26 - 기술주 폭락",
@@ -2379,30 +2403,6 @@
       "url": "https://www.prnewswire.com/apac/news-releases/phase-ii-results-of-sacituzumab-tirumotecan-sac-tmt-plus-pembrolizumab-in-advanced-urothelial-carcinoma-presented-at-2026-esmo-302918626.html",
       "cross_verified": true,
       "published_at": "2026-10-24T10:15:00.000000Z"
-    },
-    {
-      "title": "Meta: The Q4 Guide Is The Real Profit Warning (NASDAQ:META)",
-      "title_ko": "메타: 4분기 실적 가이던스가 진정한 실적 경고다 (NASDAQ:META)",
-      "snippet": "Meta Platforms' Q4 guidance shows strong revenue growth but weaker operating leverage and margin pressure. Click to read more on the META stock here.",
-      "snippet_ko": "메타 플랫폼스의 4분기 실적 전망은 매출이 크게 증가할 것으로 예상되지만, 영업 레버리지는 약화되고 마진 압박이 가중될 것으로 나타났습니다. META 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "META",
-      "sentiment_score": 0.128,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4957188-meta-the-q4-guide-is-the-real-profit-warning",
-      "cross_verified": true,
-      "published_at": "2026-10-24T09:42:40.000000Z"
-    },
-    {
-      "title": "Apple Inc. quickly sold out of its limited in-store inventory for the new iPhone Duo",
-      "title_ko": "애플은 신제품 ‘아이폰 듀오’의 매장 한정 재고가 순식간에 매진되었다.",
-      "snippet": "Apple’s iPhone Duo debuts amid limited supply and high demand as fans line up worldwide for a costly foldable reimagining.",
-      "snippet_ko": "애플의 ‘아이폰 듀오’가 공급 부족과 높은 수요 속에서 첫 선을 보였으며, 전 세계 팬들은 고가의 폴더블 신제품을 구매하기 위해 줄을 서고 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2036,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/info-tech/apples-iphone-duo-hits-stores-in-face-of-short-supply-and-high-demand/article71619030.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-24T05:27:39.000000Z"
     }
   ]
 }
