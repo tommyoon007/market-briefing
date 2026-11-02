@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-02T01:24:46.885505+00:00",
+  "updated_at": "2026-11-02T09:11:23.513185+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Nuveen Enhanced Yield 1-5 Year U.S. Aggregate Bond ETF (NUSA) Declares $0.0802 Dividend with 4.75% SEC Yield",
+      "title_ko": "누빈(Nuveen) 엔핸스드 예일드 1~5년 만기 미국 종합 채권 ETF(NUSA)가 0.0802달러의 배당금을 선언했으며, SEC 기준 수익률은 4.75%입니다.",
+      "snippet": "On November 02, 2026, Nuveen Enhanced Yield 1-5 Year U.S. Aggregate Bond ETF (ticker: NUSA) announced a dividend payment of $0.0802 per share. The dividend will",
+      "snippet_ko": "2026년 11월 2일, Nuveen Enhanced Yield 1-5 Year U.S. Aggregate Bond ETF(티커: NUSA)는 주당 0.0802달러의 배당금 지급을 발표했습니다. 이 배당금은",
+      "symbol": "",
+      "sentiment_score": 0.3066,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9161523/nuveen-enhanced-yield-15-year-us-aggregate-bond-etf-nusa-declares-00802-dividend-with-475-sec-yield",
+      "cross_verified": true,
+      "published_at": "2026-11-02T08:58:25.000000Z"
+    },
+    {
+      "title": "Nuveen Enhanced Yield U.S. Aggregate Bond ETF (NUAG) Declares $0.0755 Dividend with 5.41% SEC Yield",
+      "title_ko": "누빈(Nuveen) 엔핸스드 예일드 미국 종합 채권 ETF(NUAG), 0.0755달러 배당금 선언… SEC 기준 수익률 5.41%",
+      "snippet": "On November 02, 2026, the Nuveen Enhanced Yield U.S. Aggregate Bond ETF (ticker: NUAG) announced a dividend payment of $0.0755 per share. The dividend will be p",
+      "snippet_ko": "2026년 11월 2일, Nuveen Enhanced Yield U.S. Aggregate Bond ETF(티커: NUAG)는 주당 0.0755달러의 배당금 지급을 발표했습니다. 이 배당금은 p",
+      "symbol": "",
+      "sentiment_score": 0.3256,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9161514/nuveen-enhanced-yield-us-aggregate-bond-etf-nuag-declares-00755-dividend-with-541-sec-yield",
+      "cross_verified": true,
+      "published_at": "2026-11-02T08:56:16.000000Z"
+    },
+    {
+      "title": "Share buybacks in Ericsson during the period October 26 - October 30, 2026",
+      "title_ko": "2026년 10월 26일부터 10월 30일까지의 에릭슨 자사주 매입 현황",
+      "snippet": "/PRNewswire/ -- During the period October 26 - October 30, 2026, Telefonaktiebolaget LM Ericsson (publ) (\"Ericsson\") (LEI code 549300W9JLPW15XIFM52)...",
+      "snippet_ko": "/PRNewswire/ -- 2026년 10월 26일부터 10월 30일까지, Telefonaktiebolaget LM Ericsson (publ)(이하 “에릭슨”)(LEI 코드 549300W9JLPW15XIFM52)...",
+      "symbol": "",
+      "sentiment_score": 0.5267,
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/apac/news-releases/share-buybacks-in-ericsson-during-the-period-october-26---october-30-2026-302926149.html",
+      "cross_verified": true,
+      "published_at": "2026-11-02T08:25:00.000000Z"
+    },
     {
       "title": "HUTCHMED Announces Regulatory Filings Accepted for Review for ORPATHYS® plus TAGRISSO® in MET-Driven EGFR-Mutated Lung Cancer in Europe and Japan",
       "title_ko": "HUTCHMED, 유럽 및 일본에서 MET 유발 EGFR 돌연변이 폐암에 대한 ORPATHYS®와 TAGRISSO® 병용 요법의 규제 신청서가 심사 접수되었다고 발표",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4957014-valley-national-bancorp-balance-sheet-transformation-continues",
       "cross_verified": true,
       "published_at": "2026-10-23T16:48:36.000000Z"
-    },
-    {
-      "title": "Bank OZK: Buy Reaffirmed After Q3 Results Support Dividend Strength (NASDAQ:OZK)",
-      "title_ko": "뱅크 OZK: 3분기 실적이 배당금 지급 능력을 뒷받침함에 따라 ‘매수’ 추천 재확인 (나스닥: OZK)",
-      "snippet": "Bank OZK buy rating reaffirmed on dividend strength, low debt, and below-book valuation. Click here to read an analysis of OZK stock now.",
-      "snippet_ko": "Bank OZK에 대한 ‘매수’ 등급이 배당금 지급 능력, 낮은 부채 수준, 장부 가치보다 낮은 주가 평가 등을 근거로 재확인되었습니다. 지금 바로 OZK 주식에 대한 분석을 보시려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.7096,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4956804-bank-ozk-buy-reaffirmed-after-q3-results-support-dividend-strength",
-      "cross_verified": true,
-      "published_at": "2026-10-23T12:45:00.000000Z"
-    },
-    {
-      "title": "Republic Bancorp GAAP EPS of $1.59 misses by $0.06, revenue of $77M misses by $23.35M (NASDAQ:RBCAA)",
-      "title_ko": "리퍼블릭 뱅크코프(Republic Bancorp)의 GAAP 기준 주당순이익(EPS)은 1.59달러로 예상치보다 0.06달러 낮았으며, 매출은 7,700만 달러로 예상치보다 2,335만 달러 낮았다 (나스닥: RBCAA)",
-      "snippet": "Republic Bancorp press release (RBCAA): Q3 GAAP EPS of $1.59 misses by $0.06. Revenue of $77M (+7.4% Y/Y) misses by $23.35M.",
-      "snippet_ko": "리퍼블릭 뱅크코프(RBCAA) 보도자료: 3분기 GAAP 기준 주당순이익(EPS) 1.59달러는 예상치를 0.06달러 하회했다. 매출은 7,700만 달러(전년 동기 대비 7.4% 증가)로, 예상치를 2,335만 달러 하회했다.",
-      "symbol": "",
-      "sentiment_score": -0.4215,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4656550-republic-bancorp-gaap-eps-of-1_59-misses-by-0_06-revenue-of-77m-misses-by-23_35m",
-      "cross_verified": true,
-      "published_at": "2026-10-23T12:35:44.000000Z"
-    },
-    {
-      "title": "Tractor Supply Q3: Caution Is Warranted (Rating Downgrade) (NASDAQ:TSCO)",
-      "title_ko": "트랙터 서플라이 3분기 실적: 신중한 접근 필요 (등급 하향 조정) (나스닥:TSCO)",
-      "snippet": "Tractor Supply Company Q3 beat cautious forecasts, but weak same-store sales and macro pressures cloud the outlook. Read why TSCO stock is downgraded to a hold.",
-      "snippet_ko": "트랙터 서플라이 컴퍼니(Tractor Supply Company)의 3분기 실적이 신중한 전망치를 상회했으나, 부진한 동일 매장 매출과 거시경제적 압박으로 인해 전망이 불투명해졌습니다. TSCO 주식이 ‘보유(Hold)’로 하향 조정된 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": -0.1661,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4956872-tractor-supply-q3-caution-is-warranted-rating-downgrade",
-      "cross_verified": true,
-      "published_at": "2026-10-23T12:22:25.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Is the AI investment boom losing steam? What is driving the sell-off",
+      "title_ko": "AI 투자 붐이 주춤하고 있는 것일까? 매도세를 이끄는 요인은 무엇인가",
+      "snippet": "Global AI investment boom faces growing scrutiny as technology stocks slide and investors question whether heavy spending on AI infrastructure will deliver expected returns",
+      "snippet_ko": "기술주 주가가 하락하고 투자자들이 AI 인프라에 대한 막대한 투자가 기대되는 수익을 가져다줄지 의문을 제기함에 따라, 전 세계적인 AI 투자 붐에 대한 비판의 목소리가 커지고 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.5047,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/markets/news/ai-investment-boom-faces-a-test-as-tech-stocks-and-credit-risks-mount-126110200578_1.html",
+      "cross_verified": true,
+      "published_at": "2026-11-02T07:52:21.000000Z"
+    },
+    {
+      "title": "The State Of The AI Trade: Someone Has To Pay The Bill (NASDAQ:QQQ)",
+      "title_ko": "AI 업계 현황: 누군가는 비용을 부담해야 한다 (NASDAQ:QQQ)",
+      "snippet": "Why investors are skeptical on Meta and hyperscalers: soaring AI capex, shrinking free cash flow, and widening credit risk.",
+      "snippet_ko": "투자자들이 메타와 하이퍼스케일러 기업들에 회의적인 이유: 급증하는 AI 설비투자, 감소하는 자유 현금흐름, 그리고 확대되는 신용 위험.",
+      "symbol": "META",
+      "sentiment_score": 0.128,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4960883-the-state-of-the-ai-trade-someone-has-to-pay-the-bill",
+      "cross_verified": true,
+      "published_at": "2026-11-02T07:49:52.000000Z"
+    },
+    {
+      "title": "Nasdaq Outlook: Is the worst over for AI-fuelled tech stocks?",
+      "title_ko": "나스닥 전망: AI 수혜 기술주들의 최악의 시기는 지났을까?",
+      "snippet": "Wall Streets AI-led rally faced a sharp setback as the Nasdaq recorded its biggest single-day fall since June. Heavy losses in technology stocks reflected growing investor concerns over hyperscaler spending and the returns on artificial intelligence investments.",
+      "snippet_ko": "나스닥 지수가 6월 이후 최대 일일 하락폭을 기록하면서, AI 주도 랠리를 이어가던 월스트리트 시장에 큰 타격이 가해졌다. 기술주들의 큰 폭의 하락은 하이퍼스케일러 기업의 지출과 인공지능 투자 수익성에 대한 투자자들의 우려가 커지고 있음을 반영한 것이다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2263,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-outlook-is-the-worst-over-for-ai-fuelled-tech-stocks/articleshow/135450038.cms",
+      "cross_verified": true,
+      "published_at": "2026-11-02T07:30:25.000000Z"
+    },
     {
       "title": "Amazon.com, Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:AMZN) 2026-11-01",
       "title_ko": "Amazon.com, Inc. 2026년 3분기 - 실적 - 실적 발표 전화 회의 프레젠테이션 (NASDAQ:AMZN) 2026-11-01",
@@ -2367,42 +2403,6 @@
       "url": "https://seekingalpha.com/article/4957216-meta-the-ads-business-is-better-than-ever-the-cash-flow-isnt",
       "cross_verified": true,
       "published_at": "2026-10-24T12:56:24.000000Z"
-    },
-    {
-      "title": "Phase II Results of Sacituzumab Tirumotecan (sac-TMT) plus Pembrolizumab in Advanced Urothelial Carcinoma Presented at 2026 ESMO",
-      "title_ko": "진행성 요로상피암 환자를 대상으로 한 사시투주맙 티루모테칸(sac-TMT)과 펨브롤리주맙 병용 요법의 2상 임상시험 결과가 2026년 ESMO에서 발표되었다",
-      "snippet": "**media[1275079]**CHENGDU, China, Oct. 24, 2026 /PRNewswire/ -- Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd. ('Kelun-Biotech' or the 'Company', 6990.HK) announced that at the 2026 European Society for Medical Oncology (ESMO) Congress held in Madrid, updated results from the Phase II MK-2870-002/SKB264-II-06 study of sacituzumab tirumotecan (sac-TMT, also known as SKB264/MK-2870)(佳泰莱®) plus MSD's[1] anti-programmed cell death protein 1 (PD-1) monoclonal antibody pembrolizumab (KEYTRUDA®[2]) in locally advanced or metastatic urothelial carcinoma (la/mUC) were presented as a rapid oral report by Professor Xiaojie Bian from Fudan University Shanghai Cancer Center (4739RO; Rapid oral | Genitourinary Tumours, Renal and Urothelial).**media[1275080]**",
-      "snippet_ko": "**media[1275079]**중국 청두, 2026년 10월 24일 /PRNewswire/ -- 쓰촨 켈룬-바이오텍 바이오제약 유한공사(이하 ‘켈룬-바이오텍’ 또는 ‘회사’, 6990.HK)는 마드리드에서 개최된 2026년 유럽임상의학종양학회 (ESMO) 학술대회에서, 사시투주맙 티루모테칸(sac-TMT, SKB264/MK-2870으로도 알려짐)(佳泰莱®)와 MSD[1]의 항-프로그램된 세포사멸 단백질 1(PD-1) 단일클론 항체인 펨브롤리주맙(KEYTRUDA®[2])을 병용 투여한 2상 MK-2870-002/SKB264-II-06 임상시험의 최신 결과를 발표했다고 밝혔다.",
-      "symbol": "MRK",
-      "sentiment_score": 0.2294,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/24/tmt-newswire/pr-newswire/phase-ii-results-of-sacituzumab-tirumotecan-sac-tmt-plus-pembrolizumab-in-advanced-urothelial-carcinoma-presented-at-2026-esmo/2453273",
-      "cross_verified": true,
-      "published_at": "2026-10-24T12:26:31.000000Z"
-    },
-    {
-      "title": "OKXICE Tokenized Stocks: 22 of 62 Issuers Now Object",
-      "title_ko": "OKXICE 토큰화 주식: 62개 발행사 중 22곳이 현재 반대 의사를 표명",
-      "snippet": "Wells Fargo, Arm, Intuit, Moderna, Cisco and Marvell lift objections to OKXICE tokenized shares to 22 of the 62 companies listed under the SEC Innovation Exemption.",
-      "snippet_ko": "웰스 파고, ARM, 인튜이트, 모더나, 시스코, 마벨이 OKXICE 토큰화 주식에 대한 이의를 철회함에 따라, SEC 혁신 면제 조항에 따라 상장된 62개 기업 중 22개사가 이에 동의하게 되었다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.0873,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/wells-fargo-arm-and-intuit-join-objections-to-okxice-tokenized-stocks/",
-      "cross_verified": true,
-      "published_at": "2026-10-24T11:49:00.000000Z"
-    },
-    {
-      "title": "Phase II Results of Sacituzumab Tirumotecan (sac-TMT) plus Pembrolizumab in Advanced Urothelial Carcinoma Presented at 2026 ESMO",
-      "title_ko": "진행성 요로상피암 환자를 대상으로 한 사시투주맙 티루모테칸(sac-TMT)과 펨브롤리주맙 병용 요법의 2상 임상시험 결과가 2026년 ESMO에서 발표되었다",
-      "snippet": "/PRNewswire/ -- Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd. (\"Kelun-Biotech\" or the \"Company\", 6990.HK) announced that at the 2026 European Society for...",
-      "snippet_ko": "/PRNewswire/ -- 쓰촨 켈룬-바이오텍 바이오제약 유한공사(이하 “켈룬-바이오텍” 또는 “회사”, 6990.HK)는 2026년 유럽학회...",
-      "symbol": "MRK",
-      "sentiment_score": 0.2294,
-      "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/apac/news-releases/phase-ii-results-of-sacituzumab-tirumotecan-sac-tmt-plus-pembrolizumab-in-advanced-urothelial-carcinoma-presented-at-2026-esmo-302918626.html",
-      "cross_verified": true,
-      "published_at": "2026-10-24T10:15:00.000000Z"
     }
   ]
 }
