@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-03T11:46:21.093272+00:00",
+  "updated_at": "2026-11-03T19:21:19.609059+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "DigitalOcean Holdings, Inc. (DOCN) Q3 2026 Earnings Call Transcript",
+      "title_ko": "DigitalOcean Holdings, Inc. (DOCN) 2026년 3분기 실적 발표 회의록",
+      "snippet": "DigitalOcean Holdings, Inc. (DOCN) Q3 2026 Earnings Call November 3, 2026 8:00 AM ESTCompany ParticipantsJoshua BaerPadmanabhan Srinivasan - CEO &...",
+      "snippet_ko": "DigitalOcean Holdings, Inc. (DOCN) 2026년 3분기 실적 발표 전화회의 2026년 11월 3일 오전 8:00 (미국 동부 표준시) 회사 참석자: 조슈아 베어, 파드마나반 스리니바산 - CEO 겸...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4961526-digitalocean-holdings-inc-docn-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-03T18:05:56.000000Z"
+    },
+    {
+      "title": "Shopify Inc. (SHOP) Q3 2026 Earnings Call Transcript",
+      "title_ko": "Shopify Inc. (SHOP) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "Shopify Inc. (SHOP) Q3 2026 Earnings Call November 3, 2026 8:30 AM ESTCompany ParticipantsShane Kleinstein - Head of Investor RelationsHarley Finkelstein -...",
+      "snippet_ko": "Shopify Inc. (SHOP) 2026년 3분기 실적 발표 컨퍼런스 콜, 2026년 11월 3일 오전 8시 30분(미국 동부 표준시) 회사 참가자: 셰인 클라인스타인(Shane Kleinstein) - 투자자 관계 책임자, 할리 핀켈스타인(Harley Finkelstein) -...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4961576-shopify-inc-shop-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-03T18:05:55.000000Z"
+    },
     {
       "title": "Paris Jackson net worth: How rich is Michael Jackson’s daughter as she seeks $600 million from father's estate after 17 years?",
       "title_ko": "파리스 잭슨의 순자산: 17년 만에 아버지의 유산에서 6억 달러를 요구하고 있는 마이클 잭슨의 딸은 과연 얼마나 부유할까?",
@@ -1177,33 +1201,45 @@
       "url": "https://economictimes.indiatimes.com/magazines/panache/sony-1000x-the-collexion-review-premium-design-flagship-sound-but-is-it-worth-rs-60000/articleshow/135172406.cms",
       "cross_verified": true,
       "published_at": "2026-10-24T14:38:04.000000Z"
-    },
-    {
-      "title": "Earnings Scorecard: Financials log 80% EPS beat rate vs. revenue this week",
-      "title_ko": "실적 평가표: 이번 주 금융업종, 매출 대비 주당순이익(EPS) 예상치 상회율 80% 기록",
-      "snippet": "Financial stocks beat the market on strong bank and insurer earnings.",
-      "snippet_ko": "은행과 보험사의 호실적에 힘입어 금융주가 시장 평균을 상회하는 성과를 기록했다.",
-      "symbol": "",
-      "sentiment_score": 0.3818,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4656570-earnings-scorecard-financials-log-80-eps-beat-rate-vs-revenue-this-week",
-      "cross_verified": true,
-      "published_at": "2026-10-24T14:15:14.000000Z"
-    },
-    {
-      "title": "Devon Energy Is Still A 'Compelling Energy Buy' After A 60% Return (NYSE:DVN)",
-      "title_ko": "60%의 수익률을 기록한 후에도 데본 에너지(Devon Energy)는 여전히 ‘매력적인 에너지주’로 꼽힌다 (NYSE:DVN)",
-      "snippet": "Devon Energy remains a compelling buy, supported by robust revenue and operating income growth and a disciplined portfolio strategy. Click for more on DVN.",
-      "snippet_ko": "데본 에너지(Devon Energy)는 견실한 매출 및 영업이익 성장과 체계적인 포트폴리오 전략을 바탕으로 여전히 매력적인 매수 대상입니다. DVN에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.4588,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4957187-devon-energy-is-still-a-compelling-energy-buy-after-a-60-percent-return",
-      "cross_verified": true,
-      "published_at": "2026-10-24T09:32:13.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Tech and Biotech Surge Leads Markets Higher Amid Heavy Earnings Volume",
+      "title_ko": "실적 발표가 쇄도하는 가운데, 기술주와 바이오테크주의 급등에 힘입어 시장이 상승세를 타고 있다",
+      "snippet": "U.S. equity markets showed resilience during Tuesday afternoon trading on November 3, 2026, as investors navigated a dense landscape of corporate earnings and",
+      "snippet_ko": "2026년 11월 3일 화요일 오후 거래에서 미국 주식 시장은 투자자들이 빽빽한 기업 실적 발표 일정을 헤쳐 나가는 가운데 탄력적인 모습을 보였으며,",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5673,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-biotech-surge-leads-markets-higher-amid-heavy-earnings-volume/74089/",
+      "cross_verified": true,
+      "published_at": "2026-11-03T19:07:15.000000Z"
+    },
+    {
+      "title": "Wall Street Lunch: Midterm Elections & Earnings (undefined:AMD)",
+      "title_ko": "월스트리트 런치: 중간선거와 기업 실적 (undefined:AMD)",
+      "snippet": "U.S. midterm elections. Palantir beat expectations, AMD faces high expectations;",
+      "snippet_ko": "미국 중간선거. 팔란티어가 시장 예상을 상회한 실적을 기록한 반면, AMD는 높은 기대에 직면해 있다;",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.6124,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4961677-wall-street-lunch-midterm-elections-and-earnings",
+      "cross_verified": true,
+      "published_at": "2026-11-03T17:55:00.000000Z"
+    },
+    {
+      "title": "Apple's record India quarter has more to it than meets the eyes",
+      "title_ko": "애플의 인도 시장 사상 최대 분기 실적 뒤에는 겉으로 보이는 것 이상의 의미가 있다",
+      "snippet": "Apple hit record quarterly revenue in India by pushing device prices above $1,000, but iPhone sales volumes dropped up to 25% as steep price hikes deterred first-time buyers.",
+      "snippet_ko": "애플은 기기 가격을 1,000달러 이상으로 인상하며 인도에서 분기 매출 사상 최고치를 기록했으나, 급격한 가격 인상이 첫 구매자들을 주저하게 만들면서 아이폰 판매량은 최대 25%까지 감소했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2601,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/cracks-on-the-wall-in-apple-s-record-india-quarter-11793691592531.html",
+      "cross_verified": true,
+      "published_at": "2026-11-03T17:14:39.000000Z"
+    },
     {
       "title": "Mixed Performance for Major Indexes as Earnings Season Intensifies",
       "title_ko": "실적 발표 시즌이 본격화되면서 주요 지수들의 등락이 엇갈렸다",
@@ -2367,42 +2403,6 @@
       "url": "https://financefeeds.com/microsoft-stock-before-wednesdays-results-the-45-azure-guide-and-50-billion-capex-quarter/",
       "cross_verified": true,
       "published_at": "2026-10-25T19:26:01.000000Z"
-    },
-    {
-      "title": "Meta Q3: Non-Recurring Charge Hit GAAP Earnings, Q4 Capex Will Jump Sharply (NASDAQ:META)",
-      "title_ko": "메타 3분기: 비경상 비용이 GAAP 기준 이익에 타격, 4분기 자본지출은 급증할 전망 (NASDAQ:META)",
-      "snippet": "Meta Platforms, Inc.'s 10% post-3Q drop looks overdone. Click for why AI-driven ad growth, easing cost fears, and attractive valuation make META a Strong Buy now.",
-      "snippet_ko": "메타 플랫폼스(Meta Platforms, Inc.)의 3분기 실적 발표 후 10% 하락은 과도한 반응으로 보입니다. AI 주도 광고 성장, 비용 부담 완화, 매력적인 기업 가치 등이 어우러져 현재 META를 ‘강력 매수’로 추천하는 이유를 확인하려면 여기를 클릭하세요.",
-      "symbol": "META",
-      "sentiment_score": 0.3125,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4957343-meta-q3-non-recurring-charge-hit-gaap-earnings-q4-capex-will-jump-sharply",
-      "cross_verified": true,
-      "published_at": "2026-10-25T19:13:49.000000Z"
-    },
-    {
-      "title": "Wall Street Brunch: Fed And Hyperscaler Earnings (undefined:MSFT)",
-      "title_ko": "월스트리트 브런치: 연준과 하이퍼스케일러 기업 실적 (undefined:MSFT)",
-      "snippet": "The Fed is expected to hold rates steady Wednesday. Microsoft, Alphabet and Amazon earnings put AI spending under scrutiny. JetBlue creditors organize amid rising fuel costs.",
-      "snippet_ko": "연방준비제도(Fed)는 수요일 금리를 동결할 것으로 예상된다. 마이크로소프트, 알파벳, 아마존의 실적 발표로 AI 관련 지출이 주목받고 있다. 제트블루의 채권자들이 유류비 상승에 대응해 결집하고 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.0442,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4957334-wall-street-brunch-fed-and-hyperscaler-earnings",
-      "cross_verified": true,
-      "published_at": "2026-10-25T16:52:00.000000Z"
-    },
-    {
-      "title": "Weekend Market Report-10/25/26",
-      "title_ko": "주말 시장 보고서 - 10월 25일·26일",
-      "snippet": "Weekly scorecard (week ending Oct 23, 2026) S&P 500: −0.5% to 7,623.68 (second straight weekly loss) Nasdaq: −0.7% to 25,955.34 Dow: +0.4% to 52,215.16 (third straight weekly gain, despite Friday’s −1.23% dump) Russell 2000: +2.0% (clear outperformer) Equal-weight S&P outperformed the cap-weighted index as money rotated out…",
-      "snippet_ko": "주간 실적표 (2026년 10월 23일 종료 주) S&P 500: −0.5% 하락한 7,623.68 (2주 연속 주간 하락) 나스닥: −0.7% 하락한 25,955.34 다우: +0.4% 상승한 52,215.16 (금요일 −1.23% 급락에도 불구하고 3주 연속 주간 상승) 러셀 2000: +2.0% (명백한 우량주) 자금이 유출되면서 균등 가중 S&P 지수가 시가총액 가중 지수보다 우수한 성과를 기록했습니다…",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2338,
-      "source": "upsidetrader.com",
-      "url": "https://www.upsidetrader.com/2026/10/25/weekend-market-report-10-25-26/",
-      "cross_verified": true,
-      "published_at": "2026-10-25T16:03:34.000000Z"
     }
   ]
 }
