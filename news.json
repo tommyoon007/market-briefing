@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-03T03:24:36.585777+00:00",
+  "updated_at": "2026-11-03T11:46:21.093272+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Paris Jackson net worth: How rich is Michael Jackson’s daughter as she seeks $600 million from father's estate after 17 years?",
+      "title_ko": "파리스 잭슨의 순자산: 17년 만에 아버지의 유산에서 6억 달러를 요구하고 있는 마이클 잭슨의 딸은 과연 얼마나 부유할까?",
+      "snippet": "Paris Jackson has approached a Los Angeles court seeking a $600 million transfer from her late father Michael Jackson's estate to a family trust meant for her and her two brothers. She argues that the trust has remained unfunded for more than 17 years despite the estate generating billions of dollars. The estate has disputed her allegations, citing ongoing legal issues with the IRS.",
+      "snippet_ko": "패리스 잭슨은 고(故) 아버지 마이클 잭슨의 유산에서 자신과 두 형제를 위해 마련된 가족 신탁으로 6억 달러를 이체해 줄 것을 요청하며 로스앤젤레스 법원에 소송을 제기했다. 그녀는 유산에서 수십억 달러가 창출되었음에도 불구하고 해당 신탁에 자금이 투입되지 않은 지 17년 이상 지났다고 주장하고 있다. 유산 관리 측은 국세청(IRS)과의 법적 분쟁이 진행 중이라는 점을 들어 그녀의 주장을 반박했다.",
+      "symbol": "",
+      "sentiment_score": 0.5106,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/paris-jackson-net-worth-how-rich-is-michael-jacksons-daughter-as-she-seeks-600-million-from-fathers-estate-after-17-years/articleshow/135492652.cms",
+      "cross_verified": true,
+      "published_at": "2026-11-03T10:56:51.000000Z"
+    },
+    {
+      "title": "How to invest for a coming stock-market rally: Morgan Stanley",
+      "title_ko": "다가올 주식 시장 상승세에 대비한 투자 전략: 모건 스탠리",
+      "snippet": "Things could soon be looking up for investors after enduring much of the S&P 500 endured a rough patch since the summer.",
+      "snippet_ko": "올여름 이후 S&P 500 지수의 상당수가 힘든 시기를 겪은 가운데, 투자자들에게는 조만간 상황이 호전될 조짐이 보이고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "businessinsider.com",
+      "url": "https://www.businessinsider.com/where-to-invest-for-stock-market-rally-breadth-sp500-2026-11",
+      "cross_verified": true,
+      "published_at": "2026-11-03T10:20:01.000000Z"
+    },
     {
       "title": "Jazz Pharmaceuticals plc (JAZZ) Q3 2026 Earnings Call Transcript",
       "title_ko": "재즈 파마슈티컬스 plc (JAZZ) 2026년 3분기 실적 발표 회의록",
@@ -1177,33 +1201,45 @@
       "url": "https://seekingalpha.com/article/4957187-devon-energy-is-still-a-compelling-energy-buy-after-a-60-percent-return",
       "cross_verified": true,
       "published_at": "2026-10-24T09:32:13.000000Z"
-    },
-    {
-      "title": "Fitch Forecasts Prolonged Ukraine Conflict; Howard Hughes Joins S&P SmallCap 600",
-      "title_ko": "피치, 우크라이나 분쟁 장기화 전망… 하워드 휴즈, S&P 스몰캡 600 지수에 편입",
-      "snippet": "Fitch Ratings has issued a sobering outlook for the Ukraine conflict, projecting that the war will likely continue through 2027. The agency noted that current",
-      "snippet_ko": "피치 레이팅스는 우크라이나 분쟁에 대해 냉정한 전망을 내놓으며, 전쟁이 2027년까지 계속될 가능성이 높다고 내다봤다. 이 기관은 현재",
-      "symbol": "",
-      "sentiment_score": 0.6999,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/fitch-forecasts-prolonged-ukraine-conflict-howard-hughes-joins-sp-smallcap-600/73526/",
-      "cross_verified": true,
-      "published_at": "2026-10-24T01:38:25.000000Z"
-    },
-    {
-      "title": "Vertex Pharmaceuticals Incorporated (VRTX) Presents at American Society of Nephrology (ASN) Kidney Week 2026 - Slideshow (NASDAQ:VRTX) 2026-10-23",
-      "title_ko": "버텍스 파마슈티컬스(Vertex Pharmaceuticals Incorporated, VRTX), 미국 신장학회(ASN) ‘키드니 위크 2026’에서 발표 - 슬라이드 쇼 (나스닥:VRTX) 2026년 10월 23일",
-      "snippet": "2026-10-23. The following slide deck was published by Vertex Pharmaceuticals Incorporated in conjunction with this event.",
-      "snippet_ko": "2026년 10월 23일. 다음 슬라이드 자료는 이번 행사와 관련하여 Vertex Pharmaceuticals Incorporated에서 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4957139-vertex-pharmaceuticals-incorporated-vrtx-presents-at-american-society-of-nephrology-asn",
-      "cross_verified": true,
-      "published_at": "2026-10-24T01:31:05.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Mixed Performance for Major Indexes as Earnings Season Intensifies",
+      "title_ko": "실적 발표 시즌이 본격화되면서 주요 지수들의 등락이 엇갈렸다",
+      "snippet": "As the U.S. stock market opens for trading on Tuesday, November 3, 2026, investors are navigating a complex landscape of corporate earnings and shifting",
+      "snippet_ko": "2026년 11월 3일 화요일, 미국 주식시장이 개장함에 따라 투자자들은 기업 실적과 변화하는 시장 상황이라는 복잡한 환경을 헤쳐 나가고 있다.",
+      "symbol": "MCD",
+      "sentiment_score": 0.2484,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/mixed-performance-for-major-indexes-as-earnings-season-intensifies-2/74062/",
+      "cross_verified": true,
+      "published_at": "2026-11-03T11:07:13.000000Z"
+    },
+    {
+      "title": "Alphabet Stock: Meta Wins In Ads, But Google’s AI Cloud Is More Profitable (NASDAQ:GOOGL)",
+      "title_ko": "알파벳 주가: 메타는 광고 부문에서 우위를 점했지만, 구글의 AI 클라우드 사업이 더 높은 수익성을 기록하고 있다 (NASDAQ:GOOGL)",
+      "snippet": "Alphabet faces ad revenue deceleration, losing ground to Meta, but Cloud and AI investments drive robust operating margins. Read more on GOOGL stock here.",
+      "snippet_ko": "알파벳은 광고 매출 성장세가 둔화되며 메타에 점유율을 내주고 있지만, 클라우드 및 AI 투자가 견실한 영업이익률을 이끌고 있습니다. GOOGL 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.4032,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4961345-alphabet-meta-wins-in-ads-but-googles-ai-cloud-is-more-profitable",
+      "cross_verified": true,
+      "published_at": "2026-11-03T09:54:50.000000Z"
+    },
+    {
+      "title": "Broadcom Stock: Great Company, Not A Great Price (NASDAQ:AVGO)",
+      "title_ko": "브로드컴 주식: 훌륭한 기업이지만, 주가는 그리 매력적이지 않다 (나스닥: AVGO)",
+      "snippet": "Broadcom has secured the supply to double AI revenue in 2027 and has line of sight to double it again in 2028 to $230 billion. Read more on AVGO stock here.",
+      "snippet_ko": "브로드컴은 2027년에 AI 매출을 두 배로 늘릴 수 있는 공급 기반을 확보했으며, 2028년에는 이를 다시 두 배로 늘려 2,300억 달러에 도달할 전망입니다. AVGO 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.6633,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4961340-broadcom-great-company-not-a-great-price",
+      "cross_verified": true,
+      "published_at": "2026-11-03T09:39:39.000000Z"
+    },
     {
       "title": "Global Market Today: Asian stocks slide as US chip selloff deepens",
       "title_ko": "오늘의 세계 시장: 미국 반도체 매도세 심화 속 아시아 증시 하락",
@@ -2367,42 +2403,6 @@
       "url": "https://www.upsidetrader.com/2026/10/25/weekend-market-report-10-25-26/",
       "cross_verified": true,
       "published_at": "2026-10-25T16:03:34.000000Z"
-    },
-    {
-      "title": "Here are 4 big things we're watching in the stock market this week",
-      "title_ko": "이번 주 주식 시장에서 우리가 주목하고 있는 4가지 주요 사항은 다음과 같습니다.",
-      "snippet": "Peak earnings season, plus a Fed meeting and fresh inflation data.",
-      "snippet_ko": "실적 발표 성수기인 데다, 연방준비제도(Fed) 회의와 최신 물가 지표도 발표될 예정이다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.042,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/investingclub/2026/10/25/here-are-4-big-things-were-watching-in-the-stock-market-this-week.html",
-      "cross_verified": true,
-      "published_at": "2026-10-25T14:58:26.000000Z"
-    },
-    {
-      "title": "A Strong Quarter Behind A $9.9 Billion Legal Charge And $35 Billion Of Capex (NASDAQ:META)",
-      "title_ko": "99억 달러의 법적 비용과 350억 달러의 자본지출에도 불구하고 견조한 분기 실적 (NASDAQ:META)",
-      "snippet": "Meta Platforms looks undervalued despite heavy AI spending and legal charges. Click for more on META stock.",
-      "snippet_ko": "메타 플랫폼스는 막대한 AI 투자와 법적 비용에도 불구하고 주가가 저평가된 것으로 보인다. META 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "META",
-      "sentiment_score": 0.6058,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4957326-meta-strong-quarter-behind-9_9-billion-legal-charge-35-billion-capex",
-      "cross_verified": true,
-      "published_at": "2026-10-25T13:25:25.000000Z"
-    },
-    {
-      "title": "Elon Musk Net Worth: $923B Today, $1,018B or $876B",
-      "title_ko": "일론 머스크의 순자산: 현재 9,230억 달러, 1조 180억 달러 또는 8,760억 달러",
-      "snippet": "Forbes puts Elon Musk at $922.9 billion on 25 October after SpaceX closed at $147.49 and Tesla at $372.22. Fed-week levels $1,018 billion and $876 billion.",
-      "snippet_ko": "포브스는 10월 25일 스페이스X 주가가 147.49달러, 테슬라 주가가 372.22달러로 장을 마감한 후 엘론 머스크의 순자산을 9,229억 달러로 추산했다. 연방준비제도(Fed) 회의 주간의 순자산 규모는 각각 1조 180억 달러와 8,760억 달러였다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2673,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/elon-musk-net-worth-923-billion-sunday-spacex-147-tesla-372-fed-week-bull-1018-bear-876/",
-      "cross_verified": true,
-      "published_at": "2026-10-25T13:19:18.000000Z"
     }
   ]
 }
