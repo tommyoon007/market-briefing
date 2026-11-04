@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-03T19:21:19.609059+00:00",
+  "updated_at": "2026-11-04T00:31:07.114658+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "OFS Capital 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:OFS) 2026-11-03",
+      "title_ko": "OFS Capital 2026년 3분기 - 실적 - 실적 발표회 프레젠테이션 (NASDAQ:OFS) 2026-11-03",
+      "snippet": "2026-11-03. The following slide deck was published by OFS Capital in conjunction with their 2026 Q3 earnings call.",
+      "snippet_ko": "2026년 11월 3일. 다음 슬라이드 자료는 OFS 캐피털이 2026년 3분기 실적 발표 회의와 함께 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4961847-ofs-capital-2026-q3-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-11-03T23:16:45.000000Z"
+    },
+    {
+      "title": "ZOZO, Inc. 2027 Q2 - Results - Earnings Call Presentation (OTCMKTS:SRTTY) 2026-11-03",
+      "title_ko": "ZOZO, Inc. 2027년 2분기 - 실적 - 실적 발표회 프레젠테이션 (OTCMKTS:SRTTY) 2026-11-03",
+      "snippet": "2026-11-03. The following slide deck was published by ZOZO, Inc.",
+      "snippet_ko": "2026년 11월 3일. 다음 슬라이드 자료는 ZOZO, Inc.에서 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4961846-zozo-inc-2027-q2-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-11-03T23:16:32.000000Z"
+    },
+    {
+      "title": "Louisiana-Pacific Corporation (LPX) Q3 2026 Earnings Call Transcript",
+      "title_ko": "루이지애나-퍼시픽 코퍼레이션(LPX) 2026년 3분기 실적 발표 회의록",
+      "snippet": "Louisiana-Pacific Corporation (LPX) Q3 2026 Earnings Call November 3, 2026 11:00 AM ESTCompany ParticipantsBob Hopkins - VP & TreasurerJason Ringblom -...",
+      "snippet_ko": "루이지애나-퍼시픽 코퍼레이션(LPX) 2026년 3분기 실적 발표 전화회의 2026년 11월 3일 오전 11:00(미국 동부 표준시) 회사 참석자: 밥 홉킨스 - 부사장 겸 재무책임자, 제이슨 링블롬 -...",
+      "symbol": "",
+      "sentiment_score": 0.4712,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4961682-louisiana-pacific-corporation-lpx-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-03T23:15:55.000000Z"
+    },
     {
       "title": "DigitalOcean Holdings, Inc. (DOCN) Q3 2026 Earnings Call Transcript",
       "title_ko": "DigitalOcean Holdings, Inc. (DOCN) 2026년 3분기 실적 발표 회의록",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4957244-amgen-inc-amgn-presents-at-2026-european-society-for-medical-oncology-esmo-annual-congress",
       "cross_verified": true,
       "published_at": "2026-10-24T20:30:50.000000Z"
-    },
-    {
-      "title": "eBay Earnings Preview: Innovation Tops GameStop Bid (NASDAQ:EBAY)",
-      "title_ko": "eBay 실적 전망: 혁신이 GameStop 인수 제안을 앞지르다 (NASDAQ:EBAY)",
-      "snippet": "eBay is trading at highs, driven by a return to growth and innovation in core categories like collectibles and live services. Click to read more about eBay.",
-      "snippet_ko": "eBay는 수집품 및 라이브 서비스와 같은 핵심 카테고리에서 성장세가 회복되고 혁신이 이어지면서 주가가 사상 최고치를 기록하고 있습니다. eBay에 대해 더 자세히 알아보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.6673,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4957235-ebay-earnings-preview-innovation-tops-gamestop-bid",
-      "cross_verified": true,
-      "published_at": "2026-10-24T16:17:51.000000Z"
-    },
-    {
-      "title": "Kotak Mahindra Bank, IDFC First PAT rise; Marginal dip in NIM on FCNR (B) inflows",
-      "title_ko": "코탁 마힌드라 은행, IDFC 퍼스트의 순이익 증가… FCNR(B) 자금 유입으로 순이자마진 소폭 하락",
-      "snippet": "Kotak Mahindra Bank and IDFC First Bank post rising profits, NIM dips on FCNR(B) deposits; AU Small Finance Bank gains profit.",
-      "snippet_ko": "코탁 마힌드라 은행과 IDFC 퍼스트 은행은 이익이 증가했으나, FCNR(B) 예금으로 인해 순이자마진이 하락했으며, AU 스몰 파이낸스 은행은 이익을 기록했다.",
-      "symbol": "",
-      "sentiment_score": 0.8519,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/kotak-mahindra-bank-idfc-first-pat-rise-marginal-dip-in-nim-on-fcnr-b-inflows/article71620665.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-24T14:52:39.000000Z"
-    },
-    {
-      "title": "Sony 1000X THE COLLEXION Review: Premium design, flagship sound, but is it worth Rs 60,000?",
-      "title_ko": "소니 1000X THE COLLEXION 리뷰: 프리미엄 디자인, 플래그십급 사운드, 하지만 60,000루피의 가치가 있을까?",
-      "snippet": "Sony's new luxury headphones promise premium design, impressive sound and all-day comfort, but they cost Rs 20,000 more than the WH-1000XM6. After testing them across commutes, workouts and office calls, we found plenty to like, along with a few compromises that raise questions about whether the extra expense is truly worth it.",
-      "snippet_ko": "소니의 새로운 럭셔리 헤드폰은 고급스러운 디자인, 인상적인 사운드, 하루 종일 지속되는 착용감을 자랑하지만, WH-1000XM6보다 20,000루피 더 비쌉니다. 출퇴근길, 운동, 사무실 통화 등 다양한 상황에서 직접 테스트해 본 결과, 마음에 드는 점이 많았지만, 추가 비용을 지불할 만한 가치가 있는지 의문을 품게 만드는 몇 가지 단점도 발견했습니다.",
-      "symbol": "",
-      "sentiment_score": 0.5483,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/sony-1000x-the-collexion-review-premium-design-flagship-sound-but-is-it-worth-rs-60000/articleshow/135172406.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-24T14:38:04.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Market Recap- 11/3/26- AMD Just Answered The AI Demand Question",
+      "title_ko": "시장 요약 - 26년 11월 3일 - AMD, AI 수요에 대한 의문을 해소했다",
+      "snippet": "Election Day turned out to be a pretty good day to own chips. After Monday pushed the Nasdaq-100 into correction territory, buyers returned to semis Tuesday and dragged the tech indexes higher. The Nasdaq rose 0.83% to 25,372, and the S&P 500 added 0.36% to 7,568.92, ending a three-day losing…",
+      "snippet_ko": "선거일은 주식 보유자들에게 꽤 좋은 날로 드러났다. 월요일에 나스닥 100 지수가 조정 국면에 진입한 뒤, 화요일에는 매수세력이 반도체주로 돌아와 기술주 지수를 끌어올렸다. 나스닥은 0.83% 상승한 25,372를 기록했고, S&P 500 지수는 0.36% 오른 7,568.92를 기록하며 3일 연속 하락세를 마감했다…",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3182,
+      "source": "upsidetrader.com",
+      "url": "https://www.upsidetrader.com/2026/11/03/market-recap-11-3-26-amd-just-answered-the-ai-demand-question/",
+      "cross_verified": true,
+      "published_at": "2026-11-03T22:39:59.000000Z"
+    },
+    {
+      "title": "Market Open: ASX set to slip as investors weigh RBA rate hike",
+      "title_ko": "장 개장: 투자자들이 RBA의 금리 인상을 주시하면서 ASX는 하락세를 보일 전망",
+      "snippet": "Australian shares are expected to open lower on Wednesday, with SPI futures pointing to a softer start after yesterday's RBA decision.",
+      "snippet_ko": "호주 증시는 수요일 하락세로 출발할 것으로 예상되며, 어제 호주중앙은행(RBA)의 결정 이후 SPI 선물 지수가 약세 출발을 예고하고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2929,
+      "source": "themarketherald.com.au",
+      "url": "https://themarketonline.com.au/market-open-asx-set-to-slip-as-investors-weigh-rba-rate-hike-2026-11-04/",
+      "cross_verified": true,
+      "published_at": "2026-11-03T22:14:52.000000Z"
+    },
+    {
+      "title": "Tech Sector Leads Gains as Earnings Season Intensifies on Election Day",
+      "title_ko": "선거일, 실적 발표 시즌이 본격화되면서 기술주가 상승세를 주도",
+      "snippet": "U.S. equity markets showed resilience on Tuesday, November 3rd, 2026, as investors balanced a heavy slate of corporate earnings against the backdrop of",
+      "snippet_ko": "2026년 11월 3일 화요일, 미국 주식 시장은 투자자들이 다음과 같은 배경 속에서 쏟아지는 기업 실적 발표를 종합적으로 평가함에 따라 탄탄한 모습을 보였습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.264,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-sector-leads-gains-as-earnings-season-intensifies-on-election-day/74099/",
+      "cross_verified": true,
+      "published_at": "2026-11-03T22:07:12.000000Z"
+    },
     {
       "title": "Tech and Biotech Surge Leads Markets Higher Amid Heavy Earnings Volume",
       "title_ko": "실적 발표가 쇄도하는 가운데, 기술주와 바이오테크주의 급등에 힘입어 시장이 상승세를 타고 있다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9141503/intel-enhances-semiconductor-operations-with-ai-efficiency-intc",
       "cross_verified": true,
       "published_at": "2026-10-26T01:30:33.000000Z"
-    },
-    {
-      "title": "Apple reports ₹650 crore India software revenue in FY26",
-      "title_ko": "애플, 2026 회계연도 인도 소프트웨어 매출 650 크로르 루피 기록",
-      "snippet": "Apple Operations India generated a revenue of ₹650 crore in FY26 through software development and global support initiatives. The company's total revenue from various activities exceeded ₹1,400 crore, a significant increase from the previous year. Manufacturing support revenue nearly doubled, indicating a restructuring of Apple's operations in India. This growth suggests that Apple is positioning its Indian subsidiary as a major global engineering hub.",
-      "snippet_ko": "애플 오퍼레이션스 인디아는 소프트웨어 개발 및 글로벌 지원 사업을 통해 26 회계연도에 65억 루피의 매출을 올렸습니다. 다양한 활동을 통해 창출된 이 회사의 총 매출은 140억 루피를 넘어섰으며, 이는 전년 대비 상당한 증가세를 보였습니다. 제조 지원 매출은 거의 두 배로 증가했으며, 이는 애플의 인도 사업 구조 조정이 진행 중임을 시사합니다. 이러한 성장세는 애플이 인도 자회사를 주요 글로벌 엔지니어링 허브로 자리매김하고 있음을 보여줍니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4517,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/apple-reports-650-crore-india-software-revenue-in-fy26/articleshow/135197101.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-26T00:00:00.000000Z"
-    },
-    {
-      "title": "Bretton Fund Q3 2026 Shareholder Letter",
-      "title_ko": "브레튼 펀드 2026년 3분기 주주 서한",
-      "snippet": "Microsoft’s stock jumped 38% and Bretton Fund added 1.6% to performance, while SAP also added 1.6%. Ross was the other main contributor, adding 0.6%. Read more here.",
-      "snippet_ko": "마이크로소프트 주가는 38% 급등했으며, 브레튼 펀드는 수익률에 1.6%를 기여했고, SAP 역시 1.6%를 기여했습니다. 로스도 0.6%를 기여하며 주요 기여자 중 하나였습니다. 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.1597,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4957347-bretton-fund-q3-2026-shareholder-letter",
-      "cross_verified": true,
-      "published_at": "2026-10-25T20:17:00.000000Z"
-    },
-    {
-      "title": "Microsoft Stock Before Wednesday’s Results: The 45% Azure Guide, and $50 Billion Capex Quarter",
-      "title_ko": "수요일 실적 발표를 앞둔 마이크로소프트 주가: 45%의 애저 성장 전망과 분기 500억 달러 규모의 설비투자",
-      "snippet": "Microsoft (NASDAQ: MSFT) reports fiscal first-quarter 2027 earnings after the US market closes on Wednesday, October 28, with investors focused on three",
-      "snippet_ko": "마이크로소프트(NASDAQ: MSFT)는 10월 28일 수요일 미국 증시 장 마감 후 2027 회계연도 1분기 실적을 발표할 예정이며, 투자자들은 다음 세 가지에 주목하고 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.0163,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/microsoft-stock-before-wednesdays-results-the-45-azure-guide-and-50-billion-capex-quarter/",
-      "cross_verified": true,
-      "published_at": "2026-10-25T19:26:01.000000Z"
     }
   ]
 }
