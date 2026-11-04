@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-04T08:52:02.055069+00:00",
+  "updated_at": "2026-11-04T17:53:34.282488+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Continental Aktiengesellschaft (CTTAY) Q3 2026 Earnings Call Transcript",
+      "title_ko": "콘티넨탈 Aktiengesellschaft (CTTAY) 2026년 3분기 실적 발표 회의 녹취록",
+      "snippet": "Continental Aktiengesellschaft (CTTAY) Q3 2026 Earnings Call November 4, 2026 6:30 AM ESTCompany ParticipantsMax Westmeyer - Head of Investor...",
+      "snippet_ko": "콘티넨탈 Aktiengesellschaft (CTTAY) 2026년 3분기 실적 발표 전화회의 2026년 11월 4일 오전 6시 30분(미국 동부 표준시) 회사 참가자 맥스 웨스트마이어 - 투자자 관계 책임자...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4962155-continental-aktiengesellschaft-cttay-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-04T17:04:39.000000Z"
+    },
+    {
+      "title": "Brookfield Renewable Partners L.P. Limited Partnership Units (BEP.UN:CA) Q3 2026 Earnings Call Transcript",
+      "title_ko": "브룩필드 리뉴어블 파트너스 L.P. 유한파트너십 유닛(BEP.UN:CA) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "Brookfield Renewable Partners L.P. Limited Partnership Units (BEP.UN:CA) Q3 2026 Earnings Call November 4, 2026 9:00 AM ESTCompany ParticipantsConnor Teskey...",
+      "snippet_ko": "브룩필드 리뉴어블 파트너스 L.P. 유한파트너십 유닛(BEP.UN:CA) 2026년 3분기 실적 발표 컨퍼런스콜 2026년 11월 4일 오전 9:00(미국 동부 표준시) 회사 참가자: 코너 테스키...",
+      "symbol": "",
+      "sentiment_score": -0.2263,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4962307-brookfield-renewable-partners-l-p-limited-partnership-units-bep-un-ca-q3-2026-earnings-call",
+      "cross_verified": true,
+      "published_at": "2026-11-04T16:44:33.000000Z"
+    },
     {
       "title": "Bayerische Motoren Werke Aktiengesellschaft 2026 Q3 - Results - Earnings Call Presentation (TSX:BMW:CA) 2026-11-04",
       "title_ko": "바이에른 모터스 베르케 Aktiengesellschaft 2026년 3분기 - 실적 - 실적 발표회 프레젠테이션 (TSX:BMW:CA) 2026-11-04",
@@ -1177,33 +1201,45 @@
       "url": "https://www.business-standard.com/world-news/sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-a-deeper-trap-126102500055_1.html",
       "cross_verified": true,
       "published_at": "2026-10-25T02:48:06.000000Z"
-    },
-    {
-      "title": "Bloom Energy Stock: Strong Results Not Sufficient Overcome Deteriorating Picture (NYSE:BE)",
-      "title_ko": "블룸 에너지 주가: 호실적만으로는 악화되는 시장 전망을 극복하기에는 역부족 (NYSE:BE)",
-      "snippet": "Bloom Energy beat Q3 estimates and raised guidance again, but AI infrastructure risks cloud outlook.",
-      "snippet_ko": "블룸 에너지(Bloom Energy)는 3분기 실적 전망치를 상회했고 실적 전망치를 다시 상향 조정했으나, AI 인프라 관련 리스크가 전망을 어둡게 하고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.4253,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4957285-bloom-energy-strong-results-not-sufficient-to-overcome-deteriorating-big-picture",
-      "cross_verified": true,
-      "published_at": "2026-10-25T01:52:29.000000Z"
-    },
-    {
-      "title": "IDEX Corporation Stock Is Growing Nicely, Not Enough To Justify Bullish Rating (NYSE:IEX)",
-      "title_ko": "IDEX Corporation의 주가는 순조롭게 상승하고 있으나, 강세 평가를 뒷받침하기에는 아직 부족하다 (NYSE:IEX)",
-      "snippet": "IDEX delivers strong revenue and profit growth, with raised 2026 guidance and improving demand.",
-      "snippet_ko": "IDEX는 매출과 이익이 견조한 성장세를 보였으며, 2026년 실적 전망치를 상향 조정하고 수요 회복세를 보이고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.5574,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4957284-idex-corporation-is-growing-nicely-but-not-enough-to-justify-bullish-rating",
-      "cross_verified": true,
-      "published_at": "2026-10-25T01:40:28.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Jim Cramer says this bank stock is a buy after its post-election pullback",
+      "title_ko": "짐 크레이머는 선거 이후 주가가 조정세를 보인 이 은행주를 매수할 만한 종목이라고 말했다.",
+      "snippet": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "snippet_ko": "투자 동아리는 평일 매일 오전 10시 20분(미국 동부 표준시)에 “모닝 미팅”을 개최합니다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.7135,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/investingclub/2026/11/04/cramer-says-this-bank-stock-is-a-buy-after-its-post-election-pullback.html",
+      "cross_verified": true,
+      "published_at": "2026-11-04T16:54:39.000000Z"
+    },
+    {
+      "title": "U.S. Stocks Rally Following Democrats' Decisive Midterm Election Victory",
+      "title_ko": "민주당, 중간선거에서 압도적인 승리를 거두자 미국 증시 급등",
+      "snippet": "Stocks have moved sharply higher during trading on Wednesday, with the major averages all showing strong moves to the upside following the mixed performances seen in each of the two previous sessions.",
+      "snippet_ko": "수요일 장중 주가가 급등했으며, 지난 두 거래일 동안 혼조세를 보였던 주요 지수들은 모두 강한 상승세를 보였다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.7964,
+      "source": "rttnews.com",
+      "url": "https://www.rttnews.com/3709670/u-s-stocks-rally-following-democrats-decisive-midterm-election-victory.aspx?type=ts",
+      "cross_verified": true,
+      "published_at": "2026-11-04T16:15:29.000000Z"
+    },
+    {
+      "title": "Canadian General Investments: Investment Update - Unaudited",
+      "title_ko": "캐나디안 제너럴 인베스트먼츠: 투자 현황 - 미감사",
+      "snippet": "TORONTO, Canada, Nov. 04, 2026 (GLOBE NEWSWIRE) -- Canadian General Investments, Limited (CGI) (TSX:CGI) (LSE: CGI) reports on an unaudited basis that its net asset value per share (NAV) at October 31, 2026 was $84.06 resulting in year-to-date and 12-month NAV returns, with dividends reinvested, of 5.3% and 3.9%, respectively. These compare with the 14.4% and 20.4% returns of the benchmark S&P/TSX Composite Index on a total return basis for the same periods.",
+      "snippet_ko": "캐나다 토론토, 2026년 11월 4일 (GLOBE NEWSWIRE) -- Canadian General Investments, Limited (CGI) (TSX:CGI) (LSE: CGI)는 2026년 10월 31일 기준 감사 전 기준 주당 순자산가치 (NAV)가 84.06달러였으며, 이에 따라 배당금을 재투자한 기준 연초 대비 및 12개월 NAV 수익률은 각각 5.3%와 3.9%를 기록했다고 밝혔다. 이는 같은 기간 동안 총수익 기준 벤치마크인 S&P/TSX 종합지수의 수익률인 14.4% 및 20.4%와 비교되는 수치이다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2826,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/11/05/tmt-newswire/globenewswire/canadian-general-investments-investment-update-unaudited/2462024",
+      "cross_verified": true,
+      "published_at": "2026-11-04T16:10:16.000000Z"
+    },
     {
       "title": "AWS launches \"Semarak AI Malaysia\", a national program to bring AI tools to government officers, students, and local software companies",
       "title_ko": "AWS, 공무원, 학생, 현지 소프트웨어 기업에 AI 도구를 제공하는 국가 차원의 프로그램인 ‘세마락 AI 말레이시아(Semarak AI Malaysia)’를 출범했다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9142872/meta-platforms-meta-plans-95-billion-equity-raise-to-bridge-2027-funding-gap",
       "cross_verified": true,
       "published_at": "2026-10-26T19:02:45.000000Z"
-    },
-    {
-      "title": "Meta Platforms Launches $35 Billion Offering to Boost AI Investments (META)",
-      "title_ko": "메타 플랫폼스, AI 투자 확대를 위해 350억 달러 규모 자금 조달에 나서 (META)",
-      "snippet": "On October 26, 2026, Meta Platforms Inc (NASDAQ: META) announced underwritten offerings totaling approximately $35 billion, comprising $22.5 billion in Class A",
-      "snippet_ko": "2026년 10월 26일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)는 총 약 350억 달러 규모의 인수 보증 공모를 발표했으며, 이 중 225억 달러는 A급 주식",
-      "symbol": "META",
-      "sentiment_score": 0.296,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9142824/meta-platforms-launches-35-billion-offering-to-boost-ai-investments-meta",
-      "cross_verified": true,
-      "published_at": "2026-10-26T18:55:24.000000Z"
-    },
-    {
-      "title": "Traders are looking on the bright side despite last week’s carnage in tech stocks",
-      "title_ko": "지난주 기술주 시장이 대혼란을 겪었음에도 불구하고 투자자들은 긍정적인 측면을 주목하고 있다",
-      "snippet": "Talks between Saudi Arabia and Iran are ongoing, and the credit ratings agency Moody’s left France’s credit rating unchanged from before the riots.",
-      "snippet_ko": "사우디아라비아와 이란 간의 회담이 진행 중이며, 신용평가사 무디스는 폭동 이전과 마찬가지로 프랑스의 신용등급을 동결했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3215,
-      "source": "fortune.com",
-      "url": "https://fortune.com/2026/10/26/traders-looking-bright-side-despite-last-weeks-carnage-tech-stocks/",
-      "cross_verified": true,
-      "published_at": "2026-10-26T11:25:34.000000Z"
-    },
-    {
-      "title": "INVESCO QQQ Trust (QQQ) Sells $14.3 Million More NVIDIA on Thursday",
-      "title_ko": "인베스코 QQQ 트러스트(QQQ), 목요일 엔비디아 주식 1,430만 달러어치 추가 매도",
-      "snippet": "INVESCO QQQ Trust (QQQ) was the sole ETF selling on Thursday, Oct. 22, with no ETFs buying. QQQ recorded $175.9 million in gross ETF activity, all of it on the",
-      "snippet_ko": "10월 22일 목요일, 인베스코 QQQ 트러스트(QQQ)는 매도된 유일한 ETF였으며, 매수된 ETF는 없었습니다. QQQ는 총 1억 7,590만 달러 규모의 ETF 거래량을 기록했는데, 이 중 전량이",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2641,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9141992/invesco-qqq-trust-qqq-sells-143-million-more-nvidia-on-thursday",
-      "cross_verified": true,
-      "published_at": "2026-10-26T11:05:20.000000Z"
     }
   ]
 }
