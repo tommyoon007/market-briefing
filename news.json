@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-04T17:53:34.282488+00:00",
+  "updated_at": "2026-11-04T23:28:46.918645+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Illumina selected to help bring precision medicine into everyday healthcare in Singapore",
+      "title_ko": "일루미나, 싱가포르에서 정밀 의학을 일상적인 의료 서비스에 도입하는 데 기여할 기업으로 선정",
+      "snippet": "/PRNewswire/ -- Illumina, Inc. (Nasdaq: ILMN) announced it has been selected to provide whole-genome sequencing services for the SG-INSIGHT study, a cohort...",
+      "snippet_ko": "/PRNewswire/ -- 일루미나(Illumina, Inc.)(나스닥: ILMN)는 코호트 연구인 SG-INSIGHT 연구에 전장 유전체 염기서열 분석 서비스를 제공하게 되었다고 발표했습니다...",
+      "symbol": "",
+      "sentiment_score": 0.4925,
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/apac/news-releases/illumina-selected-to-help-bring-precision-medicine-into-everyday-healthcare-in-singapore-302929267.html",
+      "cross_verified": true,
+      "published_at": "2026-11-04T23:00:00.000000Z"
+    },
+    {
+      "title": "OceanaGold Reports Third Quarter 2026 Results",
+      "title_ko": "오세아나골드, 2026년 3분기 실적 발표",
+      "snippet": "/PRNewswire/ -- OceanaGold Corporation (TSX: OGC) (NYSE: OGC) (\"OceanaGold\" or the \"Company\") reported its operational and financial results for the three and...",
+      "snippet_ko": "/PRNewswire/ -- 오세아나골드 코퍼레이션(OceanaGold Corporation, TSX: OGC, NYSE: OGC)(이하 “오세아나골드” 또는 “회사”)은 3개월 및...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/apac/news-releases/oceanagold-reports-third-quarter-2026-results-302929890.html",
+      "cross_verified": true,
+      "published_at": "2026-11-04T22:52:00.000000Z"
+    },
+    {
+      "title": "Fuel Tech, Inc. (FTEK) Q3 2026 Earnings Call Transcript",
+      "title_ko": "Fuel Tech, Inc. (FTEK) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "Fuel Tech, Inc. (FTEK) Q3 2026 Earnings Call November 4, 2026 10:00 AM ESTCompany ParticipantsRamesh Nuggihalli - CEO & PresidentEllen Albrecht - VP,...",
+      "snippet_ko": "Fuel Tech, Inc. (FTEK) 2026년 3분기 실적 발표 전화 회의, 2026년 11월 4일 오전 10:00 (미국 동부 표준시) 회사 참석자: 라메시 누기할리 - CEO 겸 사장, 엘렌 알브레히트 - 부사장,...",
+      "symbol": "",
+      "sentiment_score": 0.3,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4962566-fuel-tech-inc-ftek-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-04T22:44:33.000000Z"
+    },
     {
       "title": "Continental Aktiengesellschaft (CTTAY) Q3 2026 Earnings Call Transcript",
       "title_ko": "콘티넨탈 Aktiengesellschaft (CTTAY) 2026년 3분기 실적 발표 회의 녹취록",
@@ -1165,45 +1201,45 @@
       "url": "https://www.business-standard.com/opinion/columns/from-pca-to-prem-watsa-idbi-bank-s-long-road-to-privatisation-126102500372_1.html",
       "cross_verified": true,
       "published_at": "2026-10-25T10:07:55.000000Z"
-    },
-    {
-      "title": "Rupee's recovery faces hurdles from dollar demand, capital outflows",
-      "title_ko": "루피화 회복세, 달러 수요와 자본 유출로 난항 예상",
-      "snippet": "Global yields, hedging shifts and capital outflows add to pressure on the currency",
-      "snippet_ko": "전 세계 금리, 헤지 전략의 변화, 자본 유출이 해당 통화에 대한 압박을 가중시키고 있다",
-      "symbol": "",
-      "sentiment_score": -0.1908,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/finance/news/rupee-s-recovery-faces-hurdles-from-dollar-demand-capital-outflows-126102500370_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-25T10:04:32.000000Z"
-    },
-    {
-      "title": "Novartis: Faces A Tougher Test As Patent Losses And Pipeline Setbacks Mount (NYSE:NVS)",
-      "title_ko": "노바티스: 특허 만료와 신약 파이프라인의 차질이 잇따르며 더 큰 시련에 직면 (NYSE:NVS)",
-      "snippet": "Novartis reported 2Q26 revenue of $14.4 billion, as strong demand for newer medicines was largely offset by generic competition. See why NVS stock is a Hold.",
-      "snippet_ko": "노바티스는 2026년 2분기 매출이 144억 달러를 기록했다고 발표했는데, 신약에 대한 강력한 수요가 제네릭 의약품과의 경쟁으로 인해 상당 부분 상쇄되었기 때문이다. NVS 주식을 ‘보유(Hold)’로 평가하는 이유를 확인해 보자.",
-      "symbol": "",
-      "sentiment_score": -0.25,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4957306-novartis-strong-drug-growth-faces-tougher-test-patent-losses-pipeline-setbacks-mount",
-      "cross_verified": true,
-      "published_at": "2026-10-25T10:03:30.000000Z"
-    },
-    {
-      "title": "Sinking profits turn China's $3.5 trillion stock rout into a deeper trap",
-      "title_ko": "이익 감소로 인해 중국의 3.5조 달러 규모 주식 시장 폭락이 더 깊은 덫으로 변하고 있다",
-      "snippet": "The world's second-largest equities market has lost $3.5 trillion in value from a peak in May, data compiled by Bloomberg show",
-      "snippet_ko": "블룸버그가 집계한 자료에 따르면, 세계 2위 규모의 주식 시장은 지난 5월 최고점 대비 3조 5천억 달러의 시가총액이 감소한 것으로 나타났다",
-      "symbol": "",
-      "sentiment_score": 0.0599,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-a-deeper-trap-126102500055_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-25T02:48:06.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Market Open: ASX set for sharp rebound as Wall Street rallies and oil tumbles",
+      "title_ko": "시장 개장: 월가 상승세와 유가 급락에 힘입어 ASX, 급반등 전망",
+      "snippet": "The Australian sharemarket is poised for a strong rebound today, with ASX 200 futures pointing to a near two per cent jump.",
+      "snippet_ko": "호주 증시는 오늘 강력한 반등을 보일 전망이며, ASX 200 선물 지수는 2%에 가까운 상승세를 예고하고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.2335,
+      "source": "themarketherald.com.au",
+      "url": "https://themarketonline.com.au/market-open-asx-set-for-sharp-rebound-as-wall-street-rallies-and-oil-tumbles-2026-11-05/",
+      "cross_verified": true,
+      "published_at": "2026-11-04T22:11:33.000000Z"
+    },
+    {
+      "title": "Tech and Communication Sectors Lead Gains as Earnings Season Hits High Gear",
+      "title_ko": "실적 발표 시즌이 본격화되면서 기술 및 통신 부문이 상승세를 주도하고 있다",
+      "snippet": "U.S. equity markets showed modest resilience on Wednesday, November 4th, 2026, as investors navigated a heavy slate of corporate earnings and prepared for",
+      "snippet_ko": "2026년 11월 4일 수요일, 미국 주식 시장은 투자자들이 잇달아 발표된 기업 실적 발표를 주시하고 다음을 대비하는 가운데 소폭의 회복세를 보였다.",
+      "symbol": "TSLA",
+      "sentiment_score": 0.0564,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-communication-sectors-lead-gains-as-earnings-season-hits-high-gear/74164/",
+      "cross_verified": true,
+      "published_at": "2026-11-04T22:07:17.000000Z"
+    },
+    {
+      "title": "Coca-Cola Consolidated Reports Third Quarter and First Nine Months 2026 Results",
+      "title_ko": "코카콜라 컨솔리데이티드, 2026년 3분기 및 1~9개월 실적 발표",
+      "snippet": "Third quarter of 2026 net sales increased 5% versus the third quarter of 2025.Gross profit in the third quarter of 2026 was $772 million, an increase of 3%(a).Income from operations for the third quarter of 2026 was $272 million, an increase of $25 million, or 10%. Operating margin for the third quarter of 2026 increased 60 basis points to 13.7%.For the first nine months of 2026, income from operations was $780 million, an increase of $72 million, or 10%; adjusted(b) income from operations increased 5%.Key Results Third Quarter First Nine Months (in millions) 2026 2025 Change 2026 2025 ChangeVolume(1) 94.2 92.8 1.4% 278.8 260.3 7.1%Net sales $1,989.5 $1,888.3 5.4% $5,888.6 $5,323.8 10.6%Gross profit $771.6 $748.5 3.1% $2,277.1 $2,118.1 7.5%Gross margin 38.8 % 39.6 % 38.7 % 39.8 % Income from operations $271.6 $246.6 10.1% $780.5 $708.5 10.1%Operating margin 13.7 % 13.1 % 13.3 % 13.3 % Beverage Sales Third Quarter First Nine Months (in millions) 2026 2025 Change 2026 2025 ChangeSparkling bottle/can $1,130.9 $1,083.1 4.4% $3,405.0 $3,096.9 9.9%Still bottle/can $687.2 $643.3 6.8% $1,990.2 $1,778.5 11.9% (1) Volume is measured on a standard physical case basis and is used to standardize differing package configurations delivered via direct store delivery.",
+      "snippet_ko": "2026년 3분기 순매출은 2025년 3분기 대비 5% 증가했습니다.2026년 3분기 매출총이익은 7억 7,200만 달러로, 3%(a) 증가했습니다. 2026년 3분기 영업이익은 2억 7,200만 달러로, 2,500만 달러(10%) 증가했습니다. 2026년 3분기 영업이익률은 60베이시스포인트 상승한 13.7%를 기록했습니다. 2026년 첫 9개월 동안의 영업이익은 7억 8,000만 달러로, 7,200만 달러(10%) 증가했으며, 조정(b) 영업이익은",
+      "symbol": "KO",
+      "sentiment_score": 0.2608,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/11/05/tmt-newswire/globenewswire/coca-cola-consolidated-reports-third-quarter-and-first-nine-months-2026-results/2462250",
+      "cross_verified": true,
+      "published_at": "2026-11-04T21:35:16.000000Z"
+    },
     {
       "title": "Jim Cramer says this bank stock is a buy after its post-election pullback",
       "title_ko": "짐 크레이머는 선거 이후 주가가 조정세를 보인 이 은행주를 매수할 만한 종목이라고 말했다.",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9143066/us-stocks-rise-as-tech-rebounds-alphabet-googl-awaits-q3-earnings-amid-ai-investment-peak",
       "cross_verified": true,
       "published_at": "2026-10-26T22:00:29.000000Z"
-    },
-    {
-      "title": "Merck's Sacituzumab Tirumotecan Trial Shows Promising Results for Endometrial Cancer (MRK)",
-      "title_ko": "머크(Merck)의 사시투주맙-티루모테칸 임상시험, 자궁내막암 치료에서 유망한 결과 보여 (MRK)",
-      "snippet": "On October 26, 2026, Merck & Co Inc (NYSE: MRK) announced positive Phase 3 clinical trial results for sacituzumab tirumotecan (sac-TMT), demonstrating significa",
-      "snippet_ko": "2026년 10월 26일, 머크 앤 컴퍼니(Merck & Co Inc, NYSE: MRK)는 사시투주맙 티루모테칸(sac-TMT)에 대한 3상 임상시험 결과가 긍정적임을 발표하며, 이 약물이 상당한",
-      "symbol": "MRK",
-      "sentiment_score": 0.3851,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9143021/mercks-sacituzumab-tirumotecan-trial-shows-promising-results-for-endometrial-cancer-mrk",
-      "cross_verified": true,
-      "published_at": "2026-10-26T21:55:52.000000Z"
-    },
-    {
-      "title": "Goldman Sachs Drops Stark Forecast for AI Stocks",
-      "title_ko": "골드만삭스, AI 관련주에 대한 극단적인 전망을 철회",
-      "snippet": "Goldman Sachs is warning that the artificial intelligence investment boom could reach a crucial turning point before 2026 ends, with the economic boost from hyp",
-      "snippet_ko": "골드만삭스는 인공지능 투자 붐이 2026년이 끝나기 전에 중대한 전환점을 맞이할 수 있다고 경고하며, 이로 인한 경제적 부양 효과는…",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.6422,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9142494/goldman-sachs-drops-stark-forecast-for-ai-stocks",
-      "cross_verified": true,
-      "published_at": "2026-10-26T19:20:59.000000Z"
-    },
-    {
-      "title": "Meta Platforms (META) Plans $95 Billion Equity Raise to Bridge 2027 Funding Gap",
-      "title_ko": "메타 플랫폼스(META), 2027년 자금 부족을 메우기 위해 950억 달러 규모의 자본 조달 계획",
-      "snippet": "On October 26, 2026, Meta Platforms Inc (NASDAQ: META) announced a plan to raise up to $95 billion through equity financing, exceeding market expectations and a",
-      "snippet_ko": "2026년 10월 26일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)는 주식 발행을 통해 최대 950억 달러를 조달할 계획을 발표했는데, 이는 시장 예상치를 웃도는 수준이며,",
-      "symbol": "META",
-      "sentiment_score": 0.0,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9142872/meta-platforms-meta-plans-95-billion-equity-raise-to-bridge-2027-funding-gap",
-      "cross_verified": true,
-      "published_at": "2026-10-26T19:02:45.000000Z"
     }
   ]
 }
