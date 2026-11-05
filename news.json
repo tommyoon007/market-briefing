@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-04T23:28:46.918645+00:00",
+  "updated_at": "2026-11-05T06:06:16.848051+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "ElectroCore outlines 30% to 40% 2027 revenue growth while targeting positive adjusted EBITDA by end of 2027 (NASDAQ:ECOR)",
+      "title_ko": "일렉트로코어(ElectroCore), 2027년 매출 30~40% 성장 전망… 2027년 말까지 조정 EBITDA 흑자 달성 목표 (나스닥: ECOR)",
+      "snippet": "electroCore Q3 2026: record sales, narrowed losses, revised revenue outlook, and FDA Quell CIPN filing.",
+      "snippet_ko": "electroCore 2026년 3분기 실적: 사상 최대 매출, 손실 폭 축소, 매출 전망 상향 조정, FDA에 CIPN 치료제 ‘Quell’ 승인 신청.",
+      "symbol": "",
+      "sentiment_score": 0.7351,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4666166-electrocore-outlines-30-percent-to-40-percent-2027-revenue-growth-while-targeting-positive",
+      "cross_verified": true,
+      "published_at": "2026-11-05T04:55:35.000000Z"
+    },
+    {
+      "title": "Dynex Capital: I See A Recovery From The Ashes Of A Tough Quarter - Buy (NYSE:DX)",
+      "title_ko": "다이넥스 캐피털: 힘든 분기의 잿더미 속에서 회복 조짐을 본다 - 매수 (NYSE:DX)",
+      "snippet": "Dynex Capital may be a contrarian turnaround buy, with recovery potential, dividend risk, and upside before financials fully improve. Read more on DX stock.",
+      "snippet_ko": "Dynex Capital은 회복 가능성이 있고, 배당 위험이 있으며, 재무 상태가 완전히 개선되기 전까지 상승 여력이 있는 역발상형 회생 매수 대상일 수 있습니다. DX 주식에 대해 더 자세히 알아보세요.",
+      "symbol": "",
+      "sentiment_score": 0.0412,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4962684-dynex-capital-i-see-a-recovery-from-the-ashes-of-a-tough-quarter-buy",
+      "cross_verified": true,
+      "published_at": "2026-11-05T04:52:13.000000Z"
+    },
+    {
+      "title": "Amdocs: The T-Mobile Shock Changes Everything (Rating Downgrade) (NASDAQ:DOX)",
+      "title_ko": "Amdocs: T-Mobile의 충격적인 발표가 모든 것을 뒤바꾼다 (신용등급 하향 조정) (NASDAQ:DOX)",
+      "snippet": "Amdocs plunges after cutting guidance amid its T-Mobile dispute.",
+      "snippet_ko": "Amdocs, T-Mobile과의 분쟁 속에서 실적 전망치를 하향 조정한 후 주가가 급락했다.",
+      "symbol": "",
+      "sentiment_score": -0.4017,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4962683-amdocs-stock-t-mobile-shock-changes-everything-rating-downgrade",
+      "cross_verified": true,
+      "published_at": "2026-11-05T04:52:00.000000Z"
+    },
     {
       "title": "Illumina selected to help bring precision medicine into everyday healthcare in Singapore",
       "title_ko": "일루미나, 싱가포르에서 정밀 의학을 일상적인 의료 서비스에 도입하는 데 기여할 기업으로 선정",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9141434/uscanada-trade-talks-gain-momentum-amid-spys-slight-overvaluation",
       "cross_verified": true,
       "published_at": "2026-10-25T17:55:58.000000Z"
-    },
-    {
-      "title": "Moderna (MRNA) Shares Plunge Over 17% After Leak of Cancer Vaccine Data",
-      "title_ko": "암 백신 데이터 유출로 모더나(MRNA) 주가 17% 이상 급락",
-      "snippet": "On October 25, 2026, Moderna Inc (NASDAQ: MRNA) saw its stock price drop sharply by more than 17% following the premature release of preliminary data on its per",
-      "snippet_ko": "2026년 10월 25일, 모더나(Moderna Inc, 나스닥: MRNA)는 자사의 [제품명]에 대한 예비 데이터가 예정보다 일찍 공개된 후 주가가 17% 이상 급락했다.",
-      "symbol": "",
-      "sentiment_score": -0.0442,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9141411/moderna-mrna-shares-plunge-over-17-after-leak-of-cancer-vaccine-data",
-      "cross_verified": true,
-      "published_at": "2026-10-25T14:55:53.000000Z"
-    },
-    {
-      "title": "Polar LNG Executive Departures Amid Novatek Influence Concerns Weigh on POLR",
-      "title_ko": "노바텍의 영향력에 대한 우려 속에서 폴라 LNG 임원들의 연이은 사임, POLR 주가에 부담",
-      "snippet": "On October 25, 2026, Polar LNG, a fledgling liquefied natural gas venture linked to Polar Petroleum Corp (ticker: POLR), experienced multiple executive resignat",
-      "snippet_ko": "2026년 10월 25일, 폴라 페트롤리엄 코퍼레이션(티커: POLR)과 연계된 신생 액화천연가스(LNG) 벤처 기업인 폴라 LNG에서 여러 임원이 사임하는 사태가 발생했다.",
-      "symbol": "",
-      "sentiment_score": 0.1497,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9141410/polar-lng-executive-departures-amid-novatek-influence-concerns-weigh-on-polr",
-      "cross_verified": true,
-      "published_at": "2026-10-25T14:55:35.000000Z"
-    },
-    {
-      "title": "From PCA to Prem Watsa: IDBI Bank's long road to privatisation",
-      "title_ko": "PCA에서 프렘 와츠아까지: IDBI 은행의 민영화로 향한 긴 여정",
-      "snippet": "Banks in a growing economy need patient, long-term foreign capital with good governance to meet credit demand",
-      "snippet_ko": "성장하는 경제권의 은행들은 신용 수요를 충족시키기 위해 건전한 지배구조를 갖춘 인내심 있는 장기 외국인 자본이 필요하다",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/opinion/columns/from-pca-to-prem-watsa-idbi-bank-s-long-road-to-privatisation-126102500372_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-25T10:07:55.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Crude crash, US midterm wave send Nifty surging past 24,300",
+      "title_ko": "원유 가격 급락과 미국 중간선거의 여파로 니프티 지수가 24,300선을 돌파하며 급등",
+      "snippet": "Nifty jumps past 24,300 as crude drop and US midterm results spark broad rally; Sensex soars, FIIs turn buyers.",
+      "snippet_ko": "원유 가격 하락과 미국 중간선거 결과로 인해 시장 전반에 걸쳐 상승세가 이어지며 니프티 지수가 24,300선을 돌파했고, 센섹스 지수도 급등하는 가운데 외국인 투자자들이 매수세로 전환했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2732,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/markets/crude-crash-us-midterm-wave-send-nifty-surging-past-24300/article71668574.ece",
+      "cross_verified": true,
+      "published_at": "2026-11-05T04:19:08.000000Z"
+    },
+    {
+      "title": "Apple lowers internal AI usage budgets in move to reduce spending",
+      "title_ko": "애플, 지출 감축을 위해 내부 AI 사용 예산을 삭감했다",
+      "snippet": "Last month, Apple quietly lowered the daily spending cap for some engineers using AI models to $200 from $300, according to people with knowledge of the change",
+      "snippet_ko": "이 변경 사항을 잘 알고 있는 소식통에 따르면, 지난달 애플은 AI 모델을 사용하는 일부 엔지니어들의 일일 지출 한도를 300달러에서 200달러로 조용히 낮췄다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.1163,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/technology/tech-news/apple-lowers-internal-ai-usage-budgets-in-move-to-reduce-spending-126110500120_1.html",
+      "cross_verified": true,
+      "published_at": "2026-11-05T03:18:50.000000Z"
+    },
+    {
+      "title": "Stocks surge, and the Dow soars 1,500 points as oil prices tumble following the US midterm elections",
+      "title_ko": "미국 중간선거 이후 유가가 급락하면서 주가가 급등했고, 다우지수는 1,500포인트나 치솟았다",
+      "snippet": "NEW YORK — US stocks soared Wednesday after President Donald Trump’s party lost its sole control of Washington in the midterm elections.",
+      "snippet_ko": "뉴욕 — 도널드 트럼프 대통령의 소속 정당이 중간선거에서 워싱턴에 대한 단독 지배권을 잃은 후, 수요일 미국 증시가 급등했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.0336,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/11/05/business/foreign-business/stocks-surge-and-the-dow-soars-1500-points-as-oil-prices-tumble-following-the-us-midterm-elections/2462425",
+      "cross_verified": true,
+      "published_at": "2026-11-05T03:05:19.000000Z"
+    },
     {
       "title": "Market Open: ASX set for sharp rebound as Wall Street rallies and oil tumbles",
       "title_ko": "시장 개장: 월가 상승세와 유가 급락에 힘입어 ASX, 급반등 전망",
@@ -2367,42 +2403,6 @@
       "url": "https://www.gurufocus.com/news/9143587/baillie-gifford-trims-oddity-tech-ltd-odd-stake-shares-look-55-undervalued-on-gf-value",
       "cross_verified": true,
       "published_at": "2026-10-27T03:33:52.000000Z"
-    },
-    {
-      "title": "Apple’s Foldable iPhone Duo Draws Early Complaints of the Screen Cracking",
-      "title_ko": "애플의 접이식 아이폰 2종, 출시 초기부터 화면 파손 관련 불만 제기",
-      "snippet": "Apple’s foldable iPhone Duo faces early complaints of inner display cracks, with users reporting crunching sounds and immediate screen damage.",
-      "snippet_ko": "애플의 폴더블 아이폰 듀오가 출시 초기부터 내부 디스플레이 균열에 대한 불만을 겪고 있으며, 사용자들은 바스락거리는 소리가 나더니 곧바로 화면이 파손되었다고 보고하고 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": -0.2603,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/info-tech/apples-foldable-iphone-duo-draws-early-complaints-of-the-screen-cracking/article71629607.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-27T03:14:49.000000Z"
-    },
-    {
-      "title": "Merck & Co., Inc. (MRK) Shareholder/Analyst Call Transcript",
-      "title_ko": "머크 앤 컴퍼니(Merck & Co., Inc., MRK) 주주·애널리스트 컨퍼런스콜 기록",
-      "snippet": "Merck & Co., Inc. (MRK) Shareholder/Analyst Call October 26, 2026 2:30 PM EDTCompany ParticipantsPeter Dannenbaum - Vice President of Investor...",
-      "snippet_ko": "머크 앤 컴퍼니(Merck & Co., Inc., MRK) 주주·애널리스트 컨퍼런스 콜, 2026년 10월 26일 오후 2시 30분(EDT) 회사 측 참석자: 피터 단넨바움(Peter Dannenbaum) - 투자자 관계 부사장...",
-      "symbol": "MRK",
-      "sentiment_score": 0.3953,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4957628-merck-and-co-inc-mrk-shareholder-analyst-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-10-26T22:09:54.000000Z"
-    },
-    {
-      "title": "U.S. Stocks Rise as Tech Rebounds; Alphabet (GOOGL) Awaits Q3 Earnings Amid AI Investment Peak",
-      "title_ko": "기술주 반등에 힘입어 미국 증시 상승… 알파벳(GOOGL), AI 투자 정점 속에서 3분기 실적 발표 앞두고",
-      "snippet": "On October 26, 2026, U.S. equity markets advanced, led by a rebound in technology shares as investor worries over AI spending eased. Alphabet Inc (GOOGL) is in",
-      "snippet_ko": "2026년 10월 26일, 인공지능(AI) 관련 지출에 대한 투자자들의 우려가 완화되면서 기술주 반등에 힘입어 미국 주식시장이 상승세를 보였다. 알파벳(Alphabet Inc, GOOGL)은",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3305,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9143066/us-stocks-rise-as-tech-rebounds-alphabet-googl-awaits-q3-earnings-amid-ai-investment-peak",
-      "cross_verified": true,
-      "published_at": "2026-10-26T22:00:29.000000Z"
     }
   ]
 }
