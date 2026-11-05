@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-05T06:06:16.848051+00:00",
+  "updated_at": "2026-11-05T16:21:05.766004+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "NextDecade: Closer To Production, Still A Speculative Buy (NASDAQ:NEXT)",
+      "title_ko": "NextDecade: 양산 단계에 한 걸음 더 가까워졌으나, 여전히 투기적 매수 대상 (NASDAQ:NEXT)",
+      "snippet": "Speculative buy on NextDecade as Rio Grande LNG advances and shares fall.",
+      "snippet_ko": "리오 그란데 LNG 사업이 진전되고 주가가 하락함에 따라 넥스트데케이드(NextDecade)에 대한 투기적 매수세가 나타나고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.3593,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4963000-nextdecade-closer-to-production-still-a-speculative-buy",
+      "cross_verified": true,
+      "published_at": "2026-11-05T14:48:26.000000Z"
+    },
+    {
+      "title": "Vistra: Texas Turned Blue, And The 2026 Forecast Didn't Move (NYSE:VST)",
+      "title_ko": "Vistra: 텍사스가 민주당 지지 지역으로 바뀌었지만, 2026년 전망은 변함없다 (NYSE:VST)",
+      "snippet": "Vistra stock fell on Texas policy uncertainty. See risks to data center growth, ERCOT power demand, and why shares may still offer upside today.",
+      "snippet_ko": "텍사스주 정책 불확실성으로 인해 비스트라(Vistra) 주가가 하락했습니다. 데이터 센터 성장에 대한 위험 요인과 ERCOT 전력 수요, 그리고 오늘도 주가가 상승 여력을 보일 수 있는 이유를 살펴보세요.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4962990-vistra-texas-turned-blue-and-the-2026-forecast-didnt-move",
+      "cross_verified": true,
+      "published_at": "2026-11-05T14:40:30.000000Z"
+    },
     {
       "title": "ElectroCore outlines 30% to 40% 2027 revenue growth while targeting positive adjusted EBITDA by end of 2027 (NASDAQ:ECOR)",
       "title_ko": "일렉트로코어(ElectroCore), 2027년 매출 30~40% 성장 전망… 2027년 말까지 조정 EBITDA 흑자 달성 목표 (나스닥: ECOR)",
@@ -1177,33 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9141436/marvell-technology-mrvl-doubles-revolving-credit-facility-to-3-billion",
       "cross_verified": true,
       "published_at": "2026-10-25T18:00:09.000000Z"
-    },
-    {
-      "title": "AstraZeneca's AZN Reports Breakthrough in Stomach Cancer Treatment, Boosting Dividend Appeal",
-      "title_ko": "아스트라제네카의 AZN, 위암 치료 분야에서 획기적인 성과를 발표하며 배당 매력도 높여",
-      "snippet": "On October 25, 2026, AstraZeneca PLC (NYSE: AZN) announced promising clinical trial results for its investigational drug sonesitatug vedotin, which nearly doubl",
-      "snippet_ko": "2026년 10월 25일, 아스트라제네카 PLC(NYSE: AZN)는 자사의 임상시험용 신약인 소네시타투그 베도틴에 대한 유망한 임상시험 결과를 발표했는데, 이 약물은 거의 두 배에 달하는",
-      "symbol": "",
-      "sentiment_score": 0.3194,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9141435/astrazenecas-azn-reports-breakthrough-in-stomach-cancer-treatment-boosting-dividend-appeal",
-      "cross_verified": true,
-      "published_at": "2026-10-25T17:56:18.000000Z"
-    },
-    {
-      "title": "US-Canada Trade Talks Gain Momentum Amid SPY's Slight Overvaluation",
-      "title_ko": "SPY의 소폭 고평가 속 미-캐나다 무역 협상 탄력 받아",
-      "snippet": "On October 25, 2026, negotiations between the United States and Canada are intensifying, with White House economic adviser Kevin Hassett signaling a possible im",
-      "snippet_ko": "2026년 10월 25일, 미국과 캐나다 간의 협상이 격화되고 있는 가운데, 백악관 경제고문 케빈 하셋은 가능한 합의에 대한 신호를 보내고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.3298,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9141434/uscanada-trade-talks-gain-momentum-amid-spys-slight-overvaluation",
-      "cross_verified": true,
-      "published_at": "2026-10-25T17:55:58.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+      "title_ko": "짐 크레이머가 꼽은 목요일 주식시장에서 주목해야 할 10가지",
+      "snippet": "Dow futures are up this morning, and Nasdaq futures are down.",
+      "snippet_ko": "오늘 아침 다우 선물은 상승세를 보이고 있는 반면, 나스닥 선물은 하락세를 보이고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3086,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/investingclub/2026/11/05/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "cross_verified": true,
+      "published_at": "2026-11-05T14:39:12.000000Z"
+    },
+    {
+      "title": "Modestly Weaker For a Few Potential Reasons",
+      "title_ko": "몇 가지 가능한 이유로 인해 소폭 약세를 보일 전망",
+      "snippet": "Bonds are starting the day a few bps weaker. 10yr yields are just over 4.90% and considering they were almost 50bps higher a month ago, you're free to go about your business today without scrutinizing this morning's baby bump. It could be purely incidental. But for those who demand scapegoats, the easiest suspect to blame would be corporate debt issuance from Apple, which coincided with bonds breaking away from their overnight stock market correlation. In the bigger picture, we could consider investors might wonder if the NASDAQ just had another summer-sized correction and might now find support. Lastly, we might consider the bond market correction has similarly covered enough ground as to merit a bit of cooling. All of that is speculative, of course. If stocks resume tanking or if the econ data gets bad, the good times could easily resume. But if stocks move back toward all-time highs and the data improves, it would make sense for the recent bull run in bonds to find resistance here.",
+      "snippet_ko": "채권 시장은 오늘 장 초반 몇 베이시스포인트(bp) 하락세로 출발했습니다. 10년물 수익률은 4.90%를 약간 상회하는 수준인데, 한 달 전만 해도 이보다 거의 50bp나 높았다는 점을 고려하면, 오늘 아침의 미미한 등락에 지나치게 신경 쓰지 않고 평소처럼 업무를 보셔도 됩니다. 이는 순전히 우연한 현상일 수 있습니다. 하지만 희생양을 찾는 이들에게 가장 손쉬운 용의자는 애플의 기업채 발행일 것입니다. 이는 채권이 전날 밤 주식 시장과의 상관관계에서 벗어나기 시작한 시점과 일치했기 때문입니다. 더 큰 그림에서 보면, 우리는 다음과 같이 고려해 볼 수 있습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.5423,
+      "source": "mortgagenewsdaily.com",
+      "url": "https://www.mortgagenewsdaily.com/markets/mbs-morning-11052026",
+      "cross_verified": true,
+      "published_at": "2026-11-05T14:06:38.000000Z"
+    },
+    {
+      "title": "Alphabet: Investors Are Making The Same Mistake They Did With Microsoft (NASDAQ:GOOG)",
+      "title_ko": "알파벳: 투자자들이 마이크로소프트(나스닥:GOOG) 때와 똑같은 실수를 반복하고 있다",
+      "snippet": "Alphabet is a buy as AI spending hits cash flow, but cloud growth, strong margins, and attractive valuation offer long-term upside. Click for a GOOG update.",
+      "snippet_ko": "AI 관련 지출이 현금 흐름에 영향을 미치고 있지만, 알파벳은 매수 추천 종목이며, 클라우드 성장세, 견실한 마진, 매력적인 밸류에이션을 바탕으로 장기적인 상승 여력이 있다. GOOG 최신 정보를 보려면 여기를 클릭하세요.",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.1571,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4961034-alphabet-investors-are-making-the-same-mistake-they-did-with-microsoft",
+      "cross_verified": true,
+      "published_at": "2026-11-05T14:00:00.000000Z"
+    },
     {
       "title": "Crude crash, US midterm wave send Nifty surging past 24,300",
       "title_ko": "원유 가격 급락과 미국 중간선거의 여파로 니프티 지수가 24,300선을 돌파하며 급등",
@@ -2367,42 +2403,6 @@
       "url": "https://financefeeds.com/celestica-stock-prediction-246-65-close-324-78-bull-141-95-bear/",
       "cross_verified": true,
       "published_at": "2026-10-27T11:06:49.000000Z"
-    },
-    {
-      "title": "deVere CEO: Anthropic $2T IPO Hopes Are 'Nuts'",
-      "title_ko": "deVere CEO: Anthropic의 2조 달러 규모 IPO 기대는 ‘터무니없다’",
-      "snippet": "deVere CEO Nigel Green calls a $2 trillion Anthropic IPO valuation nuts after an S-1 showing $16.3B H1 revenue and an $80.7B net loss.",
-      "snippet_ko": "deVere의 CEO 나이젤 그린은 S-1 서류에 1분기 매출 163억 달러와 807억 달러의 순손실이 명시된 것을 두고, 앤트로픽의 2조 달러 기업가치를 ‘터무니없다’고 일축했다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.0,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/devere-ceo-calls-anthropics-reported-2-trillion-ipo-valuation-nuts/",
-      "cross_verified": true,
-      "published_at": "2026-10-27T10:58:22.000000Z"
-    },
-    {
-      "title": "Broadcom (AVGO) Secures $63 Billion AI Debt Financing for Anthropic",
-      "title_ko": "브로드컴(AVGO), 앤트로픽을 위해 630억 달러 규모의 AI 차입 자금 조달 확보",
-      "snippet": "On October 26, 2026, Broadcom Inc. (AVGO) announced a significant financing deal that will support the AI startup Anthropic, securing over $40 billion in debt f",
-      "snippet_ko": "2026년 10월 26일, 브로드컴(Broadcom Inc., AVGO)은 AI 스타트업 앤트로픽(Anthropic)을 지원하기 위한 대규모 자금 조달 계약을 발표했으며, 이를 통해 400억 달러 이상의 차입금을 확보했다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.3518,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9143599/broadcom-avgo-secures-63-billion-ai-debt-financing-for-anthropic",
-      "cross_verified": true,
-      "published_at": "2026-10-27T04:30:39.000000Z"
-    },
-    {
-      "title": "Baillie Gifford Trims ODDITY Tech Ltd (ODD) Stake -- Shares Look 55% Undervalued on GF Value",
-      "title_ko": "베일리 기포드, ODDITY Tech Ltd(ODD) 지분 축소 -- GF Value 기준 주가, 55% 저평가된 것으로 분석",
-      "snippet": "A Small Trim Within a Long-Term Framework Baillie Gifford (Trades, Portfolio) reduced its position in ODDITY Tech Ltd (ODD) on 2026-09-30, selling 398,467 share",
-      "snippet_ko": "장기 투자 전략 하에서의 소폭 조정: 베일리 기포드(거래 내역, 포트폴리오)는 2026년 9월 30일 ODDITY Tech Ltd(ODD)에 대한 보유 지분을 축소하며 398,467주를 매도했다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.5423,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9143587/baillie-gifford-trims-oddity-tech-ltd-odd-stake-shares-look-55-undervalued-on-gf-value",
-      "cross_verified": true,
-      "published_at": "2026-10-27T03:33:52.000000Z"
     }
   ]
 }
