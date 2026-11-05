@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-05T16:21:05.766004+00:00",
+  "updated_at": "2026-11-05T23:29:48.552500+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Apa outlines ~$2.5B 2027 upstream capital plan while targeting $2B net debt (NASDAQ:APA)",
+      "title_ko": "Apa, 2027년 상류 부문 자본 투자 계획 약 25억 달러를 발표하며 순부채 20억 달러 목표 제시 (NASDAQ:APA)",
+      "snippet": "APA Q3 2026 earnings: stronger free cash flow, lower debt targets, and Suriname progress boost outlook.",
+      "snippet_ko": "APA 2026년 3분기 실적: 자유 현금 흐름 개선, 부채 목표치 하향 조정, 수리남 사업 진전으로 전망이 밝아졌다.",
+      "symbol": "",
+      "sentiment_score": -0.3612,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4667492-apa-outlines-2_5b-2027-upstream-capital-plan-while-targeting-2b-net-debt",
+      "cross_verified": true,
+      "published_at": "2026-11-05T22:15:38.000000Z"
+    },
     {
       "title": "NextDecade: Closer To Production, Still A Speculative Buy (NASDAQ:NEXT)",
       "title_ko": "NextDecade: 양산 단계에 한 걸음 더 가까워졌으나, 여전히 투기적 매수 대상 (NASDAQ:NEXT)",
@@ -1189,21 +1201,57 @@
       "url": "https://fortune.com/2026/10/25/united-airlines-ceo-scott-kirby-wealth-tax-national-service-teacher-military-first-responder/",
       "cross_verified": true,
       "published_at": "2026-10-25T20:48:17.000000Z"
-    },
-    {
-      "title": "Marvell Technology (MRVL) Doubles Revolving Credit Facility to $3 Billion",
-      "title_ko": "마벨 테크놀로지(MRVL), 회전 신용 한도를 30억 달러로 두 배 확대",
-      "snippet": "Marvell Technology, Inc. (MRVL) has significantly expanded its borrowing capacity, entering into a new revolving credit agreement that doubles its available cr",
-      "snippet_ko": "Marvell Technology, Inc. (MRVL)는 이용 가능한 신용 한도를 두 배로 늘리는 새로운 회전 신용 계약을 체결함으로써 차입 능력을 대폭 확대했다.",
-      "symbol": "",
-      "sentiment_score": 0.4148,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9141436/marvell-technology-mrvl-doubles-revolving-credit-facility-to-3-billion",
-      "cross_verified": true,
-      "published_at": "2026-10-25T18:00:09.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Keep Calm, Stocks Are On Sale",
+      "title_ko": "침착하세요, 주식이 할인 중입니다",
+      "snippet": "The market's sharp sell-off, AI valuations, data-center investment, and ways to approach volatility.",
+      "snippet_ko": "시장의 급격한 매도세, AI 기업들의 기업가치, 데이터센터 투자, 그리고 변동성에 대처하는 방안.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3642,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4963531-keep-calm-stocks-are-on-sale",
+      "cross_verified": true,
+      "published_at": "2026-11-05T22:25:00.000000Z"
+    },
+    {
+      "title": "Tech Rout Erases $2.3 Trillion as Trump Signals Iran Escalation and Ukraine Peace Deal",
+      "title_ko": "트럼프, 이란 사태 격화 시사 및 우크라이나 평화 협정 발표에 따라 기술주 시가총액 2조 3천억 달러 증발",
+      "snippet": "The Nasdaq 100 (QQQ) suffered its most severe selloff in nearly two years on Thursday, plummeting 6.4% as investors reacted to the prospect of tighter AI",
+      "snippet_ko": "나스닥 100 지수(QQQ)는 목요일, 투자자들이 AI 관련 긴축 전망에 반응하면서 6.4% 급락하며 거의 2년 만에 가장 심각한 매도세를 겪었다.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.1534,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-rout-erases-2-3-trillion-as-trump-signals-iran-escalation-and-ukraine-peace-deal/74228/",
+      "cross_verified": true,
+      "published_at": "2026-11-05T22:08:19.000000Z"
+    },
+    {
+      "title": "Yesterday’s Heroes, Today’s Casualties: Markets Reverse In A Hurry",
+      "title_ko": "어제의 영웅, 오늘의 희생자: 시장이 급격히 반전되다",
+      "snippet": "[Chart courtesy of MarketWatch.com] What a difference a day makes. Yesterday’s euphoric rally turned into today’s sharp reality check, with the major indexes giving back gains in a hurry. The Nasdaq led the retreat as traders continued rotating out of technology and AI-related names and into the relative safety of consumer staples, utilities, and energy. The AI trade took it ... Read More",
+      "snippet_ko": "[차트 출처: MarketWatch.com] 하루 사이에 상황이 얼마나 달라지는지. 어제의 열광적인 상승세는 오늘의 냉정한 현실로 바뀌었고, 주요 지수들은 순식간에 상승분을 반납했다. 트레이더들이 기술주와 AI 관련 종목에서 자금을 빼내어 상대적으로 안전한 생활필수품, 공공유틸리티, 에너지 종목으로 이동함에 따라 나스닥이 하락을 주도했다. AI 관련 종목은 타격을 입었고... 더 보기",
+      "symbol": "AVGO",
+      "sentiment_score": -0.0074,
+      "source": "theetfbully.com",
+      "url": "https://theetfbully.com/2026/11/yesterdays-heroes-todays-casualties-markets-reverse-in-a-hurry/",
+      "cross_verified": true,
+      "published_at": "2026-11-05T21:53:41.000000Z"
+    },
+    {
+      "title": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
+      "title_ko": "네오클라우드(Neocloud)의 IREN은 고객의 요청으로 인해 연간 매출 40억 달러가 지연되고 있다고 밝혔다.",
+      "snippet": "Following a dramatic plunge in its stock price, IREN said some revenue is being delayed from 2026 until early next year.",
+      "snippet_ko": "주가가 급락한 이후, IREN은 일부 매출이 2026년에서 내년 초로 연기되고 있다고 밝혔다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
+      "cross_verified": true,
+      "published_at": "2026-11-05T22:29:47.000000Z"
+    },
     {
       "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
       "title_ko": "짐 크레이머가 꼽은 목요일 주식시장에서 주목해야 할 10가지",
@@ -2355,54 +2403,6 @@
       "url": "https://seekingalpha.com/article/4958098-wall-street-lunch-sentiment-improves-all-about-earnings",
       "cross_verified": true,
       "published_at": "2026-10-27T16:49:00.000000Z"
-    },
-    {
-      "title": "The Coca-Cola Company (KO) Q3 2026 Earnings Call Transcript",
-      "title_ko": "코카콜라(KO) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "The Coca-Cola Company (KO) Q3 2026 Earnings Call October 27, 2026 8:30 AM EDTCompany ParticipantsTodd Beiger - VP & Head of Investor RelationsHenrique...",
-      "snippet_ko": "코카콜라 컴퍼니(KO) 2026년 3분기 실적 발표 전화회의 2026년 10월 27일 오전 8시 30분(EDT) 회사 참석자: 토드 베이거 - 부사장 겸 투자자 관계 총괄, 헨리케...",
-      "symbol": "KO",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4957976-the-coca-cola-company-ko-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-10-27T16:30:12.000000Z"
-    },
-    {
-      "title": "Tech and AI Sectors Surge as Earnings Season Hits High Gear",
-      "title_ko": "실적 발표 시즌이 본격화되면서 기술 및 AI 부문이 급등하고 있다",
-      "snippet": "The U.S. stock market exhibited robust bullish momentum during midday trading on Tuesday, October 27th, 2026. Investors appear to be shaking off recent",
-      "snippet_ko": "2026년 10월 27일 화요일 정오 거래 시간 동안 미국 증시는 강력한 상승세를 보였다. 투자자들은 최근의",
-      "symbol": "AAPL",
-      "sentiment_score": 0.0391,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-ai-sectors-surge-as-earnings-season-hits-high-gear/73695/",
-      "cross_verified": true,
-      "published_at": "2026-10-27T16:07:15.000000Z"
-    },
-    {
-      "title": "Meta Stock: $25B Priced at $625, 6.5% Preferred",
-      "title_ko": "메타 주식: 250억 달러 규모, 주당 625달러, 우선주 6.5%",
-      "snippet": "Meta stock priced $25bn of common at $625 and a 6.5% preferred, but the forward sale means no cash until November 2027. Just $12.5bn lands this month.",
-      "snippet_ko": "메타는 보통주 250억 달러어치를 주당 625달러에, 우선주를 6.5% 금리로 발행했으나, 선매매 계약으로 인해 2027년 11월까지는 현금을 확보할 수 없다. 이번 달에는 고작 125억 달러만 유입된다.",
-      "symbol": "AVGO",
-      "sentiment_score": -0.0894,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/meta-stock-25-billion-priced-625-preferred/",
-      "cross_verified": true,
-      "published_at": "2026-10-27T11:10:41.000000Z"
-    },
-    {
-      "title": "Celestica stock prediction: $324.78 bull, $141.95 bear",
-      "title_ko": "셀레스티카 주가 전망: 강세 $324.78, 약세 $141.95",
-      "snippet": "Celestica closed at $246.65 on Monday. The $324.78 bull and $141.95 bear leave the base under that NYSE close, so the after-hours jump is not year-end.",
-      "snippet_ko": "셀레스티카는 월요일 종가 246.65달러를 기록했습니다. 324.78달러의 강세선과 141.95달러의 약세선이 뉴욕증권거래소(NYSE) 종가보다 낮은 위치에 있어, 장 후 급등은 연말 상승세가 아닙니다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.14,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/celestica-stock-prediction-246-65-close-324-78-bull-141-95-bear/",
-      "cross_verified": true,
-      "published_at": "2026-10-27T11:06:49.000000Z"
     }
   ]
 }
