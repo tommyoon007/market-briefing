@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-06T15:49:38.997390+00:00",
+  "updated_at": "2026-11-06T21:24:50.191507+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Century Aluminum Company (CENX) Q3 2026 Earnings Call Transcript",
+      "title_ko": "센추리 알루미늄 컴퍼니(CENX) 2026년 3분기 실적 발표 회의록",
+      "snippet": "Century Aluminum Company (CENX) Q3 2026 Earnings Call November 5, 2026 5:00 PM ESTCompany ParticipantsChad Rigg - Vice President of Finance &...",
+      "snippet_ko": "센추리 알루미늄 컴퍼니(CENX) 2026년 3분기 실적 발표 전화회의, 2026년 11월 5일 오후 5:00(미국 동부 표준시) 회사 참석자: 채드 리그 - 재무 부사장 및...",
+      "symbol": "",
+      "sentiment_score": 0.463,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4964334-century-aluminum-company-cenx-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-06T20:24:59.000000Z"
+    },
+    {
+      "title": "Chartwell Retirement Residences (CSH.UN:CA) Q3 2026 Earnings Call Transcript",
+      "title_ko": "차트웰 리타이어먼트 레지던스(CSH.UN:CA) 2026년 3분기 실적 발표 회의록",
+      "snippet": "Chartwell Retirement Residences (CSH.UN:CA) Q3 2026 Earnings Call November 6, 2026 10:00 AM ESTCompany ParticipantsVlad Volodarski - CEO & TrusteeKaren...",
+      "snippet_ko": "차트웰 리타이어먼트 레지던스(Chartwell Retirement Residences, CSH.UN:CA) 2026년 3분기 실적 발표 전화 회의 2026년 11월 6일 오전 10:00(미국 동부 표준시) 회사 참석자: 블라드 볼로다르스키(Vlad Volodarski) - CEO 겸 이사회 이사, 카렌...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4964344-chartwell-retirement-residences-csh-un-ca-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-06T20:24:57.000000Z"
+    },
     {
       "title": "Tech and AI Surge Drives Nasdaq Higher as Markets Digest Earnings and Policy Outlook",
       "title_ko": "시장, 기업 실적과 정책 전망을 소화하는 가운데 기술주와 AI 관련주 급등에 힘입어 나스닥 지수 상승",
@@ -1177,33 +1201,57 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/canadian-and-kiwi-dollars-rise-amid-monetary-policy-shifts-jordan-security-forces-detain-kerak-attackers/73596/",
       "cross_verified": true,
       "published_at": "2026-10-26T03:38:22.000000Z"
-    },
-    {
-      "title": "Waste Connections Inc (WCN) (Q3 2026) Earnings Call Highlights: Solid Waste Pricing Powers Beat-and-Raise Quarter Despite Fuel Headwinds",
-      "title_ko": "Waste Connections Inc (WCN) (2026년 3분기) 실적 발표 주요 내용: 연료비 상승이라는 역풍 속에서도 고형 폐기물 가격 인상이 실적 예상치를 상회하고 전망치를 상향 조정하는 분기 실적을 이끌었다",
-      "snippet": "Revenue: Q3 2026 revenue of $2.638 billion, up $180 million or 7.3% year-over-year; acquisitions net of divestitures contributed $53 million.Adjusted EBITDA: $8",
-      "snippet_ko": "매출: 2026년 3분기 매출은 26억 3,800만 달러로, 전년 동기 대비 1억 8,000만 달러(7.3%) 증가했으며, 인수 및 매각 차액을 제외한 순증분은 5,300만 달러를 기록했습니다. 조정 EBITDA: 8달러",
-      "symbol": "",
-      "sentiment_score": 0.0797,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9141524/waste-connections-inc-wcn-q3-2026-earnings-call-highlights-solid-waste-pricing-powers-beatandraise-quarter-despite-fuel-headwinds",
-      "cross_verified": true,
-      "published_at": "2026-10-26T03:01:12.000000Z"
-    },
-    {
-      "title": "Ingenia Communities Group (INGEF) Shares Surge 8.3% on AVID Property Group Takeover Proposal",
-      "title_ko": "AVID Property Group의 인수 제안에 힘입어 Ingenia Communities Group(INGEF) 주가 8.3% 급등",
-      "snippet": "On October 25, 2026, Ingenia Communities Group (INGEF) experienced an 8.3% jump in its stock price during Sydney trading following a takeover proposal from AVID",
-      "snippet_ko": "2026년 10월 25일, AVID의 인수 제안에 이어 시드니 증시에서 Ingenia Communities Group(INGEF)의 주가가 8.3% 급등했다.",
-      "symbol": "",
-      "sentiment_score": 0.5111,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9141521/ingenia-communities-group-ingef-shares-surge-83-on-avid-property-group-takeover-proposal",
-      "cross_verified": true,
-      "published_at": "2026-10-26T02:56:25.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Broadcom (AVGO) Stock Down 10.4% as the Chip Index Falls 12.3%",
+      "title_ko": "반도체 지수가 12.3% 하락하면서 브로드컴(AVGO) 주가가 10.4% 하락했다",
+      "snippet": "Broadcom stock closed Thursday at $291.53, down 10.43% in a single session as investors cut exposure to the semiconductor companies most directly tied to the",
+      "snippet_ko": "브로드컴 주가는 목요일 291.53달러로 장을 마감했으며, 투자자들이 해당 분야와 가장 직접적인 연관이 있는 반도체 기업들에 대한 투자 비중을 줄이면서 단 하루 만에 10.43% 하락했다.",
+      "symbol": "AVGO",
+      "sentiment_score": -0.1876,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/broadcom-avgo-stock-down-10-4-as-the-chip-index-falls-12-3-what-broadcom-is-priced-for-now/",
+      "cross_verified": true,
+      "published_at": "2026-11-06T19:28:22.000000Z"
+    },
+    {
+      "title": "Fiat On-Ramps by Currency: How to Deposit BRL, GBP, AUD, and Other Local Currencies Into Digital Asset Platforms",
+      "title_ko": "통화별 피아트 입금 방법: 디지털 자산 플랫폼에 BRL, GBP, AUD 및 기타 현지 통화를 입금하는 방법",
+      "snippet": "Local currency deposits via PIX, Faster Payments, and PayID now connect billions of fiat users to digital asset trading platforms worldwide.",
+      "snippet_ko": "PIX, Faster Payments, PayID를 통한 현지 통화 예치 기능을 통해 이제 수십억 명의 법정화폐 사용자들이 전 세계 디지털 자산 거래 플랫폼과 연결되고 있습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4493,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/fiat-on-ramps-by-currency/",
+      "cross_verified": true,
+      "published_at": "2026-11-06T19:17:48.000000Z"
+    },
+    {
+      "title": "Tech and AI Sectors Surge as Nasdaq Leads Afternoon Rally",
+      "title_ko": "나스닥이 오후 상승세를 주도하며 기술 및 AI 부문이 급등",
+      "snippet": "U.S. equity markets showed robust strength during Friday afternoon trading, with technology and artificial intelligence sectors leading a broad-based rally.",
+      "snippet_ko": "금요일 오후 거래에서 미국 주식 시장은 탄탄한 상승세를 보였으며, 기술 및 인공지능 부문이 주도하는 가운데 전 종목에 걸친 반등이 이어졌다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4617,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-ai-sectors-surge-as-nasdaq-leads-afternoon-rally/74278/",
+      "cross_verified": true,
+      "published_at": "2026-11-06T19:07:15.000000Z"
+    },
+    {
+      "title": "Here's Why I Bought Nvidia While The Market Cried In Fear (Rating Upgrade) (NASDAQ:NVDA)",
+      "title_ko": "시장이 공포에 휩싸여 있을 때 제가 엔비디아를 매수한 이유 (매수 등급 상향) (나스닥:NVDA)",
+      "snippet": "Nvidia Corporation is a Strong Buy after a 20% selloff, with current sentiment-driven declines presenting a compelling entry point. Discover more on NVDA here.",
+      "snippet_ko": "엔비디아(Nvidia Corporation)는 20%의 급락 이후 ‘강력 매수’ 추천 종목으로, 현재 시장 심리에 따른 하락세가 매력적인 매수 기회를 제공하고 있습니다. NVDA에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.3502,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4964331-heres-why-i-bought-nvidia-while-the-market-cried-in-fear-rating-upgrade",
+      "cross_verified": true,
+      "published_at": "2026-11-06T21:01:14.000000Z"
+    },
     {
       "title": "Amazon: A Reality Check Is Coming (NASDAQ:AMZN)",
       "title_ko": "아마존: 현실을 직시해야 할 때가 다가오고 있다 (나스닥: AMZN)",
@@ -2355,54 +2403,6 @@
       "url": "https://www.thehindubusinessline.com/markets/it-stocks-drag-sensex-nifty-lower-at-open-jio-platforms-debut-fed-decision-in-focus/article71634253.ece",
       "cross_verified": true,
       "published_at": "2026-10-28T04:11:47.000000Z"
-    },
-    {
-      "title": "OpenAI plans to buy chips from Google as part of its AI build-out",
-      "title_ko": "오픈AI는 AI 인프라 확충의 일환으로 구글로부터 칩을 구매할 계획이다",
-      "snippet": "The move reflects OpenAI's multipronged bid to quickly add more AI processing power",
-      "snippet_ko": "이번 조치는 OpenAI가 AI 처리 능력을 신속하게 확대하기 위해 다각적으로 추진 중인 노력을 반영한 것이다",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.5294,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/technology/artificial-intelligence/openai-plans-to-buy-chips-from-google-as-part-of-its-ai-build-out-126102800194_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-28T03:37:16.000000Z"
-    },
-    {
-      "title": "Sprite Expands Global Basketball Footprint with NBA’s Nikola Jokić and New \"Never Stop Refreshing The Game\" Platform",
-      "title_ko": "스프라이트, NBA의 니콜라 요키치와 새로운 ‘Never Stop Refreshing The Game’ 플랫폼을 통해 글로벌 농구 시장 진출 확대",
-      "snippet": "Building on its basketball partnerships announced in March, Sprite unites three-time MVP and NBA Champion Nikola Jokić with Olympic Gold Medalist and NBA superstar Anthony Edwards to lead a global movement celebrating the continuous evolution of basketball culture.",
-      "snippet_ko": "스프라이트는 지난 3월에 발표한 농구 파트너십을 바탕으로, 3회 MVP이자 NBA 챔피언인 니콜라 요키치와 올림픽 금메달리스트이자 NBA 슈퍼스타인 앤서니 에드워즈를 한데 모아, 끊임없이 진화하는 농구 문화를 기념하는 글로벌 캠페인을 주도합니다.",
-      "symbol": "KO",
-      "sentiment_score": 0.0,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/28/tmt-newswire/media-outreach-newswire/sprite-expands-global-basketball-footprint-with-nbas-nikola-joki-and-new-never-stop-refreshing-the-game-platform/2455624",
-      "cross_verified": true,
-      "published_at": "2026-10-27T22:01:32.000000Z"
-    },
-    {
-      "title": "Visa earnings beats estimates as payments volume rises 9%",
-      "title_ko": "결제 처리량이 9% 증가함에 따라 비자 실적, 시장 예상치를 상회",
-      "snippet": "The company’s payments volume increased to $4.08 trillion, up from $3.73 trillion during the period last year",
-      "snippet_ko": "이 회사의 결제 처리액은 작년 같은 기간의 3조 7,300억 달러에서 4조 800억 달러로 증가했다.",
-      "symbol": "V",
-      "sentiment_score": 0.296,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/companies/visa-earnings-beats-estimates-as-payments-volume-rises-9/article71634193.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-28T04:15:54.000000Z"
-    },
-    {
-      "title": "US stocks today: US stocks end higher as AI rally lifts Nasdaq ahead of Fed decision",
-      "title_ko": "오늘 미국 증시: 연준 결정 앞두고 AI 관련주 강세로 나스닥이 상승하며 미국 증시 상승 마감",
-      "snippet": "US stocks saw gains as renewed optimism about artificial intelligence lifted chipmakers while corporate earnings were evaluated. Although concerns about AI spending persist, news of Anthropic's IPO provided a relief rally for the sector. The Federal Reserve began its policy meeting, with expectations for interest rates to remain unchanged. Nearly half of S&P 500 companies reported earnings, with many exceeding estimates while some major firms faced declines.",
-      "snippet_ko": "인공지능(AI)에 대한 낙관론이 재점화되며 반도체 업체들의 주가가 상승한 가운데, 기업 실적에 대한 평가가 이어지면서 미국 증시는 상승세를 보였다. AI 투자에 대한 우려는 여전히 남아 있지만, 앤트로픽(Anthropic)의 기업공개(IPO) 소식은 해당 업종에 안도 랠리를 불러일으켰다. 연방준비제도(Fed)는 정책 회의를 시작했으며, 금리는 동결될 것으로 예상된다. S&P 500 지수 구성 기업 중 거의 절반이 실적을 발표했는데, 많은 기업이 예상치를 상회한 반면 일부 주요 기업들은 실적 부진을 기록했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.1027,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-ai-rally-lifts-nasdaq-ahead-of-fed-decision/articleshow/135245403.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-27T20:16:54.000000Z"
     }
   ]
 }
