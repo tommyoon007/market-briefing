@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-06T06:01:07.662742+00:00",
+  "updated_at": "2026-11-06T15:49:38.997390+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Tech and AI Surge Drives Nasdaq Higher as Markets Digest Earnings and Policy Outlook",
+      "title_ko": "시장, 기업 실적과 정책 전망을 소화하는 가운데 기술주와 AI 관련주 급등에 힘입어 나스닥 지수 상승",
+      "snippet": "The U.S. stock market opened on Friday, November 6th, 2026, with a pronounced divergence between technology-heavy growth sectors and traditional blue-chip",
+      "snippet_ko": "2026년 11월 6일 금요일, 미국 증시는 기술주 중심의 성장주 부문과 전통적인 우량주 부문 간에 뚜렷한 격차를 보이며 개장했다.",
+      "symbol": "",
+      "sentiment_score": 0.0593,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-ai-surge-drives-nasdaq-higher-as-markets-digest-earnings-and-policy-outlook/74266/",
+      "cross_verified": true,
+      "published_at": "2026-11-06T15:07:15.000000Z"
+    },
+    {
+      "title": "Parkit Enterprise Inc. reports Q3 results (PKT:CA:TSXV)",
+      "title_ko": "Parkit Enterprise Inc., 3분기 실적 발표 (PKT:CA:TSXV)",
+      "snippet": "Parkit Enterprise reported a Q3 net loss as retained portfolio revenue rose year over year.",
+      "snippet_ko": "Parkit Enterprise는 보유 포트폴리오 매출이 전년 동기 대비 증가했음에도 불구하고 3분기 순손실을 기록했다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4668187-parkit-enterprise-inc-reports-q3-results",
+      "cross_verified": true,
+      "published_at": "2026-11-06T15:06:32.000000Z"
+    },
+    {
+      "title": "RGA’s consolidated net premiums rise 25% for Q3’26 to $5.4bn",
+      "title_ko": "RGA의 2026년 3분기 연결 순보험료는 25% 증가해 54억 달러를 기록했다",
+      "snippet": "Reinsurance Group of America, Incorporated (RGA), a global life and health reinsurer, has reported a 25% year-on-year increase in consolidated net",
+      "snippet_ko": "글로벌 생명·건강 재보험사인 리인슈어런스 그룹 오브 아메리카(RGA)는 연결 순이익이 전년 동기 대비 25% 증가했다고 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.3182,
+      "source": "reinsurancene.ws",
+      "url": "https://www.reinsurancene.ws/rgas-consolidated-net-premiums-rise-25-for-q326-to-5-4bn/",
+      "cross_verified": true,
+      "published_at": "2026-11-06T15:00:37.000000Z"
+    },
     {
       "title": "Apa outlines ~$2.5B 2027 upstream capital plan while targeting $2B net debt (NASDAQ:APA)",
       "title_ko": "Apa, 2027년 상류 부문 자본 투자 계획 약 25억 달러를 발표하며 순부채 20억 달러 목표 제시 (NASDAQ:APA)",
@@ -1165,45 +1201,45 @@
       "url": "https://www.gurufocus.com/news/9141521/ingenia-communities-group-ingef-shares-surge-83-on-avid-property-group-takeover-proposal",
       "cross_verified": true,
       "published_at": "2026-10-26T02:56:25.000000Z"
-    },
-    {
-      "title": "Bon Secours Mercy Health Nears $6 Billion Deal for Surgery Partners (SGRY)",
-      "title_ko": "본 세쿠르 머시 헬스, 서저리 파트너스(SGRY) 인수에 60억 달러 규모 계약 체결 임박",
-      "snippet": "On October 25, 2026, Bon Secours Mercy Health is reportedly close to finalizing an acquisition of a controlling stake in Surgery Partners Inc (NASDAQ: SGRY), va",
-      "snippet_ko": "2026년 10월 25일, 본 세쿠르 머시 헬스(Bon Secours Mercy Health)가 서저리 파트너스(Surgery Partners Inc, 나스닥: SGRY)의 지배 지분 인수를 거의 마무리 단계에 접어든 것으로 알려졌다.",
-      "symbol": "",
-      "sentiment_score": 0.2571,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9141448/bon-secours-mercy-health-nears-6-billion-deal-for-surgery-partners-sgry",
-      "cross_verified": true,
-      "published_at": "2026-10-25T20:55:39.000000Z"
-    },
-    {
-      "title": "Genmab (GMAB) and Incyte Launch Trial for KRAS G12D Colorectal Cancer Therapy Combo",
-      "title_ko": "Genmab(GMAB)과 Incyte, KRAS G12D 대장암 치료제 병용 요법 임상시험 착수",
-      "snippet": "On October 25, 2026, Genmab AS (NASDAQ: GMAB) announced a clinical trial collaboration with Incyte Corporation to evaluate a combination of their investigationa",
-      "snippet_ko": "2026년 10월 25일, Genmab AS(나스닥: GMAB)는 Incyte Corporation과 공동으로 자사의 임상시험용 약물을 조합하여 평가하기 위한 임상시험 협력을 발표했습니다.",
-      "symbol": "",
-      "sentiment_score": -0.2604,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9141447/genmab-gmab-and-incyte-launch-trial-for-kras-g12d-colorectal-cancer-therapy-combo",
-      "cross_verified": true,
-      "published_at": "2026-10-25T20:55:19.000000Z"
-    },
-    {
-      "title": "United CEO Scott Kirby has another 'non-consensus opinion' besides a wealth tax: national service",
-      "title_ko": "유나이티드 항공의 스콧 커비 CEO는 부유세 외에도 또 다른 ‘주류 의견과 다른 견해’를 제시했는데, 바로 ‘국민 복무제’다.",
-      "snippet": "Scott Kirby caused a stir last week when he said the U.S. should have a national wealth tax, but the United Airlines CEO didn’t back down and also offered ano...",
-      "snippet_ko": "스콧 커비는 지난주 미국에 국가 차원의 부유세를 도입해야 한다고 말해 파문을 일으켰지만, 유나이티드 항공 CEO는 입장을 굽히지 않았을 뿐만 아니라 또 다른 제안을 내놓기도 했다...",
-      "symbol": "",
-      "sentiment_score": 0.886,
-      "source": "fortune.com",
-      "url": "https://fortune.com/2026/10/25/united-airlines-ceo-scott-kirby-wealth-tax-national-service-teacher-military-first-responder/",
-      "cross_verified": true,
-      "published_at": "2026-10-25T20:48:17.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Amazon: A Reality Check Is Coming (NASDAQ:AMZN)",
+      "title_ko": "아마존: 현실을 직시해야 할 때가 다가오고 있다 (나스닥: AMZN)",
+      "snippet": "Amazon.com, Inc. remains a Sell due to escalating CapEx, surging debt, and mounting regulatory headwinds. Click here to read an analysis of AMZN stock now.",
+      "snippet_ko": "Amazon.com, Inc.는 자본지출(CapEx) 증가, 부채 급증, 규제 관련 역풍이 거세지고 있는 점으로 인해 여전히 ‘매도’ 등급을 유지하고 있습니다. 지금 바로 AMZN 주식에 대한 분석을 보려면 여기를 클릭하세요.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.2586,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4964002-amazon-a-reality-check-is-coming",
+      "cross_verified": true,
+      "published_at": "2026-11-06T14:50:40.000000Z"
+    },
+    {
+      "title": "Our top 10 things to watch in the stock market Friday",
+      "title_ko": "금요일 주식 시장에서 주목해야 할 10가지",
+      "snippet": "Nasdaq futures are rebounding, and the October jobs report came in strong.",
+      "snippet_ko": "나스닥 선물 지수가 반등하고 있으며, 10월 고용 지표도 호조를 보였다.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.0794,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/investingclub/2026/11/06/our-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "cross_verified": true,
+      "published_at": "2026-11-06T14:01:45.000000Z"
+    },
+    {
+      "title": "Stockal’s US Trading Row: Missing Consent, A Chinese Microcap, And Unanswered Questions",
+      "title_ko": "스톡칼의 미국 거래 논란: 동의 미비, 중국 초소형주, 그리고 풀리지 않은 의문들",
+      "snippet": "Nearly 30 Indian investors allege their US stock holdings were sold without consent through Stockal and its proceeds were deviated",
+      "snippet_ko": "약 30명의 인도 투자자들이 Stockal을 통해 자신의 미국 주식 보유분이 동의 없이 매도되었으며, 그 매도 대금이 유용되었다고 주장하고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4048,
+      "source": "inc42.com",
+      "url": "https://inc42.com/features/stockals-us-trading-row-missing-consent-a-chinese-microcap-and-unanswered-questions/",
+      "cross_verified": true,
+      "published_at": "2026-11-06T13:17:12.000000Z"
+    },
     {
       "title": "Keep Calm, Stocks Are On Sale",
       "title_ko": "침착하세요, 주식이 할인 중입니다",
@@ -2367,42 +2403,6 @@
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-ai-rally-lifts-nasdaq-ahead-of-fed-decision/articleshow/135245403.cms",
       "cross_verified": true,
       "published_at": "2026-10-27T20:16:54.000000Z"
-    },
-    {
-      "title": "AVGO Stock Rises as $63 Billion Anthropic Deal Advances",
-      "title_ko": "630억 달러 규모의 앤트로픽 인수 거래가 진전되면서 AVGO 주가 상승",
-      "snippet": "Broadcom (NASDAQ: AVGO) shares extended their gains on Tuesday after Bank of America, Citi, Morgan Stanley and Blackstone committed to a $63 billion financing",
-      "snippet_ko": "화요일, 뱅크 오브 아메리카, 씨티, 모건 스탠리, 블랙스톤이 630억 달러 규모의 자금 조달을 약속함에 따라 브로드컴(나스닥: AVGO) 주가는 상승세를 이어갔다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.4535,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/avgo-stock-rises-as-63-billion-anthropic-deal-advances/",
-      "cross_verified": true,
-      "published_at": "2026-10-27T20:12:36.000000Z"
-    },
-    {
-      "title": "Tech and Energy Sectors Diverge as Earnings Season Intensifies",
-      "title_ko": "실적 발표 시즌이 본격화되면서 기술주와 에너지주 간 격차가 벌어지고 있다",
-      "snippet": "The U.S. stock market exhibited a cautious but slightly positive tone on Tuesday, October 27th, 2026, as investors balanced optimistic earnings from blue-chip",
-      "snippet_ko": "2026년 10월 27일 화요일, 미국 증시는 투자자들이 우량주들의 긍정적인 실적 발표와",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.0055,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-energy-sectors-diverge-as-earnings-season-intensifies/73706/",
-      "cross_verified": true,
-      "published_at": "2026-10-27T20:07:23.000000Z"
-    },
-    {
-      "title": "Wall Street Lunch: Sentiment Improves; All About Earnings",
-      "title_ko": "월스트리트 런치: 시장 심리가 호전되고 있다; 모든 것은 실적에 달려 있다",
-      "snippet": "Two-day rally in tech, big earnings coming this week.",
-      "snippet_ko": "기술주, 이틀 연속 상승세… 이번 주 주요 기업 실적 발표 예정.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.4215,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4958098-wall-street-lunch-sentiment-improves-all-about-earnings",
-      "cross_verified": true,
-      "published_at": "2026-10-27T16:49:00.000000Z"
     }
   ]
 }
