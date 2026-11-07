@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-07T16:13:27.477575+00:00",
+  "updated_at": "2026-11-07T21:40:07.301768+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Riley Exploration Permian, Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:REPX) 2026-11-07",
+      "title_ko": "Riley Exploration Permian, Inc. 2026년 3분기 실적 - 실적 발표 전화 회의 프레젠테이션 (NYSE:REPX) 2026-11-07",
+      "snippet": "2026-11-07. The following slide deck was published by Riley Exploration Permian, Inc.",
+      "snippet_ko": "2026년 11월 7일. 다음 슬라이드 자료는 Riley Exploration Permian, Inc.에서 발간한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4964654-riley-exploration-permian-inc-2026-q3-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-11-07T17:44:59.000000Z"
+    },
+    {
+      "title": "Riley Exploration Permian, Inc. (REPX) Q3 2026 Earnings Call Transcript",
+      "title_ko": "라일리 익스플로레이션 퍼미안(Riley Exploration Permian, Inc., REPX) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "Riley Exploration Permian, Inc. (REPX) Q3 2026 Earnings Call November 5, 2026 10:00 AM ESTCompany ParticipantsBen McQueenBobby Riley - Chairman, CEO &...",
+      "snippet_ko": "Riley Exploration Permian, Inc. (REPX) 2026년 3분기 실적 발표 전화회의 2026년 11월 5일 오전 10:00 (미국 동부 표준시) 회사 참가자: 벤 맥퀸, 바비 라일리 - 회장, CEO 및...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4964653-riley-exploration-permian-inc-repx-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-07T17:44:39.000000Z"
+    },
+    {
+      "title": "Cogent Communications Holdings, Inc. (CCOI) Q3 2026 Earnings Call Transcript",
+      "title_ko": "코젠트 커뮤니케이션즈 홀딩스(Cogent Communications Holdings, Inc., CCOI) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "Cogent Communications Holdings, Inc. (CCOI) Q3 2026 Earnings Call November 5, 2026 8:30 AM ESTCompany ParticipantsDavid Schaeffer - Founder, Chairman, CEO...",
+      "snippet_ko": "코젠트 커뮤니케이션즈 홀딩스(Cogent Communications Holdings, Inc., CCOI) 2026년 3분기 실적 발표 컨퍼런스 콜, 2026년 11월 5일 오전 8시 30분(미국 동부 표준시) 회사 측 참석자: 데이비드 셰퍼(David Schaeffer) - 설립자, 회장, CEO...",
+      "symbol": "",
+      "sentiment_score": 0.3426,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4964499-cogent-communications-holdings-inc-ccoi-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-07T17:44:36.000000Z"
+    },
     {
       "title": "EPR Properties Is Primed For A Major Dividend Hike (NYSE:EPR)",
       "title_ko": "EPR Properties, 배당금 대폭 인상 전망 (NYSE:EPR)",
@@ -1165,45 +1201,45 @@
       "url": "https://www.manilatimes.net/2026/10/27/tmt-newswire/globenewswire/cellectar-biosciences-reports-case-study-highlighting-complete-response-lasting-more-than-eight-years-in-heavily-pretreated-dlbcl-patient-treated-with-iopofosine-i-131/2454873",
       "cross_verified": true,
       "published_at": "2026-10-27T11:25:31.000000Z"
-    },
-    {
-      "title": "Marex appoints Kory Sorenson to Group Board",
-      "title_ko": "마렉스, 코리 소렌슨을 그룹 이사회 이사로 선임",
-      "snippet": "NEW YORK, Oct. 27, 2026 (GLOBE NEWSWIRE) -- Marex Group Limited (‘Marex’ or the ‘Group’, NASDAQ: MRX), the diversified global financial services platform, today announces that Kory Sorenson will join the Group Board with effect from 2 November 2026.",
-      "snippet_ko": "뉴욕, 2026년 10월 27일 (GLOBE NEWSWIRE) -- 다각화된 글로벌 금융 서비스 플랫폼인 마렉스 그룹 리미티드(Marex Group Limited, 이하 ‘마렉스’ 또는 ‘그룹’, 나스닥: MRX)는 오늘 코리 소렌슨(Kory Sorenson)이 2026년 11월 2일부로 그룹 이사회에 합류할 것이라고 발표했다.",
-      "symbol": "",
-      "sentiment_score": 0.743,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/27/tmt-newswire/globenewswire/marex-appoints-kory-sorenson-to-group-board/2454858",
-      "cross_verified": true,
-      "published_at": "2026-10-27T11:08:11.000000Z"
-    },
-    {
-      "title": "Anthropic's potential mega IPO joins ranks of world's biggest listings",
-      "title_ko": "앤트로픽의 잠재적 초대형 기업공개(IPO)가 세계 최대 규모의 상장 사례 대열에 합류한다",
-      "snippet": "Anthropic’s US IPO filing signals potential one of the largest Debuts, reshaping markets, investor flows, and the AI stock narrative.",
-      "snippet_ko": "앤트로픽의 미국 기업공개(IPO) 신청은 사상 최대 규모의 상장 중 하나가 될 가능성을 시사하며, 시장과 투자자 자금 흐름, 그리고 AI 관련 주식에 대한 투자 심리를 재편할 전망이다.",
-      "symbol": "",
-      "sentiment_score": 0.7096,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/markets/anthropics-potential-mega-ipo-joins-ranks-of-worlds-biggest-listings/article71629628.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-27T03:32:13.000000Z"
-    },
-    {
-      "title": "Kforce Inc Reports Q3 2026 Earnings: EPS of $0.90 and Revenue of $357.8 Million Surpass Expectations",
-      "title_ko": "Kforce Inc, 2026년 3분기 실적 발표: 주당 순이익(EPS) 0.90달러, 매출 3억 5,780만 달러로 시장 예상치를 상회",
-      "snippet": "Kforce Inc (KFRC) released its 8-K filing on October 26, 2026, announcing noteworthy financial results for the third quarter of 2026. The company reported reven",
-      "snippet_ko": "Kforce Inc(KFRC)는 2026년 10월 26일 8-K 보고서를 제출하며, 2026년 3분기 주목할 만한 재무 실적을 발표했습니다. 이 회사는 매출을 보고했습니다.",
-      "symbol": "",
-      "sentiment_score": 0.2999,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9143378/kforce-inc-reports-q3-2026-earnings-eps-of-090-and-revenue-of-3578-million-surpass-expectations",
-      "cross_verified": true,
-      "published_at": "2026-10-26T23:40:54.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Dow Jones, S&P 500, Nasdaq: Last week’s AI stocks crash is not your garden variety correction",
+      "title_ko": "다우존스, S&P 500, 나스닥: 지난주 AI 관련주 폭락은 평범한 조정 국면이 아니다",
+      "snippet": "AI stocks crash signals a distinct, risk-laden correction driven by regulatory fears, capital costs, and questionable profitability.",
+      "snippet_ko": "AI 관련 주가의 급락은 규제 우려, 자본 비용, 그리고 의심스러운 수익성 등으로 인해 촉발된 뚜렷하고 위험 부담이 큰 조정 국면을 시사한다.",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.5106,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/dow-jones-sampp-500-nasdaq-last-weeks-ai-stocks-crash-is-not-your-garden-variety-correction/article71678849.ece",
+      "cross_verified": true,
+      "published_at": "2026-11-07T17:06:39.000000Z"
+    },
+    {
+      "title": "Meta Platforms, Inc. Class A (META) -- AI Innovation and Market Resilience | First Eagle Rising Dividend Fund Q3 2026",
+      "title_ko": "메타 플랫폼스(Meta Platforms, Inc.) A종주 (META) — AI 혁신과 시장 회복력 | 퍼스트 이글 라이징 배당 펀드 2026년 3분기",
+      "snippet": "Meta's launch of Muse showcases its commitment to AI and user engagement.Continued investments in AI bolster its core advertising business.Valuation remains att",
+      "snippet_ko": "메타가 ‘뮤즈(Muse)’를 출시한 것은 AI와 사용자 참여에 대한 회사의 의지를 보여주는 사례입니다. AI 분야에 대한 지속적인 투자는 회사의 핵심 광고 사업을 강화합니다. 기업 가치는 여전히…",
+      "symbol": "META",
+      "sentiment_score": 0.58,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9184048/meta-platforms-inc-class-a-meta-ai-innovation-and-market-resilience-first-eagle-rising-dividend-fund-q3-2026",
+      "cross_verified": true,
+      "published_at": "2026-11-07T17:00:27.000000Z"
+    },
+    {
+      "title": "Apple (AAPL) Stock Dips 1.9% Despite Q4 FY2026 Earnings Beat",
+      "title_ko": "애플(AAPL) 주가, 2026 회계연도 4분기 실적 예상치를 상회했음에도 1.9% 하락",
+      "snippet": "On November 07, 2026, Apple Inc (NASDAQ: AAPL) reported its Q4 FY2026 earnings, posting revenue growth that exceeded analyst expectations but saw its stock decl",
+      "snippet_ko": "2026년 11월 7일, 애플(Apple Inc, 나스닥: AAPL)은 2026 회계연도 4분기 실적을 발표했는데, 매출 증가율은 애널리스트들의 예상을 상회했으나 주가는 하락했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4997,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9184029/apple-aapl-stock-dips-19-despite-q4-fy2026-earnings-beat",
+      "cross_verified": true,
+      "published_at": "2026-11-07T16:55:42.000000Z"
+    },
     {
       "title": "Hindustan Coca-Cola Holdings files DRHP for IPO",
       "title_ko": "힌두스탄 코카콜라 홀딩스, 기업공개(IPO)를 위한 DRHP 제출",
@@ -2367,42 +2403,6 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-giants-battle-for-short-drama-market-share-as-global-markets-face-volatility/73789/",
       "cross_verified": true,
       "published_at": "2026-10-29T03:08:18.000000Z"
-    },
-    {
-      "title": "Google earnings report: Google misses Wall Street expectations, Alphabet stock sinks in early after-hours trading",
-      "title_ko": "구글 실적 발표: 구글, 월가 예상치 미달… 알파벳 주가, 장 마감 후 초반 거래에서 급락",
-      "snippet": "The Mountain View, California-based company said its net income was $26.17 billion in the July-September period. That's down from $34.98 billion in the same period a year earlier.",
-      "snippet_ko": "캘리포니아주 마운틴뷰에 본사를 둔 이 회사는 7월부터 9월까지의 순이익이 261억 7천만 달러라고 밝혔다. 이는 전년 동기 349억 8천만 달러에 비해 감소한 수치다.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.0946,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/tech/technology/google-misses-wall-street-expectations-alphabet-stock-sinks-in-early-after-hours-trading/articleshow/135287119.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-29T02:41:46.000000Z"
-    },
-    {
-      "title": "Meta's AI Ambitions Come At A High Price (NASDAQ:META)",
-      "title_ko": "메타의 AI 야망, 그 대가는 막대하다 (나스닥:META)",
-      "snippet": "Meta Platforms' aggressive AI and Reality Labs investments require successful monetization to justify sector-premium valuations. Read more on META stock here.",
-      "snippet_ko": "메타 플랫폼스(Meta Platforms)의 공격적인 AI 및 리얼리티 랩스(Reality Labs) 투자는 해당 부문의 프리미엄 기업 가치를 정당화하기 위해 성공적인 수익화가 필수적이다. META 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "META",
-      "sentiment_score": 0.3062,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4958996-meta-q3-ai-ambitions-come-at-a-high-price-reiterate-hold",
-      "cross_verified": true,
-      "published_at": "2026-10-29T02:07:14.000000Z"
-    },
-    {
-      "title": "Meta’s Pullback Just Changed The AI Risk/Reward (NASDAQ:META)",
-      "title_ko": "메타의 주가 조정으로 AI의 위험 대비 수익성이 달라졌다 (나스닥:META)",
-      "snippet": "Meta Platforms’ ad business is booming as AI lifts conversions and Reels engagement. Click for this META stock update following their Q3 earnings.",
-      "snippet_ko": "AI가 전환율과 릴스 참여도를 끌어올리면서 메타 플랫폼스의 광고 사업이 호조를 보이고 있습니다. 3분기 실적 발표에 따른 메타 주가 최신 소식을 보려면 여기를 클릭하세요.",
-      "symbol": "META",
-      "sentiment_score": -0.2712,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4958898-meta-pullback-just-changed-the-ai-riskreward",
-      "cross_verified": true,
-      "published_at": "2026-10-28T22:22:58.000000Z"
     }
   ]
 }
