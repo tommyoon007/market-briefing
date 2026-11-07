@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-07T01:44:52.540610+00:00",
+  "updated_at": "2026-11-07T08:35:56.582037+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Microchip Technology Incorporated 2027 Q2 - Results - Earnings Call Presentation (NASDAQ:MCHP) 2026-11-07",
+      "title_ko": "마이크로칩 테크놀로지(Microchip Technology Incorporated) 2027년 2분기 실적 - 실적 발표 전화 회의 프레젠테이션 (NASDAQ:MCHP) 2026-11-07",
+      "snippet": "2026-11-07. The following slide deck was published by Microchip Technology Incorporated in conjunction with their 2027 Q2 earnings call.",
+      "snippet_ko": "2026년 11월 7일. 다음 슬라이드 자료는 마이크로칩 테크놀로지(Microchip Technology Incorporated)가 2027년 2분기 실적 발표와 함께 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4964531-microchip-technology-incorporated-2027-q2-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-11-07T08:02:16.000000Z"
+    },
+    {
+      "title": "Workiva Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:WK) 2026-11-07",
+      "title_ko": "Workiva Inc. 2026년 3분기 실적 - 실적 발표 전화회의 프레젠테이션 (NYSE:WK) 2026-11-07",
+      "snippet": "2026-11-07. The following slide deck was published by Workiva Inc.",
+      "snippet_ko": "2026년 11월 7일. 다음 슬라이드 자료는 Workiva Inc.에서 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4964530-workiva-inc-2026-q3-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-11-07T08:01:33.000000Z"
+    },
     {
       "title": "Kratos Defense & Security Solutions, Inc. (KTOS) Q3 2026 Earnings Call Transcript",
       "title_ko": "Kratos Defense & Security Solutions, Inc. (KTOS) 2026년 3분기 실적 발표 전화 회의 기록",
@@ -1177,33 +1201,57 @@
       "url": "https://vcnewsdaily.com/nevis/venture-capital-funding/ysdptctwwv",
       "cross_verified": true,
       "published_at": "2026-10-26T19:38:32.000000Z"
-    },
-    {
-      "title": "Mega and Large Investors Pull Back from Housing Market, Become Net Sellers, Small Investors Continue to Pile In",
-      "title_ko": "대규모 및 대형 투자자들이 주택 시장에서 발을 빼며 순매도자로 전환한 반면, 소액 투자자들은 계속해서 몰려들고 있다",
-      "snippet": "Who is the smart money, after the home-price explosion? Mega-investors have been retreating from buying existing homes scattered all over the place, and have b...",
-      "snippet_ko": "주택 가격이 급등한 이후, 과연 누가 현명한 투자자일까? 거물급 투자자들은 여기저기 흩어져 있는 기존 주택 매입에서 발을 빼고 있으며, 대신...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "wolfstreet.com",
-      "url": "https://wolfstreet.com/2026/10/26/mega-and-large-investors-pull-back-from-housing-market-become-net-sellers-small-investors-continue-to-pile-in/",
-      "cross_verified": true,
-      "published_at": "2026-10-26T19:13:11.000000Z"
-    },
-    {
-      "title": "Is TD Overvalued? DCF Says Worth $90",
-      "title_ko": "TD의 주가가 과대평가되었을까? DCF 분석에 따르면 가치는 90달러다",
-      "snippet": "On October 26, 2026, we delve into the DCF analysis for The Toronto-Dominion Bank (TD), a financial institution that has shown impressive price performance rece",
-      "snippet_ko": "2026년 10월 26일, 우리는 인상적인 주가 상승세를 보여온 금융 기관인 토론토-도미니언 은행(TD)에 대한 DCF 분석을 심층적으로 살펴봅니다.",
-      "symbol": "",
-      "sentiment_score": 0.8481,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9142116/is-td-overvalued-dcf-says-worth-90",
-      "cross_verified": true,
-      "published_at": "2026-10-26T12:27:08.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "SpaceX director Donald Harrison resigns from board a day after US election",
+      "title_ko": "스페이스X의 도널드 해리슨 이사가 미국 대선 다음 날 이사회에서 사임했다",
+      "snippet": "Harrison, who joined SpaceX's board in 2015 as part of Google's investment, stepped down on November 4. The exit comes as independent directors of SpaceX and Tesla consider a potential merger",
+      "snippet_ko": "2015년 구글의 투자와 함께 스페이스X 이사회에 합류했던 해리슨은 11월 4일 사임했다. 이번 사임은 스페이스X와 테슬라의 독립 이사들이 양사의 잠재적 합병 가능성을 검토하고 있는 가운데 이루어졌다.",
+      "symbol": "TSLA",
+      "sentiment_score": 0.2557,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/spacex-director-donald-harrison-resigns-from-board-a-day-after-us-election-126110700173_1.html",
+      "cross_verified": true,
+      "published_at": "2026-11-07T03:36:17.000000Z"
+    },
+    {
+      "title": "MP Materials Corp. 2026 Q3 - Results - Earnings Call Presentation (NYSE:MP) 2026-11-06",
+      "title_ko": "MP Materials Corp. 2026년 3분기 실적 - 실적 발표 전화 회의 프레젠테이션 (NYSE:MP) 2026-11-06",
+      "snippet": "2026-11-06. The following slide deck was published by MP Materials Corp.",
+      "snippet_ko": "2026년 11월 6일. 다음 슬라이드 자료는 MP Materials Corp.에서 공개한 것입니다.",
+      "symbol": "MP",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4964467-mp-materials-corp-2026-q3-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-11-07T01:31:28.000000Z"
+    },
+    {
+      "title": "10 Best 52-Week Low NASDAQ Stocks to Buy According to Billionaires",
+      "title_ko": "억만장자들이 선정한 매수할 만한 나스닥 종목 중 52주 최저가를 기록한 상위 10개 주식",
+      "snippet": "Scan the Nasdaq stocks hitting 52-week lows this week and a pattern jumps out: many of the biggest names build, power or rent space for artificial intelligence. Few of these businesses are shrinking.",
+      "snippet_ko": "이번 주 52주 최저가를 기록한 나스닥 상장 종목들을 살펴보면 한 가지 패턴이 눈에 띕니다. 바로 인공지능 관련 시설을 건설하거나, 운영하거나, 임대하는 대형 기업들이 많다는 점입니다. 이 중 사업이 위축되고 있는 기업은 거의 없습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5719,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/10-best-52-week-low-nasdaq-stocks-to-buy-according-to-billionaires-1862392/",
+      "cross_verified": true,
+      "published_at": "2026-11-07T00:43:40.000000Z"
+    },
+    {
+      "title": "Netflix Stock: Growth Slows, But Potential Remains Intact (NASDAQ:NFLX)",
+      "title_ko": "넷플릭스 주가: 성장세는 둔화되었으나 잠재력은 여전히 건재하다 (나스닥:NFLX)",
+      "snippet": "Netflix is rated a buy due to attractive valuation and strong financials despite revenue growth moderation. Read more on NFLX stock here.",
+      "snippet_ko": "넷플릭스는 매출 성장세가 다소 둔화되었음에도 불구하고 매력적인 기업 가치와 견실한 재무 실적을 바탕으로 ‘매수’ 등급을 받았습니다. NFLX 주식에 대한 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "NFLX",
+      "sentiment_score": 0.6226,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4964524-netflix-growth-slows-but-potential-remains-intact",
+      "cross_verified": true,
+      "published_at": "2026-11-07T08:03:04.000000Z"
+    },
     {
       "title": "MP Materials Corp. (MP) Q3 2026 Earnings Call Transcript",
       "title_ko": "MP 머티리얼즈(MP) 2026년 3분기 실적 발표 전화 회의 기록",
@@ -2355,54 +2403,6 @@
       "url": "https://seekingalpha.com/article/4958900-alphabet-post-earnings-panic-this-market-has-lost-its-mind",
       "cross_verified": true,
       "published_at": "2026-10-28T22:05:39.000000Z"
-    },
-    {
-      "title": "Meta Platforms (META) Faces New Mental Health Lawsuit as Trial Begins in Los Angeles",
-      "title_ko": "로스앤젤레스에서 재판이 시작되는 가운데, 메타 플랫폼스(META)가 새로운 정신 건강 관련 소송에 직면했다",
-      "snippet": "On October 28, 2026, Meta Platforms Inc (NASDAQ: META) and Snap Inc entered a high-profile legal battle over allegations that their social media platforms have",
-      "snippet_ko": "2026년 10월 28일, 메타 플랫폼스(Meta Platforms Inc, 나스닥: META)와 스냅(Snap Inc)은 자사의 소셜 미디어 플랫폼이",
-      "symbol": "META",
-      "sentiment_score": -0.266,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9148123/meta-platforms-meta-faces-new-mental-health-lawsuit-as-trial-begins-in-los-angeles",
-      "cross_verified": true,
-      "published_at": "2026-10-28T18:58:09.000000Z"
-    },
-    {
-      "title": "Google (GOOG) Shares Rise After Launch of Gemini 4 Carbon AI Model",
-      "title_ko": "구글(GOOG), ‘제미니 4’ 탄소 AI 모델 출시 후 주가 상승",
-      "snippet": "On October 28, 2026, Alphabet Inc's stock (GOOG) gained approximately 1.5% in early afternoon trading following the announcement of its latest AI innovation, th",
-      "snippet_ko": "2026년 10월 28일, 알파벳(Alphabet Inc)의 주가(GOOG)는 최신 AI 혁신 기술인 th의 발표에 힘입어 오후 초반 거래에서 약 1.5% 상승했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2371,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9148122/google-goog-shares-rise-after-launch-of-gemini-4-carbon-ai-model",
-      "cross_verified": true,
-      "published_at": "2026-10-28T18:57:54.000000Z"
-    },
-    {
-      "title": "Investing in US stocks from India? How much can you invest, can you directly apply for IPOs? Complete guide here",
-      "title_ko": "인도에서 미국 주식에 투자하고 싶으신가요? 얼마까지 투자할 수 있으며, IPO에 직접 신청할 수 있을까요? 여기에서 전체 가이드를 확인하세요.",
-      "snippet": "Indian residents can invest in foreign stocks through the RBI’s Liberalised Remittance Scheme. Here's how much one can invest per year and whether Indians can directly apply for foreign IPOs.",
-      "snippet_ko": "인도 거주자는 인도 중앙은행(RBI)의 ‘자유화 송금 제도(Liberalised Remittance Scheme)’를 통해 해외 주식에 투자할 수 있습니다. 연간 투자 한도액과 인도인이 해외 기업공개(IPO)에 직접 신청할 수 있는지 여부에 대해 알아보겠습니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.8074,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/money/investing-in-us-stocks-from-india-how-much-can-you-invest-can-you-directly-apply-for-ipos-complete-guide-here-11793206657624.html",
-      "cross_verified": true,
-      "published_at": "2026-10-28T18:29:32.000000Z"
-    },
-    {
-      "title": "Meta: AI Spending Leaves Little Margin Of Safety (Rating Downgrade) (NASDAQ:META)",
-      "title_ko": "메타: AI 투자로 인해 안전 마진이 거의 남아 있지 않다 (신용등급 하향 조정) (나스닥:META)",
-      "snippet": "Meta Platforms, Inc. downgraded to Hold as AI spending pressures free cash flow and valuation looks stretched. Read more on META stock here.",
-      "snippet_ko": "메타 플랫폼스(Meta Platforms, Inc.)가 AI 관련 지출로 인해 자유 현금 흐름에 압박을 받고 있으며, 기업 가치가 과대평가된 것으로 보여 투자 등급이 ‘보유(Hold)’로 하향 조정되었습니다. META 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "META",
-      "sentiment_score": 0.1813,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4958441-meta-ai-spending-leaves-little-margin-of-safety-rating-downgrade",
-      "cross_verified": true,
-      "published_at": "2026-10-28T11:35:17.000000Z"
     }
   ]
 }
