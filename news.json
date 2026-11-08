@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-08T16:34:36.790917+00:00",
+  "updated_at": "2026-11-08T21:53:38.541596+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "HealthEquity COBRA Review 2026: Pricing, Pros & Cons",
+      "title_ko": "HealthEquity COBRA 2026년 리뷰: 요금, 장단점",
+      "snippet": "HealthEquity review: quote-based pricing. Best for employers that need a SOC 2 Type II audited COBRA administrator. Updated Nov 2026.",
+      "snippet_ko": "HealthEquity 리뷰: 견적 기반 가격 책정. SOC 2 Type II 감사를 받은 COBRA 관리자가 필요한 고용주에게 가장 적합합니다. 2026년 11월 업데이트.",
+      "symbol": "",
+      "sentiment_score": 0.3224,
+      "source": "leadchangegroup.com",
+      "url": "https://leadchangegroup.com/software/healthequity/",
+      "cross_verified": true,
+      "published_at": "2026-11-08T21:21:23.000000Z"
+    },
+    {
+      "title": "Best PEO Services for Small Business (2026)",
+      "title_ko": "중소기업을 위한 최고의 PEO 서비스 (2026)",
+      "snippet": "27 PEO services for small business, with notes on a fee schedule with no surprises. Top: Justworks from $79/employee/mo. Updated Oct 2026.",
+      "snippet_ko": "중소기업을 위한 27가지 PEO 서비스와 예상치 못한 추가 비용이 없는 요금표에 대한 설명. 상단: Justworks, 직원 1인당 월 79달러부터. 2026년 10월 업데이트.",
+      "symbol": "",
+      "sentiment_score": 0.4683,
+      "source": "leadchangegroup.com",
+      "url": "https://leadchangegroup.com/peo-services/small-business/",
+      "cross_verified": true,
+      "published_at": "2026-11-08T21:21:23.000000Z"
+    },
     {
       "title": "Riley Exploration Permian, Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:REPX) 2026-11-07",
       "title_ko": "Riley Exploration Permian, Inc. 2026년 3분기 실적 - 실적 발표 전화 회의 프레젠테이션 (NYSE:REPX) 2026-11-07",
@@ -1177,33 +1201,45 @@
       "url": "https://seekingalpha.com/article/4958034-hubbell-incorporated-hubb-q3-2026-earnings-call-transcript",
       "cross_verified": true,
       "published_at": "2026-10-27T17:10:26.000000Z"
-    },
-    {
-      "title": "Xylem Inc. (XYL) Q3 2026 Earnings Call Transcript",
-      "title_ko": "Xylem Inc. (XYL) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "Xylem Inc. (XYL) Q3 2026 Earnings Call October 27, 2026 9:00 AM EDTCompany ParticipantsGregory GiomettiMatthew Pine - CEO, President & DirectorAndrea...",
-      "snippet_ko": "Xylem Inc. (XYL) 2026년 3분기 실적 발표 컨퍼런스 콜, 2026년 10월 27일 오전 9:00 (EDT) 회사 참가자: 그레고리 지오메티, 매튜 파인 - CEO, 사장 겸 이사, 안드레아...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4957995-xylem-inc-xyl-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-10-27T17:10:20.000000Z"
-    },
-    {
-      "title": "Cellectar Biosciences Reports Case Study Highlighting Complete Response Lasting More Than Eight Years in Heavily Pretreated DLBCL Patient Treated with Iopofosine I 131",
-      "title_ko": "셀렉타 바이오사이언스, 이오포포신 I-131 치료를 받은 다중 전처치 이력이 있는 DLBCL 환자에서 8년 이상 지속된 완전 관해 사례를 다룬 사례 연구 발표",
-      "snippet": "Durable Complete Response Achieved with Single Administration of Iopofosine I 131",
-      "snippet_ko": "이오포포신 I 131의 1회 투여로 지속적인 완전 반응 달성",
-      "symbol": "",
-      "sentiment_score": -0.1686,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/27/tmt-newswire/globenewswire/cellectar-biosciences-reports-case-study-highlighting-complete-response-lasting-more-than-eight-years-in-heavily-pretreated-dlbcl-patient-treated-with-iopofosine-i-131/2454873",
-      "cross_verified": true,
-      "published_at": "2026-10-27T11:25:31.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Docebo Review 2026: Pricing, Pros & Cons",
+      "title_ko": "Docebo 리뷰 2026: 가격, 장점 및 단점",
+      "snippet": "Docebo review: quote-based pricing, 2 plans. Best for organizations training employees, customers and partners in separate branded domains.",
+      "snippet_ko": "Docebo 리뷰: 견적 기반 가격 책정, 2가지 요금제. 별도의 브랜드 도메인에서 직원, 고객 및 파트너를 대상으로 교육을 진행하는 조직에 가장 적합합니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2724,
+      "source": "leadchangegroup.com",
+      "url": "https://leadchangegroup.com/software/docebo/",
+      "cross_verified": true,
+      "published_at": "2026-11-08T21:21:23.000000Z"
+    },
+    {
+      "title": "Intel Stock: The Sell-Off Has Done Most Of The Work (NASDAQ:INTC)",
+      "title_ko": "인텔 주가: 매도세가 이미 대부분의 영향을 미쳤다 (나스닥: INTC)",
+      "snippet": "Intel remains a Hold as valuation resets, data center strength offsets weak PC demand, and foundry progress faces funding risks.",
+      "snippet_ko": "인텔은 기업 가치 재조정 국면, 데이터 센터 부문의 호조가 PC 수요 부진을 상쇄하고 있는 점, 파운드리 사업 진전에 자금 조달 리스크가 존재하는 점 등을 고려할 때 여전히 ‘보유(Hold)’ 등급을 유지한다.",
+      "symbol": "INTC",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4964846-intel-the-sell-off-has-done-most-of-the-work",
+      "cross_verified": true,
+      "published_at": "2026-11-08T18:22:47.000000Z"
+    },
+    {
+      "title": "Weekend Market Report-11/8/26-A 5.5% Nasdaq Crash, One Friday Bounce, And A Fed That Wants To Hike",
+      "title_ko": "주말 시장 보고서 - 26년 11월 8일 - 나스닥 5.5% 폭락, 금요일 일시 반등, 그리고 금리 인상을 원하는 연준",
+      "snippet": "Good weekend, everyone. Friday’s close: S&P 500 +0.3% | Nasdaq +1.1% | Dow -0.5% | Russell 2000 +0.9% For the week: S&P 500 -2.7% | Nasdaq -3.4% | Dow -0.9% | Russell 2000 -2.1% If you spent last week wondering whether you forgot how to trade, relax. The market forgot…",
+      "snippet_ko": "여러분, 즐거운 주말 보내세요. 금요일 종가: S&P 500 +0.3% | 나스닥 +1.1% | 다우 -0.5% | 러셀 2000 +0.9% 주간 실적: S&P 500 -2.7% | 나스닥 -3.4% | 다우 -0.9% | 러셀 2000 -2.1% 지난주 내내 ‘거래하는 법을 잊어버린 건 아닐까’ 하고 고민하셨다면, 안심하세요. 시장이 잊어버린 거니까요…",
+      "symbol": "NVDA",
+      "sentiment_score": -0.0918,
+      "source": "upsidetrader.com",
+      "url": "https://www.upsidetrader.com/2026/11/08/weekend-market-report-11-8-26-a-5-5-nasdaq-crash-one-friday-bounce-and-a-fed-that-wants-to-hike/",
+      "cross_verified": true,
+      "published_at": "2026-11-08T16:49:19.000000Z"
+    },
     {
       "title": "Dow Jones, S&P 500, Nasdaq: Last week’s AI stocks crash is not your garden variety correction",
       "title_ko": "다우존스, S&P 500, 나스닥: 지난주 AI 관련주 폭락은 평범한 조정 국면이 아니다",
@@ -2367,42 +2403,6 @@
       "url": "https://seekingalpha.com/article/4958145-meta-strong-quarter-bright-outlook-but-what-about-the-dividend",
       "cross_verified": true,
       "published_at": "2026-10-29T11:45:00.000000Z"
-    },
-    {
-      "title": "Alphabet drags on Nasdaq futures as the stock faces a record post-earnings loss",
-      "title_ko": "알파벳이 실적 발표 후 사상 최대의 하락세를 기록하면서 나스닥 선물 지수를 끌어내리고 있다",
-      "snippet": "Concerns rise that the Google-parent is taking a hit from AI competition",
-      "snippet_ko": "구글의 모회사가 AI 경쟁으로 인해 타격을 입고 있다는 우려가 커지고 있다",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.1578,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/29/alphabet-nasdaq-futures-record-post-earnings-loss.html",
-      "cross_verified": true,
-      "published_at": "2026-10-29T11:41:06.000000Z"
-    },
-    {
-      "title": "JPMorgan, Microsoft, Google and 30 Other Companies Object to OKX-ICE Tokenized Stock Trading",
-      "title_ko": "JPMorgan, Microsoft, Google 및 기타 30개 기업, OKX-ICE의 토큰화된 주식 거래에 반대",
-      "snippet": "JPMorgan Chase, Microsoft, Alphabet and 30 other publicly traded companies have formally objected to having their shares traded as blockchain-based tokens on",
-      "snippet_ko": "JPMorgan Chase, Microsoft, Alphabet 및 기타 30개의 상장 기업들이 자사 주식이 블록체인 기반 토큰으로 거래되는 것에 대해 공식적으로 반대 입장을 표명했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2044,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/jpmorgan-microsoft-google-and-30-other-companies-object-to-okx-ice-tokenized-stock-trading/",
-      "cross_verified": true,
-      "published_at": "2026-10-29T11:36:10.000000Z"
-    },
-    {
-      "title": "Tech Giants Battle for Short-Drama Market Share as Global Markets Face Volatility",
-      "title_ko": "세계 시장이 변동성을 겪는 가운데, 기술 대기업들이 단편 드라마 시장 점유율을 놓고 치열한 경쟁을 벌이고 있다",
-      "snippet": "The competition in China’s short-form drama market has reached a fever pitch as Tencent Holdings (700) and ByteDance vie for dominance in the",
-      "snippet_ko": "텐센트 홀딩스(700)와 바이트댄스가 중국 단편 드라마 시장의 주도권을 놓고 치열한 경쟁을 벌이면서, 이 시장의 경쟁은 최고조에 달했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.1103,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-giants-battle-for-short-drama-market-share-as-global-markets-face-volatility/73789/",
-      "cross_verified": true,
-      "published_at": "2026-10-29T03:08:18.000000Z"
     }
   ]
 }
