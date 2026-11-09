@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-08T21:53:38.541596+00:00",
+  "updated_at": "2026-11-09T01:33:59.005463+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Cytokinetics, Incorporated 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:CYTK) 2026-11-08",
+      "title_ko": "사이토키네틱스(Cytokinetics, Incorporated) 2026년 3분기 실적 - 실적 발표 전화 회의 프레젠테이션 (NASDAQ:CYTK) 2026-11-08",
+      "snippet": "2026-11-08. The following slide deck was published by Cytokinetics, Incorporated in conjunction with their 2026 Q3 earnings call.",
+      "snippet_ko": "2026년 11월 8일. 다음 슬라이드 자료는 Cytokinetics, Incorporated가 2026년 3분기 실적 발표와 함께 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4964882-cytokinetics-incorporated-2026-q3-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-11-09T01:07:26.000000Z"
+    },
+    {
+      "title": "Atea Pharmaceuticals (AVIR) to Report Q3 Earnings Amid Loss-Making Status and Mixed Market Signals",
+      "title_ko": "적자 상태와 엇갈리는 시장 신호 속에서 아테아 파마슈티컬스(AVIR), 3분기 실적 발표 예정",
+      "snippet": "On November 08, 2026, Atea Pharmaceuticals Inc (NASDAQ: AVIR) is scheduled to release its third-quarter earnings report after market close on November 9. The co",
+      "snippet_ko": "2026년 11월 8일, Atea Pharmaceuticals Inc(나스닥: AVIR)는 11월 9일 장 마감 후 3분기 실적 보고서를 발표할 예정입니다. 이 회사는",
+      "symbol": "",
+      "sentiment_score": -0.3007,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9184271/atea-pharmaceuticals-avir-to-report-q3-earnings-amid-lossmaking-status-and-mixed-market-signals",
+      "cross_verified": true,
+      "published_at": "2026-11-08T23:56:39.000000Z"
+    },
     {
       "title": "HealthEquity COBRA Review 2026: Pricing, Pros & Cons",
       "title_ko": "HealthEquity COBRA 2026년 리뷰: 요금, 장단점",
@@ -1177,33 +1201,33 @@
       "url": "https://financialpost.com/globe-newswire/fairfax-announces-conference-call-21",
       "cross_verified": true,
       "published_at": "2026-10-27T21:06:39.000000Z"
-    },
-    {
-      "title": "SoFi Technologies Stock Jumps 15% After Strong Q3 Results And Raised Outlook",
-      "title_ko": "SoFi Technologies, 호조인 3분기 실적과 상향 조정된 전망에 힘입어 주가 15% 급등",
-      "snippet": "SoFi Technologies, Inc. (SOFI) is up 15.46 percent, gaining $2.23 to $16.69 on Tuesday. The rise follows strong third-quarter results, with net income increasing to $240.",
-      "snippet_ko": "SoFi Technologies, Inc. (SOFI)의 주가는 화요일 15.46% 상승하며 2.23달러 오른 16.69달러를 기록했다. 이번 상승은 3분기 실적이 호조를 보인 데 따른 것으로, 순이익은 240달러로 증가했다.",
-      "symbol": "",
-      "sentiment_score": 0.4977,
-      "source": "rttnews.com",
-      "url": "https://www.rttnews.com/story.aspx?Id=3703692",
-      "cross_verified": true,
-      "published_at": "2026-10-27T17:13:25.000000Z"
-    },
-    {
-      "title": "Hubbell Incorporated (HUBB) Q3 2026 Earnings Call Transcript",
-      "title_ko": "허벨 인코포레이티드(HUBB) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "Hubbell Incorporated (HUBB) Q3 2026 Earnings Call October 27, 2026 10:00 AM EDTCompany ParticipantsDaniel Innamorato - Director of Investor RelationsGerben...",
-      "snippet_ko": "허벨 인코퍼레이티드(HUBB) 2026년 3분기 실적 발표 전화회의 2026년 10월 27일 오전 10:00 (EDT) 회사 참석자: 다니엘 인나모라토 - 투자자 관계 이사, 게르벤...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4958034-hubbell-incorporated-hubb-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-10-27T17:10:26.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Apple (AAPL) Reduces Tax Burden by $2.7 Billion via Singapore",
+      "title_ko": "애플(AAPL), 싱가포르를 통해 27억 달러의 세금 부담 경감",
+      "snippet": "On November 08, 2026, Apple Inc (AAPL) made headlines as it disclosed a significant reduction in its tax burden, amounting to $2.7 billion, by channeling revenu",
+      "snippet_ko": "2026년 11월 8일, 애플(AAPL)은 수익을 특정 경로로 전환함으로써 27억 달러에 달하는 세금 부담을 대폭 줄였다고 밝혀 화제가 되었습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3418,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9184273/apple-aapl-reduces-tax-burden-by-27-billion-via-singapore",
+      "cross_verified": true,
+      "published_at": "2026-11-09T00:11:36.000000Z"
+    },
+    {
+      "title": "Organon (OGN) Highlights Successful Biosimilar Switch Study at ACR Meeting",
+      "title_ko": "오르가논(OGN), ACR 학회에서 바이오시밀러 전환 연구 성과 발표",
+      "snippet": "On November 08, 2026, Organon & Co (NYSE: OGN) disclosed results from a pivotal study presented at the American College of Rheumatology Annual Meeting. The rese",
+      "snippet_ko": "2026년 11월 8일, Organon & Co(NYSE: OGN)는 미국 류마티스학회(American College of Rheumatology) 연례 학술대회에서 발표된 핵심 임상시험 결과를 공개했다. 이 연구는",
+      "symbol": "MRK",
+      "sentiment_score": 0.5807,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9184216/organon-ogn-highlights-successful-biosimilar-switch-study-at-acr-meeting",
+      "cross_verified": true,
+      "published_at": "2026-11-08T21:25:25.000000Z"
+    },
     {
       "title": "Docebo Review 2026: Pricing, Pros & Cons",
       "title_ko": "Docebo 리뷰 2026: 가격, 장점 및 단점",
@@ -2379,30 +2403,6 @@
       "url": "https://seekingalpha.com/article/4959407-merck-and-co-inc-mrk-q3-2026-earnings-call-transcript",
       "cross_verified": true,
       "published_at": "2026-10-29T18:09:05.000000Z"
-    },
-    {
-      "title": "Tech Sector Slump Drags Nasdaq Lower as Earnings Season Hits Fever Pitch",
-      "title_ko": "실적 발표 시즌이 한창인 가운데, 기술주 부진이 나스닥 지수를 끌어내렸다",
-      "snippet": "The U.S. stock market experienced a bifurcated session on Thursday, October 29th, 2026, as a sharp sell-off in mega-cap technology names pressured the broader",
-      "snippet_ko": "2026년 10월 29일 목요일, 미국 증시는 초대형 기술주들의 급격한 매도세가 시장 전반에 압박을 가하면서 혼조세를 보였습니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.5746,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-sector-slump-drags-nasdaq-lower-as-earnings-season-hits-fever-pitch/73830/",
-      "cross_verified": true,
-      "published_at": "2026-10-29T18:07:17.000000Z"
-    },
-    {
-      "title": "Meta: Strong Quarter, Bright Outlook, But What About The Dividend? (NASDAQ:META)",
-      "title_ko": "메타: 호조였던 분기 실적, 밝은 전망, 하지만 배당금은 어떨까? (나스닥:META)",
-      "snippet": "Meta Platforms beat Q3 earnings, but rising AI spending may limit near-term dividend growth. Discover more about META in this detailed update on the stock.",
-      "snippet_ko": "메타 플랫폼스(Meta Platforms)는 3분기 실적이 시장 예상을 상회했으나, AI 관련 지출 증가로 인해 단기적인 배당금 성장세가 제한될 수 있습니다. 이 주식에 대한 상세한 최신 정보를 통해 META에 대해 더 자세히 알아보세요.",
-      "symbol": "META",
-      "sentiment_score": -0.0766,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4958145-meta-strong-quarter-bright-outlook-but-what-about-the-dividend",
-      "cross_verified": true,
-      "published_at": "2026-10-29T11:45:00.000000Z"
     }
   ]
 }
