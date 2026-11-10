@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-10T12:30:45.040340+00:00",
+  "updated_at": "2026-11-10T20:44:52.530352+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "The Tel-Aviv Stock Exchange Ltd. (TVAVF) Q3 2026 Earnings Call Transcript",
+      "title_ko": "텔아비브 증권거래소(TVAVF) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "The Tel-Aviv Stock Exchange Ltd. (TVAVF) Q3 2026 Earnings Call November 10, 2026 1:00 PM ESTCompany ParticipantsIttai Ben-Zeev - Chief Executive OfficerAlon...",
+      "snippet_ko": "텔아비브 증권거래소(TVAVF) 2026년 3분기 실적 발표 전화회의, 2026년 11월 10일 오후 1:00(미국 동부 표준시) 회사 참가자: 이타이 벤-지브(Ittai Ben-Zeev) - 최고경영자(CEO), 알론(Alon)...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4965990-the-tel-aviv-stock-exchange-ltd-tvavf-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-10T20:01:05.000000Z"
+    },
+    {
+      "title": "Coloplast: Turnaround Is Underway, But Upside Is Limited (OTCMKTS:CLPBF)",
+      "title_ko": "콜로플라스트: 실적 회복세가 나타나고 있으나 상승 여력은 제한적 (OTCMKTS:CLPBF)",
+      "snippet": "Coloplast's revised mid-term guidance now targets 5–7% organic growth and EBIT margins in the mid-20% range. See why I rate CLPBF stock as Buy. Read my analysis.",
+      "snippet_ko": "콜로플라스트(Coloplast)가 수정한 중기 전망에 따르면, 이제 유기적 성장률 5~7%와 20% 중반대의 EBIT 마진을 목표로 하고 있습니다. 제가 CLPBF 주식을 ‘매수’로 평가하는 이유를 확인해 보세요. 제 분석을 읽어보세요.",
+      "symbol": "",
+      "sentiment_score": -0.1147,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4965965-coloplast-turnaround-is-underway-but-upside-is-limited",
+      "cross_verified": true,
+      "published_at": "2026-11-10T19:45:34.000000Z"
+    },
+    {
+      "title": "Banca Mediolanum S.p.A. (BNCDY) Q3 2026 Earnings Call Transcript",
+      "title_ko": "Banca Mediolanum S.p.A. (BNCDY) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "Banca Mediolanum S.p.A. (BNCDY) Q3 2026 Earnings Call November 10, 2026 10:30 AM ESTCompany ParticipantsAlessandra Lanzone - Head of Investor...",
+      "snippet_ko": "Banca Mediolanum S.p.A. (BNCDY) 2026년 3분기 실적 발표 전화회의 2026년 11월 10일 오전 10시 30분(미국 동부 표준시) 회사 측 참석자: 알레산드라 란조네 - 투자자 관계 책임자...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4965903-banca-mediolanum-s-p-a-bncdy-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-10T19:41:03.000000Z"
+    },
     {
       "title": "Diamondback Energy and KKR to Acquire Deep Blue Midland Basin from Five Point Infrastructure",
       "title_ko": "다이아몬드백 에너지와 KKR, 파이브 포인트 인프라로부터 딥 블루 미들랜드 분지 인수 예정",
@@ -1165,45 +1201,45 @@
       "url": "https://www.prnewswire.com/apac/news-releases/mgm-china-reports-2026-third-quarter-results-302922811.html",
       "cross_verified": true,
       "published_at": "2026-10-28T22:41:00.000000Z"
-    },
-    {
-      "title": "Hawkins Inc (HWKN) Shows Strong Momentum as Q3 Earnings Season Begins",
-      "title_ko": "호킨스(Hawkins Inc, HWKN), 3분기 실적 발표 시즌 시작과 함께 강력한 상승세를 보이고 있다",
-      "snippet": "On October 28, 2026, Hawkins Inc (NASDAQ: HWKN) emerges as a notable stock amid the start of the third-quarter earnings season, distinguished by a Relative Stre",
-      "snippet_ko": "2026년 10월 28일, 호킨스(Hawkins Inc, 나스닥: HWKN)는 3분기 실적 발표 시즌이 시작되는 가운데 ‘상대적 강세’를 보이며 주목할 만한 종목으로 부상하고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.6674,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9148124/hawkins-inc-hwkn-shows-strong-momentum-as-q3-earnings-season-begins",
-      "cross_verified": true,
-      "published_at": "2026-10-28T18:58:24.000000Z"
-    },
-    {
-      "title": "CMS Energy - A $24 Billion Capital Plan Doesn't Guarantee Shareholder Returns (NYSE:CMS)",
-      "title_ko": "CMS Energy - 240억 달러 규모의 자본 투자 계획이 주주 수익을 보장하지는 않는다 (NYSE:CMS)",
-      "snippet": "CMS Energy is rated 'Hold' with a $54/share price target, reflecting limited upside at current valuations. Read more on CMS stock here.",
-      "snippet_ko": "CMS Energy는 현재 주가 수준에서 상승 여력이 제한적임을 반영해 ‘보유(Hold)’ 등급과 주당 54달러의 목표 주가를 부여받았습니다. CMS 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": -0.0754,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4958450-cms-energy-a-24-billion-capital-plan-doesnt-guarantee-shareholder-returns",
-      "cross_verified": true,
-      "published_at": "2026-10-28T12:00:41.000000Z"
-    },
-    {
-      "title": "Xylem Stock: Near Term Headwinds Are Real, But So Is The Overreaction (NYSE:XYL)",
-      "title_ko": "자일럼(Xylem) 주가: 단기적인 역풍은 분명하지만, 과잉 반응 역시 사실이다 (NYSE:XYL)",
-      "snippet": "Xylem stock looks undervalued after a 30% YTD drop, weak Q3, and lower FY26 guidance. Read here for a detailed analysis of XYL stock.",
-      "snippet_ko": "Xylem 주가는 연초 대비 30% 하락, 부진한 3분기 실적, 그리고 2026 회계연도 실적 전망 하향 조정 등으로 인해 저평가된 것으로 보입니다. XYL 주식에 대한 자세한 분석은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": -0.2132,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4958370-xylem-q3-near-term-headwinds-are-real-but-so-is-the-overreaction",
-      "cross_verified": true,
-      "published_at": "2026-10-28T12:00:27.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "YieldMax® ETFs Announces Weekly Distributions for Group 1 ETFs",
+      "title_ko": "YieldMax® ETF, 그룹 1 ETF에 대한 주간 배당금 지급 발표",
+      "snippet": "CHICAGO and MILWAUKEE and NEW YORK, Nov. 10, 2026 (GLOBE NEWSWIRE) -- YieldMax® ETFs announced distributions for the YieldMax® Group 1 weekly pay ETFs.",
+      "snippet_ko": "시카고, 밀워키, 뉴욕, 2026년 11월 10일 (GLOBE NEWSWIRE) -- YieldMax® ETF는 YieldMax® Group 1 주간 배당형 ETF에 대한 배당금을 발표했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.8166,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/globenewswire/yieldmax-etfs-announces-weekly-distributions-for-group-1-etfs/2466919",
+      "cross_verified": true,
+      "published_at": "2026-11-10T18:53:08.000000Z"
+    },
+    {
+      "title": "Amazon's Ring launches flying security drones, patrol robots to guard homes, businesses",
+      "title_ko": "아마존의 ‘링(Ring)’, 주택과 상가를 지키기 위한 비행 보안 드론 및 순찰 로봇 출시",
+      "snippet": "Amazon introduced Ring Robotics, an indoor security drone and an autonomous 4K business robot powered by AI Pilot to monitor areas fixed cameras miss.",
+      "snippet_ko": "아마존은 고정형 카메라가 포착하지 못하는 구역을 모니터링하기 위해 AI Pilot 기술을 탑재한 실내 보안 드론과 자율 주행 4K 업무용 로봇인 ‘링 로보틱스(Ring Robotics)’를 선보였다.",
+      "symbol": "AMZN",
+      "sentiment_score": -0.7378,
+      "source": "foxbusiness.com",
+      "url": "https://www.foxbusiness.com/technology/amazon-ring-launches-flying-security-drones-patrol-robots-guard-homes-businesses",
+      "cross_verified": true,
+      "published_at": "2026-11-10T18:41:47.000000Z"
+    },
+    {
+      "title": "Amazon.com, Inc. (AMZN) Sold Off After AWS Growth Accelerated: What Changed?",
+      "title_ko": "AWS 성장세가 가속화되자 Amazon.com, Inc. (AMZN) 주가가 급락했다: 무엇이 달라졌을까?",
+      "snippet": "Liontrust Investment Partners recently released its “Global Innovation Fund” Q3 2026 investor letter. A copy of the letter can be downloaded here.",
+      "snippet_ko": "라이온트러스트 인베스트먼트 파트너스(Liontrust Investment Partners)는 최근 ‘글로벌 이노베이션 펀드(Global Innovation Fund)’의 2026년 3분기 투자자 서한을 발표했습니다. 해당 서한의 사본은 여기에서 다운로드할 수 있습니다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.3818,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/amazon-com-inc-amzn-sold-off-after-aws-growth-accelerated-what-changed-1863729/",
+      "cross_verified": true,
+      "published_at": "2026-11-10T16:22:58.000000Z"
+    },
     {
       "title": "Anthropic targets $1 trillion IPO valuation in test of Wall Street's AI fervor",
       "title_ko": "앤트로픽, 월가의 AI 열기를 가늠할 1조 달러 규모의 기업공개(IPO) 기업가치 목표",
@@ -2367,42 +2403,6 @@
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-futures-tumble-over-2-as-amazon-intel-stoke-ai-spending-concerns/articleshow/135356130.cms",
       "cross_verified": true,
       "published_at": "2026-10-30T10:19:18.000000Z"
-    },
-    {
-      "title": "Tech Rout Drags Nasdaq Lower as Intel Plummets; Energy Giants Exxon and Chevron Report Earnings",
-      "title_ko": "인텔 주가 급락으로 기술주 부진이 나스닥 지수를 끌어내리다; 에너지 대기업 엑슨과 셰브론, 실적 발표",
-      "snippet": "The U.S. stock market is facing significant headwinds this Friday, October 30th, 2026, as a sharp sell-off in the technology sector weighs heavily on the",
-      "snippet_ko": "2026년 10월 30일 금요일, 미국 주식 시장은 기술주 부문의 급격한 매도세가 시장에 큰 부담을 주면서 상당한 역풍에 직면해 있습니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2836,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-rout-drags-nasdaq-lower-as-intel-plummets-energy-giants-exxon-and-chevron-report-earnings/73867/",
-      "cross_verified": true,
-      "published_at": "2026-10-30T10:07:13.000000Z"
-    },
-    {
-      "title": "Markets open flat amid tech sell-off, crude surge; Trent leads Nifty gainers",
-      "title_ko": "기술주 매도세와 원유 가격 급등 속 증시 보합 출발… 트렌트, 니프티 상승 종목 선두",
-      "snippet": "Markets open flat as tech selloff and rising oil temper gains; Trent leads Nifty movers amid mixed global cues.",
-      "snippet_ko": "기술주 매도세와 유가 상승으로 상승세가 주춤한 가운데 시장은 보합세로 개장했다. 세계 증시가 혼조세를 보이는 가운데 트렌트(Trent)가 니프티(Nifty) 상승 종목 중 가장 큰 변동폭을 기록했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.6908,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/markets/markets-open-flat-amid-tech-sell-off-crude-surge-trent-leads-nifty-gainers/article71643564.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-30T04:06:31.000000Z"
-    },
-    {
-      "title": "AI investment: Tech firms take fresh hit as earnings misses fan AI fears",
-      "title_ko": "AI 투자: 실적 부진이 AI에 대한 우려를 부추기며 기술 기업들이 또다시 타격을 입었다",
-      "snippet": "Tech firms were again on the back foot Friday after another round of disappointing earnings from Wall Street titans fanned already deep concerns about the AI investment boom.",
-      "snippet_ko": "월가의 거물 기업들이 또다시 실망스러운 실적을 발표하면서, 이미 깊어지고 있던 인공지능(AI) 투자 붐에 대한 우려를 더욱 부추긴 탓에, 금요일 기술 기업들은 다시 한 번 수세에 몰렸다.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.8658,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tech-firms-take-fresh-hit-as-earnings-misses-fan-ai-fears/articleshow/135340519.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-30T02:55:57.000000Z"
     }
   ]
 }
