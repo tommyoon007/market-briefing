@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-10T04:00:47.864551+00:00",
+  "updated_at": "2026-11-10T12:30:45.040340+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Diamondback Energy and KKR to Acquire Deep Blue Midland Basin from Five Point Infrastructure",
+      "title_ko": "다이아몬드백 에너지와 KKR, 파이브 포인트 인프라로부터 딥 블루 미들랜드 분지 인수 예정",
+      "snippet": "Strategic partnership to support Deep Blue's continued investment in full-cycle water infrastructure across West Texas",
+      "snippet_ko": "딥 블루가 텍사스 서부 전역의 전 주기 물 인프라에 대한 지속적인 투자를 뒷받침하기 위한 전략적 파트너십",
+      "symbol": "",
+      "sentiment_score": 0.444,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/11/10/tmt-newswire/globenewswire/diamondback-energy-and-kkr-to-acquire-deep-blue-midland-basin-from-five-point-infrastructure/2466217",
+      "cross_verified": true,
+      "published_at": "2026-11-10T11:54:21.000000Z"
+    },
+    {
+      "title": "Nova Minerals Confirms 216,000 tpa Processing Capacity, Advancing Alaska’s Critical Minerals Hub",
+      "title_ko": "노바 미네랄스, 연간 216,000톤의 처리 능력 확정… 알래스카의 핵심 광물 허브 구축 가속화",
+      "snippet": "Anchorage, Alaska, Nov. 10, 2026 (GLOBE NEWSWIRE) -- Nova Minerals Corp ('Nova” or the 'Company”) (NYSE American: NVA | ASX: NVA) is pleased to announce that an engineering and processing capacity assessment of its newly acquired processing plant, which is to be constructed at Port MacKenzie, Alaska, has confirmed front-end crushing, grinding and concentration capacity of approximately 216,000 tonnes per annum (tpa). This substantial processing capacity provides a scalable platform for future commercial antimony production, with capacity modelling indicating potential refined antimony production of up to approximately 20,000 tpa, subject to feed grade, additional downstream refinery equipment and other operating requirements.",
+      "snippet_ko": "2026년 11월 10일, 알래스카 앵커리지 (GLOBE NEWSWIRE) -- 노바 미네랄스 코퍼레이션(이하 ‘노바’ 또는 ‘회사’) (NYSE American: NVA | ASX: NVA)는 알래스카 포트 맥켄지에 건설될 예정인 신규 인수 가공 공장에 대한 엔지니어링 및 처리 능력 평가 결과, 연간 약 216,000톤(tpa)의 전단 단계 분쇄, 연마 및 농축 능력이 확인되었다고 발표했습니다. 이러한 상당한 처리 능력은 향후 공동",
+      "symbol": "",
+      "sentiment_score": 0.3597,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/11/10/tmt-newswire/globenewswire/nova-minerals-confirms-216000-tpa-processing-capacity-advancing-alaskas-critical-minerals-hub/2466210",
+      "cross_verified": true,
+      "published_at": "2026-11-10T11:35:07.000000Z"
+    },
     {
       "title": "Mortgage Rates Fell for a Third Straight Week: What It Means If You’re House Hunting",
       "title_ko": "모기지 금리, 3주 연속 하락: 주택을 찾고 있는 분들에게 이는 무엇을 의미할까",
@@ -1177,33 +1201,45 @@
       "url": "https://seekingalpha.com/article/4958370-xylem-q3-near-term-headwinds-are-real-but-so-is-the-overreaction",
       "cross_verified": true,
       "published_at": "2026-10-28T12:00:27.000000Z"
-    },
-    {
-      "title": "The luxury category experiences significant shifts in value across Interbrand’s Best Global Brands 2026",
-      "title_ko": "인터브랜드의 ‘2026년 세계 최고의 브랜드(Best Global Brands 2026)’ 평가에서 럭셔리 부문은 브랜드 가치 측면에서 상당한 변화를 보이고 있다.",
-      "snippet": "Interbrand, the world’s leading brand consultancy, today released its annual Best Global Brands report, with this year’s luxury analysis highlighting a sector",
-      "snippet_ko": "세계 최고의 브랜드 컨설팅 기업인 인터브랜드(Interbrand)는 오늘 연례 ‘베스트 글로벌 브랜드(Best Global Brands)’ 보고서를 발표했으며, 올해의 럭셔리 부문 분석에서는 해당 분야를 집중 조명했다.",
-      "symbol": "",
-      "sentiment_score": 0.8074,
-      "source": "retailtimes.co.uk",
-      "url": "https://retailtimes.co.uk/the-luxury-category-experiences-significant-shifts-in-value-across-interbrands-best-global-brands-2026/",
-      "cross_verified": true,
-      "published_at": "2026-10-28T12:00:15.000000Z"
-    },
-    {
-      "title": "The Market's Most Reliable Warning Light Is Flashing Red",
-      "title_ko": "시장에서 가장 신뢰할 수 있는 경고등이 빨간색으로 깜빡이고 있다",
-      "snippet": "For the last three years, junk stocks beat quality stocks by the widest margin ever. From November 2023 through June 2026, a portfolio that owned America’s highest-quality businesses and sold sh",
-      "snippet_ko": "지난 3년 동안 저품질 주식은 고품질 주식을 사상 최대 격차로 앞질렀다. 2023년 11월부터 2026년 6월까지, 미국 내 최고 품질의 기업들을 보유하면서 저품질 주식을 매도한 포트폴리오는…",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "realclearmarkets.com",
-      "url": "https://www.realclearmarkets.com/articles/2026/10/28/the_markets_most_reliable_warning_light_is_flashing_red_1213848.html",
-      "cross_verified": true,
-      "published_at": "2026-10-28T05:00:00.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Anthropic targets $1 trillion IPO valuation in test of Wall Street's AI fervor",
+      "title_ko": "앤트로픽, 월가의 AI 열기를 가늠할 1조 달러 규모의 기업공개(IPO) 기업가치 목표",
+      "snippet": "Anthropic plans to price its IPO at $70 to $78 per share, seeking a valuation as high as $1.02 trillion.",
+      "snippet_ko": "앤트로픽은 주당 70~78달러에 기업공개(IPO)를 진행할 계획이며, 최대 1.02조 달러의 기업 가치를 목표로 하고 있다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.5263,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/anthropic-targets-1-trillion-ipo-valuation-in-test-of-wall-streets-ai-fervor-11794311074716.html",
+      "cross_verified": true,
+      "published_at": "2026-11-10T11:48:03.000000Z"
+    },
+    {
+      "title": "Anthropic Reportedly Retracts Nearly $70 Bln IPO Plan After Briefly Sharing With Banks",
+      "title_ko": "앤트로픽, 은행 측에 잠시 공유한 뒤 약 700억 달러 규모의 기업공개(IPO) 계획을 철회한 것으로 알려졌다",
+      "snippet": "Anthropic's (ANT) planned initial public offering, which is expected to raise nearly $70 billion, was briefly shared with banks before the company withdrew the details late on Monday, according to a report by Reuters.",
+      "snippet_ko": "로이터 통신의 보도에 따르면, 약 700억 달러를 조달할 것으로 예상되는 앤트로픽(ANT)의 기업공개(IPO) 계획이 은행 측에 잠시 공유되었으나, 월요일 늦게 회사가 세부 내용을 철회했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2612,
+      "source": "rttnews.com",
+      "url": "https://www.rttnews.com/story.aspx?Id=3712436",
+      "cross_verified": true,
+      "published_at": "2026-11-10T10:25:20.000000Z"
+    },
+    {
+      "title": "Meta: Muse Celebrations Are Over, Reality Kicks In (Rating Upgrade) (NASDAQ:META)",
+      "title_ko": "메타: 뮤즈에 대한 열광은 끝났고, 현실이 다가왔다 (신용등급 상향) (나스닥:META)",
+      "snippet": "Meta Platforms stock surged on Muse AI hype, but rising costs and margin pressure raise risks. Here's what investors need to know about META stock.",
+      "snippet_ko": "뮤즈 AI에 대한 기대감으로 메타 플랫폼스 주가가 급등했으나, 비용 증가와 마진 압박으로 인해 위험 요인이 커지고 있다. 투자자들이 META 주가에 대해 알아야 할 사항은 다음과 같다.",
+      "symbol": "META",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4965321-meta-muse-celebrations-are-over-reality-kicks-in-upgrade",
+      "cross_verified": true,
+      "published_at": "2026-11-10T10:15:00.000000Z"
+    },
     {
       "title": "Alphabet mulls Asia bond sale as AI concerns fuel global volatility",
       "title_ko": "AI에 대한 우려가 전 세계적 변동성을 부추기면서 알파벳, 아시아 채권 발행 검토 중",
@@ -2367,42 +2403,6 @@
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tech-firms-take-fresh-hit-as-earnings-misses-fan-ai-fears/articleshow/135340519.cms",
       "cross_verified": true,
       "published_at": "2026-10-30T02:55:57.000000Z"
-    },
-    {
-      "title": "Stock Market LIVE: GIFT Nifty signals negative open; Asia markets tumble on tech shares selloff",
-      "title_ko": "주식 시장 실시간: GIFT Nifty, 하락 출발 신호… 아시아 증시, 기술주 매도세에 급락",
-      "snippet": "Sensex Today | Stock Market LIVE Updates Friday: The GIFT Nifty indicated a negative open for the Nifty50 index. Asian markets were trading lower in early deals",
-      "snippet_ko": "오늘의 센섹스 | 금요일 주식 시장 실시간 업데이트: GIFT Nifty는 Nifty50 지수가 약세로 출발할 것임을 시사했다. 아시아 증시는 장 초반 하락세를 보였다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.1212,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-q2-results-october-30-126103000074_1.html",
-      "cross_verified": true,
-      "published_at": "2026-10-30T02:23:30.000000Z"
-    },
-    {
-      "title": "Amazon: Fear Is Back, But I'm Buying The Pullback (NASDAQ:AMZN)",
-      "title_ko": "아마존: 공포가 다시 찾아왔지만, 주가가 조정될 때 매수할 생각이다 (나스닥:AMZN)",
-      "snippet": "Amazon.com, Inc. earnings missed, but AWS growth, AI demand, and long-term upside stand out. Click for this AMZN update and see why I am bullish.",
-      "snippet_ko": "Amazon.com, Inc.의 실적이 기대에 미치지 못했지만, AWS의 성장세, AI 수요, 그리고 장기적인 상승 여력이 두드러집니다. 이 AMZN 관련 최신 소식을 확인하시고 제가 왜 낙관적인지 알아보세요.",
-      "symbol": "AMZN",
-      "sentiment_score": -0.0903,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4959802-amazon-fear-is-back-but-im-buying-the-pullback",
-      "cross_verified": true,
-      "published_at": "2026-10-29T23:30:29.000000Z"
-    },
-    {
-      "title": "We're cutting our Amazon price target after a rough quarter. But it isn't all bad",
-      "title_ko": "어려운 분기를 보낸 후 아마존의 목표 주가를 하향 조정합니다. 하지만 모든 것이 나쁜 것만은 아닙니다.",
-      "snippet": "Amazon on Thursday evening delivered a rare double miss.",
-      "snippet_ko": "아마존은 목요일 저녁, 이례적으로 두 가지 지표를 모두 하회하는 실적을 기록했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.5392,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/investingclub/2026/10/29/were-cutting-our-amazon-price-target-after-a-tough-quarter-but-it-isnt-all-bad.html",
-      "cross_verified": true,
-      "published_at": "2026-10-29T23:08:37.000000Z"
     }
   ]
 }
