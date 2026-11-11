@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-11T01:47:44.453579+00:00",
+  "updated_at": "2026-11-11T09:08:01.416453+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Deutsche Bank Crypto Custody Goes Live After 41-Month Wait",
+      "title_ko": "41개월 만에 도이체방크 암호화폐 수탁 서비스 본격 가동",
+      "snippet": "Deutsche Bank crypto custody is live for paying clients, 41 months after the BaFin filing, with the MiCA entry passported across all 30 EEA states.",
+      "snippet_ko": "도이체방크의 암호화폐 보관 서비스가 유료 고객을 대상으로 정식 출시되었으며, 이는 BaFin에 신청서를 제출한 지 41개월 만의 일로, MiCA 등록을 통해 유럽경제지역(EEA) 30개국 전역에서 서비스가 제공된다.",
+      "symbol": "",
+      "sentiment_score": 0.1027,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/deutsche-bank-crypto-custody-live-bafin/",
+      "cross_verified": true,
+      "published_at": "2026-11-11T08:45:24.000000Z"
+    },
+    {
+      "title": "Electromed, Inc. (ELMD) Q1 2027 Earnings Call Transcript",
+      "title_ko": "Electromed, Inc. (ELMD) 2027년 1분기 실적 발표 전화 회의 기록",
+      "snippet": "Electromed, Inc. (ELMD) Q1 2027 Earnings Call November 10, 2026 5:00 PM ESTCompany ParticipantsJames Cunniff - President, CEO & DirectorBrad Nagel -...",
+      "snippet_ko": "Electromed, Inc. (ELMD) 2027년 1분기 실적 발표 컨퍼런스 콜 2026년 11월 10일 오후 5:00 (미국 동부 표준시) 회사 참석자 제임스 커니프 - 사장, CEO 겸 이사 브래드 나겔 -...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4966085-electromed-inc-elmd-q1-2027-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-11T08:30:54.000000Z"
+    },
+    {
+      "title": "Usio reiterates 14%-16% 2026 revenue growth as it targets “several hundred million dollars” of additional ION deposits (NASDAQ:USIO)",
+      "title_ko": "Usio, 2026년 매출 성장률 14%~16% 전망 재확인… “수억 달러” 규모의 추가 ION 매장량 확보 목표 (NASDAQ:USIO)",
+      "snippet": "Usio Q3 revenue rose 12%, adjusted EBITDA increased 222% to $1.2 million and GAAP net income reached $217,000; 2026 growth guidance stays 14%-16%.",
+      "snippet_ko": "Usio의 3분기 매출은 12% 증가했으며, 조정 EBITDA는 222% 증가한 120만 달러를 기록했고, GAAP 기준 순이익은 21만 7천 달러를 달성했다. 2026년 성장 전망치는 14%~16%로 유지된다.",
+      "symbol": "",
+      "sentiment_score": 0.4075,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4670506-usio-reiterates-14-percentminus-16-percent-2026-revenue-growth-as-it-targets-several-hundred",
+      "cross_verified": true,
+      "published_at": "2026-11-11T08:22:01.000000Z"
+    },
     {
       "title": "USHP Foundation Launches First-of-its-Kind Investable U.S. Home Price Index for Global Investors",
       "title_ko": "USHP 재단, 글로벌 투자자들을 위한 업계 최초의 투자 가능한 미국 주택 가격 지수 출시",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4959075-firstenergy-q3-buy-but-not-quite-the-best-one",
       "cross_verified": true,
       "published_at": "2026-10-29T11:45:37.000000Z"
-    },
-    {
-      "title": "Sai Pallavi wants her future husband to be a good cook. Ramayana actress shares 5 qualities she values in a life partner",
-      "title_ko": "사이 팔라비는 미래의 남편이 요리를 잘하는 사람이길 바란다. 드라마 ‘라마야나’에 출연한 이 여배우는 인생의 동반자에게서 중요하게 여기는 5가지 자질을 밝혔다.",
-      "snippet": "Sai Pallavi recently shared her expectations for a future husband during her recent appearance on Kaun Banega Crorepati 18. She emphasised the importance of qualities such as kindness, self-awareness, and accountability in a partner. While discussing her role as Goddess Sita in Ramayana, she opened up about what she could learn from the experience.",
-      "snippet_ko": "사이 팔라비는 최근 ‘카운 바네가 크로레파티 18’에 출연해 미래의 남편에게 바라는 점에 대해 털어놓았다. 그녀는 배우자에게서 친절함, 자기 성찰, 책임감 같은 자질이 중요하다고 강조했다. 또한 『라마야나』에서 시타 여신 역을 맡은 것에 대해 이야기하면서, 그 경험을 통해 무엇을 배울 수 있었는지에 대해서도 솔직하게 털어놓았다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/sai-pallavi-wants-her-future-husband-to-be-a-good-cook-ramayana-actress-shares-5-qualities-she-values-in-a-life-partner/articleshow/135290241.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-29T05:00:30.000000Z"
-    },
-    {
-      "title": "Keysight Technologies: A Great Franchise At A Fair Price (NYSE:KEYS)",
-      "title_ko": "키사이트 테크놀로지스: 합리적인 가격의 훌륭한 투자 대상 (NYSE:KEYS)",
-      "snippet": "Keysight Technologies benefits from increasing electronics complexity and strong execution. Find out why KEYS stock is a Buy.",
-      "snippet_ko": "키사이트 테크놀로지스는 전자 기기의 복잡성이 증가하고 있는 추세와 탄탄한 실적 덕분에 호조를 보이고 있습니다. KEYS 주식을 ‘매수’로 추천하는 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.7506,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4959042-keysight-technologies-a-great-franchise-at-a-fair-price",
-      "cross_verified": true,
-      "published_at": "2026-10-29T04:36:28.000000Z"
-    },
-    {
-      "title": "Porch outlines 2027 baseline of $900M+ RWP and $180M+ adjusted EBITDA following Allied Trust deal (NASDAQ:PRCH)",
-      "title_ko": "포치(Porch), 얼라이드 트러스트(Allied Trust, 나스닥: PRCH) 인수 후 2027년 기준 RWP 9억 달러 이상, 조정 EBITDA 1억 8천만 달러 이상 전망",
-      "snippet": "Porch Group Q3 2026 earnings: raised guidance, strong insurance growth, and Allied Trust deal insights.",
-      "snippet_ko": "Porch Group 2026년 3분기 실적: 실적 전망 상향 조정, 보험 부문의 견조한 성장, Allied Trust 인수 거래에 대한 분석.",
-      "symbol": "",
-      "sentiment_score": 0.5106,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4659852-porch-outlines-2027-baseline-of-900m-rwp-and-180m-adjusted-ebitda-following-allied-trust-deal",
-      "cross_verified": true,
-      "published_at": "2026-10-29T04:32:08.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Anthropic eyes $1.4 trillion Wall Street IPO valuation",
+      "title_ko": "앤트로픽, 월가 IPO 기업가치 1조 4천억 달러 목표",
+      "snippet": "Anthropic's blockbuster IPO will value the Claude chatbot creator at up to $1.4 trillion, slightly short of some investors' expectations, setting up a key test of Wall Street's faith in the AI boom it helped ignite.",
+      "snippet_ko": "앤트로픽의 대대적인 기업공개(IPO)를 통해 ‘클로드’ 챗봇 개발사의 기업 가치는 최대 1조 4천억 달러에 달할 전망인데, 이는 일부 투자자들의 기대치보다 약간 낮은 수준이며, 이 회사가 촉발하는 데 일조했던 AI 붐에 대한 월가의 신뢰를 가늠할 중요한 시금석이 될 전망이다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.5001,
+      "source": "rte.ie",
+      "url": "https://www.rte.ie/news/business/2026/1111/1598786-anthropic-eyes-1-4-trillion-wall-street-ipo-valuation/",
+      "cross_verified": true,
+      "published_at": "2026-11-11T08:00:57.000000Z"
+    },
+    {
+      "title": "Intel Stock: Why I'm Turning Bullish After The Crash (NASDAQ:INTC)",
+      "title_ko": "인텔 주가: 급락 이후 내가 강세 전망을 내놓는 이유 (NASDAQ:INTC)",
+      "snippet": "Intel shares plunged nearly 39% following disappointing Q4 guidance, creating a speculative recovery opportunity. Check out why INTC stock is a buy.",
+      "snippet_ko": "인텔 주가는 실망스러운 4분기 실적 전망 발표 이후 39% 가까이 급락하며, 투기적 반등 기회를 만들어 냈다. INTC 주식을 매수해야 하는 이유를 확인해 보자.",
+      "symbol": "INTC",
+      "sentiment_score": -0.4019,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4966307-intel-why-im-turning-bullish-after-the-crash",
+      "cross_verified": true,
+      "published_at": "2026-11-11T07:40:48.000000Z"
+    },
+    {
+      "title": "Indian Smallcap AI Winners Face Valuation Test as US Enthusiasm Cools",
+      "title_ko": "미국의 열기가 식으면서 인도 소형주 AI 수혜주들, 기업가치 평가 시험대에 올라",
+      "snippet": "Seven of the top 10 best-performing Indian smallcap stocks over the past year, linked to the US data centre boom and AI infrastructure, are now facing a valuation test as enthusiasm for AI investment shows signs of cooling on Wall Street. Analysts warn that the rally in these Indian counterparts may have left valuations increasingly stretched, with any pullback in US capital expenditure potentially weighing on their share prices.",
+      "snippet_ko": "지난 1년간 미국 데이터센터 붐과 AI 인프라와 연계되어 가장 우수한 성과를 보인 인도 소형주 상위 10개 종목 중 7개 종목이, 월가에서 AI 투자 열기가 식어가는 조짐을 보이면서 현재 기업 가치 평가의 시험대에 올라 있다. 애널리스트들은 이러한 인도 관련 종목들의 상승세가 주가 평가를 점점 더 과열된 상태로 만들었을 수 있으며, 미국의 자본 지출이 다소 주춤할 경우 해당 종목들의 주가에 부정적인 영향을 미칠 수 있다고 경고하고 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2964,
+      "source": "rediff.com",
+      "url": "https://www.rediff.com/business/report/indian-smallcap-ai-stocks-under-pressure-as-us-data-centre-boom-slows/20261111.htm",
+      "cross_verified": true,
+      "published_at": "2026-11-11T07:36:20.000000Z"
+    },
     {
       "title": "Auxier Asset Management Fall 2026 Market Commentary",
       "title_ko": "옥시어 자산운용 2026년 가을 시장 전망",
@@ -2367,42 +2403,6 @@
       "url": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
       "cross_verified": true,
       "published_at": "2026-10-30T22:17:13.000000Z"
-    },
-    {
-      "title": "Alphabet: Strong Buy As AI Monetization Fears Grow (NASDAQ:GOOG)",
-      "title_ko": "알파벳: AI 수익화 우려 고조 속 ‘강력 매수’ (나스닥:GOOG)",
-      "snippet": "Alphabet Inc.'s Q3 showed robust 25% revenue growth and standout Google Cloud performance, but Search monetization lagged. I rate GOOG stock as Strong Buy.",
-      "snippet_ko": "알파벳(Alphabet Inc.)의 3분기 실적은 25%라는 견실한 매출 성장과 눈에 띄는 구글 클라우드 실적을 기록했으나, 검색 부문의 수익 창출은 부진했다. 나는 GOOG 주식을 ‘강력 매수’로 평가한다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2231,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960462-alphabet-strong-buy-as-ai-monetization-fears-grow",
-      "cross_verified": true,
-      "published_at": "2026-10-30T22:12:22.000000Z"
-    },
-    {
-      "title": "Tech Rout Drags Major Indexes Lower as Semiconductor Sell-Off Intensifies",
-      "title_ko": "반도체 매도세가 거세지면서 기술주 약세가 주요 지수를 끌어내렸다",
-      "snippet": "U.S. equity markets faced significant downward pressure during Friday afternoon trading, as a sharp retreat in the technology sector weighed heavily on the",
-      "snippet_ko": "금요일 오후 거래에서 미국 주식 시장은 기술주 부문의 급격한 하락이 시장에 큰 부담을 주면서 상당한 하락 압력을 받았습니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2283,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-rout-drags-major-indexes-lower-as-semiconductor-sell-off-intensifies/73893/",
-      "cross_verified": true,
-      "published_at": "2026-10-30T18:07:16.000000Z"
-    },
-    {
-      "title": "Amazon: Wall Street Hates The Bill, I Like The Price (NASDAQ:AMZN)",
-      "title_ko": "아마존: 월스트리트는 이 법안을 싫어하지만, 나는 주가가 마음에 든다 (나스닥:AMZN)",
-      "snippet": "Amazon.com, Inc. remains a Buy as AWS growth, retail gains, and ad momentum offset capex concerns. Click for this AMZN earnings update.",
-      "snippet_ko": "AWS의 성장세, 소매 부문의 호조, 광고 부문의 상승세가 설비투자(Capex)에 대한 우려를 상쇄함에 따라 Amazon.com, Inc.에 대한 투자의견은 여전히 ‘매수’를 유지합니다. AMZN 실적 업데이트를 보려면 여기를 클릭하세요.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.5436,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960338-amazon-wall-street-hates-the-bill-i-like-the-price",
-      "cross_verified": true,
-      "published_at": "2026-10-30T17:21:48.000000Z"
     }
   ]
 }
