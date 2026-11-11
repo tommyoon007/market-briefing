@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-11T09:08:01.416453+00:00",
+  "updated_at": "2026-11-11T17:48:54.855979+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "[DowJonesToday]Dow Jones Gains Ground Amid Industrial Strength and AI Momentum",
+      "title_ko": "[DowJonesToday] 산업주 강세와 AI 상승세에 힘입어 다우존스 지수 상승",
+      "snippet": "The Dow Jones Industrial Average (^DJI) was up 98.78 (0.1891%) points today, currently trading at 52,330.67, while Dow Futures (YM=F) was up 83.00 (0.1587%)",
+      "snippet_ko": "다우존스 산업평균지수(^DJI)는 오늘 98.78포인트(0.1891%) 상승해 현재 52,330.67을 기록하고 있으며, 다우 선물(YM=F)은 83.00포인트(0.1587%) 상승했다.",
+      "symbol": "",
+      "sentiment_score": 0.6808,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/dowjonestodaydow-jones-gains-ground-amid-industrial-strength-and-ai-momentum/74525/",
+      "cross_verified": true,
+      "published_at": "2026-11-11T17:09:16.000000Z"
+    },
     {
       "title": "Deutsche Bank Crypto Custody Goes Live After 41-Month Wait",
       "title_ko": "41개월 만에 도이체방크 암호화폐 수탁 서비스 본격 가동",
@@ -1189,21 +1201,69 @@
       "url": "https://seekingalpha.com/article/4959195-nucor-tariff-tailwinds-new-capacity-set-up-stronger-2027",
       "cross_verified": true,
       "published_at": "2026-10-29T11:56:19.000000Z"
-    },
-    {
-      "title": "FirstEnergy Is A Buy, But Not Quite The Best One (NYSE:FE)",
-      "title_ko": "FirstEnergy는 매수할 만한 종목이지만, 최고의 선택은 아니다 (NYSE:FE)",
-      "snippet": "Regulatory and demographic headwinds persist for FirstEnergy, but management expresses high confidence in project approvals. Read why FE stock is a Buy.",
-      "snippet_ko": "퍼스트에너지(FirstEnergy)는 규제 및 인구 구조적 역풍에 직면해 있지만, 경영진은 프로젝트 승인에 대해 높은 자신감을 보이고 있습니다. FE 주식을 ‘매수’로 추천하는 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.1587,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4959075-firstenergy-q3-buy-but-not-quite-the-best-one",
-      "cross_verified": true,
-      "published_at": "2026-10-29T11:45:37.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Treasury Secretary Relocates to Military Base Amid Iranian Threats; Google Tests “Hydrogen” AI",
+      "title_ko": "이란의 위협 속에 재무장관, 군사 기지로 이동… 구글, ‘수소’ AI 테스트 중",
+      "snippet": "U.S. Treasury Secretary Scott Bessent has moved his primary residence to a secure military base following credible intelligence regarding Iranian plots",
+      "snippet_ko": "스콧 베센트 미국 재무장관은 이란의 음모에 관한 신뢰할 만한 정보가 입수됨에 따라 주 거주지를 보안이 철저한 군사 기지로 옮겼다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.4937,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/treasury-secretary-relocates-to-military-base-amid-iranian-threats-google-tests-hydrogen-ai/74522/",
+      "cross_verified": true,
+      "published_at": "2026-11-11T16:38:14.000000Z"
+    },
+    {
+      "title": "Broadcom: Cheaper To Own One Of The Best Stories On The Market (NASDAQ:AVGO)",
+      "title_ko": "브로드컴: 시장에서 가장 유망한 종목 중 하나를 더 저렴하게 매수할 기회 (나스닥: AVGO)",
+      "snippet": "Broadcom is a Strong Buy at 27.5x FY2026 EPS; $72B in financing commitments poses long-term risk, while growth supports upside. Click for more on AVGO stock.",
+      "snippet_ko": "브로드컴은 2026 회계연도 주당순이익(EPS) 기준 27.5배의 주가수익비율(PER)을 고려할 때 ‘강력 매수’ 등급을 받을 만합니다. 720억 달러 규모의 자금 조달 약정은 장기적인 위험 요인이 될 수 있으나, 성장세는 주가 상승 여력을 뒷받침합니다. AVGO 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.5737,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4966465-broadcom-cheaper-to-own-one-of-the-best-stories-on-the-market",
+      "cross_verified": true,
+      "published_at": "2026-11-11T15:25:45.000000Z"
+    },
+    {
+      "title": "US stock market today: S&P 500 and Nasdaq race towards record highs as Nvidia leads AI stock comeback, CoreWeave surges 16% – why is Dow Jones missing the rally?",
+      "title_ko": "오늘 미국 증시: 엔비디아가 AI 관련주 반등을 주도하며 S&P 500과 나스닥이 사상 최고치를 향해 치솟고, 코어위브는 16% 급등 – 다우존스는 왜 이 상승세에 동참하지 못하고 있을까?",
+      "snippet": "US stock market rally today: The S&P 500 climbed above 7,600 in Wednesdays early trading as investors returned to technology stocks after two sessions of heavy selling. Nvidia rose nearly 3%, while CoreWeave gained more than 16% after strong quarterly results. The Nasdaq advanced 1.30% today, but the Dow remained almost flat as the AI trade regained momentum.",
+      "snippet_ko": "오늘 미국 증시 상승세: 수요일 장 초반, 이틀간의 대규모 매도세 이후 투자자들이 다시 기술주 매수에 나서면서 S&P 500 지수가 7,600선을 넘어섰다. 엔비디아(Nvidia)는 3% 가까이 상승했으며, 코어위브(CoreWeave)는 호조를 보인 분기 실적 발표에 힘입어 16% 이상 급등했다. 나스닥 지수는 오늘 1.30% 상승했으나, AI 관련주가 다시 상승세를 타면서 다우 지수는 거의 보합세를 유지했다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.6908,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-sp-500-and-nasdaq-race-towards-record-highs-as-nvidia-leads-ai-stock-comeback-coreweave-surges-16-why-is-dow-jones-missing-the-rally/articleshow/135741399.cms",
+      "cross_verified": true,
+      "published_at": "2026-11-11T15:21:59.000000Z"
+    },
+    {
+      "title": "Tech Surge Propels Markets as Nvidia and Semiconductors Lead Midday Rally",
+      "title_ko": "엔비디아와 반도체주가 정오 반등을 주도하며 기술주 급등세가 시장을 견인하고 있다",
+      "snippet": "U.S. equity markets displayed robust bullish momentum during midday trading on Wednesday, November 11th, 2026. Investor sentiment was primarily driven by a",
+      "snippet_ko": "2026년 11월 11일 수요일 정오 거래 시간 동안 미국 주식 시장은 강력한 상승 모멘텀을 보였습니다. 투자 심리는 주로 다음 요인에 의해 주도되었는데,",
+      "symbol": "NVDA",
+      "sentiment_score": 0.2678,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-surge-propels-markets-as-nvidia-and-semiconductors-lead-midday-rally/74523/",
+      "cross_verified": true,
+      "published_at": "2026-11-11T17:07:11.000000Z"
+    },
+    {
+      "title": "SA analyst upgrades/downgrades: META, UBER, EVGO, ORCL (SP500:)",
+      "title_ko": "SA 애널리스트의 매수/매도 등급 상향·하향 조정: META, UBER, EVGO, ORCL (S&P 500:)",
+      "snippet": "Analysts rate EVgo, Meta, Oracle and Uber Hold: EVgo's $2 offer supports shares, Meta trades at 17x 2027 earnings, and Waymo pressures Uber.",
+      "snippet_ko": "애널리스트들은 EVgo, 메타, 오라클, 우버에 대해 ‘보유(Hold)’ 등급을 부여했다. EVgo의 2달러 공모가가 주가를 지지하고 있으며, 메타는 2027년 예상 이익의 17배 수준에서 거래되고 있고, 웨이모가 우버에 압박을 가하고 있다.",
+      "symbol": "META",
+      "sentiment_score": 0.0483,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4670810-sa-analyst-upgradesdowngrades-meta-uber-evgo-orcl",
+      "cross_verified": true,
+      "published_at": "2026-11-11T16:52:30.000000Z"
+    },
     {
       "title": "Anthropic eyes $1.4 trillion Wall Street IPO valuation",
       "title_ko": "앤트로픽, 월가 IPO 기업가치 1조 4천억 달러 목표",
@@ -2343,66 +2403,6 @@
       "url": "https://fortune.com/2026/10/31/big-tech-ai-capital-spending-spree/",
       "cross_verified": true,
       "published_at": "2026-10-31T10:44:00.000000Z"
-    },
-    {
-      "title": "What Moved Markets This Week",
-      "title_ko": "이번 주 시장을 움직인 요인",
-      "snippet": "Major U.S. stock indices fell this week amid a deep tech selloff, with some chip names losing as much as 30%. Read more about this week's major events on Wall Street.",
-      "snippet_ko": "이번 주 미국 주요 주가지수는 기술주 매도세가 거세지면서 하락세를 보였으며, 일부 반도체 관련 종목은 최대 30%까지 떨어졌습니다. 이번 주 월스트리트의 주요 사건들에 대해 자세히 알아보세요.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.034,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960607-what-moved-markets-this-week",
-      "cross_verified": true,
-      "published_at": "2026-10-31T10:38:44.000000Z"
-    },
-    {
-      "title": "Alphabet Stock: The Worst Day In Its History, And The Cheapest It Has Looked In A While",
-      "title_ko": "알파벳 주가: 사상 최악의 하루, 그리고 최근 들어 가장 저렴해 보이는 수준",
-      "snippet": "Alphabet is rated Buy with a $325 12-month price target, reflecting 15% upside from current levels. Read more on GOOG stock here.",
-      "snippet_ko": "알파벳은 ‘매수’ 등급을 받았으며, 12개월 목표 주가는 325달러로, 현재 주가 대비 15%의 상승 여력을 반영하고 있습니다. GOOG 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.7554,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960568-alphabet-the-worst-day-in-its-history-and-the-cheapest-it-has-looked-in-a-while",
-      "cross_verified": true,
-      "published_at": "2026-10-31T08:19:28.000000Z"
-    },
-    {
-      "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
-      "title_ko": "앤트로픽의 나스닥 상장 과정이 훨씬 더 험난해졌다",
-      "snippet": "Concerning projections from hyperscalers this week punished tech stocks and pushed the Nasdaq to its first three-week losing streak since March.",
-      "snippet_ko": "이번 주 하이퍼스케일러들의 실적 전망 발표로 인해 기술주들이 타격을 입었고, 나스닥 지수는 3월 이후 처음으로 3주 연속 하락세를 기록했다.",
-      "symbol": "NVDA",
-      "sentiment_score": -0.0746,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
-      "cross_verified": true,
-      "published_at": "2026-10-31T11:00:01.000000Z"
-    },
-    {
-      "title": "Nasdaq bleeds: Faces $2 trillion wipeout in October",
-      "title_ko": "나스닥, 큰 타격: 10월 2조 달러 규모 시가총액 증발 위기",
-      "snippet": "More than $2 trillion in market value is set to be wiped from the tech-heavy Nasdaq 100 this month, as Big Tech earnings intensified investor scrutiny of",
-      "snippet_ko": "이번 달, 기술주 비중이 높은 나스닥 100 지수의 시가총액이 2조 달러 이상 증발할 전망인데, 이는 대형 기술 기업들의 실적 발표로 인해 투자자들의 감시가 더욱 강화되면서",
-      "symbol": "AMZN",
-      "sentiment_score": -0.1229,
-      "source": "timesofindia.indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/nasdaq-bleeds-faces-2-trillion-wipeout-in-october/articleshow/135380573.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-30T22:29:20.000000Z"
-    },
-    {
-      "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
-      "title_ko": "크레이머의 이번 주 전망: 기술주 실적 발표와 중간선거가 다가오면서 변동성이 더욱 커질 것으로 예상된다",
-      "snippet": "Investors await earnings from Apple, AMD, and other major companies, as well as the midterm elections and the monthly jobs report.",
-      "snippet_ko": "투자자들은 애플, AMD 등 주요 기업들의 실적 발표는 물론, 중간선거와 월간 고용 보고서도 주목하고 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2037,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
-      "cross_verified": true,
-      "published_at": "2026-10-30T22:17:13.000000Z"
     }
   ]
 }
