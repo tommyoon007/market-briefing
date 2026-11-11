@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-10T20:44:52.530352+00:00",
+  "updated_at": "2026-11-11T01:47:44.453579+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "USHP Foundation Launches First-of-its-Kind Investable U.S. Home Price Index for Global Investors",
+      "title_ko": "USHP 재단, 글로벌 투자자들을 위한 업계 최초의 투자 가능한 미국 주택 가격 지수 출시",
+      "snippet": "**media[1301987]**USHP (U.S. Home Price) is the first-of-its-kind liquid index product tracking U.S. home prices, backed by housing-related reserve assets, with USHPi (U.S. Home Price - Income) available as its income-bearing variantUSHP has received institutional commitments up to $100 million, anchored by the Galaxy Sharplink Onchain Yield Fund, Forward Industries (Nasdaq: FWDI) and othersUSHP will be issued by USHP Limited, a British Virgin Islands company and subsidiary of the USHP Foundation, a Cayman Islands foundation company, with Index Industries serving as technology and services providerUSHP will be made available only to eligible institutional and non-U.S. investors GEORGE TOWN, Cayman Islands, Nov. 11, 2026 /PRNewswire/ -- The USHP Foundation, a Cayman Islands foundation company, today announced the upcoming launch of USHP, the first tokenized liquid index product tracking U.S. home prices. USHP gives investors broad, diversified exposure to U.S. housing through a single financial instrument. USHP references the U.S. Home Price Index (USHP Index), Index Industries' new, daily-reported benchmark for U.S. home prices that aligns closely with longstanding housing indices. USHP is the first index-based financial product to be powered by Index Industries' tokenization technology and real estate and capital markets services.",
+      "snippet_ko": "**media[1301987]**USHP(미국 주택 가격)는 미국 주택 가격을 추적하는 최초의 유동성 지수 상품으로, 주택 관련 준비 자산으로 뒷받침되며, 수익 창출형 상품인 USHPi(미국 주택 가격 - Income)는 수익 창출형 상품으로 제공됩니다. USHP는 Galaxy Sharplink Onchain Yield Fund, Forward Industries(나스닥: FWDI) 등을 주축으로 최대 1억 달러 규모의 기관 투자 약정을 확보했습니다. USHP는 영국령 버진아일랜드에 소재한 기업이자 USHP 재단의 자회사인 USHP Limited가 발행할 예정입니다.",
+      "symbol": "",
+      "sentiment_score": 0.128,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/pr-newswire/ushp-foundation-launches-first-of-its-kind-investable-us-home-price-index-for-global-investors/2467151",
+      "cross_verified": true,
+      "published_at": "2026-11-11T01:01:59.000000Z"
+    },
+    {
+      "title": "TELA Bio outlines $76M-$78M 2027 expense range following $17M cost reduction plan (NASDAQ:TELA)",
+      "title_ko": "TELA Bio, 1,700만 달러 규모의 비용 절감 계획에 이어 2027년 지출 범위를 7,600만~7,800만 달러로 제시 (NASDAQ:TELA)",
+      "snippet": "TELA Bio posts Q3 2026 revenue of $19 million, down 8%, and starts a $17 million cost-cutting plan; management expects sequential growth in Q4 and into...",
+      "snippet_ko": "TELA Bio는 2026년 3분기 매출이 1,900만 달러로 전년 동기 대비 8% 감소했다고 발표했으며, 1,700만 달러 규모의 비용 절감 계획을 시행하기 시작했다. 경영진은 4분기부터...에 걸쳐 전분기 대비 성장이 이어질 것으로 전망하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.1499,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4670354-tela-bio-outlines-76m-78m-2027-expense-range-following-17m-cost-reduction-plan",
+      "cross_verified": true,
+      "published_at": "2026-11-11T00:32:02.000000Z"
+    },
+    {
+      "title": "Dolphin Entertainment anticipates 4 ventures in 2027, with at least 1 in market in Q1 (NASDAQ:DLPN)",
+      "title_ko": "돌핀 엔터테인먼트는 2027년에 4건의 신규 사업을 추진할 예정이며, 이 중 최소 1건은 1분기에 시장에 출시될 것으로 전망된다 (나스닥:DLPN)",
+      "snippet": "Dolphin Entertainment posts record Q3 revenue of $16 million, up 8.3%, and swings to $200,000 net income from a $400,000 loss a year earlier.",
+      "snippet_ko": "돌핀 엔터테인먼트는 3분기 매출이 8.3% 증가한 1,600만 달러로 사상 최고치를 기록했으며, 전년 동기 40만 달러의 적자에서 20만 달러의 순이익을 달성했다.",
+      "symbol": "",
+      "sentiment_score": -0.0086,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4670355-dolphin-entertainment-anticipates-4-ventures-in-2027-with-at-least-1-in-market-in-q1",
+      "cross_verified": true,
+      "published_at": "2026-11-11T00:32:02.000000Z"
+    },
     {
       "title": "The Tel-Aviv Stock Exchange Ltd. (TVAVF) Q3 2026 Earnings Call Transcript",
       "title_ko": "텔아비브 증권거래소(TVAVF) 2026년 3분기 실적 발표 전화 회의 기록",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/news/4659852-porch-outlines-2027-baseline-of-900m-rwp-and-180m-adjusted-ebitda-following-allied-trust-deal",
       "cross_verified": true,
       "published_at": "2026-10-29T04:32:08.000000Z"
-    },
-    {
-      "title": "MustGrow Biologics Corp. (MGRO:CA) Discusses Global Agricultural Biologicals Market Growth and Commercial Opportunity Transcript",
-      "title_ko": "MustGrow Biologics Corp. (MGRO:CA), 글로벌 농업용 생물제제 시장 성장 및 상업적 기회에 대해 논의한 회의록",
-      "snippet": "MustGrow Biologics Corp. (MGRO:CA) Discusses Global Agricultural Biologicals Market Growth and Commercial Opportunity October 28, 2026 4:05 PM EDTCompany...",
-      "snippet_ko": "MustGrow Biologics Corp. (MGRO:CA), 글로벌 농업용 생물제제 시장 성장 및 상업적 기회에 대해 논의 2026년 10월 28일 오후 4:05 (EDT) 회사...",
-      "symbol": "",
-      "sentiment_score": 0.6597,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4958966-mustgrow-biologics-corp-mgro-ca-discusses-global-agricultural-biologicals-market-growth-and",
-      "cross_verified": true,
-      "published_at": "2026-10-28T23:20:03.000000Z"
-    },
-    {
-      "title": "AstraZeneca PLC (AZN) Presents at 2026 European Society for Medical Oncology (ESMO) Annual Congress - Slideshow (NYSE:AZN) 2026-10-28",
-      "title_ko": "아스트라제네카 PLC(AZN), 2026년 유럽종양내과학회(ESMO) 연례 학술대회에서 발표 - 슬라이드 쇼 (NYSE:AZN) 2026-10-28",
-      "snippet": "2026-10-28. The following slide deck was published by AstraZeneca PLC in conjunction with this event.",
-      "snippet_ko": "2026년 10월 28일. 다음 슬라이드 자료는 아스트라제네카 PLC가 이번 행사와 관련하여 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4958956-astrazeneca-plc-azn-presents-at-2026-european-society-for-medical-oncology-esmo-annual",
-      "cross_verified": true,
-      "published_at": "2026-10-28T23:06:36.000000Z"
-    },
-    {
-      "title": "MGM China Reports 2026 Third-Quarter Results",
-      "title_ko": "MGM 차이나, 2026년 3분기 실적 발표",
-      "snippet": "/PRNewswire/ -- MGM China Holdings Limited (\"MGM China\" or the \"Company\"; SEHK Stock Code: 2282) today announced the selected unaudited financial data of the...",
-      "snippet_ko": "/PRNewswire/ -- MGM 차이나 홀딩스 리미티드(“MGM 차이나” 또는 “회사”; 홍콩증권거래소(SEHK) 종목코드: 2282)는 오늘 다음의 일부 미감사 재무 데이터를 발표했습니다...",
-      "symbol": "",
-      "sentiment_score": 0.3098,
-      "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/apac/news-releases/mgm-china-reports-2026-third-quarter-results-302922811.html",
-      "cross_verified": true,
-      "published_at": "2026-10-28T22:41:00.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Auxier Asset Management Fall 2026 Market Commentary",
+      "title_ko": "옥시어 자산운용 2026년 가을 시장 전망",
+      "snippet": "Auxier Focus Fund fell 2.51% in Q3 2026 amid bond market stress and AI debt risks. Read full commentary for details.",
+      "snippet_ko": "Auxier Focus Fund는 채권 시장의 불안과 AI 관련 부채 리스크 속에서 2026년 3분기에 2.51% 하락했습니다. 자세한 내용은 전체 해설을 참조하십시오.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.1229,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4966227-auxier-asset-management-fall-2026-market-commentary",
+      "cross_verified": true,
+      "published_at": "2026-11-11T00:30:00.000000Z"
+    },
+    {
+      "title": "Anthropic targets $90 billion IPO at $1.4 trillion valuation",
+      "title_ko": "앤트로픽, 기업가치 1.4조 달러 기준으로 900억 달러 규모의 기업공개(IPO) 추진",
+      "snippet": "Anthropic PBC is preparing for an initial public offering aiming for a fully diluted valuation of $1.4 trillion. The company plans to raise up to $90.4 billion, including a private placement with major investors. It has reported a revenue run rate of $81 billion, showcasing significant growth in recent months. The IPO is scheduled to price on November 18 and begin trading the next day.",
+      "snippet_ko": "Anthropic PBC는 완전 희석 기준 기업 가치를 1조 4천억 달러로 책정하는 것을 목표로 기업공개(IPO)를 준비 중이다. 이 회사는 주요 투자자들을 대상으로 한 사모 유치를 포함해 최대 904억 달러를 조달할 계획이다. 최근 몇 달간 상당한 성장세를 보이며 810억 달러의 매출 런레이트를 기록했다. 이번 IPO는 11월 18일에 공모가가 결정될 예정이며, 다음 날부터 거래가 시작될 예정이다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.7756,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-targets-90-billion-ipo-at-1-4-trillion-valuation/articleshow/135721872.cms",
+      "cross_verified": true,
+      "published_at": "2026-11-11T00:27:03.000000Z"
+    },
+    {
+      "title": "Immutep Announces Release of CTOS 2026 Abstract Reporting First Survival Data from EFTISARC-NEO",
+      "title_ko": "이뮤텝, EFTISARC-NEO 연구의 첫 생존 데이터를 담은 CTOS 2026 초록 발표",
+      "snippet": "First survival data from EFTISARC-NEO, released in CTOS 2026 Abstract, demonstrate encouraging preliminary long-term outcomes in patients with resectable soft tissue sarcoma (STS).With a median follow-up of 19.1 months, 12-month disease-free survival (DFS), local recurrence-free survival (LRFS) and distant metastasis-free survival (DMFS) rates were 81.1%, 94.1% and 86.2%, respectively, in 38 evaluable patients.Investigators conclude that efti plus KEYTRUDA® (pembrolizumab) and radiotherapy as neoadjuvant therapy showed promising preliminary long-term outcomes warranting registrationally relevant trials in patients with STS.Further and new analyses will be presented in a poster discussion session on 19 November 2026 and will be the subject of a further announcement by the Company.SYDNEY, AUSTRALIA, Nov. 11, 2026 (GLOBE NEWSWIRE) -- Immutep Limited (ASX: IMM; NASDAQ: IMMP) today announced the release of an abstract reporting interim disease-free survival data and clinicopathological correlates from EFTISARC-NEO, the investigator-initiated Phase II trial of eftilagimod alfa (efti) plus KEYTRUDA® (pembrolizumab) and radiotherapy as neoadjuvant treatment for resectable soft tissue sarcoma (STS). Further detail and analyses will be presented in a poster discussion session on 19 November 2026 at the Connective Tissue Oncology Society (CTOS) 2026 Annual Meeting, being held from 18-21 November 2026 in Seoul, South Korea.",
+      "snippet_ko": "CTOS 2026 초록을 통해 공개된 EFTISARC-NEO 연구의 첫 생존 데이터는 절제 가능한 연조직 육종(STS) 환자에서 고무적인 초기 장기 예후를 보여주고 있다.추적 관찰 기간 중앙값 19.1개월 시점에서, 평가 가능한 환자 38명을 대상으로 한 12개월 무병 생존율(DFS), 국소 재발 없는 생존율(LRFS) 및 원격 전이 없는 생존율(DMFS)은 각각 81.1%, 94.1%, 86.2%로 나타났습니다. 연구진은 efti와 KEYTRUDA®(펨브롤리주맙), 그리고 방사선 치료를 병용한 신",
+      "symbol": "MRK",
+      "sentiment_score": 0.0821,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/globenewswire/immutep-announces-release-of-ctos-2026-abstract-reporting-first-survival-data-from-eftisarc-neo/2467129",
+      "cross_verified": true,
+      "published_at": "2026-11-10T23:17:15.000000Z"
+    },
     {
       "title": "YieldMax® ETFs Announces Weekly Distributions for Group 1 ETFs",
       "title_ko": "YieldMax® ETF, 그룹 1 ETF에 대한 주간 배당금 지급 발표",
@@ -2367,42 +2403,6 @@
       "url": "https://seekingalpha.com/article/4960338-amazon-wall-street-hates-the-bill-i-like-the-price",
       "cross_verified": true,
       "published_at": "2026-10-30T17:21:48.000000Z"
-    },
-    {
-      "title": "Intel stock plunges 30% as weak PC demand and AI costs trigger global chip selloff",
-      "title_ko": "PC 수요 부진과 AI 관련 비용 증가로 전 세계 반도체 매도세가 이어지며 인텔 주가가 30% 급락했다",
-      "snippet": "Intel shares plunged 30% after the chipmaker issued a weak fourth-quarter revenue forecast and warned of negative cash flow for the year. The warning triggered a global semiconductor selloff, with Nvidia, AMD and other chip stocks declining as weak PC demand and rising AI infrastructure costs weighed on sentiment.",
-      "snippet_ko": "반도체 제조사 인텔이 부진한 4분기 매출 전망을 발표하고 올해 현금 흐름이 마이너스를 기록할 것이라고 경고하자, 인텔 주가는 30% 급락했다. 이 경고로 전 세계 반도체 주식 시장에 매도 물결이 일었고, PC 수요 부진과 AI 인프라 비용 상승이 투자 심리에 부담을 주면서 엔비디아, AMD 등 다른 반도체 관련주들도 하락세를 보였다.",
-      "symbol": "AVGO",
-      "sentiment_score": -0.115,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/intel-plunges-25-as-weak-pc-demand-and-ai-costs-trigger-global-chip-selloff/articleshow/135371230.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-30T17:07:17.000000Z"
-    },
-    {
-      "title": "Tech scare trade hits Nasdaq futures while crypto reels from its biggest-ever hack",
-      "title_ko": "기술주 매도세가 나스닥 선물 시장에 타격을 주는 가운데, 암호화폐 시장은 사상 최대 규모의 해킹 사태로 큰 타격을 입었다",
-      "snippet": "Amazon and Intel worsen the sell-off with disappointing earnings releases",
-      "snippet_ko": "아마존과 인텔, 기대에 미치지 못한 실적 발표로 주가 폭락세 심화",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2579,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/30/tech-trade-nasdaq-futures-crypto-hack.html",
-      "cross_verified": true,
-      "published_at": "2026-10-30T10:36:55.000000Z"
-    },
-    {
-      "title": "Nasdaq futures tumble over 2% as Amazon, Intel stoke AI spending concerns",
-      "title_ko": "아마존과 인텔이 AI 투자에 대한 우려를 부추기면서 나스닥 선물 지수가 2% 이상 급락했다",
-      "snippet": "U.S. stock futures tumbled as Amazon's rising AI investments and Intel's cash burn warning heightened concerns over infrastructure costs, borrowing expenses and profitability. Technology stocks slumped, while investors reassessed AI valuations, capital expenditure and sustainable returns.",
-      "snippet_ko": "아마존의 AI 투자 확대와 인텔의 현금 소모 경고로 인해 인프라 비용, 차입 비용 및 수익성에 대한 우려가 커지면서 미국 주식 선물 가격이 급락했다. 투자자들이 AI 기업들의 기업 가치, 자본 지출 및 지속 가능한 수익성을 재평가하는 가운데 기술주들이 폭락했다.",
-      "symbol": "AVGO",
-      "sentiment_score": -0.3963,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-futures-tumble-over-2-as-amazon-intel-stoke-ai-spending-concerns/articleshow/135356130.cms",
-      "cross_verified": true,
-      "published_at": "2026-10-30T10:19:18.000000Z"
     }
   ]
 }
