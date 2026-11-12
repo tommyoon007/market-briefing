@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-11T17:48:54.855979+00:00",
+  "updated_at": "2026-11-12T00:23:30.730071+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "ThreatBook Named a \"Strong Performer\" in the Gartner® Voice of the Customer for NDR Report for the Fourth Consecutive Year",
+      "title_ko": "ThreatBook, 가트너®(Gartner®)의 ‘NDR 분야 고객의 목소리(Voice of the Customer)’ 보고서에서 4년 연속 “강력한 성과 기업(Strong Performer)”으로 선정",
+      "snippet": "/PRNewswire/ -- Recently, Gartner released its 2026",
+      "snippet_ko": "/PRNewswire/ -- 최근 가트너는 2026년 전망 보고서를 발표했다.",
+      "symbol": "",
+      "sentiment_score": 0.4299,
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/apac/news-releases/threatbook-named-a-strong-performer-in-the-gartner-voice-of-the-customer-for-ndr-report-for-the-fourth-consecutive-year-302932910.html",
+      "cross_verified": true,
+      "published_at": "2026-11-12T00:00:00.000000Z"
+    },
+    {
+      "title": "Brown & Brown, Inc. (BRO) Employer Health and Benefits Strategy Survey Results Review Transcript",
+      "title_ko": "Brown & Brown, Inc. (BRO) 고용주 건강 및 복리후생 전략 설문조사 결과 검토 회의록",
+      "snippet": "Brown & Brown, Inc. (BRO) Employer Health and Benefits Strategy Survey Results Review November 11, 2026 2:00 PM ESTCompany ParticipantsErik Templin -...",
+      "snippet_ko": "Brown & Brown, Inc. (BRO) 고용주 건강 및 복리후생 전략 설문조사 결과 검토 2026년 11월 11일 오후 2:00 (미국 동부 표준시) 참가 기업 대표: Erik Templin -...",
+      "symbol": "",
+      "sentiment_score": 0.7,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4966671-brown-and-brown-inc-bro-employer-health-and-benefits-strategy-survey-results-review",
+      "cross_verified": true,
+      "published_at": "2026-11-11T23:58:52.000000Z"
+    },
     {
       "title": "[DowJonesToday]Dow Jones Gains Ground Amid Industrial Strength and AI Momentum",
       "title_ko": "[DowJonesToday] 산업주 강세와 AI 상승세에 힘입어 다우존스 지수 상승",
@@ -1177,33 +1201,57 @@
       "url": "https://seekingalpha.com/article/4959563-avnet-a-compelling-buy-ahead-of-q1-earnings",
       "cross_verified": true,
       "published_at": "2026-10-29T18:46:07.000000Z"
-    },
-    {
-      "title": "Plexus forecasts FY2027 revenue growth in the mid- to upper teens and sets new 6.5% to 7% non-GAAP operating margin goal (NASDAQ:PLXS)",
-      "title_ko": "플렉서스(Plexus), 2027 회계연도 매출 성장률을 10%대 중후반으로 전망하며, 비GAAP 기준 영업이익률 목표를 6.5%~7%로 새롭게 설정 (나스닥: PLXS)",
-      "snippet": "Plexus Q4 2026 earnings: record revenue, raised FY2027 growth outlook, and higher margin targets.",
-      "snippet_ko": "플렉서스 2026년 4분기 실적: 사상 최대 매출 달성, 2027 회계연도 성장 전망 상향 조정, 마진 목표치 상향.",
-      "symbol": "",
-      "sentiment_score": 0.3818,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4660650-plexus-forecasts-fy2027-revenue-growth-in-the-mid-to-upper-teens-and-sets-new-6_5-percent-to",
-      "cross_verified": true,
-      "published_at": "2026-10-29T18:42:01.000000Z"
-    },
-    {
-      "title": "Nucor: Tariff Tailwinds And New Capacity Set Up A Stronger 2027 (NYSE:NUE)",
-      "title_ko": "Nucor: 관세 호재와 신규 생산 능력 확충으로 2027년 더욱 견고한 실적 전망 (NYSE:NUE)",
-      "snippet": "See why Nucor looks poised for FY27 growth as tariffs, new steel capacity, and margin gains support a strong outlook—read the key risks and upside.",
-      "snippet_ko": "관세, 신규 철강 생산 능력, 마진 확대가 긍정적인 전망을 뒷받침함에 따라 Nucor가 2027 회계연도에 성장을 이룰 것으로 보이는 이유를 확인해 보세요. 주요 위험 요인과 상승 여력도 함께 살펴보세요.",
-      "symbol": "",
-      "sentiment_score": 0.5946,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4959195-nucor-tariff-tailwinds-new-capacity-set-up-stronger-2027",
-      "cross_verified": true,
-      "published_at": "2026-10-29T11:56:19.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Rantizo Launches California Commercial Expansion with Houston-Built Harvest 100 Agricultural Drone",
+      "title_ko": "란티조, 휴스턴에서 제작된 ‘하베스트 100’ 농업용 드론을 앞세워 캘리포니아 시장 진출 본격화",
+      "snippet": "Autonomous drone developer Rantizo (Nasdaq:RNTZ) announced Wednesday it is expanding commercial field…",
+      "snippet_ko": "자율 비행 드론 개발업체 란티조(Rantizo, 나스닥: RNTZ)는 수요일 상업적 분야를 확대하고 있다고 발표했다…",
+      "symbol": "AAPL",
+      "sentiment_score": 0.0,
+      "source": "themarketherald.com.au",
+      "url": "https://themarketonline.com.au/rantizo-launches-california-commercial-expansion-with-houston-built-harvest-100-agricultural-drone-2026-11-12/",
+      "cross_verified": true,
+      "published_at": "2026-11-11T22:11:37.000000Z"
+    },
+    {
+      "title": "Tech Sector Drags on Major Indexes as Investors Await Key Inflation Data and Cisco Earnings",
+      "title_ko": "투자자들이 주요 인플레이션 지표와 시스코의 실적 발표를 기다리는 가운데, 기술주가 주요 지수의 발목을 잡고 있다",
+      "snippet": "U.S. equity markets experienced a day of cautious trading on Wednesday, November 11th, 2026, as investors balanced optimism over corporate resilience against",
+      "snippet_ko": "2026년 11월 11일 수요일, 미국 주식 시장은 투자자들이 기업의 회복력에 대한 낙관론과",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5494,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-sector-drags-on-major-indexes-as-investors-await-key-inflation-data-and-cisco-earnings/74538/",
+      "cross_verified": true,
+      "published_at": "2026-11-11T22:07:19.000000Z"
+    },
+    {
+      "title": "Alphabet's DeepMind unveils new AlphaGenome 2 model aimed at reading DNA cells (GOOG:NASDAQ)",
+      "title_ko": "알파벳(Alphabet) 산하 딥마인드(DeepMind), DNA 세포 판독을 목표로 한 새로운 ‘알파제놈 2(AlphaGenome 2)’ 모델 공개 (GOOG:NASDAQ)",
+      "snippet": "DeepMind says AlphaGenome 2 identifies nearly twice as many gene-expression variants as its predecessor and predicts effects in specific cell types.",
+      "snippet_ko": "딥마인드(DeepMind)에 따르면, 알파제놈 2(AlphaGenome 2)는 이전 버전보다 거의 두 배에 달하는 유전자 발현 변이를 식별하며, 특정 세포 유형에서 나타나는 영향을 예측한다고 한다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.4767,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4670939-alphabets-deepmind-unveils-new-alphagenome-2-model-aimed-at-reading-dna-cells",
+      "cross_verified": true,
+      "published_at": "2026-11-11T19:48:03.000000Z"
+    },
+    {
+      "title": "Nvidia Is Losing The Jensen Huang Premium (NASDAQ:NVDA)",
+      "title_ko": "엔비디아, 젠슨 황 효과 사라지고 있다 (나스닥: NVDA)",
+      "snippet": "Nvidia's Q3 EPS could rise 90% year over year, and a 20x P/E could put shares near $320, about 80% upside. Click for this bull case on the NVDA stock.",
+      "snippet_ko": "엔비디아의 3분기 주당순이익(EPS)은 전년 동기 대비 90% 증가할 전망이며, 주가수익비율(P/E)이 20배라면 주가는 320달러 수준까지 상승할 수 있어 약 80%의 상승 여력이 있습니다. NVDA 주식에 대한 이 낙관적 전망을 보려면 여기를 클릭하세요.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.1275,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4966698-nvidia-is-losing-the-jensen-huang-premium",
+      "cross_verified": true,
+      "published_at": "2026-11-11T23:39:30.000000Z"
+    },
     {
       "title": "Treasury Secretary Relocates to Military Base Amid Iranian Threats; Google Tests “Hydrogen” AI",
       "title_ko": "이란의 위협 속에 재무장관, 군사 기지로 이동… 구글, ‘수소’ AI 테스트 중",
@@ -2355,54 +2403,6 @@
       "url": "https://www.cnbc.com/investingclub/2026/10/31/stocks-started-the-week-with-promise-but-ended-in-despair.html",
       "cross_verified": true,
       "published_at": "2026-10-31T15:37:11.000000Z"
-    },
-    {
-      "title": "Buy Almonty: This Tungsten Champion Is A Potential Winner (NASDAQ:ALM)",
-      "title_ko": "알몬티 매수: 이 텅스텐 업계 선두주자는 유망한 투자 대상이다 (나스닥: ALM)",
-      "snippet": "Almonty Industries is positioned to become the largest Western-aligned tungsten producer as China tightens export controls. Read why ALM stock is a strong buy",
-      "snippet_ko": "중국이 수출 통제를 강화함에 따라 알몬티 인더스트리즈는 서방 진영 최대의 텅스텐 생산 기업이 될 전망입니다. ALM 주식을 강력 매수해야 하는 이유를 확인하세요.",
-      "symbol": "MP",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960621-buy-almonty-this-tungsten-champion-potential-winner",
-      "cross_verified": true,
-      "published_at": "2026-10-31T13:06:59.000000Z"
-    },
-    {
-      "title": "Alphabet: Market Misunderstanding Baffling; Don't Be Fooled (NASDAQ:GOOG)",
-      "title_ko": "알파벳: 시장의 오해는 의아할 따름, 속지 마세요 (나스닥:GOOG)",
-      "snippet": "Alphabet stock is down sharply, but strong margins, cloud growth, and AI investment may support long-term upside. Click to read in detail about the GOOG stock.",
-      "snippet_ko": "알파벳 주가는 급락했으나, 견실한 마진, 클라우드 사업 성장, 그리고 AI 투자가 장기적인 상승세를 뒷받침할 수 있습니다. GOOG 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.1828,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960618-alphabet-market-misunderstanding-baffling-but-do-not-be-fooled",
-      "cross_verified": true,
-      "published_at": "2026-10-31T12:55:40.000000Z"
-    },
-    {
-      "title": "Microsoft Q1: CROCI Says My 'Trim, Not Exit' Thesis Remains Firmly In Place (NASDAQ:MSFT)",
-      "title_ko": "마이크로소프트 1분기 실적: CROCI, “철수(Exit)가 아닌 구조조정(Trim)”이라는 나의 주장이 여전히 확고히 유효하다고 밝혀 (NASDAQ:MSFT)",
-      "snippet": "Microsoft faces near-term upside risks as AI CapEx pressures cash returns and margins. Click to read more about the MSFT stock here.",
-      "snippet_ko": "AI 관련 자본지출(CapEx)이 현금 수익과 마진에 부담을 주면서 마이크로소프트는 단기적으로 상승 압력을 받고 있습니다. MSFT 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "MSFT",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960643-microsoft-q1-croci-says-my-trim-not-exit-thesis-remains-firmly-in-place",
-      "cross_verified": true,
-      "published_at": "2026-10-31T16:07:02.000000Z"
-    },
-    {
-      "title": "Fears over $828 billion AI capex spending spree help wipe $1 trillion from Nasdaq 100",
-      "title_ko": "8,280억 달러 규모의 AI 설비투자 붐에 대한 우려로 나스닥 100 지수가 1조 달러나 증발했다",
-      "snippet": "Five tech giants are set to spend as much as $828 billion this year on infrastructure as the AI race eats into cash flow and rattles Wall Street.",
-      "snippet_ko": "AI 경쟁이 현금 흐름을 잠식하고 월가를 뒤흔들면서, 5대 기술 대기업들이 올해 인프라에 최대 8,280억 달러를 지출할 전망이다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3899,
-      "source": "fortune.com",
-      "url": "https://fortune.com/2026/10/31/big-tech-ai-capital-spending-spree/",
-      "cross_verified": true,
-      "published_at": "2026-10-31T10:44:00.000000Z"
     }
   ]
 }
