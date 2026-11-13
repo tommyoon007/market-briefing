@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-13T17:36:19.534280+00:00",
+  "updated_at": "2026-11-13T23:26:12.021447+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Stantec Inc. 2026 Q3 - Results - Earnings Call Presentation",
+      "title_ko": "Stantec Inc. 2026년 3분기 - 실적 - 실적 발표회 프레젠테이션",
+      "snippet": "2026-11-13. The following slide deck was published by Stantec Inc.",
+      "snippet_ko": "2026년 11월 13일. 다음 슬라이드 자료는 Stantec Inc.에서 발간한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4968022-stantec-inc-2026-q3-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-11-13T22:29:36.000000Z"
+    },
+    {
+      "title": "Stantec Inc. (STN:CA) Q3 2026 Earnings Call Transcript",
+      "title_ko": "Stantec Inc. (STN:CA) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "Stantec Inc. (STN:CA) Q3 2026 Earnings Call November 13, 2026 8:00 AM ESTCompany ParticipantsSusan Reisbord - President, CEO & Non-Independent...",
+      "snippet_ko": "Stantec Inc. (STN:CA) 2026년 3분기 실적 발표 전화회의 2026년 11월 13일 오전 8:00 (미국 동부 표준시) 회사 참석자: Susan Reisbord - 사장, CEO 및 비독립 이사...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4967831-stantec-inc-stn-ca-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-13T22:28:58.000000Z"
+    },
+    {
+      "title": "The RMR Group Inc. (RMR) Q4 2026 Earnings Call Transcript",
+      "title_ko": "RMR 그룹(RMR) 2026년 4분기 실적 발표 전화 회의 기록",
+      "snippet": "The RMR Group Inc. (RMR) Q4 2026 Earnings Call November 13, 2026 11:00 AM ESTCompany ParticipantsBryan Maher - Senior VP & Head of Investor...",
+      "snippet_ko": "RMR 그룹(RMR) 2026년 4분기 실적 발표 컨퍼런스 콜, 2026년 11월 13일 오전 11:00(미국 동부 표준시) 회사 측 참석자: 브라이언 마허 - 수석 부사장 겸 투자자 관계 총괄...",
+      "symbol": "",
+      "sentiment_score": 0.4329,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4967928-the-rmr-group-inc-rmr-q4-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-13T22:28:54.000000Z"
+    },
     {
       "title": "Companhia Energética de Minas Gerais - CEMIG (CIG) Q3 2026 Earnings Call Transcript",
       "title_ko": "미나스 제라이스 에너지 회사 - CEMIG (CIG) 2026년 3분기 실적 발표 전화 회의 기록",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4960591-rio-tinto-commodity-risks-keep-us-neutral",
       "cross_verified": true,
       "published_at": "2026-10-31T10:54:35.000000Z"
-    },
-    {
-      "title": "Stepan Company 2026 Q3 - Results - Earnings Call Presentation (NYSE:SCL) 2026-10-30",
-      "title_ko": "스테판 컴퍼니 2026년 3분기 - 실적 - 실적 발표회 프레젠테이션 (NYSE:SCL) 2026-10-30",
-      "snippet": "2026-10-30. The following slide deck was published by Stepan Company in conjunction with their 2026 Q3 earnings call.",
-      "snippet_ko": "2026년 10월 30일. 다음 슬라이드 자료는 스테판 컴퍼니가 2026년 3분기 실적 발표와 함께 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960494-stepan-company-2026-q3-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-10-30T23:09:34.000000Z"
-    },
-    {
-      "title": "Nomura Holdings, Inc. 2027 Q2 - Results - Earnings Call Presentation (NYSE:NMR) 2026-10-30",
-      "title_ko": "노무라 홀딩스(Nomura Holdings, Inc.) 2027년 2분기 실적 - 실적 발표 - 실적 설명회 자료 (NYSE:NMR) 2026-10-30",
-      "snippet": "2026-10-30. The following slide deck was published by Nomura Holdings, Inc.",
-      "snippet_ko": "2026년 10월 30일. 다음 슬라이드 자료는 노무라 홀딩스(Nomura Holdings, Inc.)가 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960490-nomura-holdings-inc-2027-q2-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-10-30T23:06:48.000000Z"
-    },
-    {
-      "title": "PriceSmart, Inc. 2026 Q4 - Results - Earnings Call Presentation (NASDAQ:PSMT) 2026-10-30",
-      "title_ko": "PriceSmart, Inc. 2026년 4분기 - 실적 - 실적 발표 전화 회의 프레젠테이션 (NASDAQ:PSMT) 2026-10-30",
-      "snippet": "2026-10-30. The following slide deck was published by PriceSmart, Inc.",
-      "snippet_ko": "2026년 10월 30일. 다음 슬라이드 자료는 PriceSmart, Inc.에서 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960488-pricesmart-inc-2026-q4-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-10-30T23:05:52.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Tech Sector Weakness and Rising Volatility Pressure Wall Street Ahead of Major Earnings Week",
+      "title_ko": "주요 기업 실적 발표 주간을 앞두고 기술주 부진과 변동성 확대로 월가 압박 가중",
+      "snippet": "On this Friday, November 13th, 2026, the U.S. equity markets are experiencing a day of moderate selling pressure as investors recalibrate their positions",
+      "snippet_ko": "2026년 11월 13일 금요일, 투자자들이 포지션을 재조정함에 따라 미국 주식 시장은 소폭의 매도 압력을 받고 있습니다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.1597,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-sector-weakness-and-rising-volatility-pressure-wall-street-ahead-of-major-earnings-week/74664/",
+      "cross_verified": true,
+      "published_at": "2026-11-13T22:07:20.000000Z"
+    },
+    {
+      "title": "US stocks: S&P 500, Nasdaq close lower as Nvidia woes and rate-hike bets pressure US market",
+      "title_ko": "미국 증시: 엔비디아의 부진과 금리 인상 전망이 미국 시장에 압박을 가하면서 S&P 500 지수와 나스닥 지수가 하락 마감했다",
+      "snippet": "The S&P 500 and Nasdaq experienced declines on Friday, primarily driven by concerns surrounding Nvidia and CEO Jensen Huang's resignation. The tech sector faced increased pressure, particularly the Philadelphia Semiconductor Index, which fell significantly. Although inflation data suggested a slightly lower increase, expectations for further Federal Reserve rate hikes remained unchanged. Major technology companies, including Advanced Micro Devices and Broadcom, contributed to the losses in the sector.",
+      "snippet_ko": "금요일 S&P 500 지수와 나스닥 지수는 엔비디아와 젠슨 황 CEO의 사임에 대한 우려가 주된 요인으로 작용하며 하락세를 보였다. 기술주 부문은 압박을 더욱 심하게 받았으며, 특히 필라델피아 반도체 지수는 큰 폭으로 떨어졌다. 인플레이션 데이터는 상승폭이 소폭 둔화된 것으로 나타났으나, 연방준비제도(Fed)의 추가 금리 인상 전망은 변함없이 유지되었다. 어드밴스드 마이크로 디바이스(AMD)와 브로드컴을 비롯한 주요 기술 기업들도 지수 하락에 일조했다.",
+      "symbol": "AVGO",
+      "sentiment_score": -0.2522,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-500-nasdaq-close-lower-as-rate-hike-bets-pressure-tech-shares/articleshow/135815984.cms",
+      "cross_verified": true,
+      "published_at": "2026-11-13T21:12:21.000000Z"
+    },
+    {
+      "title": "Tech Sector Drag and Inflation Jitters: Markets Close Lower as Retail Earnings Loom",
+      "title_ko": "기술주 부진과 인플레이션 우려: 소매업체 실적 발표를 앞두고 시장 하락 마감",
+      "snippet": "U.S. equity markets faced downward pressure on Friday, November 13th, 2026, as investors grappled with sticky inflation data and a cooling enthusiasm for",
+      "snippet_ko": "2026년 11월 13일 금요일, 미국 주식 시장은 투자자들이 고착화된 인플레이션 지표와 [...에 대한] 열기가 식어가는 상황에 직면하면서 하락 압력을 받았다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.1783,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-sector-drag-and-inflation-jitters-markets-close-lower-as-retail-earnings-loom/74660/",
+      "cross_verified": true,
+      "published_at": "2026-11-13T21:07:14.000000Z"
+    },
     {
       "title": "Apple: A Downgrade To Hold Would Be A Wise Move Before Q1",
       "title_ko": "애플: 1분기 실적 발표를 앞두고 ‘보유(Hold)’로 하향 조정하는 것이 현명한 조치일 것",
@@ -2367,42 +2403,6 @@
       "url": "https://seekingalpha.com/article/4961239-apple-inc-aapl-q4-2026-earnings-call-transcript",
       "cross_verified": true,
       "published_at": "2026-11-03T00:38:25.000000Z"
-    },
-    {
-      "title": "Amazon Vs. Alphabet: The $420B AI Capex Squeeze Leaves Both At Hold (NASDAQ:AMZN)",
-      "title_ko": "아마존 대 알파벳: 4,200억 달러 규모의 AI 설비투자 압박으로 양사 모두 ‘보유’ 등급 유지 (나스닥:AMZN)",
-      "snippet": "Amazon.com, Inc. and Alphabet Inc. earn Hold ratings as AI-driven cloud growth lifts profits, but capex clouds cash flow. Click for an AMZN and GOOG comparison.",
-      "snippet_ko": "Amazon.com, Inc.와 Alphabet Inc.는 AI 주도형 클라우드 성장에 힘입어 이익이 증가했으나, 설비투자(capex)로 인해 현금 흐름이 위축되면서 ‘보유(Hold)’ 등급을 받았다. AMZN과 GOOG를 비교해 보려면 여기를 클릭하세요.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.3511,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4961060-amazon-vs-alphabet-the-420b-ai-capex-squeeze-leaves-both-at-hold",
-      "cross_verified": true,
-      "published_at": "2026-11-02T19:02:53.000000Z"
-    },
-    {
-      "title": "Apple reports after the bell. Options traders expect a big move",
-      "title_ko": "애플은 장 마감 후 실적을 발표한다. 옵션 거래자들은 큰 변동이 있을 것으로 예상하고 있다.",
-      "snippet": "Apple reports after the bell. Options traders expect a big move.",
-      "snippet_ko": "애플은 장 마감 후 실적을 발표한다. 옵션 거래자들은 큰 변동이 있을 것으로 예상하고 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.7096,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/11/02/apple-reports-after-the-bell-options-traders-expect-a-big-move.html",
-      "cross_verified": true,
-      "published_at": "2026-11-02T18:19:03.000000Z"
-    },
-    {
-      "title": "Options traders are getting anxious on Palantir and Apple ahead of earnings",
-      "title_ko": "실적 발표를 앞두고 옵션 거래자들은 팔란티어와 애플에 대해 불안감을 느끼고 있다",
-      "snippet": "Apple, Palantir puts were in demand ahead of earnings.",
-      "snippet_ko": "실적 발표를 앞두고 애플과 팔란티어의 풋옵션에 대한 수요가 높았다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.1064,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/11/02/options-traders-are-getting-anxious-on-palantir-and-apple-ahead-of-earnings.html",
-      "cross_verified": true,
-      "published_at": "2026-11-02T18:16:02.000000Z"
     }
   ]
 }
