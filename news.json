@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-13T00:58:23.958468+00:00",
+  "updated_at": "2026-11-13T09:20:45.010721+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Crown Crafts outlines warehouse consolidation around April to May 2028 while focusing on higher-margin mix",
+      "title_ko": "크라운 크래프트는 2028년 4월에서 5월경 창고 통합 계획을 발표하는 한편, 마진이 높은 제품 구성에 주력하고 있다.",
+      "snippet": "Crown Crafts Q2 sales fell to $19 million from $23.7 million, while gross margin rose to 32% (30.9% adjusted) and EPS reached $0.12 amid soft demand.",
+      "snippet_ko": "크라운 크래프트의 2분기 매출은 2,370만 달러에서 1,900만 달러로 감소한 반면, 수요 부진 속에서도 매출총이익률은 32%(조정 기준 30.9%)로 상승했고 주당순이익(EPS)은 0.12달러를 기록했다.",
+      "symbol": "",
+      "sentiment_score": 0.2572,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4672195-crown-crafts-outlines-warehouse-consolidation-around-april-to-may-2028-while-focusing-on",
+      "cross_verified": true,
+      "published_at": "2026-11-13T08:59:53.000000Z"
+    },
+    {
+      "title": "Smith Micro forecasts Q4 revenue of $5.4M-$5.6M while expanding SafePath Connect and SafePath OS deployments",
+      "title_ko": "스미스 마이크로는 ‘세이프패스 커넥트(SafePath Connect)’와 ‘세이프패스 OS(SafePath OS)’의 도입을 확대하는 가운데, 4분기 매출이 540만~560만 달러에 달할 것으로 전망했다.",
+      "snippet": "Smith Micro Software Q3 revenue rises 16% sequentially to $5.0 million; it expects Q4 revenue of $5.4 million-$5.6 million and 81%-83% gross margin.",
+      "snippet_ko": "스미스 마이크로 소프트웨어의 3분기 매출은 전분기 대비 16% 증가한 500만 달러를 기록했으며, 4분기 매출은 540만~560만 달러, 매출총이익률은 81%~83%에 달할 것으로 전망하고 있다.",
+      "symbol": "",
+      "sentiment_score": -0.1739,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4672194-smith-micro-forecasts-q4-revenue-of-5_4m-5_6m-while-expanding-safepath-connect-and-safepath",
+      "cross_verified": true,
+      "published_at": "2026-11-13T08:59:50.000000Z"
+    },
+    {
+      "title": "Crown Crafts, Inc. (CRWS) Q2 2027 Earnings Call Transcript",
+      "title_ko": "크라운 크래프트(Crown Crafts, Inc., CRWS) 2027년 2분기 실적 발표 회의록",
+      "snippet": "Crown Crafts, Inc. (CRWS) Q2 2027 Earnings Call November 12, 2026 5:00 PM ESTCompany ParticipantsOlivia Elliott - CEO, President & DirectorConference...",
+      "snippet_ko": "Crown Crafts, Inc. (CRWS) 2027년 2분기 실적 발표 전화회의 2026년 11월 12일 오후 5:00 (미국 동부 표준시) 회사 참석자: 올리비아 엘리엇 - CEO, 사장 겸 이사 컨퍼런스...",
+      "symbol": "",
+      "sentiment_score": 0.0333,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4967689-crown-crafts-inc-crws-q2-2027-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-13T08:58:59.000000Z"
+    },
     {
       "title": "Newmark Appointed to Lead Sale of Two Office Properties in Hong Kong",
       "title_ko": "뉴마크, 홍콩 내 사무실 부동산 2곳 매각 총괄로 선정",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4960402-cresco-labs-inc-crlbf-shareholder-analyst-call-prepared-remarks-transcript",
       "cross_verified": true,
       "published_at": "2026-10-30T18:19:10.000000Z"
-    },
-    {
-      "title": "MasTec, Inc. (MTZ) Q3 2026 Earnings Call Transcript",
-      "title_ko": "MasTec, Inc. (MTZ) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "MasTec, Inc. (MTZ) Q3 2026 Earnings Call October 30, 2026 9:00 AM EDTCompany ParticipantsAti ModakJose Mas - CEO & DirectorPaul Dimarco - Executive VP...",
-      "snippet_ko": "MasTec, Inc. (MTZ) 2026년 3분기 실적 발표 전화 회의 2026년 10월 30일 오전 9:00 (EDT) 회사 참가자: Ati Modak, Jose Mas - CEO 겸 이사, Paul Dimarco - 전무 부사장...",
-      "symbol": "",
-      "sentiment_score": 0.4329,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960267-mastec-inc-mtz-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-10-30T18:18:26.000000Z"
-    },
-    {
-      "title": "EWC: A Lower Tech Weighting Suddenly Seems Very Smart (NYSEARCA:EWC)",
-      "title_ko": "EWC: 기술주 비중을 낮춘 전략이 갑자기 매우 현명해 보인다 (NYSEARCA:EWC)",
-      "snippet": "Buy iShares MSCI Canada ETF for stable large-cap exposure as rate hikes and high energy prices boost Canadian banks and exports.",
-      "snippet_ko": "금리 인상과 높은 에너지 가격이 캐나다 은행 및 수출 산업에 호재로 작용함에 따라, 안정적인 대형주 투자 기회를 얻기 위해 iShares MSCI Canada ETF를 매수하세요.",
-      "symbol": "",
-      "sentiment_score": 0.0484,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4959936-ewc-a-lower-tech-weighting-suddenly-seems-very-smart",
-      "cross_verified": true,
-      "published_at": "2026-10-30T12:00:00.000000Z"
-    },
-    {
-      "title": "Gilead Sciences Stock: Why I Remain Bullish After Q3 (NASDAQ:GILD)",
-      "title_ko": "길리어드 사이언스 주가: 3분기 실적 발표 후에도 여전히 낙관적인 이유 (NASDAQ:GILD)",
-      "snippet": "Gilead Sciences had a strong Q3, while successfully shifting its R&D focus from HIV to the immunology market. Read why GILD stock is a buy.",
-      "snippet_ko": "길리어드 사이언스는 3분기에 호실적을 기록했으며, 연구개발(R&D)의 초점을 HIV에서 면역학 시장으로 성공적으로 전환했습니다. GILD 주식을 매수해야 하는 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960108-gilead-sciences-why-i-remain-bullish-after-q3",
-      "cross_verified": true,
-      "published_at": "2026-10-30T11:21:30.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Anthropic IPO six times oversubscribed as AI firm targets record $1.4 trillion valuation",
+      "title_ko": "AI 기업 앤트로픽, 사상 최대인 1조 4천억 달러 기업가치 목표에 따라 IPO 청약이 6배 초과 접수",
+      "snippet": "Anthropic’s upcoming initial public offering (IPO) has attracted orders for about six times the number of shares available, signalling strong investor",
+      "snippet_ko": "앤트로픽의 다가오는 기업공개(IPO)에 대해 공모 주식 수의 약 6배에 달하는 청약이 몰리며, 투자자들의 강한 관심을 보여주고 있다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.5929,
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/anthropic-ipo-six-times-oversubscribed-as-ai-firm-targets-record-1-4-trillion-valuation/articleshow/135790833.cms",
+      "cross_verified": true,
+      "published_at": "2026-11-13T05:53:36.000000Z"
+    },
+    {
+      "title": "Foreign businesses seized by Putin help fund Russia's war machine",
+      "title_ko": "푸틴이 압수한 외국 기업들은 러시아의 전쟁 기계에 자금을 지원하는 데 일조하고 있다",
+      "snippet": "Businesses whose operational management was transferred to local managers from their international owners are spending billions of rubles to fund the army, according to data",
+      "snippet_ko": "자료에 따르면, 해외 소유주로부터 현지 경영진에게 운영 관리권이 이양된 기업들이 군대 지원 자금으로 수십억 루블을 지출하고 있는 것으로 나타났다.",
+      "symbol": "KO",
+      "sentiment_score": 0.0219,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/foreign-businesses-seized-by-putin-help-fund-russia-s-war-machine-126111300476_1.html",
+      "cross_verified": true,
+      "published_at": "2026-11-13T05:12:25.000000Z"
+    },
+    {
+      "title": "Wall Street shakes with swings for Nvidia and oil prices but recovers most of its early losses",
+      "title_ko": "월가, 엔비디아 주가와 유가 변동으로 요동쳤으나 장 초반 손실의 대부분을 만회했다",
+      "snippet": "NEW YORK — The US stock market shook Thursday, but it largely absorbed big swings for Nvidia and oil prices and finished with relatively modest losses. The moves suggested Wall Street sees limited fallout for the artificial intelligence industry, which carries immense influence on the market, despite the sudden fall of one of its biggest evangelists.",
+      "snippet_ko": "뉴욕 — 목요일 미국 증시는 요동쳤으나, 엔비디아 주가와 유가의 큰 변동폭을 대체로 흡수하며 비교적 소폭의 하락으로 장을 마감했다. 이러한 움직임은 시장에 막대한 영향력을 행사하는 인공지능(AI) 업계의 주요 옹호자 중 한 명이 갑작스럽게 추락했음에도 불구하고, 월스트리트는 이 업계에 미칠 파장이 제한적일 것으로 보고 있음을 시사했다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.6554,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/11/13/business/foreign-business/wall-street-shakes-with-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/2469267",
+      "cross_verified": true,
+      "published_at": "2026-11-13T03:37:16.000000Z"
+    },
     {
       "title": "Intel: Upgrading To 'Strong Buy' After The 38% Sell-Off",
       "title_ko": "인텔: 38% 급락 후 ‘강력 매수’로 등급 상향",
@@ -2367,42 +2403,6 @@
       "url": "https://seekingalpha.com/article/4960778-amazon-com-inc-2026-q3-results-earnings-call-presentation",
       "cross_verified": true,
       "published_at": "2026-11-01T23:20:51.000000Z"
-    },
-    {
-      "title": "US Stock Market prediction: S&P 500, Nasdaq, Dow Jones, Russell 2000 set for surprise opening on Monday, Apple, AMD, Palantir, Qualcomm other stocks to follow",
-      "title_ko": "미국 주식 시장 전망: S&P 500, 나스닥, 다우존스, 러셀 2000 지수가 월요일 깜짝 개장할 전망, 애플, AMD, 팔란티어, 퀄컴 등 주요 종목 동향 주목",
-      "snippet": "Wall Street today: U.S. war with Iran has been ongoing since February and has essentially shut down the vital Strait of Hormuz.",
-      "snippet_ko": "오늘의 월스트리트: 미국과 이란 간의 전쟁은 지난 2월부터 계속되어 왔으며, 이로 인해 전략적 요충지인 호르무즈 해협이 사실상 봉쇄된 상태다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.1632,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-prediction-sp-500-nasdaq-dow-jones-russell-2000-set-for-surprise-opening-on-monday-apple-amd-palantir-qualcomm-other-stocks-to-follow/articleshow/135440386.cms",
-      "cross_verified": true,
-      "published_at": "2026-11-01T23:02:15.000000Z"
-    },
-    {
-      "title": "Weekend Market Report- 11/1/26-Tech Wreck",
-      "title_ko": "주말 시장 보고서 - 11/1/26 - 기술주 폭락",
-      "snippet": "It was a rough week for anything tied to the AI trade, and Friday made sure the damage stuck. The major indexes finished lower, but the real story was the split under the surface: a handful of large technology names got punished while the rest of the market largely held…",
-      "snippet_ko": "AI 관련 종목 전반에 걸쳐 힘든 한 주였으며, 금요일 장은 이러한 타격이 고착화되도록 만들었습니다. 주요 지수는 하락세로 마감했지만, 진짜 핵심은 표면 아래에서 드러난 양극화 현상이었습니다. 소수의 대형 기술주들이 큰 타격을 입은 반면, 나머지 시장은 대체로 선방하는 모습을 보였습니다…",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.3463,
-      "source": "upsidetrader.com",
-      "url": "https://www.upsidetrader.com/2026/11/01/weekend-market-report-11-1-26/",
-      "cross_verified": true,
-      "published_at": "2026-11-01T18:59:17.000000Z"
-    },
-    {
-      "title": "Alphabet: This Isn't Time To Buy The Dip (Rating Downgrade) (NASDAQ:GOOGL)",
-      "title_ko": "알파벳: 지금은 주가가 하락했을 때 매수할 때가 아니다 (투자의견 하향 조정) (나스닥:GOOGL)",
-      "snippet": "Alphabet cut to hold after a steep post-earnings drop as Search growth slows and AI monetization risks rise.",
-      "snippet_ko": "알파벳은 검색 부문 성장세가 둔화되고 AI 수익화 리스크가 높아지면서 실적 발표 후 급락한 뒤 ‘보유’ 등급으로 하향 조정됐다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960730-alphabet-not-time-to-buy-dip-rating-downgrade",
-      "cross_verified": true,
-      "published_at": "2026-11-01T16:34:32.000000Z"
     }
   ]
 }
