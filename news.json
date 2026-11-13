@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-12T18:02:34.334144+00:00",
+  "updated_at": "2026-11-13T00:58:23.958468+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Newmark Appointed to Lead Sale of Two Office Properties in Hong Kong",
+      "title_ko": "뉴마크, 홍콩 내 사무실 부동산 2곳 매각 총괄로 선정",
+      "snippet": "/PRNewswire/ -- Newmark announces that it has been appointed to lead the sale of two Hong Kong office properties: Enterprise Square Three in Kowloon Bay and...",
+      "snippet_ko": "/PRNewswire/ -- 뉴마크(Newmark)는 구룡만(Kowloon Bay)에 위치한 ‘엔터프라이즈 스퀘어 3(Enterprise Square Three)’와... 등 홍콩 내 두 곳의 오피스 건물 매각을 주도할 업체로 선정되었다고 발표했다.",
+      "symbol": "",
+      "sentiment_score": -0.0282,
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/apac/news-releases/newmark-appointed-to-lead-sale-of-two-office-properties-in-hong-kong-302938321.html",
+      "cross_verified": true,
+      "published_at": "2026-11-13T00:00:00.000000Z"
+    },
+    {
+      "title": "Fortinet, Inc. (FTNT) Presents at BMO Capital Technology and Innovation Leaders Conference Transcript",
+      "title_ko": "포티넷(Fortinet, Inc., FTNT), BMO 캐피털 기술 및 혁신 리더 컨퍼런스에서 발표: 발표 전문",
+      "snippet": "Fortinet, Inc. (FTNT) BMO Capital Technology and Innovation Leaders Conference November 12, 2026 3:15 PM ESTCompany ParticipantsChristiane Ohlgart - Chief...",
+      "snippet_ko": "Fortinet, Inc. (FTNT) BMO 캐피털 기술 및 혁신 리더 컨퍼런스 2026년 11월 12일 오후 3시 15분(미국 동부 표준시) 참가 기업 대표 크리스티아네 올가르트 - 최고...",
+      "symbol": "",
+      "sentiment_score": 0.6235,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4967369-fortinet-inc-ftnt-presents-at-bmo-capital-technology-and-innovation-leaders-conference",
+      "cross_verified": true,
+      "published_at": "2026-11-12T23:59:13.000000Z"
+    },
     {
       "title": "Bit Digital outlines $865M 10-year NC-1 contract as 40MW begins billing, while weighing shareholder-approved buybacks",
       "title_ko": "비트 디지털, 40MW 규모에 대한 청구 개시와 함께 8억 6,500만 달러 규모의 10년짜리 NC-1 계약 내용을 공개하는 한편, 주주들이 승인한 자사주 매입 방안도 검토 중",
@@ -1177,33 +1201,57 @@
       "url": "https://seekingalpha.com/article/4960108-gilead-sciences-why-i-remain-bullish-after-q3",
       "cross_verified": true,
       "published_at": "2026-10-30T11:21:30.000000Z"
-    },
-    {
-      "title": "ChoiceOne Financial Services GAAP EPS of $0.97 beats by $0.04, revenue of $45.18M beats by $0.68M (NASDAQ:COFS)",
-      "title_ko": "ChoiceOne Financial Services의 GAAP 주당 순이익(EPS)은 0.97달러로 시장 예상치를 0.04달러 상회했으며, 매출은 4,518만 달러로 시장 예상치를 68만 달러 상회했다 (나스닥: COFS).",
-      "snippet": "ChoiceOne Financial Services press release (COFS): Q3 GAAP EPS of $0.97 beats by $0.04. Revenue of $45.18M (+1.0% Y/Y) beats by $0.68M.",
-      "snippet_ko": "ChoiceOne Financial Services(COFS) 보도자료: 3분기 GAAP 기준 주당 순이익(EPS)은 0.97달러로 시장 예상치를 0.04달러 상회했다. 매출은 4,518만 달러(전년 동기 대비 1.0% 증가)로 시장 예상치를 68만 달러 상회했다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4661326-choiceone-financial-services-gaap-eps-of-0_97-beats-by-0_04-revenue-of-45_18m-beats-by-0_68m",
-      "cross_verified": true,
-      "published_at": "2026-10-30T11:21:16.000000Z"
-    },
-    {
-      "title": "Stock news: Air Canada lowers outlook as fuel costs climb, Teck profits jump",
-      "title_ko": "주식 뉴스: 에어 캐나다, 유류비 상승으로 실적 전망 하향 조정…텍, 이익 급증",
-      "snippet": "Rising fuel costs weigh on Air Canada's outlook, while higher copper and zinc prices lift Teck's profits. Here's what else made headlines this week.",
-      "snippet_ko": "연료비 상승이 에어 캐나다의 전망에 부담을 주는 반면, 구리 및 아연 가격 상승은 테크의 이익을 끌어올리고 있습니다. 이번 주 다른 주요 뉴스는 다음과 같습니다.",
-      "symbol": "",
-      "sentiment_score": 0.6403,
-      "source": "moneysense.ca",
-      "url": "https://www.moneysense.ca/save/investing/stock-news-oct-30-2026/",
-      "cross_verified": true,
-      "published_at": "2026-10-30T04:55:07.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Intel: Upgrading To 'Strong Buy' After The 38% Sell-Off",
+      "title_ko": "인텔: 38% 급락 후 ‘강력 매수’로 등급 상향",
+      "snippet": "Intel is upgraded to \"Strong Buy\" with a $117 base case and $87 low target, while rising capital expenditures signal a strategic shift.",
+      "snippet_ko": "인텔에 대한 투자의견이 ‘강력 매수’로 상향 조정되었으며, 목표주가 기본 시나리오는 117달러, 하한 목표가는 87달러로 설정된 가운데, 증가하는 설비투자 규모는 전략적 전환을 시사하고 있다.",
+      "symbol": "INTC",
+      "sentiment_score": 0.7351,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4967383-intel-upgrading-to-strong-buy-after-the-38-percent-sell-off",
+      "cross_verified": true,
+      "published_at": "2026-11-12T22:59:48.000000Z"
+    },
+    {
+      "title": "Why Nvidia stock drop isn't a big deal for many ETF, mutual fund investors",
+      "title_ko": "엔비디아 주가 하락이 많은 ETF 및 뮤추얼 펀드 투자자들에게 큰 문제가 아닌 이유",
+      "snippet": "Nvidia stock accounts for a fairly large share of many mutual funds and ETFs. But losses in the stock don't necessarily mean big losses for the overall fund.",
+      "snippet_ko": "엔비디아 주식은 많은 뮤추얼 펀드와 ETF에서 상당히 큰 비중을 차지하고 있습니다. 하지만 해당 주식의 손실이 반드시 펀드 전체에 큰 손실을 의미하는 것은 아닙니다.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.2348,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-stock-drop-etf-mutual-fund-investors.html",
+      "cross_verified": true,
+      "published_at": "2026-11-12T21:16:37.000000Z"
+    },
+    {
+      "title": "US stocks: US stocks closes lower as Nvidia slide outweighs energy rally",
+      "title_ko": "미국 증시: 엔비디아 주가 하락이 에너지주 반등을 상쇄하며 미국 증시 하락 마감",
+      "snippet": "US stocks closed lower as Nvidias decline following CEO Jensen Huangs departure outweighed a rally in energy shares. The S&P 500 fell 0.34%, the Nasdaq lost 0.40% and the Dow declined 0.36%, while retail investors made a record $111 million opening bid for Nvidia shares.",
+      "snippet_ko": "엔비디아의 젠슨 황 CEO 사임에 따른 주가 하락세가 에너지주 상승세를 압도하면서 미국 증시는 하락 마감했다. S&P 500 지수는 0.34% 하락했고, 나스닥 지수는 0.40% 떨어졌으며, 다우 지수는 0.36% 하락한 가운데, 개인 투자자들은 엔비디아 주식을 대상으로 사상 최대 규모인 1억 1,100만 달러의 개장 매수 주문을 냈다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.4802,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-ends-lower-as-energy-gains-offset-nvidia-slide/articleshow/135782290.cms",
+      "cross_verified": true,
+      "published_at": "2026-11-12T21:15:07.000000Z"
+    },
+    {
+      "title": "Anthropic IPO draws sixfold demand, targets $1.4 trillion valuation",
+      "title_ko": "앤트로픽의 기업공개(IPO)에 6배의 청약이 몰렸으며, 기업가치를 1조 4천억 달러로 목표하고 있다",
+      "snippet": "Anthropic's IPO draws six times demand for available shares as the Claude maker seeks $64.4 billion and targets a $1.4 trillion valuation.",
+      "snippet_ko": "‘클로드(Claude)’ 개발사인 앤트로픽(Anthropic)이 644억 달러를 조달하고 1조 4천억 달러의 기업 가치를 목표로 하는 가운데, 이 회사의 기업공개(IPO)에 대해 배정된 주식 수보다 6배나 많은 청약이 몰렸다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0987,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/markets/anthropic-ipo-draws-sixfold-demand-targets-14-trillion-valuation/article71696359.ece",
+      "cross_verified": true,
+      "published_at": "2026-11-13T00:08:02.000000Z"
+    },
     {
       "title": "Global AI stocks sink, Nvidia CEO's exit deepens concerns",
       "title_ko": "전 세계 AI 관련 주가 급락… 엔비디아 CEO 사임으로 우려 심화",
@@ -2355,54 +2403,6 @@
       "url": "https://seekingalpha.com/article/4960730-alphabet-not-time-to-buy-dip-rating-downgrade",
       "cross_verified": true,
       "published_at": "2026-11-01T16:34:32.000000Z"
-    },
-    {
-      "title": "Intel Stock: PC Demand Destruction Meets AI Supply Headwinds Profit Taking (NASDAQ:INTC)",
-      "title_ko": "인텔 주가: PC 수요 감소와 AI 공급 차질이 겹치며 이익 실현 매물 증가 (나스닥:INTC)",
-      "snippet": "Intel faces prolonged PC demand weakness, server CPU share pressure, and FY2027 cash flow risks.",
-      "snippet_ko": "인텔은 장기화되는 PC 수요 부진, 서버용 CPU 시장 점유율 압박, 그리고 2027 회계연도 현금 흐름 위험에 직면해 있다.",
-      "symbol": "INTC",
-      "sentiment_score": -0.3027,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960729-intel-pc-demand-destruction-meets-ai-supply-headwinds-profit-taking-continues",
-      "cross_verified": true,
-      "published_at": "2026-11-01T16:28:56.000000Z"
-    },
-    {
-      "title": "Wall Street Brunch: Midterms, Jobs And Apple (null:US10Y)",
-      "title_ko": "월스트리트 브런치: 중간선거, 고용 시장, 그리고 애플 (null:US10Y)",
-      "snippet": "Voters head to the polls with odds favoring a Dem sweep. Nonfarm payrolls seen up 65K for October. Apple, AMD and Palantir earnings test battered tech stocks.",
-      "snippet_ko": "민주당 압승 가능성이 높은 가운데 유권자들이 투표소로 향하고 있다. 10월 비농업 부문 고용은 6만5천 명 증가한 것으로 예상된다. 애플, AMD, 팔란티어의 실적 발표가 타격을 입은 기술주들의 향방을 가늠할 전망이다.",
-      "symbol": "AAPL",
-      "sentiment_score": -0.0759,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960724-wall-street-brunch-midterms-jobs-and-apple",
-      "cross_verified": true,
-      "published_at": "2026-11-01T14:45:00.000000Z"
-    },
-    {
-      "title": "From Near Miss To Crown Jewel: The Rise, Reign And Road Ahead For Merck's Keytruda",
-      "title_ko": "아슬아슬한 실패에서 최고의 보석으로: 머크의 ‘키트루다’의 부상, 전성기, 그리고 앞으로의 전망",
-      "snippet": "Every great tale has a beginning, but not every beginning offers a glimpse of the greatness that may lie ahead. Some journeys begin with an uncertain future only to unfold into extraordinary stories.",
-      "snippet_ko": "모든 위대한 이야기에는 시작이 있지만, 모든 시작이 앞으로 펼쳐질 위대함을 엿보게 해주는 것은 아닙니다. 어떤 여정은 불확실한 미래로 시작되지만, 결국은 놀라운 이야기로 펼쳐지기도 합니다.",
-      "symbol": "MRK",
-      "sentiment_score": 0.3246,
-      "source": "rttnews.com",
-      "url": "https://www.rttnews.com/3706877/from-near-miss-to-crown-jewel-the-rise-reign-and-road-ahead-for-merck-s-keytruda.aspx?type=ts",
-      "cross_verified": true,
-      "published_at": "2026-11-01T14:26:16.000000Z"
-    },
-    {
-      "title": "Logical-Invest market investment outlook for November 2026",
-      "title_ko": "2026년 11월 로지컬-인베스트 시장 투자 전망",
-      "snippet": "Logical Invest investment and Tactical Asset Allocation strategies November 2026",
-      "snippet_ko": "로지컬 인베스트의 투자 및 전술적 자산 배분 전략, 2026년 11월",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.9274,
-      "source": "logical-invest.com",
-      "url": "https://logical-invest.com/logical-invest-market-investment-outlook-for-november-2026/",
-      "cross_verified": true,
-      "published_at": "2026-11-01T13:12:09.000000Z"
     }
   ]
 }
