@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-13T09:20:45.010721+00:00",
+  "updated_at": "2026-11-13T17:36:19.534280+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Companhia Energética de Minas Gerais - CEMIG (CIG) Q3 2026 Earnings Call Transcript",
+      "title_ko": "미나스 제라이스 에너지 회사 - CEMIG (CIG) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "Companhia Energética de Minas Gerais - CEMIG (CIG) Q3 2026 Earnings Call November 13, 2026 9:00 AM ESTCompany ParticipantsCarolina Senna - Investor...",
+      "snippet_ko": "미나스 제라이스 에너지 회사 - CEMIG (CIG) 2026년 3분기 실적 발표 전화 회의 2026년 11월 13일 오전 9:00 (미국 동부 표준시) 회사 참가자: 캐롤라이나 세나 - 투자자...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4967863-companhia-energetica-de-minas-gerais-cemig-cig-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-13T16:48:53.000000Z"
+    },
+    {
+      "title": "Zai Lab Limited (ZLAB) Discusses ZL-1503 Phase 1 Data and Atopic Dermatitis Development Plans Transcript",
+      "title_ko": "Zai Lab Limited(ZLAB), ZL-1503 1상 임상시험 데이터 및 아토피 피부염 치료제 개발 계획에 대해 논의한 회의록",
+      "snippet": "Zai Lab Limited (ZLAB) Discusses ZL-1503 Phase 1 Data and Atopic Dermatitis Development Plans November 13, 2026 8:00 AM ESTCompany ParticipantsRafael Amado...",
+      "snippet_ko": "Zai Lab Limited(ZLAB), ZL-1503 1상 임상 데이터 및 아토피 피부염 치료제 개발 계획 논의 2026년 11월 13일 오전 8:00(미국 동부 표준시) 참가 기업 대표 라파엘 아마도...",
+      "symbol": "",
+      "sentiment_score": 0.2953,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4967815-zai-lab-limited-zlab-discusses-zlminus-1503-phase-1-data-and-atopic-dermatitis-development",
+      "cross_verified": true,
+      "published_at": "2026-11-13T16:39:16.000000Z"
+    },
     {
       "title": "Crown Crafts outlines warehouse consolidation around April to May 2028 while focusing on higher-margin mix",
       "title_ko": "크라운 크래프트는 2028년 4월에서 5월경 창고 통합 계획을 발표하는 한편, 마진이 높은 제품 구성에 주력하고 있다.",
@@ -1177,33 +1201,57 @@
       "url": "https://seekingalpha.com/article/4960488-pricesmart-inc-2026-q4-results-earnings-call-presentation",
       "cross_verified": true,
       "published_at": "2026-10-30T23:05:52.000000Z"
-    },
-    {
-      "title": "BofA Hires Senior Power Banker Manheimer From Morgan Stanley",
-      "title_ko": "BofA, 모건 스탠리 출신의 베테랑 파워 뱅커 맨하이머 영입",
-      "snippet": "Eddie Manheimer is joining Bank of America Corp. as head of global power and utilities investment banking from Morgan Stanley, as the firm invests in senior talent around AI-related energy and infrastructure dealmaking.",
-      "snippet_ko": "뱅크 오브 아메리카(Bank of America Corp.)가 AI 관련 에너지 및 인프라 거래 분야에서 유능한 인재 영입에 나서면서, 에디 만하이머(Eddie Manheimer)가 모건 스탠리(Morgan Stanley)에서 이직해 글로벌 전력 및 유틸리티 투자은행 부문 책임자로 합류한다.",
-      "symbol": "",
-      "sentiment_score": 0.7783,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/bofa-hires-senior-power-banker-manheimer-from-morgan-stanley-11793385102995.html",
-      "cross_verified": true,
-      "published_at": "2026-10-30T18:31:42.000000Z"
-    },
-    {
-      "title": "Cresco Labs Inc. (CRLBF) Shareholder/Analyst Call Prepared Remarks Transcript",
-      "title_ko": "크레스코 랩스(Cresco Labs Inc., CRLBF) 주주·애널리스트 컨퍼런스콜 사전 준비 발언 전문",
-      "snippet": "Cresco Labs Inc. (CRLBF) Shareholder/Analyst Call October 30, 2026 1:00 PM EDTCompany ParticipantsThomas J.",
-      "snippet_ko": "크레스코 랩스(Cresco Labs Inc., CRLBF) 주주·애널리스트 컨퍼런스 콜 2026년 10월 30일 오후 1:00 (EDT) 회사 측 참석자: 토마스 J.",
-      "symbol": "",
-      "sentiment_score": 0.4586,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960402-cresco-labs-inc-crlbf-shareholder-analyst-call-prepared-remarks-transcript",
-      "cross_verified": true,
-      "published_at": "2026-10-30T18:19:10.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Apple: A Downgrade To Hold Would Be A Wise Move Before Q1",
+      "title_ko": "애플: 1분기 실적 발표를 앞두고 ‘보유(Hold)’로 하향 조정하는 것이 현명한 조치일 것",
+      "snippet": "Analyst rates Apple Inc. a Hold after record Q4 2026 revenue and EPS; elevated P/E and P/S multiples and margin pressure argue against adding shares.",
+      "snippet_ko": "애널리스트는 애플이 2026년 4분기 사상 최대 매출과 주당순이익(EPS)을 기록한 가운데, ‘보유(Hold)’ 투자의견을 제시했다. 높은 주가수익비율(P/E)과 주가매출비율(P/S), 그리고 마진 압박을 고려할 때 추가 매수는 바람직하지 않다는 판단이다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5171,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4967866-apple-a-downgrade-to-hold-would-be-a-wise-move-before-q1",
+      "cross_verified": true,
+      "published_at": "2026-11-13T16:15:44.000000Z"
+    },
+    {
+      "title": "Alphabet: 265 Billion Reasons Not To Worry About The CapEx Burn",
+      "title_ko": "알파벳: 자본지출 소진을 걱정할 필요가 없는 2,650억 개의 이유",
+      "snippet": "Alphabet delivered a rare double miss, but the post-earnings pullback is a compelling entry point. See why I rate GOOGL stock as Strong Buy. Click to read my analysis.",
+      "snippet_ko": "알파벳은 이례적으로 두 가지 지표 모두 기대치를 하회했지만, 실적 발표 후 주가가 조정된 지금이 매력적인 매수 기회입니다. 제가 GOOGL 주식을 ‘강력 매수’로 평가하는 이유를 확인해 보세요. 제 분석을 읽어보시려면 클릭하세요.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.5329,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4967818-alphabet-265-billion-reasons-not-to-worry-about-the-capex-burn",
+      "cross_verified": true,
+      "published_at": "2026-11-13T15:21:17.000000Z"
+    },
+    {
+      "title": "Tech and Crypto Lead Market Pullback as Investors Weigh Economic Outlook",
+      "title_ko": "투자자들이 경제 전망을 주시하는 가운데, 기술주와 암호화폐가 시장 조정세를 주도하고 있다",
+      "snippet": "The U.S. stock market opened with a cautious and predominantly negative tone on Friday, November 13th, 2026. Following a period of heightened volatility,",
+      "snippet_ko": "2026년 11월 13일 금요일, 미국 증시는 신중한 분위기 속에서 대체로 약세를 보이며 개장했다. 변동성이 심했던 기간을 거친 뒤,",
+      "symbol": "NVDA",
+      "sentiment_score": 0.3581,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-crypto-lead-market-pullback-as-investors-weigh-economic-outlook/74642/",
+      "cross_verified": true,
+      "published_at": "2026-11-13T15:07:12.000000Z"
+    },
+    {
+      "title": "Texas’ Next AG Vows ‘Tremendous Scrutiny’ of Tesla-SpaceX Deal",
+      "title_ko": "텍사스 차기 법무장관, 테슬라-스페이스X 합병에 대해 ‘철저한 조사’ 약속",
+      "snippet": "Texas Attorney General-elect Nathan Johnson vowed to take a close look at any potential merger between Elon Musk's Space Exploration Technologies Corp.",
+      "snippet_ko": "텍사스주 차기 법무장관으로 당선된 네이선 존슨은 일론 머스크의 스페이스 익스플로레이션 테크놀로지스(Space Exploration Technologies Corp.) 간의 잠재적인 합병에 대해 면밀히 검토하겠다고 다짐했다.",
+      "symbol": "TSLA",
+      "sentiment_score": 0.1132,
+      "source": "insurancejournal.com",
+      "url": "https://www.insurancejournal.com/news/southcentral/2026/11/13/892594.htm",
+      "cross_verified": true,
+      "published_at": "2026-11-13T16:57:23.000000Z"
+    },
     {
       "title": "Anthropic IPO six times oversubscribed as AI firm targets record $1.4 trillion valuation",
       "title_ko": "AI 기업 앤트로픽, 사상 최대인 1조 4천억 달러 기업가치 목표에 따라 IPO 청약이 6배 초과 접수",
@@ -2355,54 +2403,6 @@
       "url": "https://www.cnbc.com/2026/11/02/options-traders-are-getting-anxious-on-palantir-and-apple-ahead-of-earnings.html",
       "cross_verified": true,
       "published_at": "2026-11-02T18:16:02.000000Z"
-    },
-    {
-      "title": "Is the AI investment boom losing steam? What is driving the sell-off",
-      "title_ko": "AI 투자 붐이 주춤하고 있는 것일까? 매도세를 이끄는 요인은 무엇인가",
-      "snippet": "Global AI investment boom faces growing scrutiny as technology stocks slide and investors question whether heavy spending on AI infrastructure will deliver expected returns",
-      "snippet_ko": "기술주 주가가 하락하고 투자자들이 AI 인프라에 대한 막대한 투자가 기대되는 수익을 가져다줄지 의문을 제기함에 따라, 전 세계적인 AI 투자 붐에 대한 비판의 목소리가 커지고 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.5047,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/markets/news/ai-investment-boom-faces-a-test-as-tech-stocks-and-credit-risks-mount-126110200578_1.html",
-      "cross_verified": true,
-      "published_at": "2026-11-02T07:52:21.000000Z"
-    },
-    {
-      "title": "The State Of The AI Trade: Someone Has To Pay The Bill (NASDAQ:QQQ)",
-      "title_ko": "AI 업계 현황: 누군가는 비용을 부담해야 한다 (NASDAQ:QQQ)",
-      "snippet": "Why investors are skeptical on Meta and hyperscalers: soaring AI capex, shrinking free cash flow, and widening credit risk.",
-      "snippet_ko": "투자자들이 메타와 하이퍼스케일러 기업들에 회의적인 이유: 급증하는 AI 설비투자, 감소하는 자유 현금흐름, 그리고 확대되는 신용 위험.",
-      "symbol": "META",
-      "sentiment_score": 0.128,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960883-the-state-of-the-ai-trade-someone-has-to-pay-the-bill",
-      "cross_verified": true,
-      "published_at": "2026-11-02T07:49:52.000000Z"
-    },
-    {
-      "title": "Nasdaq Outlook: Is the worst over for AI-fuelled tech stocks?",
-      "title_ko": "나스닥 전망: AI 수혜 기술주들의 최악의 시기는 지났을까?",
-      "snippet": "Wall Streets AI-led rally faced a sharp setback as the Nasdaq recorded its biggest single-day fall since June. Heavy losses in technology stocks reflected growing investor concerns over hyperscaler spending and the returns on artificial intelligence investments.",
-      "snippet_ko": "나스닥 지수가 6월 이후 최대 일일 하락폭을 기록하면서, AI 주도 랠리를 이어가던 월스트리트 시장에 큰 타격이 가해졌다. 기술주들의 큰 폭의 하락은 하이퍼스케일러 기업의 지출과 인공지능 투자 수익성에 대한 투자자들의 우려가 커지고 있음을 반영한 것이다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2263,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-outlook-is-the-worst-over-for-ai-fuelled-tech-stocks/articleshow/135450038.cms",
-      "cross_verified": true,
-      "published_at": "2026-11-02T07:30:25.000000Z"
-    },
-    {
-      "title": "Amazon.com, Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:AMZN) 2026-11-01",
-      "title_ko": "Amazon.com, Inc. 2026년 3분기 - 실적 - 실적 발표 전화 회의 프레젠테이션 (NASDAQ:AMZN) 2026-11-01",
-      "snippet": "2026-11-01. The following slide deck was published by Amazon.com, Inc.",
-      "snippet_ko": "2026년 11월 1일. 다음 슬라이드 자료는 Amazon.com, Inc.에서 공개한 것입니다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960778-amazon-com-inc-2026-q3-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-11-01T23:20:51.000000Z"
     }
   ]
 }
