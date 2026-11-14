@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-14T13:18:19.009623+00:00",
+  "updated_at": "2026-11-14T18:59:24.411839+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "APA Has Rallied by 91% This Year. Here’s Why You Should Take Some Chips Off The Table",
+      "title_ko": "APA는 올해 91%나 급등했습니다. 지금 일부 매도를 고려해야 하는 이유는 다음과 같습니다.",
+      "snippet": "We just published a list of the 10 Toxic Energy Stocks to Sell Now That the Blue Wave is Here, and APA Corporation (NASDAQ:APA) ranked 9th on this list.",
+      "snippet_ko": "‘블루 웨이브’가 도래한 지금 당장 매도해야 할 유해 에너지 주식 10선 목록을 방금 공개했는데, APA 코퍼레이션(NASDAQ:APA)이 이 목록에서 9위를 차지했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.2125,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/apa-has-rallied-by-91-this-year-heres-why-you-should-take-some-chips-off-the-table-1865742/",
+      "cross_verified": true,
+      "published_at": "2026-11-14T17:23:43.000000Z"
+    },
+    {
+      "title": "Here is Why Range Resources (RRC) Could be Vulnerable to a Sharp Correction",
+      "title_ko": "레인지 리소스(RRC)가 급격한 조정 국면에 직면할 수 있는 이유는 다음과 같습니다.",
+      "snippet": "We just published a list of the 10 Toxic Energy Stocks to Sell Now That the Blue Wave is Here, and Range Resources Corporation (NYSE:RRC) ranked 8th on this list.",
+      "snippet_ko": "저희는 방금 ‘블루 웨이브가 도래한 지금 당장 매도해야 할 유해 에너지 주식 10선’ 목록을 발표했는데, 레인지 리소스 코퍼레이션(NYSE:RRC)이 이 목록에서 8위를 차지했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.0568,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/here-is-why-range-resources-rrc-could-be-vulnerable-to-a-sharp-correction-1865750/",
+      "cross_verified": true,
+      "published_at": "2026-11-14T17:22:30.000000Z"
+    },
+    {
+      "title": "Should You Sell Texas Pacific Land (TPL) Now That the Blue Wave is Here?",
+      "title_ko": "‘블루 웨이브’가 찾아온 지금, 텍사스 퍼시픽 랜드(TPL)를 매도해야 할까?",
+      "snippet": "We just published a list of the 10 Toxic Energy Stocks to Sell Now That the Blue Wave is Here, and Texas Pacific Land Corporation (NYSE:TPL) ranked 7th on this list.",
+      "snippet_ko": "저희는 방금 ‘블루 웨이브가 도래한 지금 당장 매도해야 할 유해 에너지 주식 10선’ 목록을 발표했는데, 텍사스 퍼시픽 랜드 코퍼레이션(NYSE:TPL)이 이 목록에서 7위를 차지했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.17,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/should-you-sell-texas-pacific-land-tpl-now-that-the-blue-wave-is-here-1865753/",
+      "cross_verified": true,
+      "published_at": "2026-11-14T17:22:17.000000Z"
+    },
     {
       "title": "US-China Trade Council Convenes to Discuss $60 Billion Tariff-Reduction Package",
       "title_ko": "미·중 무역협의회, 600억 달러 규모의 관세 인하 패키지 논의 위해 소집",
@@ -1165,45 +1201,45 @@
       "url": "https://seekingalpha.com/article/4960683-central-japan-railway-company-2027-q2-results-earnings-call-presentation",
       "cross_verified": true,
       "published_at": "2026-10-31T23:16:06.000000Z"
-    },
-    {
-      "title": "Federal National Mortgage Association 2026 Q3 - Results - Earnings Call Presentation (OTCMKTS:FNMA) 2026-10-31",
-      "title_ko": "연방국민주거담보협회(Federal National Mortgage Association) 2026년 3분기 실적 - 실적 발표 전화회의 프레젠테이션 (OTCMKTS:FNMA) 2026-10-31",
-      "snippet": "2026-10-31. The following slide deck was published by Federal National Mortgage Association in conjunction with their 2026 Q3 earnings call.",
-      "snippet_ko": "2026년 10월 31일. 다음 슬라이드 자료는 연방국민주택모기지협회(Federal National Mortgage Association)가 2026년 3분기 실적 발표와 함께 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960682-federal-national-mortgage-association-2026-q3-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-10-31T23:15:47.000000Z"
-    },
-    {
-      "title": "Global Markets React to Massive Crypto Breach and Corporate Restructuring",
-      "title_ko": "전 세계 시장, 대규모 암호화폐 해킹 사건과 기업 구조조정에 반응",
-      "snippet": "The cryptocurrency market was sent into a tailspin this week following reports of a $6.3 billion hack targeting Binance (BNB), the world’s largest digital",
-      "snippet_ko": "이번 주, 세계 최대의 디지털 자산 거래소인 바이낸스(BNB)를 대상으로 한 63억 달러 규모의 해킹 사건이 보도되면서 암호화폐 시장이 급락세를 보였다.",
-      "symbol": "",
-      "sentiment_score": 0.1012,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/global-markets-react-to-massive-crypto-breach-and-corporate-restructuring/73940/",
-      "cross_verified": true,
-      "published_at": "2026-10-31T20:38:17.000000Z"
-    },
-    {
-      "title": "Palfinger AG (PLFRF) Q3 2026 Earnings Call Transcript",
-      "title_ko": "Palfinger AG (PLFRF) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "Palfinger AG (PLFRF) Q3 2026 Earnings Call October 27, 2026 8:00 PM EDTCompany ParticipantsAndreas Klauser - CEO & Chairman of the Executive BoardFelix...",
-      "snippet_ko": "Palfinger AG (PLFRF) 2026년 3분기 실적 발표 전화회의 2026년 10월 27일 오후 8:00 (EDT) 회사 참석자 안드레아스 클라우저 - CEO 겸 집행위원회 의장 펠릭스...",
-      "symbol": "",
-      "sentiment_score": 0.5572,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960660-palfinger-ag-plfrf-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-10-31T18:58:29.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "What Moved Markets This Week",
+      "title_ko": "이번 주 시장을 움직인 요인",
+      "snippet": "The S&P 500 rose 2.5% for the week as October CPI climbed 0.4%, above 0.3% forecasts, putting a 50-basis-point December hike back in consideration.",
+      "snippet_ko": "10월 소비자물가지수(CPI)가 0.4% 상승해 0.3%라는 시장 예상치를 상회함에 따라, S&P 500 지수는 이번 주 2.5% 상승했으며, 이에 따라 12월 기준금리 50베이시스포인트 인상이 다시 논의되고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.1842,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4968196-what-moved-markets-this-week",
+      "cross_verified": true,
+      "published_at": "2026-11-14T13:26:34.000000Z"
+    },
+    {
+      "title": "Safer gambling is now a growth business: Mindway AI’s signed ARR up 225%",
+      "title_ko": "안전한 도박은 이제 성장하는 사업 분야가 되었습니다: 마인드웨이 AI의 계약 연간 반복 매출(ARR)이 225% 증가했습니다.",
+      "snippet": "Mindway AI's signed annual recurring revenue reached 325% of its year-earlier level by June 30, and player monitoring jumped 79% to 16.5 million monthly across 73 jurisdictions.",
+      "snippet_ko": "마인드웨이 AI의 계약 체결 연간 반복 매출은 6월 30일 기준 전년 동기 대비 325%에 달했으며, 73개 관할 구역에서 플레이어 모니터링 건수는 79% 급증해 월 1,650만 건을 기록했다.",
+      "symbol": "DKNG",
+      "sentiment_score": 0.4215,
+      "source": "valuewalk.com",
+      "url": "https://www.valuewalk.com/mindway-ai-arr-up-225-percent-better-collective/",
+      "cross_verified": true,
+      "published_at": "2026-11-14T11:20:30.000000Z"
+    },
+    {
+      "title": "Anthropic IPO draws six times demand, but valuation remains under scrutiny",
+      "title_ko": "앤트로픽의 기업공개(IPO)에 6배의 청약이 몰렸으나, 기업 가치 평가에 대한 의문은 여전히 제기되고 있다",
+      "snippet": "Anthropic's IPO has drawn more institutional demand in its opening days than SpaceX's did, six times the shares on offer by Thursday.",
+      "snippet_ko": "앤트로픽의 기업공개(IPO)는 개시 초기부터 스페이스X의 IPO보다 더 많은 기관 투자자들의 수요를 끌어모았으며, 목요일까지 공모 주식 수의 6배에 달하는 수요가 몰렸다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3648,
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/anthropic-ipo-draws-six-times-demand-but-valuation-remains-under-scrutiny/articleshow/135830462.cms",
+      "cross_verified": true,
+      "published_at": "2026-11-14T10:52:57.000000Z"
+    },
     {
       "title": "Nvidia approaches Arm CEO Rene Haas as employees seek Huang's return",
       "title_ko": "직원들이 황의 복귀를 요구하는 가운데 엔비디아가 ARM의 르네 하스 CEO에게 접촉했다",
@@ -2367,42 +2403,6 @@
       "url": "https://www.livemint.com/companies/cracks-on-the-wall-in-apple-s-record-india-quarter-11793691592531.html",
       "cross_verified": true,
       "published_at": "2026-11-03T17:14:39.000000Z"
-    },
-    {
-      "title": "Mixed Performance for Major Indexes as Earnings Season Intensifies",
-      "title_ko": "실적 발표 시즌이 본격화되면서 주요 지수들의 등락이 엇갈렸다",
-      "snippet": "As the U.S. stock market opens for trading on Tuesday, November 3, 2026, investors are navigating a complex landscape of corporate earnings and shifting",
-      "snippet_ko": "2026년 11월 3일 화요일, 미국 주식시장이 개장함에 따라 투자자들은 기업 실적과 변화하는 시장 상황이라는 복잡한 환경을 헤쳐 나가고 있다.",
-      "symbol": "MCD",
-      "sentiment_score": 0.2484,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/mixed-performance-for-major-indexes-as-earnings-season-intensifies-2/74062/",
-      "cross_verified": true,
-      "published_at": "2026-11-03T11:07:13.000000Z"
-    },
-    {
-      "title": "Alphabet Stock: Meta Wins In Ads, But Google’s AI Cloud Is More Profitable (NASDAQ:GOOGL)",
-      "title_ko": "알파벳 주가: 메타는 광고 부문에서 우위를 점했지만, 구글의 AI 클라우드 사업이 더 높은 수익성을 기록하고 있다 (NASDAQ:GOOGL)",
-      "snippet": "Alphabet faces ad revenue deceleration, losing ground to Meta, but Cloud and AI investments drive robust operating margins. Read more on GOOGL stock here.",
-      "snippet_ko": "알파벳은 광고 매출 성장세가 둔화되며 메타에 점유율을 내주고 있지만, 클라우드 및 AI 투자가 견실한 영업이익률을 이끌고 있습니다. GOOGL 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.4032,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4961345-alphabet-meta-wins-in-ads-but-googles-ai-cloud-is-more-profitable",
-      "cross_verified": true,
-      "published_at": "2026-11-03T09:54:50.000000Z"
-    },
-    {
-      "title": "Broadcom Stock: Great Company, Not A Great Price (NASDAQ:AVGO)",
-      "title_ko": "브로드컴 주식: 훌륭한 기업이지만, 주가는 그리 매력적이지 않다 (나스닥: AVGO)",
-      "snippet": "Broadcom has secured the supply to double AI revenue in 2027 and has line of sight to double it again in 2028 to $230 billion. Read more on AVGO stock here.",
-      "snippet_ko": "브로드컴은 2027년에 AI 매출을 두 배로 늘릴 수 있는 공급 기반을 확보했으며, 2028년에는 이를 다시 두 배로 늘려 2,300억 달러에 도달할 전망입니다. AVGO 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.6633,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4961340-broadcom-great-company-not-a-great-price",
-      "cross_verified": true,
-      "published_at": "2026-11-03T09:39:39.000000Z"
     }
   ]
 }
