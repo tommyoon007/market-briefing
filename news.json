@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-14T18:59:24.411839+00:00",
+  "updated_at": "2026-11-14T23:47:03.820941+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Altimmune, Inc. (ALT) Presents at American Association for the Study of Liver Diseases (AASLD) - The Liver Meeting 2026 - Slideshow",
+      "title_ko": "Altimmune, Inc. (ALT), 미국간학회(AASLD) - ‘The Liver Meeting 2026’에서 발표 - 슬라이드 쇼",
+      "snippet": "2026-11-14. The following slide deck was published by Altimmune, Inc.",
+      "snippet_ko": "2026년 11월 14일. 다음 슬라이드 자료는 Altimmune, Inc.에서 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4968249-altimmune-inc-alt-presents-at-american-association-for-the-study-of-liver-diseases-aasld-the",
+      "cross_verified": true,
+      "published_at": "2026-11-14T23:24:31.000000Z"
+    },
+    {
+      "title": "FRP Holdings, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+      "title_ko": "FRP Holdings, Inc. 2026년 3분기 - 실적 - 실적 발표회 프레젠테이션",
+      "snippet": "2026-11-14. The following slide deck was published by FRP Holdings, Inc.",
+      "snippet_ko": "2026년 11월 14일. 다음 슬라이드 자료는 FRP Holdings, Inc.에서 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4968239-frp-holdings-inc-2026-q3-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-11-14T23:18:03.000000Z"
+    },
+    {
+      "title": "Acacia Research Corporation 2026 Q3 - Results - Earnings Call Presentation",
+      "title_ko": "아카시아 리서치 코퍼레이션 2026년 3분기 - 실적 - 실적 발표회 프레젠테이션",
+      "snippet": "2026-11-14. The following slide deck was published by Acacia Research Corporation in conjunction with their 2026 Q3 earnings call.",
+      "snippet_ko": "2026년 11월 14일. 다음 슬라이드 자료는 Acacia Research Corporation이 2026년 3분기 실적 발표와 함께 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4968237-acacia-research-corporation-2026-q3-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-11-14T23:16:43.000000Z"
+    },
     {
       "title": "APA Has Rallied by 91% This Year. Here’s Why You Should Take Some Chips Off The Table",
       "title_ko": "APA는 올해 91%나 급등했습니다. 지금 일부 매도를 고려해야 하는 이유는 다음과 같습니다.",
@@ -1165,45 +1201,33 @@
       "url": "https://seekingalpha.com/article/4960475-brandywine-realty-trust-philly-skyline-paying-me-10-percent",
       "cross_verified": true,
       "published_at": "2026-11-01T15:15:00.000000Z"
-    },
-    {
-      "title": "Rogers Corporation: The Turnaround Is Now Real, The Valuation Still Isn't (NYSE:ROG)",
-      "title_ko": "로저스 코퍼레이션: 실적 회복은 이제 현실이 되었지만, 기업 가치는 여전히 그렇지 않다 (NYSE:ROG)",
-      "snippet": "Rogers Corporation (ROG) delivered strong 3Q results, with revenue up nearly double digits and EPS up over 54% YoY.",
-      "snippet_ko": "로저스 코퍼레이션(ROG)은 3분기 실적이 호조를 보였으며, 매출은 두 자릿수에 가까운 증가율을 기록했고 주당순이익(EPS)은 전년 동기 대비 54% 이상 증가했습니다.",
-      "symbol": "",
-      "sentiment_score": -0.2384,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960700-rogers-corporation-the-turnaround-is-now-real-the-valuation-still-isnt",
-      "cross_verified": true,
-      "published_at": "2026-11-01T05:13:24.000000Z"
-    },
-    {
-      "title": "Matsui Securities Co., Ltd. 2027 Q2 - Results - Earnings Call Presentation (OTCMKTS:MAUSY) 2026-10-31",
-      "title_ko": "마츠이 증권 주식회사 2027년 2분기 - 실적 - 실적 발표회 프레젠테이션 (OTCMKTS:MAUSY) 2026-10-31",
-      "snippet": "2026-10-31. The following slide deck was published by Matsui Securities Co., Ltd.",
-      "snippet_ko": "2026년 10월 31일. 다음 슬라이드 자료는 마츠이 증권 주식회사에서 발간한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960684-matsui-securities-co-ltd-2027-q2-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-10-31T23:17:20.000000Z"
-    },
-    {
-      "title": "Central Japan Railway Company 2027 Q2 - Results - Earnings Call Presentation (OTCMKTS:CJPRY) 2026-10-31",
-      "title_ko": "센트럴 재팬 철도(Central Japan Railway Company) 2027년 2분기 실적 - 실적 발표 - 실적 설명회 자료 (OTCMKTS:CJPRY) 2026-10-31",
-      "snippet": "2026-10-31. The following slide deck was published by Central Japan Railway Company in conjunction with their 2027 Q2 earnings call.",
-      "snippet_ko": "2026년 10월 31일. 다음 슬라이드 자료는 중앙일본철도주식회사가 2027년 2분기 실적 발표와 함께 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960683-central-japan-railway-company-2027-q2-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-10-31T23:16:06.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "JPMorgan Loses Card Chief Allison Beer to ‘External Opportunity’",
+      "title_ko": "JPMorgan, 카드 부문 책임자 앨리슨 비어가 ‘외부 기회’를 찾아 떠나",
+      "snippet": "JPMorgan Chase & Co.’s Allison Beer, who runs a credit card business ranking among the world’s largest, is departing to work somewhere else.",
+      "snippet_ko": "세계 최대 규모에 속하는 신용카드 사업을 총괄하고 있는 JPMorgan Chase & Co.의 앨리슨 비어가 회사를 떠나 다른 곳으로 옮기게 되었다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.7087,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/jpmorgan-loses-card-chief-allison-beer-to-external-opportunity-11794685827439.html",
+      "cross_verified": true,
+      "published_at": "2026-11-14T19:50:26.000000Z"
+    },
+    {
+      "title": "Italy fines Meta €805 million over unauthorised access to users' photos",
+      "title_ko": "이탈리아, 사용자 사진 무단 접근 혐의로 메타에 8억 500만 유로 과징금 부과",
+      "snippet": "The authority said it reserves the right to conduct a separate investigation into a new feature launched in 2026 that allows content from users' galleries to be processed in the cloud",
+      "snippet_ko": "당국은 2026년에 출시된, 사용자의 갤러리에 있는 콘텐츠를 클라우드에서 처리할 수 있게 해주는 새로운 기능에 대해 별도의 조사를 실시할 권리를 보유한다고 밝혔다.",
+      "symbol": "META",
+      "sentiment_score": 0.0094,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/italy-fines-meta-805-million-over-unauthorised-access-to-users-photos-126111401392_1.html",
+      "cross_verified": true,
+      "published_at": "2026-11-14T17:36:17.000000Z"
+    },
     {
       "title": "What Moved Markets This Week",
       "title_ko": "이번 주 시장을 움직인 요인",
@@ -2379,30 +2403,6 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-biotech-surge-leads-markets-higher-amid-heavy-earnings-volume/74089/",
       "cross_verified": true,
       "published_at": "2026-11-03T19:07:15.000000Z"
-    },
-    {
-      "title": "Wall Street Lunch: Midterm Elections & Earnings (undefined:AMD)",
-      "title_ko": "월스트리트 런치: 중간선거와 기업 실적 (undefined:AMD)",
-      "snippet": "U.S. midterm elections. Palantir beat expectations, AMD faces high expectations;",
-      "snippet_ko": "미국 중간선거. 팔란티어가 시장 예상을 상회한 실적을 기록한 반면, AMD는 높은 기대에 직면해 있다;",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.6124,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4961677-wall-street-lunch-midterm-elections-and-earnings",
-      "cross_verified": true,
-      "published_at": "2026-11-03T17:55:00.000000Z"
-    },
-    {
-      "title": "Apple's record India quarter has more to it than meets the eyes",
-      "title_ko": "애플의 인도 시장 사상 최대 분기 실적 뒤에는 겉으로 보이는 것 이상의 의미가 있다",
-      "snippet": "Apple hit record quarterly revenue in India by pushing device prices above $1,000, but iPhone sales volumes dropped up to 25% as steep price hikes deterred first-time buyers.",
-      "snippet_ko": "애플은 기기 가격을 1,000달러 이상으로 인상하며 인도에서 분기 매출 사상 최고치를 기록했으나, 급격한 가격 인상이 첫 구매자들을 주저하게 만들면서 아이폰 판매량은 최대 25%까지 감소했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2601,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/cracks-on-the-wall-in-apple-s-record-india-quarter-11793691592531.html",
-      "cross_verified": true,
-      "published_at": "2026-11-03T17:14:39.000000Z"
     }
   ]
 }
