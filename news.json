@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-13T23:26:12.021447+00:00",
+  "updated_at": "2026-11-14T05:52:37.491389+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Innovative Immunology Biotech Windward Bio Lists on Nasdaq",
+      "title_ko": "혁신적인 면역학 바이오테크 기업 윈드워드 바이오, 나스닥에 상장",
+      "snippet": "/PRNewswire/ -- Windward Bio, a portfolio company of Qiming Venture Partners and a clinical-stage biotechnology company, successfully listed on Nasdaq on...",
+      "snippet_ko": "/PRNewswire/ -- 치밍 벤처 파트너스(Qiming Venture Partners)의 포트폴리오 기업이자 임상 단계의 생명공학 기업인 윈드워드 바이오(Windward Bio)가 ...에 나스닥에 성공적으로 상장했다.",
+      "symbol": "",
+      "sentiment_score": 0.5879,
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/apac/news-releases/innovative-immunology-biotech-windward-bio-lists-on-nasdaq-302939486.html",
+      "cross_verified": true,
+      "published_at": "2026-11-14T05:18:00.000000Z"
+    },
+    {
+      "title": "India's biggest small-cap mutual fund adds 8 stocks, exits 4 in October 2026; ITC tops fresh buys; expense ratio rises",
+      "title_ko": "인도 최대의 소형주 뮤추얼 펀드, 2026년 10월 8개 종목 추가·4개 종목 매도; ITC가 신규 매수 종목 1위 차지; 운용보수율 상승",
+      "snippet": "India's biggest active small-cap mutual fund added eight stocks and exited four in October 2026. The fund also reshuffled its existing holdings, while its expense ratio increased marginally for both direct and regular plans.",
+      "snippet_ko": "인도 최대 규모의 소형주 액티브형 뮤추얼 펀드는 2026년 10월에 8개 종목을 신규 편입하고 4개 종목을 매도했다. 또한 이 펀드는 기존 보유 종목을 재편했으며, 직접 가입형과 일반 가입형 모두에서 운용보수율이 소폭 상승했다.",
+      "symbol": "",
+      "sentiment_score": 0.6124,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/money/personal-finance/indias-biggest-small-cap-mutual-fund-adds-8-stocks-exits-4-in-october-2026-itc-tops-fresh-buys-expense-ratio-rises-11794625744671.html",
+      "cross_verified": true,
+      "published_at": "2026-11-14T04:35:31.000000Z"
+    },
     {
       "title": "Stantec Inc. 2026 Q3 - Results - Earnings Call Presentation",
       "title_ko": "Stantec Inc. 2026년 3분기 - 실적 - 실적 발표회 프레젠테이션",
@@ -1177,33 +1201,45 @@
       "url": "https://www.thehindubusinessline.com/portfolio/india-or-us-innovation-is-the-only-game-in-town-for-investors/article71650406.ece",
       "cross_verified": true,
       "published_at": "2026-10-31T16:15:51.000000Z"
-    },
-    {
-      "title": "GoDaddy Stock: Sell The Recent Rebound As Growth Slows (Rating Downgrade) (NYSE:GDDY)",
-      "title_ko": "GoDaddy 주가: 성장세 둔화로 최근 반등 시 매도 권고 (투자의견 하향 조정) (NYSE:GDDY)",
-      "snippet": "GoDaddy shares have surged, but slowing growth, AI doubts, debt risk, and rising competition weaken the outlook. Read why GDDY stock is downgraded to a hold.",
-      "snippet_ko": "GoDaddy 주가는 급등했으나, 성장세 둔화, AI에 대한 의구심, 부채 위험, 그리고 치열해지는 경쟁으로 인해 전망이 어두워지고 있습니다. GDDY 주식이 ‘보유(Hold)’로 하향 조정된 이유를 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": 0.3818,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960599-godaddy-sell-recent-rebound-as-growth-slows",
-      "cross_verified": true,
-      "published_at": "2026-10-31T11:09:59.000000Z"
-    },
-    {
-      "title": "Rio Tinto: Commodity Risks Keep Us Neutral (NYSE:RIO)",
-      "title_ko": "리오 틴토: 원자재 리스크로 인해 중립적 전망 유지 (NYSE:RIO)",
-      "snippet": "Rio Tinto gets a reiterated neutral rating as our normalized EBITDA valuation offers only modest upside. Discover more on the RIO stock in this analysis.",
-      "snippet_ko": "리오 틴토(Rio Tinto)에 대해 중립(Neutral) 등급을 재확인합니다. 당사의 정상화 EBITDA 기반 평가에 따르면 상승 여력이 미미하기 때문입니다. 이 분석 보고서에서 RIO 주식에 대한 자세한 내용을 확인해 보세요.",
-      "symbol": "",
-      "sentiment_score": -0.2732,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960591-rio-tinto-commodity-risks-keep-us-neutral",
-      "cross_verified": true,
-      "published_at": "2026-10-31T10:54:35.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Nvidia approaches Arm CEO Rene Haas as employees seek Huang's return",
+      "title_ko": "직원들이 황의 복귀를 요구하는 가운데 엔비디아가 ARM의 르네 하스 CEO에게 접촉했다",
+      "snippet": "Huang stepped down on Thursday after revelations of extramarital affairs, including one involving a suspected Chinese spy, plunging the chipmaker into crisis",
+      "snippet_ko": "황 씨는 중국 스파이로 의심되는 인물과의 관계를 포함한 여러 건의 불륜 사실이 드러나면서 목요일 사임했으며, 이로 인해 이 반도체 제조사는 위기에 빠졌다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.0217,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/nvidia-approaches-arm-ceo-rene-haas-as-employees-seek-huang-s-return-126111400075_1.html",
+      "cross_verified": true,
+      "published_at": "2026-11-14T02:55:28.000000Z"
+    },
+    {
+      "title": "US stocks mostly ease with tech, Nvidia concerns; airline shares fall",
+      "title_ko": "기술주와 엔비디아에 대한 우려로 미국 증시 대체로 약세…항공주 하락",
+      "snippet": "Airline shares dropped in the final minutes of the regular US session after the US Federal Aviation Administration issued a national ground stop of all departing flights",
+      "snippet_ko": "미국 연방항공청(FAA)이 전국적으로 모든 출발 항공편에 대해 이륙 금지 조치를 내린 후, 미국 정규 장중 거래 마감 직전 항공사 주가가 하락했다.",
+      "symbol": "AVGO",
+      "sentiment_score": -0.0535,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/us-stocks-mostly-ease-with-tech-nvidia-concerns-airline-shares-fall-126111400058_1.html",
+      "cross_verified": true,
+      "published_at": "2026-11-14T02:22:48.000000Z"
+    },
+    {
+      "title": "5 world market themes for the week ahead",
+      "title_ko": "다가오는 한 주를 전망하는 5가지 세계 시장 주요 테마",
+      "snippet": "Nvidia's recent leadership change and the upcoming IPO of Anthropic could significantly influence the AI market dynamics. US-China relations are set for discussions as Trump and Xi meet amid various geopolitical concerns. Oil prices remain volatile due to Middle East tensions and supply changes, affecting potential inflation relief. A UK and EU summit aims to advance post-Brexit cooperation on trade and regulations.",
+      "snippet_ko": "엔비디아의 최근 경영진 교체와 앤트로픽의 다가오는 기업공개(IPO)는 AI 시장 동향에 상당한 영향을 미칠 수 있다. 다양한 지정학적 우려 속에서 트럼프와 시진핑이 회동함에 따라 미·중 관계에 대한 논의가 이루어질 전망이다. 중동 지역의 긴장과 공급 상황 변화로 인해 유가는 여전히 변동성을 보이고 있으며, 이는 인플레이션 완화 가능성에 영향을 미치고 있다. 영국과 EU 정상회담은 브렉시트 이후 무역 및 규제 분야에서의 협력을 진전시키는 것을 목표로 하고 있다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.1937,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-world-market-themes-for-the-week-ahead/articleshow/135822113.cms",
+      "cross_verified": true,
+      "published_at": "2026-11-14T04:02:17.000000Z"
+    },
     {
       "title": "Tech Sector Weakness and Rising Volatility Pressure Wall Street Ahead of Major Earnings Week",
       "title_ko": "주요 기업 실적 발표 주간을 앞두고 기술주 부진과 변동성 확대로 월가 압박 가중",
@@ -2367,42 +2403,6 @@
       "url": "https://seekingalpha.com/article/4961340-broadcom-great-company-not-a-great-price",
       "cross_verified": true,
       "published_at": "2026-11-03T09:39:39.000000Z"
-    },
-    {
-      "title": "Global Market Today: Asian stocks slide as US chip selloff deepens",
-      "title_ko": "오늘의 세계 시장: 미국 반도체 매도세 심화 속 아시아 증시 하락",
-      "snippet": "The MSCI Asia Pacific gauge dropped 0.4% with South Koreas Kospi Index sliding almost 3%. In the US, a gauge of chipmakers extended a three-day rout to 12% and the Nasdaq 100 sank 10% from its peak, entering a technical correction. In a sign some investors are looking to buy on dips, US stock futures gained. Japan is closed for a holiday.",
-      "snippet_ko": "MSCI 아시아 태평양 지수는 0.4% 하락했으며, 한국의 코스피 지수는 3% 가까이 떨어졌다. 미국에서는 반도체 업체 지수가 3일 연속 급락세를 이어가며 12% 하락했고, 나스닥 100 지수는 고점 대비 10% 하락하며 기술적 조정 국면에 접어들었다. 일부 투자자들이 주가가 하락할 때 매수 기회를 노리고 있다는 신호로, 미국 주식 선물은 상승세를 보였다. 일본 증시는 공휴일로 휴장했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2646,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-slide-as-us-chip-selloff-deepens/articleshow/135478154.cms",
-      "cross_verified": true,
-      "published_at": "2026-11-03T01:03:28.000000Z"
-    },
-    {
-      "title": "Apple's quarter is not perfect. But with enough to like, we raised our price target",
-      "title_ko": "애플의 이번 분기 실적은 완벽하지는 않습니다. 하지만 긍정적으로 볼 만한 점이 충분해, 저희는 목표 주가를 상향 조정했습니다.",
-      "snippet": "We remain",
-      "snippet_ko": "우리는 여전히",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.6713,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/investingclub/2026/11/02/apples-quarter-is-not-perfect-but-with-enough-to-like-we-raised-our-price-target.html",
-      "cross_verified": true,
-      "published_at": "2026-11-03T00:55:36.000000Z"
-    },
-    {
-      "title": "Apple Inc. (AAPL) Q4 2026 Earnings Call Transcript",
-      "title_ko": "애플(Apple Inc., AAPL) 2026년 4분기 실적 발표 회의록",
-      "snippet": "Apple Inc. (AAPL) Q4 2026 Earnings Call November 2, 2026 5:00 PM ESTCompany ParticipantsSuhasini Chandramouli - Director of Investor RelationsJohn Ternus -...",
-      "snippet_ko": "애플(Apple Inc., AAPL) 2026년 4분기 실적 발표 컨퍼런스 콜, 2026년 11월 2일 오후 5:00(미국 동부 표준시) 회사 측 참석자: 수하시니 찬드라무리(Suhasini Chandramouli) - 투자자 관계 담당 이사, 존 테르누스(John Ternus) -...",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3548,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4961239-apple-inc-aapl-q4-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-11-03T00:38:25.000000Z"
     }
   ]
 }
