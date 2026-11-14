@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-14T05:52:37.491389+00:00",
+  "updated_at": "2026-11-14T13:18:19.009623+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "US-China Trade Council Convenes to Discuss $60 Billion Tariff-Reduction Package",
+      "title_ko": "미·중 무역협의회, 600억 달러 규모의 관세 인하 패키지 논의 위해 소집",
+      "snippet": "The United States and China held the first official meeting of their newly established Trade Council via video link on Friday, November 13, 2025. The",
+      "snippet_ko": "미국과 중국은 2025년 11월 13일 금요일, 화상 회의를 통해 새로 설립된 무역협의회의 첫 공식 회의를 개최했다. 이",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/us-china-trade-council-convenes-to-discuss-60-billion-tariff-reduction-package/74686/",
+      "cross_verified": true,
+      "published_at": "2026-11-14T12:08:17.000000Z"
+    },
+    {
+      "title": "Procter & Gamble: When Defense Becomes Risky",
+      "title_ko": "프록터 앤 갬블: 방어가 위험 요소로 변할 때",
+      "snippet": "Analyst reiterates a Sell rating on Procter & Gamble: its 24.10x forward P/E looks elevated as Q1 core gross margin ex-FX contracted 150 basis points.",
+      "snippet_ko": "한 애널리스트가 프록터 앤 갬블(Procter & Gamble)에 대해 ‘매도’ 투자의견을 재확인했다. 1분기 환율 변동을 제외한 핵심 매출총이익률이 150 베이시스 포인트 감소함에 따라, 향후 예상 주가수익비율(P/E) 24.10배는 높은 수준으로 보인다.",
+      "symbol": "",
+      "sentiment_score": 0.885,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4968181-procter-and-gamble-when-defense-becomes-risky",
+      "cross_verified": true,
+      "published_at": "2026-11-14T11:47:20.000000Z"
+    },
+    {
+      "title": "Engie: Q3 Earnings Growth Changes Our View (Rating Upgrade)",
+      "title_ko": "Engie: 3분기 실적 호조로 인해 전망을 수정 (투자의견 상향)",
+      "snippet": "Analyst rates Engie a Buy after shares fell 10% since the prior Neutral review, with Q3 organic EBIT up 10.9% and a dividend yield above 5%.",
+      "snippet_ko": "이전 ‘중립(Neutral)’ 평가 이후 주가가 10% 하락한 가운데, 애널리스트는 3분기 유기적 EBIT가 10.9% 증가했고 배당 수익률이 5%를 상회함에 따라 앙지(Engie)에 ‘매수(Buy)’ 등급을 부여했다.",
+      "symbol": "",
+      "sentiment_score": 0.4873,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4968179-engie-q3-earnings-growth-changes-our-view-rating-upgrade",
+      "cross_verified": true,
+      "published_at": "2026-11-14T11:27:45.000000Z"
+    },
     {
       "title": "Innovative Immunology Biotech Windward Bio Lists on Nasdaq",
       "title_ko": "혁신적인 면역학 바이오테크 기업 윈드워드 바이오, 나스닥에 상장",
@@ -1165,42 +1201,6 @@
       "url": "https://seekingalpha.com/article/4960660-palfinger-ag-plfrf-q3-2026-earnings-call-transcript",
       "cross_verified": true,
       "published_at": "2026-10-31T18:58:29.000000Z"
-    },
-    {
-      "title": "YPF Sociedad Anónima (YPF) Q3 2026 Earnings Call Transcript",
-      "title_ko": "YPF Sociedad Anónima (YPF) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "YPF Sociedad Anónima (YPF) Q3 2026 Earnings Call October 29, 2026 9:00 AM EDTCompany ParticipantsMargarita Chun - Investor Relations OfficerHoracio Marin -...",
-      "snippet_ko": "YPF Sociedad Anónima (YPF) 2026년 3분기 실적 발표 전화회의 2026년 10월 29일 오전 9:00 (EDT) 회사 참가자 마르가리타 춘 - 투자자 관계 담당자 호라시오 마린 -...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4959693-ypf-sociedad-anonima-ypf-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-10-31T18:38:26.000000Z"
-    },
-    {
-      "title": "[MI, NV, TX, VA] InTouch Credit Union $100 Referral Bonus",
-      "title_ko": "[미시간, 네바다, 텍사스, 버지니아] InTouch 신용조합 $100 추천 보너스",
-      "snippet": "InTouch Credit Union is offering a $100 referral bonus for both parties when the new member opens a new checking account and completes one of the following…",
-      "snippet_ko": "InTouch Credit Union은 신규 회원이 새 당좌예금 계좌를 개설하고 다음 중 하나를 완료할 경우, 추천인과 추천받은 사람 모두에게 100달러의 추천 보너스를 제공합니다…",
-      "symbol": "",
-      "sentiment_score": 0.7215,
-      "source": "doctorofcredit.com",
-      "url": "https://www.doctorofcredit.com/mi-nv-tx-va-intouch-credit-union-100-referral-bonus-direct-deposit-optional/",
-      "cross_verified": true,
-      "published_at": "2026-10-31T17:00:25.000000Z"
-    },
-    {
-      "title": "India or US, innovation is the only game in town for investors",
-      "title_ko": "인도든 미국이든, 투자자들에게 있어 혁신이 유일한 선택지다",
-      "snippet": "Investors debate India vs US, urging India to boost innovation as profits exist but groundbreaking tech leadership remains scarce.",
-      "snippet_ko": "투자자들은 인도와 미국을 두고 논쟁을 벌이며, 수익성은 있지만 획기적인 기술 리더십은 여전히 부족한 상황에서 인도가 혁신을 강화해야 한다고 촉구하고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.7845,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/portfolio/india-or-us-innovation-is-the-only-game-in-town-for-investors/article71650406.ece",
-      "cross_verified": true,
-      "published_at": "2026-10-31T16:15:51.000000Z"
     }
   ],
   "portfolio_news": [
