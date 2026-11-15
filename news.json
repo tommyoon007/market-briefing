@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T13:46:06.124174+00:00",
+  "updated_at": "2026-11-15T19:39:31.248402+00:00",
   "status": "ok",
   "market_news": [
     {
@@ -1205,6 +1205,54 @@
   ],
   "portfolio_news": [
     {
+      "title": "ULA Vulcan Rocket Launches With Its First Amazon Leo Payload",
+      "title_ko": "ULA의 벌컨 로켓, 첫 번째 아마존 LEO 탑재체를 실고 발사",
+      "snippet": "United Launch Alliance launched its Vulcan rocket for the first time in nine months, a long-awaited return for a vehicle plagued by delays and technical mishaps.",
+      "snippet_ko": "유나이티드 런치 얼라이언스(ULA)가 9개월 만에 처음으로 ‘벌컨’ 로켓을 발사했다. 지연과 기술적 문제로 어려움을 겪어온 이 로켓의 이번 발사는 오랫동안 기다려온 복귀였다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.0,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/ula-vulcan-rocket-launches-with-its-first-amazon-leo-payload-11794767538933.html",
+      "cross_verified": true,
+      "published_at": "2026-11-15T18:32:18.000000Z"
+    },
+    {
+      "title": "The ETF Educator",
+      "title_ko": "ETF 교육자",
+      "snippet": "Weekly ETF Reads",
+      "snippet_ko": "매주 읽을 만한 ETF 관련 글",
+      "symbol": "AAPL",
+      "sentiment_score": 0.494,
+      "source": "theetfeducator.com",
+      "url": "https://theetfeducator.com/2026/11/15/etf-buzz-335/",
+      "cross_verified": true,
+      "published_at": "2026-11-15T17:43:41.000000Z"
+    },
+    {
+      "title": "Alphabet: AI Hasn't Killed Search, It's Rebuilt It",
+      "title_ko": "알파벳: AI는 검색을 없애지 않았고, 오히려 재구축했다",
+      "snippet": "Analyst sees Alphabet as a diversification play, with Search's implied multiple roughly 20x; at $300, the writer would wait to add below $250.",
+      "snippet_ko": "한 애널리스트는 알파벳을 사업 다각화 투자 대상으로 보고 있으며, 검색 사업부의 내재 멀티플은 약 20배 수준이라고 분석했다. 주가가 300달러인 상황에서, 이 애널리스트는 250달러 아래로 떨어질 때까지 추가 매수를 기다릴 것이라고 밝혔다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.6053,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4968350-alphabet-ai-hasnt-killed-search-its-rebuilt-it",
+      "cross_verified": true,
+      "published_at": "2026-11-15T13:20:00.000000Z"
+    },
+    {
+      "title": "Weekend Market Report: What a Week, The AI Trade Finally Blinked, and Busy Week Ahead",
+      "title_ko": "주말 시장 보고서: 정말 다사다난했던 한 주, AI 관련 매매가 마침내 주춤했고, 앞으로 바쁜 한 주가 예상됩니다",
+      "snippet": "For three days, the market told itself a comforting story: NVDA’s problem is NVDA’s problem, and the money just moves down the street to $AMD and $AVGO. That story lasted until Friday morning. Friday’s Tech Wreck The rotation trade got unwound in a hurry. $AMD dropped nearly 9% and erased…",
+      "snippet_ko": "사흘 동안 시장은 스스로를 달래는 이야기를 되뇌었다. ‘NVDA의 문제는 NVDA만의 문제일 뿐, 자금은 그저 $AMD와 $AVGO로 흘러갈 뿐이다.’ 그 이야기는 금요일 아침까지 이어졌다. 금요일의 기술주 대참사. 로테이션 매수 흐름이 순식간에 풀려버렸다. $AMD는 거의 9%나 급락하며…",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0,
+      "source": "upsidetrader.com",
+      "url": "https://www.upsidetrader.com/2026/11/15/weekend-market-report-what-a-week-the-ai-trade-finally-blinked-and-busy-week-ahead/",
+      "cross_verified": true,
+      "published_at": "2026-11-15T18:28:18.000000Z"
+    },
+    {
       "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
       "title_ko": "어려움을 겪고 있는 AI 업계가 절실히 필요한 희망의 빛을 찾고 있는 가운데, 앤트로픽의 기업공개(IPO)가 성사되었다.",
       "snippet": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
@@ -2355,54 +2403,6 @@
       "url": "https://www.cnbc.com/investingclub/2026/11/04/cramer-says-this-bank-stock-is-a-buy-after-its-post-election-pullback.html",
       "cross_verified": true,
       "published_at": "2026-11-04T16:54:39.000000Z"
-    },
-    {
-      "title": "U.S. Stocks Rally Following Democrats' Decisive Midterm Election Victory",
-      "title_ko": "민주당, 중간선거에서 압도적인 승리를 거두자 미국 증시 급등",
-      "snippet": "Stocks have moved sharply higher during trading on Wednesday, with the major averages all showing strong moves to the upside following the mixed performances seen in each of the two previous sessions.",
-      "snippet_ko": "수요일 장중 주가가 급등했으며, 지난 두 거래일 동안 혼조세를 보였던 주요 지수들은 모두 강한 상승세를 보였다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.7964,
-      "source": "rttnews.com",
-      "url": "https://www.rttnews.com/3709670/u-s-stocks-rally-following-democrats-decisive-midterm-election-victory.aspx?type=ts",
-      "cross_verified": true,
-      "published_at": "2026-11-04T16:15:29.000000Z"
-    },
-    {
-      "title": "Canadian General Investments: Investment Update - Unaudited",
-      "title_ko": "캐나디안 제너럴 인베스트먼츠: 투자 현황 - 미감사",
-      "snippet": "TORONTO, Canada, Nov. 04, 2026 (GLOBE NEWSWIRE) -- Canadian General Investments, Limited (CGI) (TSX:CGI) (LSE: CGI) reports on an unaudited basis that its net asset value per share (NAV) at October 31, 2026 was $84.06 resulting in year-to-date and 12-month NAV returns, with dividends reinvested, of 5.3% and 3.9%, respectively. These compare with the 14.4% and 20.4% returns of the benchmark S&P/TSX Composite Index on a total return basis for the same periods.",
-      "snippet_ko": "캐나다 토론토, 2026년 11월 4일 (GLOBE NEWSWIRE) -- Canadian General Investments, Limited (CGI) (TSX:CGI) (LSE: CGI)는 2026년 10월 31일 기준 감사 전 기준 주당 순자산가치 (NAV)가 84.06달러였으며, 이에 따라 배당금을 재투자한 기준 연초 대비 및 12개월 NAV 수익률은 각각 5.3%와 3.9%를 기록했다고 밝혔다. 이는 같은 기간 동안 총수익 기준 벤치마크인 S&P/TSX 종합지수의 수익률인 14.4% 및 20.4%와 비교되는 수치이다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2826,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/11/05/tmt-newswire/globenewswire/canadian-general-investments-investment-update-unaudited/2462024",
-      "cross_verified": true,
-      "published_at": "2026-11-04T16:10:16.000000Z"
-    },
-    {
-      "title": "AWS launches \"Semarak AI Malaysia\", a national program to bring AI tools to government officers, students, and local software companies",
-      "title_ko": "AWS, 공무원, 학생, 현지 소프트웨어 기업에 AI 도구를 제공하는 국가 차원의 프로그램인 ‘세마락 AI 말레이시아(Semarak AI Malaysia)’를 출범했다",
-      "snippet": "AWS is investing to put Amazon Quick, the AI built for work, in the hands of up to 445,000 government officers — supporting Malaysia's nation-building agenda...",
-      "snippet_ko": "AWS는 업무용으로 개발된 AI인 ‘아마존 퀵(Amazon Quick)’을 최대 44만 5천 명의 공무원에게 제공하기 위해 투자하고 있으며, 이를 통해 말레이시아의 국가 건설 계획을 지원하고 있습니다...",
-      "symbol": "AMZN",
-      "sentiment_score": 0.3715,
-      "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/apac/news-releases/aws-launches-semarak-ai-malaysia-a-national-program-to-bring-ai-tools-to-government-officers-students-and-local-software-companies-302928951.html",
-      "cross_verified": true,
-      "published_at": "2026-11-04T07:00:00.000000Z"
-    },
-    {
-      "title": "Markets Retreat as Geopolitical Tensions Flare and “Blue Wave” Reshapes US Landscape",
-      "title_ko": "지정학적 긴장이 고조되고 ‘블루 웨이브’가 미국 정치 지형을 재편하면서 시장이 하락세를 보였다",
-      "snippet": "The Iranian Revolutionary Guard Corps (IRGC) reported on Wednesday that four oil tankers remain engulfed in flames south of the Strait of Hormuz after",
-      "snippet_ko": "이란 혁명수비대(IRGC)는 수요일, 호르무즈 해협 남쪽에서 4척의 유조선이 여전히 화염에 휩싸여 있다고 보고했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.7579,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/markets-retreat-as-geopolitical-tensions-flare-and-blue-wave-reshapes-us-landscape/74112/",
-      "cross_verified": true,
-      "published_at": "2026-11-04T03:38:15.000000Z"
     }
   ]
 }
