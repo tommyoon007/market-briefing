@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-15T05:53:10.696291+00:00",
+  "updated_at": "2026-11-15T13:46:06.124174+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Imperial Brands: Massive Cash Flow Driving Double-Digit Returns",
+      "title_ko": "임페리얼 브랜즈: 막대한 현금 흐름이 두 자릿수 수익률을 견인하고 있다",
+      "snippet": "Analyst rates Imperial Brands a Strong Buy, seeing its 5.6% dividend yield as secure on a low payout ratio and targeting 14%+ long-term returns.",
+      "snippet_ko": "한 애널리스트는 임페리얼 브랜즈에 대해 ‘강력 매수’ 등급을 부여하며, 낮은 배당성향 덕분에 5.6%의 배당 수익률이 안정적이라고 평가하고, 14% 이상의 장기 수익률을 전망했다.",
+      "symbol": "",
+      "sentiment_score": 0.4958,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4968373-imperial-brands-stock-massive-cash-flow-driving-double-digit-returns",
+      "cross_verified": true,
+      "published_at": "2026-11-15T11:20:30.000000Z"
+    },
+    {
+      "title": "Standard Chartered taps GIFT City to help wealthy Indians diversify overseas",
+      "title_ko": "스탠다드차타드, 인도 부유층의 해외 투자 다각화를 위해 GIFT 시티와 손잡아",
+      "snippet": "The launch follows an August approval from the IFSCA, GIFT City’s regulator, allowing the bank to distribute the funds to resident Indians. Launched four years ago, the funds manage $5 billion in assets across 13 markets.",
+      "snippet_ko": "이번 출시 소식은 GIFT 시티의 규제 기관인 IFSCA가 지난 8월 해당 은행이 인도 거주자들에게 펀드를 판매할 수 있도록 승인한 데 따른 것이다. 4년 전 출시된 이 펀드들은 13개 시장에서 총 50억 달러 규모의 자산을 운용하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.4482,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/standard-chartered-taps-gift-city-to-help-wealthy-indians-diversify-overseas-11794726225669.html",
+      "cross_verified": true,
+      "published_at": "2026-11-15T10:46:30.000000Z"
+    },
     {
       "title": "Northeast Community Bancorp: Earnings And Asset Quality Are Suddenly A Small Concern (Rating Downgrade)",
       "title_ko": "노스이스트 커뮤니티 뱅크코프: 실적과 자산 건전성은 갑자기 사소한 우려 사항으로 전락 (신용등급 하향 조정)",
@@ -1177,33 +1201,33 @@
       "url": "https://www.insidermonkey.com/news/csx-csx-vs-unp-and-nsc-can-new-leadership-turn-efficiency-gains-into-lasting-growth-1841870/",
       "cross_verified": true,
       "published_at": "2026-11-01T19:35:09.000000Z"
-    },
-    {
-      "title": "Analysts: Inflation likely hit 7.7% in Oct",
-      "title_ko": "분석가들: 10월 인플레이션율 7.7%에 달했을 것으로 보인다",
-      "snippet": "INLATION may have accelerated further in October as higher transport, fuel and food costs, coupled with the weakening peso, added to price pressures, economists said, potentially prompting the Bangko Sentral ng Pilipinas (BSP) to raise interest rates again in December.",
-      "snippet_ko": "경제학자들은 10월 들어 운송비, 연료비, 식료품비 상승에 페소화 약세가 더해져 물가 상승 압력이 가중되면서 인플레이션이 더욱 가속화되었을 가능성이 있다고 밝혔으며, 이로 인해 필리핀 중앙은행(BSP)이 12월에 다시 금리를 인상할 수도 있다고 전망했다.",
-      "symbol": "",
-      "sentiment_score": -0.5423,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/11/02/business/top-business/analysts-inflation-likely-hit-77-in-oct/2459022",
-      "cross_verified": true,
-      "published_at": "2026-11-01T19:19:09.000000Z"
-    },
-    {
-      "title": "Financial Institutions Stock: Despite Disappointing Q3 Big Picture Compelling(NASDAQ:FISI)",
-      "title_ko": "금융주: 3분기 실적은 실망스러웠으나 전반적인 전망은 매력적(나스닥:FISI)",
-      "snippet": "Financial institutions' Q3 earnings missed, but record net interest income, stable margin, and a loan cash flow outlook support a Buy. Click for more on FISI stock.",
-      "snippet_ko": "금융사들의 3분기 실적은 기대에 미치지 못했으나, 사상 최대의 순이자수익, 안정적인 마진, 그리고 대출 현금 흐름 전망을 고려할 때 ‘매수’ 의견을 유지합니다. FISI 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "",
-      "sentiment_score": 0.1642,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960726-financial-institutions-despite-disappointing-q3-big-picture-still-compelling",
-      "cross_verified": true,
-      "published_at": "2026-11-01T15:47:03.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+      "title_ko": "어려움을 겪고 있는 AI 업계가 절실히 필요한 희망의 빛을 찾고 있는 가운데, 앤트로픽의 기업공개(IPO)가 성사되었다.",
+      "snippet": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
+      "snippet_ko": "앤트로픽의 기업공개(IPO)는 이 AI 연구소에 막대한 투자를 해왔고 긍정적인 모멘텀을 간절히 바라고 있는 기술 업계에서 매우 큰 의미를 지닙니다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.1533,
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+      "cross_verified": true,
+      "published_at": "2026-11-15T12:00:01.000000Z"
+    },
+    {
+      "title": "Data Centre Construction Stocks Lose $4.2tn as Boom in AI Trade Unravels",
+      "title_ko": "AI 거래 호황이 사그라들면서 데이터센터 건설 관련 주가, 4.2조 달러 하락",
+      "snippet": "The massive rally in companies providing the physical infrastructure for artificial intelligence has hit a wall, with an FT analysis revealing a $4.2 trillion",
+      "snippet_ko": "인공지능(AI)에 필요한 물리적 인프라를 제공하는 기업들의 대규모 상승세가 주춤해졌으며, 파이낸셜타임스(FT)의 분석에 따르면 4.2조 달러 규모의",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3803,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/data-centre-construction-stocks-lose-4-2tn-as-boom-in-ai-trade-unravels/74705/",
+      "cross_verified": true,
+      "published_at": "2026-11-15T08:08:10.000000Z"
+    },
     {
       "title": "Intel: Wall Street May Be Underestimating Its Comeback And Nvidia Opportunity (Upgrade)",
       "title_ko": "인텔: 월스트리트가 인텔의 부활과 엔비디아 관련 기회를 과소평가하고 있을 수 있다 (투자의견 상향)",
@@ -2379,30 +2403,6 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/markets-retreat-as-geopolitical-tensions-flare-and-blue-wave-reshapes-us-landscape/74112/",
       "cross_verified": true,
       "published_at": "2026-11-04T03:38:15.000000Z"
-    },
-    {
-      "title": "Pershing Square Holdings Q3 2026 Letter To Shareholders",
-      "title_ko": "퍼싱 스퀘어 홀딩스 2026년 3분기 주주 서한",
-      "snippet": "PSH reports Q3 2026 performance, highlighting portfolio resilience amidst AI-driven market volatility. Read our full analysis and investment update here.",
-      "snippet_ko": "PSH가 2026년 3분기 실적을 발표하며, AI로 인한 시장 변동성 속에서도 포트폴리오의 탄력성을 강조했습니다. 전체 분석 및 투자 업데이트는 여기에서 확인하세요.",
-      "symbol": "META",
-      "sentiment_score": 0.3153,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4961892-pershing-square-holdings-q3-2026-letter-to-shareholders",
-      "cross_verified": true,
-      "published_at": "2026-11-04T01:30:00.000000Z"
-    },
-    {
-      "title": "Market Recap- 11/3/26- AMD Just Answered The AI Demand Question",
-      "title_ko": "시장 요약 - 26년 11월 3일 - AMD, AI 수요에 대한 의문을 해소했다",
-      "snippet": "Election Day turned out to be a pretty good day to own chips. After Monday pushed the Nasdaq-100 into correction territory, buyers returned to semis Tuesday and dragged the tech indexes higher. The Nasdaq rose 0.83% to 25,372, and the S&P 500 added 0.36% to 7,568.92, ending a three-day losing…",
-      "snippet_ko": "선거일은 주식 보유자들에게 꽤 좋은 날로 드러났다. 월요일에 나스닥 100 지수가 조정 국면에 진입한 뒤, 화요일에는 매수세력이 반도체주로 돌아와 기술주 지수를 끌어올렸다. 나스닥은 0.83% 상승한 25,372를 기록했고, S&P 500 지수는 0.36% 오른 7,568.92를 기록하며 3일 연속 하락세를 마감했다…",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3182,
-      "source": "upsidetrader.com",
-      "url": "https://www.upsidetrader.com/2026/11/03/market-recap-11-3-26-amd-just-answered-the-ai-demand-question/",
-      "cross_verified": true,
-      "published_at": "2026-11-03T22:39:59.000000Z"
     }
   ]
 }
