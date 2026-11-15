@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-15T19:39:31.248402+00:00",
+  "updated_at": "2026-11-15T23:52:41.502291+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Oki Electric Industry Co., Ltd. 2027 Q2 - Results - Earnings Call Presentation",
+      "title_ko": "오키 전기공업 주식회사 2027년 2분기 - 실적 - 실적 설명회 발표 자료",
+      "snippet": "2026-11-15. The following slide deck was published by Oki Electric Industry Co., Ltd.",
+      "snippet_ko": "2026년 11월 15일. 다음 슬라이드 자료는 오키 전기 산업 주식회사에서 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4968420-oki-electric-industry-co-ltd-2027-q2-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-11-15T23:15:54.000000Z"
+    },
+    {
+      "title": "DIRTT Environmental Solutions Ltd. 2026 Q3 - Results - Earnings Call Presentation",
+      "title_ko": "DIRTT Environmental Solutions Ltd. 2026년 3분기 - 실적 - 실적 발표회 프레젠테이션",
+      "snippet": "2026-11-15. The following slide deck was published by DIRTT Environmental Solutions Ltd.",
+      "snippet_ko": "2026년 11월 15일. 다음 슬라이드 자료는 DIRTT Environmental Solutions Ltd.에서 발간한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4968418-dirtt-environmental-solutions-ltd-2026-q3-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-11-15T23:11:29.000000Z"
+    },
+    {
+      "title": "Summit Hotel Properties, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+      "title_ko": "서밋 호텔 프로퍼티스(Summit Hotel Properties, Inc.) 2026년 3분기 실적 - 실적 발표 - 실적 설명회 자료",
+      "snippet": "2026-11-15. The following slide deck was published by Summit Hotel Properties, Inc.",
+      "snippet_ko": "2026년 11월 15일. 다음 슬라이드 자료는 Summit Hotel Properties, Inc.에서 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4968413-summit-hotel-properties-inc-2026-q3-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-11-15T23:02:28.000000Z"
+    },
     {
       "title": "Imperial Brands: Massive Cash Flow Driving Double-Digit Returns",
       "title_ko": "임페리얼 브랜즈: 막대한 현금 흐름이 두 자릿수 수익률을 견인하고 있다",
@@ -1165,42 +1201,6 @@
       "url": "https://www.manilatimes.net/2026/11/02/tmt-newswire/globenewswire/hutchmed-announces-regulatory-filings-accepted-for-review-for-orpathys-plus-tagrisso-in-met-driven-egfr-mutated-lung-cancer-in-europe-and-japan/2459058",
       "cross_verified": true,
       "published_at": "2026-11-02T00:21:09.000000Z"
-    },
-    {
-      "title": "Mesoblast Board Changes",
-      "title_ko": "메소블라스트 이사회 변경 사항",
-      "snippet": "NEW YORK, Nov. 01, 2026 (GLOBE NEWSWIRE) -- Mesoblast Limited (Nasdaq:MESO; ASX:MSB), global leader in allogeneic cellular medicines for inflammatory diseases, today announced rotational changes and retirement of certain members of its Board, and reiterated its intention to add new members with the requisite global commercial experience in the biopharmaceutical sector in line with its next phase of commercial delivery and growth.",
-      "snippet_ko": "뉴욕, 2026년 11월 1일 (GLOBE NEWSWIRE) -- 염증성 질환을 위한 동종 세포 치료제 분야의 글로벌 선도 기업인 메소블라스트 리미티드(Mesoblast Limited, 나스닥: MESO; ASX:MSB)는 오늘 이사회 구성원의 순환 교체 및 일부 이사의 퇴임을 발표했으며, 향후 상업화 및 성장 단계에 발맞춰 바이오의약품 분야에서 필요한 글로벌 상업적 경험을 갖춘 신규 이사를 영입할 의향을 재차 밝혔다.",
-      "symbol": "",
-      "sentiment_score": 0.3947,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/11/02/tmt-newswire/globenewswire/mesoblast-board-changes/2459056",
-      "cross_verified": true,
-      "published_at": "2026-11-02T00:01:02.000000Z"
-    },
-    {
-      "title": "KKR, Singtel and Tata Communications put data centre company STT GDC India up for sale at over $5.5 billion",
-      "title_ko": "KKR, 싱텔, 타타 커뮤니케이션스가 데이터 센터 기업 STT GDC 인디아를 55억 달러 이상에 매각하기로 했다.",
-      "snippet": "In a significant move, KKR, Singtel, and Tata Communications are gearing up to offload STT Global Data Centres India, anticipating a valuation that could surpass $5.5 billion. This initiative underscores their intent to bolster capital and refine strategic objectives. With 34 data centres in operation, STT GDC India stands as a leading co-location service provider, well-poised to capitalize on the escalating appetite for data infrastructure amidst evolving tech trends.",
-      "snippet_ko": "KKR, 싱텔(Singtel), 타타 커뮤니케이션즈(Tata Communications)는 STT 글로벌 데이터 센터 인디아(STT Global Data Centres India)를 매각하기 위해 준비에 박차를 가하고 있으며, 이 회사의 기업 가치가 55억 달러를 넘어설 것으로 예상되는 가운데 이는 매우 중요한 움직임으로 평가된다. 이번 조치는 자본을 확충하고 전략적 목표를 재정립하려는 이들의 의지를 여실히 보여준다. 34개의 데이터 센터를 운영 중인 STT GDC 인도는 선도적인 코로케이션 서비스 제공업체로서, 변화하는 기술 트렌드 속에서 데이터 인프라에 대한 수요가 급증하는 상황을 효과적으로 활용할 수 있는 유리한 입지를 갖추고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/kkr-singtel-and-tata-communications-want-to-sell-data-centre-company-stt-gdc-india-for-over-5-5-billion/articleshow/135435827.cms",
-      "cross_verified": true,
-      "published_at": "2026-11-02T00:00:00.000000Z"
-    },
-    {
-      "title": "CSX (CSX) vs. UNP and NSC: Can New Leadership Turn Efficiency Gains Into Lasting Growth?",
-      "title_ko": "CSX(CSX) 대 UNP 및 NSC: 새로운 경영진이 효율성 향상을 지속적인 성장으로 이어갈 수 있을까?",
-      "snippet": "Is CSX a good stock to buy? We came across a bullish thesis on CSX Corporation on Astute Optics - US’s Substack. In this article, we will summarize the bulls’ thesis on CSX.",
-      "snippet_ko": "CSX는 매수할 만한 주식일까요? 저희는 Astute Optics - US의 Substack에서 CSX Corporation에 대한 낙관적인 분석을 발견했습니다. 이 글에서는 CSX에 대한 낙관론자들의 주장을 요약해 보겠습니다.",
-      "symbol": "",
-      "sentiment_score": 0.7785,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/csx-csx-vs-unp-and-nsc-can-new-leadership-turn-efficiency-gains-into-lasting-growth-1841870/",
-      "cross_verified": true,
-      "published_at": "2026-11-01T19:35:09.000000Z"
     }
   ],
   "portfolio_news": [
