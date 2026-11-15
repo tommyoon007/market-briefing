@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-14T23:47:03.820941+00:00",
+  "updated_at": "2026-11-15T05:53:10.696291+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Northeast Community Bancorp: Earnings And Asset Quality Are Suddenly A Small Concern (Rating Downgrade)",
+      "title_ko": "노스이스트 커뮤니티 뱅크코프: 실적과 자산 건전성은 갑자기 사소한 우려 사항으로 전락 (신용등급 하향 조정)",
+      "snippet": "Analyst rates Northeast Community Bancorp a Hold: four earnings misses and falling loan yields weaken growth; its 3.44% yield may appeal to holders.",
+      "snippet_ko": "한 애널리스트가 노스이스트 커뮤니티 뱅크코프에 ‘보유(Hold)’ 등급을 부여했다. 4회 연속 실적 부진과 대출 수익률 하락이 성장세를 약화시키고 있지만, 3.44%의 수익률은 주주들에게 매력적으로 다가올 수 있다.",
+      "symbol": "",
+      "sentiment_score": 0.1806,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4968343-northeast-community-bancorp-earnings-and-asset-quality-are-suddenly-a-small-concern",
+      "cross_verified": true,
+      "published_at": "2026-11-15T04:26:56.000000Z"
+    },
+    {
+      "title": "Flight Ground Stop Leaves Travelers Scrambling for Ways Home",
+      "title_ko": "항공편 운항 중단으로 여행객들, 귀가 방법을 찾아 분주히 움직이고 있다",
+      "snippet": "It was arguably one of the worst times for a nationwide flight grounding: Friday, late afternoon, just as people were heading to airports for weekend jaunts or to return home from business trips.",
+      "snippet_ko": "전국적인 항공편 운항 중단이 발생하기에는 아마도 최악의 시기 중 하나였을 것이다. 바로 금요일 늦은 오후, 사람들이 주말 여행을 떠나거나 출장에서 집으로 돌아가기 위해 공항으로 향하던 바로 그 시각이었다.",
+      "symbol": "",
+      "sentiment_score": -0.0363,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/news/us-news/flight-ground-stop-leaves-travelers-scrambling-for-ways-home-11794716343010.html",
+      "cross_verified": true,
+      "published_at": "2026-11-15T04:19:02.000000Z"
+    },
     {
       "title": "Altimmune, Inc. (ALT) Presents at American Association for the Study of Liver Diseases (AASLD) - The Liver Meeting 2026 - Slideshow",
       "title_ko": "Altimmune, Inc. (ALT), 미국간학회(AASLD) - ‘The Liver Meeting 2026’에서 발표 - 슬라이드 쇼",
@@ -1177,33 +1201,45 @@
       "url": "https://seekingalpha.com/article/4960726-financial-institutions-despite-disappointing-q3-big-picture-still-compelling",
       "cross_verified": true,
       "published_at": "2026-11-01T15:47:03.000000Z"
-    },
-    {
-      "title": "Lemonade loses fizz despite high growth",
-      "title_ko": "레모네이드, 높은 성장세에도 기세가 꺾이다",
-      "snippet": "The share price of Israeli digital insurance company fell 6.55% on Fridsay to its lowest level in more than a year.",
-      "snippet_ko": "이스라엘의 한 디지털 보험사의 주가는 금요일 6.55% 하락하며 1년여 만에 최저치를 기록했다.",
-      "symbol": "",
-      "sentiment_score": 0.0348,
-      "source": "en.globes.co.il",
-      "url": "https://en.globes.co.il/en/article-lemonade-loses-fizz-despite-high-growth-1001561619",
-      "cross_verified": true,
-      "published_at": "2026-11-01T15:32:03.000000Z"
-    },
-    {
-      "title": "Brandywine Realty Trust: The Philly Skyline Is Paying Me +10% (NYSE:BDN)",
-      "title_ko": "브랜디와인 리얼티 트러스트: 필라델피아의 스카이라인이 나에게 +10%의 수익을 안겨주고 있다 (NYSE:BDN)",
-      "snippet": "Brandywine Realty Trust looks deeply undervalued as asset sales, debt reduction, and strong office valuations boost upside. Read the full analysis of BDN here.",
-      "snippet_ko": "브랜디와인 리얼티 트러스트는 자산 매각, 부채 감축, 그리고 사무실 자산 가치의 강세가 상승 여력을 높여주면서 주가가 현저히 저평가된 것으로 보입니다. BDN에 대한 전체 분석은 여기에서 확인하세요.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960475-brandywine-realty-trust-philly-skyline-paying-me-10-percent",
-      "cross_verified": true,
-      "published_at": "2026-11-01T15:15:00.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Intel: Wall Street May Be Underestimating Its Comeback And Nvidia Opportunity (Upgrade)",
+      "title_ko": "인텔: 월스트리트가 인텔의 부활과 엔비디아 관련 기회를 과소평가하고 있을 수 있다 (투자의견 상향)",
+      "snippet": "Analyst rates Intel a Buy as Q3 data-center revenue rose 78% to $7.3 billion.",
+      "snippet_ko": "3분기 데이터센터 매출이 78% 증가한 73억 달러를 기록함에 따라, 한 애널리스트가 인텔에 ‘매수’ 등급을 부여했다.",
+      "symbol": "INTC",
+      "sentiment_score": 0.6296,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4968345-intel-wall-street-may-be-underestimating-its-comeback-nvidia-opportunity",
+      "cross_verified": true,
+      "published_at": "2026-11-15T04:57:18.000000Z"
+    },
+    {
+      "title": "US corporate bonds attract investors as stock market turbulence grows",
+      "title_ko": "주식 시장의 변동성이 커지면서 미국 기업채가 투자자들의 관심을 끌고 있다",
+      "snippet": "High-grade US company debt gained 1.2% from the end of September through Friday's close, according to Bloomberg Index total return data",
+      "snippet_ko": "블룸버그 지수의 총수익률 데이터에 따르면, 9월 말부터 금요일 장 마감 시점까지 미국 우량 기업 채권의 가격은 1.2% 상승했다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.2795,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/us-corporate-bonds-attract-investors-as-stock-market-turbulence-grows-126111500065_1.html",
+      "cross_verified": true,
+      "published_at": "2026-11-15T02:52:10.000000Z"
+    },
+    {
+      "title": "What We’re Reading (Week Ending 15 November 2026) : The Good Investors %",
+      "title_ko": "우리가 읽고 있는 책 (2026년 11월 15일 종료 주) : 《좋은 투자자들》 %",
+      "snippet": "The Good Investors What We’re Reading (Week Ending 15 November 2026) What We're Reading :",
+      "snippet_ko": "The Good Investors: 우리가 읽고 있는 글 (2026년 11월 15일 종료 주간) 우리가 읽고 있는 글:",
+      "symbol": "AVGO",
+      "sentiment_score": -0.0454,
+      "source": "thegoodinvestors.sg",
+      "url": "https://www.thegoodinvestors.sg/what-were-reading-week-ending-15-november-2026/",
+      "cross_verified": true,
+      "published_at": "2026-11-15T01:00:00.000000Z"
+    },
     {
       "title": "JPMorgan Loses Card Chief Allison Beer to ‘External Opportunity’",
       "title_ko": "JPMorgan, 카드 부문 책임자 앨리슨 비어가 ‘외부 기회’를 찾아 떠나",
@@ -2367,42 +2403,6 @@
       "url": "https://www.upsidetrader.com/2026/11/03/market-recap-11-3-26-amd-just-answered-the-ai-demand-question/",
       "cross_verified": true,
       "published_at": "2026-11-03T22:39:59.000000Z"
-    },
-    {
-      "title": "Market Open: ASX set to slip as investors weigh RBA rate hike",
-      "title_ko": "장 개장: 투자자들이 RBA의 금리 인상을 주시하면서 ASX는 하락세를 보일 전망",
-      "snippet": "Australian shares are expected to open lower on Wednesday, with SPI futures pointing to a softer start after yesterday's RBA decision.",
-      "snippet_ko": "호주 증시는 수요일 하락세로 출발할 것으로 예상되며, 어제 호주중앙은행(RBA)의 결정 이후 SPI 선물 지수가 약세 출발을 예고하고 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2929,
-      "source": "themarketherald.com.au",
-      "url": "https://themarketonline.com.au/market-open-asx-set-to-slip-as-investors-weigh-rba-rate-hike-2026-11-04/",
-      "cross_verified": true,
-      "published_at": "2026-11-03T22:14:52.000000Z"
-    },
-    {
-      "title": "Tech Sector Leads Gains as Earnings Season Intensifies on Election Day",
-      "title_ko": "선거일, 실적 발표 시즌이 본격화되면서 기술주가 상승세를 주도",
-      "snippet": "U.S. equity markets showed resilience on Tuesday, November 3rd, 2026, as investors balanced a heavy slate of corporate earnings against the backdrop of",
-      "snippet_ko": "2026년 11월 3일 화요일, 미국 주식 시장은 투자자들이 다음과 같은 배경 속에서 쏟아지는 기업 실적 발표를 종합적으로 평가함에 따라 탄탄한 모습을 보였습니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.264,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-sector-leads-gains-as-earnings-season-intensifies-on-election-day/74099/",
-      "cross_verified": true,
-      "published_at": "2026-11-03T22:07:12.000000Z"
-    },
-    {
-      "title": "Tech and Biotech Surge Leads Markets Higher Amid Heavy Earnings Volume",
-      "title_ko": "실적 발표가 쇄도하는 가운데, 기술주와 바이오테크주의 급등에 힘입어 시장이 상승세를 타고 있다",
-      "snippet": "U.S. equity markets showed resilience during Tuesday afternoon trading on November 3, 2026, as investors navigated a dense landscape of corporate earnings and",
-      "snippet_ko": "2026년 11월 3일 화요일 오후 거래에서 미국 주식 시장은 투자자들이 빽빽한 기업 실적 발표 일정을 헤쳐 나가는 가운데 탄력적인 모습을 보였으며,",
-      "symbol": "AAPL",
-      "sentiment_score": 0.5673,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-biotech-surge-leads-markets-higher-amid-heavy-earnings-volume/74089/",
-      "cross_verified": true,
-      "published_at": "2026-11-03T19:07:15.000000Z"
     }
   ]
 }
