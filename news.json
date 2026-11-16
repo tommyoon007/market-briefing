@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-15T23:52:41.502291+00:00",
+  "updated_at": "2026-11-16T05:52:40.550245+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Northland Power: From Construction Cycle To Cash Flow Compounder",
+      "title_ko": "노스랜드 파워: 건설 주기에서 현금 흐름 증대 기업으로",
+      "snippet": "Analyst sees Northland Power nearing a cash-flow inflection, with 9% annual free cash flow per share growth targeted through 2030.",
+      "snippet_ko": "한 애널리스트는 노스랜드 파워가 현금 흐름의 전환점을 앞두고 있으며, 2030년까지 주당 연간 자유 현금 흐름이 9% 성장할 것으로 전망했다.",
+      "symbol": "",
+      "sentiment_score": 0.2673,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4968457-northland-power-from-construction-cycle-to-cash-flow-compounder",
+      "cross_verified": true,
+      "published_at": "2026-11-16T04:44:00.000000Z"
+    },
+    {
+      "title": "Airbus, Boeing supply-chain shift boosts India’s aerospace stocks",
+      "title_ko": "에어버스와 보잉의 공급망 재편으로 인도 항공우주주주가 상승세를 타고 있다",
+      "snippet": "India’s aerospace supply-chain shift to Airbus and Boeing lifts local suppliers, boosting stocks by over 100% year‑to‑date.",
+      "snippet_ko": "인도의 항공우주 공급망이 에어버스와 보잉으로 전환되면서 현지 공급업체들이 호조를 보였고, 이에 따라 주가는 연초 대비 100% 이상 급등했다.",
+      "symbol": "",
+      "sentiment_score": 0.2611,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/airbus-boeing-supply-chain-shift-boosts-indias-aerospace-stocks/article71706736.ece",
+      "cross_verified": true,
+      "published_at": "2026-11-16T04:29:01.000000Z"
+    },
     {
       "title": "Oki Electric Industry Co., Ltd. 2027 Q2 - Results - Earnings Call Presentation",
       "title_ko": "오키 전기공업 주식회사 2027년 2분기 - 실적 - 실적 설명회 발표 자료",
@@ -1177,33 +1201,33 @@
       "url": "https://www.gurufocus.com/news/9161514/nuveen-enhanced-yield-us-aggregate-bond-etf-nuag-declares-00755-dividend-with-541-sec-yield",
       "cross_verified": true,
       "published_at": "2026-11-02T08:56:16.000000Z"
-    },
-    {
-      "title": "Share buybacks in Ericsson during the period October 26 - October 30, 2026",
-      "title_ko": "2026년 10월 26일부터 10월 30일까지의 에릭슨 자사주 매입 현황",
-      "snippet": "/PRNewswire/ -- During the period October 26 - October 30, 2026, Telefonaktiebolaget LM Ericsson (publ) (\"Ericsson\") (LEI code 549300W9JLPW15XIFM52)...",
-      "snippet_ko": "/PRNewswire/ -- 2026년 10월 26일부터 10월 30일까지, Telefonaktiebolaget LM Ericsson (publ)(이하 “에릭슨”)(LEI 코드 549300W9JLPW15XIFM52)...",
-      "symbol": "",
-      "sentiment_score": 0.5267,
-      "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/apac/news-releases/share-buybacks-in-ericsson-during-the-period-october-26---october-30-2026-302926149.html",
-      "cross_verified": true,
-      "published_at": "2026-11-02T08:25:00.000000Z"
-    },
-    {
-      "title": "HUTCHMED Announces Regulatory Filings Accepted for Review for ORPATHYS® plus TAGRISSO® in MET-Driven EGFR-Mutated Lung Cancer in Europe and Japan",
-      "title_ko": "HUTCHMED, 유럽 및 일본에서 MET 유발 EGFR 돌연변이 폐암에 대한 ORPATHYS®와 TAGRISSO® 병용 요법의 규제 신청서가 심사 접수되었다고 발표",
-      "snippet": "- Follows US FDA new drug application submission in September 2026, marking important global regulatory progress -",
-      "snippet_ko": "- 2026년 9월 미국 FDA에 신약 허가 신청서를 제출함에 따라, 글로벌 규제 측면에서 중요한 진전을 이루게 되었습니다 -",
-      "symbol": "",
-      "sentiment_score": 0.3198,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/11/02/tmt-newswire/globenewswire/hutchmed-announces-regulatory-filings-accepted-for-review-for-orpathys-plus-tagrisso-in-met-driven-egfr-mutated-lung-cancer-in-europe-and-japan/2459058",
-      "cross_verified": true,
-      "published_at": "2026-11-02T00:21:09.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Anthropic IPO: Why Google’s 13% stake and Big Tech’s $900-billion AI bet hinge on Claude maker’s success",
+      "title_ko": "앤트로픽(Anthropic)의 기업공개(IPO): 구글의 지분 13%와 빅테크 기업들의 9,000억 달러 규모 AI 투자가 ‘클로드(Claude)’ 개발사의 성공에 달려 있는 이유",
+      "snippet": "Anthropic’s planned IPO has become a major test for the AI industry, with tech giants investing $26 billion at the expected offering price and holding stakes in the company.",
+      "snippet_ko": "앤트로픽의 예정된 기업공개(IPO)는 AI 업계에 있어 중요한 시험대가 되었는데, 기술 대기업들이 예상 공모가를 기준으로 260억 달러를 투자하고 이 회사의 지분을 보유하고 있기 때문이다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.3,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/news/anthropic-ipo-why-google-s-13-stake-and-big-tech-s-900-billion-ai-bet-hinge-on-claude-maker-s-success-decoded-11794798914261.html",
+      "cross_verified": true,
+      "published_at": "2026-11-16T05:07:11.000000Z"
+    },
+    {
+      "title": "Nifty, Sensex open higher despite Wall Street selloff; TMPV leads losses",
+      "title_ko": "월가 매도세에도 불구하고 니프티·센섹스 지수 상승 출발… TMPV가 하락폭을 주도",
+      "snippet": "Indian shares open higher with Nifty at 25,257, led by Eicher Motors; TMPV tops losses as global cues loom.",
+      "snippet_ko": "아이처 모터스의 호조에 힘입어 인도 증시가 상승세로 출발했으며, 니프티 지수는 25,257을 기록했습니다. 한편, 글로벌 시장 동향에 대한 우려가 커지면서 TMPV가 가장 큰 하락폭을 기록했습니다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.0726,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/markets/nifty-sensex-open-higher-despite-wall-street-selloff-tmpv-leads-losses/article71706752.ece",
+      "cross_verified": true,
+      "published_at": "2026-11-16T04:14:55.000000Z"
+    },
     {
       "title": "ULA Vulcan Rocket Launches With Its First Amazon Leo Payload",
       "title_ko": "ULA의 벌컨 로켓, 첫 번째 아마존 LEO 탑재체를 실고 발사",
@@ -2379,30 +2403,6 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-communication-sectors-lead-gains-as-earnings-season-hits-high-gear/74164/",
       "cross_verified": true,
       "published_at": "2026-11-04T22:07:17.000000Z"
-    },
-    {
-      "title": "Coca-Cola Consolidated Reports Third Quarter and First Nine Months 2026 Results",
-      "title_ko": "코카콜라 컨솔리데이티드, 2026년 3분기 및 1~9개월 실적 발표",
-      "snippet": "Third quarter of 2026 net sales increased 5% versus the third quarter of 2025.Gross profit in the third quarter of 2026 was $772 million, an increase of 3%(a).Income from operations for the third quarter of 2026 was $272 million, an increase of $25 million, or 10%. Operating margin for the third quarter of 2026 increased 60 basis points to 13.7%.For the first nine months of 2026, income from operations was $780 million, an increase of $72 million, or 10%; adjusted(b) income from operations increased 5%.Key Results Third Quarter First Nine Months (in millions) 2026 2025 Change 2026 2025 ChangeVolume(1) 94.2 92.8 1.4% 278.8 260.3 7.1%Net sales $1,989.5 $1,888.3 5.4% $5,888.6 $5,323.8 10.6%Gross profit $771.6 $748.5 3.1% $2,277.1 $2,118.1 7.5%Gross margin 38.8 % 39.6 % 38.7 % 39.8 % Income from operations $271.6 $246.6 10.1% $780.5 $708.5 10.1%Operating margin 13.7 % 13.1 % 13.3 % 13.3 % Beverage Sales Third Quarter First Nine Months (in millions) 2026 2025 Change 2026 2025 ChangeSparkling bottle/can $1,130.9 $1,083.1 4.4% $3,405.0 $3,096.9 9.9%Still bottle/can $687.2 $643.3 6.8% $1,990.2 $1,778.5 11.9% (1) Volume is measured on a standard physical case basis and is used to standardize differing package configurations delivered via direct store delivery.",
-      "snippet_ko": "2026년 3분기 순매출은 2025년 3분기 대비 5% 증가했습니다.2026년 3분기 매출총이익은 7억 7,200만 달러로, 3%(a) 증가했습니다. 2026년 3분기 영업이익은 2억 7,200만 달러로, 2,500만 달러(10%) 증가했습니다. 2026년 3분기 영업이익률은 60베이시스포인트 상승한 13.7%를 기록했습니다. 2026년 첫 9개월 동안의 영업이익은 7억 8,000만 달러로, 7,200만 달러(10%) 증가했으며, 조정(b) 영업이익은",
-      "symbol": "KO",
-      "sentiment_score": 0.2608,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/11/05/tmt-newswire/globenewswire/coca-cola-consolidated-reports-third-quarter-and-first-nine-months-2026-results/2462250",
-      "cross_verified": true,
-      "published_at": "2026-11-04T21:35:16.000000Z"
-    },
-    {
-      "title": "Jim Cramer says this bank stock is a buy after its post-election pullback",
-      "title_ko": "짐 크레이머는 선거 이후 주가가 조정세를 보인 이 은행주를 매수할 만한 종목이라고 말했다.",
-      "snippet": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "snippet_ko": "투자 동아리는 평일 매일 오전 10시 20분(미국 동부 표준시)에 “모닝 미팅”을 개최합니다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.7135,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/investingclub/2026/11/04/cramer-says-this-bank-stock-is-a-buy-after-its-post-election-pullback.html",
-      "cross_verified": true,
-      "published_at": "2026-11-04T16:54:39.000000Z"
     }
   ]
 }
