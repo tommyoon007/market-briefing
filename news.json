@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-16T05:52:40.550245+00:00",
+  "updated_at": "2026-11-16T15:25:26.634171+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Terreno Realty (TRNO) Secures 57,000 Sq Ft Lease in Oakland for Renewable Energy Manufacturing",
+      "title_ko": "테레노 리얼티(TRNO), 오클랜드에서 재생에너지 제조 시설용 57,000 제곱피트 규모 임대 계약 체결",
+      "snippet": "On November 16, 2026, Terreno Realty Corp (NYSE: TRNO) announced the signing of a lease agreement for a 57,000 square foot industrial facility in Oakland, Calif",
+      "snippet_ko": "2026년 11월 16일, 테레노 리얼티 코퍼레이션(Terreno Realty Corp, NYSE: TRNO)은 캘리포니아주 오클랜드에 위치한 57,000제곱피트 규모의 산업용 시설에 대한 임대차 계약 체결을 발표했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.5969,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9201666/terreno-realty-trno-secures-57000-sq-ft-lease-in-oakland-for-renewable-energy-manufacturing",
+      "cross_verified": true,
+      "published_at": "2026-11-16T14:54:53.000000Z"
+    },
+    {
+      "title": "Nike (NKE) Unveils New Product Innovations at World of Athletes Event",
+      "title_ko": "나이키(NKE), ‘월드 오브 애슬리트’ 행사에서 신제품 혁신 기술 공개",
+      "snippet": "On November 16, 2026, Nike Inc. (NYSE: NKE) showcased a preview of its latest advancements in footwear, sportswear, and performance apparel during its World of",
+      "snippet_ko": "2026년 11월 16일, 나이키(Nike Inc., NYSE: NKE)는 ‘월드 오브(World of)’ 행사에서 신발, 스포츠웨어, 퍼포먼스 의류 분야의 최신 기술 발전을 미리 선보였습니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9201664/nike-nke-unveils-new-product-innovations-at-world-of-athletes-event",
+      "cross_verified": true,
+      "published_at": "2026-11-16T14:53:59.000000Z"
+    },
+    {
+      "title": "Jackson Financial (JXN) Launches AARP Annuity Program for Targeted Retirement Solutions",
+      "title_ko": "잭슨 파이낸셜(JXN), 맞춤형 은퇴 솔루션을 위한 AARP 연금 프로그램 출시",
+      "snippet": "On November 16, 2026, Jackson National Life Insurance Company announced the launch of its new AARP Annuity Program, offering specialized annuity products to AAR",
+      "snippet_ko": "2026년 11월 16일, 잭슨 내셔널 생명보험사는 AARP를 대상으로 특화된 연금 상품을 제공하는 새로운 ‘AARP 연금 프로그램’의 출시를 발표했습니다.",
+      "symbol": "",
+      "sentiment_score": 0.456,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9201663/jackson-financial-jxn-launches-aarp-annuity-program-for-targeted-retirement-solutions",
+      "cross_verified": true,
+      "published_at": "2026-11-16T14:53:34.000000Z"
+    },
     {
       "title": "Northland Power: From Construction Cycle To Cash Flow Compounder",
       "title_ko": "노스랜드 파워: 건설 주기에서 현금 흐름 증대 기업으로",
@@ -1165,45 +1201,45 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/dow-gains-momentum-as-energy-slumps-tech-braces-for-apple-earnings/74024/",
       "cross_verified": true,
       "published_at": "2026-11-02T19:07:15.000000Z"
-    },
-    {
-      "title": "True Corporation Public Company Limited (TCPFF) Q3 2026 Earnings Call Transcript",
-      "title_ko": "트루 코퍼레이션 퍼블릭 컴퍼니 리미티드(TCPFF) 2026년 3분기 실적 발표 회의록",
-      "snippet": "True Corporation Public Company Limited (TCPFF) Q3 2026 Earnings Call November 2, 2026 3:00 AM ESTCompany ParticipantsNaureen Quayum - Head of Investor...",
-      "snippet_ko": "트루 코퍼레이션 퍼블릭 컴퍼니 리미티드(TCPFF) 2026년 3분기 실적 발표 전화회의 2026년 11월 2일 오전 3:00 (미국 동부 표준시) 회사 참가자: 나우린 콰윔 - 투자자 관계 책임자...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4960912-true-corporation-public-company-limited-tcpff-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-11-02T18:58:35.000000Z"
-    },
-    {
-      "title": "Nuveen Enhanced Yield 1-5 Year U.S. Aggregate Bond ETF (NUSA) Declares $0.0802 Dividend with 4.75% SEC Yield",
-      "title_ko": "누빈(Nuveen) 엔핸스드 예일드 1~5년 만기 미국 종합 채권 ETF(NUSA)가 0.0802달러의 배당금을 선언했으며, SEC 기준 수익률은 4.75%입니다.",
-      "snippet": "On November 02, 2026, Nuveen Enhanced Yield 1-5 Year U.S. Aggregate Bond ETF (ticker: NUSA) announced a dividend payment of $0.0802 per share. The dividend will",
-      "snippet_ko": "2026년 11월 2일, Nuveen Enhanced Yield 1-5 Year U.S. Aggregate Bond ETF(티커: NUSA)는 주당 0.0802달러의 배당금 지급을 발표했습니다. 이 배당금은",
-      "symbol": "",
-      "sentiment_score": 0.3066,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9161523/nuveen-enhanced-yield-15-year-us-aggregate-bond-etf-nusa-declares-00802-dividend-with-475-sec-yield",
-      "cross_verified": true,
-      "published_at": "2026-11-02T08:58:25.000000Z"
-    },
-    {
-      "title": "Nuveen Enhanced Yield U.S. Aggregate Bond ETF (NUAG) Declares $0.0755 Dividend with 5.41% SEC Yield",
-      "title_ko": "누빈(Nuveen) 엔핸스드 예일드 미국 종합 채권 ETF(NUAG), 0.0755달러 배당금 선언… SEC 기준 수익률 5.41%",
-      "snippet": "On November 02, 2026, the Nuveen Enhanced Yield U.S. Aggregate Bond ETF (ticker: NUAG) announced a dividend payment of $0.0755 per share. The dividend will be p",
-      "snippet_ko": "2026년 11월 2일, Nuveen Enhanced Yield U.S. Aggregate Bond ETF(티커: NUAG)는 주당 0.0755달러의 배당금 지급을 발표했습니다. 이 배당금은 p",
-      "symbol": "",
-      "sentiment_score": 0.3256,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9161514/nuveen-enhanced-yield-us-aggregate-bond-etf-nuag-declares-00755-dividend-with-541-sec-yield",
-      "cross_verified": true,
-      "published_at": "2026-11-02T08:56:16.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Global Markets React to Diplomatic Shifts and Tech Expansion",
+      "title_ko": "세계 시장, 외교적 변화와 기술 산업 확장에 반응",
+      "snippet": "Global energy markets saw significant relief as Brent crude prices retreated to $93.92 per barrel. The 2% decline is primarily attributed to the stabilization",
+      "snippet_ko": "브렌트유 가격이 배럴당 93.92달러로 하락하면서 세계 에너지 시장에 상당한 안도감이 감돌았다. 2% 하락은 주로 시장 상황이 안정화된 데 기인한다.",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.8126,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/global-markets-react-to-diplomatic-shifts-and-tech-expansion/74764/",
+      "cross_verified": true,
+      "published_at": "2026-11-16T14:38:17.000000Z"
+    },
+    {
+      "title": "[Earnings]Nvidia and Retail Leaders Headline Upcoming Earnings Week",
+      "title_ko": "[실적] 엔비디아와 소매업계 주요 기업들, 다가오는 실적 발표 주간의 주목받는 기업들",
+      "snippet": "Nvidia Corp and Palo Alto Networks anchor a high-impact Wednesday after close, following a morning surge in retail from TJX Companies and Lowe's",
+      "snippet_ko": "TJX 컴퍼니스와 로우즈의 주가로 인해 오전 중 소매주들이 급등한 데 이어, 엔비디아(Nvidia Corp)와 팔로알토 네트웍스(Palo Alto Networks)가 수요일 장 마감 후 큰 파장을 일으키고 있다.",
+      "symbol": "DIS",
+      "sentiment_score": 0.0,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/earningsnvidia-and-retail-leaders-headline-upcoming-earnings-week/74762/",
+      "cross_verified": true,
+      "published_at": "2026-11-16T14:12:36.000000Z"
+    },
+    {
+      "title": "Tech Sector Under Pressure as Nvidia and AMD Slide Ahead of Crucial Earnings Week",
+      "title_ko": "중요한 실적 발표 주간을 앞두고 엔비디아와 AMD 주가가 하락하며 기술주가 압박을 받고 있다",
+      "snippet": "U.S. stock futures and premarket activity indicate a cautious start to the trading week on Monday, November 16th, 2026. Investors are navigating a complex",
+      "snippet_ko": "미국 주식 선물과 장전 거래 동향을 보면, 2026년 11월 16일 월요일 이번 주 거래가 신중한 분위기로 시작될 것으로 보인다. 투자자들은 복잡한 상황을 헤쳐 나가고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3297,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-sector-under-pressure-as-nvidia-and-amd-slide-ahead-of-crucial-earnings-week/74758/",
+      "cross_verified": true,
+      "published_at": "2026-11-16T14:07:11.000000Z"
+    },
     {
       "title": "Anthropic IPO: Why Google’s 13% stake and Big Tech’s $900-billion AI bet hinge on Claude maker’s success",
       "title_ko": "앤트로픽(Anthropic)의 기업공개(IPO): 구글의 지분 13%와 빅테크 기업들의 9,000억 달러 규모 AI 투자가 ‘클로드(Claude)’ 개발사의 성공에 달려 있는 이유",
@@ -2367,42 +2403,6 @@
       "url": "https://www.business-standard.com/technology/tech-news/apple-lowers-internal-ai-usage-budgets-in-move-to-reduce-spending-126110500120_1.html",
       "cross_verified": true,
       "published_at": "2026-11-05T03:18:50.000000Z"
-    },
-    {
-      "title": "Stocks surge, and the Dow soars 1,500 points as oil prices tumble following the US midterm elections",
-      "title_ko": "미국 중간선거 이후 유가가 급락하면서 주가가 급등했고, 다우지수는 1,500포인트나 치솟았다",
-      "snippet": "NEW YORK — US stocks soared Wednesday after President Donald Trump’s party lost its sole control of Washington in the midterm elections.",
-      "snippet_ko": "뉴욕 — 도널드 트럼프 대통령의 소속 정당이 중간선거에서 워싱턴에 대한 단독 지배권을 잃은 후, 수요일 미국 증시가 급등했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.0336,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/11/05/business/foreign-business/stocks-surge-and-the-dow-soars-1500-points-as-oil-prices-tumble-following-the-us-midterm-elections/2462425",
-      "cross_verified": true,
-      "published_at": "2026-11-05T03:05:19.000000Z"
-    },
-    {
-      "title": "Market Open: ASX set for sharp rebound as Wall Street rallies and oil tumbles",
-      "title_ko": "시장 개장: 월가 상승세와 유가 급락에 힘입어 ASX, 급반등 전망",
-      "snippet": "The Australian sharemarket is poised for a strong rebound today, with ASX 200 futures pointing to a near two per cent jump.",
-      "snippet_ko": "호주 증시는 오늘 강력한 반등을 보일 전망이며, ASX 200 선물 지수는 2%에 가까운 상승세를 예고하고 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": -0.2335,
-      "source": "themarketherald.com.au",
-      "url": "https://themarketonline.com.au/market-open-asx-set-for-sharp-rebound-as-wall-street-rallies-and-oil-tumbles-2026-11-05/",
-      "cross_verified": true,
-      "published_at": "2026-11-04T22:11:33.000000Z"
-    },
-    {
-      "title": "Tech and Communication Sectors Lead Gains as Earnings Season Hits High Gear",
-      "title_ko": "실적 발표 시즌이 본격화되면서 기술 및 통신 부문이 상승세를 주도하고 있다",
-      "snippet": "U.S. equity markets showed modest resilience on Wednesday, November 4th, 2026, as investors navigated a heavy slate of corporate earnings and prepared for",
-      "snippet_ko": "2026년 11월 4일 수요일, 미국 주식 시장은 투자자들이 잇달아 발표된 기업 실적 발표를 주시하고 다음을 대비하는 가운데 소폭의 회복세를 보였다.",
-      "symbol": "TSLA",
-      "sentiment_score": 0.0564,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-communication-sectors-lead-gains-as-earnings-season-hits-high-gear/74164/",
-      "cross_verified": true,
-      "published_at": "2026-11-04T22:07:17.000000Z"
     }
   ]
 }
