@@ -21,11 +21,15 @@ DEEPL_URL = "https://api-free.deepl.com/v2/translate"
 # 보유 종목
 # =========================================================
 
+# MarketAux 한 번의 요청에 넣는 종목 수 (API 제한을 피하려고 나눠서 호출)
+SYMBOLS_PER_REQUEST = 20
+
+
 PORTFOLIO_SYMBOLS = {
-    "AAPL", "MSFT", "TSLA", "SMH", "GOOGL", "AMZN", "SOXX", "META", "MSTR",
+    "AAPL", "MSFT", "SMH", "GOOGL", "AMZN", "SOXX", "META", "MSTR",
     "DIS", "MRK", "NVDA", "AVGO", "V", "MA", "INTC", "KO",
-    "MORT", "BMNR", "MP", "AMSC", "GFUZ", "DKNG", "AMADA", "PLTR",
-    "MCD", "NFLX", "DJT", "CEG", "USD", "KRW"
+    "MORT", "BMNR", "MP", "AMSC", "GFUZ", "DKNG", "XRPN", "PLTR",
+    "MCD", "NFLX", "DJT", "CEG", "BWXT", "ROBO"
 }
 
 
@@ -356,45 +360,70 @@ def fetch_data():
 
     articles = []
 
-    target_symbols = [
-        s
-        for s in sorted(PORTFOLIO_SYMBOLS)
-        if s not in {"USD", "KRW"}
-    ][:20]
+    # 보유 종목 전체를 SYMBOLS_PER_REQUEST개씩 나눠서 요청
+    # (이전에는 [:20]으로 잘라서 알파벳 뒤쪽 종목이 누락됐음)
+    target_symbols = sorted(PORTFOLIO_SYMBOLS)
 
-    # 보유 종목 뉴스
-    p1 = {
-        "api_token": API_TOKEN,
-        "language": "en",
-        "limit": 50,
-        "symbols": ",".join(target_symbols)
-    }
+    symbol_chunks = [
+        target_symbols[i:i + SYMBOLS_PER_REQUEST]
+        for i in range(0, len(target_symbols), SYMBOLS_PER_REQUEST)
+    ]
 
-    try:
+    print(
+        f"📊 보유 종목 {len(target_symbols)}개를 "
+        f"{len(symbol_chunks)}회 요청으로 나눠 조회합니다."
+    )
 
-        r1 = requests.get(
-            API_URL,
-            params=p1,
-            timeout=20
-        )
+    for idx, chunk in enumerate(symbol_chunks, start=1):
+
+        if not chunk:
+            continue
+
+        p1 = {
+            "api_token": API_TOKEN,
+            "language": "en",
+            "limit": 50,
+            "symbols": ",".join(chunk)
+        }
 
         print(
-            f"📡 보유 종목 뉴스 API: HTTP {r1.status_code}"
+            f"🔎 요청 {idx}/{len(symbol_chunks)}: "
+            f"{len(chunk)}개 종목 ({chunk[0]}~{chunk[-1]})"
         )
 
-        if r1.status_code == 200:
+        try:
 
-            articles.extend(
-                r1.json().get("data") or []
+            r1 = requests.get(
+                API_URL,
+                params=p1,
+                timeout=20
             )
 
-        else:
+            print(
+                f"📡 보유 종목 뉴스 API 요청 "
+                f"{idx}/{len(symbol_chunks)}: HTTP {r1.status_code}"
+            )
 
-            print(r1.text[:500])
+            if r1.status_code == 200:
 
-    except Exception as e:
+                chunk_articles = r1.json().get("data") or []
 
-        print(f"⚠️ 보유 종목 뉴스 수집 실패: {e}")
+                print(
+                    f"   → 수집 후보 {len(chunk_articles)}건"
+                )
+
+                articles.extend(chunk_articles)
+
+            else:
+
+                print(r1.text[:500])
+
+        except Exception as e:
+
+            print(
+                f"⚠️ 보유 종목 뉴스 수집 실패 "
+                f"(요청 {idx}/{len(symbol_chunks)}): {e}"
+            )
 
     # 전체 시장 뉴스
     p2 = {
