@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-17T00:06:28.431678+00:00",
+  "updated_at": "2026-11-17T10:27:47.955287+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Xcel Brands outlines $7M average annual royalty run rate per brand by 2030 while targeting 2-3 new brand commercializations by Q4 2027",
+      "title_ko": "Xcel Brands는 2030년까지 브랜드당 연평균 700만 달러의 로열티 매출을 달성할 계획이며, 2027년 4분기까지 2~3개의 신규 브랜드를 상용화하는 것을 목표로 하고 있다.",
+      "snippet": "Xcel Brands reports Q3 revenue of $1.1 million, flat year over year, and a $2.4 million net loss; QVC delays cost about $1 million in 2026 royalties.",
+      "snippet_ko": "Xcel Brands는 3분기 매출이 전년 동기 대비 변동이 없는 110만 달러를 기록했으며, 240만 달러의 순손실을 보고했다. QVC와의 계약 지연으로 인해 2026년 로열티 수입이 약 100만 달러 감소할 전망이다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4673517-xcel-brands-outlines-7m-average-annual-royalty-run-rate-per-brand-by-2030-while-targeting",
+      "cross_verified": true,
+      "published_at": "2026-11-17T09:16:36.000000Z"
+    },
+    {
+      "title": "Nomura Predicts Yield Spread Expansion for South Korean Bonds by 2027",
+      "title_ko": "노무라, 2027년까지 한국 국채 수익률 스프레드 확대 전망",
+      "snippet": "On November 17, 2026, Nomura Securities released a forecast indicating that the yield spread between South Korea's 2-year and 10-year government bonds is expect",
+      "snippet_ko": "2026년 11월 17일, 노무라 증권은 한국의 2년물과 10년물 국채 간 수익률 스프레드가",
+      "symbol": "",
+      "sentiment_score": 0.512,
+      "source": "gurufocus.com",
+      "url": "https://www.gurufocus.com/news/9204464/nomura-predicts-yield-spread-expansion-for-south-korean-bonds-by-2027",
+      "cross_verified": true,
+      "published_at": "2026-11-17T09:14:58.000000Z"
+    },
+    {
+      "title": "Oracle Fusion Cloud HCM Review 2026: Pricing, Pros & Cons",
+      "title_ko": "오라클 퓨전 클라우드 HCM 리뷰 2026: 가격, 장점 및 단점",
+      "snippet": "Oracle Fusion Cloud HCM review: list price from $15 per employee a month, 500 minimum. Best for large global employers.",
+      "snippet_ko": "오라클 퓨전 클라우드 HCM 리뷰: 직원 1인당 월 15달러부터 시작하는 정가, 최소 500명 이상. 대규모 글로벌 기업에 가장 적합합니다.",
+      "symbol": "",
+      "sentiment_score": 0.3941,
+      "source": "leadchangegroup.com",
+      "url": "https://leadchangegroup.com/software/oracle-hcm/",
+      "cross_verified": true,
+      "published_at": "2026-11-17T09:14:09.000000Z"
+    },
     {
       "title": "Vivos Therapeutics Reports Third Quarter 2026 Financial Results and Provides Operational Update",
       "title_ko": "비보스 테라퓨틱스, 2026년 3분기 실적 발표 및 사업 현황 업데이트",
@@ -1165,45 +1201,69 @@
       "url": "https://seekingalpha.com/article/4961576-shopify-inc-shop-q3-2026-earnings-call-transcript",
       "cross_verified": true,
       "published_at": "2026-11-03T18:05:55.000000Z"
-    },
-    {
-      "title": "Paris Jackson net worth: How rich is Michael Jackson’s daughter as she seeks $600 million from father's estate after 17 years?",
-      "title_ko": "파리스 잭슨의 순자산: 17년 만에 아버지의 유산에서 6억 달러를 요구하고 있는 마이클 잭슨의 딸은 과연 얼마나 부유할까?",
-      "snippet": "Paris Jackson has approached a Los Angeles court seeking a $600 million transfer from her late father Michael Jackson's estate to a family trust meant for her and her two brothers. She argues that the trust has remained unfunded for more than 17 years despite the estate generating billions of dollars. The estate has disputed her allegations, citing ongoing legal issues with the IRS.",
-      "snippet_ko": "패리스 잭슨은 고(故) 아버지 마이클 잭슨의 유산에서 자신과 두 형제를 위해 마련된 가족 신탁으로 6억 달러를 이체해 줄 것을 요청하며 로스앤젤레스 법원에 소송을 제기했다. 그녀는 유산에서 수십억 달러가 창출되었음에도 불구하고 해당 신탁에 자금이 투입되지 않은 지 17년 이상 지났다고 주장하고 있다. 유산 관리 측은 국세청(IRS)과의 법적 분쟁이 진행 중이라는 점을 들어 그녀의 주장을 반박했다.",
-      "symbol": "",
-      "sentiment_score": 0.5106,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/paris-jackson-net-worth-how-rich-is-michael-jacksons-daughter-as-she-seeks-600-million-from-fathers-estate-after-17-years/articleshow/135492652.cms",
-      "cross_verified": true,
-      "published_at": "2026-11-03T10:56:51.000000Z"
-    },
-    {
-      "title": "How to invest for a coming stock-market rally: Morgan Stanley",
-      "title_ko": "다가올 주식 시장 상승세에 대비한 투자 전략: 모건 스탠리",
-      "snippet": "Things could soon be looking up for investors after enduring much of the S&P 500 endured a rough patch since the summer.",
-      "snippet_ko": "올여름 이후 S&P 500 지수의 상당수가 힘든 시기를 겪은 가운데, 투자자들에게는 조만간 상황이 호전될 조짐이 보이고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "businessinsider.com",
-      "url": "https://www.businessinsider.com/where-to-invest-for-stock-market-rally-breadth-sp500-2026-11",
-      "cross_verified": true,
-      "published_at": "2026-11-03T10:20:01.000000Z"
-    },
-    {
-      "title": "Jazz Pharmaceuticals plc (JAZZ) Q3 2026 Earnings Call Transcript",
-      "title_ko": "재즈 파마슈티컬스 plc (JAZZ) 2026년 3분기 실적 발표 회의록",
-      "snippet": "Jazz Pharmaceuticals plc (JAZZ) Q3 2026 Earnings Call November 2, 2026 4:30 PM ESTCompany ParticipantsJohn Bluth - Head of Investor RelationsRenée Galá -...",
-      "snippet_ko": "재즈 파마슈티컬스 plc (JAZZ) 2026년 3분기 실적 발표 전화회의, 2026년 11월 2일 오후 4시 30분(미국 동부 표준시) 회사 참가자: 존 블루스 - 투자자 관계 책임자, 르네 갈라 -...",
-      "symbol": "",
-      "sentiment_score": 0.3087,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4961232-jazz-pharmaceuticals-plc-jazz-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-11-03T02:58:27.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Nvidia rules out Huang comeback amid return campaign",
+      "title_ko": "엔비디아, 복귀 운동이 한창인 가운데 황의 복귀 가능성 일축",
+      "snippet": "Nvidia's board is not weighing a return for Jensen Huang as CEO, three people told Reuters, despite a growing campaign for his return days after affairs involving employees and suspected Chinese intelligence ties forced his resignation.",
+      "snippet_ko": "로이터 통신에 따르면, 직원들과 관련된 사건 및 중국 정보기관과의 연루 의혹으로 인해 젠슨 황이 사임한 지 며칠 만에 그의 복귀를 요구하는 목소리가 커지고 있음에도 불구하고, 엔비디아 이사회는 그를 CEO로 복귀시키는 방안을 검토하고 있지 않은 것으로 세 명의 소식통이 전했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.351,
+      "source": "rte.ie",
+      "url": "https://www.rte.ie/news/business/2026/1117/1599496-nvidia-rules-out-huang-comeback/",
+      "cross_verified": true,
+      "published_at": "2026-11-17T07:39:48.000000Z"
+    },
+    {
+      "title": "Robert Pattinson named next James Bond as Amazon MGM reboots franchise",
+      "title_ko": "아마존과 MGM이 제임스 본드 시리즈를 재출시함에 따라 로버트 패틴슨이 차기 제임스 본드로 선정됐다",
+      "snippet": "The 40-year-old actor will lead the first Bond film since Amazon took full creative control, with Denis Villeneuve set to direct and Amy Pascal and David Heyman producing",
+      "snippet_ko": "40세의 이 배우는 아마존이 창작에 대한 전적인 통제권을 확보한 이후 처음으로 제작되는 본드 영화의 주연을 맡게 되며, 데니스 빌뇌브가 감독을, 에이미 파스칼과 데이비드 헤이먼이 제작을 맡을 예정이다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.6173,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/entertainment/robert-pattinson-named-next-james-bond-as-amazon-mgm-reboots-franchise-126111700428_1.html",
+      "cross_verified": true,
+      "published_at": "2026-11-17T07:08:02.000000Z"
+    },
+    {
+      "title": "ETO Markets Launches US Stock CFDs, Expanding Global Multi Asset Trading Opportunities",
+      "title_ko": "ETO Markets, 미국 주식 CFD 출시… 글로벌 다중 자산 거래 기회 확대",
+      "snippet": "/PRNewswire/ -- The US stock market remains one of the world's most influential financial markets, home to many of the companies driving global innovation,...",
+      "snippet_ko": "/PRNewswire/ -- 미국 주식 시장은 여전히 세계에서 가장 영향력 있는 금융 시장 중 하나로, 글로벌 혁신을 주도하는 수많은 기업들이 이곳에 자리 잡고 있으며,...",
+      "symbol": "AAPL",
+      "sentiment_score": 0.0772,
+      "source": "prnewswire.com",
+      "url": "https://www.prnewswire.com/apac/news-releases/eto-markets-launches-us-stock-cfds-expanding-global-multi-asset-trading-opportunities-302941642.html",
+      "cross_verified": true,
+      "published_at": "2026-11-17T06:48:00.000000Z"
+    },
+    {
+      "title": "Anthropic debuts to skeptics and dogged believers: Mike Dolan",
+      "title_ko": "안트로픽, 회의론자와 확고한 지지자들 앞에서 첫 선을 보이다: 마이크 돌란",
+      "snippet": "The Claude developer's bumper initial public offering (IPO) is set to price on Wednesday before trading begins the following day. In the rush to go public before rival ChatGPT owner OpenAI, it has been caught in a volatility storm that's seen some $2 trillion wiped off AI chip giant and ubiquitous AI financier Nvidia's market value in just six weeks.",
+      "snippet_ko": "클로드(Claude) 개발사의 대대적인 기업공개(IPO)는 수요일에 공모가가 결정될 예정이며, 다음 날부터 거래가 시작된다. 경쟁사인 ChatGPT의 소유주인 오픈AI(OpenAI)보다 먼저 상장하려는 서두름 속에서, 이 회사는 불과 6주 만에 AI 칩 업계의 거물이자 AI 분야의 주요 투자자인 엔비디아(Nvidia)의 시가총액이 약 2조 달러나 증발하는 등 급격한 변동성의 소용돌이에 휘말렸다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.2831,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-debuts-to-skeptics-and-dogged-believers-mike-dolan/articleshow/135915173.cms",
+      "cross_verified": true,
+      "published_at": "2026-11-17T07:11:19.000000Z"
+    },
+    {
+      "title": "UK Unemployment Falls Unexpectedly Amid Global Tech Rout and Geopolitical Tensions",
+      "title_ko": "세계적인 기술주 폭락과 지정학적 긴장 속에서도 영국 실업률이 예상 외로 하락했다",
+      "snippet": "The UK Office for National Statistics (ONS) reported a surprise decline in the ILO Unemployment Rate to 4.6% for the three months ending in September. While",
+      "snippet_ko": "영국 국가통계청(ONS)은 9월로 끝나는 3개월 동안 국제노동기구(ILO) 기준 실업률이 4.6%로 예상 외로 하락했다고 발표했다. 한편",
+      "symbol": "NVDA",
+      "sentiment_score": 0.1345,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/uk-unemployment-falls-unexpectedly-amid-global-tech-rout-and-geopolitical-tensions/74806/",
+      "cross_verified": true,
+      "published_at": "2026-11-17T07:08:18.000000Z"
+    },
     {
       "title": "Apaloosa adds Oracle, exits Advanced Micro, raises stake in NVIDIA, cuts in Alphabet among Q3 moves",
       "title_ko": "아팔루사, 3분기 투자 동향으로 오라클 신규 편입, 어드밴스드 마이크로 지분 매각, 엔비디아 지분 확대, 알파벳 지분 축소",
@@ -2343,66 +2403,6 @@
       "url": "https://www.cnbc.com/investingclub/2026/11/06/our-top-10-things-to-watch-in-the-stock-market-friday.html",
       "cross_verified": true,
       "published_at": "2026-11-06T14:01:45.000000Z"
-    },
-    {
-      "title": "Stockal’s US Trading Row: Missing Consent, A Chinese Microcap, And Unanswered Questions",
-      "title_ko": "스톡칼의 미국 거래 논란: 동의 미비, 중국 초소형주, 그리고 풀리지 않은 의문들",
-      "snippet": "Nearly 30 Indian investors allege their US stock holdings were sold without consent through Stockal and its proceeds were deviated",
-      "snippet_ko": "약 30명의 인도 투자자들이 Stockal을 통해 자신의 미국 주식 보유분이 동의 없이 매도되었으며, 그 매도 대금이 유용되었다고 주장하고 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4048,
-      "source": "inc42.com",
-      "url": "https://inc42.com/features/stockals-us-trading-row-missing-consent-a-chinese-microcap-and-unanswered-questions/",
-      "cross_verified": true,
-      "published_at": "2026-11-06T13:17:12.000000Z"
-    },
-    {
-      "title": "Keep Calm, Stocks Are On Sale",
-      "title_ko": "침착하세요, 주식이 할인 중입니다",
-      "snippet": "The market's sharp sell-off, AI valuations, data-center investment, and ways to approach volatility.",
-      "snippet_ko": "시장의 급격한 매도세, AI 기업들의 기업가치, 데이터센터 투자, 그리고 변동성에 대처하는 방안.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3642,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4963531-keep-calm-stocks-are-on-sale",
-      "cross_verified": true,
-      "published_at": "2026-11-05T22:25:00.000000Z"
-    },
-    {
-      "title": "Tech Rout Erases $2.3 Trillion as Trump Signals Iran Escalation and Ukraine Peace Deal",
-      "title_ko": "트럼프, 이란 사태 격화 시사 및 우크라이나 평화 협정 발표에 따라 기술주 시가총액 2조 3천억 달러 증발",
-      "snippet": "The Nasdaq 100 (QQQ) suffered its most severe selloff in nearly two years on Thursday, plummeting 6.4% as investors reacted to the prospect of tighter AI",
-      "snippet_ko": "나스닥 100 지수(QQQ)는 목요일, 투자자들이 AI 관련 긴축 전망에 반응하면서 6.4% 급락하며 거의 2년 만에 가장 심각한 매도세를 겪었다.",
-      "symbol": "NVDA",
-      "sentiment_score": -0.1534,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-rout-erases-2-3-trillion-as-trump-signals-iran-escalation-and-ukraine-peace-deal/74228/",
-      "cross_verified": true,
-      "published_at": "2026-11-05T22:08:19.000000Z"
-    },
-    {
-      "title": "Yesterday’s Heroes, Today’s Casualties: Markets Reverse In A Hurry",
-      "title_ko": "어제의 영웅, 오늘의 희생자: 시장이 급격히 반전되다",
-      "snippet": "[Chart courtesy of MarketWatch.com] What a difference a day makes. Yesterday’s euphoric rally turned into today’s sharp reality check, with the major indexes giving back gains in a hurry. The Nasdaq led the retreat as traders continued rotating out of technology and AI-related names and into the relative safety of consumer staples, utilities, and energy. The AI trade took it ... Read More",
-      "snippet_ko": "[차트 출처: MarketWatch.com] 하루 사이에 상황이 얼마나 달라지는지. 어제의 열광적인 상승세는 오늘의 냉정한 현실로 바뀌었고, 주요 지수들은 순식간에 상승분을 반납했다. 트레이더들이 기술주와 AI 관련 종목에서 자금을 빼내어 상대적으로 안전한 생활필수품, 공공유틸리티, 에너지 종목으로 이동함에 따라 나스닥이 하락을 주도했다. AI 관련 종목은 타격을 입었고... 더 보기",
-      "symbol": "AVGO",
-      "sentiment_score": -0.0074,
-      "source": "theetfbully.com",
-      "url": "https://theetfbully.com/2026/11/yesterdays-heroes-todays-casualties-markets-reverse-in-a-hurry/",
-      "cross_verified": true,
-      "published_at": "2026-11-05T21:53:41.000000Z"
-    },
-    {
-      "title": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
-      "title_ko": "네오클라우드(Neocloud)의 IREN은 고객의 요청으로 인해 연간 매출 40억 달러가 지연되고 있다고 밝혔다.",
-      "snippet": "Following a dramatic plunge in its stock price, IREN said some revenue is being delayed from 2026 until early next year.",
-      "snippet_ko": "주가가 급락한 이후, IREN은 일부 매출이 2026년에서 내년 초로 연기되고 있다고 밝혔다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.0,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
-      "cross_verified": true,
-      "published_at": "2026-11-05T22:29:47.000000Z"
     }
   ]
 }
