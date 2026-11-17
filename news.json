@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-16T15:25:26.634171+00:00",
+  "updated_at": "2026-11-17T00:06:28.431678+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Vivos Therapeutics Reports Third Quarter 2026 Financial Results and Provides Operational Update",
+      "title_ko": "비보스 테라퓨틱스, 2026년 3분기 실적 발표 및 사업 현황 업데이트",
+      "snippet": "Revenue rises 24% quarter over quarter as Third quarter operating loss improves 18% year over year on cost reductions; Company regained compliance with Nasdaq stockholders’ equity requirement",
+      "snippet_ko": "비용 절감에 힘입어 3분기 영업손실이 전년 동기 대비 18% 개선되면서 매출은 전분기 대비 24% 증가했으며, 회사는 나스닥 자기자본 요건을 다시 충족하게 되었다.",
+      "symbol": "",
+      "sentiment_score": 0.147,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/11/17/tmt-newswire/globenewswire/vivos-therapeutics-reports-third-quarter-2026-financial-results-and-provides-operational-update/2471510",
+      "cross_verified": true,
+      "published_at": "2026-11-16T23:35:55.000000Z"
+    },
+    {
+      "title": "Spotify: Straightforward Business, Senseless Valuation (Rating Downgrade)",
+      "title_ko": "스포티파이: 건실한 사업, 터무니없는 기업 가치 평가 (투자의견 하향 조정)",
+      "snippet": "Analyst rates Spotify Technology S.A. stock a Sell with a $480 target: at $610, shares trade at 46x forward earnings, above the 30x fair-value ceiling.",
+      "snippet_ko": "한 애널리스트는 스포티파이 테크놀로지 S.A. 주식을 ‘매도’로 평가하고 목표 주가를 480달러로 제시했다. 현재 주가는 610달러로, 향후 예상 이익 대비 주가수익비율(PER)이 46배에 달해 공정가치 상한선인 30배를 상회하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.765,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4968791-spotify-straightforward-business-senseless-valuation-rating-downgrade",
+      "cross_verified": true,
+      "published_at": "2026-11-16T23:34:03.000000Z"
+    },
+    {
+      "title": "Third Point Q3 2026 Investor Letter",
+      "title_ko": "서드 포인트 2026년 3분기 투자자 서한",
+      "snippet": "Third Point's Q3 2026 letter details a -6.8% return, AI capex debates, and credit market shifts. Read the full analysis.",
+      "snippet_ko": "서드 포인트(Third Point)의 2026년 3분기 서한에는 -6.8%의 수익률, AI 설비 투자에 대한 논의, 그리고 신용 시장의 변화 등이 상세히 담겨 있습니다. 전체 분석을 읽어보세요.",
+      "symbol": "",
+      "sentiment_score": 0.0349,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4968838-third-point-q3-2026-investor-letter",
+      "cross_verified": true,
+      "published_at": "2026-11-16T23:30:00.000000Z"
+    },
     {
       "title": "Terreno Realty (TRNO) Secures 57,000 Sq Ft Lease in Oakland for Renewable Energy Manufacturing",
       "title_ko": "테레노 리얼티(TRNO), 오클랜드에서 재생에너지 제조 시설용 57,000 제곱피트 규모 임대 계약 체결",
@@ -1165,45 +1201,69 @@
       "url": "https://seekingalpha.com/article/4961232-jazz-pharmaceuticals-plc-jazz-q3-2026-earnings-call-transcript",
       "cross_verified": true,
       "published_at": "2026-11-03T02:58:27.000000Z"
-    },
-    {
-      "title": "Harmonic Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:HLIT) 2026-11-02",
-      "title_ko": "Harmonic Inc. 2026년 3분기 - 실적 - 실적 발표 전화회의 프레젠테이션 (NASDAQ:HLIT) 2026-11-02",
-      "snippet": "2026-11-02. The following slide deck was published by Harmonic Inc.",
-      "snippet_ko": "2026년 11월 2일. 다음 슬라이드 자료는 Harmonic Inc.에서 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4961261-harmonic-inc-2026-q3-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-11-03T02:30:54.000000Z"
-    },
-    {
-      "title": "Tactile Systems Technology, Inc. (TCMD) Q3 2026 Earnings Call Transcript",
-      "title_ko": "Tactile Systems Technology, Inc. (TCMD) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "Tactile Systems Technology, Inc. (TCMD) Q3 2026 Earnings Call November 2, 2026 5:00 PM ESTCompany ParticipantsSheri Dodd - CEO, President &...",
-      "snippet_ko": "Tactile Systems Technology, Inc. (TCMD) 2026년 3분기 실적 발표 전화회의 2026년 11월 2일 오후 5:00 (미국 동부 표준시) 회사 참석자: 셰리 도드 - CEO, 사장 및...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4961259-tactile-systems-technology-inc-tcmd-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-11-03T02:28:28.000000Z"
-    },
-    {
-      "title": "Dow Gains Momentum as Energy Slumps; Tech Braces for Apple Earnings",
-      "title_ko": "에너지주 약세 속 다우지수는 상승세 이어가… 기술주, 애플 실적 발표 앞두고 긴장",
-      "snippet": "U.S. equity markets displayed a bifurcated performance during Monday afternoon trading on November 2nd, 2026. While blue-chip stocks found support from strong",
-      "snippet_ko": "2026년 11월 2일 월요일 오후 거래에서 미국 주식 시장은 엇갈린 흐름을 보였다. 우량주들은 강력한",
-      "symbol": "",
-      "sentiment_score": 0.4059,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/dow-gains-momentum-as-energy-slumps-tech-braces-for-apple-earnings/74024/",
-      "cross_verified": true,
-      "published_at": "2026-11-02T19:07:15.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Apaloosa adds Oracle, exits Advanced Micro, raises stake in NVIDIA, cuts in Alphabet among Q3 moves",
+      "title_ko": "아팔루사, 3분기 투자 동향으로 오라클 신규 편입, 어드밴스드 마이크로 지분 매각, 엔비디아 지분 확대, 알파벳 지분 축소",
+      "snippet": "Appaloosa took a new position in Oracle (ORCL) and exited Advanced Micro Devices (AMD), while raising stake in NVIDIA (NVDA) and reducing holdings in Alphabet (GOOG) (GOOGL), according to its latest 13F filing.",
+      "snippet_ko": "최신 13F 신고서에 따르면, 아팔루사(Appaloosa)는 오라클(ORCL)에 신규 투자하고 어드밴스드 마이크로 디바이스(AMD)에서 청산한 한편, 엔비디아(NVDA)에 대한 지분을 늘리고 알파벳(GOOG)(GOOGL)에 대한 보유 지분을 줄였다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.0992,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4673369-apaloosa-adds-oracle-exits-advanced-micro-raises-stake-in-nvidia-cuts-in-alphabet-among-q3-moves",
+      "cross_verified": true,
+      "published_at": "2026-11-16T23:02:27.000000Z"
+    },
+    {
+      "title": "Paulson & Co. adds NovaGold Resources, exits Alphabet, among Q3 moves",
+      "title_ko": "폴슨 앤 컴퍼니, 3분기 투자 동향 중 노바골드 리소스 신규 편입 및 알파벳 지분 청산",
+      "snippet": "Paulson & Co.'s 13F shows a new 27.2 million-share NovaGold position, 621,000 added PVH shares and an exit from Alphabet.",
+      "snippet_ko": "폴슨 앤 컴퍼니(Paulson & Co.)의 13F 신고서에 따르면, 노바골드(NovaGold) 지분을 2,720만 주 신규로 확보하고, PVH 지분을 62만 1,000주 추가 매입했으며, 알파벳(Alphabet) 지분을 청산한 것으로 나타났다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.222,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4673384-paulson-co-adds-novagold-resources-exits-alphabet-among-q3-moves",
+      "cross_verified": true,
+      "published_at": "2026-11-16T22:52:55.000000Z"
+    },
+    {
+      "title": "Tech and AI Sectors Edge Higher as Markets Await Retail Earnings and Nvidia Results",
+      "title_ko": "시장이 소매업체 실적과 엔비디아 실적 발표를 기다리는 가운데, 기술 및 AI 관련 종목들이 소폭 상승세를 보였다",
+      "snippet": "The U.S. stock market showed a cautious but resilient posture on Monday, November 16th, 2026, as investors navigated a heavy week of corporate earnings and",
+      "snippet_ko": "2026년 11월 16일 월요일, 미국 증시는 투자자들이 기업 실적 발표가 쇄도하는 한 주를 헤쳐 나가는 가운데 신중한 태도를 보이면서도 탄력적인 모습을 보였으며,",
+      "symbol": "DIS",
+      "sentiment_score": 0.2057,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-ai-sectors-edge-higher-as-markets-await-retail-earnings-and-nvidia-results/74786/",
+      "cross_verified": true,
+      "published_at": "2026-11-16T22:07:15.000000Z"
+    },
+    {
+      "title": "Market Open: Wall Street sell-off puts the ASX under pressure",
+      "title_ko": "장 개장: 월가의 매도세로 ASX에 압박 가중",
+      "snippet": "Australian shares are heading for a weaker open today after a sharp…",
+      "snippet_ko": "호주 증시는 급락한 이후 오늘 약세로 장을 시작할 전망입니다…",
+      "symbol": "NVDA",
+      "sentiment_score": 0.4988,
+      "source": "themarketherald.com.au",
+      "url": "https://themarketonline.com.au/market-open-wall-street-sell-off-puts-the-asx-under-pressure-2026-11-17/",
+      "cross_verified": true,
+      "published_at": "2026-11-16T21:58:19.000000Z"
+    },
+    {
+      "title": "Tech Stocks Slump as Nvidia Leadership Crisis and Anthropic IPO Loom",
+      "title_ko": "엔비디아 경영진 위기 및 앤트로픽 기업공개(IPO) 전망에 기술주 급락",
+      "snippet": "Nvidia (NVDA) remained under intense pressure on Monday as leadership uncertainty continued to rattle investors. While President Donald Trump told reporters",
+      "snippet_ko": "월요일, 경영진 구성에 대한 불확실성이 투자자들을 계속 불안하게 만들면서 엔비디아(NVDA)는 여전히 큰 압박을 받고 있다. 도널드 트럼프 대통령은 기자들에게 다음과 같이 말했으나",
+      "symbol": "NVDA",
+      "sentiment_score": -0.0317,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-stocks-slump-as-nvidia-leadership-crisis-and-anthropic-ipo-loom/74785/",
+      "cross_verified": true,
+      "published_at": "2026-11-16T21:38:16.000000Z"
+    },
     {
       "title": "Global Markets React to Diplomatic Shifts and Tech Expansion",
       "title_ko": "세계 시장, 외교적 변화와 기술 산업 확장에 반응",
@@ -2343,66 +2403,6 @@
       "url": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
       "cross_verified": true,
       "published_at": "2026-11-05T22:29:47.000000Z"
-    },
-    {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
-      "title_ko": "짐 크레이머가 꼽은 목요일 주식시장에서 주목해야 할 10가지",
-      "snippet": "Dow futures are up this morning, and Nasdaq futures are down.",
-      "snippet_ko": "오늘 아침 다우 선물은 상승세를 보이고 있는 반면, 나스닥 선물은 하락세를 보이고 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3086,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/investingclub/2026/11/05/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
-      "cross_verified": true,
-      "published_at": "2026-11-05T14:39:12.000000Z"
-    },
-    {
-      "title": "Modestly Weaker For a Few Potential Reasons",
-      "title_ko": "몇 가지 가능한 이유로 인해 소폭 약세를 보일 전망",
-      "snippet": "Bonds are starting the day a few bps weaker. 10yr yields are just over 4.90% and considering they were almost 50bps higher a month ago, you're free to go about your business today without scrutinizing this morning's baby bump. It could be purely incidental. But for those who demand scapegoats, the easiest suspect to blame would be corporate debt issuance from Apple, which coincided with bonds breaking away from their overnight stock market correlation. In the bigger picture, we could consider investors might wonder if the NASDAQ just had another summer-sized correction and might now find support. Lastly, we might consider the bond market correction has similarly covered enough ground as to merit a bit of cooling. All of that is speculative, of course. If stocks resume tanking or if the econ data gets bad, the good times could easily resume. But if stocks move back toward all-time highs and the data improves, it would make sense for the recent bull run in bonds to find resistance here.",
-      "snippet_ko": "채권 시장은 오늘 장 초반 몇 베이시스포인트(bp) 하락세로 출발했습니다. 10년물 수익률은 4.90%를 약간 상회하는 수준인데, 한 달 전만 해도 이보다 거의 50bp나 높았다는 점을 고려하면, 오늘 아침의 미미한 등락에 지나치게 신경 쓰지 않고 평소처럼 업무를 보셔도 됩니다. 이는 순전히 우연한 현상일 수 있습니다. 하지만 희생양을 찾는 이들에게 가장 손쉬운 용의자는 애플의 기업채 발행일 것입니다. 이는 채권이 전날 밤 주식 시장과의 상관관계에서 벗어나기 시작한 시점과 일치했기 때문입니다. 더 큰 그림에서 보면, 우리는 다음과 같이 고려해 볼 수 있습니다.",
-      "symbol": "AAPL",
-      "sentiment_score": -0.5423,
-      "source": "mortgagenewsdaily.com",
-      "url": "https://www.mortgagenewsdaily.com/markets/mbs-morning-11052026",
-      "cross_verified": true,
-      "published_at": "2026-11-05T14:06:38.000000Z"
-    },
-    {
-      "title": "Alphabet: Investors Are Making The Same Mistake They Did With Microsoft (NASDAQ:GOOG)",
-      "title_ko": "알파벳: 투자자들이 마이크로소프트(나스닥:GOOG) 때와 똑같은 실수를 반복하고 있다",
-      "snippet": "Alphabet is a buy as AI spending hits cash flow, but cloud growth, strong margins, and attractive valuation offer long-term upside. Click for a GOOG update.",
-      "snippet_ko": "AI 관련 지출이 현금 흐름에 영향을 미치고 있지만, 알파벳은 매수 추천 종목이며, 클라우드 성장세, 견실한 마진, 매력적인 밸류에이션을 바탕으로 장기적인 상승 여력이 있다. GOOG 최신 정보를 보려면 여기를 클릭하세요.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.1571,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4961034-alphabet-investors-are-making-the-same-mistake-they-did-with-microsoft",
-      "cross_verified": true,
-      "published_at": "2026-11-05T14:00:00.000000Z"
-    },
-    {
-      "title": "Crude crash, US midterm wave send Nifty surging past 24,300",
-      "title_ko": "원유 가격 급락과 미국 중간선거의 여파로 니프티 지수가 24,300선을 돌파하며 급등",
-      "snippet": "Nifty jumps past 24,300 as crude drop and US midterm results spark broad rally; Sensex soars, FIIs turn buyers.",
-      "snippet_ko": "원유 가격 하락과 미국 중간선거 결과로 인해 시장 전반에 걸쳐 상승세가 이어지며 니프티 지수가 24,300선을 돌파했고, 센섹스 지수도 급등하는 가운데 외국인 투자자들이 매수세로 전환했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2732,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/markets/crude-crash-us-midterm-wave-send-nifty-surging-past-24300/article71668574.ece",
-      "cross_verified": true,
-      "published_at": "2026-11-05T04:19:08.000000Z"
-    },
-    {
-      "title": "Apple lowers internal AI usage budgets in move to reduce spending",
-      "title_ko": "애플, 지출 감축을 위해 내부 AI 사용 예산을 삭감했다",
-      "snippet": "Last month, Apple quietly lowered the daily spending cap for some engineers using AI models to $200 from $300, according to people with knowledge of the change",
-      "snippet_ko": "이 변경 사항을 잘 알고 있는 소식통에 따르면, 지난달 애플은 AI 모델을 사용하는 일부 엔지니어들의 일일 지출 한도를 300달러에서 200달러로 조용히 낮췄다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.1163,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/technology/tech-news/apple-lowers-internal-ai-usage-budgets-in-move-to-reduce-spending-126110500120_1.html",
-      "cross_verified": true,
-      "published_at": "2026-11-05T03:18:50.000000Z"
     }
   ]
 }
