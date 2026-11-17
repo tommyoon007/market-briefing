@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-17T10:27:47.955287+00:00",
+  "updated_at": "2026-11-17T20:42:10.986213+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Ideaya Biosciences: Staying Bullish On Darovasertib NDA Submission And More",
+      "title_ko": "아이데아야 바이오사이언스: 다로바세르티브 신약허가신청(NDA) 제출 등에 대한 긍정적 전망 유지",
+      "snippet": "Ideaya Biosciences is continuing to advance its first-in-class, oral, small-molecule protein kinase C [PKC] inhibitor darovasertib. I rate IDYA stock as Strong Buy.",
+      "snippet_ko": "아이데야 바이오사이언스(Ideaya Biosciences)는 동종 최초(first-in-class)의 경구용 소분자 단백질 키나아제 C[PKC] 억제제인 다로바세르티브(darovasertib)의 개발을 지속적으로 추진하고 있습니다. 저는 IDYA 주식을 ‘강력 매수(Strong Buy)’로 평가합니다.",
+      "symbol": "",
+      "sentiment_score": -0.0766,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4969223-ideaya-biosciences-staying-bullish-on-darovasertib-nda-submission-and-more",
+      "cross_verified": true,
+      "published_at": "2026-11-17T19:56:58.000000Z"
+    },
+    {
+      "title": "The Home Depot, Inc. (HD) Q3 2026 Earnings Call Transcript",
+      "title_ko": "홈디포(The Home Depot, Inc., HD) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "The Home Depot, Inc. (HD) Q3 2026 Earnings Call November 17, 2026 9:00 AM ESTCompany ParticipantsIsabel Janci - VP of Investor Relations &...",
+      "snippet_ko": "홈디포(The Home Depot, Inc., HD) 2026년 3분기 실적 발표 컨퍼런스 콜, 2026년 11월 17일 오전 9:00(미국 동부 표준시) 회사 참석자: 이사벨 잔시(Isabel Janci) - 투자자 관계 부사장 및...",
+      "symbol": "",
+      "sentiment_score": 0.4479,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4969141-the-home-depot-inc-hd-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-17T19:53:11.000000Z"
+    },
+    {
+      "title": "Beam Therapeutics Inc. (BEAM) Presents at UBS Global Biopharma Conference 2026 Prepared Remarks Transcript",
+      "title_ko": "빔 테라퓨틱스(Beam Therapeutics Inc., BEAM), ‘UBS 글로벌 바이오파마 컨퍼런스 2026’에서 발표: 사전 준비된 발언 전문",
+      "snippet": "Beam Therapeutics Inc. (BEAM) UBS Global Biopharma Conference 2026 November 17, 2026 9:00 AM ESTCompany ParticipantsJohn Evans - CEO &...",
+      "snippet_ko": "빔 테라퓨틱스(Beam Therapeutics Inc., BEAM) UBS 글로벌 바이오파마 컨퍼런스 2026 2026년 11월 17일 오전 9:00 (미국 동부 표준시) 참가 임원 존 에반스 - CEO 겸...",
+      "symbol": "",
+      "sentiment_score": 0.5926,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4969119-beam-therapeutics-inc-beam-presents-at-ubs-global-biopharma-conference-2026-prepared-remarks",
+      "cross_verified": true,
+      "published_at": "2026-11-17T19:52:46.000000Z"
+    },
     {
       "title": "Xcel Brands outlines $7M average annual royalty run rate per brand by 2030 while targeting 2-3 new brand commercializations by Q4 2027",
       "title_ko": "Xcel Brands는 2030년까지 브랜드당 연평균 700만 달러의 로열티 매출을 달성할 계획이며, 2027년 4분기까지 2~3개의 신규 브랜드를 상용화하는 것을 목표로 하고 있다.",
@@ -1165,45 +1201,69 @@
       "url": "https://seekingalpha.com/article/4961846-zozo-inc-2027-q2-results-earnings-call-presentation",
       "cross_verified": true,
       "published_at": "2026-11-03T23:16:32.000000Z"
-    },
-    {
-      "title": "Louisiana-Pacific Corporation (LPX) Q3 2026 Earnings Call Transcript",
-      "title_ko": "루이지애나-퍼시픽 코퍼레이션(LPX) 2026년 3분기 실적 발표 회의록",
-      "snippet": "Louisiana-Pacific Corporation (LPX) Q3 2026 Earnings Call November 3, 2026 11:00 AM ESTCompany ParticipantsBob Hopkins - VP & TreasurerJason Ringblom -...",
-      "snippet_ko": "루이지애나-퍼시픽 코퍼레이션(LPX) 2026년 3분기 실적 발표 전화회의 2026년 11월 3일 오전 11:00(미국 동부 표준시) 회사 참석자: 밥 홉킨스 - 부사장 겸 재무책임자, 제이슨 링블롬 -...",
-      "symbol": "",
-      "sentiment_score": 0.4712,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4961682-louisiana-pacific-corporation-lpx-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-11-03T23:15:55.000000Z"
-    },
-    {
-      "title": "DigitalOcean Holdings, Inc. (DOCN) Q3 2026 Earnings Call Transcript",
-      "title_ko": "DigitalOcean Holdings, Inc. (DOCN) 2026년 3분기 실적 발표 회의록",
-      "snippet": "DigitalOcean Holdings, Inc. (DOCN) Q3 2026 Earnings Call November 3, 2026 8:00 AM ESTCompany ParticipantsJoshua BaerPadmanabhan Srinivasan - CEO &...",
-      "snippet_ko": "DigitalOcean Holdings, Inc. (DOCN) 2026년 3분기 실적 발표 전화회의 2026년 11월 3일 오전 8:00 (미국 동부 표준시) 회사 참석자: 조슈아 베어, 파드마나반 스리니바산 - CEO 겸...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4961526-digitalocean-holdings-inc-docn-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-11-03T18:05:56.000000Z"
-    },
-    {
-      "title": "Shopify Inc. (SHOP) Q3 2026 Earnings Call Transcript",
-      "title_ko": "Shopify Inc. (SHOP) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "Shopify Inc. (SHOP) Q3 2026 Earnings Call November 3, 2026 8:30 AM ESTCompany ParticipantsShane Kleinstein - Head of Investor RelationsHarley Finkelstein -...",
-      "snippet_ko": "Shopify Inc. (SHOP) 2026년 3분기 실적 발표 컨퍼런스 콜, 2026년 11월 3일 오전 8시 30분(미국 동부 표준시) 회사 참가자: 셰인 클라인스타인(Shane Kleinstein) - 투자자 관계 책임자, 할리 핀켈스타인(Harley Finkelstein) -...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4961576-shopify-inc-shop-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-11-03T18:05:55.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "WPP Chief Executive Officer, Cindy Rose, to Explore the Importance of Data Independence and Trust in the Age of AI during C Space® Keynote",
+      "title_ko": "WPP의 신디 로즈 최고경영자(CEO), C Space® 기조연설에서 AI 시대의 데이터 독립성과 신뢰의 중요성 탐구",
+      "snippet": "**media[1313089]****media[1313090]**NEW YORK, Nov. 18, 2026 /PRNewswire/ -- At a media event in New York City, the Consumer Technology Association (CTA)®, owner and producer of CES®, announces Cindy Rose, Chief Executive Officer of WPP, will take the C Space® stage for a keynote. She will explore why data independence and trust have become critical foundations in the AI era, as it reshapes the advertising industry from end to end. As generative and agentic AI increasingly influence how decisions are made and products are bought, Rose will address why brands must now earn influence from both humans and algorithms - making trust, transparency and open standards imperative for brands.**media[1313091]**",
+      "snippet_ko": "**media[1313089]****media[1313090]**뉴욕, 2026년 11월 18일 /PRNewswire/ -- CES®의 소유주이자 주최사인 소비자기술협회(CTA)®는 뉴욕시에서 열린 미디어 행사에서 WPP의 최고경영자(CEO)인 신디 로즈(Cindy Rose)가 C Space® 무대에 올라 기조연설을 할 것이라고 발표했습니다. 그녀는 AI가 광고 산업 전반을 재편해 나가는 가운데, 데이터 독립성과 신뢰가 왜 AI 시대의 핵심 토대가 되었는지에 대해 심도 있게 다룰 예정이다. 생성형 및 에이전트형 AI가 의사결정 방식에 점점 더 큰 영향을 미치면서",
+      "symbol": "DIS",
+      "sentiment_score": 0.2682,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/11/18/tmt-newswire/pr-newswire/wpp-chief-executive-officer-cindy-rose-to-explore-the-importance-of-data-independence-and-trust-in-the-age-of-ai-during-c-space-keynote/2472508",
+      "cross_verified": true,
+      "published_at": "2026-11-17T19:37:50.000000Z"
+    },
+    {
+      "title": "Market Retreats as Volatility Spikes: Tech and Financials Lead Afternoon Slump",
+      "title_ko": "변동성 급증에 시장 하락… 오후 장에서는 기술주와 금융주가 하락세를 주도",
+      "snippet": "U.S. equity markets experienced a broad-based sell-off during Tuesday afternoon trading, as investors grappled with rising volatility and a cautious outlook",
+      "snippet_ko": "화요일 오후 거래 시간 동안 투자자들이 높아지는 변동성과 신중한 전망에 대응하느라 고심하면서 미국 주식 시장은 전반적으로 매도세가 이어졌다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2283,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/market-retreats-as-volatility-spikes-tech-and-financials-lead-afternoon-slump/74841/",
+      "cross_verified": true,
+      "published_at": "2026-11-17T19:07:23.000000Z"
+    },
+    {
+      "title": "Alphabet: Custom TPUs And The Multiyear Shift To AI Inference",
+      "title_ko": "알파벳: 맞춤형 TPU와 AI 추론 분야로의 다년간의 전환",
+      "snippet": "Alphabet is rated a Strong Buy, benefiting from potential Nvidia share losses and as a possible long-term AI winner.",
+      "snippet_ko": "알파벳은 엔비디아의 시장 점유율 감소로 인한 수혜와 장기적인 AI 분야 유력한 승자로서의 잠재력을 바탕으로 ‘강력 매수’ 등급을 받았다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3125,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4969189-alphabet-custom-tpus-and-the-multiyear-shift-to-ai-inference",
+      "cross_verified": true,
+      "published_at": "2026-11-17T18:28:15.000000Z"
+    },
+    {
+      "title": "Nvidia earnings report: $175.89 bull, $121.34 bear",
+      "title_ko": "엔비디아 실적 발표: 강세 전망 175.89달러, 약세 전망 121.34달러",
+      "snippet": "Nvidia earnings report lands after the US close on 17 November. Monday's Nasdaq close was $156.14. The year-end bull is $175.89 and the bear is $121.34.",
+      "snippet_ko": "엔비디아의 실적 보고서는 11월 17일 미국 증시 장 마감 후 발표될 예정이다. 월요일 나스닥 종가는 156.14달러였다. 연말 상승 목표가는 175.89달러, 하락 목표가는 121.34달러다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0199,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/nvidia-earnings-report-175-89-bull-121-34-bear/",
+      "cross_verified": true,
+      "published_at": "2026-11-17T19:15:11.000000Z"
+    },
+    {
+      "title": "Nvidia: Megaspeed Probe Began in 2024, a Year Before No-Sell",
+      "title_ko": "엔비디아: ‘메가스피드 프로브’는 판매 중단 조치 1년 전인 2024년에 시작되었다",
+      "snippet": "Commerce and Justice say the Megaspeed export probe opened in 2024; Nvidia added it to a no-sell list in June 2025. NVDA traded at $154.58 before earnings.",
+      "snippet_ko": "상무부와 법무부는 2024년에 메가스피드(Megaspeed)에 대한 수출 조사가 개시되었다고 밝혔으며, 엔비디아(Nvidia)는 2025년 6월 이 회사를 판매 금지 목록에 추가했다. NVDA 주가는 실적 발표 전 154.58달러에 거래되었다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0429,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/nvidia-shares-before-results-u-s-says-megaspeed-probe-began-in-2024/",
+      "cross_verified": true,
+      "published_at": "2026-11-17T18:02:48.000000Z"
+    },
     {
       "title": "Nvidia rules out Huang comeback amid return campaign",
       "title_ko": "엔비디아, 복귀 운동이 한창인 가운데 황의 복귀 가능성 일축",
@@ -2343,66 +2403,6 @@
       "url": "https://financefeeds.com/broadcom-avgo-stock-down-10-4-as-the-chip-index-falls-12-3-what-broadcom-is-priced-for-now/",
       "cross_verified": true,
       "published_at": "2026-11-06T19:28:22.000000Z"
-    },
-    {
-      "title": "Fiat On-Ramps by Currency: How to Deposit BRL, GBP, AUD, and Other Local Currencies Into Digital Asset Platforms",
-      "title_ko": "통화별 피아트 입금 방법: 디지털 자산 플랫폼에 BRL, GBP, AUD 및 기타 현지 통화를 입금하는 방법",
-      "snippet": "Local currency deposits via PIX, Faster Payments, and PayID now connect billions of fiat users to digital asset trading platforms worldwide.",
-      "snippet_ko": "PIX, Faster Payments, PayID를 통한 현지 통화 예치 기능을 통해 이제 수십억 명의 법정화폐 사용자들이 전 세계 디지털 자산 거래 플랫폼과 연결되고 있습니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4493,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/fiat-on-ramps-by-currency/",
-      "cross_verified": true,
-      "published_at": "2026-11-06T19:17:48.000000Z"
-    },
-    {
-      "title": "Tech and AI Sectors Surge as Nasdaq Leads Afternoon Rally",
-      "title_ko": "나스닥이 오후 상승세를 주도하며 기술 및 AI 부문이 급등",
-      "snippet": "U.S. equity markets showed robust strength during Friday afternoon trading, with technology and artificial intelligence sectors leading a broad-based rally.",
-      "snippet_ko": "금요일 오후 거래에서 미국 주식 시장은 탄탄한 상승세를 보였으며, 기술 및 인공지능 부문이 주도하는 가운데 전 종목에 걸친 반등이 이어졌다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4617,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-ai-sectors-surge-as-nasdaq-leads-afternoon-rally/74278/",
-      "cross_verified": true,
-      "published_at": "2026-11-06T19:07:15.000000Z"
-    },
-    {
-      "title": "Here's Why I Bought Nvidia While The Market Cried In Fear (Rating Upgrade) (NASDAQ:NVDA)",
-      "title_ko": "시장이 공포에 휩싸여 있을 때 제가 엔비디아를 매수한 이유 (매수 등급 상향) (나스닥:NVDA)",
-      "snippet": "Nvidia Corporation is a Strong Buy after a 20% selloff, with current sentiment-driven declines presenting a compelling entry point. Discover more on NVDA here.",
-      "snippet_ko": "엔비디아(Nvidia Corporation)는 20%의 급락 이후 ‘강력 매수’ 추천 종목으로, 현재 시장 심리에 따른 하락세가 매력적인 매수 기회를 제공하고 있습니다. NVDA에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "NVDA",
-      "sentiment_score": -0.3502,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4964331-heres-why-i-bought-nvidia-while-the-market-cried-in-fear-rating-upgrade",
-      "cross_verified": true,
-      "published_at": "2026-11-06T21:01:14.000000Z"
-    },
-    {
-      "title": "Amazon: A Reality Check Is Coming (NASDAQ:AMZN)",
-      "title_ko": "아마존: 현실을 직시해야 할 때가 다가오고 있다 (나스닥: AMZN)",
-      "snippet": "Amazon.com, Inc. remains a Sell due to escalating CapEx, surging debt, and mounting regulatory headwinds. Click here to read an analysis of AMZN stock now.",
-      "snippet_ko": "Amazon.com, Inc.는 자본지출(CapEx) 증가, 부채 급증, 규제 관련 역풍이 거세지고 있는 점으로 인해 여전히 ‘매도’ 등급을 유지하고 있습니다. 지금 바로 AMZN 주식에 대한 분석을 보려면 여기를 클릭하세요.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.2586,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4964002-amazon-a-reality-check-is-coming",
-      "cross_verified": true,
-      "published_at": "2026-11-06T14:50:40.000000Z"
-    },
-    {
-      "title": "Our top 10 things to watch in the stock market Friday",
-      "title_ko": "금요일 주식 시장에서 주목해야 할 10가지",
-      "snippet": "Nasdaq futures are rebounding, and the October jobs report came in strong.",
-      "snippet_ko": "나스닥 선물 지수가 반등하고 있으며, 10월 고용 지표도 호조를 보였다.",
-      "symbol": "NVDA",
-      "sentiment_score": -0.0794,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/investingclub/2026/11/06/our-top-10-things-to-watch-in-the-stock-market-friday.html",
-      "cross_verified": true,
-      "published_at": "2026-11-06T14:01:45.000000Z"
     }
   ]
 }
