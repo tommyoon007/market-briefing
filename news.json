@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-18T03:31:16.888186+00:00",
+  "updated_at": "2026-11-18T12:52:20.234015+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Flex: The Market Is Pricing Axiom Below Its Power Business Alone (Rating Upgrade)",
+      "title_ko": "Flex: 시장이 Axiom의 가치를 전력 사업 부문만 고려한 수준보다 낮게 평가하고 있다 (투자의견 상향)",
+      "snippet": "Flex stock is upgraded to a buy with a $110.06 target, implying 46.8% upside from the November 13 close, while Axiom trades at 6.1x CY27 EBITDA.",
+      "snippet_ko": "플렉스(Flex) 주식은 ‘매수’로 상향 조정되었으며, 목표가는 110.06달러로, 이는 11월 13일 종가 대비 46.8%의 상승 여력을 시사하는 반면, 액시옴(Axiom)은 2027 회계연도 EBITDA의 6.1배 수준에서 거래되고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4969522-flex-the-market-is-pricing-axiom-below-its-power-business-alone-upgrade",
+      "cross_verified": true,
+      "published_at": "2026-11-18T11:52:12.000000Z"
+    },
+    {
+      "title": "ImpediMed Limited (IPDQF) Shareholder/Analyst Call Transcript",
+      "title_ko": "임피디메드 리미티드(IPDQF) 주주·애널리스트 컨퍼런스콜 기록",
+      "snippet": "ImpediMed Limited (IPDQF) Shareholder/Analyst Call November 17, 2026 7:01 PM ESTCompany ParticipantsChristine Emmanuel-DonnellyErik Anderson - CEO, MD &...",
+      "snippet_ko": "임피디메드 리미티드(IPDQF) 주주·애널리스트 컨퍼런스콜 2026년 11월 17일 오후 7시 01분(미국 동부 표준시) 회사 측 참석자: 크리스틴 엠마누엘-도넬리, 에릭 앤더슨 - CEO, MD 및...",
+      "symbol": "",
+      "sentiment_score": 0.4667,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4969524-impedimed-limited-ipdqf-shareholder-analyst-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-18T11:32:46.000000Z"
+    },
+    {
+      "title": "Sensex Falls 500 Points on Profit Booking, US Fed Rate Hike Speculations",
+      "title_ko": "이익 실현 매도와 미 연방준비제도(Fed)의 금리 인상 전망에 힘입어 센섹스 지수가 500포인트 하락했다",
+      "snippet": "Indian benchmark equity indices snapped a two-day rally, with the Sensex falling over 500 points and the Nifty settling below 25,230, driven by profit-taking and global market bearishness fueled by US Federal Reserve rate hike speculations.",
+      "snippet_ko": "인도의 주요 주가지수는 2일 연속 상승세를 마감했으며, 센섹스 지수는 500포인트 이상 하락했고 니프티 지수는 25,230선 아래에서 마감했다. 이는 미국 연방준비제도(Fed)의 금리 인상 전망에 따른 매도세와 글로벌 시장의 약세 분위기가 영향을 미친 결과다.",
+      "symbol": "",
+      "sentiment_score": 0.0904,
+      "source": "rediff.com",
+      "url": "https://www.rediff.com/business/report/sensex-nosedives-500-points-profit-booking-us-fed-rate-hike-fears-trigger-market-sell-off/20261118.htm",
+      "cross_verified": true,
+      "published_at": "2026-11-18T11:26:49.000000Z"
+    },
     {
       "title": "Verisk Analytics, Inc. (VRSK) Presents at J.P. Morgan Ultimate Services Investor Conference 2026 Transcript",
       "title_ko": "베리스크 애널리틱스(Verisk Analytics, Inc., VRSK), ‘J.P. 모건 얼티밋 서비스 투자자 컨퍼런스 2026’에서 발표: 회의록",
@@ -1165,45 +1201,81 @@
       "url": "https://seekingalpha.com/article/4962008-bayerische-motoren-werke-aktiengesellschaft-2026-q3-results-earnings-call-presentation",
       "cross_verified": true,
       "published_at": "2026-11-04T08:02:55.000000Z"
-    },
-    {
-      "title": "AIG posts 63% rise in net income, GI combined ratio of 91.3% for Q3’26",
-      "title_ko": "AIG, 2026년 3분기 순이익 63% 증가… 일반보험 부문 합산비율 91.3% 기록",
-      "snippet": "American International Group, Inc. (AIG), the global insurance company, delivered a 63% year-on-year rise in net income to $844 million for the third",
-      "snippet_ko": "글로벌 보험사인 아메리칸 인터내셔널 그룹(AIG)은 3분기 순이익이 전년 동기 대비 63% 증가한 8억 4,400만 달러를 기록했습니다.",
-      "symbol": "",
-      "sentiment_score": 0.3182,
-      "source": "reinsurancene.ws",
-      "url": "https://www.reinsurancene.ws/aig-posts-63-rise-in-net-income-gi-combined-ratio-of-91-3-for-q326/",
-      "cross_verified": true,
-      "published_at": "2026-11-04T08:02:41.000000Z"
-    },
-    {
-      "title": "Energy Transfer LP Common Units 2026 Q3 - Results - Earnings Call Presentation (TXSE:ET) 2026-11-04",
-      "title_ko": "에너지 트랜스퍼 LP 보통 유닛 2026년 3분기 - 실적 - 실적 발표회 프레젠테이션 (TXSE:ET) 2026-11-04",
-      "snippet": "2026-11-04. The following slide deck was published by Energy Transfer LP Common Units in conjunction with their 2026 Q3 earnings call.",
-      "snippet_ko": "2026년 11월 4일. 다음 슬라이드 자료는 Energy Transfer LP Common Units가 2026년 3분기 실적 발표 회의와 함께 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4962007-energy-transfer-lp-common-units-2026-q3-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-11-04T08:01:04.000000Z"
-    },
-    {
-      "title": "OFS Capital 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:OFS) 2026-11-03",
-      "title_ko": "OFS Capital 2026년 3분기 - 실적 - 실적 발표회 프레젠테이션 (NASDAQ:OFS) 2026-11-03",
-      "snippet": "2026-11-03. The following slide deck was published by OFS Capital in conjunction with their 2026 Q3 earnings call.",
-      "snippet_ko": "2026년 11월 3일. 다음 슬라이드 자료는 OFS 캐피털이 2026년 3분기 실적 발표 회의와 함께 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4961847-ofs-capital-2026-q3-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-11-03T23:16:45.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Anthropic IPO: Alphabet and Nvidia Commit $10B Each",
+      "title_ko": "앤트로픽(Anthropic) 기업공개(IPO): 알파벳과 엔비디아, 각각 100억 달러 투자 약속",
+      "snippet": "Alphabet and Nvidia will each buy about $10 billion of Anthropic stock at its IPO price, part of a $26 billion private placement ahead of the Nasdaq debut.",
+      "snippet_ko": "알파벳과 엔비디아는 나스닥 상장 전 진행되는 260억 달러 규모의 사모 발행의 일환으로, 각각 앤트로픽 주식 약 100억 달러어치를 공모가로 매입할 예정이다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.4791,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/alphabet-and-nvidia-to-invest-10-billion-each-in-anthropic-at-its-ipo-price/",
+      "cross_verified": true,
+      "published_at": "2026-11-18T07:36:20.000000Z"
+    },
+    {
+      "title": "Micron Stock $712: Up 4.7% After Hours on Nvidia's Beat",
+      "title_ko": "마이크론 주가 712달러: 엔비디아 실적 호조에 힘입어 장 마감 후 4.7% 상승",
+      "snippet": "Updated 18 November 2026, 07:30 GMT. Micron (MU) closed at $712.42 on Tuesday, down 0.92 percent, after falling as low as $666.88 during the session (Yahoo",
+      "snippet_ko": "2026년 11월 18일 07:30 GMT 업데이트. 마이크론(MU)은 화요일 장중 한때 666.88달러까지 하락한 끝에 0.92% 하락한 712.42달러로 장을 마감했다(야후",
+      "symbol": "AVGO",
+      "sentiment_score": 0.2887,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/micron-mu-stock-712-wednesday-after-nvidia-115-8-billion-quarter-bull-778-bear-667/",
+      "cross_verified": true,
+      "published_at": "2026-11-18T06:50:06.000000Z"
+    },
+    {
+      "title": "Waymo Halts Freeway Rides After Crackdown by California DMV",
+      "title_ko": "캘리포니아 차량관리국(DMV)의 단속 조치에 따라 웨이모, 고속도로 주행 중단",
+      "snippet": "Alphabet Inc.'s Waymo robotaxi unit temporarily suspended freeway driving after California regulators imposed fresh restrictions on the company, the",
+      "snippet_ko": "캘리포니아 규제 당국이 알파벳(Alphabet Inc.)의 자회사인 웨ymo(Waymo)에 새로운 제한 조치를 부과함에 따라, 이 회사의 로봇택시 사업부는 고속도로 주행을 일시적으로 중단했다고,",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.2263,
+      "source": "insurancejournal.com",
+      "url": "https://www.insurancejournal.com/news/west/2026/11/18/892937.htm",
+      "cross_verified": true,
+      "published_at": "2026-11-18T06:00:39.000000Z"
+    },
+    {
+      "title": "NVIDIA Q3 Results Surge On Data Center Strength; Board Not To Reinstate Huang As CEO; Stock Gains",
+      "title_ko": "NVIDIA, 데이터 센터 부문 호조에 힘입어 3분기 실적 급증… 이사회, 황 CEO 복귀 불허… 주가 상승",
+      "snippet": "Shares of AI chip major NVIDIA Corp. were gaining around 4 percent in the pre-market activity on the Nasdaq following the announcement of the company's significantly higher third-quarter profit and revenues, on strong demand for its data center products amid AI boom.",
+      "snippet_ko": "AI 칩 업계의 선두주자인 엔비디아(NVIDIA Corp.)의 주가는 AI 붐 속에서 데이터 센터 제품에 대한 수요가 호조를 보이면서 3분기 순이익과 매출이 크게 증가했다는 발표에 힘입어 나스닥 장전 거래에서 약 4% 상승세를 보이고 있다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.4346,
+      "source": "rttnews.com",
+      "url": "https://www.rttnews.com/3715835/nvidia-q3-results-surge-on-data-center-strength-board-not-to-reinstate-huang-as-ceo-stock-gains.aspx?type=ts",
+      "cross_verified": true,
+      "published_at": "2026-11-18T10:39:35.000000Z"
+    },
+    {
+      "title": "Nvidia Q3 shuts door on Huang’s return as company nears largest annual profit in history",
+      "title_ko": "엔비디아, 사상 최대 연간 이익 달성 임박… 3분기 실적 발표로 황 회장의 복귀 가능성 완전히 차단",
+      "snippet": "Everything you need to know before you reach the office this morning.",
+      "snippet_ko": "오늘 아침 출근하기 전에 꼭 알아두어야 할 모든 것.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.2399,
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/11/18/nvidia-q3-2027-investigation-jensen-huang-largest-annual-profit/",
+      "cross_verified": true,
+      "published_at": "2026-11-18T10:39:18.000000Z"
+    },
+    {
+      "title": "DealBook Summit Live Updates: Political Figures and Business Executives Are Set for a Day of Interviews",
+      "title_ko": "딜북 서밋 실시간 업데이트: 정치인 및 기업 임원들이 인터뷰 일정을 앞두고 있다",
+      "snippet": "This year’s DealBook Summit will include interviews with some of the most powerful people from Wall Street, Silicon Valley and Washington. Here are the guest...",
+      "snippet_ko": "올해 열리는 딜북 서밋(DealBook Summit)에서는 월스트리트, 실리콘밸리, 워싱턴의 가장 영향력 있는 인사들과의 인터뷰가 진행될 예정입니다. 출연진은 다음과 같습니다...",
+      "symbol": "MSFT",
+      "sentiment_score": -0.0172,
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/live/2026/11/18/business/dealbook-summit-news/heres-the-latest-on-the-2026-dealbook-summit",
+      "cross_verified": true,
+      "published_at": "2026-11-18T10:25:35.000000Z"
+    },
     {
       "title": "Tech and Retail Resilience Drive Modest Gains as Investors Eye Nvidia Earnings",
       "title_ko": "투자자들이 엔비디아 실적을 주시하는 가운데, 기술 및 소매업종의 회복세가 소폭 상승을 이끌었다",
@@ -2331,78 +2403,6 @@
       "url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/dow-jones-sampp-500-nasdaq-last-weeks-ai-stocks-crash-is-not-your-garden-variety-correction/article71678849.ece",
       "cross_verified": true,
       "published_at": "2026-11-07T17:06:39.000000Z"
-    },
-    {
-      "title": "Meta Platforms, Inc. Class A (META) -- AI Innovation and Market Resilience | First Eagle Rising Dividend Fund Q3 2026",
-      "title_ko": "메타 플랫폼스(Meta Platforms, Inc.) A종주 (META) — AI 혁신과 시장 회복력 | 퍼스트 이글 라이징 배당 펀드 2026년 3분기",
-      "snippet": "Meta's launch of Muse showcases its commitment to AI and user engagement.Continued investments in AI bolster its core advertising business.Valuation remains att",
-      "snippet_ko": "메타가 ‘뮤즈(Muse)’를 출시한 것은 AI와 사용자 참여에 대한 회사의 의지를 보여주는 사례입니다. AI 분야에 대한 지속적인 투자는 회사의 핵심 광고 사업을 강화합니다. 기업 가치는 여전히…",
-      "symbol": "META",
-      "sentiment_score": 0.58,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9184048/meta-platforms-inc-class-a-meta-ai-innovation-and-market-resilience-first-eagle-rising-dividend-fund-q3-2026",
-      "cross_verified": true,
-      "published_at": "2026-11-07T17:00:27.000000Z"
-    },
-    {
-      "title": "Apple (AAPL) Stock Dips 1.9% Despite Q4 FY2026 Earnings Beat",
-      "title_ko": "애플(AAPL) 주가, 2026 회계연도 4분기 실적 예상치를 상회했음에도 1.9% 하락",
-      "snippet": "On November 07, 2026, Apple Inc (NASDAQ: AAPL) reported its Q4 FY2026 earnings, posting revenue growth that exceeded analyst expectations but saw its stock decl",
-      "snippet_ko": "2026년 11월 7일, 애플(Apple Inc, 나스닥: AAPL)은 2026 회계연도 4분기 실적을 발표했는데, 매출 증가율은 애널리스트들의 예상을 상회했으나 주가는 하락했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.4997,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9184029/apple-aapl-stock-dips-19-despite-q4-fy2026-earnings-beat",
-      "cross_verified": true,
-      "published_at": "2026-11-07T16:55:42.000000Z"
-    },
-    {
-      "title": "Hindustan Coca-Cola Holdings files DRHP for IPO",
-      "title_ko": "힌두스탄 코카콜라 홀딩스, 기업공개(IPO)를 위한 DRHP 제출",
-      "snippet": "HCCH files DRHP for a 99.75 crore OFS IPO to list on BSE/NSE, led by Kotak, Citi, JPMorgan, with Jubilant as promoter.",
-      "snippet_ko": "HCCH는 코탁, 씨티, JP모건이 주간사로, 주빌런트가 발기인으로 참여하는 99.75 크로레 규모의 OFS IPO를 위해 DRHP를 제출했으며, BSE/NSE에 상장할 예정이다.",
-      "symbol": "KO",
-      "sentiment_score": -0.1632,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/companies/hindustan-coca-cola-holdings-files-drhp-for-ipo/article71678290.ece",
-      "cross_verified": true,
-      "published_at": "2026-11-07T13:49:45.000000Z"
-    },
-    {
-      "title": "What Moved Markets This Week",
-      "title_ko": "이번 주 시장을 움직인 요인",
-      "snippet": "U.S. stocks fell sharply this week amid an ongoing technology selloff and policy fears related to AI. Read more about this week's major events on Wall Street.",
-      "snippet_ko": "이번 주 미국 증시는 기술주 매도세가 지속되고 인공지능(AI) 관련 정책에 대한 우려가 고조되면서 급락했습니다. 이번 주 월스트리트의 주요 사건들에 대해 자세히 알아보세요.",
-      "symbol": "AAPL",
-      "sentiment_score": -0.177,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4964579-what-moved-markets-this-week",
-      "cross_verified": true,
-      "published_at": "2026-11-07T11:37:26.000000Z"
-    },
-    {
-      "title": "SpaceX director Donald Harrison resigns from board a day after US election",
-      "title_ko": "스페이스X의 도널드 해리슨 이사가 미국 대선 다음 날 이사회에서 사임했다",
-      "snippet": "Harrison, who joined SpaceX's board in 2015 as part of Google's investment, stepped down on November 4. The exit comes as independent directors of SpaceX and Tesla consider a potential merger",
-      "snippet_ko": "2015년 구글의 투자와 함께 스페이스X 이사회에 합류했던 해리슨은 11월 4일 사임했다. 이번 사임은 스페이스X와 테슬라의 독립 이사들이 양사의 잠재적 합병 가능성을 검토하고 있는 가운데 이루어졌다.",
-      "symbol": "TSLA",
-      "sentiment_score": 0.2557,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/spacex-director-donald-harrison-resigns-from-board-a-day-after-us-election-126110700173_1.html",
-      "cross_verified": true,
-      "published_at": "2026-11-07T03:36:17.000000Z"
-    },
-    {
-      "title": "MP Materials Corp. 2026 Q3 - Results - Earnings Call Presentation (NYSE:MP) 2026-11-06",
-      "title_ko": "MP Materials Corp. 2026년 3분기 실적 - 실적 발표 전화 회의 프레젠테이션 (NYSE:MP) 2026-11-06",
-      "snippet": "2026-11-06. The following slide deck was published by MP Materials Corp.",
-      "snippet_ko": "2026년 11월 6일. 다음 슬라이드 자료는 MP Materials Corp.에서 공개한 것입니다.",
-      "symbol": "MP",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4964467-mp-materials-corp-2026-q3-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-11-07T01:31:28.000000Z"
     }
   ]
 }
