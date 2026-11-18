@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-17T20:42:10.986213+00:00",
+  "updated_at": "2026-11-18T03:31:16.888186+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Verisk Analytics, Inc. (VRSK) Presents at J.P. Morgan Ultimate Services Investor Conference 2026 Transcript",
+      "title_ko": "베리스크 애널리틱스(Verisk Analytics, Inc., VRSK), ‘J.P. 모건 얼티밋 서비스 투자자 컨퍼런스 2026’에서 발표: 회의록",
+      "snippet": "Verisk Analytics, Inc. (VRSK) J.P.",
+      "snippet_ko": "Verisk Analytics, Inc. (VRSK) J.P.",
+      "symbol": "",
+      "sentiment_score": 0.1509,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4969282-verisk-analytics-inc-vrsk-presents-at-j-p-morgan-ultimate-services-investor-conference-2026",
+      "cross_verified": true,
+      "published_at": "2026-11-18T02:52:46.000000Z"
+    },
     {
       "title": "Ideaya Biosciences: Staying Bullish On Darovasertib NDA Submission And More",
       "title_ko": "아이데아야 바이오사이언스: 다로바세르티브 신약허가신청(NDA) 제출 등에 대한 긍정적 전망 유지",
@@ -1189,21 +1201,81 @@
       "url": "https://seekingalpha.com/article/4961847-ofs-capital-2026-q3-results-earnings-call-presentation",
       "cross_verified": true,
       "published_at": "2026-11-03T23:16:45.000000Z"
-    },
-    {
-      "title": "ZOZO, Inc. 2027 Q2 - Results - Earnings Call Presentation (OTCMKTS:SRTTY) 2026-11-03",
-      "title_ko": "ZOZO, Inc. 2027년 2분기 - 실적 - 실적 발표회 프레젠테이션 (OTCMKTS:SRTTY) 2026-11-03",
-      "snippet": "2026-11-03. The following slide deck was published by ZOZO, Inc.",
-      "snippet_ko": "2026년 11월 3일. 다음 슬라이드 자료는 ZOZO, Inc.에서 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4961846-zozo-inc-2027-q2-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-11-03T23:16:32.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Tech and Retail Resilience Drive Modest Gains as Investors Eye Nvidia Earnings",
+      "title_ko": "투자자들이 엔비디아 실적을 주시하는 가운데, 기술 및 소매업종의 회복세가 소폭 상승을 이끌었다",
+      "snippet": "The U.S. stock market showed resilience on Tuesday, November 17th, 2026, as investors balanced a busy retail earnings schedule against the anticipation of",
+      "snippet_ko": "2026년 11월 17일 화요일, 미국 증시는 투자자들이 바쁜 소매업체 실적 발표 일정을 고려하는 한편, ~에 대한 기대감을 조율하면서 탄력적인 모습을 보였다.",
+      "symbol": "DIS",
+      "sentiment_score": 0.1683,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-retail-resilience-drive-modest-gains-as-investors-eye-nvidia-earnings/74851/",
+      "cross_verified": true,
+      "published_at": "2026-11-17T22:07:17.000000Z"
+    },
+    {
+      "title": "Anthropic is about to have the biggest IPO of all time: Is it too late to buy in?",
+      "title_ko": "앤트로픽이 사상 최대 규모의 기업공개(IPO)를 앞두고 있다: 지금 매수하기에는 너무 늦은 걸까?",
+      "snippet": "AI firm Anthropic plans a historic IPO seeking to raise up to $64.35 billion at a $1.4 trillion valuation, with 20% reserved for retail buyers.",
+      "snippet_ko": "AI 기업 앤트로픽(Anthropic)은 기업 가치 1조 4천억 달러를 기준으로 최대 643억 5천만 달러를 조달하기 위한 역사적인 기업공개(IPO)를 계획 중이며, 이 중 20%는 개인 투자자들에게 배정될 예정이다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.1666,
+      "source": "nypost.com",
+      "url": "https://nypost.com/2026/11/17/business/is-it-too-late-to-participate-in-anthropics-big-ipo-on-nov-19/",
+      "cross_verified": true,
+      "published_at": "2026-11-17T21:00:00.000000Z"
+    },
+    {
+      "title": "Broadcom Inc. (AVGO)’s AI Business Is Fueling Its Next Phase of Long-Term Growth",
+      "title_ko": "브로드컴(AVGO)의 AI 사업이 회사의 다음 단계 장기 성장을 견인하고 있다",
+      "snippet": "We just published our list, Ken Fisher Portfolio Review: 10 Highest-Conviction Technology Stocks for Long-Term Growth, and Broadcom Inc. ranked 8th on this list.",
+      "snippet_ko": "방금 ‘켄 피셔 포트폴리오 리뷰: 장기 성장을 위한 가장 확신이 가는 기술주 10선’이라는 목록을 발표했는데, 브로드컴(Broadcom Inc.)이 이 목록에서 8위를 차지했습니다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.5033,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/broadcom-inc-avgos-ai-business-is-fueling-its-next-phase-of-long-term-growth-1866685/",
+      "cross_verified": true,
+      "published_at": "2026-11-17T20:21:41.000000Z"
+    },
+    {
+      "title": "Stocks to watch: IIFL Finance, Grasim, Axis Bank, HCL Tech, RITES, Airtel",
+      "title_ko": "주목할 종목: IIFL 파이낸스, 그라심, 액시스 은행, HCL 테크, RITES, 에어텔",
+      "snippet": "Stocks to watch today: IIFL Finance, Grasim Industries, Axis Bank, HCL Tech, RITES, Bharti Airtel, Signature Global, Prestige Estates, among others, will be in action today",
+      "snippet_ko": "오늘 주목할 종목: IIFL 파이낸스, 그라심 인더스트리즈, 액시스 뱅크, HCL 테크, RITES, 바르티 에어텔, 시그니처 글로벌, 프레스티지 에스테이츠 등이 오늘 활발한 등락을 보일 전망이다.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.0815,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/markets/news/stocks-to-watch-iifl-finance-grasim-axis-bank-hcl-tech-rites-airtel-126111800141_1.html",
+      "cross_verified": true,
+      "published_at": "2026-11-18T02:44:07.000000Z"
+    },
+    {
+      "title": "Stock Market LIVE: GIFT Nifty down over 100 pts; Asian markets mixed post Nvidia's Q3 beat",
+      "title_ko": "주식 시장 실시간: GIFT 니프티 지수 100포인트 이상 하락; 엔비디아의 3분기 실적 호조에 아시아 증시 혼조세",
+      "snippet": "Sensex Today | Stock Market LIVE Updates Wednesday: The GIFT Nifty indicated a gap-down open for the Nifty50 index. Asian markets were mixed",
+      "snippet_ko": "오늘의 센섹스 | 수요일 주식 시장 실시간 업데이트: GIFT 니프티는 니프티50 지수가 갭다운으로 개장할 것임을 시사했다. 아시아 증시는 혼조세를 보였다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0666,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-november-18-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-hero-motocorp-share-price-hcltech-stock-price-today-ipo-today-126111800134_1.html",
+      "cross_verified": true,
+      "published_at": "2026-11-18T02:31:56.000000Z"
+    },
+    {
+      "title": "NVIDIA Corporation (NVDA) Q3 2027 Earnings Call Transcript",
+      "title_ko": "NVIDIA Corporation (NVDA) 2027년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "NVIDIA Corporation (NVDA) Q3 2027 Earnings Call November 17, 2026 5:00 PM ESTCompany ParticipantsToshiya Hari - Vice President of Investor Relations &...",
+      "snippet_ko": "NVIDIA Corporation (NVDA) 2027년 3분기 실적 발표 컨퍼런스 콜, 2026년 11월 17일 오후 5:00 (미국 동부 표준시) 회사 측 참석자: 토시야 하리 - 투자자 관계 부사장 및...",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4969356-nvidia-corporation-nvda-q3-2027-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-18T01:22:48.000000Z"
+    },
     {
       "title": "WPP Chief Executive Officer, Cindy Rose, to Explore the Importance of Data Independence and Trust in the Age of AI during C Space® Keynote",
       "title_ko": "WPP의 신디 로즈 최고경영자(CEO), C Space® 기조연설에서 AI 시대의 데이터 독립성과 신뢰의 중요성 탐구",
@@ -2331,78 +2403,6 @@
       "url": "https://seekingalpha.com/article/4964467-mp-materials-corp-2026-q3-results-earnings-call-presentation",
       "cross_verified": true,
       "published_at": "2026-11-07T01:31:28.000000Z"
-    },
-    {
-      "title": "10 Best 52-Week Low NASDAQ Stocks to Buy According to Billionaires",
-      "title_ko": "억만장자들이 선정한 매수할 만한 나스닥 종목 중 52주 최저가를 기록한 상위 10개 주식",
-      "snippet": "Scan the Nasdaq stocks hitting 52-week lows this week and a pattern jumps out: many of the biggest names build, power or rent space for artificial intelligence. Few of these businesses are shrinking.",
-      "snippet_ko": "이번 주 52주 최저가를 기록한 나스닥 상장 종목들을 살펴보면 한 가지 패턴이 눈에 띕니다. 바로 인공지능 관련 시설을 건설하거나, 운영하거나, 임대하는 대형 기업들이 많다는 점입니다. 이 중 사업이 위축되고 있는 기업은 거의 없습니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.5719,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/10-best-52-week-low-nasdaq-stocks-to-buy-according-to-billionaires-1862392/",
-      "cross_verified": true,
-      "published_at": "2026-11-07T00:43:40.000000Z"
-    },
-    {
-      "title": "Netflix Stock: Growth Slows, But Potential Remains Intact (NASDAQ:NFLX)",
-      "title_ko": "넷플릭스 주가: 성장세는 둔화되었으나 잠재력은 여전히 건재하다 (나스닥:NFLX)",
-      "snippet": "Netflix is rated a buy due to attractive valuation and strong financials despite revenue growth moderation. Read more on NFLX stock here.",
-      "snippet_ko": "넷플릭스는 매출 성장세가 다소 둔화되었음에도 불구하고 매력적인 기업 가치와 견실한 재무 실적을 바탕으로 ‘매수’ 등급을 받았습니다. NFLX 주식에 대한 자세한 내용은 여기에서 확인하세요.",
-      "symbol": "NFLX",
-      "sentiment_score": 0.6226,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4964524-netflix-growth-slows-but-potential-remains-intact",
-      "cross_verified": true,
-      "published_at": "2026-11-07T08:03:04.000000Z"
-    },
-    {
-      "title": "MP Materials Corp. (MP) Q3 2026 Earnings Call Transcript",
-      "title_ko": "MP 머티리얼즈(MP) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "MP Materials Corp. (MP) Q3 2026 Earnings Call November 5, 2026 5:00 PM ESTCompany ParticipantsMartin Sheehan - Senior Vice President of Investor...",
-      "snippet_ko": "MP 머티리얼스(MP) 2026년 3분기 실적 발표 컨퍼런스 콜, 2026년 11월 5일 오후 5시(미국 동부 표준시) 회사 측 참석자: 마틴 시한 - 투자자 관계 담당 수석 부사장...",
-      "symbol": "MP",
-      "sentiment_score": 0.4415,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4964406-mp-materials-corp-mp-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-11-07T00:24:36.000000Z"
-    },
-    {
-      "title": "Dow Jones Futures: Market Needs Repair But Sandisk, Micron Broken; Apple, Amazon, Microsoft Strong",
-      "title_ko": "다우존스 선물: 시장 회복 필요하지만 샌디스크와 마이크론은 부진, 애플·아마존·마이크로소프트는 강세",
-      "snippet": "Dow Jones futures: The stock market needs repair while Sandisk and Micron seem broken. Apple, Amazon and Microsoft are holding up.",
-      "snippet_ko": "다우존스 선물: 주식 시장은 회복이 필요한 반면, 샌디스크와 마이크론은 부진한 모습을 보이고 있다. 애플, 아마존, 마이크로소프트는 선전하고 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": -0.397,
-      "source": "investors.com",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/",
-      "cross_verified": true,
-      "published_at": "2026-11-06T21:45:10.000000Z"
-    },
-    {
-      "title": "Trump Officials to Miss His Vaccine Recommendation Deadline",
-      "title_ko": "트럼프 행정부 관계자들, 백신 접종 권고 기한을 지키지 못할 전망",
-      "snippet": "Trump administration health officials are expected to miss the president’s deadline requiring they deliver new recommendations for childhood vaccinations by Sunday, according to people familiar with the matter.",
-      "snippet_ko": "이 사안에 정통한 소식통들에 따르면, 트럼프 행정부의 보건 당국자들은 일요일까지 아동 예방접종에 대한 새로운 권고안을 제출하라는 대통령의 기한을 지키지 못할 것으로 보인다.",
-      "symbol": "MRK",
-      "sentiment_score": -0.6908,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/news/us-news/trump-officials-to-miss-his-vaccine-recommendation-deadline-11793995326480.html",
-      "cross_verified": true,
-      "published_at": "2026-11-06T20:02:06.000000Z"
-    },
-    {
-      "title": "Broadcom (AVGO) Stock Down 10.4% as the Chip Index Falls 12.3%",
-      "title_ko": "반도체 지수가 12.3% 하락하면서 브로드컴(AVGO) 주가가 10.4% 하락했다",
-      "snippet": "Broadcom stock closed Thursday at $291.53, down 10.43% in a single session as investors cut exposure to the semiconductor companies most directly tied to the",
-      "snippet_ko": "브로드컴 주가는 목요일 291.53달러로 장을 마감했으며, 투자자들이 해당 분야와 가장 직접적인 연관이 있는 반도체 기업들에 대한 투자 비중을 줄이면서 단 하루 만에 10.43% 하락했다.",
-      "symbol": "AVGO",
-      "sentiment_score": -0.1876,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/broadcom-avgo-stock-down-10-4-as-the-chip-index-falls-12-3-what-broadcom-is-priced-for-now/",
-      "cross_verified": true,
-      "published_at": "2026-11-06T19:28:22.000000Z"
     }
   ]
 }
