@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-18T12:52:20.234015+00:00",
+  "updated_at": "2026-11-18T21:45:51.718229+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "First Advantage Review 2026: Pricing, Pros & Cons",
+      "title_ko": "First Advantage 2026년 리뷰: 가격, 장점 및 단점",
+      "snippet": "What is First Advantage? A Nasdaq-listed background screening company in Atlanta, founded in 2003. Review: quote-based pricing, pros, cons.",
+      "snippet_ko": "퍼스트 어드밴티지(First Advantage)란 무엇인가? 2003년에 설립된 애틀랜타 소재의 나스닥 상장 신원 조회 전문 기업입니다. 리뷰: 견적 기반 가격 책정, 장점, 단점.",
+      "symbol": "",
+      "sentiment_score": 0.2974,
+      "source": "leadchangegroup.com",
+      "url": "https://leadchangegroup.com/software/first-advantage/",
+      "cross_verified": true,
+      "published_at": "2026-11-18T21:16:45.000000Z"
+    },
+    {
+      "title": "UTG: A 20% Drop Turns A Boring Income Fund Into A Buy",
+      "title_ko": "UTG: 20% 하락으로 지루했던 배당형 펀드가 매수 기회로 변모하다",
+      "snippet": "The bull case for Reaves Utility Income Fund: its 7.9% yield and NAV discount make the 20% drop an attractive entry point as holdings grow earnings.",
+      "snippet_ko": "리브스 유틸리티 인컴 펀드에 대한 강세 전망: 7.9%의 배당 수익률과 순자산가치(NAV) 할인율 덕분에, 보유 종목들의 이익이 증가함에 따라 20% 하락은 매력적인 매수 시점으로 작용한다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4969783-utg-20-percent-drop-turns-boring-income-fund-into-buy",
+      "cross_verified": true,
+      "published_at": "2026-11-18T20:56:49.000000Z"
+    },
+    {
+      "title": "Ansa Biotechnologies Raises $71.5M to Expand DNA Synthesis",
+      "title_ko": "안사 바이오테크놀로지스, DNA 합성 사업 확대를 위해 7,150만 달러 조달",
+      "snippet": "Ansa Biotechnologies Raises $71.5M to expand DNA synthesis, manufacturing capacity and support AI-enabled biological research now.",
+      "snippet_ko": "안사 바이오테크놀로지스(Ansa Biotechnologies)가 DNA 합성 및 생산 능력을 확대하고, AI 기반 생물학 연구를 지원하기 위해 7,150만 달러를 조달했다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "ventureburn.com",
+      "url": "https://ventureburn.com/ansa-biotechnologies-raises-71-5m-dna-synthesis/",
+      "cross_verified": true,
+      "published_at": "2026-11-18T20:44:24.000000Z"
+    },
     {
       "title": "Flex: The Market Is Pricing Axiom Below Its Power Business Alone (Rating Upgrade)",
       "title_ko": "Flex: 시장이 Axiom의 가치를 전력 사업 부문만 고려한 수준보다 낮게 평가하고 있다 (투자의견 상향)",
@@ -1165,45 +1201,81 @@
       "url": "https://seekingalpha.com/article/4962566-fuel-tech-inc-ftek-q3-2026-earnings-call-transcript",
       "cross_verified": true,
       "published_at": "2026-11-04T22:44:33.000000Z"
-    },
-    {
-      "title": "Continental Aktiengesellschaft (CTTAY) Q3 2026 Earnings Call Transcript",
-      "title_ko": "콘티넨탈 Aktiengesellschaft (CTTAY) 2026년 3분기 실적 발표 회의 녹취록",
-      "snippet": "Continental Aktiengesellschaft (CTTAY) Q3 2026 Earnings Call November 4, 2026 6:30 AM ESTCompany ParticipantsMax Westmeyer - Head of Investor...",
-      "snippet_ko": "콘티넨탈 Aktiengesellschaft (CTTAY) 2026년 3분기 실적 발표 전화회의 2026년 11월 4일 오전 6시 30분(미국 동부 표준시) 회사 참가자 맥스 웨스트마이어 - 투자자 관계 책임자...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4962155-continental-aktiengesellschaft-cttay-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-11-04T17:04:39.000000Z"
-    },
-    {
-      "title": "Brookfield Renewable Partners L.P. Limited Partnership Units (BEP.UN:CA) Q3 2026 Earnings Call Transcript",
-      "title_ko": "브룩필드 리뉴어블 파트너스 L.P. 유한파트너십 유닛(BEP.UN:CA) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "Brookfield Renewable Partners L.P. Limited Partnership Units (BEP.UN:CA) Q3 2026 Earnings Call November 4, 2026 9:00 AM ESTCompany ParticipantsConnor Teskey...",
-      "snippet_ko": "브룩필드 리뉴어블 파트너스 L.P. 유한파트너십 유닛(BEP.UN:CA) 2026년 3분기 실적 발표 컨퍼런스콜 2026년 11월 4일 오전 9:00(미국 동부 표준시) 회사 참가자: 코너 테스키...",
-      "symbol": "",
-      "sentiment_score": -0.2263,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4962307-brookfield-renewable-partners-l-p-limited-partnership-units-bep-un-ca-q3-2026-earnings-call",
-      "cross_verified": true,
-      "published_at": "2026-11-04T16:44:33.000000Z"
-    },
-    {
-      "title": "Bayerische Motoren Werke Aktiengesellschaft 2026 Q3 - Results - Earnings Call Presentation (TSX:BMW:CA) 2026-11-04",
-      "title_ko": "바이에른 모터스 베르케 Aktiengesellschaft 2026년 3분기 - 실적 - 실적 발표회 프레젠테이션 (TSX:BMW:CA) 2026-11-04",
-      "snippet": "2026-11-04. The following slide deck was published by Bayerische Motoren Werke Aktiengesellschaft in conjunction with their 2026 Q3 earnings call.",
-      "snippet_ko": "2026년 11월 4일. 다음 슬라이드 자료는 바이엘리셰 모토렌 베르케 아크티엔게젤샤프트(Bayerische Motoren Werke Aktiengesellschaft)가 2026년 3분기 실적 발표와 함께 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4962008-bayerische-motoren-werke-aktiengesellschaft-2026-q3-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-11-04T08:02:55.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Meta: Financial Engineering Masks The Real Debt Burden",
+      "title_ko": "메타: 금융 공학이 실제 부채 부담을 가리고 있다",
+      "snippet": "Meta is well-positioned for strong earnings growth, aided by ARPU growth in international markets, monetization of undermonetized assets, and AI monetization.",
+      "snippet_ko": "메타는 해외 시장의 ARPU 증가, 수익화가 미흡했던 자산의 수익화, 그리고 AI를 통한 수익화 등에 힘입어 강력한 실적 성장을 이룰 유리한 입지에 있습니다.",
+      "symbol": "META",
+      "sentiment_score": -0.5682,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4969706-meta-financial-engineering-masks-the-real-debt-burden",
+      "cross_verified": true,
+      "published_at": "2026-11-18T17:25:07.000000Z"
+    },
+    {
+      "title": "FuboTV: The Road To Profitability Runs Through Disney",
+      "title_ko": "FuboTV: 흑자 전환의 길은 디즈니를 거쳐야 한다",
+      "snippet": "FuboTV is a Hold, as although the Disney-driven earnings gains look plausible, weak underlying growth and unproven cash generation warrant patience.",
+      "snippet_ko": "FuboTV는 ‘보유’ 등급을 부여합니다. 디즈니에 힘입은 실적 개선은 타당해 보이지만, 근본적인 성장세가 부진하고 현금 창출 능력이 입증되지 않았기 때문에 신중한 접근이 필요합니다.",
+      "symbol": "DIS",
+      "sentiment_score": 0.6838,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4969645-fubotv-the-road-to-profitability-runs-through-disney",
+      "cross_verified": true,
+      "published_at": "2026-11-18T15:58:53.000000Z"
+    },
+    {
+      "title": "Jensen Huang and Nvidia is not a honeypot story. It is a national security story",
+      "title_ko": "젠슨 황과 엔비디아는 단순한 ‘허니팟’ 이야기가 아닙니다. 이는 국가 안보와 관련된 이야기입니다.",
+      "snippet": "Elon Musk reacted to our research on",
+      "snippet_ko": "일론 머스크는 우리의 연구 결과에 대해 다음과 같이 반응했습니다.",
+      "symbol": "AVGO",
+      "sentiment_score": -0.2322,
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/11/18/nvidia-jensen-huang-megaspeed-honeypot-national-security-export-controls-andrew-king/",
+      "cross_verified": true,
+      "published_at": "2026-11-18T15:36:19.000000Z"
+    },
+    {
+      "title": "Anthropic IPO: The Most Important AI Stock Has Arrived (And Is A Buy)",
+      "title_ko": "앤트로픽(Anthropic) 기업공개: 가장 중요한 AI 주식이 등장했다 (매수 추천)",
+      "snippet": "Anthropic is rated a Buy, as its $1.3 trillion IPO valuation equals 19x annualized revenue; furthermore, 100% growth could bring forward sales below 10x.",
+      "snippet_ko": "앤트로픽(Anthropic)은 1조 3천억 달러 규모의 기업공개(IPO) 평가액이 연간 매출의 19배에 달하기 때문에 ‘매수’ 등급을 받았다. 게다가 매출이 100% 성장할 경우, 매출 대비 평가배수가 10배 미만으로 낮아질 수도 있다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.6486,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4969758-anthropic-ipo-the-most-important-ai-stock-has-arrived-and-is-a-buy",
+      "cross_verified": true,
+      "published_at": "2026-11-18T19:39:06.000000Z"
+    },
+    {
+      "title": "Fed Minutes Flag AI Inflation Risks as Markets Digest Nvidia Earnings and Regional Security Talks",
+      "title_ko": "연준 회의록, AI로 인한 인플레이션 위험 경고… 시장에서는 엔비디아 실적과 지역 안보 회담 소식 소화 중",
+      "snippet": "Minutes from the Federal Reserve's October 27-28 meeting reveal that policymakers are increasingly focused on the economic side effects of the AI",
+      "snippet_ko": "연방준비제도(Fed)의 10월 27~28일 회의록에 따르면, 정책 입안자들은 AI가 초래하는 경제적 부작용에 점점 더 주목하고 있는 것으로 나타났다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.069,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/fed-minutes-flag-ai-inflation-risks-as-markets-digest-nvidia-earnings-and-regional-security-talks/74908/",
+      "cross_verified": true,
+      "published_at": "2026-11-18T19:38:21.000000Z"
+    },
+    {
+      "title": "The Retail Investor Is The Exit Liquidity",
+      "title_ko": "개인 투자자가 바로 매도 유동성이다",
+      "snippet": "The bear case on Anthropic’s expected $1.4 trillion IPO: faster ETF inclusion could expose retail investors to insider selling and leave them as exit liquidity.",
+      "snippet_ko": "앤트로픽(Anthropic)의 예상 1조 4천억 달러 규모 기업공개(IPO)에 대한 비관론: ETF 편입이 앞당겨질 경우, 개인 투자자들이 내부자 매도에 노출될 수 있으며, 이들의 자금이 매도 유동성으로 전락할 위험이 있다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.765,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4969734-the-retail-investor-is-the-exit-liquidity",
+      "cross_verified": true,
+      "published_at": "2026-11-18T18:50:34.000000Z"
+    },
     {
       "title": "Anthropic IPO: Alphabet and Nvidia Commit $10B Each",
       "title_ko": "앤트로픽(Anthropic) 기업공개(IPO): 알파벳과 엔비디아, 각각 100억 달러 투자 약속",
@@ -2331,78 +2403,6 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/trump-signals-openness-to-ai-guardrails-set-to-meet-qatar-pm-for-crisis-talks/74357/",
       "cross_verified": true,
       "published_at": "2026-11-09T00:38:15.000000Z"
-    },
-    {
-      "title": "Apple (AAPL) Reduces Tax Burden by $2.7 Billion via Singapore",
-      "title_ko": "애플(AAPL), 싱가포르를 통해 27억 달러의 세금 부담 경감",
-      "snippet": "On November 08, 2026, Apple Inc (AAPL) made headlines as it disclosed a significant reduction in its tax burden, amounting to $2.7 billion, by channeling revenu",
-      "snippet_ko": "2026년 11월 8일, 애플(AAPL)은 수익을 특정 경로로 전환함으로써 27억 달러에 달하는 세금 부담을 대폭 줄였다고 밝혀 화제가 되었습니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3418,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9184273/apple-aapl-reduces-tax-burden-by-27-billion-via-singapore",
-      "cross_verified": true,
-      "published_at": "2026-11-09T00:11:36.000000Z"
-    },
-    {
-      "title": "Organon (OGN) Highlights Successful Biosimilar Switch Study at ACR Meeting",
-      "title_ko": "오르가논(OGN), ACR 학회에서 바이오시밀러 전환 연구 성과 발표",
-      "snippet": "On November 08, 2026, Organon & Co (NYSE: OGN) disclosed results from a pivotal study presented at the American College of Rheumatology Annual Meeting. The rese",
-      "snippet_ko": "2026년 11월 8일, Organon & Co(NYSE: OGN)는 미국 류마티스학회(American College of Rheumatology) 연례 학술대회에서 발표된 핵심 임상시험 결과를 공개했다. 이 연구는",
-      "symbol": "MRK",
-      "sentiment_score": 0.5807,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9184216/organon-ogn-highlights-successful-biosimilar-switch-study-at-acr-meeting",
-      "cross_verified": true,
-      "published_at": "2026-11-08T21:25:25.000000Z"
-    },
-    {
-      "title": "Docebo Review 2026: Pricing, Pros & Cons",
-      "title_ko": "Docebo 리뷰 2026: 가격, 장점 및 단점",
-      "snippet": "Docebo review: quote-based pricing, 2 plans. Best for organizations training employees, customers and partners in separate branded domains.",
-      "snippet_ko": "Docebo 리뷰: 견적 기반 가격 책정, 2가지 요금제. 별도의 브랜드 도메인에서 직원, 고객 및 파트너를 대상으로 교육을 진행하는 조직에 가장 적합합니다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2724,
-      "source": "leadchangegroup.com",
-      "url": "https://leadchangegroup.com/software/docebo/",
-      "cross_verified": true,
-      "published_at": "2026-11-08T21:21:23.000000Z"
-    },
-    {
-      "title": "Intel Stock: The Sell-Off Has Done Most Of The Work (NASDAQ:INTC)",
-      "title_ko": "인텔 주가: 매도세가 이미 대부분의 영향을 미쳤다 (나스닥: INTC)",
-      "snippet": "Intel remains a Hold as valuation resets, data center strength offsets weak PC demand, and foundry progress faces funding risks.",
-      "snippet_ko": "인텔은 기업 가치 재조정 국면, 데이터 센터 부문의 호조가 PC 수요 부진을 상쇄하고 있는 점, 파운드리 사업 진전에 자금 조달 리스크가 존재하는 점 등을 고려할 때 여전히 ‘보유(Hold)’ 등급을 유지한다.",
-      "symbol": "INTC",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4964846-intel-the-sell-off-has-done-most-of-the-work",
-      "cross_verified": true,
-      "published_at": "2026-11-08T18:22:47.000000Z"
-    },
-    {
-      "title": "Weekend Market Report-11/8/26-A 5.5% Nasdaq Crash, One Friday Bounce, And A Fed That Wants To Hike",
-      "title_ko": "주말 시장 보고서 - 26년 11월 8일 - 나스닥 5.5% 폭락, 금요일 일시 반등, 그리고 금리 인상을 원하는 연준",
-      "snippet": "Good weekend, everyone. Friday’s close: S&P 500 +0.3% | Nasdaq +1.1% | Dow -0.5% | Russell 2000 +0.9% For the week: S&P 500 -2.7% | Nasdaq -3.4% | Dow -0.9% | Russell 2000 -2.1% If you spent last week wondering whether you forgot how to trade, relax. The market forgot…",
-      "snippet_ko": "여러분, 즐거운 주말 보내세요. 금요일 종가: S&P 500 +0.3% | 나스닥 +1.1% | 다우 -0.5% | 러셀 2000 +0.9% 주간 실적: S&P 500 -2.7% | 나스닥 -3.4% | 다우 -0.9% | 러셀 2000 -2.1% 지난주 내내 ‘거래하는 법을 잊어버린 건 아닐까’ 하고 고민하셨다면, 안심하세요. 시장이 잊어버린 거니까요…",
-      "symbol": "NVDA",
-      "sentiment_score": -0.0918,
-      "source": "upsidetrader.com",
-      "url": "https://www.upsidetrader.com/2026/11/08/weekend-market-report-11-8-26-a-5-5-nasdaq-crash-one-friday-bounce-and-a-fed-that-wants-to-hike/",
-      "cross_verified": true,
-      "published_at": "2026-11-08T16:49:19.000000Z"
-    },
-    {
-      "title": "Dow Jones, S&P 500, Nasdaq: Last week’s AI stocks crash is not your garden variety correction",
-      "title_ko": "다우존스, S&P 500, 나스닥: 지난주 AI 관련주 폭락은 평범한 조정 국면이 아니다",
-      "snippet": "AI stocks crash signals a distinct, risk-laden correction driven by regulatory fears, capital costs, and questionable profitability.",
-      "snippet_ko": "AI 관련 주가의 급락은 규제 우려, 자본 비용, 그리고 의심스러운 수익성 등으로 인해 촉발된 뚜렷하고 위험 부담이 큰 조정 국면을 시사한다.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.5106,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/dow-jones-sampp-500-nasdaq-last-weeks-ai-stocks-crash-is-not-your-garden-variety-correction/article71678849.ece",
-      "cross_verified": true,
-      "published_at": "2026-11-07T17:06:39.000000Z"
     }
   ]
 }
