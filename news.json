@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-19T12:43:26.193112+00:00",
+  "updated_at": "2026-11-19T22:02:38.427527+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Micron Vs. Sandisk: Stress-Testing The $89 Billion Contract Book For A 2027 NAND Glut",
+      "title_ko": "마이크론 대 샌디스크: 2027년 NAND 공급 과잉을 대비한 890억 달러 규모 수주 잔고에 대한 스트레스 테스트",
+      "snippet": "Analyst rates Micron Technology, Inc. and Sandisk Corporation Hold, favoring MU's durable DRAM/HBM earnings; SNDK margins remain uncertain as NAND supply expands.",
+      "snippet_ko": "한 애널리스트는 마이크론 테크놀로지(Micron Technology, Inc.)와 샌디스크(Sandisk Corporation)에 대해 ‘보유(Hold)’ 등급을 부여하며, MU의 내구성 있는 DRAM/HBM 실적을 긍정적으로 평가했다. 반면 SNDK의 경우 NAND 공급이 확대됨에 따라 마진 전망은 여전히 불확실한 상태다.",
+      "symbol": "",
+      "sentiment_score": 0.5405,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4970302-micron-vs-sandisk-stress-testing-the-89-billion-contract-book-for-a-2027-nand-glut",
+      "cross_verified": true,
+      "published_at": "2026-11-19T21:02:39.000000Z"
+    },
     {
       "title": "Best PEO Services (2026): 29 Compared",
       "title_ko": "최고의 PEO 서비스 (2026): 29개 업체 비교",
@@ -1189,21 +1201,69 @@
       "url": "https://seekingalpha.com/article/4962990-vistra-texas-turned-blue-and-the-2026-forecast-didnt-move",
       "cross_verified": true,
       "published_at": "2026-11-05T14:40:30.000000Z"
-    },
-    {
-      "title": "ElectroCore outlines 30% to 40% 2027 revenue growth while targeting positive adjusted EBITDA by end of 2027 (NASDAQ:ECOR)",
-      "title_ko": "일렉트로코어(ElectroCore), 2027년 매출 30~40% 성장 전망… 2027년 말까지 조정 EBITDA 흑자 달성 목표 (나스닥: ECOR)",
-      "snippet": "electroCore Q3 2026: record sales, narrowed losses, revised revenue outlook, and FDA Quell CIPN filing.",
-      "snippet_ko": "electroCore 2026년 3분기 실적: 사상 최대 매출, 손실 폭 축소, 매출 전망 상향 조정, FDA에 CIPN 치료제 ‘Quell’ 승인 신청.",
-      "symbol": "",
-      "sentiment_score": 0.7351,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4666166-electrocore-outlines-30-percent-to-40-percent-2027-revenue-growth-while-targeting-positive",
-      "cross_verified": true,
-      "published_at": "2026-11-05T04:55:35.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Anthropic (ANT) Closes Debut at $97.17: Bull $115, Bear $83",
+      "title_ko": "앤트로픽(ANT), 데뷔일 종가 97.17달러 기록: 강세론자 115달러, 약세론자 83달러",
+      "snippet": "Anthropic (ANT) closed its Nasdaq debut at $97.17, up 17.1% on its $83 IPO price. Our next ANT levels: bull $115, bear $83, and the dates that decide them.",
+      "snippet_ko": "앤트로픽(ANT)은 나스닥 상장 첫날 종가를 97.17달러로 마감하며, 공모가 83달러 대비 17.1% 상승했습니다. 향후 ANT의 주요 가격 수준은 강세 시나리오 115달러, 약세 시나리오 83달러이며, 이를 결정짓는 시점은 다음과 같습니다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.5363,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/anthropic-ant-stock-closes-debut-97-17-price-prediction/",
+      "cross_verified": true,
+      "published_at": "2026-11-19T21:03:07.000000Z"
+    },
+    {
+      "title": "Amazon warns NYC shoppers of potential $5 per-order increase over proposed delivery law",
+      "title_ko": "아마존, 뉴욕시 쇼핑객들에게 제안된 배송 법안으로 인해 주문당 5달러의 추가 비용이 발생할 수 있다고 경고",
+      "snippet": "Amazon warns New York City shoppers that a proposed delivery worker law could add up to $5 per order and is urging customers to contact City Council members.",
+      "snippet_ko": "아마존은 뉴욕시 소비자들에게 제안된 배달원 관련 법안이 주문당 최대 5달러의 추가 비용을 초래할 수 있다고 경고하며, 고객들에게 시의회 의원들에게 연락할 것을 촉구하고 있다.",
+      "symbol": "AMZN",
+      "sentiment_score": -0.1215,
+      "source": "foxbusiness.com",
+      "url": "https://www.foxbusiness.com/fox-news-tech/amazon-nyc-delivery-law-order-cost-increase",
+      "cross_verified": true,
+      "published_at": "2026-11-19T19:08:40.000000Z"
+    },
+    {
+      "title": "Analysts Are Bullish on This Blue Chip Stock: Should You Buy?",
+      "title_ko": "애널리스트들이 이 우량주에 대해 낙관적인 전망을 내놓고 있습니다: 매수해야 할까요?",
+      "snippet": "We just published the list of the 10 Best Blue Chip Stocks to Buy and Hold for 3 Years and Intel Corporation (INTC) took the 8th spot on the list.",
+      "snippet_ko": "저희는 방금 ‘3년간 매수 후 보유하기 좋은 블루칩 주식 10선’ 목록을 발표했는데, 인텔(INTC)이 이 목록에서 8위를 차지했습니다.",
+      "symbol": "INTC",
+      "sentiment_score": 0.6249,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/analysts-are-bullish-on-this-blue-chip-stock-should-you-buy-1866529/",
+      "cross_verified": true,
+      "published_at": "2026-11-19T19:08:38.000000Z"
+    },
+    {
+      "title": "Anthropic Is Public. Make Its Economics Work For You",
+      "title_ko": "Anthropic가 상장되었습니다. 이 회사의 경제 모델을 여러분에게 유리하게 활용하세요",
+      "snippet": "Anthropic is now a public company trading on Nasdaq under ANT. As it moves from private market promises to public market accountability, enterprises get something valuable: a quarterly view of whether frontier AI economics will work, better transparency and more buying power. In June, we argued that public markets would impose discipline and expected pricing […]",
+      "snippet_ko": "앤트로픽(Anthropic)은 현재 나스닥에 ANT라는 종목명으로 상장된 기업입니다. 이 회사가 비공개 시장의 약속에서 공개 시장의 책임으로 전환함에 따라, 기업들은 귀중한 이점을 얻게 됩니다. 바로 최첨단 AI 경제 모델이 실제로 작동할지 여부를 분기별로 파악할 수 있는 기회와, 향상된 투명성, 그리고 더 큰 구매력입니다. 지난 6월, 우리는 공개 시장이 규율을 강화하고 예상 가격을 […]",
+      "symbol": "MSFT",
+      "sentiment_score": 0.7351,
+      "source": "go.forrester.com",
+      "url": "https://www.forrester.com/blogs/anthropic-is-public-make-its-economics-work-for-you/",
+      "cross_verified": true,
+      "published_at": "2026-11-19T20:48:56.000000Z"
+    },
+    {
+      "title": "Nvidia: The Worst Is Yet To Come",
+      "title_ko": "엔비디아: 최악의 상황은 아직 오지 않았다",
+      "snippet": "Analyst rates Nvidia Corporation a Sell: its $137.55-per-share intrinsic value is 9.5% below the cited price as weekly revenue growth slows to roughly 4%.",
+      "snippet_ko": "한 애널리스트가 엔비디아(Nvidia Corporation)에 ‘매도’ 등급을 부여했다. 주당 137.55달러인 내재 가치는 제시된 주가보다 9.5% 낮은 수준이며, 주간 매출 성장률이 약 4%로 둔화되고 있다.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.5326,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4970298-nvidia-the-worst-is-yet-to-come",
+      "cross_verified": true,
+      "published_at": "2026-11-19T20:37:27.000000Z"
+    },
     {
       "title": "Wall Street Breakfast Podcast: AI Goes Public, GTA VI Goes Global",
       "title_ko": "월스트리트 브렉퍼스트 팟캐스트: AI 기업 상장, GTA VI의 글로벌 진출",
@@ -2343,66 +2403,6 @@
       "url": "https://seekingalpha.com/news/4670810-sa-analyst-upgradesdowngrades-meta-uber-evgo-orcl",
       "cross_verified": true,
       "published_at": "2026-11-11T16:52:30.000000Z"
-    },
-    {
-      "title": "Anthropic eyes $1.4 trillion Wall Street IPO valuation",
-      "title_ko": "앤트로픽, 월가 IPO 기업가치 1조 4천억 달러 목표",
-      "snippet": "Anthropic's blockbuster IPO will value the Claude chatbot creator at up to $1.4 trillion, slightly short of some investors' expectations, setting up a key test of Wall Street's faith in the AI boom it helped ignite.",
-      "snippet_ko": "앤트로픽의 대대적인 기업공개(IPO)를 통해 ‘클로드’ 챗봇 개발사의 기업 가치는 최대 1조 4천억 달러에 달할 전망인데, 이는 일부 투자자들의 기대치보다 약간 낮은 수준이며, 이 회사가 촉발하는 데 일조했던 AI 붐에 대한 월가의 신뢰를 가늠할 중요한 시금석이 될 전망이다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.5001,
-      "source": "rte.ie",
-      "url": "https://www.rte.ie/news/business/2026/1111/1598786-anthropic-eyes-1-4-trillion-wall-street-ipo-valuation/",
-      "cross_verified": true,
-      "published_at": "2026-11-11T08:00:57.000000Z"
-    },
-    {
-      "title": "Intel Stock: Why I'm Turning Bullish After The Crash (NASDAQ:INTC)",
-      "title_ko": "인텔 주가: 급락 이후 내가 강세 전망을 내놓는 이유 (NASDAQ:INTC)",
-      "snippet": "Intel shares plunged nearly 39% following disappointing Q4 guidance, creating a speculative recovery opportunity. Check out why INTC stock is a buy.",
-      "snippet_ko": "인텔 주가는 실망스러운 4분기 실적 전망 발표 이후 39% 가까이 급락하며, 투기적 반등 기회를 만들어 냈다. INTC 주식을 매수해야 하는 이유를 확인해 보자.",
-      "symbol": "INTC",
-      "sentiment_score": -0.4019,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4966307-intel-why-im-turning-bullish-after-the-crash",
-      "cross_verified": true,
-      "published_at": "2026-11-11T07:40:48.000000Z"
-    },
-    {
-      "title": "Indian Smallcap AI Winners Face Valuation Test as US Enthusiasm Cools",
-      "title_ko": "미국의 열기가 식으면서 인도 소형주 AI 수혜주들, 기업가치 평가 시험대에 올라",
-      "snippet": "Seven of the top 10 best-performing Indian smallcap stocks over the past year, linked to the US data centre boom and AI infrastructure, are now facing a valuation test as enthusiasm for AI investment shows signs of cooling on Wall Street. Analysts warn that the rally in these Indian counterparts may have left valuations increasingly stretched, with any pullback in US capital expenditure potentially weighing on their share prices.",
-      "snippet_ko": "지난 1년간 미국 데이터센터 붐과 AI 인프라와 연계되어 가장 우수한 성과를 보인 인도 소형주 상위 10개 종목 중 7개 종목이, 월가에서 AI 투자 열기가 식어가는 조짐을 보이면서 현재 기업 가치 평가의 시험대에 올라 있다. 애널리스트들은 이러한 인도 관련 종목들의 상승세가 주가 평가를 점점 더 과열된 상태로 만들었을 수 있으며, 미국의 자본 지출이 다소 주춤할 경우 해당 종목들의 주가에 부정적인 영향을 미칠 수 있다고 경고하고 있다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2964,
-      "source": "rediff.com",
-      "url": "https://www.rediff.com/business/report/indian-smallcap-ai-stocks-under-pressure-as-us-data-centre-boom-slows/20261111.htm",
-      "cross_verified": true,
-      "published_at": "2026-11-11T07:36:20.000000Z"
-    },
-    {
-      "title": "Auxier Asset Management Fall 2026 Market Commentary",
-      "title_ko": "옥시어 자산운용 2026년 가을 시장 전망",
-      "snippet": "Auxier Focus Fund fell 2.51% in Q3 2026 amid bond market stress and AI debt risks. Read full commentary for details.",
-      "snippet_ko": "Auxier Focus Fund는 채권 시장의 불안과 AI 관련 부채 리스크 속에서 2026년 3분기에 2.51% 하락했습니다. 자세한 내용은 전체 해설을 참조하십시오.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.1229,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4966227-auxier-asset-management-fall-2026-market-commentary",
-      "cross_verified": true,
-      "published_at": "2026-11-11T00:30:00.000000Z"
-    },
-    {
-      "title": "Anthropic targets $90 billion IPO at $1.4 trillion valuation",
-      "title_ko": "앤트로픽, 기업가치 1.4조 달러 기준으로 900억 달러 규모의 기업공개(IPO) 추진",
-      "snippet": "Anthropic PBC is preparing for an initial public offering aiming for a fully diluted valuation of $1.4 trillion. The company plans to raise up to $90.4 billion, including a private placement with major investors. It has reported a revenue run rate of $81 billion, showcasing significant growth in recent months. The IPO is scheduled to price on November 18 and begin trading the next day.",
-      "snippet_ko": "Anthropic PBC는 완전 희석 기준 기업 가치를 1조 4천억 달러로 책정하는 것을 목표로 기업공개(IPO)를 준비 중이다. 이 회사는 주요 투자자들을 대상으로 한 사모 유치를 포함해 최대 904억 달러를 조달할 계획이다. 최근 몇 달간 상당한 성장세를 보이며 810억 달러의 매출 런레이트를 기록했다. 이번 IPO는 11월 18일에 공모가가 결정될 예정이며, 다음 날부터 거래가 시작될 예정이다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.7756,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-targets-90-billion-ipo-at-1-4-trillion-valuation/articleshow/135721872.cms",
-      "cross_verified": true,
-      "published_at": "2026-11-11T00:27:03.000000Z"
     }
   ]
 }
