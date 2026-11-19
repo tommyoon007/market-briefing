@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-18T21:45:51.718229+00:00",
+  "updated_at": "2026-11-19T03:03:47.584844+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Precision Optics Corporation, Inc. (POCI) Q1 2027 Earnings Call Transcript",
+      "title_ko": "프리시전 옵틱스 코퍼레이션(POCI) 2027년 1분기 실적 발표 전화 회의 기록",
+      "snippet": "Precision Optics Corporation, Inc. (POCI) Q1 2027 Earnings Call November 16, 2026 5:00 PM ESTCompany ParticipantsJoseph Forkey - CEO, President, Treasurer...",
+      "snippet_ko": "프리시전 옵틱스 코퍼레이션(POCI) 2027년 1분기 실적 발표 전화회의 2026년 11월 16일 오후 5:00(미국 동부 표준시) 회사 참석자 조셉 포키 - CEO, 사장, 재무이사...",
+      "symbol": "",
+      "sentiment_score": 0.4118,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4969881-precision-optics-corporation-inc-poci-q1-2027-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-19T01:52:45.000000Z"
+    },
+    {
+      "title": "Invesco Diversified Dividend Fund Q3 2026 Commentary",
+      "title_ko": "인베스코 다각화 배당 펀드 2026년 3분기 분석 보고서",
+      "snippet": "Invesco Diversified Dividend Fund underperformed the Russell 1000 Value Index in Q3 2026 due to IT underweighting. Read the full quarterly commentary.",
+      "snippet_ko": "인베스코 다각화 배당 펀드는 IT 섹터에 대한 비중을 낮게 유지한 탓에 2026년 3분기 러셀 1000 밸류 지수보다 저조한 성과를 기록했습니다. 분기별 분석 보고서의 전문을 읽어보세요.",
+      "symbol": "",
+      "sentiment_score": 0.2247,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4969873-invesco-diversified-dividend-fund-q3-2026-commentary",
+      "cross_verified": true,
+      "published_at": "2026-11-19T01:44:00.000000Z"
+    },
+    {
+      "title": "Assicurazioni Generali S.p.A. (ARZGY) Analyst/Investor Day Transcript",
+      "title_ko": "Assicurazioni Generali S.p.A. (ARZGY) 애널리스트·투자자 설명회 회의록",
+      "snippet": "Assicurazioni Generali S.p.A. (ARZGY) Analyst/Investor Day November 18, 2026 9:00 AM ESTCompany ParticipantsPhilippe Donnet - MD, Group CEO &...",
+      "snippet_ko": "Assicurazioni Generali S.p.A. (ARZGY) 애널리스트·투자자 설명회 2026년 11월 18일 오전 9:00 (미국 동부 표준시) 회사 참석자: Philippe Donnet - 상무이사, 그룹 CEO 및...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4969724-assicurazioni-generali-s-p-a-arzgy-analyst-investor-day-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-19T01:42:56.000000Z"
+    },
     {
       "title": "First Advantage Review 2026: Pricing, Pros & Cons",
       "title_ko": "First Advantage 2026년 리뷰: 가격, 장점 및 단점",
@@ -1165,45 +1201,69 @@
       "url": "https://seekingalpha.com/article/4962683-amdocs-stock-t-mobile-shock-changes-everything-rating-downgrade",
       "cross_verified": true,
       "published_at": "2026-11-05T04:52:00.000000Z"
-    },
-    {
-      "title": "Illumina selected to help bring precision medicine into everyday healthcare in Singapore",
-      "title_ko": "일루미나, 싱가포르에서 정밀 의학을 일상적인 의료 서비스에 도입하는 데 기여할 기업으로 선정",
-      "snippet": "/PRNewswire/ -- Illumina, Inc. (Nasdaq: ILMN) announced it has been selected to provide whole-genome sequencing services for the SG-INSIGHT study, a cohort...",
-      "snippet_ko": "/PRNewswire/ -- 일루미나(Illumina, Inc.)(나스닥: ILMN)는 코호트 연구인 SG-INSIGHT 연구에 전장 유전체 염기서열 분석 서비스를 제공하게 되었다고 발표했습니다...",
-      "symbol": "",
-      "sentiment_score": 0.4925,
-      "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/apac/news-releases/illumina-selected-to-help-bring-precision-medicine-into-everyday-healthcare-in-singapore-302929267.html",
-      "cross_verified": true,
-      "published_at": "2026-11-04T23:00:00.000000Z"
-    },
-    {
-      "title": "OceanaGold Reports Third Quarter 2026 Results",
-      "title_ko": "오세아나골드, 2026년 3분기 실적 발표",
-      "snippet": "/PRNewswire/ -- OceanaGold Corporation (TSX: OGC) (NYSE: OGC) (\"OceanaGold\" or the \"Company\") reported its operational and financial results for the three and...",
-      "snippet_ko": "/PRNewswire/ -- 오세아나골드 코퍼레이션(OceanaGold Corporation, TSX: OGC, NYSE: OGC)(이하 “오세아나골드” 또는 “회사”)은 3개월 및...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/apac/news-releases/oceanagold-reports-third-quarter-2026-results-302929890.html",
-      "cross_verified": true,
-      "published_at": "2026-11-04T22:52:00.000000Z"
-    },
-    {
-      "title": "Fuel Tech, Inc. (FTEK) Q3 2026 Earnings Call Transcript",
-      "title_ko": "Fuel Tech, Inc. (FTEK) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "Fuel Tech, Inc. (FTEK) Q3 2026 Earnings Call November 4, 2026 10:00 AM ESTCompany ParticipantsRamesh Nuggihalli - CEO & PresidentEllen Albrecht - VP,...",
-      "snippet_ko": "Fuel Tech, Inc. (FTEK) 2026년 3분기 실적 발표 전화 회의, 2026년 11월 4일 오전 10:00 (미국 동부 표준시) 회사 참석자: 라메시 누기할리 - CEO 겸 사장, 엘렌 알브레히트 - 부사장,...",
-      "symbol": "",
-      "sentiment_score": 0.3,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4962566-fuel-tech-inc-ftek-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-11-04T22:44:33.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Anthropic Prices $81.3 Billion IPO at $83 Ahead of Nasdaq Debut",
+      "title_ko": "앤트로픽, 나스닥 상장 앞두고 813억 달러 규모 IPO 주당 83달러로 책정",
+      "snippet": "The $83 price is approximately 6.4% above the previous range's upper limit. It also places Anthropic's estimated fully diluted valuation near $1.5 trillion,",
+      "snippet_ko": "83달러라는 가격은 이전 가격 범위의 상한선보다 약 6.4% 높은 수준입니다. 또한 이로 인해 앤트로픽의 완전 희석 기준 추정 기업 가치는 1.5조 달러에 육박하며,",
+      "symbol": "AVGO",
+      "sentiment_score": -0.181,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/anthropic-prices-81-3-billion-ipo-at-83-ahead-of-nasdaq-debut/",
+      "cross_verified": true,
+      "published_at": "2026-11-19T00:26:33.000000Z"
+    },
+    {
+      "title": "Immutep Reports Encouraging Disease-Free Survival from EFTISARC-NEO Phase II Trial in Soft Tissue Sarcoma",
+      "title_ko": "이뮤텝, 연조직 육종 대상 EFTISARC-NEO 2상 임상시험에서 고무적인 무병 생존율 발표",
+      "snippet": "Poster presented today at CTOS 2026 expands on the survival data first reported in the abstract (announced 11 November 2026), which showed a 12-month disease-free survival (DFS) of 81.1% in patients with resectable soft tissue sarcoma.Patients with post-treatment tumour-infiltrating lymphocyte (TIL) levels above 310 cells/mm² had 95.0% 12-month DFS compared with 64.9% in patients with lower TIL levels.Patients with treatment-related hyalinisation and fibrosis greater than 52% had 93.8% 12-month DFS compared with 71.4% in patients with lower levels.Results build on previously reported strong pathological responses and further support the potential of efti-based combination therapy.SYDNEY, AUSTRALIA, Nov. 19, 2026 (GLOBE NEWSWIRE) -- Immutep Limited (ASX: IMM; NASDAQ: IMMP) ('Immutep” or the 'Company”), a clinical-stage biotechnology company developing novel LAG-3 immunotherapies for cancer and autoimmune diseases, today announced new data from the investigator-initiated EFTISARC-NEO Phase II study presented at the Connective Tissue Oncology Society (CTOS) 2026 Annual Meeting (Poster number P 448).",
+      "snippet_ko": "오늘 CTOS 2026에서 발표된 포스터는 (2026년 11월 11일 발표된) 초록에서 최초로 보고된 생존 데이터를 더욱 상세히 다루고 있으며, 이 데이터에 따르면 절제 가능한 연조직 육종 환자에서 12개월 무병 생존율(DFS)이 81.1%로 나타났습니다.치료 후 종양 침윤 림프구(TIL) 수치가 310세포/mm² 이상인 환자의 12개월 DFS는 95.0%였던 반면, TIL 수치가 더 낮은 환자의 경우 64.9%를 기록했다.치료 관련 유리화 및 섬유화 비율이 52%를 초과한 환자의 12개월 DFS율은 93.8%였으며,",
+      "symbol": "MRK",
+      "sentiment_score": 0.0805,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/11/19/tmt-newswire/globenewswire/immutep-reports-encouraging-disease-free-survival-from-eftisarc-neo-phase-ii-trial-in-soft-tissue-sarcoma/2473663",
+      "cross_verified": true,
+      "published_at": "2026-11-19T00:26:30.000000Z"
+    },
+    {
+      "title": "‘70% chance’ we’re already in an AI bubble: The economist who said ‘not yet’ in January now sees all four horsemen of the bubble apocalypse",
+      "title_ko": "우리가 이미 AI 버블에 빠져 있을 ‘70%의 가능성’: 지난 1월 “아직 아니다”라고 말했던 경제학자가 이제 버블 종말의 ‘네 기수’가 모두 나타났다고 보고 있다",
+      "snippet": "Owen Lamont told Fortune in January that the stock market wasn’t in an AI bubble. Now he’s mostly convinced. “I think there is a 70% chance that as of No...",
+      "snippet_ko": "오웬 라몬트는 지난 1월 포춘지와의 인터뷰에서 주식 시장이 AI 버블에 빠져 있지 않다고 말했습니다. 이제 그는 그 점에 대해 거의 확신하고 있습니다. “제 생각에는 11월 기준으로...",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.7445,
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/11/18/ai-bubble-owen-lamont-70-percent-four-horsemen-stock-issuance-anthropic-ipo/",
+      "cross_verified": true,
+      "published_at": "2026-11-18T22:00:00.000000Z"
+    },
+    {
+      "title": "Anthropic Targets Record $100B IPO; Trump Signals Progress on Global Conflicts",
+      "title_ko": "앤트로픽, 사상 최대 규모인 1,000억 달러 규모 기업공개(IPO) 목표; 트럼프, 국제 분쟁 해결에 진전 신호",
+      "snippet": "Artificial intelligence startup Anthropic (ANT) has increased its IPO price ambitions, now targeting a range of $70 to $78 per share. The company is aiming",
+      "snippet_ko": "인공지능 스타트업 앤트로픽(ANT)이 기업공개(IPO) 가격 목표를 상향 조정해, 현재 주당 70~78달러 범위를 목표로 하고 있다. 이 회사는",
+      "symbol": "NVDA",
+      "sentiment_score": -0.5504,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/anthropic-targets-record-100b-ipo-trump-signals-progress-on-global-conflicts/74923/",
+      "cross_verified": true,
+      "published_at": "2026-11-19T01:08:15.000000Z"
+    },
+    {
+      "title": "Visa Unveils Next Generation of Subscription Management Solutions with Visa Recurrent",
+      "title_ko": "비자, ‘Visa Recurrent’를 통해 차세대 구독 관리 솔루션 공개",
+      "snippet": "**media[1315482]**Unveiled on day 2 of Singapore FinTech Festival (SFF) 2026, Visa Recurrent is a next-generation subscription management solution that gives consumers greater visibility and control while helping financial institutions and merchants reduce friction across the recurring payment lifecycleKiwibank, the largest New Zealand owned bank, is the first issuer globally to bring Visa Recurrent directly into its mobile banking app and internet bankingSINGAPORE, Nov. 19, 2026 /PRNewswire/ -- Visa, a world leader in digital payments, today announced Visa Recurrent, a new solution that connects consumers, financial institutions and participating merchants across the recurring payments lifecycle. It enables consumers to view and manage recurring payments through their financial institution's digital banking experiences, giving them greater visibility and control over recurring payments, at the same time helping financial institutions and merchants deliver more seamless payment experiences. Visa also announced that Kiwibank is the first issuer globally to deploy Visa Recurrent through its mobile banking app and internet banking, to help give Kiwibank customers a simpler way to understand and manage recurring payments commitments on a channel they already use and trust.",
+      "snippet_ko": "**media[1315482]**2026년 싱가포르 핀테크 페스티벌(SFF) 2일차에 공개된 ‘Visa Recurrent’는 소비자에게 더 나은 가시성과 제어권을 제공하는 동시에, 금융 기관과 가맹점이 정기 결제 라이프사이클 전반에 걸친 마찰을 줄일 수 있도록 돕는 차세대 구독 관리 솔루션입니다. 뉴질랜드 최대의 현지 은행인 키위뱅크(Kiwibank)는 전 세계에서 최초로 ‘Visa Recurrent’를 자사의 모바일 뱅킹 앱과 인터넷 뱅킹에 직접 도입한 카드 발급사입니다. 싱가포르, 2026년 11월 19일 /PRNewswire/ --",
+      "symbol": "V",
+      "sentiment_score": 0.0,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/11/19/tmt-newswire/pr-newswire/visa-unveils-next-generation-of-subscription-management-solutions-with-visa-recurrent/2473658",
+      "cross_verified": true,
+      "published_at": "2026-11-19T00:25:19.000000Z"
+    },
     {
       "title": "Meta: Financial Engineering Masks The Real Debt Burden",
       "title_ko": "메타: 금융 공학이 실제 부채 부담을 가리고 있다",
@@ -2343,66 +2403,6 @@
       "url": "https://www.livemint.com/companies/anthropic-targets-1-trillion-ipo-valuation-in-test-of-wall-streets-ai-fervor-11794311074716.html",
       "cross_verified": true,
       "published_at": "2026-11-10T11:48:03.000000Z"
-    },
-    {
-      "title": "Anthropic Reportedly Retracts Nearly $70 Bln IPO Plan After Briefly Sharing With Banks",
-      "title_ko": "앤트로픽, 은행 측에 잠시 공유한 뒤 약 700억 달러 규모의 기업공개(IPO) 계획을 철회한 것으로 알려졌다",
-      "snippet": "Anthropic's (ANT) planned initial public offering, which is expected to raise nearly $70 billion, was briefly shared with banks before the company withdrew the details late on Monday, according to a report by Reuters.",
-      "snippet_ko": "로이터 통신의 보도에 따르면, 약 700억 달러를 조달할 것으로 예상되는 앤트로픽(ANT)의 기업공개(IPO) 계획이 은행 측에 잠시 공유되었으나, 월요일 늦게 회사가 세부 내용을 철회했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.2612,
-      "source": "rttnews.com",
-      "url": "https://www.rttnews.com/story.aspx?Id=3712436",
-      "cross_verified": true,
-      "published_at": "2026-11-10T10:25:20.000000Z"
-    },
-    {
-      "title": "Meta: Muse Celebrations Are Over, Reality Kicks In (Rating Upgrade) (NASDAQ:META)",
-      "title_ko": "메타: 뮤즈에 대한 열광은 끝났고, 현실이 다가왔다 (신용등급 상향) (나스닥:META)",
-      "snippet": "Meta Platforms stock surged on Muse AI hype, but rising costs and margin pressure raise risks. Here's what investors need to know about META stock.",
-      "snippet_ko": "뮤즈 AI에 대한 기대감으로 메타 플랫폼스 주가가 급등했으나, 비용 증가와 마진 압박으로 인해 위험 요인이 커지고 있다. 투자자들이 META 주가에 대해 알아야 할 사항은 다음과 같다.",
-      "symbol": "META",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4965321-meta-muse-celebrations-are-over-reality-kicks-in-upgrade",
-      "cross_verified": true,
-      "published_at": "2026-11-10T10:15:00.000000Z"
-    },
-    {
-      "title": "Alphabet mulls Asia bond sale as AI concerns fuel global volatility",
-      "title_ko": "AI에 대한 우려가 전 세계적 변동성을 부추기면서 알파벳, 아시아 채권 발행 검토 중",
-      "snippet": "The Google parent had spoken with banks and investors about a debt sale as early as this month",
-      "snippet_ko": "구글의 모회사는 빠르면 이번 달에 채권 발행과 관련해 은행 및 투자자들과 논의한 바 있다",
-      "symbol": "AMZN",
-      "sentiment_score": 0.0617,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/alphabet-mulls-asia-bond-sale-as-ai-concerns-fuel-global-volatility-126110900413_1.html",
-      "cross_verified": true,
-      "published_at": "2026-11-09T07:13:47.000000Z"
-    },
-    {
-      "title": "Berkshire Hathaway Boosts Buybacks as Operating Income Slips",
-      "title_ko": "버크셔 해서웨이, 영업이익 감소 속 자사주 매입 확대",
-      "snippet": "Berkshire Hathaway Inc. spent about $9.6 billion to buy back its own shares in the third quarter, a sign the company's executives viewed the stock as",
-      "snippet_ko": "버크셔 해서웨이(Berkshire Hathaway Inc.)는 3분기에 자사주 매입에 약 96억 달러를 지출했는데, 이는 회사 경영진이 해당 주식을",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.5665,
-      "source": "insurancejournal.com",
-      "url": "https://www.insurancejournal.com/news/national/2026/11/09/891933.htm",
-      "cross_verified": true,
-      "published_at": "2026-11-09T06:08:29.000000Z"
-    },
-    {
-      "title": "Trump Signals Openness to AI Guardrails; Set to Meet Qatar PM for Crisis Talks",
-      "title_ko": "트럼프, AI 규제 도입에 개방적 태도 시사…카타르 총리와 위기 대응 회담 예정",
-      "snippet": "President Donald Trump has signaled a potential softening of his stance on Artificial Intelligence (AI) regulation, telling CBS's 60 Minutes that while",
-      "snippet_ko": "도널드 트럼프 대통령은 CBS의 ‘60 Minutes’와의 인터뷰에서, 비록…라고 말하며 인공지능(AI) 규제에 대한 자신의 입장이 완화될 가능성을 시사했다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.6486,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/trump-signals-openness-to-ai-guardrails-set-to-meet-qatar-pm-for-crisis-talks/74357/",
-      "cross_verified": true,
-      "published_at": "2026-11-09T00:38:15.000000Z"
     }
   ]
 }
