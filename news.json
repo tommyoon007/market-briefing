@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-19T03:03:47.584844+00:00",
+  "updated_at": "2026-11-19T12:43:26.193112+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Best PEO Services (2026): 29 Compared",
+      "title_ko": "최고의 PEO 서비스 (2026): 29개 업체 비교",
+      "snippet": "The best PEO services: 29 PEO services compared by verified price ($79–$110/employee/mo), features and integrations. Updated Nov 2026.",
+      "snippet_ko": "최고의 PEO 서비스: 검증된 가격(직원 1인당 월 $79–$110), 기능 및 연동 기능을 기준으로 29개 PEO 서비스를 비교했습니다. 2026년 11월 업데이트.",
+      "symbol": "",
+      "sentiment_score": 0.371,
+      "source": "leadchangegroup.com",
+      "url": "https://leadchangegroup.com/peo-services/",
+      "cross_verified": true,
+      "published_at": "2026-11-19T11:53:26.000000Z"
+    },
+    {
+      "title": "AMD Is The Potential Winner From Nvidia Fallout",
+      "title_ko": "AMD, 엔비디아 사태의 잠재적 수혜자",
+      "snippet": "Advanced Micro Devices expects revenue growth above 80% in 2027, with data centers exceeding 80% of revenue and significant operating margin expansion.",
+      "snippet_ko": "어드밴스드 마이크로 디바이스(AMD)는 2027년에 매출이 80% 이상 증가할 것으로 전망하며, 이 중 데이터 센터 부문이 매출의 80% 이상을 차지하고 영업이익률도 크게 확대될 것으로 내다보고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.2732,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4969926-amd-is-the-potential-winner-from-nvidia-fallout",
+      "cross_verified": true,
+      "published_at": "2026-11-19T11:45:00.000000Z"
+    },
     {
       "title": "Precision Optics Corporation, Inc. (POCI) Q1 2027 Earnings Call Transcript",
       "title_ko": "프리시전 옵틱스 코퍼레이션(POCI) 2027년 1분기 실적 발표 전화 회의 기록",
@@ -1177,33 +1201,69 @@
       "url": "https://seekingalpha.com/news/4666166-electrocore-outlines-30-percent-to-40-percent-2027-revenue-growth-while-targeting-positive",
       "cross_verified": true,
       "published_at": "2026-11-05T04:55:35.000000Z"
-    },
-    {
-      "title": "Dynex Capital: I See A Recovery From The Ashes Of A Tough Quarter - Buy (NYSE:DX)",
-      "title_ko": "다이넥스 캐피털: 힘든 분기의 잿더미 속에서 회복 조짐을 본다 - 매수 (NYSE:DX)",
-      "snippet": "Dynex Capital may be a contrarian turnaround buy, with recovery potential, dividend risk, and upside before financials fully improve. Read more on DX stock.",
-      "snippet_ko": "Dynex Capital은 회복 가능성이 있고, 배당 위험이 있으며, 재무 상태가 완전히 개선되기 전까지 상승 여력이 있는 역발상형 회생 매수 대상일 수 있습니다. DX 주식에 대해 더 자세히 알아보세요.",
-      "symbol": "",
-      "sentiment_score": 0.0412,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4962684-dynex-capital-i-see-a-recovery-from-the-ashes-of-a-tough-quarter-buy",
-      "cross_verified": true,
-      "published_at": "2026-11-05T04:52:13.000000Z"
-    },
-    {
-      "title": "Amdocs: The T-Mobile Shock Changes Everything (Rating Downgrade) (NASDAQ:DOX)",
-      "title_ko": "Amdocs: T-Mobile의 충격적인 발표가 모든 것을 뒤바꾼다 (신용등급 하향 조정) (NASDAQ:DOX)",
-      "snippet": "Amdocs plunges after cutting guidance amid its T-Mobile dispute.",
-      "snippet_ko": "Amdocs, T-Mobile과의 분쟁 속에서 실적 전망치를 하향 조정한 후 주가가 급락했다.",
-      "symbol": "",
-      "sentiment_score": -0.4017,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4962683-amdocs-stock-t-mobile-shock-changes-everything-rating-downgrade",
-      "cross_verified": true,
-      "published_at": "2026-11-05T04:52:00.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Wall Street Breakfast Podcast: AI Goes Public, GTA VI Goes Global",
+      "title_ko": "월스트리트 브렉퍼스트 팟캐스트: AI 기업 상장, GTA VI의 글로벌 진출",
+      "snippet": "AI goes public as Anthropic prices the biggest IPO. Grand Theft Auto VI launches to near-perfect reviews after 13 years. Situational Awareness plots a leveraged trading comeback.",
+      "snippet_ko": "앤트로픽이 사상 최대 규모의 기업공개(IPO) 가격을 책정하며 AI 기업이 상장했다. 13년 만에 출시된 ‘그랜드 테프트 오토 VI’가 거의 만점에 가까운 호평을 받았다. 시추에셔널 어웨어니스가 레버리지 거래를 통해 재기를 노리고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3503,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4970059-wall-street-breakfast-podcast-ai-goes-public",
+      "cross_verified": true,
+      "published_at": "2026-11-19T12:16:00.000000Z"
+    },
+    {
+      "title": "Tech and AI Surge Drives Nasdaq Higher While Energy and Metals Retreat",
+      "title_ko": "기술주와 AI 관련주 급등에 힘입어 나스닥 지수가 상승한 반면, 에너지 및 금속주는 하락세를 보였다",
+      "snippet": "U.S. stock markets opened with a sharp divergence on Thursday, November 19th, 2026, as a massive rally in technology and artificial intelligence sectors",
+      "snippet_ko": "2026년 11월 19일 목요일, 미국 증시는 기술 및 인공지능 분야의 대규모 상승세에 힘입어 개장 초반부터 큰 폭의 엇갈린 흐름을 보였습니다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.2946,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-ai-surge-drives-nasdaq-higher-while-energy-and-metals-retreat/74943/",
+      "cross_verified": true,
+      "published_at": "2026-11-19T11:07:15.000000Z"
+    },
+    {
+      "title": "Tiger-backed Razorpay set to file for India IPO as early as next week",
+      "title_ko": "타이거 캐피털의 투자를 받은 레이저페이, 빠르면 다음 주 인도 기업공개(IPO) 신청 예정",
+      "snippet": "Tiger Global-backed Razorpay is preparing to file its IPO papers in India as early as next week, with investor roadshows expected to follow immediately. The Bengaluru-based fintech firm could launch its public offering as early as February, aiming to raise up to $600 million through a mix of fresh and secondary share sales.",
+      "snippet_ko": "타이거 글로벌의 투자를 받은 라저페이(Razorpay)가 빠르면 다음 주 인도에서 기업공개(IPO) 신청서를 제출할 준비를 하고 있으며, 이에 이어 곧바로 투자자 대상 로드쇼가 진행될 것으로 예상된다. 벵갈루루에 본사를 둔 이 핀테크 기업은 빠르면 2월에 공모를 시작할 예정이며, 신규 주식 발행과 기존 주식 매각을 병행해 최대 6억 달러를 조달하는 것을 목표로 하고 있다.",
+      "symbol": "META",
+      "sentiment_score": 0.0,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/tiger-backed-razorpay-set-to-file-for-india-ipo-as-early-as-next-week/articleshow/135983381.cms",
+      "cross_verified": true,
+      "published_at": "2026-11-19T08:45:45.000000Z"
+    },
+    {
+      "title": "The bill for Trump’s trade war is coming due—at home and abroad",
+      "title_ko": "트럼프의 무역 전쟁에 따른 대가가 국내외에서 차례로 치러지고 있다",
+      "snippet": "Also: All the news and watercooler chat from Fortune.",
+      "snippet_ko": "또한: 포춘(Fortune)의 모든 뉴스와 사내 수다거리.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.4019,
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/11/19/trump-xi-putin-trade-war-shenzen/",
+      "cross_verified": true,
+      "published_at": "2026-11-19T10:56:25.000000Z"
+    },
+    {
+      "title": "$500 billion Nvidia funding deal turned out to be Scotch mist: ‘Capital ... is going to disappear'",
+      "title_ko": "5,000억 달러 규모의 엔비디아 자금 조달 계약은 허상으로 드러났다: “자본은… 사라질 것이다”",
+      "snippet": "Everything you need to know before you reach the office this morning.",
+      "snippet_ko": "오늘 아침 사무실에 도착하기 전에 꼭 알아두어야 할 모든 것.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.089,
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/11/19/nvidia-funding-deal-anthropic-ipo/",
+      "cross_verified": true,
+      "published_at": "2026-11-19T10:26:31.000000Z"
+    },
     {
       "title": "Anthropic Prices $81.3 Billion IPO at $83 Ahead of Nasdaq Debut",
       "title_ko": "앤트로픽, 나스닥 상장 앞두고 813억 달러 규모 IPO 주당 83달러로 책정",
@@ -2343,66 +2403,6 @@
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-targets-90-billion-ipo-at-1-4-trillion-valuation/articleshow/135721872.cms",
       "cross_verified": true,
       "published_at": "2026-11-11T00:27:03.000000Z"
-    },
-    {
-      "title": "Immutep Announces Release of CTOS 2026 Abstract Reporting First Survival Data from EFTISARC-NEO",
-      "title_ko": "이뮤텝, EFTISARC-NEO 연구의 첫 생존 데이터를 담은 CTOS 2026 초록 발표",
-      "snippet": "First survival data from EFTISARC-NEO, released in CTOS 2026 Abstract, demonstrate encouraging preliminary long-term outcomes in patients with resectable soft tissue sarcoma (STS).With a median follow-up of 19.1 months, 12-month disease-free survival (DFS), local recurrence-free survival (LRFS) and distant metastasis-free survival (DMFS) rates were 81.1%, 94.1% and 86.2%, respectively, in 38 evaluable patients.Investigators conclude that efti plus KEYTRUDA® (pembrolizumab) and radiotherapy as neoadjuvant therapy showed promising preliminary long-term outcomes warranting registrationally relevant trials in patients with STS.Further and new analyses will be presented in a poster discussion session on 19 November 2026 and will be the subject of a further announcement by the Company.SYDNEY, AUSTRALIA, Nov. 11, 2026 (GLOBE NEWSWIRE) -- Immutep Limited (ASX: IMM; NASDAQ: IMMP) today announced the release of an abstract reporting interim disease-free survival data and clinicopathological correlates from EFTISARC-NEO, the investigator-initiated Phase II trial of eftilagimod alfa (efti) plus KEYTRUDA® (pembrolizumab) and radiotherapy as neoadjuvant treatment for resectable soft tissue sarcoma (STS). Further detail and analyses will be presented in a poster discussion session on 19 November 2026 at the Connective Tissue Oncology Society (CTOS) 2026 Annual Meeting, being held from 18-21 November 2026 in Seoul, South Korea.",
-      "snippet_ko": "CTOS 2026 초록을 통해 공개된 EFTISARC-NEO 연구의 첫 생존 데이터는 절제 가능한 연조직 육종(STS) 환자에서 고무적인 초기 장기 예후를 보여주고 있다.추적 관찰 기간 중앙값 19.1개월 시점에서, 평가 가능한 환자 38명을 대상으로 한 12개월 무병 생존율(DFS), 국소 재발 없는 생존율(LRFS) 및 원격 전이 없는 생존율(DMFS)은 각각 81.1%, 94.1%, 86.2%로 나타났습니다. 연구진은 efti와 KEYTRUDA®(펨브롤리주맙), 그리고 방사선 치료를 병용한 신",
-      "symbol": "MRK",
-      "sentiment_score": 0.0821,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/globenewswire/immutep-announces-release-of-ctos-2026-abstract-reporting-first-survival-data-from-eftisarc-neo/2467129",
-      "cross_verified": true,
-      "published_at": "2026-11-10T23:17:15.000000Z"
-    },
-    {
-      "title": "YieldMax® ETFs Announces Weekly Distributions for Group 1 ETFs",
-      "title_ko": "YieldMax® ETF, 그룹 1 ETF에 대한 주간 배당금 지급 발표",
-      "snippet": "CHICAGO and MILWAUKEE and NEW YORK, Nov. 10, 2026 (GLOBE NEWSWIRE) -- YieldMax® ETFs announced distributions for the YieldMax® Group 1 weekly pay ETFs.",
-      "snippet_ko": "시카고, 밀워키, 뉴욕, 2026년 11월 10일 (GLOBE NEWSWIRE) -- YieldMax® ETF는 YieldMax® Group 1 주간 배당형 ETF에 대한 배당금을 발표했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.8166,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/globenewswire/yieldmax-etfs-announces-weekly-distributions-for-group-1-etfs/2466919",
-      "cross_verified": true,
-      "published_at": "2026-11-10T18:53:08.000000Z"
-    },
-    {
-      "title": "Amazon's Ring launches flying security drones, patrol robots to guard homes, businesses",
-      "title_ko": "아마존의 ‘링(Ring)’, 주택과 상가를 지키기 위한 비행 보안 드론 및 순찰 로봇 출시",
-      "snippet": "Amazon introduced Ring Robotics, an indoor security drone and an autonomous 4K business robot powered by AI Pilot to monitor areas fixed cameras miss.",
-      "snippet_ko": "아마존은 고정형 카메라가 포착하지 못하는 구역을 모니터링하기 위해 AI Pilot 기술을 탑재한 실내 보안 드론과 자율 주행 4K 업무용 로봇인 ‘링 로보틱스(Ring Robotics)’를 선보였다.",
-      "symbol": "AMZN",
-      "sentiment_score": -0.7378,
-      "source": "foxbusiness.com",
-      "url": "https://www.foxbusiness.com/technology/amazon-ring-launches-flying-security-drones-patrol-robots-guard-homes-businesses",
-      "cross_verified": true,
-      "published_at": "2026-11-10T18:41:47.000000Z"
-    },
-    {
-      "title": "Amazon.com, Inc. (AMZN) Sold Off After AWS Growth Accelerated: What Changed?",
-      "title_ko": "AWS 성장세가 가속화되자 Amazon.com, Inc. (AMZN) 주가가 급락했다: 무엇이 달라졌을까?",
-      "snippet": "Liontrust Investment Partners recently released its “Global Innovation Fund” Q3 2026 investor letter. A copy of the letter can be downloaded here.",
-      "snippet_ko": "라이온트러스트 인베스트먼트 파트너스(Liontrust Investment Partners)는 최근 ‘글로벌 이노베이션 펀드(Global Innovation Fund)’의 2026년 3분기 투자자 서한을 발표했습니다. 해당 서한의 사본은 여기에서 다운로드할 수 있습니다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.3818,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/amazon-com-inc-amzn-sold-off-after-aws-growth-accelerated-what-changed-1863729/",
-      "cross_verified": true,
-      "published_at": "2026-11-10T16:22:58.000000Z"
-    },
-    {
-      "title": "Anthropic targets $1 trillion IPO valuation in test of Wall Street's AI fervor",
-      "title_ko": "앤트로픽, 월가의 AI 열기를 가늠할 1조 달러 규모의 기업공개(IPO) 기업가치 목표",
-      "snippet": "Anthropic plans to price its IPO at $70 to $78 per share, seeking a valuation as high as $1.02 trillion.",
-      "snippet_ko": "앤트로픽은 주당 70~78달러에 기업공개(IPO)를 진행할 계획이며, 최대 1.02조 달러의 기업 가치를 목표로 하고 있다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.5263,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/anthropic-targets-1-trillion-ipo-valuation-in-test-of-wall-streets-ai-fervor-11794311074716.html",
-      "cross_verified": true,
-      "published_at": "2026-11-10T11:48:03.000000Z"
     }
   ]
 }
