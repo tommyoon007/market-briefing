@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-20T06:45:57.172167+00:00",
+  "updated_at": "2026-11-20T16:52:27.173895+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Sandisk slides 14% amid broad memory sector weakness",
+      "title_ko": "메모리 업계 전반의 부진 속에 샌디스크 주가 14% 하락",
+      "snippet": "Sandisk shares fall 13.9% to $81.31 as memory peers slide about 10%, while the XLK ETF loses nearly 4% and QQQ falls about 2%.",
+      "snippet_ko": "메모리 관련주들이 약 10% 하락하는 가운데 샌디스크 주가는 13.9% 하락한 81.31달러를 기록했으며, XLK ETF는 4% 가까이, QQQ는 약 2% 하락했다.",
+      "symbol": "",
+      "sentiment_score": -0.4215,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4675224-sandisk-slides-14-percent-amid-broad-memory-sector-weakness",
+      "cross_verified": true,
+      "published_at": "2026-11-20T15:59:45.000000Z"
+    },
+    {
+      "title": "HP Inc. Vs. HP Enterprise: What Intel's Earnings Stumble Portends",
+      "title_ko": "HP Inc. 대 HP Enterprise: 인텔의 실적 부진이 시사하는 바",
+      "snippet": "Analyst rates HP Inc a Hold at 10.92x trailing earnings: valuation offsets PC headwinds, though a modest earnings beat could trigger a pullback.",
+      "snippet_ko": "한 애널리스트는 HP Inc에 대해 과거 실적 기준 주가수익비율(PER) 10.92배를 바탕으로 ‘보유(Hold)’ 등급을 부여했다. 기업 가치 평가가 PC 부문의 역풍을 상쇄하고 있지만, 실적이 예상치를 소폭 상회할 경우 주가가 일시적으로 조정될 수 있다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4970608-hp-inc-vs-hp-enterprise-what-intel-earnings-stumble-portends",
+      "cross_verified": true,
+      "published_at": "2026-11-20T15:44:03.000000Z"
+    },
     {
       "title": "Natural Grocers by Vitamin Cottage, Inc. 2026 Q4 - Results - Earnings Call Presentation",
       "title_ko": "Natural Grocers by Vitamin Cottage, Inc. 2026년 4분기 - 실적 - 실적 발표회 프레젠테이션",
@@ -1177,33 +1201,81 @@
       "url": "https://www.reinsurancene.ws/rgas-consolidated-net-premiums-rise-25-for-q326-to-5-4bn/",
       "cross_verified": true,
       "published_at": "2026-11-06T15:00:37.000000Z"
-    },
-    {
-      "title": "Apa outlines ~$2.5B 2027 upstream capital plan while targeting $2B net debt (NASDAQ:APA)",
-      "title_ko": "Apa, 2027년 상류 부문 자본 투자 계획 약 25억 달러를 발표하며 순부채 20억 달러 목표 제시 (NASDAQ:APA)",
-      "snippet": "APA Q3 2026 earnings: stronger free cash flow, lower debt targets, and Suriname progress boost outlook.",
-      "snippet_ko": "APA 2026년 3분기 실적: 자유 현금 흐름 개선, 부채 목표치 하향 조정, 수리남 사업 진전으로 전망이 밝아졌다.",
-      "symbol": "",
-      "sentiment_score": -0.3612,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4667492-apa-outlines-2_5b-2027-upstream-capital-plan-while-targeting-2b-net-debt",
-      "cross_verified": true,
-      "published_at": "2026-11-05T22:15:38.000000Z"
-    },
-    {
-      "title": "NextDecade: Closer To Production, Still A Speculative Buy (NASDAQ:NEXT)",
-      "title_ko": "NextDecade: 양산 단계에 한 걸음 더 가까워졌으나, 여전히 투기적 매수 대상 (NASDAQ:NEXT)",
-      "snippet": "Speculative buy on NextDecade as Rio Grande LNG advances and shares fall.",
-      "snippet_ko": "리오 그란데 LNG 사업이 진전되고 주가가 하락함에 따라 넥스트데케이드(NextDecade)에 대한 투기적 매수세가 나타나고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.3593,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4963000-nextdecade-closer-to-production-still-a-speculative-buy",
-      "cross_verified": true,
-      "published_at": "2026-11-05T14:48:26.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Nvidia Overtaken by Alphabet Amid Leadership Turmoil; US-China Trade Talks Intensify",
+      "title_ko": "경영진 혼란 속 엔비디아, 알파벳에 추월당해… 미·중 무역 협상 격화",
+      "snippet": "Nvidia (NVDA) surrendered its position as the third-most valuable US public company to Google-parent Alphabet (GOOGL) on Friday. The chipmaker's market",
+      "snippet_ko": "엔비디아(NVDA)는 금요일, 미국 상장 기업 시가총액 3위 자리를 구글의 모회사인 알파벳(GOOGL)에 내주었다. 이 반도체 제조사의 시가총액은",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.3816,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/nvidia-overtaken-by-alphabet-amid-leadership-turmoil-us-china-trade-talks-intensify/75025/",
+      "cross_verified": true,
+      "published_at": "2026-11-20T15:38:13.000000Z"
+    },
+    {
+      "title": "Tech Sector Volatility and Retail Earnings Take Center Stage This Friday",
+      "title_ko": "이번 금요일, 기술주 변동성과 소매업체 실적 발표가 주목받을 전망",
+      "snippet": "The U.S. stock market enters Friday, November 20th, 2026, with a cautious tone as investors navigate a landscape defined by significant volatility in the",
+      "snippet_ko": "2026년 11월 20일 금요일, 미국 증시는 투자자들이 [ ]의 상당한 변동성이 특징인 시장 상황을 헤쳐나가는 가운데 신중한 분위기 속에서 장을 열었다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3478,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-sector-volatility-and-retail-earnings-take-center-stage-this-friday/75016/",
+      "cross_verified": true,
+      "published_at": "2026-11-20T14:07:13.000000Z"
+    },
+    {
+      "title": "Anthropic’s Nasdaq Debut Sparks Buying Rush Among Indian Retail Investors",
+      "title_ko": "앤트로픽의 나스닥 상장 소식에 인도 개인 투자자들 사이에서 매수 열풍이 일고 있다",
+      "snippet": "For much of the AI boom, direct investments in companies such as Anthropic and OpenAI have been largely limited to VC firms, institutional investors, and wealthy individuals",
+      "snippet_ko": "AI 붐이 일던 기간 대부분 동안, Anthropic이나 OpenAI와 같은 기업에 대한 직접 투자는 주로 벤처캐피털(VC) 회사, 기관 투자자, 그리고 부유한 개인 투자자들로 제한되어 왔다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.3554,
+      "source": "inc42.com",
+      "url": "https://inc42.com/buzz/anthropics-nasdaq-debut-sparks-buying-rush-among-indian-retail-investors/",
+      "cross_verified": true,
+      "published_at": "2026-11-20T13:42:49.000000Z"
+    },
+    {
+      "title": "Ex-Super Micro exec married to Nvidia’s former sales chief says she took CEO job days before smuggling scandal broke",
+      "title_ko": "엔비디아의 전 영업 총괄과 결혼한 슈퍼마이크로 전 임원은 밀수 스캔들이 터지기 며칠 전에 CEO 직을 맡았다고 밝혔다",
+      "snippet": "ChronoScale, which is majority owned by Applied Digital, is sending $200 million to Super Micro through a subsidiary to pay for GPUs, a filing this week shows.",
+      "snippet_ko": "애플라이드 디지털이 지분의 과반수를 보유한 크로노스케일(ChronoScale)이 GPU 대금을 지급하기 위해 자회사를 통해 슈퍼 마이크로(Super Micro)에 2억 달러를 송금하고 있는 것으로, 이번 주 제출된 서류에 따르면 밝혀졌다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.1655,
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/11/20/ex-super-micro-exec-cenly-chen-married-nvda-jay-puri-chronoscale-ceo-china-gpu-scandal/",
+      "cross_verified": true,
+      "published_at": "2026-11-20T15:20:04.000000Z"
+    },
+    {
+      "title": "AI stocks sell off after Anthropic’s record IPO as Wall Street splits on whether it’s the top",
+      "title_ko": "앤트로픽의 사상 최대 규모 기업공개(IPO) 이후 AI 관련주들이 급락하는 가운데, 월가에서는 이것이 정점인지에 대해 의견이 엇갈리고 있다",
+      "snippet": "The Dow fell 1,101 points Thursday as Anthropic closed its debut up 17%. Capital Economics says the falls “have further to run.” Goldman still sees 8,700.",
+      "snippet_ko": "목요일 다우지수는 1,101포인트 하락한 가운데, 앤트로픽은 상장 첫날 17% 상승하며 장을 마감했다. 캐피털 이코노믹스는 이번 하락세가 “아직 더 이어질 것”이라고 전망했다. 골드만삭스는 여전히 8,700을 예상하고 있다.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.2263,
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/11/20/ai-stocks-selloff-anthropic-record-ipo-wall-street-split-top/",
+      "cross_verified": true,
+      "published_at": "2026-11-20T15:19:29.000000Z"
+    },
+    {
+      "title": "Tech Sector Slides as Dow Gains: Market Divergence Defines Friday Trading",
+      "title_ko": "다우 지수 상승 속 기술주 하락… 금요일 장, 시장 양극화 양상",
+      "snippet": "The U.S. stock market opened Friday, November 20th, 2026, with a notable divergence between blue-chip value stocks and the high-flying technology sector. As",
+      "snippet_ko": "2026년 11월 20일 금요일, 미국 증시는 우량 가치주와 급등세를 보였던 기술주 부문 간에 뚜렷한 격차를 보이며 개장했다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.605,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-sector-slides-as-dow-gains-market-divergence-defines-friday-trading/75023/",
+      "cross_verified": true,
+      "published_at": "2026-11-20T15:07:15.000000Z"
+    },
     {
       "title": "Anthropic makes a $1.8 trillion debut: What investors should watch next",
       "title_ko": "앤트로픽, 1조 8천억 달러 규모로 상장… 투자자들이 앞으로 주목해야 할 점",
@@ -2331,78 +2403,6 @@
       "url": "https://www.business-standard.com/world-news/nvidia-drama-triggers-difficult-search-for-jensen-huang-s-successor-126111200343_1.html",
       "cross_verified": true,
       "published_at": "2026-11-12T05:52:48.000000Z"
-    },
-    {
-      "title": "Chip rivals AMD, Broadcom rally as Nvidia board weighs ousting CEO Jensen Huang (AMD:NASDAQ)",
-      "title_ko": "엔비디아 이사회가 젠슨 황 CEO의 해임을 검토하는 가운데, 경쟁사인 AMD와 브로드컴의 주가가 반등했다 (AMD:NASDAQ)",
-      "snippet": "Nvidia falls 9% after hours on reports its board may oust CEO Jensen Huang; AMD and Broadcom gain over 3% on hopes of extra accelerator business.",
-      "snippet_ko": "엔비디아, 이사회가 젠슨 황 CEO를 해임할 수 있다는 보도에 장 마감 후 주가가 9% 하락; AMD와 브로드컴은 가속기 사업 확대 기대감에 3% 이상 상승.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.765,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4671101-chip-rivals-amd-broadcom-rally-as-nvidia-board-weighs-ousting-ceo-jensen-huang",
-      "cross_verified": true,
-      "published_at": "2026-11-12T04:46:54.000000Z"
-    },
-    {
-      "title": "Rantizo Launches California Commercial Expansion with Houston-Built Harvest 100 Agricultural Drone",
-      "title_ko": "란티조, 휴스턴에서 제작된 ‘하베스트 100’ 농업용 드론을 앞세워 캘리포니아 시장 진출 본격화",
-      "snippet": "Autonomous drone developer Rantizo (Nasdaq:RNTZ) announced Wednesday it is expanding commercial field…",
-      "snippet_ko": "자율 비행 드론 개발업체 란티조(Rantizo, 나스닥: RNTZ)는 수요일 상업적 분야를 확대하고 있다고 발표했다…",
-      "symbol": "AAPL",
-      "sentiment_score": 0.0,
-      "source": "themarketherald.com.au",
-      "url": "https://themarketonline.com.au/rantizo-launches-california-commercial-expansion-with-houston-built-harvest-100-agricultural-drone-2026-11-12/",
-      "cross_verified": true,
-      "published_at": "2026-11-11T22:11:37.000000Z"
-    },
-    {
-      "title": "Tech Sector Drags on Major Indexes as Investors Await Key Inflation Data and Cisco Earnings",
-      "title_ko": "투자자들이 주요 인플레이션 지표와 시스코의 실적 발표를 기다리는 가운데, 기술주가 주요 지수의 발목을 잡고 있다",
-      "snippet": "U.S. equity markets experienced a day of cautious trading on Wednesday, November 11th, 2026, as investors balanced optimism over corporate resilience against",
-      "snippet_ko": "2026년 11월 11일 수요일, 미국 주식 시장은 투자자들이 기업의 회복력에 대한 낙관론과",
-      "symbol": "AAPL",
-      "sentiment_score": 0.5494,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-sector-drags-on-major-indexes-as-investors-await-key-inflation-data-and-cisco-earnings/74538/",
-      "cross_verified": true,
-      "published_at": "2026-11-11T22:07:19.000000Z"
-    },
-    {
-      "title": "Alphabet's DeepMind unveils new AlphaGenome 2 model aimed at reading DNA cells (GOOG:NASDAQ)",
-      "title_ko": "알파벳(Alphabet) 산하 딥마인드(DeepMind), DNA 세포 판독을 목표로 한 새로운 ‘알파제놈 2(AlphaGenome 2)’ 모델 공개 (GOOG:NASDAQ)",
-      "snippet": "DeepMind says AlphaGenome 2 identifies nearly twice as many gene-expression variants as its predecessor and predicts effects in specific cell types.",
-      "snippet_ko": "딥마인드(DeepMind)에 따르면, 알파제놈 2(AlphaGenome 2)는 이전 버전보다 거의 두 배에 달하는 유전자 발현 변이를 식별하며, 특정 세포 유형에서 나타나는 영향을 예측한다고 한다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.4767,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4670939-alphabets-deepmind-unveils-new-alphagenome-2-model-aimed-at-reading-dna-cells",
-      "cross_verified": true,
-      "published_at": "2026-11-11T19:48:03.000000Z"
-    },
-    {
-      "title": "Nvidia Is Losing The Jensen Huang Premium (NASDAQ:NVDA)",
-      "title_ko": "엔비디아, 젠슨 황 효과 사라지고 있다 (나스닥: NVDA)",
-      "snippet": "Nvidia's Q3 EPS could rise 90% year over year, and a 20x P/E could put shares near $320, about 80% upside. Click for this bull case on the NVDA stock.",
-      "snippet_ko": "엔비디아의 3분기 주당순이익(EPS)은 전년 동기 대비 90% 증가할 전망이며, 주가수익비율(P/E)이 20배라면 주가는 320달러 수준까지 상승할 수 있어 약 80%의 상승 여력이 있습니다. NVDA 주식에 대한 이 낙관적 전망을 보려면 여기를 클릭하세요.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.1275,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4966698-nvidia-is-losing-the-jensen-huang-premium",
-      "cross_verified": true,
-      "published_at": "2026-11-11T23:39:30.000000Z"
-    },
-    {
-      "title": "Treasury Secretary Relocates to Military Base Amid Iranian Threats; Google Tests “Hydrogen” AI",
-      "title_ko": "이란의 위협 속에 재무장관, 군사 기지로 이동… 구글, ‘수소’ AI 테스트 중",
-      "snippet": "U.S. Treasury Secretary Scott Bessent has moved his primary residence to a secure military base following credible intelligence regarding Iranian plots",
-      "snippet_ko": "스콧 베센트 미국 재무장관은 이란의 음모에 관한 신뢰할 만한 정보가 입수됨에 따라 주 거주지를 보안이 철저한 군사 기지로 옮겼다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.4937,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/treasury-secretary-relocates-to-military-base-amid-iranian-threats-google-tests-hydrogen-ai/74522/",
-      "cross_verified": true,
-      "published_at": "2026-11-11T16:38:14.000000Z"
     }
   ]
 }
