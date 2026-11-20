@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-20T16:52:27.173895+00:00",
+  "updated_at": "2026-11-20T23:52:53.008856+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Fluent, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+      "title_ko": "Fluent, Inc. 2026년 3분기 - 실적 - 실적 발표회 프레젠테이션",
+      "snippet": "2026-11-20. The following slide deck was published by Fluent, Inc.",
+      "snippet_ko": "2026년 11월 20일. 다음 슬라이드 자료는 Fluent, Inc.에서 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4970723-fluent-inc-2026-q3-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-11-20T23:03:21.000000Z"
+    },
+    {
+      "title": "Bath & Body Works: Major Deleveraging Unlocks Potential For Double-Digit Returns",
+      "title_ko": "배스 앤 바디 웍스: 대규모 부채 축소로 두 자릿수 수익률 달성 가능성 열려",
+      "snippet": "Bath & Body Works is rated a Strong Buy, as $600 million in free cash flow implies a 16% yield, with a cautious DCF value of $27.94 versus $19.16.",
+      "snippet_ko": "배스 앤 바디 웍스는 ‘강력 매수’ 등급을 받았는데, 6억 달러의 자유 현금 흐름이 16%의 수익률을 시사하며, 보수적으로 산정한 DCF 가치는 27.94달러로 19.16달러보다 높기 때문이다.",
+      "symbol": "",
+      "sentiment_score": 0.3125,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4970706-bath-and-body-works-major-deleveraging-unlocks-potential-for-double-digit-returns",
+      "cross_verified": true,
+      "published_at": "2026-11-20T22:41:50.000000Z"
+    },
+    {
+      "title": "Columbia Seligman Premium Technology Growth Fund declares $13.2298 special dividend",
+      "title_ko": "컬럼비아 셀리그먼 프리미엄 테크놀로지 성장 펀드가 13.2298달러의 특별 배당금을 선언했습니다.",
+      "snippet": "Columbia Seligman Premium Technology Growth Fund (STK) declares $13.2298/share special dividend. Payable Dec. 22; for shareholders of record Dec. 2; ex-div Dec.",
+      "snippet_ko": "컬럼비아 셀리그먼 프리미엄 테크놀로지 성장 펀드(STK)가 주당 13.2298달러의 특별 배당금을 선언했습니다. 배당금은 12월 22일에 지급되며, 기준일(12월 2일) 기준 주주에게 지급됩니다. 배당락일은 12월",
+      "symbol": "",
+      "sentiment_score": 0.4019,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4675376-columbia-seligman-premium-technology-growth-fund-declares-132298-special-dividend",
+      "cross_verified": true,
+      "published_at": "2026-11-20T22:34:44.000000Z"
+    },
     {
       "title": "Sandisk slides 14% amid broad memory sector weakness",
       "title_ko": "메모리 업계 전반의 부진 속에 샌디스크 주가 14% 하락",
@@ -1165,45 +1201,57 @@
       "url": "https://seekingalpha.com/article/4964344-chartwell-retirement-residences-csh-un-ca-q3-2026-earnings-call-transcript",
       "cross_verified": true,
       "published_at": "2026-11-06T20:24:57.000000Z"
-    },
-    {
-      "title": "Tech and AI Surge Drives Nasdaq Higher as Markets Digest Earnings and Policy Outlook",
-      "title_ko": "시장, 기업 실적과 정책 전망을 소화하는 가운데 기술주와 AI 관련주 급등에 힘입어 나스닥 지수 상승",
-      "snippet": "The U.S. stock market opened on Friday, November 6th, 2026, with a pronounced divergence between technology-heavy growth sectors and traditional blue-chip",
-      "snippet_ko": "2026년 11월 6일 금요일, 미국 증시는 기술주 중심의 성장주 부문과 전통적인 우량주 부문 간에 뚜렷한 격차를 보이며 개장했다.",
-      "symbol": "",
-      "sentiment_score": 0.0593,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-ai-surge-drives-nasdaq-higher-as-markets-digest-earnings-and-policy-outlook/74266/",
-      "cross_verified": true,
-      "published_at": "2026-11-06T15:07:15.000000Z"
-    },
-    {
-      "title": "Parkit Enterprise Inc. reports Q3 results (PKT:CA:TSXV)",
-      "title_ko": "Parkit Enterprise Inc., 3분기 실적 발표 (PKT:CA:TSXV)",
-      "snippet": "Parkit Enterprise reported a Q3 net loss as retained portfolio revenue rose year over year.",
-      "snippet_ko": "Parkit Enterprise는 보유 포트폴리오 매출이 전년 동기 대비 증가했음에도 불구하고 3분기 순손실을 기록했다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4668187-parkit-enterprise-inc-reports-q3-results",
-      "cross_verified": true,
-      "published_at": "2026-11-06T15:06:32.000000Z"
-    },
-    {
-      "title": "RGA’s consolidated net premiums rise 25% for Q3’26 to $5.4bn",
-      "title_ko": "RGA의 2026년 3분기 연결 순보험료는 25% 증가해 54억 달러를 기록했다",
-      "snippet": "Reinsurance Group of America, Incorporated (RGA), a global life and health reinsurer, has reported a 25% year-on-year increase in consolidated net",
-      "snippet_ko": "글로벌 생명·건강 재보험사인 리인슈어런스 그룹 오브 아메리카(RGA)는 연결 순이익이 전년 동기 대비 25% 증가했다고 발표했다.",
-      "symbol": "",
-      "sentiment_score": 0.3182,
-      "source": "reinsurancene.ws",
-      "url": "https://www.reinsurancene.ws/rgas-consolidated-net-premiums-rise-25-for-q326-to-5-4bn/",
-      "cross_verified": true,
-      "published_at": "2026-11-06T15:00:37.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "BNP Paribas sees ‘panic selling’ as the AI selloff drags the S&P 500 into a correction and wipes out the Nasdaq’s 2026 gains",
+      "title_ko": "BNP 파리바는 AI 관련 주가 급락으로 S&P 500 지수가 조정 국면에 접어들고 나스닥의 2026년 상승분을 모두 날려버리자 이를 ‘공황 매도’로 보고 있다.",
+      "snippet": "The S&P 500 and Dow slid more than 10% below their records Friday as the AI selloff spread. Some on Wall Street called it panic.",
+      "snippet_ko": "금요일, 인공지능(AI) 관련 매도세가 확산되면서 S&P 500 지수와 다우 지수가 사상 최고치보다 10% 이상 하락했다. 월가의 일부에서는 이를 ‘공황’이라고 표현했다.",
+      "symbol": "AVGO",
+      "sentiment_score": -0.3437,
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/11/20/sp-500-correction-panic-selling-ai-selloff-nasdaq-2026-gains-bnp-paribas/",
+      "cross_verified": true,
+      "published_at": "2026-11-20T21:38:50.000000Z"
+    },
+    {
+      "title": "When Will Buy the Dip Stop Working?",
+      "title_ko": "‘저점 매수’ 전략은 언제 더 이상 통하지 않게 될까?",
+      "snippet": "What will it take for investors to stop buying the dip?",
+      "snippet_ko": "투자자들이 ‘저점 매수’를 멈추려면 무엇이 필요할까?",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2901,
+      "source": "awealthofcommonsense.com",
+      "url": "https://awealthofcommonsense.com/2026/11/when-hubris-fails/",
+      "cross_verified": true,
+      "published_at": "2026-11-20T21:30:47.000000Z"
+    },
+    {
+      "title": "Broadcom sinks 12% as Google trims 2027 TPU orders, tech stocks drop",
+      "title_ko": "구글이 2027년 TPU 주문량을 줄이면서 브로드컴 주가가 12% 급락, 기술주 전반이 하락세를 보임",
+      "snippet": "Broadcom shares fall 12.1% after Google reportedly cuts planned 2027 orders for Broadcom-designed TPU 8i chips by about 1 million units, or roughly 20%.",
+      "snippet_ko": "구글이 브로드컴이 설계한 TPU 8i 칩에 대한 2027년 예정 주문량을 약 100만 개, 즉 대략 20% 가량 줄였다는 보도가 나온 후 브로드컴 주가가 12.1% 하락했다.",
+      "symbol": "AVGO",
+      "sentiment_score": -0.2732,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4675350-broadcom-sinks-12-as-google-trims-2027-tpu-orders-tech-stocks-drop",
+      "cross_verified": true,
+      "published_at": "2026-11-20T21:25:08.000000Z"
+    },
+    {
+      "title": "Dow Jones Futures: Market Has Worst Week Since Covid Amid Nvidia, Anthropic. Does Fear Gauge Offer Hope?",
+      "title_ko": "다우존스 선물: 엔비디아와 앤트로픽 여파로 시장, 코로나19 이후 최악의 한 주 기록. ‘공포 지수’가 희망을 줄 수 있을까?",
+      "snippet": "Dow Jones futures: The Dow Jones and Nasdaq had their worst week since March 2020., fueled by Nvidia and Anthropic. A fear gauge is soaring.",
+      "snippet_ko": "다우존스 선물: 엔비디아와 앤트로픽의 영향으로 다우존스와 나스닥은 2020년 3월 이후 최악의 한 주를 보냈다. 공포 지수가 급등하고 있다.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.6597,
+      "source": "investors.com",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-worst-week-covid-nvidia-anthropic-vix-fear-gauge/",
+      "cross_verified": true,
+      "published_at": "2026-11-20T21:49:14.000000Z"
+    },
     {
       "title": "Nvidia Overtaken by Alphabet Amid Leadership Turmoil; US-China Trade Talks Intensify",
       "title_ko": "경영진 혼란 속 엔비디아, 알파벳에 추월당해… 미·중 무역 협상 격화",
@@ -2355,54 +2403,6 @@
       "url": "https://economictimes.indiatimes.com/news/international/us/donald-trump-says-tim-cook-should-replace-jensen-huang-at-nvidia-all-about-former-apple-ceo-who-once-took-over-from-legendary-tech-visionary-steve-jobs/articleshow/135776618.cms",
       "cross_verified": true,
       "published_at": "2026-11-12T16:23:49.000000Z"
-    },
-    {
-      "title": "Sharp swings for Nvidia and oil prices weigh on Wall Street",
-      "title_ko": "엔비디아 주가와 유가의 급격한 등락이 월가 시장에 부담을 주고 있다",
-      "snippet": "Nvidia's stock plunged as much as 14% at the start of trading following the resignation of Jensen Huang, its CEO, co-founder and face of the brand.",
-      "snippet_ko": "엔비디아의 CEO이자 공동 창업자이며 브랜드의 얼굴인 젠슨 황이 사임한 후, 장 시작과 함께 엔비디아 주가가 최대 14%까지 급락했다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.6647,
-      "source": "pbs.org",
-      "url": "https://www.pbs.org/newshour/economy/sharp-swings-for-nvidia-and-oil-prices-weigh-on-wall-street",
-      "cross_verified": true,
-      "published_at": "2026-11-12T16:05:41.000000Z"
-    },
-    {
-      "title": "Palantir: 165% Retention Signals The Next Enterprise AI Boom",
-      "title_ko": "팔란티어: 165%의 고객 유지율이 다음 기업용 AI 붐을 예고한다",
-      "snippet": "Palantir Technologies Inc.'s Q3 revenue jumped 96% to $2.3 billion, while U.S. commercial sales surged 148% to $984 million. I rate PLTR stock as Buy.",
-      "snippet_ko": "팔란티어 테크놀로지스(Palantir Technologies Inc.)의 3분기 매출은 96% 급증한 23억 달러를 기록했으며, 미국 내 기업용 매출은 148% 급증한 9억 8,400만 달러를 기록했습니다. 저는 PLTR 주식을 ‘매수’로 평가합니다.",
-      "symbol": "PLTR",
-      "sentiment_score": 0.4588,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4967161-palantir-165-percent-retention-signals-the-next-enterprise-ai-boom",
-      "cross_verified": true,
-      "published_at": "2026-11-12T17:13:22.000000Z"
-    },
-    {
-      "title": "White Workers Claiming Discrimination Complicates Shell’s DEI Drive",
-      "title_ko": "차별을 호소하는 백인 근로자들이 쉘의 DEI 추진을 복잡하게 만들고 있다",
-      "snippet": "In October, Shell Plc held a \"DE&I in Action and World Mental Health\" day, focused on inclusion and mental wellbeing. Staff in the US and elsewhere",
-      "snippet_ko": "지난 10월, 쉘(Shell Plc)은 포용성과 정신 건강에 초점을 맞춘 ‘DE&I 실천 및 세계 정신 건강의 날’ 행사를 개최했습니다. 미국 및 기타 지역의 직원들은",
-      "symbol": "META",
-      "sentiment_score": 0.1837,
-      "source": "insurancejournal.com",
-      "url": "https://www.insurancejournal.com/news/national/2026/11/12/892320.htm",
-      "cross_verified": true,
-      "published_at": "2026-11-12T06:06:08.000000Z"
-    },
-    {
-      "title": "Nvidia drama triggers difficult search for Jensen Huang's successor",
-      "title_ko": "엔비디아 사태로 인해 젠슨 황의 후임자 선정이 난항을 겪고 있다",
-      "snippet": "The company has tapped an outside firm to identify potential candidates following reports of multiple extramarital affairs by Huang",
-      "snippet_ko": "황 씨의 여러 차례의 불륜 의혹이 보도된 후, 이 회사는 잠재적 후보자를 물색하기 위해 외부 업체를 선정했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.336,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/nvidia-drama-triggers-difficult-search-for-jensen-huang-s-successor-126111200343_1.html",
-      "cross_verified": true,
-      "published_at": "2026-11-12T05:52:48.000000Z"
     }
   ]
 }
