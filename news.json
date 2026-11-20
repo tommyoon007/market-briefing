@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-19T22:02:38.427527+00:00",
+  "updated_at": "2026-11-20T06:45:57.172167+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Natural Grocers by Vitamin Cottage, Inc. 2026 Q4 - Results - Earnings Call Presentation",
+      "title_ko": "Natural Grocers by Vitamin Cottage, Inc. 2026년 4분기 - 실적 - 실적 발표회 프레젠테이션",
+      "snippet": "2026-11-20. The following slide deck was published by Natural Grocers by Vitamin Cottage, Inc.",
+      "snippet_ko": "2026년 11월 20일. 다음 슬라이드 자료는 Natural Grocers by Vitamin Cottage, Inc.에서 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4970468-natural-grocers-by-vitamin-cottage-inc-2026-q4-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-11-20T05:30:45.000000Z"
+    },
     {
       "title": "Micron Vs. Sandisk: Stress-Testing The $89 Billion Contract Book For A 2027 NAND Glut",
       "title_ko": "마이크론 대 샌디스크: 2027년 NAND 공급 과잉을 대비한 890억 달러 규모 수주 잔고에 대한 스트레스 테스트",
@@ -1189,21 +1201,57 @@
       "url": "https://seekingalpha.com/article/4963000-nextdecade-closer-to-production-still-a-speculative-buy",
       "cross_verified": true,
       "published_at": "2026-11-05T14:48:26.000000Z"
-    },
-    {
-      "title": "Vistra: Texas Turned Blue, And The 2026 Forecast Didn't Move (NYSE:VST)",
-      "title_ko": "Vistra: 텍사스가 민주당 지지 지역으로 바뀌었지만, 2026년 전망은 변함없다 (NYSE:VST)",
-      "snippet": "Vistra stock fell on Texas policy uncertainty. See risks to data center growth, ERCOT power demand, and why shares may still offer upside today.",
-      "snippet_ko": "텍사스주 정책 불확실성으로 인해 비스트라(Vistra) 주가가 하락했습니다. 데이터 센터 성장에 대한 위험 요인과 ERCOT 전력 수요, 그리고 오늘도 주가가 상승 여력을 보일 수 있는 이유를 살펴보세요.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4962990-vistra-texas-turned-blue-and-the-2026-forecast-didnt-move",
-      "cross_verified": true,
-      "published_at": "2026-11-05T14:40:30.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Anthropic makes a $1.8 trillion debut: What investors should watch next",
+      "title_ko": "앤트로픽, 1조 8천억 달러 규모로 상장… 투자자들이 앞으로 주목해야 할 점",
+      "snippet": "Anthropic's blockbuster IPO marks a major moment for the AI industry, with the Claude maker raising a record $81.3 billion in its stock market debut on Thursday",
+      "snippet_ko": "앤트로픽의 대성공적인 기업공개(IPO)는 AI 업계에 있어 중요한 전환점이 되었으며, ‘클로드(Claude)’를 개발한 이 회사는 목요일 주식시장 데뷔를 통해 사상 최대 규모인 813억 달러를 조달했다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.5129,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/anthropic-ipo-stock-market-debut-valuation-investors-what-to-watch-next-126112000351_1.html",
+      "cross_verified": true,
+      "published_at": "2026-11-20T06:17:05.000000Z"
+    },
+    {
+      "title": "Anthropic shares fall 5% in after-hours after record $107.3 billion IPO",
+      "title_ko": "안트로픽, 사상 최대 규모인 1,073억 달러 규모의 기업공개(IPO) 이후 시간외 거래에서 주가가 5% 하락",
+      "snippet": "Debut pop of 17% pares amid AI selloff; company closes with $1.8 trillion valuation",
+      "snippet_ko": "AI 관련 매도세 속에 17%의 데뷔 상승폭이 축소되며, 해당 기업은 시가총액 1.8조 달러로 장을 마감했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.0567,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/anthropic-shares-fall-5-in-after-hours-after-record-1073-billion-ipo/article71723092.ece",
+      "cross_verified": true,
+      "published_at": "2026-11-20T05:14:24.000000Z"
+    },
+    {
+      "title": "Still More Of The Latest Thoughts From American Technology Companies On AI (2026 Q3) : The Good Investors %",
+      "title_ko": "미국 기술 기업들의 AI에 대한 최신 견해, 그 외 (2026년 3분기) : The Good Investors %",
+      "snippet": "The Good Investors Still More Of The Latest Thoughts From American Technology Companies On AI (2026 Q3) General Investing :",
+      "snippet_ko": "The Good Investors: 미국 기술 기업들의 AI에 대한 최신 견해 추가 (2026년 3분기) 일반 투자 :",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3711,
+      "source": "thegoodinvestors.sg",
+      "url": "https://www.thegoodinvestors.sg/still-more-of-the-latest-thoughts-from-american-technology-companies-on-ai-2026-q3/",
+      "cross_verified": true,
+      "published_at": "2026-11-20T04:36:29.000000Z"
+    },
+    {
+      "title": "Global Markets Retreat as Tech Rout Deepens; Historic Trilateral Peace Declaration Issued in Shenzhen",
+      "title_ko": "기술주 폭락이 심화되며 글로벌 시장 하락세; 선전에서 역사적인 3자 평화 선언 발표",
+      "snippet": "In an unprecedented diplomatic breakthrough on the sidelines of the APEC summit in Shenzhen, U.S. President Donald Trump, Chinese President Xi Jinping, and",
+      "snippet_ko": "선전에서 열린 APEC 정상회의 기간 중 전례 없는 외교적 돌파구가 마련된 가운데, 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석, 그리고",
+      "symbol": "NVDA",
+      "sentiment_score": -0.6503,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/global-markets-retreat-as-tech-rout-deepens-historic-trilateral-peace-declaration-issued-in-shenzhen/74995/",
+      "cross_verified": true,
+      "published_at": "2026-11-20T04:38:21.000000Z"
+    },
     {
       "title": "Anthropic (ANT) Closes Debut at $97.17: Bull $115, Bear $83",
       "title_ko": "앤트로픽(ANT), 데뷔일 종가 97.17달러 기록: 강세론자 115달러, 약세론자 83달러",
@@ -2355,54 +2403,6 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/treasury-secretary-relocates-to-military-base-amid-iranian-threats-google-tests-hydrogen-ai/74522/",
       "cross_verified": true,
       "published_at": "2026-11-11T16:38:14.000000Z"
-    },
-    {
-      "title": "Broadcom: Cheaper To Own One Of The Best Stories On The Market (NASDAQ:AVGO)",
-      "title_ko": "브로드컴: 시장에서 가장 유망한 종목 중 하나를 더 저렴하게 매수할 기회 (나스닥: AVGO)",
-      "snippet": "Broadcom is a Strong Buy at 27.5x FY2026 EPS; $72B in financing commitments poses long-term risk, while growth supports upside. Click for more on AVGO stock.",
-      "snippet_ko": "브로드컴은 2026 회계연도 주당순이익(EPS) 기준 27.5배의 주가수익비율(PER)을 고려할 때 ‘강력 매수’ 등급을 받을 만합니다. 720억 달러 규모의 자금 조달 약정은 장기적인 위험 요인이 될 수 있으나, 성장세는 주가 상승 여력을 뒷받침합니다. AVGO 주식에 대한 자세한 내용을 보려면 여기를 클릭하세요.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.5737,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4966465-broadcom-cheaper-to-own-one-of-the-best-stories-on-the-market",
-      "cross_verified": true,
-      "published_at": "2026-11-11T15:25:45.000000Z"
-    },
-    {
-      "title": "US stock market today: S&P 500 and Nasdaq race towards record highs as Nvidia leads AI stock comeback, CoreWeave surges 16% – why is Dow Jones missing the rally?",
-      "title_ko": "오늘 미국 증시: 엔비디아가 AI 관련주 반등을 주도하며 S&P 500과 나스닥이 사상 최고치를 향해 치솟고, 코어위브는 16% 급등 – 다우존스는 왜 이 상승세에 동참하지 못하고 있을까?",
-      "snippet": "US stock market rally today: The S&P 500 climbed above 7,600 in Wednesdays early trading as investors returned to technology stocks after two sessions of heavy selling. Nvidia rose nearly 3%, while CoreWeave gained more than 16% after strong quarterly results. The Nasdaq advanced 1.30% today, but the Dow remained almost flat as the AI trade regained momentum.",
-      "snippet_ko": "오늘 미국 증시 상승세: 수요일 장 초반, 이틀간의 대규모 매도세 이후 투자자들이 다시 기술주 매수에 나서면서 S&P 500 지수가 7,600선을 넘어섰다. 엔비디아(Nvidia)는 3% 가까이 상승했으며, 코어위브(CoreWeave)는 호조를 보인 분기 실적 발표에 힘입어 16% 이상 급등했다. 나스닥 지수는 오늘 1.30% 상승했으나, AI 관련주가 다시 상승세를 타면서 다우 지수는 거의 보합세를 유지했다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.6908,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-sp-500-and-nasdaq-race-towards-record-highs-as-nvidia-leads-ai-stock-comeback-coreweave-surges-16-why-is-dow-jones-missing-the-rally/articleshow/135741399.cms",
-      "cross_verified": true,
-      "published_at": "2026-11-11T15:21:59.000000Z"
-    },
-    {
-      "title": "Tech Surge Propels Markets as Nvidia and Semiconductors Lead Midday Rally",
-      "title_ko": "엔비디아와 반도체주가 정오 반등을 주도하며 기술주 급등세가 시장을 견인하고 있다",
-      "snippet": "U.S. equity markets displayed robust bullish momentum during midday trading on Wednesday, November 11th, 2026. Investor sentiment was primarily driven by a",
-      "snippet_ko": "2026년 11월 11일 수요일 정오 거래 시간 동안 미국 주식 시장은 강력한 상승 모멘텀을 보였습니다. 투자 심리는 주로 다음 요인에 의해 주도되었는데,",
-      "symbol": "NVDA",
-      "sentiment_score": 0.2678,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-surge-propels-markets-as-nvidia-and-semiconductors-lead-midday-rally/74523/",
-      "cross_verified": true,
-      "published_at": "2026-11-11T17:07:11.000000Z"
-    },
-    {
-      "title": "SA analyst upgrades/downgrades: META, UBER, EVGO, ORCL (SP500:)",
-      "title_ko": "SA 애널리스트의 매수/매도 등급 상향·하향 조정: META, UBER, EVGO, ORCL (S&P 500:)",
-      "snippet": "Analysts rate EVgo, Meta, Oracle and Uber Hold: EVgo's $2 offer supports shares, Meta trades at 17x 2027 earnings, and Waymo pressures Uber.",
-      "snippet_ko": "애널리스트들은 EVgo, 메타, 오라클, 우버에 대해 ‘보유(Hold)’ 등급을 부여했다. EVgo의 2달러 공모가가 주가를 지지하고 있으며, 메타는 2027년 예상 이익의 17배 수준에서 거래되고 있고, 웨이모가 우버에 압박을 가하고 있다.",
-      "symbol": "META",
-      "sentiment_score": 0.0483,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4670810-sa-analyst-upgradesdowngrades-meta-uber-evgo-orcl",
-      "cross_verified": true,
-      "published_at": "2026-11-11T16:52:30.000000Z"
     }
   ]
 }
