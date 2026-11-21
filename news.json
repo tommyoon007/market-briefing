@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-20T23:52:53.008856+00:00",
+  "updated_at": "2026-11-21T06:39:08.950035+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Endeavour Silver: Still Solid After Q3, Despite The Dip",
+      "title_ko": "엔데버 실버: 3분기 실적 발표 후 일시적인 하락에도 여전히 견고한 모습",
+      "snippet": "I retain a Buy on Endeavour Silver Corp. (EXK): precious-metal prices and forecasts remain supportive, while Pitarrilla progress continues.",
+      "snippet_ko": "저는 엔데버 실버(Endeavour Silver Corp., EXK)에 대해 ‘매수’ 의견을 유지합니다. 귀금속 가격과 전망이 여전히 긍정적이며, 피타릴라(Pitarrilla) 프로젝트의 진전도 계속되고 있기 때문입니다.",
+      "symbol": "",
+      "sentiment_score": 0.3318,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4970782-endeavour-silver-still-solid-after-q3-despite-the-dip",
+      "cross_verified": true,
+      "published_at": "2026-11-21T05:22:52.000000Z"
+    },
+    {
+      "title": "'GTA 6' generates USD 3.79 billion in pre-orders, first-day sales, sets new entertainment record",
+      "title_ko": "'GTA 6', 선주문 및 출시 첫날 매출 37억 9천만 달러 기록하며 엔터테인먼트 업계 신기록 수립",
+      "snippet": "Rockstar Games' 'Grand Theft Auto 6' (GTA 6) has set a new record for the biggest entertainment launch in history, generating USD 3.79 billion through preorders and first-day sales, according to an announcement by the game's developer on Friday, according to Variety.",
+      "snippet_ko": "버라이어티에 따르면, 록스타 게임즈의 ‘그랜드 테프트 오토 6’(GTA 6)가 금요일 게임 개발사의 발표를 통해 사전 예약 및 출시 첫날 매출로 37억 9천만 달러를 기록하며, 역사상 최대 규모의 엔터테인먼트 출시 신기록을 세웠다.",
+      "symbol": "",
+      "sentiment_score": -0.1027,
+      "source": "retail.economictimes.indiatimes.com",
+      "url": "https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/games/gta-6-generates-usd-3-79-billion-in-pre-orders-first-day-sales-sets-new-entertainment-record/136045358",
+      "cross_verified": true,
+      "published_at": "2026-11-21T04:58:30.000000Z"
+    },
     {
       "title": "Fluent, Inc. 2026 Q3 - Results - Earnings Call Presentation",
       "title_ko": "Fluent, Inc. 2026년 3분기 - 실적 - 실적 발표회 프레젠테이션",
@@ -1177,33 +1201,69 @@
       "url": "https://seekingalpha.com/news/4668697-treace-outlines-206m-210m-2026-revenue-range-while-targeting-700m-tam-expansion",
       "cross_verified": true,
       "published_at": "2026-11-07T00:45:27.000000Z"
-    },
-    {
-      "title": "Century Aluminum Company (CENX) Q3 2026 Earnings Call Transcript",
-      "title_ko": "센추리 알루미늄 컴퍼니(CENX) 2026년 3분기 실적 발표 회의록",
-      "snippet": "Century Aluminum Company (CENX) Q3 2026 Earnings Call November 5, 2026 5:00 PM ESTCompany ParticipantsChad Rigg - Vice President of Finance &...",
-      "snippet_ko": "센추리 알루미늄 컴퍼니(CENX) 2026년 3분기 실적 발표 전화회의, 2026년 11월 5일 오후 5:00(미국 동부 표준시) 회사 참석자: 채드 리그 - 재무 부사장 및...",
-      "symbol": "",
-      "sentiment_score": 0.463,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4964334-century-aluminum-company-cenx-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-11-06T20:24:59.000000Z"
-    },
-    {
-      "title": "Chartwell Retirement Residences (CSH.UN:CA) Q3 2026 Earnings Call Transcript",
-      "title_ko": "차트웰 리타이어먼트 레지던스(CSH.UN:CA) 2026년 3분기 실적 발표 회의록",
-      "snippet": "Chartwell Retirement Residences (CSH.UN:CA) Q3 2026 Earnings Call November 6, 2026 10:00 AM ESTCompany ParticipantsVlad Volodarski - CEO & TrusteeKaren...",
-      "snippet_ko": "차트웰 리타이어먼트 레지던스(Chartwell Retirement Residences, CSH.UN:CA) 2026년 3분기 실적 발표 전화 회의 2026년 11월 6일 오전 10:00(미국 동부 표준시) 회사 참석자: 블라드 볼로다르스키(Vlad Volodarski) - CEO 겸 이사회 이사, 카렌...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4964344-chartwell-retirement-residences-csh-un-ca-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-11-06T20:24:57.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Jensen Huang should return as Nvidia CEO after 'big apology', says Trump",
+      "title_ko": "트럼프, “젠슨 황이 ‘대대적인 사과’ 후 엔비디아 CEO로 복귀해야 한다”고 밝혀",
+      "snippet": "Trump said Huang deserved a second chance, despite Nvidia's board indicating it had no plans to reinstate the former chief executive, with interim CEO Colette Kress seeking to reassure employees",
+      "snippet_ko": "트럼프는 엔비디아 이사회가 전 최고경영자(CEO)를 복직시킬 계획이 없음을 시사했음에도 불구하고 황 씨에게 두 번째 기회가 주어져야 한다고 말했으며, 콜레트 크레스 임시 CEO는 직원들을 안심시키려 애썼다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.7473,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/jensen-huang-should-return-as-nvidia-ceo-after-big-apology-says-trump-126112100112_1.html",
+      "cross_verified": true,
+      "published_at": "2026-11-21T02:26:28.000000Z"
+    },
+    {
+      "title": "Fear Erupts, AI Stocks Tank, but so Do Gold, Silver, Cryptos, Nearly Everything but Treasuries",
+      "title_ko": "공황이 확산되고 AI 관련 주가가 폭락했지만, 금, 은, 암호화폐 등 국채를 제외한 거의 모든 자산도 함께 급락했다",
+      "snippet": "But fears get exhausted, profit motive takes over, people buy sold-off stuff no matter how dubious, and there’ll be a bounce, maybe Monday. There was fear in...",
+      "snippet_ko": "하지만 공포심은 점차 사그라들고, 이윤 추구가 앞서는 가운데, 사람들은 아무리 의심스러워도 매도된 물건을 사들이게 될 것이며, 아마도 월요일쯤에는 반등이 있을 것이다. 공포가 감돌았던...",
+      "symbol": "AVGO",
+      "sentiment_score": 0.0387,
+      "source": "wolfstreet.com",
+      "url": "https://wolfstreet.com/2026/11/20/fear-erupts-ai-stocks-tank-but-so-do-gold-silver-cryptos-nearly-everything-but-treasuries/",
+      "cross_verified": true,
+      "published_at": "2026-11-21T01:59:33.000000Z"
+    },
+    {
+      "title": "Apple (AAPL) Grows at 12% and Trades at 37 Times Earnings. Is It Worth It?",
+      "title_ko": "애플(AAPL)은 12%의 성장률을 기록하고 있으며, 주가수익비율(PER)은 37배 수준이다. 과연 투자할 가치가 있을까?",
+      "snippet": "We just published a list of the Top 10 Stocks to Buy According to Billionaire George Soros, and Apple Inc. (NASDAQ:AAPL) ranked 6th on this list.",
+      "snippet_ko": "저희는 방금 억만장자 조지 소로스가 선정한 ‘매수 추천 주식 10선’ 목록을 공개했는데, 애플(NASDAQ:AAPL)이 이 목록에서 6위를 차지했습니다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2143,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/apple-aapl-grows-at-12-and-trades-at-37-times-earnings-is-it-worth-it-1868132/",
+      "cross_verified": true,
+      "published_at": "2026-11-21T01:13:27.000000Z"
+    },
+    {
+      "title": "Wall Street selloff: Dow, S&P 500 enter correction as Nasdaq plunges",
+      "title_ko": "월가 매도세: 다우·S&P 500 지수, 조정 국면에 진입…나스닥은 급락",
+      "snippet": "Wall Street tumbles as the Dow and S&P 500 enter correction territory, while the Nasdaq falls 5.28% amid AI concerns and inflation worries.",
+      "snippet_ko": "AI 관련 우려와 인플레이션 불안 속에서 다우지수와 S&P 500 지수가 조정 국면에 진입하면서 월가 증시가 급락했고, 나스닥 지수는 5.28% 하락했다.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.1569,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/wall-street-selloff-deepens-as-dow-sp-500-enter-correction-nasdaq-plunges-528/article71727285.ece",
+      "cross_verified": true,
+      "published_at": "2026-11-21T04:41:31.000000Z"
+    },
+    {
+      "title": "CrowdStrike, Zscaler Merger Would Create Cybersecurity Giant",
+      "title_ko": "크라우드스트라이크와 Zscaler의 합병으로 사이버보안 업계의 거대 기업이 탄생할 전망",
+      "snippet": "CrowdStrike stock fell and Zscaler stock popped amid a report the companies are in merger talks. A deal would create a cybersecurity giant.",
+      "snippet_ko": "두 회사가 합병 협상을 진행 중이라는 보도가 나오자 크라우드스트라이크 주가는 하락한 반면, Z스케일러 주가는 급등했다. 이번 합병이 성사되면 사이버 보안 업계의 거대 기업이 탄생하게 될 전망이다.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.3384,
+      "source": "investors.com",
+      "url": "https://www.investors.com/news/technology/crowdstrike-zscaler-merger-create-cybersecurity-giant/",
+      "cross_verified": true,
+      "published_at": "2026-11-20T23:56:14.000000Z"
+    },
     {
       "title": "BNP Paribas sees ‘panic selling’ as the AI selloff drags the S&P 500 into a correction and wipes out the Nasdaq’s 2026 gains",
       "title_ko": "BNP 파리바는 AI 관련 주가 급락으로 S&P 500 지수가 조정 국면에 접어들고 나스닥의 2026년 상승분을 모두 날려버리자 이를 ‘공황 매도’로 보고 있다.",
@@ -2343,66 +2403,6 @@
       "url": "https://seekingalpha.com/article/4967383-intel-upgrading-to-strong-buy-after-the-38-percent-sell-off",
       "cross_verified": true,
       "published_at": "2026-11-12T22:59:48.000000Z"
-    },
-    {
-      "title": "Why Nvidia stock drop isn't a big deal for many ETF, mutual fund investors",
-      "title_ko": "엔비디아 주가 하락이 많은 ETF 및 뮤추얼 펀드 투자자들에게 큰 문제가 아닌 이유",
-      "snippet": "Nvidia stock accounts for a fairly large share of many mutual funds and ETFs. But losses in the stock don't necessarily mean big losses for the overall fund.",
-      "snippet_ko": "엔비디아 주식은 많은 뮤추얼 펀드와 ETF에서 상당히 큰 비중을 차지하고 있습니다. 하지만 해당 주식의 손실이 반드시 펀드 전체에 큰 손실을 의미하는 것은 아닙니다.",
-      "symbol": "AAPL",
-      "sentiment_score": -0.2348,
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-stock-drop-etf-mutual-fund-investors.html",
-      "cross_verified": true,
-      "published_at": "2026-11-12T21:16:37.000000Z"
-    },
-    {
-      "title": "US stocks: US stocks closes lower as Nvidia slide outweighs energy rally",
-      "title_ko": "미국 증시: 엔비디아 주가 하락이 에너지주 반등을 상쇄하며 미국 증시 하락 마감",
-      "snippet": "US stocks closed lower as Nvidias decline following CEO Jensen Huangs departure outweighed a rally in energy shares. The S&P 500 fell 0.34%, the Nasdaq lost 0.40% and the Dow declined 0.36%, while retail investors made a record $111 million opening bid for Nvidia shares.",
-      "snippet_ko": "엔비디아의 젠슨 황 CEO 사임에 따른 주가 하락세가 에너지주 상승세를 압도하면서 미국 증시는 하락 마감했다. S&P 500 지수는 0.34% 하락했고, 나스닥 지수는 0.40% 떨어졌으며, 다우 지수는 0.36% 하락한 가운데, 개인 투자자들은 엔비디아 주식을 대상으로 사상 최대 규모인 1억 1,100만 달러의 개장 매수 주문을 냈다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.4802,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-ends-lower-as-energy-gains-offset-nvidia-slide/articleshow/135782290.cms",
-      "cross_verified": true,
-      "published_at": "2026-11-12T21:15:07.000000Z"
-    },
-    {
-      "title": "Anthropic IPO draws sixfold demand, targets $1.4 trillion valuation",
-      "title_ko": "앤트로픽의 기업공개(IPO)에 6배의 청약이 몰렸으며, 기업가치를 1조 4천억 달러로 목표하고 있다",
-      "snippet": "Anthropic's IPO draws six times demand for available shares as the Claude maker seeks $64.4 billion and targets a $1.4 trillion valuation.",
-      "snippet_ko": "‘클로드(Claude)’ 개발사인 앤트로픽(Anthropic)이 644억 달러를 조달하고 1조 4천억 달러의 기업 가치를 목표로 하는 가운데, 이 회사의 기업공개(IPO)에 대해 배정된 주식 수보다 6배나 많은 청약이 몰렸다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.0987,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/markets/anthropic-ipo-draws-sixfold-demand-targets-14-trillion-valuation/article71696359.ece",
-      "cross_verified": true,
-      "published_at": "2026-11-13T00:08:02.000000Z"
-    },
-    {
-      "title": "Global AI stocks sink, Nvidia CEO's exit deepens concerns",
-      "title_ko": "전 세계 AI 관련 주가 급락… 엔비디아 CEO 사임으로 우려 심화",
-      "snippet": "Global AI-linked stocks tumbled today as Nvidia CEO Jensen Huang resigned following a deepening scandal around his affairs, upending the chipmaker's leadership and posing fresh risks to a sector already reeling with funding and regulatory concerns.",
-      "snippet_ko": "오늘 전 세계 AI 관련 주가가 급락했다. 엔비디아의 젠슨 황 CEO가 불륜 스캔들이 심화되면서 사임함에 따라 이 반도체 기업의 경영진이 뒤바뀌었고, 이미 자금 조달 및 규제 문제로 어려움을 겪고 있던 해당 업계에 새로운 위험 요인이 대두되었기 때문이다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.1794,
-      "source": "rte.ie",
-      "url": "https://www.rte.ie/news/business/2026/1112/1599018-global-ai-stocks-sink/",
-      "cross_verified": true,
-      "published_at": "2026-11-12T16:37:16.000000Z"
-    },
-    {
-      "title": "Donald Trump says Tim Cook should replace Jensen Huang at Nvidia: All about former Apple CEO who once took over from legendary tech visionary Steve Jobs",
-      "title_ko": "도널드 트럼프, “팀 쿡이 엔비디아의 젠슨 황을 대신해야 한다”고 주장: 한때 전설적인 기술 선구자 스티브 잡스의 뒤를 이은 전 애플 CEO에 관한 모든 것",
-      "snippet": "Tim Cook stepped down after a 15-year stint as Apple's CEO in September and is now executive chairman at the iPhone-maker's board of directors.",
-      "snippet_ko": "팀 쿡은 지난 9월, 15년간 애플 CEO직을 역임한 뒤 물러났으며, 현재 이 아이폰 제조사의 이사회에서 집행 회장을 맡고 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2045,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/news/international/us/donald-trump-says-tim-cook-should-replace-jensen-huang-at-nvidia-all-about-former-apple-ceo-who-once-took-over-from-legendary-tech-visionary-steve-jobs/articleshow/135776618.cms",
-      "cross_verified": true,
-      "published_at": "2026-11-12T16:23:49.000000Z"
     }
   ]
 }
