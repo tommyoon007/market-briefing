@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T16:01:21.877089+00:00",
+  "updated_at": "2026-11-21T22:57:50.545468+00:00",
   "status": "ok",
   "market_news": [
     {
@@ -1205,6 +1205,66 @@
   ],
   "portfolio_news": [
     {
+      "title": "CrowdStrike’s Talks with Zscaler Show AI-Led Cyber Consolidation",
+      "title_ko": "크라우드스트라이크와 Zscaler 간의 협상이 AI 주도형 사이버 보안 업계 통합을 보여준다",
+      "snippet": "A wave of multibillion-dollar takeovers is reshaping the cybersecurity industry as the biggest companies race to expand their defenses against increasingly sophisticated attacks powered by artificial intelligence.",
+      "snippet_ko": "인공지능을 활용한 공격이 점점 더 정교해짐에 따라 주요 기업들이 이에 대한 방어 체계를 강화하기 위해 경쟁을 벌이면서, 수십억 달러 규모의 인수합병 열풍이 사이버 보안 산업의 판도를 바꾸고 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.1215,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/crowdstrikes-talks-with-zscaler-show-ai-led-cyber-consolidation-11795289624175.html",
+      "cross_verified": true,
+      "published_at": "2026-11-21T19:33:43.000000Z"
+    },
+    {
+      "title": "Rare Earth Stocks: From NdPr Prices to Magnet Sales",
+      "title_ko": "희토류 관련 주식: Nd·Pr 가격에서 자석 판매량까지",
+      "snippet": "Compare rare earth stocks by what companies sell, how NdPr prices affect margins, what supply contracts cover and what the REMX ETF tracks.",
+      "snippet_ko": "각 기업의 주요 판매 품목, NdPr 가격 변동이 마진에 미치는 영향, 공급 계약의 내용, REMX ETF가 추적하는 지수 등을 기준으로 희토류 관련 주식을 비교해 보세요.",
+      "symbol": "MP",
+      "sentiment_score": 0.2218,
+      "source": "equedia.com",
+      "url": "https://equedia.com/rare-earth-stocks",
+      "cross_verified": true,
+      "published_at": "2026-11-21T19:00:22.000000Z"
+    },
+    {
+      "title": "Dario Amodei, facing an Oppenheimer moment, races ahead with Anthropic's market debut",
+      "title_ko": "‘오펜하이머의 순간’을 맞이한 다리오 아모데이, 앤트로픽의 시장 데뷔를 앞당기다",
+      "snippet": "Anthropic, despite its co-founder's warning in recent months, is leading the pack on AI development while breaking records with last week's float on the US stock exchange.",
+      "snippet_ko": "앤트로픽은 최근 몇 달간 공동 창업자가 제기한 경고에도 불구하고, AI 개발 분야에서 선두를 달리고 있으며, 지난주 미국 증시에 상장하며 신기록을 세웠다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.1434,
+      "source": "abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-11-22/dario-amodei-facing-an-oppenheimer-moment-races-ahead/107264748",
+      "cross_verified": true,
+      "published_at": "2026-11-21T18:00:00.000000Z"
+    },
+    {
+      "title": "The S&P 500 Breaks Major Technical Support As Nvidia Drags It Down",
+      "title_ko": "엔비디아가 지수를 끌어내리면서 S&P 500 지수가 주요 기술적 지지선을 하회했다",
+      "snippet": "The S&P 500 fell sharply on Friday, and has broken key support as Nvidia drags the entire market lower.",
+      "snippet_ko": "금요일 S&P 500 지수가 급락했으며, 엔비디아가 전체 시장을 끌어내리면서 주요 지지선을 하회했다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.2225,
+      "source": "mottcapitalmanagement.com",
+      "url": "https://mottcapitalmanagement.com/the-sp-500-breaks-major-technical-support-as-nvidia-drags-it-down/",
+      "cross_verified": true,
+      "published_at": "2026-11-21T19:02:54.000000Z"
+    },
+    {
+      "title": "Nvidia: This Has Gone Too Far",
+      "title_ko": "엔비디아: 이건 도를 넘었다",
+      "snippet": "The bull case for Nvidia Corporation: a $399 DCF value implies 185% upside from $140 after a roughly 20% selloff; succession risks may prolong volatility.",
+      "snippet_ko": "엔비디아(Nvidia Corporation)에 대한 낙관적 전망: 399달러의 DCF 평가액은 약 20%의 조정 이후 140달러 대비 185%의 상승 여력을 시사하며, 경영진 승계 리스크로 인해 변동성이 장기화될 수 있다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4970693-nvidia-this-has-gone-too-far",
+      "cross_verified": true,
+      "published_at": "2026-11-21T17:00:00.000000Z"
+    },
+    {
       "title": "Jensen Huang should return as Nvidia CEO after 'big apology', says Trump",
       "title_ko": "트럼프, “젠슨 황이 ‘대대적인 사과’ 후 엔비디아 CEO로 복귀해야 한다”고 밝혀",
       "snippet": "Trump said Huang deserved a second chance, despite Nvidia's board indicating it had no plans to reinstate the former chief executive, with interim CEO Colette Kress seeking to reassure employees",
@@ -2343,66 +2403,6 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-crypto-lead-market-pullback-as-investors-weigh-economic-outlook/74642/",
       "cross_verified": true,
       "published_at": "2026-11-13T15:07:12.000000Z"
-    },
-    {
-      "title": "Texas’ Next AG Vows ‘Tremendous Scrutiny’ of Tesla-SpaceX Deal",
-      "title_ko": "텍사스 차기 법무장관, 테슬라-스페이스X 합병에 대해 ‘철저한 조사’ 약속",
-      "snippet": "Texas Attorney General-elect Nathan Johnson vowed to take a close look at any potential merger between Elon Musk's Space Exploration Technologies Corp.",
-      "snippet_ko": "텍사스주 차기 법무장관으로 당선된 네이선 존슨은 일론 머스크의 스페이스 익스플로레이션 테크놀로지스(Space Exploration Technologies Corp.) 간의 잠재적인 합병에 대해 면밀히 검토하겠다고 다짐했다.",
-      "symbol": "TSLA",
-      "sentiment_score": 0.1132,
-      "source": "insurancejournal.com",
-      "url": "https://www.insurancejournal.com/news/southcentral/2026/11/13/892594.htm",
-      "cross_verified": true,
-      "published_at": "2026-11-13T16:57:23.000000Z"
-    },
-    {
-      "title": "Anthropic IPO six times oversubscribed as AI firm targets record $1.4 trillion valuation",
-      "title_ko": "AI 기업 앤트로픽, 사상 최대인 1조 4천억 달러 기업가치 목표에 따라 IPO 청약이 6배 초과 접수",
-      "snippet": "Anthropic’s upcoming initial public offering (IPO) has attracted orders for about six times the number of shares available, signalling strong investor",
-      "snippet_ko": "앤트로픽의 다가오는 기업공개(IPO)에 대해 공모 주식 수의 약 6배에 달하는 청약이 몰리며, 투자자들의 강한 관심을 보여주고 있다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.5929,
-      "source": "timesofindia.indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/anthropic-ipo-six-times-oversubscribed-as-ai-firm-targets-record-1-4-trillion-valuation/articleshow/135790833.cms",
-      "cross_verified": true,
-      "published_at": "2026-11-13T05:53:36.000000Z"
-    },
-    {
-      "title": "Foreign businesses seized by Putin help fund Russia's war machine",
-      "title_ko": "푸틴이 압수한 외국 기업들은 러시아의 전쟁 기계에 자금을 지원하는 데 일조하고 있다",
-      "snippet": "Businesses whose operational management was transferred to local managers from their international owners are spending billions of rubles to fund the army, according to data",
-      "snippet_ko": "자료에 따르면, 해외 소유주로부터 현지 경영진에게 운영 관리권이 이양된 기업들이 군대 지원 자금으로 수십억 루블을 지출하고 있는 것으로 나타났다.",
-      "symbol": "KO",
-      "sentiment_score": 0.0219,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/foreign-businesses-seized-by-putin-help-fund-russia-s-war-machine-126111300476_1.html",
-      "cross_verified": true,
-      "published_at": "2026-11-13T05:12:25.000000Z"
-    },
-    {
-      "title": "Wall Street shakes with swings for Nvidia and oil prices but recovers most of its early losses",
-      "title_ko": "월가, 엔비디아 주가와 유가 변동으로 요동쳤으나 장 초반 손실의 대부분을 만회했다",
-      "snippet": "NEW YORK — The US stock market shook Thursday, but it largely absorbed big swings for Nvidia and oil prices and finished with relatively modest losses. The moves suggested Wall Street sees limited fallout for the artificial intelligence industry, which carries immense influence on the market, despite the sudden fall of one of its biggest evangelists.",
-      "snippet_ko": "뉴욕 — 목요일 미국 증시는 요동쳤으나, 엔비디아 주가와 유가의 큰 변동폭을 대체로 흡수하며 비교적 소폭의 하락으로 장을 마감했다. 이러한 움직임은 시장에 막대한 영향력을 행사하는 인공지능(AI) 업계의 주요 옹호자 중 한 명이 갑작스럽게 추락했음에도 불구하고, 월스트리트는 이 업계에 미칠 파장이 제한적일 것으로 보고 있음을 시사했다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.6554,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/11/13/business/foreign-business/wall-street-shakes-with-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/2469267",
-      "cross_verified": true,
-      "published_at": "2026-11-13T03:37:16.000000Z"
-    },
-    {
-      "title": "Intel: Upgrading To 'Strong Buy' After The 38% Sell-Off",
-      "title_ko": "인텔: 38% 급락 후 ‘강력 매수’로 등급 상향",
-      "snippet": "Intel is upgraded to \"Strong Buy\" with a $117 base case and $87 low target, while rising capital expenditures signal a strategic shift.",
-      "snippet_ko": "인텔에 대한 투자의견이 ‘강력 매수’로 상향 조정되었으며, 목표주가 기본 시나리오는 117달러, 하한 목표가는 87달러로 설정된 가운데, 증가하는 설비투자 규모는 전략적 전환을 시사하고 있다.",
-      "symbol": "INTC",
-      "sentiment_score": 0.7351,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4967383-intel-upgrading-to-strong-buy-after-the-38-percent-sell-off",
-      "cross_verified": true,
-      "published_at": "2026-11-12T22:59:48.000000Z"
     }
   ]
 }
