@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-22T16:06:54.971209+00:00",
+  "updated_at": "2026-11-22T23:28:44.363544+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Star Equity Holdings, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+      "title_ko": "스타 에쿼티 홀딩스(Star Equity Holdings, Inc.) 2026년 3분기 실적 - 실적 발표 - 실적 설명회 자료",
+      "snippet": "2026-11-22. The following slide deck was published by Star Equity Holdings, Inc.",
+      "snippet_ko": "2026년 11월 22일. 다음 슬라이드 자료는 Star Equity Holdings, Inc.에서 공개한 것입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4970946-star-equity-holdings-inc-2026-q3-results-earnings-call-presentation",
+      "cross_verified": true,
+      "published_at": "2026-11-22T23:04:25.000000Z"
+    },
+    {
+      "title": "IQVIA nears $1.1B acquisition of UK's Quotient Sciences - Bloomberg",
+      "title_ko": "IQVIA, 영국 쿼티언트 사이언스(Quotient Sciences)를 11억 달러에 인수할 예정 - 블룸버그",
+      "snippet": "IQVIA is nearing a roughly $1.1 billion takeover of Quotient Sciences that could be announced as soon as Monday, Bloomberg reports.",
+      "snippet_ko": "블룸버그 보도에 따르면, IQVIA는 Quotient Sciences를 약 11억 달러에 인수하는 절차를 마무리 단계에 접어들었으며, 이 소식은 빠르면 월요일에 발표될 수 있다고 한다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4675415-iqvia-nears-1_1b-acquisition-of-uks-quotient-sciences-bloomberg",
+      "cross_verified": true,
+      "published_at": "2026-11-22T22:40:00.000000Z"
+    },
     {
       "title": "Expensify Review 2026: Pricing, Pros & Cons",
       "title_ko": "Expensify 리뷰 2026: 요금, 장점 및 단점",
@@ -1177,33 +1201,81 @@
       "url": "https://seekingalpha.com/article/4963971-epr-properties-is-primed-for-a-major-dividend-hike",
       "cross_verified": true,
       "published_at": "2026-11-07T15:30:00.000000Z"
-    },
-    {
-      "title": "Kimbell Royalty Partners, LP Common Units (KRP) Q3 2026 Earnings Call Transcript",
-      "title_ko": "킴벨 로열티 파트너스, LP 보통 지분(KRP) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "Kimbell Royalty Partners, LP Common Units (KRP) Q3 2026 Earnings Call November 5, 2026 11:00 AM ESTCompany ParticipantsBob Ravnaas - Chairman of the Board...",
-      "snippet_ko": "킴벨 로열티 파트너스, LP 보통 지분(KRP) 2026년 3분기 실적 발표 전화 회의 2026년 11월 5일 오전 11:00 (미국 동부 표준시) 회사 참가자: 밥 라브나스 - 이사회 의장...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4963274-kimbell-royalty-partners-lp-common-units-krp-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-11-07T15:24:33.000000Z"
-    },
-    {
-      "title": "Financials Earnings Scorecard: 87% beat EPS estimates; Y/Y earnings growth mixed",
-      "title_ko": "재무 실적 평가표: 87%가 주당순이익(EPS) 예상치를 상회; 전년 동기 대비 이익 성장세는 엇갈림",
-      "snippet": "Financial earnings recap: 15 sector leaders report strong beat rates, but profit growth trails revenue.",
-      "snippet_ko": "실적 요약: 15개 업종 선도 기업들이 시장 예상을 크게 상회하는 실적을 기록했으나, 이익 성장률은 매출 성장률을 따라가지 못했다.",
-      "symbol": "",
-      "sentiment_score": 0.25,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4668438-financials-earnings-scorecard-87-beat-eps-estimates-yy-earnings-growth-mixed",
-      "cross_verified": true,
-      "published_at": "2026-11-07T15:20:15.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Wall Street Brunch: Can AI Bulls Get Up Off The Canvas?",
+      "title_ko": "월스트리트 브런치: AI 강세론자들은 다시 일어설 수 있을까?",
+      "snippet": "Wall Street suffers its worst tech selloff in years. Anthropic loses $109B in value after IPO. October inflation data sets stage for Fed decision.",
+      "snippet_ko": "월스트리트, 수년 만에 최악의 기술주 매도세 겪어. 앤트로픽, 기업공개(IPO) 후 시가총액 1,090억 달러 감소. 10월 물가 상승률 데이터, 연준의 결정에 영향을 미칠 전망.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.095,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4970939-wall-street-brunch-can-ai-bulls-get-up-off-the-canvas",
+      "cross_verified": true,
+      "published_at": "2026-11-22T18:34:00.000000Z"
+    },
+    {
+      "title": "Everything Is Breaking. Here’s the Cybersecurity Stock That Benefits",
+      "title_ko": "모든 것이 무너지고 있다. 이 상황에서 수혜를 볼 사이버보안 관련 종목은 바로 이것이다",
+      "snippet": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Hello, Reader. If the recent technology outage stories were grouped together...",
+      "snippet_ko": "InvestorPlace - 주식 시장 뉴스, 주식 투자 조언 및 거래 팁 독자 여러분, 안녕하세요. 최근 발생한 기술 장애 관련 소식들을 한데 모아보면...",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2027,
+      "source": "markets.businessinsider.com",
+      "url": "https://markets.businessinsider.com/news/stocks/everything-is-breaking-heres-the-cybersecurity-stock-that-benefits-1036790107",
+      "cross_verified": true,
+      "published_at": "2026-11-22T18:00:00.000000Z"
+    },
+    {
+      "title": "Deepinder Goyal's big brainwave: Temple faces medical, regulatory hurdles",
+      "title_ko": "딥인더 고얄의 기발한 아이디어: 템플, 의료 및 규제상의 난관에 직면",
+      "snippet": "Deepinder Goyal's Temple wearable has attracted investor backing and global pre-bookings, but its ₹85,000 price, scientific claims and regulatory status have drawn scrutiny from doctors.",
+      "snippet_ko": "딥인더 고얄이 개발한 웨어러블 기기 ‘템플’은 투자자들의 지지를 얻고 전 세계적으로 사전 예약이 이어지고 있지만, 85,000루피에 달하는 가격과 과학적 효능 주장, 규제상 지위 등으로 인해 의료계로부터 비판을 받고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.0,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/companies/people/deepinder-goyal-s-big-brainwave-temple-faces-medical-regulatory-hurdles-126112200799_1.html",
+      "cross_verified": true,
+      "published_at": "2026-11-22T17:06:41.000000Z"
+    },
+    {
+      "title": "Indian retail investors show strong interest in Anthropic",
+      "title_ko": "인도 개인 투자자들이 앤트로픽에 큰 관심을 보이고 있다",
+      "snippet": "BENGALURU: Indian investors continued to trade shares of Claude maker Anthropic after its Nasdaq debut.",
+      "snippet_ko": "벵갈루루: 나스닥에 상장한 후에도 인도 투자자들은 ‘클로드’ 개발사 앤트로픽의 주식을 계속 거래했다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.6654,
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/indian-retail-investors-show-strong-interest-in-anthropic/articleshow/136084466.cms",
+      "cross_verified": true,
+      "published_at": "2026-11-22T22:34:08.000000Z"
+    },
+    {
+      "title": "Market Open: Global sell-off deepens as nearly US$9 trillion wiped from sharemarket values",
+      "title_ko": "장 개장: 주식시장 시가총액에서 약 9조 달러가 증발하며 전 세계적인 매도세가 심화되고 있다",
+      "snippet": "Global markets are heading into a new week under pressure after Wall…",
+      "snippet_ko": "월가에서 발생한 여파로 전 세계 시장은 압박을 받으며 새로운 한 주를 맞이하고 있다…",
+      "symbol": "NVDA",
+      "sentiment_score": 0.7184,
+      "source": "themarketherald.com.au",
+      "url": "https://themarketonline.com.au/market-open-global-sell-off-deepens-as-nearly-us9-trillion-wiped-from-sharemarket-values-2026-11-23/",
+      "cross_verified": true,
+      "published_at": "2026-11-22T22:13:46.000000Z"
+    },
+    {
+      "title": "VALUE: After Hours (S08 E39): Value Investing in Japan: Governance, Buybacks & Microcaps | Dan Rasmussen",
+      "title_ko": "VALUE: After Hours (시즌 8, 39화): 일본의 가치 투자: 기업 지배구조, 자사주 매입 및 마이크로캡 기업 | 댄 라스무센",
+      "snippet": "During their recent episode, Taylor, Carlisle, and Barry Ritholz discussed: TRANSCRIPT",
+      "snippet_ko": "최근 방송에서 테일러, 칼라일, 배리 리톨즈는 다음과 같은 주제를 논의했습니다: 대본",
+      "symbol": "NVDA",
+      "sentiment_score": 0.5315,
+      "source": "acquirersmultiple.com",
+      "url": "https://acquirersmultiple.com/2026/11/value-after-hours-s08-e18-3/",
+      "cross_verified": true,
+      "published_at": "2026-11-22T21:36:41.000000Z"
+    },
     {
       "title": "Intel Stock $51: HP and Dell Results Test PC Demand Tuesday",
       "title_ko": "인텔 주가 51달러: 화요일, HP와 델의 실적 발표가 PC 수요를 가늠할 전망",
@@ -2331,78 +2403,6 @@
       "url": "https://www.business-standard.com/world-news/us-corporate-bonds-attract-investors-as-stock-market-turbulence-grows-126111500065_1.html",
       "cross_verified": true,
       "published_at": "2026-11-15T02:52:10.000000Z"
-    },
-    {
-      "title": "What We’re Reading (Week Ending 15 November 2026) : The Good Investors %",
-      "title_ko": "우리가 읽고 있는 책 (2026년 11월 15일 종료 주) : 《좋은 투자자들》 %",
-      "snippet": "The Good Investors What We’re Reading (Week Ending 15 November 2026) What We're Reading :",
-      "snippet_ko": "The Good Investors: 우리가 읽고 있는 글 (2026년 11월 15일 종료 주간) 우리가 읽고 있는 글:",
-      "symbol": "AVGO",
-      "sentiment_score": -0.0454,
-      "source": "thegoodinvestors.sg",
-      "url": "https://www.thegoodinvestors.sg/what-were-reading-week-ending-15-november-2026/",
-      "cross_verified": true,
-      "published_at": "2026-11-15T01:00:00.000000Z"
-    },
-    {
-      "title": "JPMorgan Loses Card Chief Allison Beer to ‘External Opportunity’",
-      "title_ko": "JPMorgan, 카드 부문 책임자 앨리슨 비어가 ‘외부 기회’를 찾아 떠나",
-      "snippet": "JPMorgan Chase & Co.’s Allison Beer, who runs a credit card business ranking among the world’s largest, is departing to work somewhere else.",
-      "snippet_ko": "세계 최대 규모에 속하는 신용카드 사업을 총괄하고 있는 JPMorgan Chase & Co.의 앨리슨 비어가 회사를 떠나 다른 곳으로 옮기게 되었다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.7087,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/jpmorgan-loses-card-chief-allison-beer-to-external-opportunity-11794685827439.html",
-      "cross_verified": true,
-      "published_at": "2026-11-14T19:50:26.000000Z"
-    },
-    {
-      "title": "Italy fines Meta €805 million over unauthorised access to users' photos",
-      "title_ko": "이탈리아, 사용자 사진 무단 접근 혐의로 메타에 8억 500만 유로 과징금 부과",
-      "snippet": "The authority said it reserves the right to conduct a separate investigation into a new feature launched in 2026 that allows content from users' galleries to be processed in the cloud",
-      "snippet_ko": "당국은 2026년에 출시된, 사용자의 갤러리에 있는 콘텐츠를 클라우드에서 처리할 수 있게 해주는 새로운 기능에 대해 별도의 조사를 실시할 권리를 보유한다고 밝혔다.",
-      "symbol": "META",
-      "sentiment_score": 0.0094,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/italy-fines-meta-805-million-over-unauthorised-access-to-users-photos-126111401392_1.html",
-      "cross_verified": true,
-      "published_at": "2026-11-14T17:36:17.000000Z"
-    },
-    {
-      "title": "What Moved Markets This Week",
-      "title_ko": "이번 주 시장을 움직인 요인",
-      "snippet": "The S&P 500 rose 2.5% for the week as October CPI climbed 0.4%, above 0.3% forecasts, putting a 50-basis-point December hike back in consideration.",
-      "snippet_ko": "10월 소비자물가지수(CPI)가 0.4% 상승해 0.3%라는 시장 예상치를 상회함에 따라, S&P 500 지수는 이번 주 2.5% 상승했으며, 이에 따라 12월 기준금리 50베이시스포인트 인상이 다시 논의되고 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": -0.1842,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4968196-what-moved-markets-this-week",
-      "cross_verified": true,
-      "published_at": "2026-11-14T13:26:34.000000Z"
-    },
-    {
-      "title": "Safer gambling is now a growth business: Mindway AI’s signed ARR up 225%",
-      "title_ko": "안전한 도박은 이제 성장하는 사업 분야가 되었습니다: 마인드웨이 AI의 계약 연간 반복 매출(ARR)이 225% 증가했습니다.",
-      "snippet": "Mindway AI's signed annual recurring revenue reached 325% of its year-earlier level by June 30, and player monitoring jumped 79% to 16.5 million monthly across 73 jurisdictions.",
-      "snippet_ko": "마인드웨이 AI의 계약 체결 연간 반복 매출은 6월 30일 기준 전년 동기 대비 325%에 달했으며, 73개 관할 구역에서 플레이어 모니터링 건수는 79% 급증해 월 1,650만 건을 기록했다.",
-      "symbol": "DKNG",
-      "sentiment_score": 0.4215,
-      "source": "valuewalk.com",
-      "url": "https://www.valuewalk.com/mindway-ai-arr-up-225-percent-better-collective/",
-      "cross_verified": true,
-      "published_at": "2026-11-14T11:20:30.000000Z"
-    },
-    {
-      "title": "Anthropic IPO draws six times demand, but valuation remains under scrutiny",
-      "title_ko": "앤트로픽의 기업공개(IPO)에 6배의 청약이 몰렸으나, 기업 가치 평가에 대한 의문은 여전히 제기되고 있다",
-      "snippet": "Anthropic's IPO has drawn more institutional demand in its opening days than SpaceX's did, six times the shares on offer by Thursday.",
-      "snippet_ko": "앤트로픽의 기업공개(IPO)는 개시 초기부터 스페이스X의 IPO보다 더 많은 기관 투자자들의 수요를 끌어모았으며, 목요일까지 공모 주식 수의 6배에 달하는 수요가 몰렸다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3648,
-      "source": "timesofindia.indiatimes.com",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/anthropic-ipo-draws-six-times-demand-but-valuation-remains-under-scrutiny/articleshow/135830462.cms",
-      "cross_verified": true,
-      "published_at": "2026-11-14T10:52:57.000000Z"
     }
   ]
 }
