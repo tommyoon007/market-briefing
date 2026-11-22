@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-22T06:07:47.205339+00:00",
+  "updated_at": "2026-11-22T16:06:54.971209+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Expensify Review 2026: Pricing, Pros & Cons",
+      "title_ko": "Expensify 리뷰 2026: 요금, 장점 및 단점",
+      "snippet": "Expensify review: from $5/user/mo, 3 plans. Verified specs, pros and cons, LeadChange Score 8.5/10 in Expense Management. Updated Nov 2026.",
+      "snippet_ko": "Expensify 리뷰: 사용자당 월 5달러부터, 3가지 요금제. 검증된 사양, 장단점, 경비 관리 부문 LeadChange 점수 8.5/10. 2026년 11월 업데이트.",
+      "symbol": "",
+      "sentiment_score": -0.1167,
+      "source": "leadchangegroup.com",
+      "url": "https://leadchangegroup.com/software/expensify/",
+      "cross_verified": true,
+      "published_at": "2026-11-22T15:41:42.000000Z"
+    },
+    {
+      "title": "GSIS chief Veloso champions secure investments, nation-building and social dividends at Bloomberg forum",
+      "title_ko": "GSIS의 벨로소 총재, 블룸버그 포럼에서 안전한 투자, 국가 건설 및 사회적 이익 강조",
+      "snippet": "GOVERNMENT Service Insurance System (GSIS) President and General Manager Jose Arnulfo “Wick” A. Veloso underscored the importance of balancing financial growth with social responsibility, emphasizing that the state pension fund’s investment strategies remain anchored on delivering meaningful social dividends to its members, pensioners, and the broader government sector.",
+      "snippet_ko": "정부공무원연금공단(GSIS)의 호세 아르눌포 “윅” A. 벨로소 회장 겸 총괄사장은 재정적 성장과 사회적 책임의 균형을 맞추는 것이 중요함을 강조하며, 국가 연금 기금의 투자 전략은 여전히 가입자, 연금 수급자 및 더 넓은 정부 부문에 의미 있는 사회적 이익을 제공하는 데 중점을 두고 있다고 밝혔다.",
+      "symbol": "",
+      "sentiment_score": 0.296,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/11/22/tmt-newswire/gsis-chief-veloso-champions-secure-investments-nation-building-and-social-dividends-at-bloomberg-forum/2475692",
+      "cross_verified": true,
+      "published_at": "2026-11-22T14:12:58.000000Z"
+    },
     {
       "title": "Yellow Cake Hit A 30% Discount To Its NAV",
       "title_ko": "옐로우 케이크, 순자산가치 대비 30% 할인된 가격에 거래",
@@ -1177,33 +1201,69 @@
       "url": "https://seekingalpha.com/news/4668438-financials-earnings-scorecard-87-beat-eps-estimates-yy-earnings-growth-mixed",
       "cross_verified": true,
       "published_at": "2026-11-07T15:20:15.000000Z"
-    },
-    {
-      "title": "Microchip Technology Incorporated 2027 Q2 - Results - Earnings Call Presentation (NASDAQ:MCHP) 2026-11-07",
-      "title_ko": "마이크로칩 테크놀로지(Microchip Technology Incorporated) 2027년 2분기 실적 - 실적 발표 전화 회의 프레젠테이션 (NASDAQ:MCHP) 2026-11-07",
-      "snippet": "2026-11-07. The following slide deck was published by Microchip Technology Incorporated in conjunction with their 2027 Q2 earnings call.",
-      "snippet_ko": "2026년 11월 7일. 다음 슬라이드 자료는 마이크로칩 테크놀로지(Microchip Technology Incorporated)가 2027년 2분기 실적 발표와 함께 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4964531-microchip-technology-incorporated-2027-q2-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-11-07T08:02:16.000000Z"
-    },
-    {
-      "title": "Workiva Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:WK) 2026-11-07",
-      "title_ko": "Workiva Inc. 2026년 3분기 실적 - 실적 발표 전화회의 프레젠테이션 (NYSE:WK) 2026-11-07",
-      "snippet": "2026-11-07. The following slide deck was published by Workiva Inc.",
-      "snippet_ko": "2026년 11월 7일. 다음 슬라이드 자료는 Workiva Inc.에서 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4964530-workiva-inc-2026-q3-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-11-07T08:01:33.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Intel Stock $51: HP and Dell Results Test PC Demand Tuesday",
+      "title_ko": "인텔 주가 51달러: 화요일, HP와 델의 실적 발표가 PC 수요를 가늠할 전망",
+      "snippet": "Intel stock closed at $51.28 after a 14% weekly fall. HP and Dell report Tuesday after the close. Week-ahead levels: bull $56, bear $48.",
+      "snippet_ko": "인텔 주가는 주간 14% 하락한 뒤 51.28달러에 장을 마감했다. HP와 델은 화요일 장 마감 후 실적을 발표할 예정이다. 다음 주 목표 가격: 강세 56달러, 약세 48달러.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.0892,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/intel-intc-stock-51-sunday-week-ahead-hp-dell-results-thanksgiving-bull-56-bear-48/",
+      "cross_verified": true,
+      "published_at": "2026-11-22T13:14:33.000000Z"
+    },
+    {
+      "title": "Wall Street Week Ahead",
+      "title_ko": "월스트리트 주간 전망",
+      "snippet": "U.S. markets enter Thanksgiving week after the Nasdaq fell 10% and S&P 500 8.6%; investors watch Dell AI results and core PCE, expected at 3.2%.",
+      "snippet_ko": "나스닥이 10%, S&P 500이 8.6% 하락한 가운데 미국 증시가 추수감사절 주간에 접어들었다. 투자자들은 델의 AI 실적과 3.2%로 예상되는 핵심 개인소비지출(PCE) 지표를 주시하고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2422,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4970920-wall-street-week-ahead",
+      "cross_verified": true,
+      "published_at": "2026-11-22T11:21:37.000000Z"
+    },
+    {
+      "title": "Donald Trump’s investment portfolio: Latest stocks disclosure shows move in Home Depot, McDonald, Nvidia, Tesla, Apple",
+      "title_ko": "도널드 트럼프의 투자 포트폴리오: 최근 주식 공개 자료에 따르면 홈디포, 맥도날드, 엔비디아, 테슬라, 애플에 대한 투자 동향이 드러났다",
+      "snippet": "President Donald Trump’s sprawling investment portfolio shifted into dividend-producing ETFs and government securities in September, selling blue-chip names like McDonald’s Corp., Home Depot Inc., and Comcast Corp.",
+      "snippet_ko": "도널드 트럼프 대통령의 방대한 투자 포트폴리오는 지난 9월 배당금을 지급하는 ETF와 국채로 전환되었으며, 맥도날드, 홈디포, 컴캐스트와 같은 우량주들은 매도했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.0673,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/money/donald-trump-s-investment-portfolio-latest-stocks-disclosure-shows-move-in-home-depot-mcdonald-nvidia-tesla-apple-11795337196628.html",
+      "cross_verified": true,
+      "published_at": "2026-11-22T09:40:02.000000Z"
+    },
+    {
+      "title": "Record Rs 1.22 lakh crore foreign inflows: Is India becoming the world's 'anti-AI' trade?",
+      "title_ko": "1.22 라크 크로레 루피라는 사상 최대 규모의 외국인 자금 유입: 인도가 세계의 ‘반(反) AI’ 거점으로 떠오르고 있는가?",
+      "snippet": "Was the artificial intelligence (AI)-led stock rally a bubble all along? Has it burst?",
+      "snippet_ko": "인공지능(AI)에 힘입은 주가 상승세는 애초부터 거품이었을까? 그 거품은 이미 터진 것일까?",
+      "symbol": "NVDA",
+      "sentiment_score": -0.0062,
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/record-rs-1-22-lakh-crore-foreign-inflows-is-india-becoming-the-worlds-anti-ai-trade/articleshow/136075365.cms",
+      "cross_verified": true,
+      "published_at": "2026-11-22T14:05:58.000000Z"
+    },
+    {
+      "title": "The AI sell-off has investors on edge. 5 pros weigh in on whether to buy the dip — or skip.",
+      "title_ko": "AI 관련 주가 급락으로 투자자들이 불안해하고 있다. 5명의 전문가들이 ‘저점 매수’를 할지, 아니면 ‘기회를 놓칠지’에 대해 의견을 밝혔다.",
+      "snippet": "It's been the roughest week for the tech trade since Liberation Day. We asked investors whether it's time to buy at better prices or to sit back.",
+      "snippet_ko": "해방일 이후 기술주 시장에 있어 가장 힘든 한 주였습니다. 우리는 투자자들에게 지금이 더 좋은 가격에 매수할 시기인지, 아니면 관망해야 할 시기인지 물었습니다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0372,
+      "source": "businessinsider.com",
+      "url": "https://www.businessinsider.com/tech-stocks-buying-opportunity-falling-knife-2026-11",
+      "cross_verified": true,
+      "published_at": "2026-11-22T11:01:01.000000Z"
+    },
     {
       "title": "Intel's Turnaround Story Remains Firmly Intact, Buy The Panic",
       "title_ko": "인텔의 실적 반등 추세는 여전히 확고하며, 시장 패닉 속에서 매수하라",
@@ -2343,66 +2403,6 @@
       "url": "https://timesofindia.indiatimes.com/business/international-business/anthropic-ipo-draws-six-times-demand-but-valuation-remains-under-scrutiny/articleshow/135830462.cms",
       "cross_verified": true,
       "published_at": "2026-11-14T10:52:57.000000Z"
-    },
-    {
-      "title": "Nvidia approaches Arm CEO Rene Haas as employees seek Huang's return",
-      "title_ko": "직원들이 황의 복귀를 요구하는 가운데 엔비디아가 ARM의 르네 하스 CEO에게 접촉했다",
-      "snippet": "Huang stepped down on Thursday after revelations of extramarital affairs, including one involving a suspected Chinese spy, plunging the chipmaker into crisis",
-      "snippet_ko": "황 씨는 중국 스파이로 의심되는 인물과의 관계를 포함한 여러 건의 불륜 사실이 드러나면서 목요일 사임했으며, 이로 인해 이 반도체 제조사는 위기에 빠졌다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.0217,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/nvidia-approaches-arm-ceo-rene-haas-as-employees-seek-huang-s-return-126111400075_1.html",
-      "cross_verified": true,
-      "published_at": "2026-11-14T02:55:28.000000Z"
-    },
-    {
-      "title": "US stocks mostly ease with tech, Nvidia concerns; airline shares fall",
-      "title_ko": "기술주와 엔비디아에 대한 우려로 미국 증시 대체로 약세…항공주 하락",
-      "snippet": "Airline shares dropped in the final minutes of the regular US session after the US Federal Aviation Administration issued a national ground stop of all departing flights",
-      "snippet_ko": "미국 연방항공청(FAA)이 전국적으로 모든 출발 항공편에 대해 이륙 금지 조치를 내린 후, 미국 정규 장중 거래 마감 직전 항공사 주가가 하락했다.",
-      "symbol": "AVGO",
-      "sentiment_score": -0.0535,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/us-stocks-mostly-ease-with-tech-nvidia-concerns-airline-shares-fall-126111400058_1.html",
-      "cross_verified": true,
-      "published_at": "2026-11-14T02:22:48.000000Z"
-    },
-    {
-      "title": "5 world market themes for the week ahead",
-      "title_ko": "다가오는 한 주를 전망하는 5가지 세계 시장 주요 테마",
-      "snippet": "Nvidia's recent leadership change and the upcoming IPO of Anthropic could significantly influence the AI market dynamics. US-China relations are set for discussions as Trump and Xi meet amid various geopolitical concerns. Oil prices remain volatile due to Middle East tensions and supply changes, affecting potential inflation relief. A UK and EU summit aims to advance post-Brexit cooperation on trade and regulations.",
-      "snippet_ko": "엔비디아의 최근 경영진 교체와 앤트로픽의 다가오는 기업공개(IPO)는 AI 시장 동향에 상당한 영향을 미칠 수 있다. 다양한 지정학적 우려 속에서 트럼프와 시진핑이 회동함에 따라 미·중 관계에 대한 논의가 이루어질 전망이다. 중동 지역의 긴장과 공급 상황 변화로 인해 유가는 여전히 변동성을 보이고 있으며, 이는 인플레이션 완화 가능성에 영향을 미치고 있다. 영국과 EU 정상회담은 브렉시트 이후 무역 및 규제 분야에서의 협력을 진전시키는 것을 목표로 하고 있다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.1937,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-world-market-themes-for-the-week-ahead/articleshow/135822113.cms",
-      "cross_verified": true,
-      "published_at": "2026-11-14T04:02:17.000000Z"
-    },
-    {
-      "title": "Tech Sector Weakness and Rising Volatility Pressure Wall Street Ahead of Major Earnings Week",
-      "title_ko": "주요 기업 실적 발표 주간을 앞두고 기술주 부진과 변동성 확대로 월가 압박 가중",
-      "snippet": "On this Friday, November 13th, 2026, the U.S. equity markets are experiencing a day of moderate selling pressure as investors recalibrate their positions",
-      "snippet_ko": "2026년 11월 13일 금요일, 투자자들이 포지션을 재조정함에 따라 미국 주식 시장은 소폭의 매도 압력을 받고 있습니다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.1597,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-sector-weakness-and-rising-volatility-pressure-wall-street-ahead-of-major-earnings-week/74664/",
-      "cross_verified": true,
-      "published_at": "2026-11-13T22:07:20.000000Z"
-    },
-    {
-      "title": "US stocks: S&P 500, Nasdaq close lower as Nvidia woes and rate-hike bets pressure US market",
-      "title_ko": "미국 증시: 엔비디아의 부진과 금리 인상 전망이 미국 시장에 압박을 가하면서 S&P 500 지수와 나스닥 지수가 하락 마감했다",
-      "snippet": "The S&P 500 and Nasdaq experienced declines on Friday, primarily driven by concerns surrounding Nvidia and CEO Jensen Huang's resignation. The tech sector faced increased pressure, particularly the Philadelphia Semiconductor Index, which fell significantly. Although inflation data suggested a slightly lower increase, expectations for further Federal Reserve rate hikes remained unchanged. Major technology companies, including Advanced Micro Devices and Broadcom, contributed to the losses in the sector.",
-      "snippet_ko": "금요일 S&P 500 지수와 나스닥 지수는 엔비디아와 젠슨 황 CEO의 사임에 대한 우려가 주된 요인으로 작용하며 하락세를 보였다. 기술주 부문은 압박을 더욱 심하게 받았으며, 특히 필라델피아 반도체 지수는 큰 폭으로 떨어졌다. 인플레이션 데이터는 상승폭이 소폭 둔화된 것으로 나타났으나, 연방준비제도(Fed)의 추가 금리 인상 전망은 변함없이 유지되었다. 어드밴스드 마이크로 디바이스(AMD)와 브로드컴을 비롯한 주요 기술 기업들도 지수 하락에 일조했다.",
-      "symbol": "AVGO",
-      "sentiment_score": -0.2522,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-500-nasdaq-close-lower-as-rate-hike-bets-pressure-tech-shares/articleshow/135815984.cms",
-      "cross_verified": true,
-      "published_at": "2026-11-13T21:12:21.000000Z"
     }
   ]
 }
