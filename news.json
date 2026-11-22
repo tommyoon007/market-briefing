@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-21T22:57:50.545468+00:00",
+  "updated_at": "2026-11-22T06:07:47.205339+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Yellow Cake Hit A 30% Discount To Its NAV",
+      "title_ko": "옐로우 케이크, 순자산가치 대비 30% 할인된 가격에 거래",
+      "snippet": "The bull case for Yellow Cake: its shares trade at a 30% discount to NAV, offering uranium exposure as nuclear capacity commitments strengthen demand.",
+      "snippet_ko": "옐로우 케이크에 대한 강세 전망: 이 회사의 주가는 순자산가치(NAV) 대비 30% 할인된 수준에서 거래되고 있으며, 원자력 발전 용량 확대로 수요가 증가함에 따라 우라늄 투자 기회를 제공하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.3825,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4970898-yellow-cake-stock-hit-a-30-percent-discount-to-its-nav",
+      "cross_verified": true,
+      "published_at": "2026-11-22T04:38:01.000000Z"
+    },
+    {
+      "title": "Atlas Copco: Investors Are Paying Too Much For Quality",
+      "title_ko": "아틀라스 콥코: 투자자들이 품질을 위해 지나치게 높은 대가를 치르고 있다",
+      "snippet": "Analyst rates Atlas Copco a Hold: a 40% valuation premium at 30.8x earnings could limit returns and expose shares to declines.",
+      "snippet_ko": "한 애널리스트가 아틀라스 콥코에 대해 ‘보유(Hold)’ 등급을 부여했다. 주가수익비율(PER)이 30.8배로 40%의 평가 프리미엄이 붙어 있어 수익률이 제한될 수 있으며, 주가가 하락할 위험에 노출될 수 있다.",
+      "symbol": "",
+      "sentiment_score": 0.2011,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4970895-atlas-copco-stock-investors-paying-too-much-for-quality",
+      "cross_verified": true,
+      "published_at": "2026-11-22T03:30:50.000000Z"
+    },
+    {
+      "title": "China's $1.7 trillion AI rout turns once-hot tech trade into a losing bet",
+      "title_ko": "1조 7천억 달러 규모의 중국 AI 시장 붕괴로 한때 뜨거운 관심을 받았던 기술 투자가 손실만 남기는 투자로 전락했다",
+      "snippet": "Stocks listed on three tech-focused indexes have shed a combined $1.7 trillion in market value since the end of June, according to data",
+      "snippet_ko": "데이터에 따르면, 3대 기술주 지수에 편입된 종목들의 시가총액은 6월 말 이후 총 1조 7천억 달러가 감소했다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/world-news/china-s-1-7-trillion-ai-rout-turns-once-hot-tech-trade-into-a-losing-bet-126112200085_1.html",
+      "cross_verified": true,
+      "published_at": "2026-11-22T02:31:47.000000Z"
+    },
     {
       "title": "Endeavour Silver: Still Solid After Q3, Despite The Dip",
       "title_ko": "엔데버 실버: 3분기 실적 발표 후 일시적인 하락에도 여전히 견고한 모습",
@@ -1165,45 +1201,57 @@
       "url": "https://seekingalpha.com/article/4964530-workiva-inc-2026-q3-results-earnings-call-presentation",
       "cross_verified": true,
       "published_at": "2026-11-07T08:01:33.000000Z"
-    },
-    {
-      "title": "Kratos Defense & Security Solutions, Inc. (KTOS) Q3 2026 Earnings Call Transcript",
-      "title_ko": "Kratos Defense & Security Solutions, Inc. (KTOS) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "Kratos Defense & Security Solutions, Inc. (KTOS) Q3 2026 Earnings Call November 5, 2026 5:00 PM ESTCompany ParticipantsMarie Mendoza - Senior VP,...",
-      "snippet_ko": "크라토스 디펜스 앤 시큐리티 솔루션즈(Kratos Defense & Security Solutions, Inc., KTOS) 2026년 3분기 실적 발표 전화회의, 2026년 11월 5일 오후 5:00(미국 동부 표준시) 회사 측 참석자: 마리 멘도자(Marie Mendoza) - 수석 부사장,...",
-      "symbol": "",
-      "sentiment_score": 0.4531,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4964391-kratos-defense-and-security-solutions-inc-ktos-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-11-07T00:54:33.000000Z"
-    },
-    {
-      "title": "Duolingo: Q3 Strengthens My Thesis (NASDAQ:DUOL)",
-      "title_ko": "듀오링고: 3분기 실적이 내 주장을 뒷받침한다 (나스닥:DUOL)",
-      "snippet": "Duolingo’s user growth is accelerating as AI boosts engagement and subscriptions.",
-      "snippet_ko": "AI가 사용자 참여도와 구독을 촉진함에 따라 듀오링고의 사용자 증가세가 가속화되고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.6768,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4964448-duolingo-q3-strengthens-my-thesis",
-      "cross_verified": true,
-      "published_at": "2026-11-07T00:45:45.000000Z"
-    },
-    {
-      "title": "Treace outlines $206M-$210M 2026 revenue range while targeting $700M TAM expansion (NASDAQ:TMCI)",
-      "title_ko": "트레이스(Treace), 2026년 매출 전망치를 2억 600만~2억 1,000만 달러로 제시하며 총 시장 규모(TAM) 7억 달러 확대를 목표로 함 (나스닥: TMCI)",
-      "snippet": "Treace Medical Q3 2026 earnings: revenue guidance tightened, ASP pressure persists, but new product adoption and Q4 growth hopes stand out.",
-      "snippet_ko": "트레이스 메디컬 2026년 3분기 실적: 매출 전망치가 하향 조정되었고 평균판매가격(ASP)에 대한 압박은 지속되고 있으나, 신제품 채택과 4분기 성장 기대감이 두드러진다.",
-      "symbol": "",
-      "sentiment_score": 0.2757,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4668697-treace-outlines-206m-210m-2026-revenue-range-while-targeting-700m-tam-expansion",
-      "cross_verified": true,
-      "published_at": "2026-11-07T00:45:27.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Intel's Turnaround Story Remains Firmly Intact, Buy The Panic",
+      "title_ko": "인텔의 실적 반등 추세는 여전히 확고하며, 시장 패닉 속에서 매수하라",
+      "snippet": "Analyst rates Intel a Buy: its turnaround remains intact, with a 0.50 forward PEG and forward P/E below 40x offering an accumulation opportunity.",
+      "snippet_ko": "한 애널리스트가 인텔에 ‘매수’ 등급을 부여했다. 인텔의 실적 회복세는 여전히 견고하며, 0.50의 미래 PEG와 40배 미만의 미래 P/E는 매수 기회를 제공한다.",
+      "symbol": "INTC",
+      "sentiment_score": 0.7269,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4970889-intels-turnaround-story-remains-firmly-intact-buy-the-panic",
+      "cross_verified": true,
+      "published_at": "2026-11-22T01:45:47.000000Z"
+    },
+    {
+      "title": "When the Plumbing Breaks: Nvidia, the SEC, and the AI Reassessment",
+      "title_ko": "배관 고장 때: 엔비디아, SEC, 그리고 AI 재평가",
+      "snippet": "On the surface, the broader equity market still looks respectable for 2026. Most of the major benchmarks, including the S&P 500, Nasdaq, Dow, and Russell 2000, remain in positive territory for the year. Look just beneath the headline year-to-date gains, however, and a far more sobering picture emerges. Almost every major index is now down…",
+      "snippet_ko": "표면적으로 볼 때, 2026년 전체 주식 시장은 여전히 괜찮아 보입니다. S&P 500, 나스닥, 다우, 러셀 2000을 포함한 대부분의 주요 지수는 올해 들어 여전히 플러스 영역을 유지하고 있습니다. 하지만 연초부터 현재까지의 상승률이라는 표면적인 수치 이면을 들여다보면, 훨씬 더 냉정한 현실이 드러납니다. 현재 거의 모든 주요 지수가 하락세를 보이고 있습니다…",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.0082,
+      "source": "global-macro-monitor.com",
+      "url": "https://global-macro-monitor.com/2026/11/21/when-the-plumbing-breaks-nvidia-the-sec-and-the-ai-reassessment/",
+      "cross_verified": true,
+      "published_at": "2026-11-22T01:04:13.000000Z"
+    },
+    {
+      "title": "Litmos Review 2026: Pricing, Pros & Cons",
+      "title_ko": "Litmos 2026년 리뷰: 가격, 장점 및 단점",
+      "snippet": "Litmos review: published prices, 3 plans. Verified specs, pros and cons, LeadChange Score 7.4/10 in Corporate LMS. Updated Nov 2026.",
+      "snippet_ko": "Litmos 리뷰: 공개된 가격, 3가지 요금제. 검증된 사양, 장단점, 기업용 LMS 부문 LeadChange 점수 7.4/10. 2026년 11월 업데이트.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.2809,
+      "source": "leadchangegroup.com",
+      "url": "https://leadchangegroup.com/software/litmos/",
+      "cross_verified": true,
+      "published_at": "2026-11-21T23:08:15.000000Z"
+    },
+    {
+      "title": "Sunday Morning Briefing – Thailand Business News",
+      "title_ko": "일요일 아침 브리핑 – 태국 비즈니스 뉴스",
+      "snippet": "SET slides as global tech rout deepens. The SET Index closed Friday at 1,453.28, down 1.31%, on turnover of THB 61.66 billion. The market fell less than regiona",
+      "snippet_ko": "세계 기술주 폭락이 심화되면서 SET 지수가 하락했다. SET 지수는 금요일 1,453.28로 1.31% 하락하며 마감했으며, 거래량은 616억 6천만 바트였다. 시장 하락폭은 지역 내 다른 시장보다 작았다.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.7657,
+      "source": "thailand-business-news.com",
+      "url": "https://www.thailand-business-news.com/news/341632-thailand-business-news-sunday-morning-briefing",
+      "cross_verified": true,
+      "published_at": "2026-11-22T01:18:00.000000Z"
+    },
     {
       "title": "CrowdStrike’s Talks with Zscaler Show AI-Led Cyber Consolidation",
       "title_ko": "크라우드스트라이크와 Zscaler 간의 협상이 AI 주도형 사이버 보안 업계 통합을 보여준다",
@@ -2355,54 +2403,6 @@
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-500-nasdaq-close-lower-as-rate-hike-bets-pressure-tech-shares/articleshow/135815984.cms",
       "cross_verified": true,
       "published_at": "2026-11-13T21:12:21.000000Z"
-    },
-    {
-      "title": "Tech Sector Drag and Inflation Jitters: Markets Close Lower as Retail Earnings Loom",
-      "title_ko": "기술주 부진과 인플레이션 우려: 소매업체 실적 발표를 앞두고 시장 하락 마감",
-      "snippet": "U.S. equity markets faced downward pressure on Friday, November 13th, 2026, as investors grappled with sticky inflation data and a cooling enthusiasm for",
-      "snippet_ko": "2026년 11월 13일 금요일, 미국 주식 시장은 투자자들이 고착화된 인플레이션 지표와 [...에 대한] 열기가 식어가는 상황에 직면하면서 하락 압력을 받았다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.1783,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-sector-drag-and-inflation-jitters-markets-close-lower-as-retail-earnings-loom/74660/",
-      "cross_verified": true,
-      "published_at": "2026-11-13T21:07:14.000000Z"
-    },
-    {
-      "title": "Apple: A Downgrade To Hold Would Be A Wise Move Before Q1",
-      "title_ko": "애플: 1분기 실적 발표를 앞두고 ‘보유(Hold)’로 하향 조정하는 것이 현명한 조치일 것",
-      "snippet": "Analyst rates Apple Inc. a Hold after record Q4 2026 revenue and EPS; elevated P/E and P/S multiples and margin pressure argue against adding shares.",
-      "snippet_ko": "애널리스트는 애플이 2026년 4분기 사상 최대 매출과 주당순이익(EPS)을 기록한 가운데, ‘보유(Hold)’ 투자의견을 제시했다. 높은 주가수익비율(P/E)과 주가매출비율(P/S), 그리고 마진 압박을 고려할 때 추가 매수는 바람직하지 않다는 판단이다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.5171,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4967866-apple-a-downgrade-to-hold-would-be-a-wise-move-before-q1",
-      "cross_verified": true,
-      "published_at": "2026-11-13T16:15:44.000000Z"
-    },
-    {
-      "title": "Alphabet: 265 Billion Reasons Not To Worry About The CapEx Burn",
-      "title_ko": "알파벳: 자본지출 소진을 걱정할 필요가 없는 2,650억 개의 이유",
-      "snippet": "Alphabet delivered a rare double miss, but the post-earnings pullback is a compelling entry point. See why I rate GOOGL stock as Strong Buy. Click to read my analysis.",
-      "snippet_ko": "알파벳은 이례적으로 두 가지 지표 모두 기대치를 하회했지만, 실적 발표 후 주가가 조정된 지금이 매력적인 매수 기회입니다. 제가 GOOGL 주식을 ‘강력 매수’로 평가하는 이유를 확인해 보세요. 제 분석을 읽어보시려면 클릭하세요.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.5329,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4967818-alphabet-265-billion-reasons-not-to-worry-about-the-capex-burn",
-      "cross_verified": true,
-      "published_at": "2026-11-13T15:21:17.000000Z"
-    },
-    {
-      "title": "Tech and Crypto Lead Market Pullback as Investors Weigh Economic Outlook",
-      "title_ko": "투자자들이 경제 전망을 주시하는 가운데, 기술주와 암호화폐가 시장 조정세를 주도하고 있다",
-      "snippet": "The U.S. stock market opened with a cautious and predominantly negative tone on Friday, November 13th, 2026. Following a period of heightened volatility,",
-      "snippet_ko": "2026년 11월 13일 금요일, 미국 증시는 신중한 분위기 속에서 대체로 약세를 보이며 개장했다. 변동성이 심했던 기간을 거친 뒤,",
-      "symbol": "NVDA",
-      "sentiment_score": 0.3581,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-crypto-lead-market-pullback-as-investors-weigh-economic-outlook/74642/",
-      "cross_verified": true,
-      "published_at": "2026-11-13T15:07:12.000000Z"
     }
   ]
 }
