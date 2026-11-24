@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-23T20:01:15.525897+00:00",
+  "updated_at": "2026-11-24T04:42:45.638966+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "HPE targets FY 2027 EPS of $5.05-$5.35 and at least $5.5B in free cash flow driven by 27%-35% revenue growth",
+      "title_ko": "HPE는 매출 27%~35% 성장에 힘입어 2027 회계연도 주당 순이익(EPS)을 5.05~5.35달러, 자유 현금 흐름을 최소 55억 달러로 목표하고 있다.",
+      "snippet": "HPE forecasts 27% to 35% FY27 revenue growth and $5.05 to $5.35 EPS; it expects component shortages into at least the second half of calendar 2028.",
+      "snippet_ko": "HPE는 2027 회계연도 매출이 27%에서 35% 성장하고 주당 순이익(EPS)이 5.05달러에서 5.35달러에 달할 것으로 전망하며, 부품 부족 현상은 적어도 2028년 하반기까지 이어질 것으로 예상하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.7096,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4675959-hpe-targets-fy-2027-eps-of-5_05-5_35-and-at-least-5_5b-in-free-cash-flow-driven-by-27",
+      "cross_verified": true,
+      "published_at": "2026-11-24T04:22:23.000000Z"
+    },
+    {
+      "title": "Hewlett Packard Enterprise Company (HPE) Q4 2026 Earnings Call Transcript",
+      "title_ko": "휴렛 팩커드 엔터프라이즈(HPE) 2026년 4분기 실적 발표 전화 회의 기록",
+      "snippet": "Hewlett Packard Enterprise Company (HPE) Q4 2026 Earnings Call November 23, 2026 5:00 PM ESTCompany ParticipantsDave Rubin - Head of Investor...",
+      "snippet_ko": "휴렛 팩커드 엔터프라이즈(HPE) 2026년 4분기 실적 발표 전화회의, 2026년 11월 23일 오후 5:00(미국 동부 표준시) 회사 측 참석자: 데이브 루빈 - 투자자 관계 책임자...",
+      "symbol": "",
+      "sentiment_score": 0.4501,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4971244-hewlett-packard-enterprise-company-hpe-q4-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-24T04:21:16.000000Z"
+    },
+    {
+      "title": "Columbia Convertible Securities Fund Q3 2026 Commentary",
+      "title_ko": "컬럼비아 변환형 증권 펀드 2026년 3분기 분석 보고서",
+      "snippet": "Columbia Convertible Securities Fund returned -6.35% in Q3 2026, trailing its benchmark. Read the full quarterly portfolio recap and outlook.",
+      "snippet_ko": "컬럼비아 컨버터블 증권 펀드는 2026년 3분기에 -6.35%의 수익률을 기록하며 벤치마크를 하회했습니다. 분기별 포트폴리오 요약 및 전망 전문을 확인해 보세요.",
+      "symbol": "",
+      "sentiment_score": 0.6222,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4971290-columbia-convertible-securities-fund-q3-2026-commentary",
+      "cross_verified": true,
+      "published_at": "2026-11-24T04:15:00.000000Z"
+    },
     {
       "title": "GLO: Discount Gets Even Wider, Still Remaining On The Sidelines",
       "title_ko": "GLO: 할인 폭이 더욱 확대되었으나, 여전히 관망세 유지",
@@ -1165,45 +1201,81 @@
       "url": "https://leadchangegroup.com/peo-services/small-business/",
       "cross_verified": true,
       "published_at": "2026-11-08T21:21:23.000000Z"
-    },
-    {
-      "title": "Riley Exploration Permian, Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:REPX) 2026-11-07",
-      "title_ko": "Riley Exploration Permian, Inc. 2026년 3분기 실적 - 실적 발표 전화 회의 프레젠테이션 (NYSE:REPX) 2026-11-07",
-      "snippet": "2026-11-07. The following slide deck was published by Riley Exploration Permian, Inc.",
-      "snippet_ko": "2026년 11월 7일. 다음 슬라이드 자료는 Riley Exploration Permian, Inc.에서 발간한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4964654-riley-exploration-permian-inc-2026-q3-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-11-07T17:44:59.000000Z"
-    },
-    {
-      "title": "Riley Exploration Permian, Inc. (REPX) Q3 2026 Earnings Call Transcript",
-      "title_ko": "라일리 익스플로레이션 퍼미안(Riley Exploration Permian, Inc., REPX) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "Riley Exploration Permian, Inc. (REPX) Q3 2026 Earnings Call November 5, 2026 10:00 AM ESTCompany ParticipantsBen McQueenBobby Riley - Chairman, CEO &...",
-      "snippet_ko": "Riley Exploration Permian, Inc. (REPX) 2026년 3분기 실적 발표 전화회의 2026년 11월 5일 오전 10:00 (미국 동부 표준시) 회사 참가자: 벤 맥퀸, 바비 라일리 - 회장, CEO 및...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4964653-riley-exploration-permian-inc-repx-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-11-07T17:44:39.000000Z"
-    },
-    {
-      "title": "Cogent Communications Holdings, Inc. (CCOI) Q3 2026 Earnings Call Transcript",
-      "title_ko": "코젠트 커뮤니케이션즈 홀딩스(Cogent Communications Holdings, Inc., CCOI) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "Cogent Communications Holdings, Inc. (CCOI) Q3 2026 Earnings Call November 5, 2026 8:30 AM ESTCompany ParticipantsDavid Schaeffer - Founder, Chairman, CEO...",
-      "snippet_ko": "코젠트 커뮤니케이션즈 홀딩스(Cogent Communications Holdings, Inc., CCOI) 2026년 3분기 실적 발표 컨퍼런스 콜, 2026년 11월 5일 오전 8시 30분(미국 동부 표준시) 회사 측 참석자: 데이비드 셰퍼(David Schaeffer) - 설립자, 회장, CEO...",
-      "symbol": "",
-      "sentiment_score": 0.3426,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4964499-cogent-communications-holdings-inc-ccoi-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-11-07T17:44:36.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Nvidia's board was no match for Trump or powerful backers of Jensen Huang",
+      "title_ko": "엔비디아 이사회는 트럼프나 젠슨 황의 강력한 후원자들을 상대할 수 없었다",
+      "snippet": "Trump said he spoke directly and indirectly with Nvidia directors and believed his intervention was crucial to Jensen Huang's reinstatement, raising questions about the board's independence",
+      "snippet_ko": "트럼프는 엔비디아 이사들과 직접 및 간접적으로 대화를 나눴으며, 자신의 개입이 젠슨 황의 복직에 결정적인 역할을 했다고 믿는다고 말해, 이사회 독립성에 대한 의문을 제기했다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.0772,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/technology/tech-news/nvidia-s-board-was-no-match-for-trump-or-powerful-backers-of-jensen-huang-126112400184_1.html",
+      "cross_verified": true,
+      "published_at": "2026-11-24T04:12:28.000000Z"
+    },
+    {
+      "title": "Baron Asset Fund Q3 2026 Shareholder Letter",
+      "title_ko": "바론 자산 펀드 2026년 3분기 주주 서한",
+      "snippet": "Baron Asset Fund fell 6.22% in Q3 2026 as software rebounded while SpaceX and AI infrastructure pulled back. Read the full Q3 2026 shareholder letter.",
+      "snippet_ko": "2026년 3분기, 소프트웨어 부문이 반등한 반면 스페이스X와 AI 인프라 부문은 주가가 하락하면서 바론 애셋 펀드는 6.22% 하락했습니다. 2026년 3분기 주주 서한 전문을 읽어보세요.",
+      "symbol": "DKNG",
+      "sentiment_score": 0.3919,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4971256-baron-asset-fund-q3-2026-shareholder-letter",
+      "cross_verified": true,
+      "published_at": "2026-11-24T01:05:00.000000Z"
+    },
+    {
+      "title": "In Jensen Huang’s return, are national security concerns being shoved aside?",
+      "title_ko": "젠슨 황의 복귀 과정에서 국가 안보 문제가 뒷전으로 밀려나고 있는 것일까?",
+      "snippet": "With a boost from President Trump, the controversial tech mogul Jensen Huang has returned to the CEO role at Nvidia. But investigations are underway regar…",
+      "snippet_ko": "트럼프 대통령의 지지 덕분에 논란의 중심에 서 있던 기술 업계 거물 젠슨 황이 엔비디아의 CEO직에 복귀했다. 하지만 이와 관련해 조사가 진행 중이며…",
+      "symbol": "AAPL",
+      "sentiment_score": 0.4919,
+      "source": "csmonitor.com",
+      "url": "https://www.csmonitor.com/Business/2026/1123/trump-jensen-huang-nvidia-security?icid=rss",
+      "cross_verified": true,
+      "published_at": "2026-11-23T23:16:32.000000Z"
+    },
+    {
+      "title": "Nvidia shares soar 31% as Jensen Huang's return sparks Wall Street rally",
+      "title_ko": "젠슨 황의 복귀가 월가 상승세를 이끌며 엔비디아 주가가 31% 급등했다",
+      "snippet": "Nvidia's rally lifted the Nasdaq 100 by 6.5% and the S&P 500 by 4.7%, while shorter-dated Treasury yields and the dollar climbed on bets of a more hawkish Fed",
+      "snippet_ko": "엔비디아의 주가 급등에 힘입어 나스닥 100 지수는 6.5%, S&P 500 지수는 4.7% 상승한 반면, 연준의 더 매파적인 기조를 예상하는 심리에 단기 국채 수익률과 달러화 가치는 상승했다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.1948,
+      "source": "business-standard.com",
+      "url": "https://www.business-standard.com/markets/news/nvidia-shares-soar-31-as-jensen-huang-s-return-sparks-wall-street-rally-126112400047_1.html",
+      "cross_verified": true,
+      "published_at": "2026-11-24T03:11:15.000000Z"
+    },
+    {
+      "title": "Asian stocks roar back as Jensen Huang's Nvidia return reignites the AI trade",
+      "title_ko": "젠슨 황의 엔비디아 복귀가 AI 관련 투자 열기를 다시 불러일으키며 아시아 증시가 급반등했다",
+      "snippet": "Asia is central to Nvidia's AI supply chain, from Taiwan's advanced chipmaking to South Korea's memory chips and Japan's semiconductor equipment.",
+      "snippet_ko": "대만의 첨단 칩 제조부터 한국의 메모리 칩, 일본의 반도체 장비에 이르기까지, 아시아는 엔비디아의 AI 공급망에서 핵심적인 역할을 하고 있다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.2689,
+      "source": "businessinsider.com",
+      "url": "https://www.businessinsider.com/nvidia-jensen-huang-ceo-return-kospi-tsmc-nikkei-ai-stocks-2026-11",
+      "cross_verified": true,
+      "published_at": "2026-11-24T02:40:57.000000Z"
+    },
+    {
+      "title": "US stocks surge and recover half of last week’s plunge after Jensen Huang returns as Nvidia’s CEO",
+      "title_ko": "젠슨 황이 엔비디아 CEO로 복귀함에 따라 미국 증시가 급등하며 지난주 급락분의 절반을 만회했다",
+      "snippet": "NEW YORK — Nvidia led a thunderous rally on Wall Street Monday following the surprise return of Jensen Huang, the charismatic and flawed booster for the entire artificial intelligence industry, as the chip company's CEO. U.S. stocks recovered just over half their brutal loss from last week, which was one of their worst since the 2008 financial crisis.",
+      "snippet_ko": "뉴욕 — 인공지능 업계 전체를 이끌며 카리스마 넘치면서도 흠이 있는 인물인 젠슨 황이 칩 제조사 엔비디아의 CEO로 깜짝 복귀함에 따라, 월요일 월가에서는 엔비디아를 필두로 한 격렬한 반등세가 이어졌다. 미국 증시는 2008년 금융위기 이후 최악의 폭락 중 하나였던 지난주 급락분의 절반을 조금 넘게 만회했다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.2912,
+      "source": "manilatimes.net",
+      "url": "https://www.manilatimes.net/2026/11/24/business/foreign-business/us-stocks-surge-and-recover-half-of-last-weeks-plunge-after-jensen-huang-returns-as-nvidias-ceo/2476751",
+      "cross_verified": true,
+      "published_at": "2026-11-24T02:06:48.000000Z"
+    },
     {
       "title": "DraftKings Gains Legal Ground on Prediction Markets, but Its Quarterly EBITDA Loss Reaches $317 Million",
       "title_ko": "드래프트킹스, 예측 시장에서 법적 입지 강화했으나 분기 EBITDA 적자는 3억 1,700만 달러에 달해",
@@ -2331,78 +2403,6 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/earningsnvidia-and-retail-leaders-headline-upcoming-earnings-week/74762/",
       "cross_verified": true,
       "published_at": "2026-11-16T14:12:36.000000Z"
-    },
-    {
-      "title": "Tech Sector Under Pressure as Nvidia and AMD Slide Ahead of Crucial Earnings Week",
-      "title_ko": "중요한 실적 발표 주간을 앞두고 엔비디아와 AMD 주가가 하락하며 기술주가 압박을 받고 있다",
-      "snippet": "U.S. stock futures and premarket activity indicate a cautious start to the trading week on Monday, November 16th, 2026. Investors are navigating a complex",
-      "snippet_ko": "미국 주식 선물과 장전 거래 동향을 보면, 2026년 11월 16일 월요일 이번 주 거래가 신중한 분위기로 시작될 것으로 보인다. 투자자들은 복잡한 상황을 헤쳐 나가고 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3297,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-sector-under-pressure-as-nvidia-and-amd-slide-ahead-of-crucial-earnings-week/74758/",
-      "cross_verified": true,
-      "published_at": "2026-11-16T14:07:11.000000Z"
-    },
-    {
-      "title": "Anthropic IPO: Why Google’s 13% stake and Big Tech’s $900-billion AI bet hinge on Claude maker’s success",
-      "title_ko": "앤트로픽(Anthropic)의 기업공개(IPO): 구글의 지분 13%와 빅테크 기업들의 9,000억 달러 규모 AI 투자가 ‘클로드(Claude)’ 개발사의 성공에 달려 있는 이유",
-      "snippet": "Anthropic’s planned IPO has become a major test for the AI industry, with tech giants investing $26 billion at the expected offering price and holding stakes in the company.",
-      "snippet_ko": "앤트로픽의 예정된 기업공개(IPO)는 AI 업계에 있어 중요한 시험대가 되었는데, 기술 대기업들이 예상 공모가를 기준으로 260억 달러를 투자하고 이 회사의 지분을 보유하고 있기 때문이다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.3,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/news/anthropic-ipo-why-google-s-13-stake-and-big-tech-s-900-billion-ai-bet-hinge-on-claude-maker-s-success-decoded-11794798914261.html",
-      "cross_verified": true,
-      "published_at": "2026-11-16T05:07:11.000000Z"
-    },
-    {
-      "title": "Nifty, Sensex open higher despite Wall Street selloff; TMPV leads losses",
-      "title_ko": "월가 매도세에도 불구하고 니프티·센섹스 지수 상승 출발… TMPV가 하락폭을 주도",
-      "snippet": "Indian shares open higher with Nifty at 25,257, led by Eicher Motors; TMPV tops losses as global cues loom.",
-      "snippet_ko": "아이처 모터스의 호조에 힘입어 인도 증시가 상승세로 출발했으며, 니프티 지수는 25,257을 기록했습니다. 한편, 글로벌 시장 동향에 대한 우려가 커지면서 TMPV가 가장 큰 하락폭을 기록했습니다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.0726,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/markets/nifty-sensex-open-higher-despite-wall-street-selloff-tmpv-leads-losses/article71706752.ece",
-      "cross_verified": true,
-      "published_at": "2026-11-16T04:14:55.000000Z"
-    },
-    {
-      "title": "ULA Vulcan Rocket Launches With Its First Amazon Leo Payload",
-      "title_ko": "ULA의 벌컨 로켓, 첫 번째 아마존 LEO 탑재체를 실고 발사",
-      "snippet": "United Launch Alliance launched its Vulcan rocket for the first time in nine months, a long-awaited return for a vehicle plagued by delays and technical mishaps.",
-      "snippet_ko": "유나이티드 런치 얼라이언스(ULA)가 9개월 만에 처음으로 ‘벌컨’ 로켓을 발사했다. 지연과 기술적 문제로 어려움을 겪어온 이 로켓의 이번 발사는 오랫동안 기다려온 복귀였다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.0,
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/ula-vulcan-rocket-launches-with-its-first-amazon-leo-payload-11794767538933.html",
-      "cross_verified": true,
-      "published_at": "2026-11-15T18:32:18.000000Z"
-    },
-    {
-      "title": "The ETF Educator",
-      "title_ko": "ETF 교육자",
-      "snippet": "Weekly ETF Reads",
-      "snippet_ko": "매주 읽을 만한 ETF 관련 글",
-      "symbol": "AAPL",
-      "sentiment_score": 0.494,
-      "source": "theetfeducator.com",
-      "url": "https://theetfeducator.com/2026/11/15/etf-buzz-335/",
-      "cross_verified": true,
-      "published_at": "2026-11-15T17:43:41.000000Z"
-    },
-    {
-      "title": "Alphabet: AI Hasn't Killed Search, It's Rebuilt It",
-      "title_ko": "알파벳: AI는 검색을 없애지 않았고, 오히려 재구축했다",
-      "snippet": "Analyst sees Alphabet as a diversification play, with Search's implied multiple roughly 20x; at $300, the writer would wait to add below $250.",
-      "snippet_ko": "한 애널리스트는 알파벳을 사업 다각화 투자 대상으로 보고 있으며, 검색 사업부의 내재 멀티플은 약 20배 수준이라고 분석했다. 주가가 300달러인 상황에서, 이 애널리스트는 250달러 아래로 떨어질 때까지 추가 매수를 기다릴 것이라고 밝혔다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.6053,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4968350-alphabet-ai-hasnt-killed-search-its-rebuilt-it",
-      "cross_verified": true,
-      "published_at": "2026-11-15T13:20:00.000000Z"
     }
   ]
 }
