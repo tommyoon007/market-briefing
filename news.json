@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-24T04:42:45.638966+00:00",
+  "updated_at": "2026-11-24T17:21:59.850295+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Compass Minerals projects $270M FY2027 adjusted EBITDA midpoint supported by ~12% higher highway pricing",
+      "title_ko": "컴패스 미네랄스는 고속도로 통행료 약 12% 인상에 힘입어 2027 회계연도 조정 EBITDA 중간치를 2억 7천만 달러로 전망하고 있다.",
+      "snippet": "Compass Minerals' fiscal 2026 adjusted EBITDA rose 18% to $235 million; its fiscal 2027 adjusted EBITDA midpoint is $270 million on 12% fewer Salt tons.",
+      "snippet_ko": "컴패스 미네랄스의 2026 회계연도 조정 EBITDA는 18% 증가한 2억 3,500만 달러를 기록했으며, 2027 회계연도 조정 EBITDA의 중간값은 소금 생산량이 12% 감소한 가운데 2억 7,000만 달러로 전망된다.",
+      "symbol": "",
+      "sentiment_score": 0.3182,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4676285-compass-minerals-projects-270m-fy2027-adjusted-ebitda-midpoint-supported-by-12-percent-higher",
+      "cross_verified": true,
+      "published_at": "2026-11-24T17:02:56.000000Z"
+    },
+    {
+      "title": "Smucker expects Uncrustables to grow about 10% as it maintains $1.1B free cash flow outlook",
+      "title_ko": "스머커는 11억 달러의 자유 현금 흐름 전망치를 유지하면서 ‘언크러스터블스’ 매출이 약 10% 성장할 것으로 전망하고 있다.",
+      "snippet": "J. M.",
+      "snippet_ko": "J. M.",
+      "symbol": "",
+      "sentiment_score": 0.4755,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4676284-smucker-expects-uncrustables-to-grow-about-10-percent-as-it-maintains-1_1b-free-cash-flow",
+      "cross_verified": true,
+      "published_at": "2026-11-24T17:02:51.000000Z"
+    },
+    {
+      "title": "The J. M. Smucker Company (SJM) Q2 2027 Earnings Call Transcript",
+      "title_ko": "J. M. 스머커 컴퍼니(SJM) 2027년 2분기 실적 발표 전화 회의 기록",
+      "snippet": "The J. M.",
+      "snippet_ko": "J. M.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4971506-the-j-m-smucker-company-sjm-q2-2027-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-24T17:01:44.000000Z"
+    },
     {
       "title": "HPE targets FY 2027 EPS of $5.05-$5.35 and at least $5.5B in free cash flow driven by 27%-35% revenue growth",
       "title_ko": "HPE는 매출 27%~35% 성장에 힘입어 2027 회계연도 주당 순이익(EPS)을 5.05~5.35달러, 자유 현금 흐름을 최소 55억 달러로 목표하고 있다.",
@@ -1165,45 +1201,81 @@
       "url": "https://seekingalpha.com/article/4964882-cytokinetics-incorporated-2026-q3-results-earnings-call-presentation",
       "cross_verified": true,
       "published_at": "2026-11-09T01:07:26.000000Z"
-    },
-    {
-      "title": "Atea Pharmaceuticals (AVIR) to Report Q3 Earnings Amid Loss-Making Status and Mixed Market Signals",
-      "title_ko": "적자 상태와 엇갈리는 시장 신호 속에서 아테아 파마슈티컬스(AVIR), 3분기 실적 발표 예정",
-      "snippet": "On November 08, 2026, Atea Pharmaceuticals Inc (NASDAQ: AVIR) is scheduled to release its third-quarter earnings report after market close on November 9. The co",
-      "snippet_ko": "2026년 11월 8일, Atea Pharmaceuticals Inc(나스닥: AVIR)는 11월 9일 장 마감 후 3분기 실적 보고서를 발표할 예정입니다. 이 회사는",
-      "symbol": "",
-      "sentiment_score": -0.3007,
-      "source": "gurufocus.com",
-      "url": "https://www.gurufocus.com/news/9184271/atea-pharmaceuticals-avir-to-report-q3-earnings-amid-lossmaking-status-and-mixed-market-signals",
-      "cross_verified": true,
-      "published_at": "2026-11-08T23:56:39.000000Z"
-    },
-    {
-      "title": "HealthEquity COBRA Review 2026: Pricing, Pros & Cons",
-      "title_ko": "HealthEquity COBRA 2026년 리뷰: 요금, 장단점",
-      "snippet": "HealthEquity review: quote-based pricing. Best for employers that need a SOC 2 Type II audited COBRA administrator. Updated Nov 2026.",
-      "snippet_ko": "HealthEquity 리뷰: 견적 기반 가격 책정. SOC 2 Type II 감사를 받은 COBRA 관리자가 필요한 고용주에게 가장 적합합니다. 2026년 11월 업데이트.",
-      "symbol": "",
-      "sentiment_score": 0.3224,
-      "source": "leadchangegroup.com",
-      "url": "https://leadchangegroup.com/software/healthequity/",
-      "cross_verified": true,
-      "published_at": "2026-11-08T21:21:23.000000Z"
-    },
-    {
-      "title": "Best PEO Services for Small Business (2026)",
-      "title_ko": "중소기업을 위한 최고의 PEO 서비스 (2026)",
-      "snippet": "27 PEO services for small business, with notes on a fee schedule with no surprises. Top: Justworks from $79/employee/mo. Updated Oct 2026.",
-      "snippet_ko": "중소기업을 위한 27가지 PEO 서비스와 예상치 못한 추가 비용이 없는 요금표에 대한 설명. 상단: Justworks, 직원 1인당 월 79달러부터. 2026년 10월 업데이트.",
-      "symbol": "",
-      "sentiment_score": 0.4683,
-      "source": "leadchangegroup.com",
-      "url": "https://leadchangegroup.com/peo-services/small-business/",
-      "cross_verified": true,
-      "published_at": "2026-11-08T21:21:23.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "GOOY: Options Income Through Synthetic Exposure To GOOGL",
+      "title_ko": "GOOY: GOOGL에 대한 합성 노출을 통한 옵션 수익",
+      "snippet": "Analyst sees GOOY as an income play: its 56% yield mostly comes from return of capital, while long calls may expire worthless in corrections.",
+      "snippet_ko": "한 애널리스트는 GOOY를 배당 투자 대상으로 보고 있다. 이 종목의 56%에 달하는 수익률은 대부분 원금 상환에서 비롯된 것이며, 롱 콜 옵션은 시장 조정 국면에서 만기 시 무가치하게 될 가능성이 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.2716,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4971508-gooy-options-income-through-synthetic-exposure-to-googl",
+      "cross_verified": true,
+      "published_at": "2026-11-24T15:38:39.000000Z"
+    },
+    {
+      "title": "Uber, Nuro to Start Driverless Testing of Lucid Robotaxis in Bay Area",
+      "title_ko": "우버와 누로, 베이 에어리어에서 루시드 로봇택시 무인 주행 시험 시작",
+      "snippet": "Uber Technologies Inc. has started testing robotaxis developed by Nuro Inc. and Lucid Group Inc. without a safety driver, a key milestone ahead of a",
+      "snippet_ko": "우버 테크놀로지스(Uber Technologies Inc.)는 누로(Nuro Inc.)와 루시드 그룹(Lucid Group Inc.)이 개발한 로봇택시를 안전 운전사 없이 시험 운행하기 시작했는데, 이는",
+      "symbol": "AMZN",
+      "sentiment_score": 0.1223,
+      "source": "insurancejournal.com",
+      "url": "https://www.insurancejournal.com/news/west/2026/11/24/893605.htm",
+      "cross_verified": true,
+      "published_at": "2026-11-24T14:52:52.000000Z"
+    },
+    {
+      "title": "Meta Platforms: Funding Uncertainty Is Burying The Muse Option (Rating Upgrade)",
+      "title_ko": "메타 플랫폼스: 자금 조달 불확실성이 ‘뮤즈’ 옵션을 무산시키고 있다 (투자의견 상향)",
+      "snippet": "Analyst upgrades Meta Platforms, Inc. to Buy from Hold with a $658 target, citing 14% Q3 ad-price growth versus 10% impression growth and AI pricing power.",
+      "snippet_ko": "한 애널리스트는 메타 플랫폼스(Meta Platforms, Inc.)에 대한 투자의견을 ‘보유(Hold)’에서 ‘매수(Buy)’로 상향 조정하고 목표주가를 658달러로 제시했다. 이는 3분기 광고 단가가 14% 증가한 반면 노출 수는 10% 증가에 그쳤다는 점과 AI 분야의 가격 결정력을 근거로 한 것이다.",
+      "symbol": "META",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4971437-meta-platforms-funding-uncertainty-is-burying-the-muse-option-rating-upgrade",
+      "cross_verified": true,
+      "published_at": "2026-11-24T14:11:15.000000Z"
+    },
+    {
+      "title": "Why US stocks are falling today: Nasdaq drops over 1% as Nvidia-fueled AI rally fades; Anthropic shares decline 8%",
+      "title_ko": "오늘 미국 주가가 하락하는 이유: 엔비디아에 힘입은 AI 랠리가 주춤하면서 나스닥 지수가 1% 이상 하락했고, 앤트로픽 주가는 8% 하락했다.",
+      "snippet": "Wall Streets major indexes opened lower on Tuesday as AI-linked stocks pulled back from a rally driven by Nvidia, while investors awaited key inflation data due later this week for further clues on the Federal Reserves monetary policy ahead of its December meeting.",
+      "snippet_ko": "화요일 월스트리트의 주요 지수들은 엔비디아(Nvidia)에 힘입어 상승세를 보였던 AI 관련주들이 조정 국면에 접어들면서 하락세로 출발했다. 한편 투자자들은 12월 연방준비제도(Fed) 회의에 앞서 이번 주 후반 발표될 주요 인플레이션 지표를 주시하며, 이를 통해 연준의 통화 정책에 대한 추가 단서를 얻으려 하고 있다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.1531,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-us-stocks-are-falling-today-nasdaq-drops-over-1-as-nvidia-fueled-ai-rally-fades-anthropic-shares-decline-8/articleshow/136134963.cms",
+      "cross_verified": true,
+      "published_at": "2026-11-24T15:20:34.000000Z"
+    },
+    {
+      "title": "Crypto Fear and Greed Hits 11 After Bitcoin’s Huang Spike Fades",
+      "title_ko": "비트코인의 황 급등세가 잦아들면서 암호화폐 시장의 ‘공포와 탐욕 지수’가 11을 기록했다",
+      "snippet": "Bitcoin spiked to $64,505 on the Nvidia CEO news and gave it all back within hours, leaving the Fear and Greed Index at 11",
+      "snippet_ko": "비트코인은 엔비디아 CEO 관련 소식에 힘입어 64,505달러까지 급등했으나, 몇 시간 만에 모든 상승분을 반납했고, 이로 인해 ‘공포와 탐욕 지수’는 11을 기록했다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.1132,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/crypto-fear-and-greed-hits-11/",
+      "cross_verified": true,
+      "published_at": "2026-11-24T15:04:48.000000Z"
+    },
+    {
+      "title": "Nvidia (Nasdaq: NVDA) Now Faces Three Big Tests After Huang's Reappointment",
+      "title_ko": "엔비디아(나스닥: NVDA), 황 회장의 재임명 이후 세 가지 큰 고비에 직면",
+      "snippet": "deVere Group CEO Nigel Green says Nvidia (Nasdaq: NVDA) could double in value after Huang's return but faces three tests: Washington, China and AI demand.",
+      "snippet_ko": "deVere Group의 나이젤 그린 CEO는 엔비디아(나스닥: NVDA)가 황 회장의 복귀 이후 주가가 두 배로 오를 수 있겠지만, 워싱턴, 중국, AI 수요라는 세 가지 고비를 넘어야 할 것이라고 말했다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.3863,
+      "source": "investorideas.com",
+      "url": "https://www.investorideas.com/news/2026/technology/11245-nvidia-nasdaq-nvda-now-faces-three-big-tests-after-huangs-reappointment.asp",
+      "cross_verified": true,
+      "published_at": "2026-11-24T14:52:00.000000Z"
+    },
     {
       "title": "Nvidia's board was no match for Trump or powerful backers of Jensen Huang",
       "title_ko": "엔비디아 이사회는 트럼프나 젠슨 황의 강력한 후원자들을 상대할 수 없었다",
@@ -2331,78 +2403,6 @@
       "url": "https://seekingalpha.com/news/4673369-apaloosa-adds-oracle-exits-advanced-micro-raises-stake-in-nvidia-cuts-in-alphabet-among-q3-moves",
       "cross_verified": true,
       "published_at": "2026-11-16T23:02:27.000000Z"
-    },
-    {
-      "title": "Paulson & Co. adds NovaGold Resources, exits Alphabet, among Q3 moves",
-      "title_ko": "폴슨 앤 컴퍼니, 3분기 투자 동향 중 노바골드 리소스 신규 편입 및 알파벳 지분 청산",
-      "snippet": "Paulson & Co.'s 13F shows a new 27.2 million-share NovaGold position, 621,000 added PVH shares and an exit from Alphabet.",
-      "snippet_ko": "폴슨 앤 컴퍼니(Paulson & Co.)의 13F 신고서에 따르면, 노바골드(NovaGold) 지분을 2,720만 주 신규로 확보하고, PVH 지분을 62만 1,000주 추가 매입했으며, 알파벳(Alphabet) 지분을 청산한 것으로 나타났다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.222,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4673384-paulson-co-adds-novagold-resources-exits-alphabet-among-q3-moves",
-      "cross_verified": true,
-      "published_at": "2026-11-16T22:52:55.000000Z"
-    },
-    {
-      "title": "Tech and AI Sectors Edge Higher as Markets Await Retail Earnings and Nvidia Results",
-      "title_ko": "시장이 소매업체 실적과 엔비디아 실적 발표를 기다리는 가운데, 기술 및 AI 관련 종목들이 소폭 상승세를 보였다",
-      "snippet": "The U.S. stock market showed a cautious but resilient posture on Monday, November 16th, 2026, as investors navigated a heavy week of corporate earnings and",
-      "snippet_ko": "2026년 11월 16일 월요일, 미국 증시는 투자자들이 기업 실적 발표가 쇄도하는 한 주를 헤쳐 나가는 가운데 신중한 태도를 보이면서도 탄력적인 모습을 보였으며,",
-      "symbol": "DIS",
-      "sentiment_score": 0.2057,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-ai-sectors-edge-higher-as-markets-await-retail-earnings-and-nvidia-results/74786/",
-      "cross_verified": true,
-      "published_at": "2026-11-16T22:07:15.000000Z"
-    },
-    {
-      "title": "Market Open: Wall Street sell-off puts the ASX under pressure",
-      "title_ko": "장 개장: 월가의 매도세로 ASX에 압박 가중",
-      "snippet": "Australian shares are heading for a weaker open today after a sharp…",
-      "snippet_ko": "호주 증시는 급락한 이후 오늘 약세로 장을 시작할 전망입니다…",
-      "symbol": "NVDA",
-      "sentiment_score": 0.4988,
-      "source": "themarketherald.com.au",
-      "url": "https://themarketonline.com.au/market-open-wall-street-sell-off-puts-the-asx-under-pressure-2026-11-17/",
-      "cross_verified": true,
-      "published_at": "2026-11-16T21:58:19.000000Z"
-    },
-    {
-      "title": "Tech Stocks Slump as Nvidia Leadership Crisis and Anthropic IPO Loom",
-      "title_ko": "엔비디아 경영진 위기 및 앤트로픽 기업공개(IPO) 전망에 기술주 급락",
-      "snippet": "Nvidia (NVDA) remained under intense pressure on Monday as leadership uncertainty continued to rattle investors. While President Donald Trump told reporters",
-      "snippet_ko": "월요일, 경영진 구성에 대한 불확실성이 투자자들을 계속 불안하게 만들면서 엔비디아(NVDA)는 여전히 큰 압박을 받고 있다. 도널드 트럼프 대통령은 기자들에게 다음과 같이 말했으나",
-      "symbol": "NVDA",
-      "sentiment_score": -0.0317,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-stocks-slump-as-nvidia-leadership-crisis-and-anthropic-ipo-loom/74785/",
-      "cross_verified": true,
-      "published_at": "2026-11-16T21:38:16.000000Z"
-    },
-    {
-      "title": "Global Markets React to Diplomatic Shifts and Tech Expansion",
-      "title_ko": "세계 시장, 외교적 변화와 기술 산업 확장에 반응",
-      "snippet": "Global energy markets saw significant relief as Brent crude prices retreated to $93.92 per barrel. The 2% decline is primarily attributed to the stabilization",
-      "snippet_ko": "브렌트유 가격이 배럴당 93.92달러로 하락하면서 세계 에너지 시장에 상당한 안도감이 감돌았다. 2% 하락은 주로 시장 상황이 안정화된 데 기인한다.",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.8126,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/global-markets-react-to-diplomatic-shifts-and-tech-expansion/74764/",
-      "cross_verified": true,
-      "published_at": "2026-11-16T14:38:17.000000Z"
-    },
-    {
-      "title": "[Earnings]Nvidia and Retail Leaders Headline Upcoming Earnings Week",
-      "title_ko": "[실적] 엔비디아와 소매업계 주요 기업들, 다가오는 실적 발표 주간의 주목받는 기업들",
-      "snippet": "Nvidia Corp and Palo Alto Networks anchor a high-impact Wednesday after close, following a morning surge in retail from TJX Companies and Lowe's",
-      "snippet_ko": "TJX 컴퍼니스와 로우즈의 주가로 인해 오전 중 소매주들이 급등한 데 이어, 엔비디아(Nvidia Corp)와 팔로알토 네트웍스(Palo Alto Networks)가 수요일 장 마감 후 큰 파장을 일으키고 있다.",
-      "symbol": "DIS",
-      "sentiment_score": 0.0,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/earningsnvidia-and-retail-leaders-headline-upcoming-earnings-week/74762/",
-      "cross_verified": true,
-      "published_at": "2026-11-16T14:12:36.000000Z"
     }
   ]
 }
