@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-25T02:08:06.542390+00:00",
+  "updated_at": "2026-11-25T14:04:12.502439+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Coca-Cola CFO John Murphy to retire. Here's his career advice after nearly 40 years",
+      "title_ko": "코카콜라 최고재무책임자(CFO) 존 머피가 은퇴한다. 약 40년에 걸친 경력을 바탕으로 그가 전하는 커리어 조언은 다음과 같다.",
+      "snippet": "David Elkins, EVP and CFO of Bristol Myers Squibb, was appointed the next CFO of Coca-Cola.",
+      "snippet_ko": "브리스톨-마이어스 스큅의 부사장 겸 최고재무책임자(CFO)인 데이비드 엘킨스가 코카콜라의 차기 최고재무책임자(CFO)로 임명되었다.",
+      "symbol": "",
+      "sentiment_score": 0.5719,
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/11/25/coca-cola-cfo-john-murphy-retire-career-advice/",
+      "cross_verified": true,
+      "published_at": "2026-11-25T13:37:06.000000Z"
+    },
+    {
+      "title": "MPC Container Ships ASA (MPZZF) Q3 2026 Earnings Call Transcript",
+      "title_ko": "MPC Container Ships ASA (MPZZF) 2026년 3분기 실적 발표 전화 회의 기록",
+      "snippet": "MPC Container Ships ASA (MPZZF) Q3 2026 Earnings Call November 25, 2026 2:00 AM ESTCompany ParticipantsConstantin Baack - Chief Executive OfficerMoritz...",
+      "snippet_ko": "MPC Container Ships ASA (MPZZF) 2026년 3분기 실적 발표 컨퍼런스 콜, 2026년 11월 25일 오전 2:00 (미국 동부 표준시) 회사 참가자 콘스탄틴 바크(Constantin Baack) - 최고경영자(CEO) 모리츠...",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4971865-mpc-container-ships-asa-mpzzf-q3-2026-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-25T13:01:22.000000Z"
+    },
+    {
+      "title": "How Hershey strategized its brand film to be more than a 90-minute ad",
+      "title_ko": "허쉬가 브랜드 영상을 단순한 90분짜리 광고 그 이상의 것으로 만들기 위해 어떤 전략을 세웠는지",
+      "snippet": "The film, in theaters Wednesday, has earned strong customer and retail support, CEO Kirk Tanner said on a recent earnings call.",
+      "snippet_ko": "커크 태너 CEO는 최근 실적 발표 전화 회의에서, 수요일 개봉한 이 영화가 관객과 소매업체로부터 강력한 지지를 얻고 있다고 밝혔다.",
+      "symbol": "",
+      "sentiment_score": 0.5666,
+      "source": "marketingdive.com",
+      "url": "https://www.marketingdive.com/news/how-hershey-strategized-its-brand-film-to-be-more-than-a-90-minute-ad/875365/",
+      "cross_verified": true,
+      "published_at": "2026-11-25T13:00:00.000000Z"
+    },
     {
       "title": "Greenhaven Road Partners Fund Q2 2026 Shareholder Letter",
       "title_ko": "그린헤이븐 로드 파트너스 펀드 2026년 2분기 주주 서한",
@@ -1165,45 +1201,81 @@
       "url": "https://seekingalpha.com/article/4965903-banca-mediolanum-s-p-a-bncdy-q3-2026-earnings-call-transcript",
       "cross_verified": true,
       "published_at": "2026-11-10T19:41:03.000000Z"
-    },
-    {
-      "title": "Diamondback Energy and KKR to Acquire Deep Blue Midland Basin from Five Point Infrastructure",
-      "title_ko": "다이아몬드백 에너지와 KKR, 파이브 포인트 인프라로부터 딥 블루 미들랜드 분지 인수 예정",
-      "snippet": "Strategic partnership to support Deep Blue's continued investment in full-cycle water infrastructure across West Texas",
-      "snippet_ko": "딥 블루가 텍사스 서부 전역의 전 주기 물 인프라에 대한 지속적인 투자를 뒷받침하기 위한 전략적 파트너십",
-      "symbol": "",
-      "sentiment_score": 0.444,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/11/10/tmt-newswire/globenewswire/diamondback-energy-and-kkr-to-acquire-deep-blue-midland-basin-from-five-point-infrastructure/2466217",
-      "cross_verified": true,
-      "published_at": "2026-11-10T11:54:21.000000Z"
-    },
-    {
-      "title": "Nova Minerals Confirms 216,000 tpa Processing Capacity, Advancing Alaska’s Critical Minerals Hub",
-      "title_ko": "노바 미네랄스, 연간 216,000톤의 처리 능력 확정… 알래스카의 핵심 광물 허브 구축 가속화",
-      "snippet": "Anchorage, Alaska, Nov. 10, 2026 (GLOBE NEWSWIRE) -- Nova Minerals Corp ('Nova” or the 'Company”) (NYSE American: NVA | ASX: NVA) is pleased to announce that an engineering and processing capacity assessment of its newly acquired processing plant, which is to be constructed at Port MacKenzie, Alaska, has confirmed front-end crushing, grinding and concentration capacity of approximately 216,000 tonnes per annum (tpa). This substantial processing capacity provides a scalable platform for future commercial antimony production, with capacity modelling indicating potential refined antimony production of up to approximately 20,000 tpa, subject to feed grade, additional downstream refinery equipment and other operating requirements.",
-      "snippet_ko": "2026년 11월 10일, 알래스카 앵커리지 (GLOBE NEWSWIRE) -- 노바 미네랄스 코퍼레이션(이하 ‘노바’ 또는 ‘회사’) (NYSE American: NVA | ASX: NVA)는 알래스카 포트 맥켄지에 건설될 예정인 신규 인수 가공 공장에 대한 엔지니어링 및 처리 능력 평가 결과, 연간 약 216,000톤(tpa)의 전단 단계 분쇄, 연마 및 농축 능력이 확인되었다고 발표했습니다. 이러한 상당한 처리 능력은 향후 공동",
-      "symbol": "",
-      "sentiment_score": 0.3597,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/11/10/tmt-newswire/globenewswire/nova-minerals-confirms-216000-tpa-processing-capacity-advancing-alaskas-critical-minerals-hub/2466210",
-      "cross_verified": true,
-      "published_at": "2026-11-10T11:35:07.000000Z"
-    },
-    {
-      "title": "Mortgage Rates Fell for a Third Straight Week: What It Means If You’re House Hunting",
-      "title_ko": "모기지 금리, 3주 연속 하락: 주택을 찾고 있는 분들에게 이는 무엇을 의미할까",
-      "snippet": "Mortgage rates fell for a third straight week to 7.18%. Here's what the drop means for your house hunt and your monthly payment.",
-      "snippet_ko": "모기지 금리가 3주 연속 하락해 7.18%를 기록했습니다. 이번 금리 하락이 주택 구매 계획과 월 상환액에 어떤 영향을 미치는지 알아보겠습니다.",
-      "symbol": "",
-      "sentiment_score": 0.0258,
-      "source": "moneyunder30.com",
-      "url": "https://www.moneyunder30.com/mortgage-rates-fell-third-straight-week/",
-      "cross_verified": true,
-      "published_at": "2026-11-09T08:24:22.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Wall Street Breakfast Podcast: 'Line Up And Wait' Adds To Holiday Travel Frets",
+      "title_ko": "월스트리트 브렉퍼스트 팟캐스트: ‘줄 서서 기다리기’가 연휴 여행에 대한 우려를 더하고 있다",
+      "snippet": "Runway staffing requirements, recent ground stop raise fears of holiday delays. Investors worry about being long into long weekend. CoreWeave debt hits record lows.",
+      "snippet_ko": "활주로 인력 부족과 최근의 이륙 금지 조치로 인해 연휴 기간 항공편 지연에 대한 우려가 커지고 있다. 투자자들은 긴 연휴 기간 동안 매수 포지션을 유지해야 할까 봐 걱정하고 있다. 코어위브(CoreWeave)의 채권 가격은 사상 최저치를 기록했다.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.8176,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4971821-wall-street-breakfast-podcast-line-up-and-wait-adds-to-holiday-travel-frets",
+      "cross_verified": true,
+      "published_at": "2026-11-25T11:20:00.000000Z"
+    },
+    {
+      "title": "The Best Downturn Ever",
+      "title_ko": "역대 최고의 경기 침체",
+      "snippet": "The S&P 500 has fallen more than 11% from its October high. Nvidia fell 14% last Friday alone, while AMD, Micron, and Broadcom each lost more than 12%. The Nasdaq is now negative for the year. Thi",
+      "snippet_ko": "S&P 500 지수는 지난 10월 고점 대비 11% 이상 하락했습니다. 엔비디아는 지난 금요일 하루 만에 14%나 떨어졌으며, AMD, 마이크론, 브로드컴도 각각 12% 이상 하락했습니다. 나스닥 지수는 올해 들어 마이너스 수익률을 기록하고 있습니다. 이",
+      "symbol": "AVGO",
+      "sentiment_score": -0.4215,
+      "source": "realclearmarkets.com",
+      "url": "https://www.realclearmarkets.com/2026/11/25/the_best_downturn_ever_1223396.html",
+      "cross_verified": true,
+      "published_at": "2026-11-25T09:00:23.000000Z"
+    },
+    {
+      "title": "Foxconn faces India insolvency case over unpaid vendor dues",
+      "title_ko": "폭스콘, 미지급 공급업체 대금 문제로 인도에서 파산 소송에 직면",
+      "snippet": "While the dispute isn’t expected to derail Foxconn’s growth plans in India, it adds to the challenges as it competes with Tata Electronics for a bigger role in Apple's iPhone supply chain.",
+      "snippet_ko": "이번 분쟁이 폭스콘의 인도 내 성장 계획을 좌절시키지는 않을 것으로 보이지만, 애플의 아이폰 공급망에서 더 큰 역할을 차지하기 위해 타타 일렉트로닉스와 경쟁하는 폭스콘에게 또 다른 난관이 되고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.3818,
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/companies/news/foxconn-india-insolvency-case-bcd-emprasa-llp-11795580916661.html",
+      "cross_verified": true,
+      "published_at": "2026-11-25T04:39:19.000000Z"
+    },
+    {
+      "title": "Morning Market Movers: DKI, AMBA, BNAI, APUS, JAGX See Big Swings",
+      "title_ko": "오늘 아침 시장 주도주: DKI, AMBA, BNAI, APUS, JAGX, 큰 등락세 보여",
+      "snippet": "Despite tech stocks sliding heavily, premarket trading on Wednesday morning is seeing notable activity. DKI, AMBA, BNAI, APUS and JAGX have recorded big swings..",
+      "snippet_ko": "기술주들이 급락하고 있음에도 불구하고, 수요일 오전 장전 거래에서는 눈에 띄는 움직임이 나타나고 있다. DKI, AMBA, BNAI, APUS, JAGX 등 종목들이 큰 등락을 기록하고 있다.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.1331,
+      "source": "rttnews.com",
+      "url": "https://www.rttnews.com/3717949/morning-market-movers-dki-amba-bnai-apus-jagx-see-big-swings.aspx?type=ts",
+      "cross_verified": true,
+      "published_at": "2026-11-25T12:22:13.000000Z"
+    },
+    {
+      "title": "Tariff Threats And Tech Slide Cause Market Tremors",
+      "title_ko": "관세 위협과 기술주 하락으로 시장 동요",
+      "snippet": "Lingering concerns about artificial intelligence and threats of additional U.S. tariffs rattled global markets on Wednesday. Worries about a debt fueled AI and data center boom dampened market sentiment amidst fears of a hawkish monetary policy outlook from the Federal Reserve.",
+      "snippet_ko": "수요일, 인공지능에 대한 지속적인 우려와 미국의 추가 관세 부과 위협이 세계 시장을 뒤흔들었다. 부채에 힘입은 인공지능 및 데이터 센터 붐에 대한 우려가 연방준비제도(Fed)의 매파적인 통화 정책 전망에 대한 우려와 맞물려 시장 심리를 위축시켰다.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.1336,
+      "source": "rttnews.com",
+      "url": "https://www.rttnews.com/3717940/tariff-threats-and-tech-slide-cause-market-tremors.aspx?type=ts",
+      "cross_verified": true,
+      "published_at": "2026-11-25T11:47:36.000000Z"
+    },
+    {
+      "title": "Tech Sector Slump and Semiconductor Sell-Off Weigh on Markets Ahead of Thanksgiving Holiday",
+      "title_ko": "추수감사절 연휴를 앞두고 기술주 부진과 반도체 매도세가 시장에 부담으로 작용하고 있다",
+      "snippet": "U.S. stock markets are facing significant downward pressure this Wednesday, November 25th, 2026, as a sharp retreat in the technology sector and a broad",
+      "snippet_ko": "2026년 11월 25일 수요일, 미국 증시는 기술주 부문의 급격한 하락과 광범위한",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0341,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-sector-slump-and-semiconductor-sell-off-weigh-on-markets-ahead-of-thanksgiving-holiday/75247/",
+      "cross_verified": true,
+      "published_at": "2026-11-25T11:07:12.000000Z"
+    },
     {
       "title": "Foxconn faces vendor payment delays in India; contractor seeks $15.3 million",
       "title_ko": "폭스콘, 인도에서 공급업체 대금 지급 지연에 직면… 하청업체, 1,530만 달러 청구",
@@ -2331,78 +2403,6 @@
       "url": "https://www.business-standard.com/markets/news/stock-market-live-november-18-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-hero-motocorp-share-price-hcltech-stock-price-today-ipo-today-126111800134_1.html",
       "cross_verified": true,
       "published_at": "2026-11-18T02:31:56.000000Z"
-    },
-    {
-      "title": "NVIDIA Corporation (NVDA) Q3 2027 Earnings Call Transcript",
-      "title_ko": "NVIDIA Corporation (NVDA) 2027년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "NVIDIA Corporation (NVDA) Q3 2027 Earnings Call November 17, 2026 5:00 PM ESTCompany ParticipantsToshiya Hari - Vice President of Investor Relations &...",
-      "snippet_ko": "NVIDIA Corporation (NVDA) 2027년 3분기 실적 발표 컨퍼런스 콜, 2026년 11월 17일 오후 5:00 (미국 동부 표준시) 회사 측 참석자: 토시야 하리 - 투자자 관계 부사장 및...",
-      "symbol": "NVDA",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4969356-nvidia-corporation-nvda-q3-2027-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-11-18T01:22:48.000000Z"
-    },
-    {
-      "title": "WPP Chief Executive Officer, Cindy Rose, to Explore the Importance of Data Independence and Trust in the Age of AI during C Space® Keynote",
-      "title_ko": "WPP의 신디 로즈 최고경영자(CEO), C Space® 기조연설에서 AI 시대의 데이터 독립성과 신뢰의 중요성 탐구",
-      "snippet": "**media[1313089]****media[1313090]**NEW YORK, Nov. 18, 2026 /PRNewswire/ -- At a media event in New York City, the Consumer Technology Association (CTA)®, owner and producer of CES®, announces Cindy Rose, Chief Executive Officer of WPP, will take the C Space® stage for a keynote. She will explore why data independence and trust have become critical foundations in the AI era, as it reshapes the advertising industry from end to end. As generative and agentic AI increasingly influence how decisions are made and products are bought, Rose will address why brands must now earn influence from both humans and algorithms - making trust, transparency and open standards imperative for brands.**media[1313091]**",
-      "snippet_ko": "**media[1313089]****media[1313090]**뉴욕, 2026년 11월 18일 /PRNewswire/ -- CES®의 소유주이자 주최사인 소비자기술협회(CTA)®는 뉴욕시에서 열린 미디어 행사에서 WPP의 최고경영자(CEO)인 신디 로즈(Cindy Rose)가 C Space® 무대에 올라 기조연설을 할 것이라고 발표했습니다. 그녀는 AI가 광고 산업 전반을 재편해 나가는 가운데, 데이터 독립성과 신뢰가 왜 AI 시대의 핵심 토대가 되었는지에 대해 심도 있게 다룰 예정이다. 생성형 및 에이전트형 AI가 의사결정 방식에 점점 더 큰 영향을 미치면서",
-      "symbol": "DIS",
-      "sentiment_score": 0.2682,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/11/18/tmt-newswire/pr-newswire/wpp-chief-executive-officer-cindy-rose-to-explore-the-importance-of-data-independence-and-trust-in-the-age-of-ai-during-c-space-keynote/2472508",
-      "cross_verified": true,
-      "published_at": "2026-11-17T19:37:50.000000Z"
-    },
-    {
-      "title": "Market Retreats as Volatility Spikes: Tech and Financials Lead Afternoon Slump",
-      "title_ko": "변동성 급증에 시장 하락… 오후 장에서는 기술주와 금융주가 하락세를 주도",
-      "snippet": "U.S. equity markets experienced a broad-based sell-off during Tuesday afternoon trading, as investors grappled with rising volatility and a cautious outlook",
-      "snippet_ko": "화요일 오후 거래 시간 동안 투자자들이 높아지는 변동성과 신중한 전망에 대응하느라 고심하면서 미국 주식 시장은 전반적으로 매도세가 이어졌다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.2283,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/market-retreats-as-volatility-spikes-tech-and-financials-lead-afternoon-slump/74841/",
-      "cross_verified": true,
-      "published_at": "2026-11-17T19:07:23.000000Z"
-    },
-    {
-      "title": "Alphabet: Custom TPUs And The Multiyear Shift To AI Inference",
-      "title_ko": "알파벳: 맞춤형 TPU와 AI 추론 분야로의 다년간의 전환",
-      "snippet": "Alphabet is rated a Strong Buy, benefiting from potential Nvidia share losses and as a possible long-term AI winner.",
-      "snippet_ko": "알파벳은 엔비디아의 시장 점유율 감소로 인한 수혜와 장기적인 AI 분야 유력한 승자로서의 잠재력을 바탕으로 ‘강력 매수’ 등급을 받았다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3125,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4969189-alphabet-custom-tpus-and-the-multiyear-shift-to-ai-inference",
-      "cross_verified": true,
-      "published_at": "2026-11-17T18:28:15.000000Z"
-    },
-    {
-      "title": "Nvidia earnings report: $175.89 bull, $121.34 bear",
-      "title_ko": "엔비디아 실적 발표: 강세 전망 175.89달러, 약세 전망 121.34달러",
-      "snippet": "Nvidia earnings report lands after the US close on 17 November. Monday's Nasdaq close was $156.14. The year-end bull is $175.89 and the bear is $121.34.",
-      "snippet_ko": "엔비디아의 실적 보고서는 11월 17일 미국 증시 장 마감 후 발표될 예정이다. 월요일 나스닥 종가는 156.14달러였다. 연말 상승 목표가는 175.89달러, 하락 목표가는 121.34달러다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.0199,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/nvidia-earnings-report-175-89-bull-121-34-bear/",
-      "cross_verified": true,
-      "published_at": "2026-11-17T19:15:11.000000Z"
-    },
-    {
-      "title": "Nvidia: Megaspeed Probe Began in 2024, a Year Before No-Sell",
-      "title_ko": "엔비디아: ‘메가스피드 프로브’는 판매 중단 조치 1년 전인 2024년에 시작되었다",
-      "snippet": "Commerce and Justice say the Megaspeed export probe opened in 2024; Nvidia added it to a no-sell list in June 2025. NVDA traded at $154.58 before earnings.",
-      "snippet_ko": "상무부와 법무부는 2024년에 메가스피드(Megaspeed)에 대한 수출 조사가 개시되었다고 밝혔으며, 엔비디아(Nvidia)는 2025년 6월 이 회사를 판매 금지 목록에 추가했다. NVDA 주가는 실적 발표 전 154.58달러에 거래되었다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.0429,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/nvidia-shares-before-results-u-s-says-megaspeed-probe-began-in-2024/",
-      "cross_verified": true,
-      "published_at": "2026-11-17T18:02:48.000000Z"
     }
   ]
 }
