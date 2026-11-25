@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-24T17:21:59.850295+00:00",
+  "updated_at": "2026-11-25T02:08:06.542390+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Greenhaven Road Partners Fund Q2 2026 Shareholder Letter",
+      "title_ko": "그린헤이븐 로드 파트너스 펀드 2026년 2분기 주주 서한",
+      "snippet": "Greenhaven Road Partners Fund gained ~18% this quarter, avoiding the AI trade. Read the full letter for insights on Liquidia, Constellation Software, and SpaceX.",
+      "snippet_ko": "그린헤이븐 로드 파트너스 펀드는 이번 분기에 약 18%의 수익률을 기록하며 AI 관련 매수 열풍을 피했습니다. 리퀴디아, 콘스텔레이션 소프트웨어, 스페이스X에 대한 심층 분석은 전체 투자 서한을 참고하시기 바랍니다.",
+      "symbol": "",
+      "sentiment_score": 0.8689,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4971662-greenhaven-road-partners-fund-q2-2026-shareholder-letter",
+      "cross_verified": true,
+      "published_at": "2026-11-25T01:35:00.000000Z"
+    },
+    {
+      "title": "Ryman Healthcare Limited (RYHTY) Q2 2027 Earnings Call Transcript",
+      "title_ko": "라이먼 헬스케어 리미티드(RYHTY) 2027년 2분기 실적 발표 전화 회의 기록",
+      "snippet": "Ryman Healthcare Limited (RYHTY) Q2 2027 Earnings Call November 24, 2026 5:00 PM ESTCompany ParticipantsNaomi James - Chief Executive OfficerMatthew Prior -...",
+      "snippet_ko": "라이먼 헬스케어 리미티드(RYHTY) 2027년 2분기 실적 발표 전화회의 2026년 11월 24일 오후 5:00(미국 동부 표준시) 회사 참가자 나오미 제임스 - 최고경영자 매튜 프라이어 -...",
+      "symbol": "",
+      "sentiment_score": 0.455,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4971643-ryman-healthcare-limited-ryhty-q2-2027-earnings-call-transcript",
+      "cross_verified": true,
+      "published_at": "2026-11-25T01:31:22.000000Z"
+    },
+    {
+      "title": "Cleanspark outlines Sandersville first data hall delivery in 4Q 2027 while progressing $2.3B nonrecourse funding",
+      "title_ko": "클린스파크, 2027년 4분기 샌더스빌 첫 데이터 센터 완공 계획 발표… 23억 달러 규모의 비구상 자금 조달 진행 중",
+      "snippet": "CleanSpark closed $2.3 billion in nonrecourse financing for Sandersville, with its first data hall on schedule for Q4 2027; Texas exclusivity has expired.",
+      "snippet_ko": "클린스파크(CleanSpark)는 샌더스빌(Sandersville) 프로젝트를 위해 23억 달러 규모의 비구상권 자금 조달을 완료했으며, 이곳의 첫 번째 데이터 센터는 2027년 4분기에 예정대로 완공될 예정이다. 한편, 텍사스주에 대한 독점권은 만료되었다.",
+      "symbol": "",
+      "sentiment_score": -0.2168,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4676420-cleanspark-outlines-sandersville-first-data-hall-delivery-in-4q-2027-while-progressing-2_3b",
+      "cross_verified": true,
+      "published_at": "2026-11-25T01:22:20.000000Z"
+    },
     {
       "title": "Compass Minerals projects $270M FY2027 adjusted EBITDA midpoint supported by ~12% higher highway pricing",
       "title_ko": "컴패스 미네랄스는 고속도로 통행료 약 12% 인상에 힘입어 2027 회계연도 조정 EBITDA 중간치를 2억 7천만 달러로 전망하고 있다.",
@@ -1165,45 +1201,81 @@
       "url": "https://www.moneyunder30.com/mortgage-rates-fell-third-straight-week/",
       "cross_verified": true,
       "published_at": "2026-11-09T08:24:22.000000Z"
-    },
-    {
-      "title": "Share buybacks in Ericsson during the period November 2 - November 6, 2026",
-      "title_ko": "2026년 11월 2일부터 11월 6일까지의 에릭슨 자사주 매입 현황",
-      "snippet": "/PRNewswire/ -- During the period November 2 - November 6, 2026, Telefonaktiebolaget LM Ericsson (publ) (\"Ericsson\") (LEI code 549300W9JLPW15XIFM52)...",
-      "snippet_ko": "/PRNewswire/ -- 2026년 11월 2일부터 11월 6일까지, Telefonaktiebolaget LM Ericsson (publ)(\"에릭슨\")(LEI 코드 549300W9JLPW15XIFM52)...",
-      "symbol": "",
-      "sentiment_score": 0.5267,
-      "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/apac/news-releases/share-buybacks-in-ericsson-during-the-period-november-2--november-6-2026-302933129.html",
-      "cross_verified": true,
-      "published_at": "2026-11-09T08:17:00.000000Z"
-    },
-    {
-      "title": "MakeMyTrip's India arm gets Sebi nod to float IPO",
-      "title_ko": "메이크마이트립(MakeMyTrip)의 인도 법인이 인도증권거래위원회(SEBI)로부터 기업공개(IPO) 승인을 받았다",
-      "snippet": "MakeMyTrip's India subsidiary, MMT India, has received approval from Sebi for an initial public offering. This approval follows a confidential filing of draft papers made in July. The IPO will involve the sale of equity shares by MakeMyTrip and its subsidiary, ibibo Group Holdings. Proceeds from the sale are expected to enhance the cash position of the parent company.",
-      "snippet_ko": "MakeMyTrip의 인도 자회사인 MMT India가 인도증권거래위원회(SEBI)로부터 기업공개(IPO) 승인을 받았습니다. 이번 승인은 지난 7월 비공개로 제출된 서류 초안에 따른 것입니다. 이번 IPO에서는 MakeMyTrip과 그 자회사인 ibibo Group Holdings가 보통주를 매각할 예정이다. 매각으로 확보된 자금은 모회사의 현금 유동성을 강화하는 데 사용될 것으로 예상된다.",
-      "symbol": "",
-      "sentiment_score": 0.5431,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/makemytrips-india-arm-gets-sebi-nod-to-float-ipo/articleshow/135675673.cms",
-      "cross_verified": true,
-      "published_at": "2026-11-09T08:12:31.000000Z"
-    },
-    {
-      "title": "Cytokinetics, Incorporated 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:CYTK) 2026-11-08",
-      "title_ko": "사이토키네틱스(Cytokinetics, Incorporated) 2026년 3분기 실적 - 실적 발표 전화 회의 프레젠테이션 (NASDAQ:CYTK) 2026-11-08",
-      "snippet": "2026-11-08. The following slide deck was published by Cytokinetics, Incorporated in conjunction with their 2026 Q3 earnings call.",
-      "snippet_ko": "2026년 11월 8일. 다음 슬라이드 자료는 Cytokinetics, Incorporated가 2026년 3분기 실적 발표와 함께 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4964882-cytokinetics-incorporated-2026-q3-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-11-09T01:07:26.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Foxconn faces vendor payment delays in India; contractor seeks $15.3 million",
+      "title_ko": "폭스콘, 인도에서 공급업체 대금 지급 지연에 직면… 하청업체, 1,530만 달러 청구",
+      "snippet": "Foxconn's Indian unit faces payment delays to vendors, while BCD Emprasa seeks $15.3 million in unpaid dues through an NCLT petition.",
+      "snippet_ko": "폭스콘의 인도 법인이 공급업체에 대한 대금 지급 지연 문제에 직면한 가운데, BCD 엠프라사는 NCLT에 청원을 제기해 미지급금 1,530만 달러를 청구했다.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.1779,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/info-tech/foxconn-faces-payment-delays-to-indian-vendors-contractor-seeks-153-million-in-dues/article71740885.ece",
+      "cross_verified": true,
+      "published_at": "2026-11-25T00:19:48.000000Z"
+    },
+    {
+      "title": "Markets Take A Breather: Traders Sell The Rip After Monday’s Surge",
+      "title_ko": "시장, 잠시 숨 고르기: 월요일 급등세 이후 트레이더들, 반등주 매도",
+      "snippet": "[Chart courtesy of MarketWatch.com] Yesterday’s AI-fueled celebration came back down to earth today. The Nasdaq surrendered a good chunk of Monday’s gains as investors took a fresh look at Nvidia and decided that bringing back Jensen Huang may have solved one problem, but not all of them. Apparently, corporate governance concerns don’t disappear as quickly as stock prices can rise. ... Read More",
+      "snippet_ko": "[차트 출처: MarketWatch.com] 어제 AI 열풍에 힘입어 고공행진을 이어가던 시장은 오늘 다시 현실로 돌아왔다. 투자자들이 엔비디아를 다시 면밀히 살펴본 결과, 젠슨 황 회장의 복귀가 한 가지 문제는 해결했을지 몰라도 모든 문제를 해결한 것은 아니라는 판단에 따라 나스닥은 월요일 상승분의 상당 부분을 반납했다. 보아하니, 기업 지배 구조에 대한 우려는 주가가 오르는 속도만큼 빨리 사라지지는 않는 모양이다. ... 더 보기",
+      "symbol": "AVGO",
+      "sentiment_score": 0.6639,
+      "source": "theetfbully.com",
+      "url": "https://theetfbully.com/2026/11/markets-take-a-breather-traders-sell-the-rip-after-mondays-surge/",
+      "cross_verified": true,
+      "published_at": "2026-11-24T22:06:14.000000Z"
+    },
+    {
+      "title": "Top Analyst Reports for Apple, Philip Morris & Intel",
+      "title_ko": "애플, 필립 모리스, 인텔에 대한 주요 애널리스트 보고서",
+      "snippet": "Apple's expanding Services business, Philip Morris' smoke-free momentum and Intel's manufacturing recovery and AI expansion headline today's top analyst reports.",
+      "snippet_ko": "애플의 서비스 사업 확대, 필립 모리스의 무연 담배 사업 성장세, 인텔의 제조 부문 회복 및 AI 사업 확장이 오늘의 주요 애널리스트 보고서 헤드라인을 장식하고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.261,
+      "source": "zacks.com",
+      "url": "https://www.zacks.com/research-daily/3034628/top-analyst-reports-for-apple-philip-morris-intel?cid=CS-ZC-FT-research_daily-3034628",
+      "cross_verified": true,
+      "published_at": "2026-11-24T20:53:00.000000Z"
+    },
+    {
+      "title": "Equity derivatives house of the year: JP Morgan",
+      "title_ko": "올해의 주식 파생상품 전문사: JP 모건",
+      "snippet": "Risk Awards 2027: Gap risk in leveraged SK Hynix ETF spawned a new hedging ecosystem",
+      "snippet_ko": "2027 리스크 어워드: 레버리지형 SK하이닉스 ETF의 갭 리스크가 새로운 헤징 생태계를 탄생시켰다",
+      "symbol": "NVDA",
+      "sentiment_score": 0.2486,
+      "source": "risk.net",
+      "url": "https://www.risk.net/awards/7964527/equity-derivatives-house-of-the-year-jp-morgan",
+      "cross_verified": true,
+      "published_at": "2026-11-24T23:00:00.000000Z"
+    },
+    {
+      "title": "Nasdaq 100 Tumbles 2% as AI Concerns and Global Tariff Threats Rattle Markets",
+      "title_ko": "AI에 대한 우려와 전 세계적인 관세 위협이 시장을 뒤흔들며 나스닥 100 지수가 2% 급락했다",
+      "snippet": "The Nasdaq 100 (QQQ) faced significant downward pressure today, sliding 2% as investors questioned the long-term returns of massive AI infrastructure",
+      "snippet_ko": "나스닥 100 지수(QQQ)는 오늘 상당한 하락 압력을 받아 2% 하락했는데, 이는 투자자들이 막대한 규모의 AI 인프라에 대한 장기적인 수익성에 의문을 제기했기 때문이다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.2571,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/nasdaq-100-tumbles-2-as-ai-concerns-and-global-tariff-threats-rattle-markets/75223/",
+      "cross_verified": true,
+      "published_at": "2026-11-24T22:38:22.000000Z"
+    },
+    {
+      "title": "Record Earnings, 17% Drop: Chip Selling Gets Ugly",
+      "title_ko": "역대 최고 실적, 17% 급락: 반도체 판매 상황이 악화되고 있다",
+      "snippet": "Today was a split session. The Dow gained more than 400 points and closed back above 50,000. The Nasdaq fell almost 1.5%, and the S&P 500 lost half a percent. If you're in the names that have been leading the market, it was another rough day. If you only look…",
+      "snippet_ko": "오늘은 장세가 엇갈린 하루였습니다. 다우지수는 400포인트 이상 상승하며 다시 50,000선을 넘어 마감했습니다. 나스닥은 1.5% 가까이 하락했고, S&P 500 지수는 0.5% 하락했습니다. 시장을 주도해 온 종목에 투자 중이시라면, 오늘도 힘든 하루였을 것입니다. 만약 단지…",
+      "symbol": "NVDA",
+      "sentiment_score": 0.5032,
+      "source": "upsidetrader.com",
+      "url": "https://www.upsidetrader.com/2026/11/24/record-earnings-17-drop-chip-selling-gets-ugly/",
+      "cross_verified": true,
+      "published_at": "2026-11-24T22:37:33.000000Z"
+    },
     {
       "title": "GOOY: Options Income Through Synthetic Exposure To GOOGL",
       "title_ko": "GOOY: GOOGL에 대한 합성 노출을 통한 옵션 수익",
@@ -2331,78 +2403,6 @@
       "url": "https://financefeeds.com/nvidia-shares-before-results-u-s-says-megaspeed-probe-began-in-2024/",
       "cross_verified": true,
       "published_at": "2026-11-17T18:02:48.000000Z"
-    },
-    {
-      "title": "Nvidia rules out Huang comeback amid return campaign",
-      "title_ko": "엔비디아, 복귀 운동이 한창인 가운데 황의 복귀 가능성 일축",
-      "snippet": "Nvidia's board is not weighing a return for Jensen Huang as CEO, three people told Reuters, despite a growing campaign for his return days after affairs involving employees and suspected Chinese intelligence ties forced his resignation.",
-      "snippet_ko": "로이터 통신에 따르면, 직원들과 관련된 사건 및 중국 정보기관과의 연루 의혹으로 인해 젠슨 황이 사임한 지 며칠 만에 그의 복귀를 요구하는 목소리가 커지고 있음에도 불구하고, 엔비디아 이사회는 그를 CEO로 복귀시키는 방안을 검토하고 있지 않은 것으로 세 명의 소식통이 전했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.351,
-      "source": "rte.ie",
-      "url": "https://www.rte.ie/news/business/2026/1117/1599496-nvidia-rules-out-huang-comeback/",
-      "cross_verified": true,
-      "published_at": "2026-11-17T07:39:48.000000Z"
-    },
-    {
-      "title": "Robert Pattinson named next James Bond as Amazon MGM reboots franchise",
-      "title_ko": "아마존과 MGM이 제임스 본드 시리즈를 재출시함에 따라 로버트 패틴슨이 차기 제임스 본드로 선정됐다",
-      "snippet": "The 40-year-old actor will lead the first Bond film since Amazon took full creative control, with Denis Villeneuve set to direct and Amy Pascal and David Heyman producing",
-      "snippet_ko": "40세의 이 배우는 아마존이 창작에 대한 전적인 통제권을 확보한 이후 처음으로 제작되는 본드 영화의 주연을 맡게 되며, 데니스 빌뇌브가 감독을, 에이미 파스칼과 데이비드 헤이먼이 제작을 맡을 예정이다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.6173,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/entertainment/robert-pattinson-named-next-james-bond-as-amazon-mgm-reboots-franchise-126111700428_1.html",
-      "cross_verified": true,
-      "published_at": "2026-11-17T07:08:02.000000Z"
-    },
-    {
-      "title": "ETO Markets Launches US Stock CFDs, Expanding Global Multi Asset Trading Opportunities",
-      "title_ko": "ETO Markets, 미국 주식 CFD 출시… 글로벌 다중 자산 거래 기회 확대",
-      "snippet": "/PRNewswire/ -- The US stock market remains one of the world's most influential financial markets, home to many of the companies driving global innovation,...",
-      "snippet_ko": "/PRNewswire/ -- 미국 주식 시장은 여전히 세계에서 가장 영향력 있는 금융 시장 중 하나로, 글로벌 혁신을 주도하는 수많은 기업들이 이곳에 자리 잡고 있으며,...",
-      "symbol": "AAPL",
-      "sentiment_score": 0.0772,
-      "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/apac/news-releases/eto-markets-launches-us-stock-cfds-expanding-global-multi-asset-trading-opportunities-302941642.html",
-      "cross_verified": true,
-      "published_at": "2026-11-17T06:48:00.000000Z"
-    },
-    {
-      "title": "Anthropic debuts to skeptics and dogged believers: Mike Dolan",
-      "title_ko": "안트로픽, 회의론자와 확고한 지지자들 앞에서 첫 선을 보이다: 마이크 돌란",
-      "snippet": "The Claude developer's bumper initial public offering (IPO) is set to price on Wednesday before trading begins the following day. In the rush to go public before rival ChatGPT owner OpenAI, it has been caught in a volatility storm that's seen some $2 trillion wiped off AI chip giant and ubiquitous AI financier Nvidia's market value in just six weeks.",
-      "snippet_ko": "클로드(Claude) 개발사의 대대적인 기업공개(IPO)는 수요일에 공모가가 결정될 예정이며, 다음 날부터 거래가 시작된다. 경쟁사인 ChatGPT의 소유주인 오픈AI(OpenAI)보다 먼저 상장하려는 서두름 속에서, 이 회사는 불과 6주 만에 AI 칩 업계의 거물이자 AI 분야의 주요 투자자인 엔비디아(Nvidia)의 시가총액이 약 2조 달러나 증발하는 등 급격한 변동성의 소용돌이에 휘말렸다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.2831,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-debuts-to-skeptics-and-dogged-believers-mike-dolan/articleshow/135915173.cms",
-      "cross_verified": true,
-      "published_at": "2026-11-17T07:11:19.000000Z"
-    },
-    {
-      "title": "UK Unemployment Falls Unexpectedly Amid Global Tech Rout and Geopolitical Tensions",
-      "title_ko": "세계적인 기술주 폭락과 지정학적 긴장 속에서도 영국 실업률이 예상 외로 하락했다",
-      "snippet": "The UK Office for National Statistics (ONS) reported a surprise decline in the ILO Unemployment Rate to 4.6% for the three months ending in September. While",
-      "snippet_ko": "영국 국가통계청(ONS)은 9월로 끝나는 3개월 동안 국제노동기구(ILO) 기준 실업률이 4.6%로 예상 외로 하락했다고 발표했다. 한편",
-      "symbol": "NVDA",
-      "sentiment_score": 0.1345,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/uk-unemployment-falls-unexpectedly-amid-global-tech-rout-and-geopolitical-tensions/74806/",
-      "cross_verified": true,
-      "published_at": "2026-11-17T07:08:18.000000Z"
-    },
-    {
-      "title": "Apaloosa adds Oracle, exits Advanced Micro, raises stake in NVIDIA, cuts in Alphabet among Q3 moves",
-      "title_ko": "아팔루사, 3분기 투자 동향으로 오라클 신규 편입, 어드밴스드 마이크로 지분 매각, 엔비디아 지분 확대, 알파벳 지분 축소",
-      "snippet": "Appaloosa took a new position in Oracle (ORCL) and exited Advanced Micro Devices (AMD), while raising stake in NVIDIA (NVDA) and reducing holdings in Alphabet (GOOG) (GOOGL), according to its latest 13F filing.",
-      "snippet_ko": "최신 13F 신고서에 따르면, 아팔루사(Appaloosa)는 오라클(ORCL)에 신규 투자하고 어드밴스드 마이크로 디바이스(AMD)에서 청산한 한편, 엔비디아(NVDA)에 대한 지분을 늘리고 알파벳(GOOG)(GOOGL)에 대한 보유 지분을 줄였다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.0992,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4673369-apaloosa-adds-oracle-exits-advanced-micro-raises-stake-in-nvidia-cuts-in-alphabet-among-q3-moves",
-      "cross_verified": true,
-      "published_at": "2026-11-16T23:02:27.000000Z"
     }
   ]
 }
