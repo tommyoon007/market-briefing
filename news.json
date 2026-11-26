@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-26T10:40:36.596001+00:00",
+  "updated_at": "2026-11-26T21:16:42.381596+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "America's Weapons \"Cupboard\" Will Soon Be Full, Trump Says",
+      "title_ko": "트럼프, “미국의 무기 ‘창고’가 곧 가득 찰 것”이라고 말해",
+      "snippet": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+      "snippet_ko": "ZeroHedge - 시간이 충분히 길어지면, 모든 사람의 생존율은 0으로 떨어진다",
+      "symbol": "",
+      "sentiment_score": 0.4404,
+      "source": "zerohedge.com",
+      "url": "https://www.zerohedge.com/military/americas-weapons-cupboard-will-soon-be-full-trump-says-buy-beaten-down-missile-stocks",
+      "cross_verified": true,
+      "published_at": "2026-11-26T19:20:00.000000Z"
+    },
+    {
+      "title": "U.S. Markets Pause for Thanksgiving Holiday as Investors Eye December Catalysts",
+      "title_ko": "투자자들이 12월의 주요 변수들을 주시하는 가운데, 미국 증시는 추수감사절 연휴를 맞아 휴장한다",
+      "snippet": "U.S. equity markets are closed today, Thursday, November 26th, 2026, in observance of the Thanksgiving Day holiday. There is no regular trading session at the",
+      "snippet_ko": "2026년 11월 26일 목요일, 미국 주식 시장은 추수감사절 휴일을 맞아 휴장합니다. 이날은 정규 거래 세션이 없으며,",
+      "symbol": "",
+      "sentiment_score": 0.3365,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/u-s-markets-pause-for-thanksgiving-holiday-as-investors-eye-december-catalysts/75329/",
+      "cross_verified": true,
+      "published_at": "2026-11-26T19:07:07.000000Z"
+    },
+    {
+      "title": "Sierra Madre targets 1,200 to 1,500 tonnes per day by Q3 next year while advancing 30,000-meter East District drilling",
+      "title_ko": "시에라 마드레는 내년 3분기까지 일일 1,200~1,500톤 생산을 목표로 하는 한편, 30,000미터 규모의 이스트 지구 시추 작업을 진행 중이다.",
+      "snippet": "Sierra Madre Gold and Silver milled nearly 51,000 tonnes in Q3, cut cash costs 15%, and targets 1,200-1,500 tonnes per day by Q3 2027.",
+      "snippet_ko": "시에라 마드레 골드 앤 실버는 3분기에 약 51,000톤을 제련했으며, 현금 비용을 15% 절감했고, 2027년 3분기까지 일일 1,200~1,500톤 생산을 목표로 하고 있다.",
+      "symbol": "",
+      "sentiment_score": 0.5719,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4676908-sierra-madre-targets-1200-to-1500-tonnes-per-day-by-q3-next-year-while-advancing-30000-meter",
+      "cross_verified": true,
+      "published_at": "2026-11-26T19:02:25.000000Z"
+    },
     {
       "title": "AI stock jitters put Wall Street’s once-reliable carry trade under pressure",
       "title_ko": "AI 관련주 변동성으로 인해 한때 안정적이었던 월가의 캐리 트레이드가 압박을 받고 있다",
@@ -1165,45 +1201,81 @@
       "url": "https://seekingalpha.com/article/4966085-electromed-inc-elmd-q1-2027-earnings-call-transcript",
       "cross_verified": true,
       "published_at": "2026-11-11T08:30:54.000000Z"
-    },
-    {
-      "title": "Usio reiterates 14%-16% 2026 revenue growth as it targets “several hundred million dollars” of additional ION deposits (NASDAQ:USIO)",
-      "title_ko": "Usio, 2026년 매출 성장률 14%~16% 전망 재확인… “수억 달러” 규모의 추가 ION 매장량 확보 목표 (NASDAQ:USIO)",
-      "snippet": "Usio Q3 revenue rose 12%, adjusted EBITDA increased 222% to $1.2 million and GAAP net income reached $217,000; 2026 growth guidance stays 14%-16%.",
-      "snippet_ko": "Usio의 3분기 매출은 12% 증가했으며, 조정 EBITDA는 222% 증가한 120만 달러를 기록했고, GAAP 기준 순이익은 21만 7천 달러를 달성했다. 2026년 성장 전망치는 14%~16%로 유지된다.",
-      "symbol": "",
-      "sentiment_score": 0.4075,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4670506-usio-reiterates-14-percentminus-16-percent-2026-revenue-growth-as-it-targets-several-hundred",
-      "cross_verified": true,
-      "published_at": "2026-11-11T08:22:01.000000Z"
-    },
-    {
-      "title": "USHP Foundation Launches First-of-its-Kind Investable U.S. Home Price Index for Global Investors",
-      "title_ko": "USHP 재단, 글로벌 투자자들을 위한 업계 최초의 투자 가능한 미국 주택 가격 지수 출시",
-      "snippet": "**media[1301987]**USHP (U.S. Home Price) is the first-of-its-kind liquid index product tracking U.S. home prices, backed by housing-related reserve assets, with USHPi (U.S. Home Price - Income) available as its income-bearing variantUSHP has received institutional commitments up to $100 million, anchored by the Galaxy Sharplink Onchain Yield Fund, Forward Industries (Nasdaq: FWDI) and othersUSHP will be issued by USHP Limited, a British Virgin Islands company and subsidiary of the USHP Foundation, a Cayman Islands foundation company, with Index Industries serving as technology and services providerUSHP will be made available only to eligible institutional and non-U.S. investors GEORGE TOWN, Cayman Islands, Nov. 11, 2026 /PRNewswire/ -- The USHP Foundation, a Cayman Islands foundation company, today announced the upcoming launch of USHP, the first tokenized liquid index product tracking U.S. home prices. USHP gives investors broad, diversified exposure to U.S. housing through a single financial instrument. USHP references the U.S. Home Price Index (USHP Index), Index Industries' new, daily-reported benchmark for U.S. home prices that aligns closely with longstanding housing indices. USHP is the first index-based financial product to be powered by Index Industries' tokenization technology and real estate and capital markets services.",
-      "snippet_ko": "**media[1301987]**USHP(미국 주택 가격)는 미국 주택 가격을 추적하는 최초의 유동성 지수 상품으로, 주택 관련 준비 자산으로 뒷받침되며, 수익 창출형 상품인 USHPi(미국 주택 가격 - Income)는 수익 창출형 상품으로 제공됩니다. USHP는 Galaxy Sharplink Onchain Yield Fund, Forward Industries(나스닥: FWDI) 등을 주축으로 최대 1억 달러 규모의 기관 투자 약정을 확보했습니다. USHP는 영국령 버진아일랜드에 소재한 기업이자 USHP 재단의 자회사인 USHP Limited가 발행할 예정입니다.",
-      "symbol": "",
-      "sentiment_score": 0.128,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/11/11/tmt-newswire/pr-newswire/ushp-foundation-launches-first-of-its-kind-investable-us-home-price-index-for-global-investors/2467151",
-      "cross_verified": true,
-      "published_at": "2026-11-11T01:01:59.000000Z"
-    },
-    {
-      "title": "TELA Bio outlines $76M-$78M 2027 expense range following $17M cost reduction plan (NASDAQ:TELA)",
-      "title_ko": "TELA Bio, 1,700만 달러 규모의 비용 절감 계획에 이어 2027년 지출 범위를 7,600만~7,800만 달러로 제시 (NASDAQ:TELA)",
-      "snippet": "TELA Bio posts Q3 2026 revenue of $19 million, down 8%, and starts a $17 million cost-cutting plan; management expects sequential growth in Q4 and into...",
-      "snippet_ko": "TELA Bio는 2026년 3분기 매출이 1,900만 달러로 전년 동기 대비 8% 감소했다고 발표했으며, 1,700만 달러 규모의 비용 절감 계획을 시행하기 시작했다. 경영진은 4분기부터...에 걸쳐 전분기 대비 성장이 이어질 것으로 전망하고 있다.",
-      "symbol": "",
-      "sentiment_score": 0.1499,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4670354-tela-bio-outlines-76m-78m-2027-expense-range-following-17m-cost-reduction-plan",
-      "cross_verified": true,
-      "published_at": "2026-11-11T00:32:02.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Alphabet: You're Getting Anthropic For Free",
+      "title_ko": "Alphabet: Anthropic 서비스를 무료로 이용하실 수 있습니다",
+      "snippet": "The bull case for Alphabet: $265 shares sit below $429 fair value excluding Anthropic; its $147 billion stake could lift value toward $440 if shares hold.",
+      "snippet_ko": "알파벳에 대한 강세 전망: 주당 265달러는 앤트로픽을 제외한 공정가치 429달러보다 낮은 수준이며, 주가가 현 수준을 유지한다면 알파벳이 보유한 1,470억 달러 규모의 지분이 기업 가치를 440달러 수준으로 끌어올릴 수 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.4921,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4972287-alphabet-youre-getting-anthropic-for-free",
+      "cross_verified": true,
+      "published_at": "2026-11-26T17:00:00.000000Z"
+    },
+    {
+      "title": "The Global Economy Rests on AI. What Happens if AI Stops?",
+      "title_ko": "세계 경제는 AI에 달려 있다. 만약 AI가 멈춘다면 어떻게 될까?",
+      "snippet": "Last month the Managing Director of the IMF described the world economy as standing on one leg — the AI leg. In November 2026 that leg began to wobble. The Nasdaq fell 18% from its October peak to its low on 20 November, the S&P 500 fell 11.6%, and the…",
+      "snippet_ko": "지난달 국제통화기금(IMF) 총재는 세계 경제가 ‘한쪽 다리’, 즉 인공지능(AI)이라는 다리 하나에 의지해 서 있다고 표현했다. 2026년 11월, 그 다리가 흔들리기 시작했다. 나스닥 지수는 10월 고점 대비 11월 20일 저점까지 18% 하락했고, S&P 500 지수는 11.6% 하락했으며, …",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.2074,
+      "source": "economicshelp.org",
+      "url": "https://www.economicshelp.org/blog/223088/economics/the-global-economy-rests-on-ai-what-happens-if-ai-stops/",
+      "cross_verified": true,
+      "published_at": "2026-11-26T16:06:52.000000Z"
+    },
+    {
+      "title": "Apple pulls Chinese-developed AI chatbot from App Store over reports of sexual messages to kids",
+      "title_ko": "애플, 어린이들에게 성적 메시지를 보냈다는 보도에 따라 중국에서 개발된 AI 챗봇을 앱 스토어에서 삭제했다",
+      "snippet": "Talkie AI, an app with 11 million monthly users, was pulled from Apple's App Store after reports alleged its AI characters sent sexually inappropriate messages to children.",
+      "snippet_ko": "월간 사용자 수 1,100만 명을 기록하는 앱 ‘토키 AI(Talkie AI)’가, 해당 앱의 AI 캐릭터들이 어린이들에게 성적으로 부적절한 메시지를 보냈다는 보도가 나온 후 애플 앱 스토어에서 삭제되었다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.0632,
+      "source": "foxbusiness.com",
+      "url": "https://www.foxbusiness.com/technology/apple-pulls-chinese-developed-ai-chatbot-from-app-store-over-reports-sexual-messages-kids",
+      "cross_verified": true,
+      "published_at": "2026-11-26T14:35:42.000000Z"
+    },
+    {
+      "title": "Global stocks move upward despite shock warning from Panmure Liberum to sell all equities now",
+      "title_ko": "팬뮤어 리버럼이 “지금 당장 모든 주식을 매도하라”는 충격적인 경고를 내놓았음에도 불구하고, 전 세계 증시는 상승세를 보이고 있다.",
+      "snippet": "There is nothing but bad news on the horizon, multiple Wall Street and London City analysts said in emails to Fortune.",
+      "snippet_ko": "월스트리트와 런던 시티의 여러 애널리스트들이 포춘지에 보낸 이메일에서 “앞으로 닥칠 일들은 나쁜 소식뿐”이라고 밝혔다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.338,
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/11/26/global-stocks-move-upward-despite-shock-warning-from-panmure-liberum-to-sell-all-equities-now/",
+      "cross_verified": true,
+      "published_at": "2026-11-26T16:47:23.000000Z"
+    },
+    {
+      "title": "AI Bubble Bursts: Welcome To The Bear Market",
+      "title_ko": "AI 버블 붕괴: 약세장에 오신 것을 환영합니다",
+      "snippet": "With tech roughly 20% off its highs, the author favors quality tech at lower valuations, as strong earnings growth supports the case for a recovery.",
+      "snippet_ko": "기술주 가격이 고점 대비 약 20% 하락한 상황에서, 저평가된 우량 기술주를 선호하는 이유는 견조한 실적 성장이 회복세를 뒷받침하고 있기 때문이다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.7845,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4972329-ai-bubble-bursts-welcome-to-the-bear-market",
+      "cross_verified": true,
+      "published_at": "2026-11-26T16:44:08.000000Z"
+    },
+    {
+      "title": "Bitcoin Back on the Nasdaq Leash as AI Stocks Call the Shots",
+      "title_ko": "AI 관련주가 주도권을 쥐면서 비트코인이 다시 나스닥의 영향권으로 돌아왔다",
+      "snippet": "deVere Group CEO Nigel Green says Bitcoin is trading as an amplified bet on AI, with a 0.67 correlation to the Nasdaq Composite, and why the tie to tech stocks is likely temporary.",
+      "snippet_ko": "deVere Group의 CEO 나이젤 그린은 비트코인이 나스닥 종합지수와 0.67의 상관관계를 보이며, AI에 대한 기대감이 증폭된 형태로 거래되고 있다고 말하며, 기술주와의 이러한 연계가 일시적일 가능성이 높은 이유를 설명했다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.2859,
+      "source": "investorideas.com",
+      "url": "https://www.investorideas.com/news/2026/cryptocurrency/11261-bitcoin-back-on-the-nasdaq-leash-as-ai-stocks-call-the-shots.asp",
+      "cross_verified": true,
+      "published_at": "2026-11-26T16:44:00.000000Z"
+    },
     {
       "title": "Shein’s slow India start lays bare limits of Ambani’s retail might",
       "title_ko": "Shein의 인도 시장 진출이 더딘 것은 암바니의 소매업 영향력에 한계가 있음을 여실히 드러내고 있다",
@@ -2331,78 +2403,6 @@
       "url": "https://seekingalpha.com/article/4969706-meta-financial-engineering-masks-the-real-debt-burden",
       "cross_verified": true,
       "published_at": "2026-11-18T17:25:07.000000Z"
-    },
-    {
-      "title": "FuboTV: The Road To Profitability Runs Through Disney",
-      "title_ko": "FuboTV: 흑자 전환의 길은 디즈니를 거쳐야 한다",
-      "snippet": "FuboTV is a Hold, as although the Disney-driven earnings gains look plausible, weak underlying growth and unproven cash generation warrant patience.",
-      "snippet_ko": "FuboTV는 ‘보유’ 등급을 부여합니다. 디즈니에 힘입은 실적 개선은 타당해 보이지만, 근본적인 성장세가 부진하고 현금 창출 능력이 입증되지 않았기 때문에 신중한 접근이 필요합니다.",
-      "symbol": "DIS",
-      "sentiment_score": 0.6838,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4969645-fubotv-the-road-to-profitability-runs-through-disney",
-      "cross_verified": true,
-      "published_at": "2026-11-18T15:58:53.000000Z"
-    },
-    {
-      "title": "Jensen Huang and Nvidia is not a honeypot story. It is a national security story",
-      "title_ko": "젠슨 황과 엔비디아는 단순한 ‘허니팟’ 이야기가 아닙니다. 이는 국가 안보와 관련된 이야기입니다.",
-      "snippet": "Elon Musk reacted to our research on",
-      "snippet_ko": "일론 머스크는 우리의 연구 결과에 대해 다음과 같이 반응했습니다.",
-      "symbol": "AVGO",
-      "sentiment_score": -0.2322,
-      "source": "fortune.com",
-      "url": "https://fortune.com/2026/11/18/nvidia-jensen-huang-megaspeed-honeypot-national-security-export-controls-andrew-king/",
-      "cross_verified": true,
-      "published_at": "2026-11-18T15:36:19.000000Z"
-    },
-    {
-      "title": "Anthropic IPO: The Most Important AI Stock Has Arrived (And Is A Buy)",
-      "title_ko": "앤트로픽(Anthropic) 기업공개: 가장 중요한 AI 주식이 등장했다 (매수 추천)",
-      "snippet": "Anthropic is rated a Buy, as its $1.3 trillion IPO valuation equals 19x annualized revenue; furthermore, 100% growth could bring forward sales below 10x.",
-      "snippet_ko": "앤트로픽(Anthropic)은 1조 3천억 달러 규모의 기업공개(IPO) 평가액이 연간 매출의 19배에 달하기 때문에 ‘매수’ 등급을 받았다. 게다가 매출이 100% 성장할 경우, 매출 대비 평가배수가 10배 미만으로 낮아질 수도 있다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.6486,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4969758-anthropic-ipo-the-most-important-ai-stock-has-arrived-and-is-a-buy",
-      "cross_verified": true,
-      "published_at": "2026-11-18T19:39:06.000000Z"
-    },
-    {
-      "title": "Fed Minutes Flag AI Inflation Risks as Markets Digest Nvidia Earnings and Regional Security Talks",
-      "title_ko": "연준 회의록, AI로 인한 인플레이션 위험 경고… 시장에서는 엔비디아 실적과 지역 안보 회담 소식 소화 중",
-      "snippet": "Minutes from the Federal Reserve's October 27-28 meeting reveal that policymakers are increasingly focused on the economic side effects of the AI",
-      "snippet_ko": "연방준비제도(Fed)의 10월 27~28일 회의록에 따르면, 정책 입안자들은 AI가 초래하는 경제적 부작용에 점점 더 주목하고 있는 것으로 나타났다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.069,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/fed-minutes-flag-ai-inflation-risks-as-markets-digest-nvidia-earnings-and-regional-security-talks/74908/",
-      "cross_verified": true,
-      "published_at": "2026-11-18T19:38:21.000000Z"
-    },
-    {
-      "title": "The Retail Investor Is The Exit Liquidity",
-      "title_ko": "개인 투자자가 바로 매도 유동성이다",
-      "snippet": "The bear case on Anthropic’s expected $1.4 trillion IPO: faster ETF inclusion could expose retail investors to insider selling and leave them as exit liquidity.",
-      "snippet_ko": "앤트로픽(Anthropic)의 예상 1조 4천억 달러 규모 기업공개(IPO)에 대한 비관론: ETF 편입이 앞당겨질 경우, 개인 투자자들이 내부자 매도에 노출될 수 있으며, 이들의 자금이 매도 유동성으로 전락할 위험이 있다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.765,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4969734-the-retail-investor-is-the-exit-liquidity",
-      "cross_verified": true,
-      "published_at": "2026-11-18T18:50:34.000000Z"
-    },
-    {
-      "title": "Anthropic IPO: Alphabet and Nvidia Commit $10B Each",
-      "title_ko": "앤트로픽(Anthropic) 기업공개(IPO): 알파벳과 엔비디아, 각각 100억 달러 투자 약속",
-      "snippet": "Alphabet and Nvidia will each buy about $10 billion of Anthropic stock at its IPO price, part of a $26 billion private placement ahead of the Nasdaq debut.",
-      "snippet_ko": "알파벳과 엔비디아는 나스닥 상장 전 진행되는 260억 달러 규모의 사모 발행의 일환으로, 각각 앤트로픽 주식 약 100억 달러어치를 공모가로 매입할 예정이다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.4791,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/alphabet-and-nvidia-to-invest-10-billion-each-in-anthropic-at-its-ipo-price/",
-      "cross_verified": true,
-      "published_at": "2026-11-18T07:36:20.000000Z"
     }
   ]
 }
