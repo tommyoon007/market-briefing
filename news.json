@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-26T00:06:39.010945+00:00",
+  "updated_at": "2026-11-26T10:40:36.596001+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "AI stock jitters put Wall Street’s once-reliable carry trade under pressure",
+      "title_ko": "AI 관련주 변동성으로 인해 한때 안정적이었던 월가의 캐리 트레이드가 압박을 받고 있다",
+      "snippet": "Wall Street’s carry trade faces rising volatility and political risks as investors reassess returns and prepare for a more uncertain 2027.",
+      "snippet_ko": "투자자들이 수익률을 재평가하고 불확실성이 커질 것으로 예상되는 2027년을 대비함에 따라, 월스트리트의 캐리 트레이드는 변동성 확대와 정치적 위험에 직면해 있다.",
+      "symbol": "",
+      "sentiment_score": 0.3262,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/markets/cracks-in-ai-stocks-weaken-wall-streets-once-reliable-carry-trade/article71745337.ece",
+      "cross_verified": true,
+      "published_at": "2026-11-26T09:46:34.000000Z"
+    },
+    {
+      "title": "Invesco Small Cap Value Fund Q3 2026 Commentary",
+      "title_ko": "인베스코 소형주 가치형 펀드 2026년 3분기 투자 동향 보고서",
+      "snippet": "Stock selection in IT drove much of the fund's underperformance in the third quarter due to weakness across semiconductor holdings.",
+      "snippet_ko": "IT 부문의 종목 선정은 반도체 보유 종목 전반에 걸친 부진으로 인해 3분기 펀드의 저조한 성과에 큰 영향을 미쳤다.",
+      "symbol": "",
+      "sentiment_score": 0.2247,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4972202-invesco-small-cap-value-fund-q3-2026-commentary",
+      "cross_verified": true,
+      "published_at": "2026-11-26T09:20:00.000000Z"
+    },
     {
       "title": "Dell: Asymmetric Return Profile (Rating Upgrade)",
       "title_ko": "델: 비대칭 수익률 전망 (신용등급 상향)",
@@ -1177,33 +1201,69 @@
       "url": "https://seekingalpha.com/news/4670354-tela-bio-outlines-76m-78m-2027-expense-range-following-17m-cost-reduction-plan",
       "cross_verified": true,
       "published_at": "2026-11-11T00:32:02.000000Z"
-    },
-    {
-      "title": "Dolphin Entertainment anticipates 4 ventures in 2027, with at least 1 in market in Q1 (NASDAQ:DLPN)",
-      "title_ko": "돌핀 엔터테인먼트는 2027년에 4건의 신규 사업을 추진할 예정이며, 이 중 최소 1건은 1분기에 시장에 출시될 것으로 전망된다 (나스닥:DLPN)",
-      "snippet": "Dolphin Entertainment posts record Q3 revenue of $16 million, up 8.3%, and swings to $200,000 net income from a $400,000 loss a year earlier.",
-      "snippet_ko": "돌핀 엔터테인먼트는 3분기 매출이 8.3% 증가한 1,600만 달러로 사상 최고치를 기록했으며, 전년 동기 40만 달러의 적자에서 20만 달러의 순이익을 달성했다.",
-      "symbol": "",
-      "sentiment_score": -0.0086,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4670355-dolphin-entertainment-anticipates-4-ventures-in-2027-with-at-least-1-in-market-in-q1",
-      "cross_verified": true,
-      "published_at": "2026-11-11T00:32:02.000000Z"
-    },
-    {
-      "title": "The Tel-Aviv Stock Exchange Ltd. (TVAVF) Q3 2026 Earnings Call Transcript",
-      "title_ko": "텔아비브 증권거래소(TVAVF) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "The Tel-Aviv Stock Exchange Ltd. (TVAVF) Q3 2026 Earnings Call November 10, 2026 1:00 PM ESTCompany ParticipantsIttai Ben-Zeev - Chief Executive OfficerAlon...",
-      "snippet_ko": "텔아비브 증권거래소(TVAVF) 2026년 3분기 실적 발표 전화회의, 2026년 11월 10일 오후 1:00(미국 동부 표준시) 회사 참가자: 이타이 벤-지브(Ittai Ben-Zeev) - 최고경영자(CEO), 알론(Alon)...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4965990-the-tel-aviv-stock-exchange-ltd-tvavf-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-11-10T20:01:05.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Shein’s slow India start lays bare limits of Ambani’s retail might",
+      "title_ko": "Shein의 인도 시장 진출이 더딘 것은 암바니의 소매업 영향력에 한계가 있음을 여실히 드러내고 있다",
+      "snippet": "Shein’s India relaunch under Reliance falters amid supply-chain, leadership, and tech gaps, highlighting Ambani’s limits against a crowded market.",
+      "snippet_ko": "릴라이언스 산하에서 진행된 셰인의 인도 시장 재진출이 공급망, 리더십, 기술 격차로 인해 난항을 겪고 있으며, 이는 경쟁이 치열한 시장에서 암바니의 한계를 여실히 드러내고 있다.",
+      "symbol": "META",
+      "sentiment_score": -0.003,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/companies/sheins-slow-india-start-lays-bare-limits-of-ambanis-retail-might/article71745541.ece",
+      "cross_verified": true,
+      "published_at": "2026-11-26T09:59:44.000000Z"
+    },
+    {
+      "title": "Broadcom: Why The Market Is Wrong To Sell",
+      "title_ko": "브로드컴: 시장이 매도하는 것이 왜 잘못된 판단인가",
+      "snippet": "I reiterate my Buy on Broadcom Inc., with a $385 fair value, down from $442; shares have fallen 20% since July.",
+      "snippet_ko": "브로드컴(Broadcom Inc.)에 대한 ‘매수’ 추천을 재차 강조하며, 공정가치를 442달러에서 385달러로 하향 조정합니다. 주가는 7월 이후 20% 하락했습니다.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.0531,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4972153-broadcom-why-the-market-is-wrong-to-sell",
+      "cross_verified": true,
+      "published_at": "2026-11-26T07:03:40.000000Z"
+    },
+    {
+      "title": "Nasdaq Composite 23,586: Erases Most of a 4.6% Intraday Drop",
+      "title_ko": "나스닥 종합지수 23,586: 장중 4.6% 하락분의 대부분을 만회",
+      "snippet": "The Nasdaq Composite closed at 23,585.80, down 0.62% after a 4.6% intraday drop on core PCE and tariffs. Bull 24,220, bear 22,632 into Friday's half session.",
+      "snippet_ko": "나스닥 종합지수는 핵심 PCE 지표와 관세 문제로 장중 4.6% 하락한 끝에 0.62% 하락한 23,585.80으로 마감했다. 금요일 오전 장까지 강세 목표치는 24,220, 약세 목표치는 22,632이다.",
+      "symbol": "GOOGL",
+      "sentiment_score": -0.5329,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/nasdaq-composite-23585-thanksgiving-after-4-6-percent-intraday-drop-reversal-bull-24220-bear-22632/",
+      "cross_verified": true,
+      "published_at": "2026-11-26T06:53:11.000000Z"
+    },
+    {
+      "title": "Lori Huang’s Nvidia-funded foundation gained about $2.3 billion in a day on Jensen Huang’s return",
+      "title_ko": "로리 황이 설립하고 엔비디아가 자금을 지원하는 재단은 젠슨 황의 복귀 소식에 하루 만에 약 23억 달러의 수익을 올렸다",
+      "snippet": "Most of the foundation's payouts go to a donor-advised fund, and its mandatory giving is set to climb as the stake grows.",
+      "snippet_ko": "재단의 기부금 대부분은 기부자 조언 기금으로 전달되며, 지분 규모가 커짐에 따라 의무 기부액도 증가할 전망이다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.4589,
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/11/26/jensen-huang-return-lori-huang-foundation-nvidia-stake/",
+      "cross_verified": true,
+      "published_at": "2026-11-26T08:07:00.000000Z"
+    },
+    {
+      "title": "S&P puts Nvidia's rating on downgrade watch",
+      "title_ko": "S&P, 엔비디아 신용등급을 하향 조정 감시 대상에 포함",
+      "snippet": "S&P Global Ratings has placed Nvidia's credit rating on watch for a possible downgrade, saying the departure and subsequent reinstatement of its CEO had exposed weaknesses in the chipmaker's management and board oversight.",
+      "snippet_ko": "S&P 글로벌 레이팅스는 엔비디아의 신용등급을 하향 조정 가능성 관찰 대상에 올리며, CEO의 사임과 이후 복임이 이 반도체 제조사의 경영 및 이사회 감독 체계의 취약점을 드러냈다고 밝혔다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0717,
+      "source": "rte.ie",
+      "url": "https://www.rte.ie/news/business/2026/1126/1600723-s-p-on-nvidia-credit-rating/",
+      "cross_verified": true,
+      "published_at": "2026-11-26T07:49:14.000000Z"
+    },
     {
       "title": "Jensen Huang's Message to Nvidia",
       "title_ko": "젠슨 황이 엔비디아에 전한 메시지",
@@ -2343,66 +2403,6 @@
       "url": "https://financefeeds.com/alphabet-and-nvidia-to-invest-10-billion-each-in-anthropic-at-its-ipo-price/",
       "cross_verified": true,
       "published_at": "2026-11-18T07:36:20.000000Z"
-    },
-    {
-      "title": "Micron Stock $712: Up 4.7% After Hours on Nvidia's Beat",
-      "title_ko": "마이크론 주가 712달러: 엔비디아 실적 호조에 힘입어 장 마감 후 4.7% 상승",
-      "snippet": "Updated 18 November 2026, 07:30 GMT. Micron (MU) closed at $712.42 on Tuesday, down 0.92 percent, after falling as low as $666.88 during the session (Yahoo",
-      "snippet_ko": "2026년 11월 18일 07:30 GMT 업데이트. 마이크론(MU)은 화요일 장중 한때 666.88달러까지 하락한 끝에 0.92% 하락한 712.42달러로 장을 마감했다(야후",
-      "symbol": "AVGO",
-      "sentiment_score": 0.2887,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/micron-mu-stock-712-wednesday-after-nvidia-115-8-billion-quarter-bull-778-bear-667/",
-      "cross_verified": true,
-      "published_at": "2026-11-18T06:50:06.000000Z"
-    },
-    {
-      "title": "Waymo Halts Freeway Rides After Crackdown by California DMV",
-      "title_ko": "캘리포니아 차량관리국(DMV)의 단속 조치에 따라 웨이모, 고속도로 주행 중단",
-      "snippet": "Alphabet Inc.'s Waymo robotaxi unit temporarily suspended freeway driving after California regulators imposed fresh restrictions on the company, the",
-      "snippet_ko": "캘리포니아 규제 당국이 알파벳(Alphabet Inc.)의 자회사인 웨ymo(Waymo)에 새로운 제한 조치를 부과함에 따라, 이 회사의 로봇택시 사업부는 고속도로 주행을 일시적으로 중단했다고,",
-      "symbol": "GOOGL",
-      "sentiment_score": -0.2263,
-      "source": "insurancejournal.com",
-      "url": "https://www.insurancejournal.com/news/west/2026/11/18/892937.htm",
-      "cross_verified": true,
-      "published_at": "2026-11-18T06:00:39.000000Z"
-    },
-    {
-      "title": "NVIDIA Q3 Results Surge On Data Center Strength; Board Not To Reinstate Huang As CEO; Stock Gains",
-      "title_ko": "NVIDIA, 데이터 센터 부문 호조에 힘입어 3분기 실적 급증… 이사회, 황 CEO 복귀 불허… 주가 상승",
-      "snippet": "Shares of AI chip major NVIDIA Corp. were gaining around 4 percent in the pre-market activity on the Nasdaq following the announcement of the company's significantly higher third-quarter profit and revenues, on strong demand for its data center products amid AI boom.",
-      "snippet_ko": "AI 칩 업계의 선두주자인 엔비디아(NVIDIA Corp.)의 주가는 AI 붐 속에서 데이터 센터 제품에 대한 수요가 호조를 보이면서 3분기 순이익과 매출이 크게 증가했다는 발표에 힘입어 나스닥 장전 거래에서 약 4% 상승세를 보이고 있다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.4346,
-      "source": "rttnews.com",
-      "url": "https://www.rttnews.com/3715835/nvidia-q3-results-surge-on-data-center-strength-board-not-to-reinstate-huang-as-ceo-stock-gains.aspx?type=ts",
-      "cross_verified": true,
-      "published_at": "2026-11-18T10:39:35.000000Z"
-    },
-    {
-      "title": "Nvidia Q3 shuts door on Huang’s return as company nears largest annual profit in history",
-      "title_ko": "엔비디아, 사상 최대 연간 이익 달성 임박… 3분기 실적 발표로 황 회장의 복귀 가능성 완전히 차단",
-      "snippet": "Everything you need to know before you reach the office this morning.",
-      "snippet_ko": "오늘 아침 출근하기 전에 꼭 알아두어야 할 모든 것.",
-      "symbol": "NVDA",
-      "sentiment_score": -0.2399,
-      "source": "fortune.com",
-      "url": "https://fortune.com/2026/11/18/nvidia-q3-2027-investigation-jensen-huang-largest-annual-profit/",
-      "cross_verified": true,
-      "published_at": "2026-11-18T10:39:18.000000Z"
-    },
-    {
-      "title": "DealBook Summit Live Updates: Political Figures and Business Executives Are Set for a Day of Interviews",
-      "title_ko": "딜북 서밋 실시간 업데이트: 정치인 및 기업 임원들이 인터뷰 일정을 앞두고 있다",
-      "snippet": "This year’s DealBook Summit will include interviews with some of the most powerful people from Wall Street, Silicon Valley and Washington. Here are the guest...",
-      "snippet_ko": "올해 열리는 딜북 서밋(DealBook Summit)에서는 월스트리트, 실리콘밸리, 워싱턴의 가장 영향력 있는 인사들과의 인터뷰가 진행될 예정입니다. 출연진은 다음과 같습니다...",
-      "symbol": "MSFT",
-      "sentiment_score": -0.0172,
-      "source": "nytimes.com",
-      "url": "https://www.nytimes.com/live/2026/11/18/business/dealbook-summit-news/heres-the-latest-on-the-2026-dealbook-summit",
-      "cross_verified": true,
-      "published_at": "2026-11-18T10:25:35.000000Z"
     }
   ]
 }
