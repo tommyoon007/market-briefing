@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-25T14:04:12.502439+00:00",
+  "updated_at": "2026-11-26T00:06:39.010945+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Dell: Asymmetric Return Profile (Rating Upgrade)",
+      "title_ko": "델: 비대칭 수익률 전망 (신용등급 상향)",
+      "snippet": "Dell Technologies is rated a Strong Buy at 9.7x forward earnings, with asymmetric returns as AI server revenue could hit $78 billion this fiscal year.",
+      "snippet_ko": "델 테크놀로지스는 향후 주당순이익(EPS)의 9.7배에 해당하는 주가수익비율(PER)을 기록하며 ‘강력 매수’ 등급을 받았으며, 이번 회계연도에 AI 서버 매출이 780억 달러에 달할 것으로 예상됨에 따라 비대칭적인 수익이 기대됩니다.",
+      "symbol": "",
+      "sentiment_score": 0.8934,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4972060-dell-asymmetric-return-profile-rating-upgrade",
+      "cross_verified": true,
+      "published_at": "2026-11-25T23:26:50.000000Z"
+    },
+    {
+      "title": "Dell: Someone Is Very Wrong (Rating Upgrade)",
+      "title_ko": "델: 누군가가 크게 잘못 알고 있다 (신용등급 상향)",
+      "snippet": "Dell Technologies Inc. is rated a Strong Buy at 9.3x FY27 guided EPS; its $25 billion buyback & rising earnings estimates suggest most downside is priced in.",
+      "snippet_ko": "델 테크놀로지스(Dell Technologies Inc.)는 2027 회계연도 예상 주당순이익(EPS) 기준 9.3배의 주가수익비율(PER)을 기록하며 ‘강력 매수(Strong Buy)’ 등급을 받았다. 250억 달러 규모의 자사주 매입 계획과 상승세에 있는 실적 전망을 고려할 때, 주가에 이미 대부분의 하락 요인이 반영된 것으로 보인다.",
+      "symbol": "",
+      "sentiment_score": 0.6369,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4972056-dell-someone-is-very-wrong-rating-upgrade",
+      "cross_verified": true,
+      "published_at": "2026-11-25T23:03:49.000000Z"
+    },
     {
       "title": "Coca-Cola CFO John Murphy to retire. Here's his career advice after nearly 40 years",
       "title_ko": "코카콜라 최고재무책임자(CFO) 존 머피가 은퇴한다. 약 40년에 걸친 경력을 바탕으로 그가 전하는 커리어 조언은 다음과 같다.",
@@ -1177,33 +1201,69 @@
       "url": "https://seekingalpha.com/article/4965990-the-tel-aviv-stock-exchange-ltd-tvavf-q3-2026-earnings-call-transcript",
       "cross_verified": true,
       "published_at": "2026-11-10T20:01:05.000000Z"
-    },
-    {
-      "title": "Coloplast: Turnaround Is Underway, But Upside Is Limited (OTCMKTS:CLPBF)",
-      "title_ko": "콜로플라스트: 실적 회복세가 나타나고 있으나 상승 여력은 제한적 (OTCMKTS:CLPBF)",
-      "snippet": "Coloplast's revised mid-term guidance now targets 5–7% organic growth and EBIT margins in the mid-20% range. See why I rate CLPBF stock as Buy. Read my analysis.",
-      "snippet_ko": "콜로플라스트(Coloplast)가 수정한 중기 전망에 따르면, 이제 유기적 성장률 5~7%와 20% 중반대의 EBIT 마진을 목표로 하고 있습니다. 제가 CLPBF 주식을 ‘매수’로 평가하는 이유를 확인해 보세요. 제 분석을 읽어보세요.",
-      "symbol": "",
-      "sentiment_score": -0.1147,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4965965-coloplast-turnaround-is-underway-but-upside-is-limited",
-      "cross_verified": true,
-      "published_at": "2026-11-10T19:45:34.000000Z"
-    },
-    {
-      "title": "Banca Mediolanum S.p.A. (BNCDY) Q3 2026 Earnings Call Transcript",
-      "title_ko": "Banca Mediolanum S.p.A. (BNCDY) 2026년 3분기 실적 발표 전화 회의 기록",
-      "snippet": "Banca Mediolanum S.p.A. (BNCDY) Q3 2026 Earnings Call November 10, 2026 10:30 AM ESTCompany ParticipantsAlessandra Lanzone - Head of Investor...",
-      "snippet_ko": "Banca Mediolanum S.p.A. (BNCDY) 2026년 3분기 실적 발표 전화회의 2026년 11월 10일 오전 10시 30분(미국 동부 표준시) 회사 측 참석자: 알레산드라 란조네 - 투자자 관계 책임자...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4965903-banca-mediolanum-s-p-a-bncdy-q3-2026-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-11-10T19:41:03.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Jensen Huang's Message to Nvidia",
+      "title_ko": "젠슨 황이 엔비디아에 전한 메시지",
+      "snippet": "The recently reinstated CEO reportedly says he doesn't believe in succession planning. Preparing for change is widely deemed a board's responsibility.",
+      "snippet_ko": "최근 복직된 CEO는 승계 계획을 믿지 않는다고 밝힌 것으로 알려졌다. 변화에 대비하는 일은 일반적으로 이사회가 담당해야 할 책임으로 여겨진다.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.0755,
+      "source": "businessinsider.com",
+      "url": "https://www.businessinsider.com/jensen-huangs-succession-message-nvidia-we-dont-need-plan-b-2026-11",
+      "cross_verified": true,
+      "published_at": "2026-11-25T22:57:05.000000Z"
+    },
+    {
+      "title": "‘Data centers in space’: FCC clears SpaceX for 1M satellites to ‘extend America’s lead in superintelligence’",
+      "title_ko": "‘우주 데이터 센터’: FCC, 스페이스X의 100만 개 위성 발사 승인… ‘초지능 분야에서 미국의 선도적 위상 강화’",
+      "snippet": "The FCC has approved Elon Musk's SpaceX to deploy up to 1 million satellites for the",
+      "snippet_ko": "FCC는 일론 머스크가 이끄는 스페이스X가 최대 100만 개의 위성을 배치하는 것을 승인했으며, 이는",
+      "symbol": "AMZN",
+      "sentiment_score": 0.8845,
+      "source": "foxbusiness.com",
+      "url": "https://www.foxbusiness.com/politics/data-centers-space-fcc-clears-spacex-1m-satellites-extend-americas-lead-superintelligence",
+      "cross_verified": true,
+      "published_at": "2026-11-25T19:13:43.000000Z"
+    },
+    {
+      "title": "Apple: Great Company, Terrible Price",
+      "title_ko": "애플: 훌륭한 기업, 터무니없는 가격",
+      "snippet": "Analyst sees Apple as a mixed trade: at 37x forward earnings, its $254 DCF trails a roughly $349 price; better AI sentiment could reverse haven flows.",
+      "snippet_ko": "한 애널리스트는 애플을 ‘장단점이 공존하는 투자 대상’으로 평가했다. 향후 주당순이익(EPS) 대비 주가수익비율(PER)이 37배인 상황에서, 254달러로 산출된 DCF(현금흐름할인법) 가치는 약 349달러의 시장 가격에 미치지 못한다. AI에 대한 투자 심리가 개선되면 안전자산으로의 자금 유입 흐름이 반전될 수 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.023,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4972002-apple-great-company-terrible-price",
+      "cross_verified": true,
+      "published_at": "2026-11-25T18:49:47.000000Z"
+    },
+    {
+      "title": "Market Open: ASX will require close watch today after mixed US signals",
+      "title_ko": "시장 개장: 미국 증시에서 엇갈린 신호가 나온 만큼, 오늘 ASX를 주의 깊게 지켜봐야 할 전망이다",
+      "snippet": "The Australian share market is set for a mixed open this morning…",
+      "snippet_ko": "오늘 아침 호주 증시는 혼조세를 보이며 개장할 전망입니다…",
+      "symbol": "NVDA",
+      "sentiment_score": 0.1345,
+      "source": "themarketherald.com.au",
+      "url": "https://themarketonline.com.au/market-open-asx-will-require-close-watch-today-after-mixed-us-signals-2026-11-26/",
+      "cross_verified": true,
+      "published_at": "2026-11-25T22:05:36.000000Z"
+    },
+    {
+      "title": "Dow Jones Futures: Market Goes On Wild Ride. Nasdaq, Nvidia Slash Losses While Anthropic Reverses Higher.",
+      "title_ko": "다우존스 선물: 시장이 급등락세를 보였다. 나스닥과 엔비디아는 하락폭을 줄인 반면, 앤트로픽은 반등했다.",
+      "snippet": "Dow Jones futures: It was a wild market ride, but the Dow and Anthropic reversed higher while the Nasdaq and Nvidia came well off lows.",
+      "snippet_ko": "다우존스 선물: 시장이 격동적인 움직임을 보였지만, 다우지수와 앤트로픽은 반등해 상승세를 보였고, 나스닥과 엔비디아는 장중 저점에서 크게 반등했다.",
+      "symbol": "NVDA",
+      "sentiment_score": -0.6605,
+      "source": "investors.com",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/",
+      "cross_verified": true,
+      "published_at": "2026-11-25T21:55:28.000000Z"
+    },
     {
       "title": "Wall Street Breakfast Podcast: 'Line Up And Wait' Adds To Holiday Travel Frets",
       "title_ko": "월스트리트 브렉퍼스트 팟캐스트: ‘줄 서서 기다리기’가 연휴 여행에 대한 우려를 더하고 있다",
@@ -2343,66 +2403,6 @@
       "url": "https://www.nytimes.com/live/2026/11/18/business/dealbook-summit-news/heres-the-latest-on-the-2026-dealbook-summit",
       "cross_verified": true,
       "published_at": "2026-11-18T10:25:35.000000Z"
-    },
-    {
-      "title": "Tech and Retail Resilience Drive Modest Gains as Investors Eye Nvidia Earnings",
-      "title_ko": "투자자들이 엔비디아 실적을 주시하는 가운데, 기술 및 소매업종의 회복세가 소폭 상승을 이끌었다",
-      "snippet": "The U.S. stock market showed resilience on Tuesday, November 17th, 2026, as investors balanced a busy retail earnings schedule against the anticipation of",
-      "snippet_ko": "2026년 11월 17일 화요일, 미국 증시는 투자자들이 바쁜 소매업체 실적 발표 일정을 고려하는 한편, ~에 대한 기대감을 조율하면서 탄력적인 모습을 보였다.",
-      "symbol": "DIS",
-      "sentiment_score": 0.1683,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-retail-resilience-drive-modest-gains-as-investors-eye-nvidia-earnings/74851/",
-      "cross_verified": true,
-      "published_at": "2026-11-17T22:07:17.000000Z"
-    },
-    {
-      "title": "Anthropic is about to have the biggest IPO of all time: Is it too late to buy in?",
-      "title_ko": "앤트로픽이 사상 최대 규모의 기업공개(IPO)를 앞두고 있다: 지금 매수하기에는 너무 늦은 걸까?",
-      "snippet": "AI firm Anthropic plans a historic IPO seeking to raise up to $64.35 billion at a $1.4 trillion valuation, with 20% reserved for retail buyers.",
-      "snippet_ko": "AI 기업 앤트로픽(Anthropic)은 기업 가치 1조 4천억 달러를 기준으로 최대 643억 5천만 달러를 조달하기 위한 역사적인 기업공개(IPO)를 계획 중이며, 이 중 20%는 개인 투자자들에게 배정될 예정이다.",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.1666,
-      "source": "nypost.com",
-      "url": "https://nypost.com/2026/11/17/business/is-it-too-late-to-participate-in-anthropics-big-ipo-on-nov-19/",
-      "cross_verified": true,
-      "published_at": "2026-11-17T21:00:00.000000Z"
-    },
-    {
-      "title": "Broadcom Inc. (AVGO)’s AI Business Is Fueling Its Next Phase of Long-Term Growth",
-      "title_ko": "브로드컴(AVGO)의 AI 사업이 회사의 다음 단계 장기 성장을 견인하고 있다",
-      "snippet": "We just published our list, Ken Fisher Portfolio Review: 10 Highest-Conviction Technology Stocks for Long-Term Growth, and Broadcom Inc. ranked 8th on this list.",
-      "snippet_ko": "방금 ‘켄 피셔 포트폴리오 리뷰: 장기 성장을 위한 가장 확신이 가는 기술주 10선’이라는 목록을 발표했는데, 브로드컴(Broadcom Inc.)이 이 목록에서 8위를 차지했습니다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.5033,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/broadcom-inc-avgos-ai-business-is-fueling-its-next-phase-of-long-term-growth-1866685/",
-      "cross_verified": true,
-      "published_at": "2026-11-17T20:21:41.000000Z"
-    },
-    {
-      "title": "Stocks to watch: IIFL Finance, Grasim, Axis Bank, HCL Tech, RITES, Airtel",
-      "title_ko": "주목할 종목: IIFL 파이낸스, 그라심, 액시스 은행, HCL 테크, RITES, 에어텔",
-      "snippet": "Stocks to watch today: IIFL Finance, Grasim Industries, Axis Bank, HCL Tech, RITES, Bharti Airtel, Signature Global, Prestige Estates, among others, will be in action today",
-      "snippet_ko": "오늘 주목할 종목: IIFL 파이낸스, 그라심 인더스트리즈, 액시스 뱅크, HCL 테크, RITES, 바르티 에어텔, 시그니처 글로벌, 프레스티지 에스테이츠 등이 오늘 활발한 등락을 보일 전망이다.",
-      "symbol": "NVDA",
-      "sentiment_score": -0.0815,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/markets/news/stocks-to-watch-iifl-finance-grasim-axis-bank-hcl-tech-rites-airtel-126111800141_1.html",
-      "cross_verified": true,
-      "published_at": "2026-11-18T02:44:07.000000Z"
-    },
-    {
-      "title": "Stock Market LIVE: GIFT Nifty down over 100 pts; Asian markets mixed post Nvidia's Q3 beat",
-      "title_ko": "주식 시장 실시간: GIFT 니프티 지수 100포인트 이상 하락; 엔비디아의 3분기 실적 호조에 아시아 증시 혼조세",
-      "snippet": "Sensex Today | Stock Market LIVE Updates Wednesday: The GIFT Nifty indicated a gap-down open for the Nifty50 index. Asian markets were mixed",
-      "snippet_ko": "오늘의 센섹스 | 수요일 주식 시장 실시간 업데이트: GIFT 니프티는 니프티50 지수가 갭다운으로 개장할 것임을 시사했다. 아시아 증시는 혼조세를 보였다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.0666,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/markets/news/stock-market-live-november-18-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-hero-motocorp-share-price-hcltech-stock-price-today-ipo-today-126111800134_1.html",
-      "cross_verified": true,
-      "published_at": "2026-11-18T02:31:56.000000Z"
     }
   ]
 }
