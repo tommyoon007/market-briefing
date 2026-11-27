@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-27T04:01:11.196030+00:00",
+  "updated_at": "2026-11-27T13:44:55.968310+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Alico: Forget The Earnings, Focus On The Acreage",
+      "title_ko": "알리코: 실적은 잊고, 경작 면적에 주목하라",
+      "snippet": "Alico (ALCO) stock is a buy, as land sales support a $47.13-per-share valuation, or 26.4% upside, without assuming tremendous development success.",
+      "snippet_ko": "Alico(ALCO) 주식은 매수할 만한 종목입니다. 토지 매각 실적이 주당 47.13달러의 기업 가치를 뒷받침하고 있으며, 이는 개발 사업이 엄청난 성공을 거둘 것이라는 가정을 하지 않더라도 26.4%의 상승 여력을 의미합니다.",
+      "symbol": "",
+      "sentiment_score": -0.1132,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4972520-alico-forget-earnings-focus-on-acreage",
+      "cross_verified": true,
+      "published_at": "2026-11-27T13:17:48.000000Z"
+    },
+    {
+      "title": "Li Auto: Revenues Turnaround In Q3, But Risks Persist",
+      "title_ko": "리오토: 3분기 매출 반등했으나 위험 요인은 여전",
+      "snippet": "Analyst rates Li Auto a Hold as revenue growth turns around and margins stay stable; weakness in China's consumer economy and EV market could derail it.",
+      "snippet_ko": "매출 성장세가 반전되고 마진이 안정적인 가운데, 애널리스트는 리오토에 대해 ‘보유(Hold)’ 등급을 부여했으나, 중국 소비 경기와 전기차 시장의 부진이 이 같은 추세를 저해할 수 있다고 지적했다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4972517-li-auto-revenues-turnaround-in-q3-but-risks-persist",
+      "cross_verified": true,
+      "published_at": "2026-11-27T13:04:51.000000Z"
+    },
+    {
+      "title": "Huntington Bancshares Preferreds Rating Updates",
+      "title_ko": "헌팅턴 뱅크셰어스 우선주 신용등급 업데이트",
+      "snippet": "Huntington Bancshares Incorporated preferred HBANP is a Buy, as its 4.5% coupon suggests it could be called last, despite a lower yield than HBANM and HBANZ.",
+      "snippet_ko": "헌팅턴 뱅크셰어스(Huntington Bancshares Incorporated)의 우선주 HBANP는 매수 추천입니다. 이 종목의 4.5% 쿠폰 금리 덕분에 HBANM 및 HBANZ보다 수익률은 낮지만, 가장 마지막에 상환될 가능성이 높기 때문입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4971883-huntington-bancshares-preferreds-rating-updates",
+      "cross_verified": true,
+      "published_at": "2026-11-27T13:00:00.000000Z"
+    },
     {
       "title": "America's Weapons \"Cupboard\" Will Soon Be Full, Trump Says",
       "title_ko": "트럼프, “미국의 무기 ‘창고’가 곧 가득 찰 것”이라고 말해",
@@ -1165,45 +1201,81 @@
       "url": "https://seekingalpha.com/article/4966671-brown-and-brown-inc-bro-employer-health-and-benefits-strategy-survey-results-review",
       "cross_verified": true,
       "published_at": "2026-11-11T23:58:52.000000Z"
-    },
-    {
-      "title": "[DowJonesToday]Dow Jones Gains Ground Amid Industrial Strength and AI Momentum",
-      "title_ko": "[DowJonesToday] 산업주 강세와 AI 상승세에 힘입어 다우존스 지수 상승",
-      "snippet": "The Dow Jones Industrial Average (^DJI) was up 98.78 (0.1891%) points today, currently trading at 52,330.67, while Dow Futures (YM=F) was up 83.00 (0.1587%)",
-      "snippet_ko": "다우존스 산업평균지수(^DJI)는 오늘 98.78포인트(0.1891%) 상승해 현재 52,330.67을 기록하고 있으며, 다우 선물(YM=F)은 83.00포인트(0.1587%) 상승했다.",
-      "symbol": "",
-      "sentiment_score": 0.6808,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/dowjonestodaydow-jones-gains-ground-amid-industrial-strength-and-ai-momentum/74525/",
-      "cross_verified": true,
-      "published_at": "2026-11-11T17:09:16.000000Z"
-    },
-    {
-      "title": "Deutsche Bank Crypto Custody Goes Live After 41-Month Wait",
-      "title_ko": "41개월 만에 도이체방크 암호화폐 수탁 서비스 본격 가동",
-      "snippet": "Deutsche Bank crypto custody is live for paying clients, 41 months after the BaFin filing, with the MiCA entry passported across all 30 EEA states.",
-      "snippet_ko": "도이체방크의 암호화폐 보관 서비스가 유료 고객을 대상으로 정식 출시되었으며, 이는 BaFin에 신청서를 제출한 지 41개월 만의 일로, MiCA 등록을 통해 유럽경제지역(EEA) 30개국 전역에서 서비스가 제공된다.",
-      "symbol": "",
-      "sentiment_score": 0.1027,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/deutsche-bank-crypto-custody-live-bafin/",
-      "cross_verified": true,
-      "published_at": "2026-11-11T08:45:24.000000Z"
-    },
-    {
-      "title": "Electromed, Inc. (ELMD) Q1 2027 Earnings Call Transcript",
-      "title_ko": "Electromed, Inc. (ELMD) 2027년 1분기 실적 발표 전화 회의 기록",
-      "snippet": "Electromed, Inc. (ELMD) Q1 2027 Earnings Call November 10, 2026 5:00 PM ESTCompany ParticipantsJames Cunniff - President, CEO & DirectorBrad Nagel -...",
-      "snippet_ko": "Electromed, Inc. (ELMD) 2027년 1분기 실적 발표 컨퍼런스 콜 2026년 11월 10일 오후 5:00 (미국 동부 표준시) 회사 참석자 제임스 커니프 - 사장, CEO 겸 이사 브래드 나겔 -...",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4966085-electromed-inc-elmd-q1-2027-earnings-call-transcript",
-      "cross_verified": true,
-      "published_at": "2026-11-11T08:30:54.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Global Markets Rally as OPEC+ Signals Stability; ECB Survey Shows Rising Inflation Expectations",
+      "title_ko": "OPEC+가 안정 신호를 보내면서 글로벌 시장이 반등; ECB 조사 결과 인플레이션 기대치 상승",
+      "snippet": "OPEC+ members have reached an agreement in principle to keep oil production targets unchanged for the first quarter of 2027. According to sources familiar",
+      "snippet_ko": "OPEC+ 회원국들은 2027년 1분기 원유 생산 목표를 현행대로 유지하기로 원칙적으로 합의했다. 정통한 소식통에 따르면",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.3081,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/global-markets-rally-as-opec-signals-stability-ecb-survey-shows-rising-inflation-expectations/75355/",
+      "cross_verified": true,
+      "published_at": "2026-11-27T09:38:19.000000Z"
+    },
+    {
+      "title": "Don't Begrudge Anthropic's Millionaires, We Need Many More",
+      "title_ko": "앤트로픽의 백만장자들을 시기하지 마세요. 우리에겐 더 많은 백만장자가 필요합니다.",
+      "snippet": "On November 19, Anthropic, the company behind the Claude AI models, began trading on the Nasdaq at a valuation of about $1.5 trillion. Thousands of its roughly 5,300 employees became millionaires on p",
+      "snippet_ko": "11월 19일, ‘클로드(Claude)’ AI 모델을 개발한 기업인 앤트로픽(Anthropic)이 약 1조 5천억 달러의 기업 가치를 바탕으로 나스닥에 상장했다. 약 5,300명의 직원 중 수천 명이 이 상장으로 백만장자가 되었다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.8625,
+      "source": "realclearmarkets.com",
+      "url": "https://www.realclearmarkets.com/articles/2026/11/27/dont_begrudge_anthropics_millionaires_we_need_many_more_1223634.html",
+      "cross_verified": true,
+      "published_at": "2026-11-27T06:00:00.000000Z"
+    },
+    {
+      "title": "Can Amazon (AMZN) Turn Its AWS Growth Outlook Into Cash?",
+      "title_ko": "아마존(AMZN)은 AWS의 성장 전망을 실제 수익으로 전환할 수 있을까?",
+      "snippet": "Amazon.com, Inc. (NASDAQ:AMZN) is seventh in 10 High-Conviction Stocks Billionaire Philippe Laffont Is Betting On for 2027, as AWS growth expectations put infrastructure spending in focus.",
+      "snippet_ko": "아마존닷컴(Amazon.com, Inc., 나스닥: AMZN)은 AWS의 성장 전망에 힘입어 인프라 지출이 주목받으면서, 억만장자 필립 라퐁(Philippe Laffont)이 2027년을 대비해 주목하는 ‘확신이 강한 10대 종목’ 중 7위를 차지했다.",
+      "symbol": "AMZN",
+      "sentiment_score": 0.3818,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/can-amazon-amzn-turn-its-aws-growth-outlook-into-cash-1868734/",
+      "cross_verified": true,
+      "published_at": "2026-11-27T03:52:40.000000Z"
+    },
+    {
+      "title": "Can the AI Mineral Rush Advance a Just Green Transition?",
+      "title_ko": "AI 광물 붐이 공정한 녹색 전환을 촉진할 수 있을까?",
+      "snippet": "Suneeta Kaimal thinks the scales can be tipped away from exploitation and toward equity for mineral-producing countries.",
+      "snippet_ko": "수니타 카이말은 광물 생산국들이 착취에서 벗어나 형평성을 실현할 수 있을 것이라고 생각한다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.765,
+      "source": "project-syndicate.org",
+      "url": "https://www.project-syndicate.org/commentary/ai-mineral-rush-can-advance-just-equitable-transition-by-suneeta-kaimal-2026-11",
+      "cross_verified": true,
+      "published_at": "2026-11-27T11:45:29.000000Z"
+    },
+    {
+      "title": "Stocks Could Fall 20% As Huang Fails to Revive AI Boom, Research Firm Warns",
+      "title_ko": "리서치 업체, “황 씨가 AI 붐을 되살리지 못할 경우 주가가 20% 하락할 수 있다”고 경고",
+      "snippet": "Capital Economics said it saw the S&P 500 dropping as much as 20% next year as momentum in the AI trade slows.",
+      "snippet_ko": "캐피털 이코노믹스는 AI 관련 주식의 상승세가 주춤해짐에 따라 내년에 S&P 500 지수가 최대 20%까지 하락할 것으로 전망했다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.5106,
+      "source": "businessinsider.com",
+      "url": "https://www.businessinsider.com/stock-market-drop-sp500-prediction-jensen-huang-ai-bubble-2026-11",
+      "cross_verified": true,
+      "published_at": "2026-11-27T10:40:02.000000Z"
+    },
+    {
+      "title": "Green Friday: US futures and global stocks jump in a post-Thanksgiving rally",
+      "title_ko": "그린 프라이데이: 추수감사절 이후 랠리에 힘입어 미국 선물 시장과 글로벌 증시가 급등",
+      "snippet": "US stocks rallied in premarket trading on Friday as investors shrugged off concerns about AI spending, interest-rate hikes, and stricter regulations.",
+      "snippet_ko": "금요일 장전 거래에서 미국 증시는 투자자들이 인공지능(AI) 관련 지출, 금리 인상, 규제 강화에 대한 우려를 떨쳐내면서 강세를 보였다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.3996,
+      "source": "businessinsider.com",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-thanksgiving-ai-spending-tech-rates-regulation-2026-11",
+      "cross_verified": true,
+      "published_at": "2026-11-27T10:39:22.000000Z"
+    },
     {
       "title": "Alphabet: You're Getting Anthropic For Free",
       "title_ko": "Alphabet: Anthropic 서비스를 무료로 이용하실 수 있습니다",
@@ -2331,78 +2403,6 @@
       "url": "https://fortune.com/2026/11/19/nvidia-funding-deal-anthropic-ipo/",
       "cross_verified": true,
       "published_at": "2026-11-19T10:26:31.000000Z"
-    },
-    {
-      "title": "Anthropic Prices $81.3 Billion IPO at $83 Ahead of Nasdaq Debut",
-      "title_ko": "앤트로픽, 나스닥 상장 앞두고 813억 달러 규모 IPO 주당 83달러로 책정",
-      "snippet": "The $83 price is approximately 6.4% above the previous range's upper limit. It also places Anthropic's estimated fully diluted valuation near $1.5 trillion,",
-      "snippet_ko": "83달러라는 가격은 이전 가격 범위의 상한선보다 약 6.4% 높은 수준입니다. 또한 이로 인해 앤트로픽의 완전 희석 기준 추정 기업 가치는 1.5조 달러에 육박하며,",
-      "symbol": "AVGO",
-      "sentiment_score": -0.181,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/anthropic-prices-81-3-billion-ipo-at-83-ahead-of-nasdaq-debut/",
-      "cross_verified": true,
-      "published_at": "2026-11-19T00:26:33.000000Z"
-    },
-    {
-      "title": "Immutep Reports Encouraging Disease-Free Survival from EFTISARC-NEO Phase II Trial in Soft Tissue Sarcoma",
-      "title_ko": "이뮤텝, 연조직 육종 대상 EFTISARC-NEO 2상 임상시험에서 고무적인 무병 생존율 발표",
-      "snippet": "Poster presented today at CTOS 2026 expands on the survival data first reported in the abstract (announced 11 November 2026), which showed a 12-month disease-free survival (DFS) of 81.1% in patients with resectable soft tissue sarcoma.Patients with post-treatment tumour-infiltrating lymphocyte (TIL) levels above 310 cells/mm² had 95.0% 12-month DFS compared with 64.9% in patients with lower TIL levels.Patients with treatment-related hyalinisation and fibrosis greater than 52% had 93.8% 12-month DFS compared with 71.4% in patients with lower levels.Results build on previously reported strong pathological responses and further support the potential of efti-based combination therapy.SYDNEY, AUSTRALIA, Nov. 19, 2026 (GLOBE NEWSWIRE) -- Immutep Limited (ASX: IMM; NASDAQ: IMMP) ('Immutep” or the 'Company”), a clinical-stage biotechnology company developing novel LAG-3 immunotherapies for cancer and autoimmune diseases, today announced new data from the investigator-initiated EFTISARC-NEO Phase II study presented at the Connective Tissue Oncology Society (CTOS) 2026 Annual Meeting (Poster number P 448).",
-      "snippet_ko": "오늘 CTOS 2026에서 발표된 포스터는 (2026년 11월 11일 발표된) 초록에서 최초로 보고된 생존 데이터를 더욱 상세히 다루고 있으며, 이 데이터에 따르면 절제 가능한 연조직 육종 환자에서 12개월 무병 생존율(DFS)이 81.1%로 나타났습니다.치료 후 종양 침윤 림프구(TIL) 수치가 310세포/mm² 이상인 환자의 12개월 DFS는 95.0%였던 반면, TIL 수치가 더 낮은 환자의 경우 64.9%를 기록했다.치료 관련 유리화 및 섬유화 비율이 52%를 초과한 환자의 12개월 DFS율은 93.8%였으며,",
-      "symbol": "MRK",
-      "sentiment_score": 0.0805,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/11/19/tmt-newswire/globenewswire/immutep-reports-encouraging-disease-free-survival-from-eftisarc-neo-phase-ii-trial-in-soft-tissue-sarcoma/2473663",
-      "cross_verified": true,
-      "published_at": "2026-11-19T00:26:30.000000Z"
-    },
-    {
-      "title": "‘70% chance’ we’re already in an AI bubble: The economist who said ‘not yet’ in January now sees all four horsemen of the bubble apocalypse",
-      "title_ko": "우리가 이미 AI 버블에 빠져 있을 ‘70%의 가능성’: 지난 1월 “아직 아니다”라고 말했던 경제학자가 이제 버블 종말의 ‘네 기수’가 모두 나타났다고 보고 있다",
-      "snippet": "Owen Lamont told Fortune in January that the stock market wasn’t in an AI bubble. Now he’s mostly convinced. “I think there is a 70% chance that as of No...",
-      "snippet_ko": "오웬 라몬트는 지난 1월 포춘지와의 인터뷰에서 주식 시장이 AI 버블에 빠져 있지 않다고 말했습니다. 이제 그는 그 점에 대해 거의 확신하고 있습니다. “제 생각에는 11월 기준으로...",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.7445,
-      "source": "fortune.com",
-      "url": "https://fortune.com/2026/11/18/ai-bubble-owen-lamont-70-percent-four-horsemen-stock-issuance-anthropic-ipo/",
-      "cross_verified": true,
-      "published_at": "2026-11-18T22:00:00.000000Z"
-    },
-    {
-      "title": "Anthropic Targets Record $100B IPO; Trump Signals Progress on Global Conflicts",
-      "title_ko": "앤트로픽, 사상 최대 규모인 1,000억 달러 규모 기업공개(IPO) 목표; 트럼프, 국제 분쟁 해결에 진전 신호",
-      "snippet": "Artificial intelligence startup Anthropic (ANT) has increased its IPO price ambitions, now targeting a range of $70 to $78 per share. The company is aiming",
-      "snippet_ko": "인공지능 스타트업 앤트로픽(ANT)이 기업공개(IPO) 가격 목표를 상향 조정해, 현재 주당 70~78달러 범위를 목표로 하고 있다. 이 회사는",
-      "symbol": "NVDA",
-      "sentiment_score": -0.5504,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/anthropic-targets-record-100b-ipo-trump-signals-progress-on-global-conflicts/74923/",
-      "cross_verified": true,
-      "published_at": "2026-11-19T01:08:15.000000Z"
-    },
-    {
-      "title": "Visa Unveils Next Generation of Subscription Management Solutions with Visa Recurrent",
-      "title_ko": "비자, ‘Visa Recurrent’를 통해 차세대 구독 관리 솔루션 공개",
-      "snippet": "**media[1315482]**Unveiled on day 2 of Singapore FinTech Festival (SFF) 2026, Visa Recurrent is a next-generation subscription management solution that gives consumers greater visibility and control while helping financial institutions and merchants reduce friction across the recurring payment lifecycleKiwibank, the largest New Zealand owned bank, is the first issuer globally to bring Visa Recurrent directly into its mobile banking app and internet bankingSINGAPORE, Nov. 19, 2026 /PRNewswire/ -- Visa, a world leader in digital payments, today announced Visa Recurrent, a new solution that connects consumers, financial institutions and participating merchants across the recurring payments lifecycle. It enables consumers to view and manage recurring payments through their financial institution's digital banking experiences, giving them greater visibility and control over recurring payments, at the same time helping financial institutions and merchants deliver more seamless payment experiences. Visa also announced that Kiwibank is the first issuer globally to deploy Visa Recurrent through its mobile banking app and internet banking, to help give Kiwibank customers a simpler way to understand and manage recurring payments commitments on a channel they already use and trust.",
-      "snippet_ko": "**media[1315482]**2026년 싱가포르 핀테크 페스티벌(SFF) 2일차에 공개된 ‘Visa Recurrent’는 소비자에게 더 나은 가시성과 제어권을 제공하는 동시에, 금융 기관과 가맹점이 정기 결제 라이프사이클 전반에 걸친 마찰을 줄일 수 있도록 돕는 차세대 구독 관리 솔루션입니다. 뉴질랜드 최대의 현지 은행인 키위뱅크(Kiwibank)는 전 세계에서 최초로 ‘Visa Recurrent’를 자사의 모바일 뱅킹 앱과 인터넷 뱅킹에 직접 도입한 카드 발급사입니다. 싱가포르, 2026년 11월 19일 /PRNewswire/ --",
-      "symbol": "V",
-      "sentiment_score": 0.0,
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/11/19/tmt-newswire/pr-newswire/visa-unveils-next-generation-of-subscription-management-solutions-with-visa-recurrent/2473658",
-      "cross_verified": true,
-      "published_at": "2026-11-19T00:25:19.000000Z"
-    },
-    {
-      "title": "Meta: Financial Engineering Masks The Real Debt Burden",
-      "title_ko": "메타: 금융 공학이 실제 부채 부담을 가리고 있다",
-      "snippet": "Meta is well-positioned for strong earnings growth, aided by ARPU growth in international markets, monetization of undermonetized assets, and AI monetization.",
-      "snippet_ko": "메타는 해외 시장의 ARPU 증가, 수익화가 미흡했던 자산의 수익화, 그리고 AI를 통한 수익화 등에 힘입어 강력한 실적 성장을 이룰 유리한 입지에 있습니다.",
-      "symbol": "META",
-      "sentiment_score": -0.5682,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4969706-meta-financial-engineering-masks-the-real-debt-burden",
-      "cross_verified": true,
-      "published_at": "2026-11-18T17:25:07.000000Z"
     }
   ]
 }
