@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-27T13:44:55.968310+00:00",
+  "updated_at": "2026-11-27T22:35:56.617853+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "KRE: Regional Banks Offer Diversification In An AI-Dominated World",
+      "title_ko": "KRE: AI가 주도하는 세상에서 지역 은행이 제공하는 투자 다각화",
+      "snippet": "Analyst reiterates a Buy on KRE at roughly 11x forward earnings, with 2027 earnings growth likely and upside if EPS estimates keep rising.",
+      "snippet_ko": "한 애널리스트는 KRE에 대해 향후 주당순이익(EPS)의 약 11배 수준에서 ‘매수’ 의견을 재확인했으며, 2027년 수익 성장이 예상되고 EPS 추정치가 계속 상승할 경우 추가 상승 여력이 있을 것으로 전망했다.",
+      "symbol": "",
+      "sentiment_score": 0.5106,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4972645-kre-regional-banks-offer-diversification-in-an-ai-dominated-world",
+      "cross_verified": true,
+      "published_at": "2026-11-27T21:08:32.000000Z"
+    },
+    {
+      "title": "Costco: I'd Rather Spend $1,000 On Black Friday Than Buy Its Stock",
+      "title_ko": "코스트코: 코스트코 주식을 사는 것보다 블랙 프라이데이에 1,000달러를 쓰는 편이 낫다",
+      "snippet": "Analyst sees Costco Wholesale Corp. as overpriced at 47x earnings, with a 6.5% estimated return offering little risk upside versus Treasuries and the S&P 500.",
+      "snippet_ko": "한 애널리스트는 코스트코 홀세일(Costco Wholesale Corp.)의 주가수익비율(PER)이 47배로 과대평가되었다고 보고 있으며, 예상 수익률 6.5%는 미국 국채나 S&P 500 지수에 비해 상승 여력이 거의 없다고 분석했다.",
+      "symbol": "",
+      "sentiment_score": 0.7311,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4972642-costco-id-rather-spend-1000-on-black-friday-than-buy-its-stock",
+      "cross_verified": true,
+      "published_at": "2026-11-27T20:04:18.000000Z"
+    },
     {
       "title": "Alico: Forget The Earnings, Focus On The Acreage",
       "title_ko": "알리코: 실적은 잊고, 경작 면적에 주목하라",
@@ -1177,33 +1201,69 @@
       "url": "https://seekingalpha.com/article/4966845-leg-immobilien-se-2026-q3-results-earnings-call-presentation",
       "cross_verified": true,
       "published_at": "2026-11-12T08:31:14.000000Z"
-    },
-    {
-      "title": "ThreatBook Named a \"Strong Performer\" in the Gartner® Voice of the Customer for NDR Report for the Fourth Consecutive Year",
-      "title_ko": "ThreatBook, 가트너®(Gartner®)의 ‘NDR 분야 고객의 목소리(Voice of the Customer)’ 보고서에서 4년 연속 “강력한 성과 기업(Strong Performer)”으로 선정",
-      "snippet": "/PRNewswire/ -- Recently, Gartner released its 2026",
-      "snippet_ko": "/PRNewswire/ -- 최근 가트너는 2026년 전망 보고서를 발표했다.",
-      "symbol": "",
-      "sentiment_score": 0.4299,
-      "source": "prnewswire.com",
-      "url": "https://www.prnewswire.com/apac/news-releases/threatbook-named-a-strong-performer-in-the-gartner-voice-of-the-customer-for-ndr-report-for-the-fourth-consecutive-year-302932910.html",
-      "cross_verified": true,
-      "published_at": "2026-11-12T00:00:00.000000Z"
-    },
-    {
-      "title": "Brown & Brown, Inc. (BRO) Employer Health and Benefits Strategy Survey Results Review Transcript",
-      "title_ko": "Brown & Brown, Inc. (BRO) 고용주 건강 및 복리후생 전략 설문조사 결과 검토 회의록",
-      "snippet": "Brown & Brown, Inc. (BRO) Employer Health and Benefits Strategy Survey Results Review November 11, 2026 2:00 PM ESTCompany ParticipantsErik Templin -...",
-      "snippet_ko": "Brown & Brown, Inc. (BRO) 고용주 건강 및 복리후생 전략 설문조사 결과 검토 2026년 11월 11일 오후 2:00 (미국 동부 표준시) 참가 기업 대표: Erik Templin -...",
-      "symbol": "",
-      "sentiment_score": 0.7,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4966671-brown-and-brown-inc-bro-employer-health-and-benefits-strategy-survey-results-review",
-      "cross_verified": true,
-      "published_at": "2026-11-11T23:58:52.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Nasdaq marks best week in 7 months as tech stocks rebound",
+      "title_ko": "기술주 반등에 힘입어 나스닥, 7개월 만에 최고 주간 실적을 기록",
+      "snippet": "The Nasdaq surged Friday for a 6.7% gain over the week – its best week in seven months – as stocks rebounded from a severe slump driven by anxieties around AI spending.",
+      "snippet_ko": "나스닥 지수는 금요일 급등하며 주간 기준 6.7% 상승을 기록, 7개월 만에 가장 좋은 주간 실적을 올렸는데, 이는 인공지능(AI) 관련 지출에 대한 우려로 인한 심각한 침체에서 주가가 반등한 데 따른 것이다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.6775,
+      "source": "nypost.com",
+      "url": "https://nypost.com/2026/11/27/business/nasdaq-marks-best-week-in-seven-months-as-tech-stocks-rebound/",
+      "cross_verified": true,
+      "published_at": "2026-11-27T20:53:19.000000Z"
+    },
+    {
+      "title": "Amazon’s AWS Profit Rose 55%. Can It Absorb a $220 Billion Capex Bill?",
+      "title_ko": "아마존의 AWS 순이익이 55% 증가했다. 2,200억 달러 규모의 설비투자 비용을 감당할 수 있을까?",
+      "snippet": "We recently published 10 Stocks That Should Double in 3 Years, where Amazon.com, Inc. (NASDAQ:AMZN) took the 10th spot. A stock can nearly double in three years without tapping into huge market hype.",
+      "snippet_ko": "최근 저희는 ‘3년 안에 주가가 두 배로 오를 것으로 예상되는 10개 종목’을 발표했는데, 아마존닷컴(Amazon.com, Inc., NASDAQ:AMZN)이 10위를 차지했습니다. 주식은 시장의 과열된 열기에 편승하지 않아도 3년 만에 주가가 거의 두 배로 오를 수 있습니다.",
+      "symbol": "AMZN",
+      "sentiment_score": -0.0979,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/amazons-aws-profit-rose-55-can-it-absorb-a-220-billion-capex-bill-1871307/",
+      "cross_verified": true,
+      "published_at": "2026-11-27T19:18:59.000000Z"
+    },
+    {
+      "title": "Top Stock Reports for Alphabet, Meta & Bank of America",
+      "title_ko": "알파벳, 메타, 뱅크 오브 아메리카에 대한 주요 주식 리포트",
+      "snippet": "Top stock reports for Alphabet, Meta and Bank of America spotlight AI-driven growth, advertising gains and rising interest income amid mounting cost pressures.",
+      "snippet_ko": "알파벳, 메타, 뱅크 오브 아메리카에 대한 주요 주식 보고서는 비용 압박이 가중되는 가운데 AI 주도 성장, 광고 수익 증가, 이자 수익 상승을 주목하고 있다.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.267,
+      "source": "zacks.com",
+      "url": "https://www.zacks.com/research-daily/3036261/top-stock-reports-for-alphabet-meta-bank-of-america?cid=CS-ZC-FT-research_daily-3036261",
+      "cross_verified": true,
+      "published_at": "2026-11-27T18:41:00.000000Z"
+    },
+    {
+      "title": "Tech and AI Stocks Surge as Markets Rally into the Holiday Weekend",
+      "title_ko": "연휴를 앞둔 주말을 맞아 시장이 반등하면서 기술주와 AI 관련주가 급등했다",
+      "snippet": "U.S. equity markets showed significant strength during Friday's afternoon trading session, as investors returned from the Thanksgiving holiday with a",
+      "snippet_ko": "추수감사절 연휴를 마치고 투자자들이 복귀하면서 금요일 오후 거래 시간 동안 미국 주식 시장은 상당한 강세를 보였으며,",
+      "symbol": "NVDA",
+      "sentiment_score": 0.2054,
+      "source": "thestockmarketwatch.com",
+      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-ai-stocks-surge-as-markets-rally-into-the-holiday-weekend/75384/",
+      "cross_verified": true,
+      "published_at": "2026-11-27T19:07:14.000000Z"
+    },
+    {
+      "title": "Anthropic Stock Jumps 11% to $91.88, Back Above $83 IPO",
+      "title_ko": "앤트로픽 주가 11% 급등해 91.88달러 기록, 공모가 83달러 다시 상회",
+      "snippet": "Anthropic (NASDAQ: ANT) rose 10.98% to $91.88 on Black Friday, reclaiming its $83 IPO price after two closes below it, with a lock-up release due Dec 15.",
+      "snippet_ko": "앤트로픽(나스닥: ANT)은 블랙 프라이데이 당일 10.98% 상승한 91.88달러를 기록하며, 2거래일 연속 공모가인 83달러 아래에서 마감한 후 다시 이 수준을 회복했다. 이 회사의 락업 해제일은 12월 15일이다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.296,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/ant-stock-at-91-88-back-above-its-83-ipo-price-on-black-friday/",
+      "cross_verified": true,
+      "published_at": "2026-11-27T18:42:54.000000Z"
+    },
     {
       "title": "Global Markets Rally as OPEC+ Signals Stability; ECB Survey Shows Rising Inflation Expectations",
       "title_ko": "OPEC+가 안정 신호를 보내면서 글로벌 시장이 반등; ECB 조사 결과 인플레이션 기대치 상승",
@@ -2343,66 +2403,6 @@
       "url": "https://seekingalpha.com/article/4970298-nvidia-the-worst-is-yet-to-come",
       "cross_verified": true,
       "published_at": "2026-11-19T20:37:27.000000Z"
-    },
-    {
-      "title": "Wall Street Breakfast Podcast: AI Goes Public, GTA VI Goes Global",
-      "title_ko": "월스트리트 브렉퍼스트 팟캐스트: AI 기업 상장, GTA VI의 글로벌 진출",
-      "snippet": "AI goes public as Anthropic prices the biggest IPO. Grand Theft Auto VI launches to near-perfect reviews after 13 years. Situational Awareness plots a leveraged trading comeback.",
-      "snippet_ko": "앤트로픽이 사상 최대 규모의 기업공개(IPO) 가격을 책정하며 AI 기업이 상장했다. 13년 만에 출시된 ‘그랜드 테프트 오토 VI’가 거의 만점에 가까운 호평을 받았다. 시추에셔널 어웨어니스가 레버리지 거래를 통해 재기를 노리고 있다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.3503,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4970059-wall-street-breakfast-podcast-ai-goes-public",
-      "cross_verified": true,
-      "published_at": "2026-11-19T12:16:00.000000Z"
-    },
-    {
-      "title": "Tech and AI Surge Drives Nasdaq Higher While Energy and Metals Retreat",
-      "title_ko": "기술주와 AI 관련주 급등에 힘입어 나스닥 지수가 상승한 반면, 에너지 및 금속주는 하락세를 보였다",
-      "snippet": "U.S. stock markets opened with a sharp divergence on Thursday, November 19th, 2026, as a massive rally in technology and artificial intelligence sectors",
-      "snippet_ko": "2026년 11월 19일 목요일, 미국 증시는 기술 및 인공지능 분야의 대규모 상승세에 힘입어 개장 초반부터 큰 폭의 엇갈린 흐름을 보였습니다.",
-      "symbol": "AMZN",
-      "sentiment_score": 0.2946,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-and-ai-surge-drives-nasdaq-higher-while-energy-and-metals-retreat/74943/",
-      "cross_verified": true,
-      "published_at": "2026-11-19T11:07:15.000000Z"
-    },
-    {
-      "title": "Tiger-backed Razorpay set to file for India IPO as early as next week",
-      "title_ko": "타이거 캐피털의 투자를 받은 레이저페이, 빠르면 다음 주 인도 기업공개(IPO) 신청 예정",
-      "snippet": "Tiger Global-backed Razorpay is preparing to file its IPO papers in India as early as next week, with investor roadshows expected to follow immediately. The Bengaluru-based fintech firm could launch its public offering as early as February, aiming to raise up to $600 million through a mix of fresh and secondary share sales.",
-      "snippet_ko": "타이거 글로벌의 투자를 받은 라저페이(Razorpay)가 빠르면 다음 주 인도에서 기업공개(IPO) 신청서를 제출할 준비를 하고 있으며, 이에 이어 곧바로 투자자 대상 로드쇼가 진행될 것으로 예상된다. 벵갈루루에 본사를 둔 이 핀테크 기업은 빠르면 2월에 공모를 시작할 예정이며, 신규 주식 발행과 기존 주식 매각을 병행해 최대 6억 달러를 조달하는 것을 목표로 하고 있다.",
-      "symbol": "META",
-      "sentiment_score": 0.0,
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/tiger-backed-razorpay-set-to-file-for-india-ipo-as-early-as-next-week/articleshow/135983381.cms",
-      "cross_verified": true,
-      "published_at": "2026-11-19T08:45:45.000000Z"
-    },
-    {
-      "title": "The bill for Trump’s trade war is coming due—at home and abroad",
-      "title_ko": "트럼프의 무역 전쟁에 따른 대가가 국내외에서 차례로 치러지고 있다",
-      "snippet": "Also: All the news and watercooler chat from Fortune.",
-      "snippet_ko": "또한: 포춘(Fortune)의 모든 뉴스와 사내 수다거리.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.4019,
-      "source": "fortune.com",
-      "url": "https://fortune.com/2026/11/19/trump-xi-putin-trade-war-shenzen/",
-      "cross_verified": true,
-      "published_at": "2026-11-19T10:56:25.000000Z"
-    },
-    {
-      "title": "$500 billion Nvidia funding deal turned out to be Scotch mist: ‘Capital ... is going to disappear'",
-      "title_ko": "5,000억 달러 규모의 엔비디아 자금 조달 계약은 허상으로 드러났다: “자본은… 사라질 것이다”",
-      "snippet": "Everything you need to know before you reach the office this morning.",
-      "snippet_ko": "오늘 아침 사무실에 도착하기 전에 꼭 알아두어야 할 모든 것.",
-      "symbol": "NVDA",
-      "sentiment_score": -0.089,
-      "source": "fortune.com",
-      "url": "https://fortune.com/2026/11/19/nvidia-funding-deal-anthropic-ipo/",
-      "cross_verified": true,
-      "published_at": "2026-11-19T10:26:31.000000Z"
     }
   ]
 }
