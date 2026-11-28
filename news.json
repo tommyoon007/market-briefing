@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-28T07:17:02.800406+00:00",
+  "updated_at": "2026-11-28T16:45:18.794665+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "Is Microsoft Office's Moat In Trouble?",
+      "title_ko": "마이크로소프트 오피스의 경쟁 우위가 위태로운가?",
+      "snippet": "Anthropic’s new productivity tools are taking aim at Microsoft Office, but can they break Microsoft’s grip on enterprise customers?",
+      "snippet_ko": "앤트로픽의 새로운 생산성 도구들은 마이크로소프트 오피스를 겨냥하고 있지만, 과연 마이크로소프트가 기업 고객 시장에서 차지하고 있는 지배력을 깨뜨릴 수 있을까?",
+      "symbol": "",
+      "sentiment_score": 0.5395,
+      "source": "flipboard.com",
+      "url": "https://www.fool.com/investing/2026/11/28/is-microsoft-office-s-moat-in-trouble/",
+      "cross_verified": true,
+      "published_at": "2026-11-28T15:00:02.000000Z"
+    },
+    {
+      "title": "Société Générale: French Political Risk Overshadows Improving Fundamentals",
+      "title_ko": "소시에테 제네랄: 개선되는 펀더멘털보다 프랑스 정치 리스크가 더 큰 부담으로 작용",
+      "snippet": "Société Générale is rated a Buy, seeing significant upside as Q3 net profit rose 24.1% and nine-month RoTE reached 12.3%.",
+      "snippet_ko": "소시에테 제네랄은 ‘매수’ 등급을 받았으며, 3분기 순이익이 24.1% 증가했고 9개월 누적 RoTE가 12.3%를 기록함에 따라 상당한 상승 여력이 있는 것으로 평가된다.",
+      "symbol": "",
+      "sentiment_score": -0.1406,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4972771-societe-generale-french-political-risk-overshadows-improving-fundamentals",
+      "cross_verified": true,
+      "published_at": "2026-11-28T14:57:18.000000Z"
+    },
     {
       "title": "The State Of REITs: November 2026 Edition",
       "title_ko": "REIT 현황: 2026년 11월호",
@@ -1177,33 +1201,69 @@
       "url": "https://seekingalpha.com/article/4967369-fortinet-inc-ftnt-presents-at-bmo-capital-technology-and-innovation-leaders-conference",
       "cross_verified": true,
       "published_at": "2026-11-12T23:59:13.000000Z"
-    },
-    {
-      "title": "Bit Digital outlines $865M 10-year NC-1 contract as 40MW begins billing, while weighing shareholder-approved buybacks",
-      "title_ko": "비트 디지털, 40MW 규모에 대한 청구 개시와 함께 8억 6,500만 달러 규모의 10년짜리 NC-1 계약 내용을 공개하는 한편, 주주들이 승인한 자사주 매입 방안도 검토 중",
-      "snippet": "Bit Digital says WhiteFiber's NC-1 is billing at 40 MW under an $865 million, 10-year contract; Q3 revenue fell to $27.1 million from $32.1 million.",
-      "snippet_ko": "비트 디지털(Bit Digital)에 따르면, 화이트파이버(WhiteFiber)의 NC-1은 8억 6,500만 달러 규모의 10년 계약에 따라 40MW에 대한 요금을 청구하고 있으며, 3분기 매출은 3,210만 달러에서 2,710만 달러로 감소했다.",
-      "symbol": "",
-      "sentiment_score": 0.2615,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/news/4671644-bit-digital-outlines-865m-10-year-ncminus-1-contract-as-40mw-begins-billing-while-weighing",
-      "cross_verified": true,
-      "published_at": "2026-11-12T17:20:17.000000Z"
-    },
-    {
-      "title": "[DowJonesToday]Dow Jones Gains Momentum Amid Key Earnings and Economic Resilience",
-      "title_ko": "[DowJonesToday] 주요 기업 실적 발표와 경제 회복세 속에 다우존스 지수 상승세 이어가",
-      "snippet": "The Dow Jones Industrial Average (^DJI) was up 180.21 (0.34%) points today, reaching 52,666.70, while Dow Futures (YM=F) was up 151.00 (0.29%) points. The",
-      "snippet_ko": "오늘 다우존스 산업평균지수(^DJI)는 180.21포인트(0.34%) 상승한 52,666.70을 기록했으며, 다우 선물(YM=F)은 151.00포인트(0.29%) 상승했다. 이",
-      "symbol": "",
-      "sentiment_score": 0.7096,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/dowjonestodaydow-jones-gains-momentum-amid-key-earnings-and-economic-resilience/74589/",
-      "cross_verified": true,
-      "published_at": "2026-11-12T17:09:12.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "Elon Musk says Google willing to rent more compute from SpaceX",
+      "title_ko": "일론 머스크, 구글이 스페이스X로부터 더 많은 컴퓨팅 자원을 임대할 의향이 있다고 밝혀",
+      "snippet": "Elon Musk says Alphabet (GOOG) (GOOGL)-owned Google has shown interest in renting additional computing capacity from SpaceX (SPCX). Read more here.",
+      "snippet_ko": "일론 머스크는 알파벳(GOOG)(GOOGL) 산하 구글이 스페이스X(SPCX)로부터 추가 컴퓨팅 용량을 임대하는 데 관심을 보였다고 밝혔습니다. 자세한 내용은 여기에서 확인하세요.",
+      "symbol": "GOOGL",
+      "sentiment_score": 0.4588,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4677117-musk-says-google-willing-rent-spacex-compute",
+      "cross_verified": true,
+      "published_at": "2026-11-28T13:53:20.000000Z"
+    },
+    {
+      "title": "Intel Stock $57.40: 12% Weekly Rebound in a Losing November",
+      "title_ko": "인텔 주가 57.40달러: 하락세를 보인 11월, 주간 12% 반등",
+      "snippet": "Intel closed at $57.40 on 27 November, up 11.9% for the week but still down for November after the PC warning. Week-ahead levels: $62.50 bull, $51.28 bear.",
+      "snippet_ko": "인텔 주가는 11월 27일 57.40달러로 장을 마감했으며, 주간 기준으로 11.9% 상승했으나 PC 관련 경고 발표 이후 11월 전체로는 여전히 하락세를 기록했다. 다음 주 목표 가격: 강세 시 62.50달러, 약세 시 51.28달러.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0669,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/intel-intc-stock-57-saturday-week-ahead-after-12-percent-weekly-rebound-bull-62-bear-51/",
+      "cross_verified": true,
+      "published_at": "2026-11-28T13:15:04.000000Z"
+    },
+    {
+      "title": "What Moved Markets This Week",
+      "title_ko": "이번 주 시장을 움직인 요인",
+      "snippet": "U.S. stocks rose this week as Nvidia reinstated Huang as CEO, and October core PCE inflation topped consensus. Read more about this week's major events on Wall Street.",
+      "snippet_ko": "이번 주 미국 증시는 엔비디아가 황 회장을 CEO로 복임시키고, 10월 핵심 PCE 인플레이션이 시장 예상치를 상회하면서 상승세를 보였다. 이번 주 월스트리트의 주요 소식에 대해 자세히 알아보세요.",
+      "symbol": "AVGO",
+      "sentiment_score": 0.0609,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4972757-what-moved-markets-this-week",
+      "cross_verified": true,
+      "published_at": "2026-11-28T11:41:25.000000Z"
+    },
+    {
+      "title": "Notable tech headlines for the week: Nvidia, Dell, and CrowdStrike in focus",
+      "title_ko": "이번 주 주목할 만한 기술 관련 뉴스: 엔비디아, 델, 크라우드스트라이크가 주목받고 있다",
+      "snippet": "Tech stocks diverged last week: Global Payments led S&P 500 technology gainers at 16.19%, while AMD fell 13.22%; Nasdaq rose 2.3% Friday.",
+      "snippet_ko": "지난주 기술주들의 주가 흐름은 엇갈렸다. 글로벌 페이먼츠(Global Payments)가 16.19% 상승하며 S&P 500 기술주 중 가장 큰 상승폭을 기록한 반면, AMD는 13.22% 하락했다. 나스닥 지수는 금요일 2.3% 상승했다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/news/4677081-notable-tech-headlines-for-the-week-nvidia-dell-and-crowdstrike-in-focus",
+      "cross_verified": true,
+      "published_at": "2026-11-28T15:05:34.000000Z"
+    },
+    {
+      "title": "Dow Jones 50,775: 995 Points Short of a Flat November",
+      "title_ko": "다우존스 50,775: 11월 보합세 달성까지 995포인트 부족",
+      "snippet": "The Dow closed at 50,774.94 on 27 November, up 5.5% for the week but 995 points short of a flat November. Jobs report Friday; bull 51,770, bear 49,595.",
+      "snippet_ko": "다우 지수는 11월 27일 50,774.94로 마감하며 주간 기준으로 5.5% 상승했으나, 11월 전체를 놓고 보면 보합세를 기록하기에는 995포인트가 부족했다. 금요일에는 고용 보고서가 발표될 예정이며, 강세론자들은 51,770, 약세론자들은 49,595를 예상하고 있다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.8658,
+      "source": "financefeeds.com",
+      "url": "https://financefeeds.com/dow-jones-50775-saturday-week-ahead-995-points-short-of-flat-november-bull-51770-bear-49595/",
+      "cross_verified": true,
+      "published_at": "2026-11-28T13:16:05.000000Z"
+    },
     {
       "title": "OpenAI says Apple pressured suppliers to shun its devices",
       "title_ko": "오픈AI는 애플이 공급업체들에게 자사 기기를 외면하도록 압력을 가했다고 밝혔다",
@@ -2343,66 +2403,6 @@
       "url": "https://fortune.com/2026/11/20/ai-stocks-selloff-anthropic-record-ipo-wall-street-split-top/",
       "cross_verified": true,
       "published_at": "2026-11-20T15:19:29.000000Z"
-    },
-    {
-      "title": "Tech Sector Slides as Dow Gains: Market Divergence Defines Friday Trading",
-      "title_ko": "다우 지수 상승 속 기술주 하락… 금요일 장, 시장 양극화 양상",
-      "snippet": "The U.S. stock market opened Friday, November 20th, 2026, with a notable divergence between blue-chip value stocks and the high-flying technology sector. As",
-      "snippet_ko": "2026년 11월 20일 금요일, 미국 증시는 우량 가치주와 급등세를 보였던 기술주 부문 간에 뚜렷한 격차를 보이며 개장했다.",
-      "symbol": "NVDA",
-      "sentiment_score": 0.605,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/tech-sector-slides-as-dow-gains-market-divergence-defines-friday-trading/75023/",
-      "cross_verified": true,
-      "published_at": "2026-11-20T15:07:15.000000Z"
-    },
-    {
-      "title": "Anthropic makes a $1.8 trillion debut: What investors should watch next",
-      "title_ko": "앤트로픽, 1조 8천억 달러 규모로 상장… 투자자들이 앞으로 주목해야 할 점",
-      "snippet": "Anthropic's blockbuster IPO marks a major moment for the AI industry, with the Claude maker raising a record $81.3 billion in its stock market debut on Thursday",
-      "snippet_ko": "앤트로픽의 대성공적인 기업공개(IPO)는 AI 업계에 있어 중요한 전환점이 되었으며, ‘클로드(Claude)’를 개발한 이 회사는 목요일 주식시장 데뷔를 통해 사상 최대 규모인 813억 달러를 조달했다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.5129,
-      "source": "business-standard.com",
-      "url": "https://www.business-standard.com/world-news/anthropic-ipo-stock-market-debut-valuation-investors-what-to-watch-next-126112000351_1.html",
-      "cross_verified": true,
-      "published_at": "2026-11-20T06:17:05.000000Z"
-    },
-    {
-      "title": "Anthropic shares fall 5% in after-hours after record $107.3 billion IPO",
-      "title_ko": "안트로픽, 사상 최대 규모인 1,073억 달러 규모의 기업공개(IPO) 이후 시간외 거래에서 주가가 5% 하락",
-      "snippet": "Debut pop of 17% pares amid AI selloff; company closes with $1.8 trillion valuation",
-      "snippet_ko": "AI 관련 매도세 속에 17%의 데뷔 상승폭이 축소되며, 해당 기업은 시가총액 1.8조 달러로 장을 마감했다.",
-      "symbol": "AAPL",
-      "sentiment_score": 0.0567,
-      "source": "thehindubusinessline.com",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/anthropic-shares-fall-5-in-after-hours-after-record-1073-billion-ipo/article71723092.ece",
-      "cross_verified": true,
-      "published_at": "2026-11-20T05:14:24.000000Z"
-    },
-    {
-      "title": "Still More Of The Latest Thoughts From American Technology Companies On AI (2026 Q3) : The Good Investors %",
-      "title_ko": "미국 기술 기업들의 AI에 대한 최신 견해, 그 외 (2026년 3분기) : The Good Investors %",
-      "snippet": "The Good Investors Still More Of The Latest Thoughts From American Technology Companies On AI (2026 Q3) General Investing :",
-      "snippet_ko": "The Good Investors: 미국 기술 기업들의 AI에 대한 최신 견해 추가 (2026년 3분기) 일반 투자 :",
-      "symbol": "GOOGL",
-      "sentiment_score": 0.3711,
-      "source": "thegoodinvestors.sg",
-      "url": "https://www.thegoodinvestors.sg/still-more-of-the-latest-thoughts-from-american-technology-companies-on-ai-2026-q3/",
-      "cross_verified": true,
-      "published_at": "2026-11-20T04:36:29.000000Z"
-    },
-    {
-      "title": "Global Markets Retreat as Tech Rout Deepens; Historic Trilateral Peace Declaration Issued in Shenzhen",
-      "title_ko": "기술주 폭락이 심화되며 글로벌 시장 하락세; 선전에서 역사적인 3자 평화 선언 발표",
-      "snippet": "In an unprecedented diplomatic breakthrough on the sidelines of the APEC summit in Shenzhen, U.S. President Donald Trump, Chinese President Xi Jinping, and",
-      "snippet_ko": "선전에서 열린 APEC 정상회의 기간 중 전례 없는 외교적 돌파구가 마련된 가운데, 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석, 그리고",
-      "symbol": "NVDA",
-      "sentiment_score": -0.6503,
-      "source": "thestockmarketwatch.com",
-      "url": "https://www2.stockmarketwatch.com/stock-market-news/global-markets-retreat-as-tech-rout-deepens-historic-trilateral-peace-declaration-issued-in-shenzhen/74995/",
-      "cross_verified": true,
-      "published_at": "2026-11-20T04:38:21.000000Z"
     }
   ]
 }
