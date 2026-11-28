@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-27T22:35:56.617853+00:00",
+  "updated_at": "2026-11-28T07:17:02.800406+00:00",
   "status": "ok",
   "market_news": [
+    {
+      "title": "The State Of REITs: November 2026 Edition",
+      "title_ko": "REIT 현황: 2026년 11월호",
+      "snippet": "REITs returned 0.94% in October after three losing months, led by large caps at 5.73%; advertising and self-storage gained 12.31% and 11.62%.",
+      "snippet_ko": "REIT는 3개월 연속 하락세를 보인 뒤 10월에 0.94%의 수익률을 기록했으며, 대형주가 5.73%로 가장 높은 상승률을 보였고, 광고 및 셀프 스토리지 부문은 각각 12.31%와 11.62% 상승했다.",
+      "symbol": "",
+      "sentiment_score": 0.8957,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4972700-the-state-of-reits-november-2026-edition",
+      "cross_verified": true,
+      "published_at": "2026-11-28T06:41:08.000000Z"
+    },
+    {
+      "title": "AXT Inc. (AXTI) Joins the Market’s Biggest Winners",
+      "title_ko": "AXT Inc. (AXTI), 시장 최대의 수혜주 대열에 합류",
+      "snippet": "AXT Inc. (NASDAQ:AXTI) is one of the 10 Stocks Outshining Wall Street's Biggest Winners.",
+      "snippet_ko": "AXT Inc. (나스닥:AXTI)는 월스트리트의 최고 상승주들을 능가하는 10대 종목 중 하나입니다.",
+      "symbol": "",
+      "sentiment_score": 0.4767,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/axt-inc-axti-joins-the-markets-biggest-winners-1871426/",
+      "cross_verified": true,
+      "published_at": "2026-11-28T06:23:50.000000Z"
+    },
+    {
+      "title": "SanDisk (SNDK) Just Unleashed Another Massive Rally",
+      "title_ko": "샌디스크(SNDK)가 또 한 번의 대폭등세를 기록했습니다",
+      "snippet": "SanDisk Corp. (NASDAQ:SNDK) is one of the 10 Stocks Outshining Wall Street's Biggest Winners.",
+      "snippet_ko": "샌디스크(SanDisk Corp., 나스닥: SNDK)는 월스트리트의 최대 수혜주들을 능가하는 10대 종목 중 하나입니다.",
+      "symbol": "",
+      "sentiment_score": 0.0,
+      "source": "insidermonkey.com",
+      "url": "https://www.insidermonkey.com/news/sandisk-sndk-just-unleashed-another-massive-rally-1871416/",
+      "cross_verified": true,
+      "published_at": "2026-11-28T06:14:28.000000Z"
+    },
     {
       "title": "KRE: Regional Banks Offer Diversification In An AI-Dominated World",
       "title_ko": "KRE: AI가 주도하는 세상에서 지역 은행이 제공하는 투자 다각화",
@@ -1165,45 +1201,69 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/dowjonestodaydow-jones-gains-momentum-amid-key-earnings-and-economic-resilience/74589/",
       "cross_verified": true,
       "published_at": "2026-11-12T17:09:12.000000Z"
-    },
-    {
-      "title": "Altius Minerals Corporation 2026 Q3 - Results - Earnings Call Presentation (TSX:ALS:CA) 2026-11-12",
-      "title_ko": "Altius Minerals Corporation 2026년 3분기 실적 - 실적 발표 전화 회의 프레젠테이션 (TSX:ALS:CA) 2026-11-12",
-      "snippet": "2026-11-12. The following slide deck was published by Altius Minerals Corporation in conjunction with their 2026 Q3 earnings call.",
-      "snippet_ko": "2026년 11월 12일. 다음 슬라이드 자료는 Altius Minerals Corporation이 2026년 3분기 실적 발표 회의와 함께 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4966847-altius-minerals-corporation-2026-q3-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-11-12T08:31:36.000000Z"
-    },
-    {
-      "title": "Ströer SE & Co. KGaA 2026 Q3 - Results - Earnings Call Presentation (OTCMKTS:SOTDY) 2026-11-12",
-      "title_ko": "Ströer SE & Co. KGaA 2026년 3분기 - 실적 - 실적 발표회 프레젠테이션 (OTCMKTS:SOTDY) 2026-11-12",
-      "snippet": "2026-11-12. The following slide deck was published by Ströer SE & Co.",
-      "snippet_ko": "2026년 11월 12일. 다음 슬라이드 자료는 Ströer SE & Co.에서 발행했습니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4966846-stroer-se-and-co-kgaa-2026-q3-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-11-12T08:31:26.000000Z"
-    },
-    {
-      "title": "LEG Immobilien SE 2026 Q3 - Results - Earnings Call Presentation (OTCMKTS:LEGIF) 2026-11-12",
-      "title_ko": "LEG Immobilien SE 2026년 3분기 실적 - 실적 발표 전화회의 프레젠테이션 (OTCMKTS:LEGIF) 2026-11-12",
-      "snippet": "2026-11-12. The following slide deck was published by LEG Immobilien SE in conjunction with their 2026 Q3 earnings call.",
-      "snippet_ko": "2026년 11월 12일. 다음 슬라이드 자료는 LEG Immobilien SE가 2026년 3분기 실적 발표와 함께 공개한 것입니다.",
-      "symbol": "",
-      "sentiment_score": 0.0,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4966845-leg-immobilien-se-2026-q3-results-earnings-call-presentation",
-      "cross_verified": true,
-      "published_at": "2026-11-12T08:31:14.000000Z"
     }
   ],
   "portfolio_news": [
+    {
+      "title": "OpenAI says Apple pressured suppliers to shun its devices",
+      "title_ko": "오픈AI는 애플이 공급업체들에게 자사 기기를 외면하도록 압력을 가했다고 밝혔다",
+      "snippet": "OpenAI accuses Apple of pressuring suppliers and stifling talent while Apple claims OpenAI stole confidential files in a widening trade secrets fight.",
+      "snippet_ko": "점점 격화되고 있는 영업비밀 분쟁 속에서, 오픈AI는 애플이 공급업체에 압력을 가하고 인재 영입을 방해했다고 비난하는 반면, 애플은 오픈AI가 기밀 파일을 훔쳤다고 주장하고 있다.",
+      "symbol": "AAPL",
+      "sentiment_score": -0.345,
+      "source": "thehindubusinessline.com",
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-says-apple-pressured-suppliers-to-shun-its-devices/article71753607.ece",
+      "cross_verified": true,
+      "published_at": "2026-11-28T05:00:22.000000Z"
+    },
+    {
+      "title": "HP Telecom's H1 revenue grows 85% to ₹1,800 crores: CEO Garima Mishra",
+      "title_ko": "HP 텔레콤의 상반기 매출, 85% 증가한 ₹1,800 크로어 기록: 가리마 미슈라 CEO",
+      "snippet": "HP Telecom reports an impressive 85% revenue growth in the first half of the fiscal year, reaching ₹1,800 crores. CEO Garima Mishra discusses plans for future growth, partnerships with domestic brands, and expanding market presence in India's tier-2 and tier-3 cities.",
+      "snippet_ko": "HP 텔레콤은 회계연도 상반기 매출이 85%라는 놀라운 성장률을 기록하며 ₹1,800 크로르에 달했다고 밝혔다. 가리마 미슈라 CEO는 향후 성장 계획, 국내 브랜드와의 파트너십, 그리고 인도 2·3선 도시에서의 시장 입지 확대에 대해 설명했다.",
+      "symbol": "AAPL",
+      "sentiment_score": 0.5781,
+      "source": "telecom.economictimes.indiatimes.com",
+      "url": "https://telecom.economictimes.indiatimes.com/news/devices/hp-telecoms-h1-revenue-grows-85-to-1800-crores-ceo-garima-mishra/136236782",
+      "cross_verified": true,
+      "published_at": "2026-11-28T02:33:57.000000Z"
+    },
+    {
+      "title": "The Roadmap Ahead",
+      "title_ko": "앞으로의 로드맵",
+      "snippet": "With the S&P 500 trading near historic valuations, we believe our Global Macro Fund’s long-term track record is particularly relevant today.",
+      "snippet_ko": "S&P 500 지수가 역사적 수준에 근접한 가격으로 거래되고 있는 상황에서, 당사의 글로벌 매크로 펀드가 쌓아온 장기적인 실적 기록이 오늘날 특히 의미가 있다고 생각합니다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.0677,
+      "source": "seekingalpha.com",
+      "url": "https://seekingalpha.com/article/4972692-roadmap-ahead",
+      "cross_verified": true,
+      "published_at": "2026-11-28T05:05:00.000000Z"
+    },
+    {
+      "title": "Wall St Week Ahead: Volatile stock market confronts jobs data, rate view as next tests",
+      "title_ko": "월스트리트 주간 전망: 변동성이 큰 주식시장, 다음 시험대로 고용 지표와 금리 전망에 직면",
+      "snippet": "Investor anxiety rises in response to ongoing fluctuations in AI stocks as the U.S. employment report draws near. The labor market data expected next week could significantly influence the Federal Reserve's interest rate strategies. Although Nvidia CEO Jensen Huang's reinstatement offered a momentary boost, doubts linger regarding the AI industry's stability.",
+      "snippet_ko": "미국 고용 보고서 발표가 다가오면서 AI 관련주들의 지속적인 등락에 투자자들의 불안감이 고조되고 있다. 다음 주 발표될 것으로 예상되는 노동시장 지표는 연방준비제도(Fed)의 금리 정책에 상당한 영향을 미칠 수 있다. 엔비디아의 젠슨 황 CEO가 복직하면서 일시적인 호재가 되었지만, AI 산업의 안정성에 대한 의구심은 여전히 남아 있다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.014,
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-st-week-ahead-volatile-stock-market-confronts-jobs-data-rate-view-as-next-tests/articleshow/136237710.cms",
+      "cross_verified": true,
+      "published_at": "2026-11-28T03:47:47.000000Z"
+    },
+    {
+      "title": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
+      "title_ko": "추수감사절로 인해 거래일이 단축된 이번 주, 월스트리트가 대반등을 펼쳤다",
+      "snippet": "Wall Street staged a strong rebound, with the S&P 500 posting its largest weekly gain in more than a year after last week's historic AI-driven sell-off.",
+      "snippet_ko": "월스트리트가 강력한 반등세를 보였으며, S&P 500 지수는 지난주 인공지능(AI) 관련 매도세 여파로 사상 최대 규모의 급락세를 기록한 후 1년여 만에 가장 큰 주간 상승폭을 기록했다.",
+      "symbol": "NVDA",
+      "sentiment_score": 0.7192,
+      "source": "foxbusiness.com",
+      "url": "https://www.foxbusiness.com/markets/wall-street-stages-major-comeback-thanksgiving-shortened-trading-week",
+      "cross_verified": true,
+      "published_at": "2026-11-28T02:00:10.000000Z"
+    },
     {
       "title": "Nasdaq marks best week in 7 months as tech stocks rebound",
       "title_ko": "기술주 반등에 힘입어 나스닥, 7개월 만에 최고 주간 실적을 기록",
@@ -2343,66 +2403,6 @@
       "url": "https://www2.stockmarketwatch.com/stock-market-news/global-markets-retreat-as-tech-rout-deepens-historic-trilateral-peace-declaration-issued-in-shenzhen/74995/",
       "cross_verified": true,
       "published_at": "2026-11-20T04:38:21.000000Z"
-    },
-    {
-      "title": "Anthropic (ANT) Closes Debut at $97.17: Bull $115, Bear $83",
-      "title_ko": "앤트로픽(ANT), 데뷔일 종가 97.17달러 기록: 강세론자 115달러, 약세론자 83달러",
-      "snippet": "Anthropic (ANT) closed its Nasdaq debut at $97.17, up 17.1% on its $83 IPO price. Our next ANT levels: bull $115, bear $83, and the dates that decide them.",
-      "snippet_ko": "앤트로픽(ANT)은 나스닥 상장 첫날 종가를 97.17달러로 마감하며, 공모가 83달러 대비 17.1% 상승했습니다. 향후 ANT의 주요 가격 수준은 강세 시나리오 115달러, 약세 시나리오 83달러이며, 이를 결정짓는 시점은 다음과 같습니다.",
-      "symbol": "AVGO",
-      "sentiment_score": 0.5363,
-      "source": "financefeeds.com",
-      "url": "https://financefeeds.com/anthropic-ant-stock-closes-debut-97-17-price-prediction/",
-      "cross_verified": true,
-      "published_at": "2026-11-19T21:03:07.000000Z"
-    },
-    {
-      "title": "Amazon warns NYC shoppers of potential $5 per-order increase over proposed delivery law",
-      "title_ko": "아마존, 뉴욕시 쇼핑객들에게 제안된 배송 법안으로 인해 주문당 5달러의 추가 비용이 발생할 수 있다고 경고",
-      "snippet": "Amazon warns New York City shoppers that a proposed delivery worker law could add up to $5 per order and is urging customers to contact City Council members.",
-      "snippet_ko": "아마존은 뉴욕시 소비자들에게 제안된 배달원 관련 법안이 주문당 최대 5달러의 추가 비용을 초래할 수 있다고 경고하며, 고객들에게 시의회 의원들에게 연락할 것을 촉구하고 있다.",
-      "symbol": "AMZN",
-      "sentiment_score": -0.1215,
-      "source": "foxbusiness.com",
-      "url": "https://www.foxbusiness.com/fox-news-tech/amazon-nyc-delivery-law-order-cost-increase",
-      "cross_verified": true,
-      "published_at": "2026-11-19T19:08:40.000000Z"
-    },
-    {
-      "title": "Analysts Are Bullish on This Blue Chip Stock: Should You Buy?",
-      "title_ko": "애널리스트들이 이 우량주에 대해 낙관적인 전망을 내놓고 있습니다: 매수해야 할까요?",
-      "snippet": "We just published the list of the 10 Best Blue Chip Stocks to Buy and Hold for 3 Years and Intel Corporation (INTC) took the 8th spot on the list.",
-      "snippet_ko": "저희는 방금 ‘3년간 매수 후 보유하기 좋은 블루칩 주식 10선’ 목록을 발표했는데, 인텔(INTC)이 이 목록에서 8위를 차지했습니다.",
-      "symbol": "INTC",
-      "sentiment_score": 0.6249,
-      "source": "insidermonkey.com",
-      "url": "https://www.insidermonkey.com/news/analysts-are-bullish-on-this-blue-chip-stock-should-you-buy-1866529/",
-      "cross_verified": true,
-      "published_at": "2026-11-19T19:08:38.000000Z"
-    },
-    {
-      "title": "Anthropic Is Public. Make Its Economics Work For You",
-      "title_ko": "Anthropic가 상장되었습니다. 이 회사의 경제 모델을 여러분에게 유리하게 활용하세요",
-      "snippet": "Anthropic is now a public company trading on Nasdaq under ANT. As it moves from private market promises to public market accountability, enterprises get something valuable: a quarterly view of whether frontier AI economics will work, better transparency and more buying power. In June, we argued that public markets would impose discipline and expected pricing […]",
-      "snippet_ko": "앤트로픽(Anthropic)은 현재 나스닥에 ANT라는 종목명으로 상장된 기업입니다. 이 회사가 비공개 시장의 약속에서 공개 시장의 책임으로 전환함에 따라, 기업들은 귀중한 이점을 얻게 됩니다. 바로 최첨단 AI 경제 모델이 실제로 작동할지 여부를 분기별로 파악할 수 있는 기회와, 향상된 투명성, 그리고 더 큰 구매력입니다. 지난 6월, 우리는 공개 시장이 규율을 강화하고 예상 가격을 […]",
-      "symbol": "MSFT",
-      "sentiment_score": 0.7351,
-      "source": "go.forrester.com",
-      "url": "https://www.forrester.com/blogs/anthropic-is-public-make-its-economics-work-for-you/",
-      "cross_verified": true,
-      "published_at": "2026-11-19T20:48:56.000000Z"
-    },
-    {
-      "title": "Nvidia: The Worst Is Yet To Come",
-      "title_ko": "엔비디아: 최악의 상황은 아직 오지 않았다",
-      "snippet": "Analyst rates Nvidia Corporation a Sell: its $137.55-per-share intrinsic value is 9.5% below the cited price as weekly revenue growth slows to roughly 4%.",
-      "snippet_ko": "한 애널리스트가 엔비디아(Nvidia Corporation)에 ‘매도’ 등급을 부여했다. 주당 137.55달러인 내재 가치는 제시된 주가보다 9.5% 낮은 수준이며, 주간 매출 성장률이 약 4%로 둔화되고 있다.",
-      "symbol": "NVDA",
-      "sentiment_score": -0.5326,
-      "source": "seekingalpha.com",
-      "url": "https://seekingalpha.com/article/4970298-nvidia-the-worst-is-yet-to-come",
-      "cross_verified": true,
-      "published_at": "2026-11-19T20:37:27.000000Z"
     }
   ]
 }
